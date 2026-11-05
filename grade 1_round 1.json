@@ -2,50 +2,6 @@
   "contest": "Trạng Nguyên Tiếng Việt",
   "grade": "KHOI_1",
   "level": "CAP_1_VONG_LOAI",
-  "totalQuestions": 1244,
-  "typeDistribution": {
-    "TN": 774,
-    "SX": 78,
-    "NOI": 170,
-    "CHON": 222
-  },
-  "knowledgeSource": "Nội dung nhập trực tiếp",
-  "sampleExamReport": {
-    "fileName": "sample_khoi1_TIENG_VIET_CAP_1.json",
-    "summary": "Đề mẫu phát hiện 45 câu hỏi. Tỷ lệ dạng bài: TN: 56%, SX: 11%, NOI: 11%, DT: 22%. Ước lượng phù hợp: KHOI_1 - CAP_1_VONG_LOAI.",
-    "typeCounts": {
-      "TN": 25,
-      "SX": 5,
-      "NOI": 5,
-      "DT": 10,
-      "CHON": 0
-    },
-    "detectedTopics": []
-  },
-  "exclusionReport": null,
-  "distractorVariationReport": {
-    "enabled": true,
-    "variantsGenerated": 15,
-    "description": "Giữ nguyên câu trả lời đúng, thay đổi các phương án sai (distractors) để tăng số lượng câu hỏi."
-  },
-  "deduplicationReport": {
-    "uniqueQuestions": 1244,
-    "uniquenessRate": "100%",
-    "rejectedStats": {
-      "duplicate_hash": 6754,
-      "high_jaccard_similarity": 57,
-      "template_overuse": 28759,
-      "failed_sanity_check": 0,
-      "excluded_by_user": 0,
-      "distractor_variant_overuse": 100
-    }
-  },
-  "questions": [
-
-{
-  "contest": "Trạng Nguyên Tiếng Việt",
-  "grade": "KHOI_1",
-  "level": "CAP_1_VONG_LOAI",
   "totalQuestions": 783,
   "typeDistribution": {
     "TN": 445,
@@ -54,53 +10,6 @@
     "CHON": 165
   },
   "knowledgeSource": "Nội dung nhập trực tiếp",
-  "sampleExamReport": {
-    "fileName": "sample_khoi1_TIENG_VIET_CAP_1.json",
-    "summary": "Đề mẫu phát hiện 45 câu hỏi. Tỷ lệ dạng bài: TN: 56%, SX: 11%, NOI: 11%, DT: 22%. Ước lượng phù hợp: KHOI_1 - CAP_1_VONG_LOAI.",
-    "typeCounts": {
-      "TN": 25,
-      "SX": 5,
-      "NOI": 5,
-      "DT": 10,
-      "CHON": 0
-    },
-    "detectedTopics": []
-  },
-  "exclusionReport": {
-    "reviewed": true,
-    "sourceFile": "grade 1_round 1.json",
-    "originalQuestions": 1244,
-    "removedQuestions": 43,
-    "remainingQuestions": 1201,
-    "removedByReason": {
-      "đáp án không khớp lời giải thích": 2,
-      "câu hỏi âm đầu có nhiều/không có phương án đúng duy nhất": 36,
-      "câu hỏi vần có đáp án sai hoặc không duy nhất": 5
-    },
-    
-    ]
-  },
-  "distractorVariationReport": {
-    "enabled": true,
-    "variantsGenerated": 15,
-    "description": "Giữ nguyên câu trả lời đúng, thay đổi các phương án sai (distractors) để tăng số lượng câu hỏi."
-  },
-  "deduplicationReport": {
-    "uniqueQuestions": 1201,
-    "uniquenessRate": "100%",
-    "rejectedStats": {
-      "duplicate_hash": 6754,
-      "high_jaccard_similarity": 57,
-      "template_overuse": 28759,
-      "failed_sanity_check": 0,
-      "excluded_by_user": 0,
-      "distractor_variant_overuse": 100
-    },
-    "duplicateQuestionAndCorrectAnswerRemoved": 418,
-    "questionsBeforeDeduplication": 1201,
-    "questionsAfterDeduplication": 783,
-    "deduplicationRule": "Chuẩn hóa khoảng trắng và chữ hoa/thường của câu hỏi; so sánh đáp án đúng theo nội dung (với TN, chuyển mã đáp án A/B/C/D thành nội dung phương án trước khi so sánh). Giữ câu xuất hiện đầu tiên."
-  },
   "questions": [
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -16939,3 +16848,4 @@
       "explanation": "Chọn tiếng 'xanh' để được cụm từ có nghĩa."
     }
   ]
+}
