@@ -30931,7 +30931,7 @@
       "level": "CAP_1_VONG_LOAI",
       "type": "DT",
       "questionId": "k5_c1_dt_2483",
-      "question": "Điền từ thích hợp vào câu sau; từ cần điền thuộc nhóm danh từ: “Con tàu lớn vừa cập ________ sau chuyến hải trình dài.” (ngữ cảnh 1).",
+      "question": "Điền từ thích hợp vào câu sau; từ cần điền thuộc nhóm danh từ: “Con tàu lớn vừa cập ________ sau chuyến hải trình dài.",
       "blankAnswer": "bến cảng",
       "answer": "bến cảng",
       "options": [
@@ -30942,81 +30942,14 @@
       ],
       "explanation": "“bến cảng” là danh từ, phù hợp với cấu trúc và ý nghĩa câu."
     },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_5",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "DT",
-      "questionId": "k5_c1_dt_2484",
-      "question": "Điền từ thích hợp vào câu sau; từ cần điền thuộc nhóm danh từ: “Con tàu lớn vừa cập ________ sau chuyến hải trình dài.” (ngữ cảnh 2).",
-      "blankAnswer": "bến cảng",
-      "answer": "bến cảng",
-      "options": [
-        "bảo tồn",
-        "bến cảng",
-        "nghiên cứu",
-        "trong trẻo"
-      ],
-      "explanation": "“bến cảng” là danh từ, phù hợp với cấu trúc và ý nghĩa câu."
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_5",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "DT",
-      "questionId": "k5_c1_dt_2485",
-      "question": "Điền từ thích hợp vào câu sau; từ cần điền thuộc nhóm danh từ: “Con tàu lớn vừa cập ________ sau chuyến hải trình dài.” (ngữ cảnh 3).",
-      "blankAnswer": "bến cảng",
-      "answer": "bến cảng",
-      "options": [
-        "nghiên cứu",
-        "trong trẻo",
-        "bến cảng",
-        "bảo tồn"
-      ],
-      "explanation": "“bến cảng” là danh từ, phù hợp với cấu trúc và ý nghĩa câu."
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_5",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "DT",
-      "questionId": "k5_c1_dt_2486",
-      "question": "Điền từ thích hợp vào câu sau; từ cần điền thuộc nhóm danh từ: “Con tàu lớn vừa cập ________ sau chuyến hải trình dài.” (ngữ cảnh 4).",
-      "blankAnswer": "bến cảng",
-      "answer": "bến cảng",
-      "options": [
-        "bảo tồn",
-        "nghiên cứu",
-        "trong trẻo",
-        "bến cảng"
-      ],
-      "explanation": "“bến cảng” là danh từ, phù hợp với cấu trúc và ý nghĩa câu."
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_5",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "DT",
-      "questionId": "k5_c1_dt_2487",
-      "question": "Điền từ thích hợp vào câu sau; từ cần điền thuộc nhóm danh từ: “Con tàu lớn vừa cập ________ sau chuyến hải trình dài.” (ngữ cảnh 5).",
-      "blankAnswer": "bến cảng",
-      "answer": "bến cảng",
-      "options": [
-        "nghiên cứu",
-        "bảo tồn",
-        "bến cảng",
-        "trong trẻo"
-      ],
-      "explanation": "“bến cảng” là danh từ, phù hợp với cấu trúc và ý nghĩa câu."
-    },
+    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_5",
       "level": "CAP_1_VONG_LOAI",
       "type": "DT",
       "questionId": "k5_c1_dt_2488",
-      "question": "Điền từ thích hợp vào câu sau; từ cần điền thuộc nhóm động từ: “Các nhà khoa học đang ________ mẫu nước ở con sông.” (ngữ cảnh 1).",
+      "question": "Điền từ thích hợp vào câu sau; từ cần điền thuộc nhóm động từ: “Các nhà khoa học đang ________ mẫu nước ở con sông.",
       "blankAnswer": "nghiên cứu",
       "answer": "nghiên cứu",
       "options": [
@@ -31027,81 +30960,14 @@
       ],
       "explanation": "“nghiên cứu” là động từ, phù hợp với cấu trúc và ý nghĩa câu."
     },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_5",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "DT",
-      "questionId": "k5_c1_dt_2489",
-      "question": "Điền từ thích hợp vào câu sau; từ cần điền thuộc nhóm động từ: “Các nhà khoa học đang ________ mẫu nước ở con sông.” (ngữ cảnh 2).",
-      "blankAnswer": "nghiên cứu",
-      "answer": "nghiên cứu",
-      "options": [
-        "trong trẻo",
-        "bảo tồn",
-        "bến cảng",
-        "nghiên cứu"
-      ],
-      "explanation": "“nghiên cứu” là động từ, phù hợp với cấu trúc và ý nghĩa câu."
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_5",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "DT",
-      "questionId": "k5_c1_dt_2490",
-      "question": "Điền từ thích hợp vào câu sau; từ cần điền thuộc nhóm động từ: “Các nhà khoa học đang ________ mẫu nước ở con sông.” (ngữ cảnh 3).",
-      "blankAnswer": "nghiên cứu",
-      "answer": "nghiên cứu",
-      "options": [
-        "nghiên cứu",
-        "trong trẻo",
-        "bảo tồn",
-        "bến cảng"
-      ],
-      "explanation": "“nghiên cứu” là động từ, phù hợp với cấu trúc và ý nghĩa câu."
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_5",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "DT",
-      "questionId": "k5_c1_dt_2491",
-      "question": "Điền từ thích hợp vào câu sau; từ cần điền thuộc nhóm động từ: “Các nhà khoa học đang ________ mẫu nước ở con sông.” (ngữ cảnh 4).",
-      "blankAnswer": "nghiên cứu",
-      "answer": "nghiên cứu",
-      "options": [
-        "bảo tồn",
-        "nghiên cứu",
-        "trong trẻo",
-        "bến cảng"
-      ],
-      "explanation": "“nghiên cứu” là động từ, phù hợp với cấu trúc và ý nghĩa câu."
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_5",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "DT",
-      "questionId": "k5_c1_dt_2492",
-      "question": "Điền từ thích hợp vào câu sau; từ cần điền thuộc nhóm động từ: “Các nhà khoa học đang ________ mẫu nước ở con sông.” (ngữ cảnh 5).",
-      "blankAnswer": "nghiên cứu",
-      "answer": "nghiên cứu",
-      "options": [
-        "nghiên cứu",
-        "bến cảng",
-        "trong trẻo",
-        "bảo tồn"
-      ],
-      "explanation": "“nghiên cứu” là động từ, phù hợp với cấu trúc và ý nghĩa câu."
-    },
+   
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_5",
       "level": "CAP_1_VONG_LOAI",
       "type": "DT",
       "questionId": "k5_c1_dt_2493",
-      "question": "Điền từ thích hợp vào câu sau; từ cần điền thuộc nhóm tính từ: “Tiếng suối chảy nghe thật ________ giữa núi rừng.” (ngữ cảnh 1).",
+      "question": "Điền từ thích hợp vào câu sau; từ cần điền thuộc nhóm tính từ: “Tiếng suối chảy nghe thật ________ giữa núi rừng.",
       "blankAnswer": "trong trẻo",
       "answer": "trong trẻo",
       "options": [
@@ -31112,81 +30978,14 @@
       ],
       "explanation": "“trong trẻo” là tính từ, phù hợp với cấu trúc và ý nghĩa câu."
     },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_5",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "DT",
-      "questionId": "k5_c1_dt_2494",
-      "question": "Điền từ thích hợp vào câu sau; từ cần điền thuộc nhóm tính từ: “Tiếng suối chảy nghe thật ________ giữa núi rừng.” (ngữ cảnh 2).",
-      "blankAnswer": "trong trẻo",
-      "answer": "trong trẻo",
-      "options": [
-        "nghiên cứu",
-        "bến cảng",
-        "trong trẻo",
-        "bảo tồn"
-      ],
-      "explanation": "“trong trẻo” là tính từ, phù hợp với cấu trúc và ý nghĩa câu."
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_5",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "DT",
-      "questionId": "k5_c1_dt_2495",
-      "question": "Điền từ thích hợp vào câu sau; từ cần điền thuộc nhóm tính từ: “Tiếng suối chảy nghe thật ________ giữa núi rừng.” (ngữ cảnh 3).",
-      "blankAnswer": "trong trẻo",
-      "answer": "trong trẻo",
-      "options": [
-        "nghiên cứu",
-        "bảo tồn",
-        "trong trẻo",
-        "bến cảng"
-      ],
-      "explanation": "“trong trẻo” là tính từ, phù hợp với cấu trúc và ý nghĩa câu."
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_5",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "DT",
-      "questionId": "k5_c1_dt_2496",
-      "question": "Điền từ thích hợp vào câu sau; từ cần điền thuộc nhóm tính từ: “Tiếng suối chảy nghe thật ________ giữa núi rừng.” (ngữ cảnh 4).",
-      "blankAnswer": "trong trẻo",
-      "answer": "trong trẻo",
-      "options": [
-        "bến cảng",
-        "nghiên cứu",
-        "trong trẻo",
-        "bảo tồn"
-      ],
-      "explanation": "“trong trẻo” là tính từ, phù hợp với cấu trúc và ý nghĩa câu."
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_5",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "DT",
-      "questionId": "k5_c1_dt_2497",
-      "question": "Điền từ thích hợp vào câu sau; từ cần điền thuộc nhóm tính từ: “Tiếng suối chảy nghe thật ________ giữa núi rừng.” (ngữ cảnh 5).",
-      "blankAnswer": "trong trẻo",
-      "answer": "trong trẻo",
-      "options": [
-        "nghiên cứu",
-        "bảo tồn",
-        "trong trẻo",
-        "bến cảng"
-      ],
-      "explanation": "“trong trẻo” là tính từ, phù hợp với cấu trúc và ý nghĩa câu."
-    },
+    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_5",
       "level": "CAP_1_VONG_LOAI",
       "type": "DT",
       "questionId": "k5_c1_dt_2498",
-      "question": "Điền từ thích hợp vào câu sau; từ cần điền thuộc nhóm động từ: “Mỗi người cần chung tay ________ di sản văn hóa.” (ngữ cảnh 1).",
+      "question": "Điền từ thích hợp vào câu sau; từ cần điền thuộc nhóm động từ: “Mỗi người cần chung tay ________ di sản văn hóa.",
       "blankAnswer": "bảo tồn",
       "answer": "bảo tồn",
       "options": [
@@ -31197,81 +30996,14 @@
       ],
       "explanation": "“bảo tồn” là động từ, phù hợp với cấu trúc và ý nghĩa câu."
     },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_5",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "DT",
-      "questionId": "k5_c1_dt_2499",
-      "question": "Điền từ thích hợp vào câu sau; từ cần điền thuộc nhóm động từ: “Mỗi người cần chung tay ________ di sản văn hóa.” (ngữ cảnh 2).",
-      "blankAnswer": "bảo tồn",
-      "answer": "bảo tồn",
-      "options": [
-        "nghiên cứu",
-        "trong trẻo",
-        "bến cảng",
-        "bảo tồn"
-      ],
-      "explanation": "“bảo tồn” là động từ, phù hợp với cấu trúc và ý nghĩa câu."
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_5",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "DT",
-      "questionId": "k5_c1_dt_2500",
-      "question": "Điền từ thích hợp vào câu sau; từ cần điền thuộc nhóm động từ: “Mỗi người cần chung tay ________ di sản văn hóa.” (ngữ cảnh 3).",
-      "blankAnswer": "bảo tồn",
-      "answer": "bảo tồn",
-      "options": [
-        "bảo tồn",
-        "trong trẻo",
-        "bến cảng",
-        "nghiên cứu"
-      ],
-      "explanation": "“bảo tồn” là động từ, phù hợp với cấu trúc và ý nghĩa câu."
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_5",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "DT",
-      "questionId": "k5_c1_dt_2501",
-      "question": "Điền từ thích hợp vào câu sau; từ cần điền thuộc nhóm động từ: “Mỗi người cần chung tay ________ di sản văn hóa.” (ngữ cảnh 4).",
-      "blankAnswer": "bảo tồn",
-      "answer": "bảo tồn",
-      "options": [
-        "bảo tồn",
-        "trong trẻo",
-        "nghiên cứu",
-        "bến cảng"
-      ],
-      "explanation": "“bảo tồn” là động từ, phù hợp với cấu trúc và ý nghĩa câu."
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_5",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "DT",
-      "questionId": "k5_c1_dt_2502",
-      "question": "Điền từ thích hợp vào câu sau; từ cần điền thuộc nhóm động từ: “Mỗi người cần chung tay ________ di sản văn hóa.” (ngữ cảnh 5).",
-      "blankAnswer": "bảo tồn",
-      "answer": "bảo tồn",
-      "options": [
-        "bến cảng",
-        "nghiên cứu",
-        "bảo tồn",
-        "trong trẻo"
-      ],
-      "explanation": "“bảo tồn” là động từ, phù hợp với cấu trúc và ý nghĩa câu."
-    },
+    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_5",
       "level": "CAP_1_VONG_LOAI",
       "type": "DT",
       "questionId": "k5_c1_dt_2503",
-      "question": "Điền từ thích hợp vào câu sau; từ cần điền thuộc nhóm tính từ: “Những chiến sĩ đã chiến đấu vô cùng ________.” (ngữ cảnh 1).",
+      "question": "Điền từ thích hợp vào câu sau; từ cần điền thuộc nhóm tính từ: “Những chiến sĩ đã chiến đấu vô cùng ________.",
       "blankAnswer": "kiên cường",
       "answer": "kiên cường",
       "options": [
@@ -31282,81 +31014,14 @@
       ],
       "explanation": "“kiên cường” là tính từ, phù hợp với cấu trúc và ý nghĩa câu."
     },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_5",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "DT",
-      "questionId": "k5_c1_dt_2504",
-      "question": "Điền từ thích hợp vào câu sau; từ cần điền thuộc nhóm tính từ: “Những chiến sĩ đã chiến đấu vô cùng ________.” (ngữ cảnh 2).",
-      "blankAnswer": "kiên cường",
-      "answer": "kiên cường",
-      "options": [
-        "nghiên cứu",
-        "kiên cường",
-        "bến cảng",
-        "trong trẻo"
-      ],
-      "explanation": "“kiên cường” là tính từ, phù hợp với cấu trúc và ý nghĩa câu."
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_5",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "DT",
-      "questionId": "k5_c1_dt_2505",
-      "question": "Điền từ thích hợp vào câu sau; từ cần điền thuộc nhóm tính từ: “Những chiến sĩ đã chiến đấu vô cùng ________.” (ngữ cảnh 3).",
-      "blankAnswer": "kiên cường",
-      "answer": "kiên cường",
-      "options": [
-        "bến cảng",
-        "kiên cường",
-        "nghiên cứu",
-        "trong trẻo"
-      ],
-      "explanation": "“kiên cường” là tính từ, phù hợp với cấu trúc và ý nghĩa câu."
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_5",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "DT",
-      "questionId": "k5_c1_dt_2506",
-      "question": "Điền từ thích hợp vào câu sau; từ cần điền thuộc nhóm tính từ: “Những chiến sĩ đã chiến đấu vô cùng ________.” (ngữ cảnh 4).",
-      "blankAnswer": "kiên cường",
-      "answer": "kiên cường",
-      "options": [
-        "nghiên cứu",
-        "bến cảng",
-        "kiên cường",
-        "trong trẻo"
-      ],
-      "explanation": "“kiên cường” là tính từ, phù hợp với cấu trúc và ý nghĩa câu."
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_5",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "DT",
-      "questionId": "k5_c1_dt_2507",
-      "question": "Điền từ thích hợp vào câu sau; từ cần điền thuộc nhóm tính từ: “Những chiến sĩ đã chiến đấu vô cùng ________.” (ngữ cảnh 5).",
-      "blankAnswer": "kiên cường",
-      "answer": "kiên cường",
-      "options": [
-        "bến cảng",
-        "trong trẻo",
-        "kiên cường",
-        "nghiên cứu"
-      ],
-      "explanation": "“kiên cường” là tính từ, phù hợp với cấu trúc và ý nghĩa câu."
-    },
+   
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_5",
       "level": "CAP_1_VONG_LOAI",
       "type": "DT",
       "questionId": "k5_c1_dt_2508",
-      "question": "Điền từ thích hợp vào câu sau; từ cần điền thuộc nhóm danh từ: “Chúng em bày tỏ ________ với thầy cô.” (ngữ cảnh 1).",
+      "question": "Điền từ thích hợp vào câu sau; từ cần điền thuộc nhóm danh từ: “Chúng em bày tỏ ________ với thầy cô.",
       "blankAnswer": "lòng biết ơn",
       "answer": "lòng biết ơn",
       "options": [
@@ -31367,81 +31032,14 @@
       ],
       "explanation": "“lòng biết ơn” là danh từ, phù hợp với cấu trúc và ý nghĩa câu."
     },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_5",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "DT",
-      "questionId": "k5_c1_dt_2509",
-      "question": "Điền từ thích hợp vào câu sau; từ cần điền thuộc nhóm danh từ: “Chúng em bày tỏ ________ với thầy cô.” (ngữ cảnh 2).",
-      "blankAnswer": "lòng biết ơn",
-      "answer": "lòng biết ơn",
-      "options": [
-        "nghiên cứu",
-        "trong trẻo",
-        "lòng biết ơn",
-        "bến cảng"
-      ],
-      "explanation": "“lòng biết ơn” là danh từ, phù hợp với cấu trúc và ý nghĩa câu."
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_5",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "DT",
-      "questionId": "k5_c1_dt_2510",
-      "question": "Điền từ thích hợp vào câu sau; từ cần điền thuộc nhóm danh từ: “Chúng em bày tỏ ________ với thầy cô.” (ngữ cảnh 3).",
-      "blankAnswer": "lòng biết ơn",
-      "answer": "lòng biết ơn",
-      "options": [
-        "bến cảng",
-        "nghiên cứu",
-        "lòng biết ơn",
-        "trong trẻo"
-      ],
-      "explanation": "“lòng biết ơn” là danh từ, phù hợp với cấu trúc và ý nghĩa câu."
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_5",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "DT",
-      "questionId": "k5_c1_dt_2511",
-      "question": "Điền từ thích hợp vào câu sau; từ cần điền thuộc nhóm danh từ: “Chúng em bày tỏ ________ với thầy cô.” (ngữ cảnh 4).",
-      "blankAnswer": "lòng biết ơn",
-      "answer": "lòng biết ơn",
-      "options": [
-        "lòng biết ơn",
-        "trong trẻo",
-        "nghiên cứu",
-        "bến cảng"
-      ],
-      "explanation": "“lòng biết ơn” là danh từ, phù hợp với cấu trúc và ý nghĩa câu."
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_5",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "DT",
-      "questionId": "k5_c1_dt_2512",
-      "question": "Điền từ thích hợp vào câu sau; từ cần điền thuộc nhóm danh từ: “Chúng em bày tỏ ________ với thầy cô.” (ngữ cảnh 5).",
-      "blankAnswer": "lòng biết ơn",
-      "answer": "lòng biết ơn",
-      "options": [
-        "trong trẻo",
-        "lòng biết ơn",
-        "nghiên cứu",
-        "bến cảng"
-      ],
-      "explanation": "“lòng biết ơn” là danh từ, phù hợp với cấu trúc và ý nghĩa câu."
-    },
+    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_5",
       "level": "CAP_1_VONG_LOAI",
       "type": "DT",
       "questionId": "k5_c1_dt_2513",
-      "question": "Điền từ thích hợp vào câu sau; từ cần điền thuộc nhóm động từ: “Đội viên đến ________ gia đình chính sách.” (ngữ cảnh 1).",
+      "question": "Điền từ thích hợp vào câu sau; từ cần điền thuộc nhóm động từ: “Đội viên đến ________ gia đình chính sách.",
       "blankAnswer": "thăm hỏi",
       "answer": "thăm hỏi",
       "options": [
@@ -31452,81 +31050,14 @@
       ],
       "explanation": "“thăm hỏi” là động từ, phù hợp với cấu trúc và ý nghĩa câu."
     },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_5",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "DT",
-      "questionId": "k5_c1_dt_2514",
-      "question": "Điền từ thích hợp vào câu sau; từ cần điền thuộc nhóm động từ: “Đội viên đến ________ gia đình chính sách.” (ngữ cảnh 2).",
-      "blankAnswer": "thăm hỏi",
-      "answer": "thăm hỏi",
-      "options": [
-        "thăm hỏi",
-        "trong trẻo",
-        "nghiên cứu",
-        "bến cảng"
-      ],
-      "explanation": "“thăm hỏi” là động từ, phù hợp với cấu trúc và ý nghĩa câu."
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_5",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "DT",
-      "questionId": "k5_c1_dt_2515",
-      "question": "Điền từ thích hợp vào câu sau; từ cần điền thuộc nhóm động từ: “Đội viên đến ________ gia đình chính sách.” (ngữ cảnh 3).",
-      "blankAnswer": "thăm hỏi",
-      "answer": "thăm hỏi",
-      "options": [
-        "nghiên cứu",
-        "trong trẻo",
-        "bến cảng",
-        "thăm hỏi"
-      ],
-      "explanation": "“thăm hỏi” là động từ, phù hợp với cấu trúc và ý nghĩa câu."
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_5",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "DT",
-      "questionId": "k5_c1_dt_2516",
-      "question": "Điền từ thích hợp vào câu sau; từ cần điền thuộc nhóm động từ: “Đội viên đến ________ gia đình chính sách.” (ngữ cảnh 4).",
-      "blankAnswer": "thăm hỏi",
-      "answer": "thăm hỏi",
-      "options": [
-        "nghiên cứu",
-        "bến cảng",
-        "thăm hỏi",
-        "trong trẻo"
-      ],
-      "explanation": "“thăm hỏi” là động từ, phù hợp với cấu trúc và ý nghĩa câu."
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_5",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "DT",
-      "questionId": "k5_c1_dt_2517",
-      "question": "Điền từ thích hợp vào câu sau; từ cần điền thuộc nhóm động từ: “Đội viên đến ________ gia đình chính sách.” (ngữ cảnh 5).",
-      "blankAnswer": "thăm hỏi",
-      "answer": "thăm hỏi",
-      "options": [
-        "nghiên cứu",
-        "thăm hỏi",
-        "trong trẻo",
-        "bến cảng"
-      ],
-      "explanation": "“thăm hỏi” là động từ, phù hợp với cấu trúc và ý nghĩa câu."
-    },
+    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_5",
       "level": "CAP_1_VONG_LOAI",
       "type": "DT",
       "questionId": "k5_c1_dt_2518",
-      "question": "Điền từ thích hợp vào câu sau; từ cần điền thuộc nhóm tính từ: “Cánh đồng trải rộng ________ dưới chân đê.” (ngữ cảnh 1).",
+      "question": "Điền từ thích hợp vào câu sau; từ cần điền thuộc nhóm tính từ: “Cánh đồng trải rộng ________ dưới chân đê.",
       "blankAnswer": "mênh mông",
       "answer": "mênh mông",
       "options": [
@@ -31537,74 +31068,7 @@
       ],
       "explanation": "“mênh mông” là tính từ, phù hợp với cấu trúc và ý nghĩa câu."
     },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_5",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "DT",
-      "questionId": "k5_c1_dt_2519",
-      "question": "Điền từ thích hợp vào câu sau; từ cần điền thuộc nhóm tính từ: “Cánh đồng trải rộng ________ dưới chân đê.” (ngữ cảnh 2).",
-      "blankAnswer": "mênh mông",
-      "answer": "mênh mông",
-      "options": [
-        "mênh mông",
-        "bến cảng",
-        "trong trẻo",
-        "nghiên cứu"
-      ],
-      "explanation": "“mênh mông” là tính từ, phù hợp với cấu trúc và ý nghĩa câu."
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_5",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "DT",
-      "questionId": "k5_c1_dt_2520",
-      "question": "Điền từ thích hợp vào câu sau; từ cần điền thuộc nhóm tính từ: “Cánh đồng trải rộng ________ dưới chân đê.” (ngữ cảnh 3).",
-      "blankAnswer": "mênh mông",
-      "answer": "mênh mông",
-      "options": [
-        "bến cảng",
-        "trong trẻo",
-        "nghiên cứu",
-        "mênh mông"
-      ],
-      "explanation": "“mênh mông” là tính từ, phù hợp với cấu trúc và ý nghĩa câu."
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_5",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "DT",
-      "questionId": "k5_c1_dt_2521",
-      "question": "Điền từ thích hợp vào câu sau; từ cần điền thuộc nhóm tính từ: “Cánh đồng trải rộng ________ dưới chân đê.” (ngữ cảnh 4).",
-      "blankAnswer": "mênh mông",
-      "answer": "mênh mông",
-      "options": [
-        "trong trẻo",
-        "bến cảng",
-        "nghiên cứu",
-        "mênh mông"
-      ],
-      "explanation": "“mênh mông” là tính từ, phù hợp với cấu trúc và ý nghĩa câu."
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_5",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "DT",
-      "questionId": "k5_c1_dt_2522",
-      "question": "Điền từ thích hợp vào câu sau; từ cần điền thuộc nhóm tính từ: “Cánh đồng trải rộng ________ dưới chân đê.” (ngữ cảnh 5).",
-      "blankAnswer": "mênh mông",
-      "answer": "mênh mông",
-      "options": [
-        "trong trẻo",
-        "mênh mông",
-        "nghiên cứu",
-        "bến cảng"
-      ],
-      "explanation": "“mênh mông” là tính từ, phù hợp với cấu trúc và ý nghĩa câu."
-    },
+    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_5",
@@ -36656,7 +36120,7 @@
       "level": "CAP_1_VONG_LOAI",
       "type": "NOI",
       "questionId": "k5_c1_noi_2801",
-      "question": "Nối các mục ở Cột A với nội dung tương ứng ở Cột B (nhóm từ trái nghĩa số 1):",
+      "question": "Nối các mục ở Cột A với nội dung tương ứng ở Cột B (1):",
       "columnA": {
         "1": "gần gũi",
         "2": "quyết chí",
@@ -36683,7 +36147,7 @@
       "level": "CAP_1_VONG_LOAI",
       "type": "NOI",
       "questionId": "k5_c1_noi_2802",
-      "question": "Nối các mục ở Cột A với nội dung tương ứng ở Cột B (nhóm từ trái nghĩa số 2):",
+      "question": "Nối các mục ở Cột A với nội dung tương ứng ở Cột B (2):",
       "columnA": {
         "1": "ấp úng",
         "2": "bằng phẳng",
@@ -36710,7 +36174,7 @@
       "level": "CAP_1_VONG_LOAI",
       "type": "NOI",
       "questionId": "k5_c1_noi_2803",
-      "question": "Nối các mục ở Cột A với nội dung tương ứng ở Cột B (nhóm từ trái nghĩa số 3):",
+      "question": "Nối các mục ở Cột A với nội dung tương ứng ở Cột B (3):",
       "columnA": {
         "1": "giữ gìn",
         "2": "trật tự",
@@ -36737,7 +36201,7 @@
       "level": "CAP_1_VONG_LOAI",
       "type": "NOI",
       "questionId": "k5_c1_noi_2804",
-      "question": "Nối các mục ở Cột A với nội dung tương ứng ở Cột B (nhóm từ trái nghĩa số 4):",
+      "question": "Nối các mục ở Cột A với nội dung tương ứng ở Cột B (4):",
       "columnA": {
         "1": "chính nghĩa",
         "2": "lịch sự",
@@ -36764,7 +36228,7 @@
       "level": "CAP_1_VONG_LOAI",
       "type": "NOI",
       "questionId": "k5_c1_noi_2805",
-      "question": "Nối các mục ở Cột A với nội dung tương ứng ở Cột B (nhóm từ trái nghĩa số 5):",
+      "question": "Nối các mục ở Cột A với nội dung tương ứng ở Cột B (5):",
       "columnA": {
         "1": "kiêu căng",
         "2": "thận trọng",
@@ -36791,7 +36255,7 @@
       "level": "CAP_1_VONG_LOAI",
       "type": "NOI",
       "questionId": "k5_c1_noi_2806",
-      "question": "Nối các mục ở Cột A với nội dung tương ứng ở Cột B (nhóm từ trái nghĩa số 6):",
+      "question": "Nối các mục ở Cột A với nội dung tương ứng ở Cột B (6):",
       "columnA": {
         "1": "biến mất",
         "2": "ngay ngắn",
@@ -36818,7 +36282,7 @@
       "level": "CAP_1_VONG_LOAI",
       "type": "NOI",
       "questionId": "k5_c1_noi_2807",
-      "question": "Nối các mục ở Cột A với nội dung tương ứng ở Cột B (nhóm từ trái nghĩa số 7):",
+      "question": "Nối các mục ở Cột A với nội dung tương ứng ở Cột B (7):",
       "columnA": {
         "1": "phi pháp",
         "2": "rộng rãi",
@@ -36845,7 +36309,7 @@
       "level": "CAP_1_VONG_LOAI",
       "type": "NOI",
       "questionId": "k5_c1_noi_2808",
-      "question": "Nối các mục ở Cột A với nội dung tương ứng ở Cột B (nhóm từ trái nghĩa số 8):",
+      "question": "Nối các mục ở Cột A với nội dung tương ứng ở Cột B (8):",
       "columnA": {
         "1": "bí mật",
         "2": "thong thả",
@@ -36872,7 +36336,7 @@
       "level": "CAP_1_VONG_LOAI",
       "type": "NOI",
       "questionId": "k5_c1_noi_2809",
-      "question": "Nối các mục ở Cột A với nội dung tương ứng ở Cột B (nhóm từ trái nghĩa số 9):",
+      "question": "Nối các mục ở Cột A với nội dung tương ứng ở Cột B (9):",
       "columnA": {
         "1": "chia li",
         "2": "chính diện",
@@ -36899,7 +36363,7 @@
       "level": "CAP_1_VONG_LOAI",
       "type": "NOI",
       "questionId": "k5_c1_noi_2810",
-      "question": "Nối các mục ở Cột A với nội dung tương ứng ở Cột B (nhóm từ trái nghĩa số 10):",
+      "question": "Nối các mục ở Cột A với nội dung tương ứng ở Cột B (10):",
       "columnA": {
         "1": "cứng cỏi",
         "2": "san sát",
@@ -36926,7 +36390,7 @@
       "level": "CAP_1_VONG_LOAI",
       "type": "NOI",
       "questionId": "k5_c1_noi_2811",
-      "question": "Nối các mục ở Cột A với nội dung tương ứng ở Cột B (nhóm từ trái nghĩa số 11):",
+      "question": "Nối các mục ở Cột A với nội dung tương ứng ở Cột B (11):",
       "columnA": {
         "1": "đông đúc",
         "2": "đơn giản",
@@ -36953,7 +36417,7 @@
       "level": "CAP_1_VONG_LOAI",
       "type": "NOI",
       "questionId": "k5_c1_noi_2812",
-      "question": "Nối các mục ở Cột A với nội dung tương ứng ở Cột B (nhóm từ trái nghĩa số 12):",
+      "question": "Nối các mục ở Cột A với nội dung tương ứng ở Cột B (12):",
       "columnA": {
         "1": "khô héo",
         "2": "hoang phí",
@@ -36980,7 +36444,7 @@
       "level": "CAP_1_VONG_LOAI",
       "type": "NOI",
       "questionId": "k5_c1_noi_2813",
-      "question": "Nối các mục ở Cột A với nội dung tương ứng ở Cột B (nhóm từ trái nghĩa số 13):",
+      "question": "Nối các mục ở Cột A với nội dung tương ứng ở Cột B (13):",
       "columnA": {
         "1": "phi thường",
         "2": "xù xì",
@@ -37007,7 +36471,7 @@
       "level": "CAP_1_VONG_LOAI",
       "type": "NOI",
       "questionId": "k5_c1_noi_2814",
-      "question": "Nối các mục ở Cột A với nội dung tương ứng ở Cột B (nhóm từ trái nghĩa số 14):",
+      "question": "Nối các mục ở Cột A với nội dung tương ứng ở Cột B (14):",
       "columnA": {
         "1": "giỏi giang",
         "2": "cảnh giác",
@@ -37034,7 +36498,7 @@
       "level": "CAP_1_VONG_LOAI",
       "type": "NOI",
       "questionId": "k5_c1_noi_2815",
-      "question": "Nối các mục ở Cột A với nội dung tương ứng ở Cột B (nhóm từ trái nghĩa số 15):",
+      "question": "Nối các mục ở Cột A với nội dung tương ứng ở Cột B (15):",
       "columnA": {
         "1": "mạnh mẽ",
         "2": "quá khứ",
@@ -37061,7 +36525,7 @@
       "level": "CAP_1_VONG_LOAI",
       "type": "NOI",
       "questionId": "k5_c1_noi_2816",
-      "question": "Nối các mục ở Cột A với nội dung tương ứng ở Cột B (nhóm từ trái nghĩa số 16):",
+      "question": "Nối các mục ở Cột A với nội dung tương ứng ở Cột B (16):",
       "columnA": {
         "1": "bẩn thỉu",
         "2": "khen thưởng",
@@ -37088,7 +36552,7 @@
       "level": "CAP_1_VONG_LOAI",
       "type": "NOI",
       "questionId": "k5_c1_noi_2817",
-      "question": "Nối các mục ở Cột A với nội dung tương ứng ở Cột B (nhóm từ trái nghĩa số 17):",
+      "question": "Nối các mục ở Cột A với nội dung tương ứng ở Cột B (17):",
       "columnA": {
         "1": "cao thượng",
         "2": "tán thành",
@@ -37115,7 +36579,7 @@
       "level": "CAP_1_VONG_LOAI",
       "type": "NOI",
       "questionId": "k5_c1_noi_2818",
-      "question": "Nối các mục ở Cột A với nội dung tương ứng ở Cột B (nhóm từ trái nghĩa số 18):",
+      "question": "Nối các mục ở Cột A với nội dung tương ứng ở Cột B (18):",
       "columnA": {
         "1": "sáng sủa",
         "2": "vô tình",
@@ -37142,7 +36606,7 @@
       "level": "CAP_1_VONG_LOAI",
       "type": "NOI",
       "questionId": "k5_c1_noi_2819",
-      "question": "Nối các mục ở Cột A với nội dung tương ứng ở Cột B (nhóm từ trái nghĩa số 19):",
+      "question": "Nối các mục ở Cột A với nội dung tương ứng ở Cột B (19):",
       "columnA": {
         "1": "vị tha",
         "2": "khai mạc",
@@ -37169,7 +36633,7 @@
       "level": "CAP_1_VONG_LOAI",
       "type": "NOI",
       "questionId": "k5_c1_noi_2820",
-      "question": "Nối các mục ở Cột A với nội dung tương ứng ở Cột B (nhóm từ trái nghĩa số 20):",
+      "question": "Nối các mục ở Cột A với nội dung tương ứng ở Cột B (20):",
       "columnA": {
         "1": "rõ ràng",
         "2": "tự tin",
@@ -37196,7 +36660,7 @@
       "level": "CAP_1_VONG_LOAI",
       "type": "NOI",
       "questionId": "k5_c1_noi_2821",
-      "question": "Nối các mục ở Cột A với nội dung tương ứng ở Cột B (nhóm từ trái nghĩa số 21):",
+      "question": "Nối các mục ở Cột A với nội dung tương ứng ở Cột B (21):",
       "columnA": {
         "1": "lạ lẫm",
         "2": "vinh quang",
@@ -37223,7 +36687,7 @@
       "level": "CAP_1_VONG_LOAI",
       "type": "NOI",
       "questionId": "k5_c1_noi_2822",
-      "question": "Nối các mục ở Cột A với nội dung tương ứng ở Cột B (nhóm từ trái nghĩa số 22):",
+      "question": "Nối các mục ở Cột A với nội dung tương ứng ở Cột B (22):",
       "columnA": {
         "1": "khổng lồ",
         "2": "ồn ào",
@@ -37250,7 +36714,7 @@
       "level": "CAP_1_VONG_LOAI",
       "type": "NOI",
       "questionId": "k5_c1_noi_2823",
-      "question": "Nối các mục ở Cột A với nội dung tương ứng ở Cột B (nhóm từ trái nghĩa số 23):",
+      "question": "Nối các mục ở Cột A với nội dung tương ứng ở Cột B (23):",
       "columnA": {
         "1": "tin tưởng",
         "2": "khéo léo",
@@ -37277,7 +36741,7 @@
       "level": "CAP_1_VONG_LOAI",
       "type": "NOI",
       "questionId": "k5_c1_noi_2824",
-      "question": "Nối các mục ở Cột A với nội dung tương ứng ở Cột B (nhóm từ trái nghĩa số 24):",
+      "question": "Nối các mục ở Cột A với nội dung tương ứng ở Cột B (24):",
       "columnA": {
         "1": "ấm áp",
         "2": "biến động",
@@ -37304,7 +36768,7 @@
       "level": "CAP_1_VONG_LOAI",
       "type": "NOI",
       "questionId": "k5_c1_noi_2825",
-      "question": "Nối các mục ở Cột A với nội dung tương ứng ở Cột B (nhóm từ trái nghĩa số 25):",
+      "question": "Nối các mục ở Cột A với nội dung tương ứng ở Cột B (25):",
       "columnA": {
         "1": "lạc hậu",
         "2": "nóng nực",
@@ -37331,7 +36795,7 @@
       "level": "CAP_1_VONG_LOAI",
       "type": "NOI",
       "questionId": "k5_c1_noi_2826",
-      "question": "Nối các mục ở Cột A với nội dung tương ứng ở Cột B (nhóm từ trái nghĩa số 26):",
+      "question": "Nối các mục ở Cột A với nội dung tương ứng ở Cột B (26):",
       "columnA": {
         "1": "khiêm nhường",
         "2": "rộng mở",
@@ -37358,7 +36822,7 @@
       "level": "CAP_1_VONG_LOAI",
       "type": "NOI",
       "questionId": "k5_c1_noi_2827",
-      "question": "Nối các mục ở Cột A với nội dung tương ứng ở Cột B (nhóm từ trái nghĩa số 27):",
+      "question": "Nối các mục ở Cột A với nội dung tương ứng ở Cột B (27):",
       "columnA": {
         "1": "công bằng",
         "2": "tiến lên",
@@ -37385,7 +36849,7 @@
       "level": "CAP_1_VONG_LOAI",
       "type": "NOI",
       "questionId": "k5_c1_noi_2828",
-      "question": "Nối các mục ở Cột A với nội dung tương ứng ở Cột B (nhóm từ trái nghĩa số 28):",
+      "question": "Nối các mục ở Cột A với nội dung tương ứng ở Cột B (28):",
       "columnA": {
         "1": "sâu thẳm",
         "2": "đầy đủ",
@@ -37412,7 +36876,7 @@
       "level": "CAP_1_VONG_LOAI",
       "type": "NOI",
       "questionId": "k5_c1_noi_2829",
-      "question": "Nối các mục ở Cột A với nội dung tương ứng ở Cột B (nhóm từ trái nghĩa số 29):",
+      "question": "Nối các mục ở Cột A với nội dung tương ứng ở Cột B (29):",
       "columnA": {
         "1": "gần gũi",
         "2": "quyết chí",
@@ -37439,7 +36903,7 @@
       "level": "CAP_1_VONG_LOAI",
       "type": "NOI",
       "questionId": "k5_c1_noi_2830",
-      "question": "Nối các mục ở Cột A với nội dung tương ứng ở Cột B (nhóm từ trái nghĩa số 30):",
+      "question": "Nối các mục ở Cột A với nội dung tương ứng ở Cột B (30):",
       "columnA": {
         "1": "ấp úng",
         "2": "bằng phẳng",
@@ -37466,7 +36930,7 @@
       "level": "CAP_1_VONG_LOAI",
       "type": "NOI",
       "questionId": "k5_c1_noi_2831",
-      "question": "Nối các mục ở Cột A với nội dung tương ứng ở Cột B (nhóm từ trái nghĩa số 31):",
+      "question": "Nối các mục ở Cột A với nội dung tương ứng ở Cột B (31):",
       "columnA": {
         "1": "giữ gìn",
         "2": "trật tự",
@@ -37493,7 +36957,7 @@
       "level": "CAP_1_VONG_LOAI",
       "type": "NOI",
       "questionId": "k5_c1_noi_2832",
-      "question": "Nối các mục ở Cột A với nội dung tương ứng ở Cột B (nhóm từ trái nghĩa số 32):",
+      "question": "Nối các mục ở Cột A với nội dung tương ứng ở Cột B (32):",
       "columnA": {
         "1": "chính nghĩa",
         "2": "lịch sự",
@@ -37520,7 +36984,7 @@
       "level": "CAP_1_VONG_LOAI",
       "type": "NOI",
       "questionId": "k5_c1_noi_2833",
-      "question": "Nối các mục ở Cột A với nội dung tương ứng ở Cột B (nhóm từ trái nghĩa số 33):",
+      "question": "Nối các mục ở Cột A với nội dung tương ứng ở Cột B (33):",
       "columnA": {
         "1": "kiêu căng",
         "2": "thận trọng",
@@ -37547,7 +37011,7 @@
       "level": "CAP_1_VONG_LOAI",
       "type": "NOI",
       "questionId": "k5_c1_noi_2834",
-      "question": "Nối các mục ở Cột A với nội dung tương ứng ở Cột B (nhóm từ trái nghĩa số 34):",
+      "question": "Nối các mục ở Cột A với nội dung tương ứng ở Cột B (34):",
       "columnA": {
         "1": "biến mất",
         "2": "ngay ngắn",
@@ -37574,7 +37038,7 @@
       "level": "CAP_1_VONG_LOAI",
       "type": "NOI",
       "questionId": "k5_c1_noi_2835",
-      "question": "Nối các mục ở Cột A với nội dung tương ứng ở Cột B (nhóm từ trái nghĩa số 35):",
+      "question": "Nối các mục ở Cột A với nội dung tương ứng ở Cột B (35):",
       "columnA": {
         "1": "phi pháp",
         "2": "rộng rãi",
@@ -37601,7 +37065,7 @@
       "level": "CAP_1_VONG_LOAI",
       "type": "NOI",
       "questionId": "k5_c1_noi_2836",
-      "question": "Nối các mục ở Cột A với nội dung tương ứng ở Cột B (nhóm từ trái nghĩa số 36):",
+      "question": "Nối các mục ở Cột A với nội dung tương ứng ở Cột B (36):",
       "columnA": {
         "1": "bí mật",
         "2": "thong thả",
@@ -37628,7 +37092,7 @@
       "level": "CAP_1_VONG_LOAI",
       "type": "NOI",
       "questionId": "k5_c1_noi_2837",
-      "question": "Nối các mục ở Cột A với nội dung tương ứng ở Cột B (nhóm từ trái nghĩa số 37):",
+      "question": "Nối các mục ở Cột A với nội dung tương ứng ở Cột B (37):",
       "columnA": {
         "1": "chia li",
         "2": "chính diện",
@@ -37655,7 +37119,7 @@
       "level": "CAP_1_VONG_LOAI",
       "type": "NOI",
       "questionId": "k5_c1_noi_2838",
-      "question": "Nối các mục ở Cột A với nội dung tương ứng ở Cột B (nhóm từ trái nghĩa số 38):",
+      "question": "Nối các mục ở Cột A với nội dung tương ứng ở Cột B (38):",
       "columnA": {
         "1": "cứng cỏi",
         "2": "san sát",
@@ -37682,7 +37146,7 @@
       "level": "CAP_1_VONG_LOAI",
       "type": "NOI",
       "questionId": "k5_c1_noi_2839",
-      "question": "Nối các mục ở Cột A với nội dung tương ứng ở Cột B (nhóm từ trái nghĩa số 39):",
+      "question": "Nối các mục ở Cột A với nội dung tương ứng ở Cột B (39):",
       "columnA": {
         "1": "đông đúc",
         "2": "đơn giản",
@@ -37709,7 +37173,7 @@
       "level": "CAP_1_VONG_LOAI",
       "type": "NOI",
       "questionId": "k5_c1_noi_2840",
-      "question": "Nối các mục ở Cột A với nội dung tương ứng ở Cột B (nhóm từ trái nghĩa số 40):",
+      "question": "Nối các mục ở Cột A với nội dung tương ứng ở Cột B (40):",
       "columnA": {
         "1": "khô héo",
         "2": "hoang phí",
@@ -37736,7 +37200,7 @@
       "level": "CAP_1_VONG_LOAI",
       "type": "NOI",
       "questionId": "k5_c1_noi_2841",
-      "question": "Nối các mục ở Cột A với nội dung tương ứng ở Cột B (nhóm từ trái nghĩa số 41):",
+      "question": "Nối các mục ở Cột A với nội dung tương ứng ở Cột B (41):",
       "columnA": {
         "1": "phi thường",
         "2": "xù xì",
@@ -37763,7 +37227,7 @@
       "level": "CAP_1_VONG_LOAI",
       "type": "NOI",
       "questionId": "k5_c1_noi_2842",
-      "question": "Nối các mục ở Cột A với nội dung tương ứng ở Cột B (nhóm từ trái nghĩa số 42):",
+      "question": "Nối các mục ở Cột A với nội dung tương ứng ở Cột B (42):",
       "columnA": {
         "1": "giỏi giang",
         "2": "cảnh giác",
@@ -37790,7 +37254,7 @@
       "level": "CAP_1_VONG_LOAI",
       "type": "NOI",
       "questionId": "k5_c1_noi_2843",
-      "question": "Nối các mục ở Cột A với nội dung tương ứng ở Cột B (nhóm từ trái nghĩa số 43):",
+      "question": "Nối các mục ở Cột A với nội dung tương ứng ở Cột B (43):",
       "columnA": {
         "1": "mạnh mẽ",
         "2": "quá khứ",
@@ -37817,7 +37281,7 @@
       "level": "CAP_1_VONG_LOAI",
       "type": "NOI",
       "questionId": "k5_c1_noi_2844",
-      "question": "Nối các mục ở Cột A với nội dung tương ứng ở Cột B (nhóm từ trái nghĩa số 44):",
+      "question": "Nối các mục ở Cột A với nội dung tương ứng ở Cột B (44):",
       "columnA": {
         "1": "bẩn thỉu",
         "2": "khen thưởng",
@@ -37844,7 +37308,7 @@
       "level": "CAP_1_VONG_LOAI",
       "type": "NOI",
       "questionId": "k5_c1_noi_2845",
-      "question": "Nối các mục ở Cột A với nội dung tương ứng ở Cột B (nhóm từ trái nghĩa số 45):",
+      "question": "Nối các mục ở Cột A với nội dung tương ứng ở Cột B (45):",
       "columnA": {
         "1": "cao thượng",
         "2": "tán thành",
@@ -37871,7 +37335,7 @@
       "level": "CAP_1_VONG_LOAI",
       "type": "NOI",
       "questionId": "k5_c1_noi_2846",
-      "question": "Nối các mục ở Cột A với nội dung tương ứng ở Cột B (nhóm từ trái nghĩa số 46):",
+      "question": "Nối các mục ở Cột A với nội dung tương ứng ở Cột B (46):",
       "columnA": {
         "1": "sáng sủa",
         "2": "vô tình",
@@ -37898,7 +37362,7 @@
       "level": "CAP_1_VONG_LOAI",
       "type": "NOI",
       "questionId": "k5_c1_noi_2847",
-      "question": "Nối các mục ở Cột A với nội dung tương ứng ở Cột B (nhóm từ trái nghĩa số 47):",
+      "question": "Nối các mục ở Cột A với nội dung tương ứng ở Cột B (47):",
       "columnA": {
         "1": "vị tha",
         "2": "khai mạc",
@@ -37925,7 +37389,7 @@
       "level": "CAP_1_VONG_LOAI",
       "type": "NOI",
       "questionId": "k5_c1_noi_2848",
-      "question": "Nối các mục ở Cột A với nội dung tương ứng ở Cột B (nhóm từ trái nghĩa số 48):",
+      "question": "Nối các mục ở Cột A với nội dung tương ứng ở Cột B (48):",
       "columnA": {
         "1": "rõ ràng",
         "2": "tự tin",
@@ -37952,7 +37416,7 @@
       "level": "CAP_1_VONG_LOAI",
       "type": "NOI",
       "questionId": "k5_c1_noi_2849",
-      "question": "Nối các mục ở Cột A với nội dung tương ứng ở Cột B (nhóm từ trái nghĩa số 49):",
+      "question": "Nối các mục ở Cột A với nội dung tương ứng ở Cột B (49):",
       "columnA": {
         "1": "lạ lẫm",
         "2": "vinh quang",
@@ -37979,7 +37443,7 @@
       "level": "CAP_1_VONG_LOAI",
       "type": "NOI",
       "questionId": "k5_c1_noi_2850",
-      "question": "Nối các mục ở Cột A với nội dung tương ứng ở Cột B (nhóm từ trái nghĩa số 50):",
+      "question": "Nối các mục ở Cột A với nội dung tương ứng ở Cột B (50):",
       "columnA": {
         "1": "khổng lồ",
         "2": "ồn ào",
