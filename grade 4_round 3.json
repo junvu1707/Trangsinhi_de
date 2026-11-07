@@ -4787,12 +4787,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Uống nước nhớ người đào (...)\"",
       "blankAnswer": "giếng",
       "answer": "giếng",
-      "options": [
-        "cây",
-        "non",
-        "ngày",
-        "giếng"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Uống nước nhớ người đào giếng\". Hưởng trái ngọt nhớ công người trồng cây, uống nước mát nhớ ơn người đào giếng."
     },
     {
@@ -4804,12 +4798,6 @@
       "question": "Điền quan hệ từ thích hợp vào chỗ trống trong câu sau: \"Vì thời tiết thuận lợi (...) vụ mùa năm nay bội thu.\"",
       "blankAnswer": "nên",
       "answer": "nên",
-      "options": [
-        "nên",
-        "và",
-        "thì",
-        "nhưng"
-      ],
       "explanation": "Câu văn sử dụng cặp quan hệ từ 'Vì... nên...' biểu thị quan hệ Nguyên nhân - Kết quả."
     },
     {
@@ -4821,12 +4809,6 @@
       "question": "Chọn từ thích hợp điền vào chỗ trống: \"Dòng sông quê hương chảy (...) qua xóm làng.\"",
       "blankAnswer": "hiền hòa",
       "answer": "hiền hòa",
-      "options": [
-        "hiền hòa",
-        "khúc khuỷu",
-        "vội vã",
-        "ầm ĩ"
-      ],
       "explanation": "Từ 'hiền hòa' gợi tả vẻ êm đềm, tĩnh lặng của dòng sông quê."
     },
     {
@@ -4838,12 +4820,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Thương người như thể (...)\"",
       "blankAnswer": "thương thân",
       "answer": "thương thân",
-      "options": [
-        "thương thân",
-        "đèn",
-        "ngay",
-        "đùm"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Thương người như thể thương thân\". Yêu thương người khác như yêu quý chính bản thân mình."
     },
     {
@@ -4855,12 +4831,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Đói cho (...) rách cho thơm\"",
       "blankAnswer": "sạch",
       "answer": "sạch",
-      "options": [
-        "sạch",
-        "thật",
-        "trồng",
-        "ngay"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Đói cho sạch rách cho thơm\". Dù trong hoàn cảnh thiếu thốn bần hàn vẫn phải giữ gìn nhân cách và danh dự trong sạch."
     },
     {
@@ -4872,12 +4842,6 @@
       "question": "Điền quan hệ từ thích hợp vào chỗ trống trong câu sau: \"Tuy gia cảnh khó khăn (...) bạn Lan luôn vượt khó vươn lên.\"",
       "blankAnswer": "nhưng",
       "answer": "nhưng",
-      "options": [
-        "mà",
-        "và",
-        "thì",
-        "nhưng"
-      ],
       "explanation": "Câu văn sử dụng cặp quan hệ từ 'Tuy... nhưng...' biểu thị quan hệ Tương phản."
     },
     {
@@ -4889,12 +4853,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Chim có tổ người có (...)\"",
       "blankAnswer": "tông",
       "answer": "tông",
-      "options": [
-        "đèn",
-        "bạn",
-        "trồng",
-        "tông"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Chim có tổ người có tông\". Mỗi con người đều có tổ tiên, cội nguồn giống như loài chim có tổ để về."
     },
     {
@@ -4906,12 +4864,6 @@
       "question": "Điền quan hệ từ thích hợp vào chỗ trống trong câu sau: \"Trăng (...) lên cao, mặt biển càng thêm lấp lánh.\"",
       "blankAnswer": "càng",
       "answer": "càng",
-      "options": [
-        "và",
-        "nhưng",
-        "thì",
-        "càng"
-      ],
       "explanation": "Câu văn sử dụng cặp quan hệ từ 'Càng... càng...' biểu thị quan hệ Hô ứng."
     },
     {
@@ -4923,12 +4875,6 @@
       "question": "Chọn từ thích hợp điền vào chỗ trống: \"Mặt trời vừa ló rạng tỏa ánh nắng (...) sưởi ấm vạn vật.\"",
       "blankAnswer": "ấm áp",
       "answer": "ấm áp",
-      "options": [
-        "héo hắt",
-        "ấm áp",
-        "lạnh tanh",
-        "giá buốt"
-      ],
       "explanation": "Từ 'ấm áp' phù hợp miêu tả đặc điểm của ánh nắng mặt trời."
     },
     {
@@ -4940,12 +4886,6 @@
       "question": "Điền quan hệ từ thích hợp vào chỗ trống trong câu sau: \"Nhờ chăm chỉ rèn luyện (...) Nam đạt giải cao trong kì thi.\"",
       "blankAnswer": "mà",
       "answer": "mà",
-      "options": [
-        "nhưng",
-        "mà",
-        "thì",
-        "và"
-      ],
       "explanation": "Câu văn sử dụng cặp quan hệ từ 'Nhờ... mà...' biểu thị quan hệ Nguyên nhân tích cực - Kết quả."
     },
     {
@@ -4957,12 +4897,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Người ta là (...)\"",
       "blankAnswer": "hoa đất",
       "answer": "hoa đất",
-      "options": [
-        "thật",
-        "nâng",
-        "vàng",
-        "hoa đất"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Người ta là hoa đất\". Ca ngợi con người là tinh hoa quý báu nhất của vũ trụ và mặt đất."
     },
     {
@@ -4974,12 +4908,6 @@
       "question": "Chọn từ thích hợp điền vào chỗ trống: \"Chúng em quyết tâm (...) rèn luyện để đạt danh hiệu cháu ngoan Bác Hồ.\"",
       "blankAnswer": "chăm chỉ",
       "answer": "chăm chỉ",
-      "options": [
-        "chăm chỉ",
-        "hời hợt",
-        "lơ đãng",
-        "chậm trễ"
-      ],
       "explanation": "Từ 'chăm chỉ' diễn tả ý thức học tập và rèn luyện nghiêm túc."
     },
     {
@@ -4991,12 +4919,6 @@
       "question": "Điền quan hệ từ thích hợp vào chỗ trống trong câu sau: \"Nếu ngày mai trời nắng (...) lớp ta sẽ đi dã ngoại.\"",
       "blankAnswer": "thì",
       "answer": "thì",
-      "options": [
-        "thì",
-        "nhưng",
-        "và",
-        "mà"
-      ],
       "explanation": "Câu văn sử dụng cặp quan hệ từ 'Nếu... thì...' biểu thị quan hệ Điều kiện (giả thiết) - Kết quả."
     },
     {
@@ -5008,12 +4930,6 @@
       "question": "Chọn từ thích hợp điền vào chỗ trống: \"Những bông hoa hồng nhung nở (...) trong nắng sớm.\"",
       "blankAnswer": "rực rỡ",
       "answer": "rực rỡ",
-      "options": [
-        "lạc lõng",
-        "rực rỡ",
-        "mờ nhạt",
-        "chênh vênh"
-      ],
       "explanation": "Từ 'rực rỡ' mô tả màu sắc tươi thắm của hoa hồng nhung."
     },
     {
@@ -5025,12 +4941,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Ăn quả nhớ kẻ (...) cây\"",
       "blankAnswer": "trồng",
       "answer": "trồng",
-      "options": [
-        "sạch",
-        "ngay",
-        "trồng",
-        "thật"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Ăn quả nhớ kẻ trồng cây\". Khuyên nhủ con người khi được hưởng thành quả phải luôn biết ơn công lao người tạo dựng."
     },
     {
@@ -5042,12 +4952,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Uống nước nhớ (...)\"",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nâng",
-        "thật",
-        "nguồn",
-        "sạch"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Uống nước nhớ nguồn\". Nhắc nhở con cháu phải ghi nhớ cội nguồn, tổ tiên và những người đã giúp đỡ mình."
     },
     {
@@ -5059,12 +4963,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Học thầy không tày học (...)\"",
       "blankAnswer": "bạn",
       "answer": "bạn",
-      "options": [
-        "ngay",
-        "trồng",
-        "bạn",
-        "kim"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Học thầy không tày học bạn\". Nhấn mạnh vai trò to lớn của việc học hỏi từ bạn bè xung quanh."
     },
     {
@@ -5076,12 +4974,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Lửa thử vàng gian nan (...)\"",
       "blankAnswer": "thử sức",
       "answer": "thử sức",
-      "options": [
-        "đùm",
-        "thử sức",
-        "ngay",
-        "nguồn"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Lửa thử vàng gian nan thử sức\". Khó khăn thử thách là thước đo lòng kiên định và bản lĩnh con người."
     },
     {
@@ -5093,12 +4985,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"(...) ngã em nâng\"",
       "blankAnswer": "Chị",
       "answer": "Chị",
-      "options": [
-        "bạn",
-        "Chị",
-        "đèn",
-        "nguồn"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Chị ngã em nâng\". Anh chị em trong một nhà phải biết nâng đỡ, thương yêu, che chở cho nhau."
     },
     {
@@ -5110,12 +4996,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Có công mài sắt có ngày nên (...)\"",
       "blankAnswer": "kim",
       "answer": "kim",
-      "options": [
-        "kim",
-        "đùm",
-        "nguồn",
-        "đèn"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Có công mài sắt có ngày nên kim\". Chỉ cần kiên trì, nỗ lực và nhẫn nại thì việc khó khăn đến mấy cũng sẽ thành công."
     },
     {
@@ -5127,12 +5007,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Đói cho sạch (...) cho thơm\"",
       "blankAnswer": "rách",
       "answer": "rách",
-      "options": [
-        "mực",
-        "rách",
-        "ngày",
-        "ngay"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Đói cho sạch rách cho thơm\". Dù trong hoàn cảnh thiếu thốn bần hàn vẫn phải giữ gìn nhân cách và danh dự trong sạch."
     },
     {
@@ -5144,12 +5018,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Công cha như núi (...), nghĩa mẹ như nước trong nguồn chảy ra\"",
       "blankAnswer": "Thái Sơn",
       "answer": "Thái Sơn",
-      "options": [
-        "Thái Sơn",
-        "trồng",
-        "sạch",
-        "vàng"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Công cha như núi Thái Sơn, nghĩa mẹ như nước trong nguồn chảy ra\". Công ơn sinh thành dưỡng dục của cha mẹ to lớn vô bờ bến không gì sánh bằng."
     },
     {
@@ -5161,12 +5029,6 @@
       "question": "Điền quan hệ từ thích hợp vào chỗ trống trong câu sau: \"Do chủ quan (...) bạn ấy đã làm sai bài toán.\"",
       "blankAnswer": "nên",
       "answer": "nên",
-      "options": [
-        "và",
-        "nhưng",
-        "thì",
-        "nên"
-      ],
       "explanation": "Câu văn sử dụng cặp quan hệ từ 'Do... nên...' biểu thị quan hệ Nguyên nhân - Kết quả."
     },
     {
@@ -5178,12 +5040,6 @@
       "question": "Điền quan hệ từ thích hợp vào chỗ trống trong câu sau: \"Hà không những học giỏi mà bạn ấy còn hát rất hay.\"",
       "blankAnswer": "Không những",
       "answer": "Không những",
-      "options": [
-        "và",
-        "Không những",
-        "nhưng",
-        "thì"
-      ],
       "explanation": "Câu văn sử dụng cặp quan hệ từ 'Không những... mà còn...' biểu thị quan hệ Tăng tiến."
     },
     {
@@ -5195,12 +5051,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Một cây làm chẳng nên non, ba cây chụm lại nên hòn (...)\"",
       "blankAnswer": "núi cao",
       "answer": "núi cao",
-      "options": [
-        "núi cao",
-        "bạn",
-        "kim",
-        "đèn"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao\". Một người lẻ loi khó làm việc lớn, nhưng khi đoàn kết lại sẽ tạo nên sức mạnh vô địch."
     },
     {
@@ -5212,12 +5062,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Lời nói chẳng mất tiền mua, lựa lời mà nói cho vừa lòng (...)\"",
       "blankAnswer": "nhau",
       "answer": "nhau",
-      "options": [
-        "nhau",
-        "sạch",
-        "đùm",
-        "nguồn"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Lời nói chẳng mất tiền mua, lựa lời mà nói cho vừa lòng nhau\". Khi giao tiếp cần ăn nói lịch thiệp, nhã nhặn và tế nhị."
     },
     {
@@ -5229,12 +5073,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Đi một ngày đàng học một sàng (...)\"",
       "blankAnswer": "khôn",
       "answer": "khôn",
-      "options": [
-        "bạn",
-        "khôn",
-        "đèn",
-        "thật"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Đi một ngày đàng học một sàng khôn\". Càng đi nhiều nơi, trải nghiệm thực tế ta càng tích lũy được nhiều hiểu biết, trí tuệ."
     },
     {
@@ -5246,12 +5084,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Một con (...) đau cả tàu bỏ cỏ\"",
       "blankAnswer": "ngựa",
       "answer": "ngựa",
-      "options": [
-        "trồng",
-        "ngựa",
-        "nguồn",
-        "kim"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Một con ngựa đau cả tàu bỏ cỏ\". Khi một cá nhân gặp nạn, toàn thể tập thể đều chia sẻ nỗi buồn và tương trợ."
     },
     {
@@ -5263,12 +5095,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Thuận vợ thuận chồng tát (...) cũng cạn\"",
       "blankAnswer": "biển Đông",
       "answer": "biển Đông",
-      "options": [
-        "biển Đông",
-        "bạn",
-        "khôn",
-        "nguồn"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Thuận vợ thuận chồng tát biển Đông cũng cạn\". Sự đồng lòng, hòa thuận trong gia đình giúp vượt qua mọi gian khó."
     },
     {
@@ -5280,12 +5106,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Lá lành (...) lá rách\"",
       "blankAnswer": "đùm",
       "answer": "đùm",
-      "options": [
-        "thật",
-        "sạch",
-        "nâng",
-        "đùm"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Lá lành đùm lá rách\". Khuyên con người phải biết đùm bọc, giúp đỡ lẫn nhau khi gặp hoạn nạn, khó khăn."
     },
     {
@@ -5297,12 +5117,6 @@
       "question": "Điền quan hệ từ thích hợp vào chỗ trống trong câu sau: \"Hễ gió mùa đông bắc tràn về (...) trời trở rét đậm.\"",
       "blankAnswer": "thì",
       "answer": "thì",
-      "options": [
-        "mà",
-        "thì",
-        "nhưng",
-        "và"
-      ],
       "explanation": "Câu văn sử dụng cặp quan hệ từ 'Hễ... thì...' biểu thị quan hệ Điều kiện (giả thiết) - Kết quả."
     },
     {
@@ -5314,12 +5128,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Vạn sự khởi đầu (...)\"",
       "blankAnswer": "nan",
       "answer": "nan",
-      "options": [
-        "kim",
-        "thật",
-        "đèn",
-        "nan"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Vạn sự khởi đầu nan\". Bất kì công việc gì lúc bắt đầu cũng đều gặp nhiều gian truân, thử thách."
     },
     {
@@ -5331,12 +5139,6 @@
       "question": "Điền quan hệ từ thích hợp vào chỗ trống trong câu sau: \"Mặc dù tuổi đã cao (...) ông nội vẫn say mê đọc sách báo.\"",
       "blankAnswer": "nhưng",
       "answer": "nhưng",
-      "options": [
-        "mà",
-        "thì",
-        "và",
-        "nhưng"
-      ],
       "explanation": "Câu văn sử dụng cặp quan hệ từ 'Mặc dù... nhưng...' biểu thị quan hệ Tương phản."
     },
     {
@@ -5348,12 +5150,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Nhiễu điều phủ lấy giá gương, người trong một nước phải (...) nhau cùng\"",
       "blankAnswer": "thương",
       "answer": "thương",
-      "options": [
-        "thương",
-        "sạch",
-        "nâng",
-        "kim"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Nhiễu điều phủ lấy giá gương, người trong một nước phải thương nhau cùng\". Đồng bào cùng một giang sơn phải luôn đùm bọc, giúp đỡ lẫn nhau."
     },
     {
@@ -5365,12 +5161,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Một con ngựa đau cả tàu (...)\"",
       "blankAnswer": "bỏ cỏ",
       "answer": "bỏ cỏ",
-      "options": [
-        "kim",
-        "đùm",
-        "vàng",
-        "bỏ cỏ"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Một con ngựa đau cả tàu bỏ cỏ\". Khi một cá nhân gặp nạn, toàn thể tập thể đều chia sẻ nỗi buồn và tương trợ."
     },
     {
@@ -5382,12 +5172,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"(...) ngay không sợ chết đứng\"",
       "blankAnswer": "Cây",
       "answer": "Cây",
-      "options": [
-        "đùm",
-        "mực",
-        "non",
-        "Cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Cây ngay không sợ chết đứng\". Người sống ngay thẳng, thật thà thì không sợ bất kì lời vu khống hay thử thách nào."
     },
     {
@@ -5399,12 +5183,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Thuận vợ thuận chồng tát (...) Đông cũng cạn\"",
       "blankAnswer": "biển",
       "answer": "biển",
-      "options": [
-        "mực",
-        "khôn",
-        "công",
-        "biển"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Thuận vợ thuận chồng tát biển Đông cũng cạn\". Sự đồng lòng, hòa thuận trong gia đình giúp vượt qua mọi gian khó."
     },
     {
@@ -5416,12 +5194,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Vạn (...) khởi đầu nan\"",
       "blankAnswer": "sự",
       "answer": "sự",
-      "options": [
-        "nâng",
-        "thật",
-        "sự",
-        "nguồn"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Vạn sự khởi đầu nan\". Bất kì công việc gì lúc bắt đầu cũng đều gặp nhiều gian truân, thử thách."
     },
     {
@@ -5433,12 +5205,6 @@
       "question": "Điền quan hệ từ thích hợp vào chỗ trống trong câu sau: \"(...) mưa to mà sấm chớp còn nổi lên dữ dội.\"",
       "blankAnswer": "Chẳng những",
       "answer": "Chẳng những",
-      "options": [
-        "nhưng",
-        "và",
-        "Chẳng những",
-        "thì"
-      ],
       "explanation": "Câu văn sử dụng cặp quan hệ từ 'Chẳng những... mà còn...' biểu thị quan hệ Tăng tiến."
     },
     {
@@ -5450,12 +5216,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Chị ngã em (...)\"",
       "blankAnswer": "nâng",
       "answer": "nâng",
-      "options": [
-        "nâng",
-        "đèn",
-        "đùm",
-        "trồng"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Chị ngã em nâng\". Anh chị em trong một nhà phải biết nâng đỡ, thương yêu, che chở cho nhau."
     },
     {
@@ -5467,12 +5227,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Ăn ngay nói (...) mọi tật mọi lành\"",
       "blankAnswer": "thật",
       "answer": "thật",
-      "options": [
-        "thật",
-        "khôn",
-        "vàng",
-        "trồng"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Ăn ngay nói thật mọi tật mọi lành\". Sống chân thành, trung thực thì tâm hồn luôn thanh thản và bình an."
     },
     {
@@ -5484,12 +5238,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Tấc đất tấc (...)\"",
       "blankAnswer": "vàng",
       "answer": "vàng",
-      "options": [
-        "vàng",
-        "nâng",
-        "trồng",
-        "bạn"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Tấc đất tấc vàng\". Mỗi tấc đất đều vô cùng quý giá như vàng vì đem lại nguồn sống cho con người."
     },
     {
@@ -5501,12 +5249,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Uống nước nhớ người (...)\"",
       "blankAnswer": "đào giếng",
       "answer": "đào giếng",
-      "options": [
-        "đào giếng",
-        "cây",
-        "sạch",
-        "núi"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Uống nước nhớ người đào giếng\". Hưởng trái ngọt nhớ công người trồng cây, uống nước mát nhớ ơn người đào giếng."
     },
     {
@@ -5518,12 +5260,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Gần mực thì đen gần (...) thì sáng\"",
       "blankAnswer": "đèn",
       "answer": "đèn",
-      "options": [
-        "thật",
-        "kim",
-        "bạn",
-        "đèn"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Gần mực thì đen gần đèn thì sáng\". Ở gần người tốt sẽ học được điều hay, ở gần người xấu dễ bị lây thói hư tật xấu."
     },
     {
@@ -5535,12 +5271,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Bầu ơi (...) lấy bí cùng, tuy rằng khác giống nhưng chung một giàn\"",
       "blankAnswer": "thương",
       "answer": "thương",
-      "options": [
-        "thương",
-        "trồng",
-        "khôn",
-        "vàng"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Bầu ơi thương lấy bí cùng, tuy rằng khác giống nhưng chung một giàn\". Dù xuất thân khác nhau nhưng cùng chung sống một đất nước thì phải thương yêu nhau."
     },
     {
@@ -5552,12 +5282,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Một con ngựa đau cả tàu (...) cỏ\"",
       "blankAnswer": "bỏ",
       "answer": "bỏ",
-      "options": [
-        "núi",
-        "công",
-        "bỏ",
-        "vàng"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Một con ngựa đau cả tàu bỏ cỏ\". Khi một cá nhân gặp nạn, toàn thể tập thể đều chia sẻ nỗi buồn và tương trợ."
     },
     {
@@ -5569,12 +5293,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Cây (...) không sợ chết đứng\"",
       "blankAnswer": "ngay",
       "answer": "ngay",
-      "options": [
-        "nâng",
-        "ngay",
-        "vàng",
-        "thật"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Cây ngay không sợ chết đứng\". Người sống ngay thẳng, thật thà thì không sợ bất kì lời vu khống hay thử thách nào."
     },
     {
@@ -5586,12 +5304,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Người ta là hoa (...)\"",
       "blankAnswer": "đất",
       "answer": "đất",
-      "options": [
-        "ngày",
-        "đất",
-        "trồng",
-        "nguồn"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Người ta là hoa đất\". Ca ngợi con người là tinh hoa quý báu nhất của vũ trụ và mặt đất."
     },
     {
@@ -5603,12 +5315,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"(...) quả nhớ kẻ trồng cây\"",
       "blankAnswer": "Ăn",
       "answer": "Ăn",
-      "options": [
-        "sạch",
-        "đèn",
-        "công",
-        "Ăn"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Ăn quả nhớ kẻ trồng cây\". Khuyên nhủ con người khi được hưởng thành quả phải luôn biết ơn công lao người tạo dựng."
     },
     {
@@ -5620,12 +5326,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Ăn ngay nói thật mọi (...) mọi lành\"",
       "blankAnswer": "tật",
       "answer": "tật",
-      "options": [
-        "khôn",
-        "đùm",
-        "tật",
-        "thương"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Ăn ngay nói thật mọi tật mọi lành\". Sống chân thành, trung thực thì tâm hồn luôn thanh thản và bình an."
     },
     {
@@ -5637,12 +5337,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Chớ thấy sóng cả mà ngã (...) chèo\"",
       "blankAnswer": "tay",
       "answer": "tay",
-      "options": [
-        "đùm",
-        "nguồn",
-        "tay",
-        "non"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Chớ thấy sóng cả mà ngã tay chèo\". Đừng vì thấy khó khăn, nguy nan mà nản lòng, buông xuôi ý chí."
     },
     {
@@ -5654,12 +5348,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Công cha như núi (...) Sơn, nghĩa mẹ như nước trong nguồn chảy ra\"",
       "blankAnswer": "Thái",
       "answer": "Thái",
-      "options": [
-        "ngày",
-        "Thái",
-        "mực",
-        "bạn"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Công cha như núi Thái Sơn, nghĩa mẹ như nước trong nguồn chảy ra\". Công ơn sinh thành dưỡng dục của cha mẹ to lớn vô bờ bến không gì sánh bằng."
     },
     {
@@ -5671,12 +5359,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Cây ngay không (...) chết đứng\"",
       "blankAnswer": "sợ",
       "answer": "sợ",
-      "options": [
-        "thương",
-        "non",
-        "sợ",
-        "sắt"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Cây ngay không sợ chết đứng\". Người sống ngay thẳng, thật thà thì không sợ bất kì lời vu khống hay thử thách nào."
     },
     {
@@ -5688,12 +5370,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"(...) thử vàng gian nan thử sức\"",
       "blankAnswer": "Lửa",
       "answer": "Lửa",
-      "options": [
-        "kim",
-        "nguồn",
-        "Lửa",
-        "nâng"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Lửa thử vàng gian nan thử sức\". Khó khăn thử thách là thước đo lòng kiên định và bản lĩnh con người."
     },
     {
@@ -5705,12 +5381,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Lời nói chẳng mất tiền (...), lựa lời mà nói cho vừa lòng nhau\"",
       "blankAnswer": "mua",
       "answer": "mua",
-      "options": [
-        "sắt",
-        "thật",
-        "mua",
-        "kim"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Lời nói chẳng mất tiền mua, lựa lời mà nói cho vừa lòng nhau\". Khi giao tiếp cần ăn nói lịch thiệp, nhã nhặn và tế nhị."
     },
     {
@@ -5722,12 +5392,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Chị (...) em nâng\"",
       "blankAnswer": "ngã",
       "answer": "ngã",
-      "options": [
-        "nguồn",
-        "ngã",
-        "vàng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Chị ngã em nâng\". Anh chị em trong một nhà phải biết nâng đỡ, thương yêu, che chở cho nhau."
     },
     {
@@ -5739,12 +5403,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Chớ thấy sóng cả mà ngã tay (...)\"",
       "blankAnswer": "chèo",
       "answer": "chèo",
-      "options": [
-        "đèn",
-        "khôn",
-        "ngay",
-        "chèo"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Chớ thấy sóng cả mà ngã tay chèo\". Đừng vì thấy khó khăn, nguy nan mà nản lòng, buông xuôi ý chí."
     },
     {
@@ -5756,12 +5414,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Một con ngựa (...) cả tàu bỏ cỏ\"",
       "blankAnswer": "đau",
       "answer": "đau",
-      "options": [
-        "đùm",
-        "thương",
-        "công",
-        "đau"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Một con ngựa đau cả tàu bỏ cỏ\". Khi một cá nhân gặp nạn, toàn thể tập thể đều chia sẻ nỗi buồn và tương trợ."
     },
     {
@@ -5773,12 +5425,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Một (...) làm chẳng nên non, ba cây chụm lại nên hòn núi cao\"",
       "blankAnswer": "cây",
       "answer": "cây",
-      "options": [
-        "mực",
-        "thật",
-        "núi",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao\". Một người lẻ loi khó làm việc lớn, nhưng khi đoàn kết lại sẽ tạo nên sức mạnh vô địch."
     },
     {
@@ -5790,12 +5436,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Cây ngay (...) sợ chết đứng\"",
       "blankAnswer": "không",
       "answer": "không",
-      "options": [
-        "sạch",
-        "không",
-        "đùm",
-        "khôn"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Cây ngay không sợ chết đứng\". Người sống ngay thẳng, thật thà thì không sợ bất kì lời vu khống hay thử thách nào."
     },
     {
@@ -5807,12 +5447,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Thuận vợ thuận chồng tát biển (...) cũng cạn\"",
       "blankAnswer": "Đông",
       "answer": "Đông",
-      "options": [
-        "thương",
-        "cây",
-        "Đông",
-        "non"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Thuận vợ thuận chồng tát biển Đông cũng cạn\". Sự đồng lòng, hòa thuận trong gia đình giúp vượt qua mọi gian khó."
     },
     {
@@ -5824,12 +5458,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Tấc đất (...) vàng\"",
       "blankAnswer": "tấc",
       "answer": "tấc",
-      "options": [
-        "đèn",
-        "đùm",
-        "tấc",
-        "vàng"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Tấc đất tấc vàng\". Mỗi tấc đất đều vô cùng quý giá như vàng vì đem lại nguồn sống cho con người."
     },
     {
@@ -5841,12 +5469,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Đi một ngày đàng học một (...) khôn\"",
       "blankAnswer": "sàng",
       "answer": "sàng",
-      "options": [
-        "sàng",
-        "thương",
-        "núi",
-        "khôn"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Đi một ngày đàng học một sàng khôn\". Càng đi nhiều nơi, trải nghiệm thực tế ta càng tích lũy được nhiều hiểu biết, trí tuệ."
     },
     {
@@ -5858,12 +5480,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Nhiễu điều phủ lấy giá gương, người trong một nước phải thương (...) cùng\"",
       "blankAnswer": "nhau",
       "answer": "nhau",
-      "options": [
-        "vàng",
-        "thương",
-        "nhau",
-        "ngay"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Nhiễu điều phủ lấy giá gương, người trong một nước phải thương nhau cùng\". Đồng bào cùng một giang sơn phải luôn đùm bọc, giúp đỡ lẫn nhau."
     },
     {
@@ -5875,12 +5491,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Công cha như núi Thái Sơn, nghĩa mẹ như nước trong (...) chảy ra\"",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "ngay",
-        "nâng",
-        "thương",
-        "nguồn"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Công cha như núi Thái Sơn, nghĩa mẹ như nước trong nguồn chảy ra\". Công ơn sinh thành dưỡng dục của cha mẹ to lớn vô bờ bến không gì sánh bằng."
     },
     {
@@ -5892,12 +5502,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"(...) sự khởi đầu nan\"",
       "blankAnswer": "Vạn",
       "answer": "Vạn",
-      "options": [
-        "sắt",
-        "ngay",
-        "khôn",
-        "Vạn"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Vạn sự khởi đầu nan\". Bất kì công việc gì lúc bắt đầu cũng đều gặp nhiều gian truân, thử thách."
     },
     {
@@ -5909,12 +5513,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Uống nước nhớ (...) đào giếng\"",
       "blankAnswer": "người",
       "answer": "người",
-      "options": [
-        "người",
-        "thương",
-        "mực",
-        "vàng"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Uống nước nhớ người đào giếng\". Hưởng trái ngọt nhớ công người trồng cây, uống nước mát nhớ ơn người đào giếng."
     },
     {
@@ -5926,12 +5524,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Thương người như thể (...) thân\"",
       "blankAnswer": "thương",
       "answer": "thương",
-      "options": [
-        "cây",
-        "thương",
-        "vàng",
-        "non"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Thương người như thể thương thân\". Yêu thương người khác như yêu quý chính bản thân mình."
     },
     {
@@ -5943,12 +5535,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"(...) mực thì đen gần đèn thì sáng\"",
       "blankAnswer": "Gần",
       "answer": "Gần",
-      "options": [
-        "Gần",
-        "sắt",
-        "non",
-        "công"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Gần mực thì đen gần đèn thì sáng\". Ở gần người tốt sẽ học được điều hay, ở gần người xấu dễ bị lây thói hư tật xấu."
     },
     {
@@ -5960,12 +5546,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"(...) ơi thương lấy bí cùng, tuy rằng khác giống nhưng chung một giàn\"",
       "blankAnswer": "Bầu",
       "answer": "Bầu",
-      "options": [
-        "thương",
-        "mực",
-        "Bầu",
-        "thật"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Bầu ơi thương lấy bí cùng, tuy rằng khác giống nhưng chung một giàn\". Dù xuất thân khác nhau nhưng cùng chung sống một đất nước thì phải thương yêu nhau."
     },
     {
@@ -5977,12 +5557,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Lá lành đùm lá (...)\"",
       "blankAnswer": "rách",
       "answer": "rách",
-      "options": [
-        "đùm",
-        "nguồn",
-        "mực",
-        "rách"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Lá lành đùm lá rách\". Khuyên con người phải biết đùm bọc, giúp đỡ lẫn nhau khi gặp hoạn nạn, khó khăn."
     },
     {
@@ -5994,12 +5568,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"(...) nước nhớ người đào giếng\"",
       "blankAnswer": "Uống",
       "answer": "Uống",
-      "options": [
-        "Uống",
-        "ngay",
-        "mực",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Uống nước nhớ người đào giếng\". Hưởng trái ngọt nhớ công người trồng cây, uống nước mát nhớ ơn người đào giếng."
     },
     {
@@ -6011,12 +5579,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Lời nói chẳng mất tiền mua, lựa lời mà nói cho (...) lòng nhau\"",
       "blankAnswer": "vừa",
       "answer": "vừa",
-      "options": [
-        "núi",
-        "nâng",
-        "vừa",
-        "khôn"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Lời nói chẳng mất tiền mua, lựa lời mà nói cho vừa lòng nhau\". Khi giao tiếp cần ăn nói lịch thiệp, nhã nhặn và tế nhị."
     },
     {
@@ -6028,12 +5590,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Tấc (...) tấc vàng\"",
       "blankAnswer": "đất",
       "answer": "đất",
-      "options": [
-        "mực",
-        "ngày",
-        "đất",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Tấc đất tấc vàng\". Mỗi tấc đất đều vô cùng quý giá như vàng vì đem lại nguồn sống cho con người."
     },
     {
@@ -6045,12 +5601,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Thuận vợ thuận (...) tát biển Đông cũng cạn\"",
       "blankAnswer": "chồng",
       "answer": "chồng",
-      "options": [
-        "chồng",
-        "đèn",
-        "thương",
-        "ngay"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Thuận vợ thuận chồng tát biển Đông cũng cạn\". Sự đồng lòng, hòa thuận trong gia đình giúp vượt qua mọi gian khó."
     },
     {
@@ -6062,12 +5612,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Bầu (...) thương lấy bí cùng, tuy rằng khác giống nhưng chung một giàn\"",
       "blankAnswer": "ơi",
       "answer": "ơi",
-      "options": [
-        "kim",
-        "cây",
-        "ngày",
-        "ơi"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Bầu ơi thương lấy bí cùng, tuy rằng khác giống nhưng chung một giàn\". Dù xuất thân khác nhau nhưng cùng chung sống một đất nước thì phải thương yêu nhau."
     },
     {
@@ -6079,12 +5623,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Học (...) không tày học bạn\"",
       "blankAnswer": "thầy",
       "answer": "thầy",
-      "options": [
-        "thầy",
-        "thương",
-        "nâng",
-        "thật"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Học thầy không tày học bạn\". Nhấn mạnh vai trò to lớn của việc học hỏi từ bạn bè xung quanh."
     },
     {
@@ -6096,12 +5634,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Lửa thử vàng gian nan thử (...)\"",
       "blankAnswer": "sức",
       "answer": "sức",
-      "options": [
-        "sức",
-        "núi",
-        "ngay",
-        "ngày"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Lửa thử vàng gian nan thử sức\". Khó khăn thử thách là thước đo lòng kiên định và bản lĩnh con người."
     },
     {
@@ -6113,12 +5645,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"(...) nước nhớ nguồn\"",
       "blankAnswer": "Uống",
       "answer": "Uống",
-      "options": [
-        "công",
-        "sạch",
-        "Uống",
-        "ngày"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Uống nước nhớ nguồn\". Nhắc nhở con cháu phải ghi nhớ cội nguồn, tổ tiên và những người đã giúp đỡ mình."
     },
     {
@@ -6130,12 +5656,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Gần mực thì đen gần đèn thì (...)\"",
       "blankAnswer": "sáng",
       "answer": "sáng",
-      "options": [
-        "núi",
-        "kim",
-        "sắt",
-        "sáng"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Gần mực thì đen gần đèn thì sáng\". Ở gần người tốt sẽ học được điều hay, ở gần người xấu dễ bị lây thói hư tật xấu."
     },
     {
@@ -6147,12 +5667,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"(...) có tổ người có tông\"",
       "blankAnswer": "Chim",
       "answer": "Chim",
-      "options": [
-        "Chim",
-        "bạn",
-        "non",
-        "ngay"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Chim có tổ người có tông\". Mỗi con người đều có tổ tiên, cội nguồn giống như loài chim có tổ để về."
     },
     {
@@ -6164,12 +5678,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Chim có (...) người có tông\"",
       "blankAnswer": "tổ",
       "answer": "tổ",
-      "options": [
-        "ngày",
-        "cây",
-        "sạch",
-        "tổ"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Chim có tổ người có tông\". Mỗi con người đều có tổ tiên, cội nguồn giống như loài chim có tổ để về."
     },
     {
@@ -6181,12 +5689,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Uống nước (...) người đào giếng\"",
       "blankAnswer": "nhớ",
       "answer": "nhớ",
-      "options": [
-        "nguồn",
-        "ngay",
-        "ngày",
-        "nhớ"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Uống nước nhớ người đào giếng\". Hưởng trái ngọt nhớ công người trồng cây, uống nước mát nhớ ơn người đào giếng."
     },
     {
@@ -6198,12 +5700,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"(...) thấy sóng cả mà ngã tay chèo\"",
       "blankAnswer": "Chớ",
       "answer": "Chớ",
-      "options": [
-        "vàng",
-        "núi",
-        "Chớ",
-        "sắt"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Chớ thấy sóng cả mà ngã tay chèo\". Đừng vì thấy khó khăn, nguy nan mà nản lòng, buông xuôi ý chí."
     },
     {
@@ -6215,12 +5711,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Uống (...) nhớ nguồn\"",
       "blankAnswer": "nước",
       "answer": "nước",
-      "options": [
-        "non",
-        "ngay",
-        "nước",
-        "sắt"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Uống nước nhớ nguồn\". Nhắc nhở con cháu phải ghi nhớ cội nguồn, tổ tiên và những người đã giúp đỡ mình."
     },
     {
@@ -6232,12 +5722,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Có (...) mài sắt có ngày nên kim\"",
       "blankAnswer": "công",
       "answer": "công",
-      "options": [
-        "công",
-        "vàng",
-        "núi",
-        "non"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Có công mài sắt có ngày nên kim\". Chỉ cần kiên trì, nỗ lực và nhẫn nại thì việc khó khăn đến mấy cũng sẽ thành công."
     },
     {
@@ -6249,12 +5733,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Người ta là (...) đất\"",
       "blankAnswer": "hoa",
       "answer": "hoa",
-      "options": [
-        "sắt",
-        "ngay",
-        "hoa",
-        "đèn"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Người ta là hoa đất\". Ca ngợi con người là tinh hoa quý báu nhất của vũ trụ và mặt đất."
     },
     {
@@ -6266,12 +5744,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Vạn sự (...) đầu nan\"",
       "blankAnswer": "khởi",
       "answer": "khởi",
-      "options": [
-        "khởi",
-        "thật",
-        "đùm",
-        "sạch"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Vạn sự khởi đầu nan\". Bất kì công việc gì lúc bắt đầu cũng đều gặp nhiều gian truân, thử thách."
     },
     {
@@ -6283,12 +5755,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"(...) ta là hoa đất\"",
       "blankAnswer": "Người",
       "answer": "Người",
-      "options": [
-        "bạn",
-        "kim",
-        "thương",
-        "Người"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Người ta là hoa đất\". Ca ngợi con người là tinh hoa quý báu nhất của vũ trụ và mặt đất."
     },
     {
@@ -6300,12 +5766,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Gần mực thì (...) gần đèn thì sáng\"",
       "blankAnswer": "đen",
       "answer": "đen",
-      "options": [
-        "đen",
-        "đùm",
-        "cây",
-        "mực"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Gần mực thì đen gần đèn thì sáng\". Ở gần người tốt sẽ học được điều hay, ở gần người xấu dễ bị lây thói hư tật xấu."
     },
     {
@@ -6317,12 +5777,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Chớ (...) sóng cả mà ngã tay chèo\"",
       "blankAnswer": "thấy",
       "answer": "thấy",
-      "options": [
-        "thương",
-        "ngày",
-        "thấy",
-        "trồng"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Chớ thấy sóng cả mà ngã tay chèo\". Đừng vì thấy khó khăn, nguy nan mà nản lòng, buông xuôi ý chí."
     },
     {
@@ -6334,12 +5788,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Vạn sự khởi (...) nan\"",
       "blankAnswer": "đầu",
       "answer": "đầu",
-      "options": [
-        "đầu",
-        "vàng",
-        "thương",
-        "núi"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Vạn sự khởi đầu nan\". Bất kì công việc gì lúc bắt đầu cũng đều gặp nhiều gian truân, thử thách."
     },
     {
@@ -6351,12 +5799,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Học thầy không tày (...) bạn\"",
       "blankAnswer": "học",
       "answer": "học",
-      "options": [
-        "nâng",
-        "học",
-        "cây",
-        "nguồn"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Học thầy không tày học bạn\". Nhấn mạnh vai trò to lớn của việc học hỏi từ bạn bè xung quanh."
     },
     {
@@ -6368,12 +5810,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Cây ngay không sợ chết (...)\"",
       "blankAnswer": "đứng",
       "answer": "đứng",
-      "options": [
-        "đứng",
-        "nguồn",
-        "sắt",
-        "núi"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Cây ngay không sợ chết đứng\". Người sống ngay thẳng, thật thà thì không sợ bất kì lời vu khống hay thử thách nào."
     },
     {
@@ -6385,12 +5821,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Chị ngã (...) nâng\"",
       "blankAnswer": "em",
       "answer": "em",
-      "options": [
-        "cây",
-        "kim",
-        "em",
-        "khôn"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Chị ngã em nâng\". Anh chị em trong một nhà phải biết nâng đỡ, thương yêu, che chở cho nhau."
     },
     {
@@ -6402,12 +5832,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Ăn (...) nói thật mọi tật mọi lành\"",
       "blankAnswer": "ngay",
       "answer": "ngay",
-      "options": [
-        "thương",
-        "cây",
-        "ngay",
-        "sạch"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Ăn ngay nói thật mọi tật mọi lành\". Sống chân thành, trung thực thì tâm hồn luôn thanh thản và bình an."
     },
     {
@@ -6419,12 +5843,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"(...) lành đùm lá rách\"",
       "blankAnswer": "Lá",
       "answer": "Lá",
-      "options": [
-        "bạn",
-        "non",
-        "núi",
-        "Lá"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Lá lành đùm lá rách\". Khuyên con người phải biết đùm bọc, giúp đỡ lẫn nhau khi gặp hoạn nạn, khó khăn."
     },
     {
@@ -6436,12 +5854,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Thương người như (...) thương thân\"",
       "blankAnswer": "thể",
       "answer": "thể",
-      "options": [
-        "thể",
-        "nâng",
-        "bạn",
-        "đèn"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Thương người như thể thương thân\". Yêu thương người khác như yêu quý chính bản thân mình."
     },
     {
@@ -6453,12 +5865,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Thuận vợ thuận chồng (...) biển Đông cũng cạn\"",
       "blankAnswer": "tát",
       "answer": "tát",
-      "options": [
-        "tát",
-        "kim",
-        "nguồn",
-        "ngay"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Thuận vợ thuận chồng tát biển Đông cũng cạn\". Sự đồng lòng, hòa thuận trong gia đình giúp vượt qua mọi gian khó."
     },
     {
@@ -6470,12 +5876,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Uống nước (...) nguồn\"",
       "blankAnswer": "nhớ",
       "answer": "nhớ",
-      "options": [
-        "nâng",
-        "nhớ",
-        "trồng",
-        "đèn"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Uống nước nhớ nguồn\". Nhắc nhở con cháu phải ghi nhớ cội nguồn, tổ tiên và những người đã giúp đỡ mình."
     },
     {
@@ -6487,12 +5887,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Một (...) ngựa đau cả tàu bỏ cỏ\"",
       "blankAnswer": "con",
       "answer": "con",
-      "options": [
-        "con",
-        "sắt",
-        "non",
-        "khôn"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Một con ngựa đau cả tàu bỏ cỏ\". Khi một cá nhân gặp nạn, toàn thể tập thể đều chia sẻ nỗi buồn và tương trợ."
     },
     {
@@ -6504,12 +5898,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Có công mài (...) có ngày nên kim\"",
       "blankAnswer": "sắt",
       "answer": "sắt",
-      "options": [
-        "bạn",
-        "sắt",
-        "công",
-        "trồng"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Có công mài sắt có ngày nên kim\". Chỉ cần kiên trì, nỗ lực và nhẫn nại thì việc khó khăn đến mấy cũng sẽ thành công."
     },
     {
@@ -6521,12 +5909,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Chớ thấy (...) cả mà ngã tay chèo\"",
       "blankAnswer": "sóng",
       "answer": "sóng",
-      "options": [
-        "núi",
-        "công",
-        "ngày",
-        "sóng"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Chớ thấy sóng cả mà ngã tay chèo\". Đừng vì thấy khó khăn, nguy nan mà nản lòng, buông xuôi ý chí."
     },
     {
@@ -6538,12 +5920,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Chim có tổ (...) có tông\"",
       "blankAnswer": "người",
       "answer": "người",
-      "options": [
-        "người",
-        "bạn",
-        "kim",
-        "nguồn"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Chim có tổ người có tông\". Mỗi con người đều có tổ tiên, cội nguồn giống như loài chim có tổ để về."
     },
     {
@@ -6555,12 +5931,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Nhiễu điều phủ lấy giá gương, người trong một (...) phải thương nhau cùng\"",
       "blankAnswer": "nước",
       "answer": "nước",
-      "options": [
-        "đèn",
-        "công",
-        "nước",
-        "non"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Nhiễu điều phủ lấy giá gương, người trong một nước phải thương nhau cùng\". Đồng bào cùng một giang sơn phải luôn đùm bọc, giúp đỡ lẫn nhau."
     },
     {
@@ -6572,12 +5942,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Công cha như núi Thái Sơn, (...) mẹ như nước trong nguồn chảy ra\"",
       "blankAnswer": "nghĩa",
       "answer": "nghĩa",
-      "options": [
-        "sắt",
-        "cây",
-        "nghĩa",
-        "non"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Công cha như núi Thái Sơn, nghĩa mẹ như nước trong nguồn chảy ra\". Công ơn sinh thành dưỡng dục của cha mẹ to lớn vô bờ bến không gì sánh bằng."
     },
     {
@@ -6589,12 +5953,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"(...) cho sạch rách cho thơm\"",
       "blankAnswer": "Đói",
       "answer": "Đói",
-      "options": [
-        "thương",
-        "nâng",
-        "ngày",
-        "Đói"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Đói cho sạch rách cho thơm\". Dù trong hoàn cảnh thiếu thốn bần hàn vẫn phải giữ gìn nhân cách và danh dự trong sạch."
     },
     {
@@ -6606,12 +5964,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Một con ngựa đau cả tàu bỏ (...)\"",
       "blankAnswer": "cỏ",
       "answer": "cỏ",
-      "options": [
-        "ngay",
-        "thương",
-        "vàng",
-        "cỏ"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Một con ngựa đau cả tàu bỏ cỏ\". Khi một cá nhân gặp nạn, toàn thể tập thể đều chia sẻ nỗi buồn và tương trợ."
     },
     {
@@ -6623,12 +5975,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"(...) ngay nói thật mọi tật mọi lành\"",
       "blankAnswer": "Ăn",
       "answer": "Ăn",
-      "options": [
-        "ngay",
-        "nâng",
-        "Ăn",
-        "đèn"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Ăn ngay nói thật mọi tật mọi lành\". Sống chân thành, trung thực thì tâm hồn luôn thanh thản và bình an."
     },
     {
@@ -6640,12 +5986,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Ăn quả nhớ (...) trồng cây\"",
       "blankAnswer": "kẻ",
       "answer": "kẻ",
-      "options": [
-        "kẻ",
-        "cây",
-        "nguồn",
-        "núi"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Ăn quả nhớ kẻ trồng cây\". Khuyên nhủ con người khi được hưởng thành quả phải luôn biết ơn công lao người tạo dựng."
     },
     {
@@ -6657,12 +5997,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Đói cho sạch rách cho (...)\"",
       "blankAnswer": "thơm",
       "answer": "thơm",
-      "options": [
-        "kim",
-        "núi",
-        "bạn",
-        "thơm"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Đói cho sạch rách cho thơm\". Dù trong hoàn cảnh thiếu thốn bần hàn vẫn phải giữ gìn nhân cách và danh dự trong sạch."
     },
     {
@@ -6674,12 +6008,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Lửa (...) vàng gian nan thử sức\"",
       "blankAnswer": "thử",
       "answer": "thử",
-      "options": [
-        "sắt",
-        "cây",
-        "núi",
-        "thử"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Lửa thử vàng gian nan thử sức\". Khó khăn thử thách là thước đo lòng kiên định và bản lĩnh con người."
     },
     {
@@ -6691,12 +6019,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Có công mài sắt có (...) nên kim\"",
       "blankAnswer": "ngày",
       "answer": "ngày",
-      "options": [
-        "vàng",
-        "sạch",
-        "ngày",
-        "mực"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Có công mài sắt có ngày nên kim\". Chỉ cần kiên trì, nỗ lực và nhẫn nại thì việc khó khăn đến mấy cũng sẽ thành công."
     },
     {
@@ -6708,12 +6030,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Đi một ngày đàng (...) một sàng khôn\"",
       "blankAnswer": "học",
       "answer": "học",
-      "options": [
-        "đèn",
-        "nâng",
-        "cây",
-        "học"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Đi một ngày đàng học một sàng khôn\". Càng đi nhiều nơi, trải nghiệm thực tế ta càng tích lũy được nhiều hiểu biết, trí tuệ."
     },
     {
@@ -6725,12 +6041,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Thương (...) như thể thương thân\"",
       "blankAnswer": "người",
       "answer": "người",
-      "options": [
-        "sắt",
-        "nguồn",
-        "người",
-        "đèn"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Thương người như thể thương thân\". Yêu thương người khác như yêu quý chính bản thân mình."
     },
     {
@@ -6742,12 +6052,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Ăn quả nhớ kẻ trồng (...)\"",
       "blankAnswer": "cây",
       "answer": "cây",
-      "options": [
-        "cây",
-        "thương",
-        "đùm",
-        "đèn"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Ăn quả nhớ kẻ trồng cây\". Khuyên nhủ con người khi được hưởng thành quả phải luôn biết ơn công lao người tạo dựng."
     },
     {
@@ -6759,12 +6063,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Lời (...) chẳng mất tiền mua, lựa lời mà nói cho vừa lòng nhau\"",
       "blankAnswer": "nói",
       "answer": "nói",
-      "options": [
-        "bạn",
-        "vàng",
-        "nói",
-        "thương"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Lời nói chẳng mất tiền mua, lựa lời mà nói cho vừa lòng nhau\". Khi giao tiếp cần ăn nói lịch thiệp, nhã nhặn và tế nhị."
     },
     {
@@ -6776,12 +6074,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Lửa thử vàng (...) nan thử sức\"",
       "blankAnswer": "gian",
       "answer": "gian",
-      "options": [
-        "gian",
-        "ngày",
-        "sắt",
-        "nâng"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Lửa thử vàng gian nan thử sức\". Khó khăn thử thách là thước đo lòng kiên định và bản lĩnh con người."
     },
     {
@@ -6793,12 +6085,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Đi một (...) đàng học một sàng khôn\"",
       "blankAnswer": "ngày",
       "answer": "ngày",
-      "options": [
-        "ngày",
-        "cây",
-        "vàng",
-        "sạch"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Đi một ngày đàng học một sàng khôn\". Càng đi nhiều nơi, trải nghiệm thực tế ta càng tích lũy được nhiều hiểu biết, trí tuệ."
     },
     {
@@ -6810,12 +6096,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Ăn ngay (...) thật mọi tật mọi lành\"",
       "blankAnswer": "nói",
       "answer": "nói",
-      "options": [
-        "thật",
-        "nói",
-        "non",
-        "núi"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Ăn ngay nói thật mọi tật mọi lành\". Sống chân thành, trung thực thì tâm hồn luôn thanh thản và bình an."
     },
     {
@@ -6827,12 +6107,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Người (...) là hoa đất\"",
       "blankAnswer": "ta",
       "answer": "ta",
-      "options": [
-        "mực",
-        "sạch",
-        "nâng",
-        "ta"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Người ta là hoa đất\". Ca ngợi con người là tinh hoa quý báu nhất của vũ trụ và mặt đất."
     },
     {
@@ -6844,12 +6118,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Công cha như núi Thái (...), nghĩa mẹ như nước trong nguồn chảy ra\"",
       "blankAnswer": "Sơn",
       "answer": "Sơn",
-      "options": [
-        "kim",
-        "Sơn",
-        "đùm",
-        "núi"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Công cha như núi Thái Sơn, nghĩa mẹ như nước trong nguồn chảy ra\". Công ơn sinh thành dưỡng dục của cha mẹ to lớn vô bờ bến không gì sánh bằng."
     },
     {
@@ -6861,12 +6129,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Ăn ngay nói thật (...) tật mọi lành\"",
       "blankAnswer": "mọi",
       "answer": "mọi",
-      "options": [
-        "mực",
-        "sắt",
-        "ngày",
-        "mọi"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Ăn ngay nói thật mọi tật mọi lành\". Sống chân thành, trung thực thì tâm hồn luôn thanh thản và bình an."
     },
     {
@@ -6878,12 +6140,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Ăn quả (...) kẻ trồng cây\"",
       "blankAnswer": "nhớ",
       "answer": "nhớ",
-      "options": [
-        "nhớ",
-        "công",
-        "sắt",
-        "khôn"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Ăn quả nhớ kẻ trồng cây\". Khuyên nhủ con người khi được hưởng thành quả phải luôn biết ơn công lao người tạo dựng."
     },
     {
@@ -6895,12 +6151,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Một cây (...) chẳng nên non, ba cây chụm lại nên hòn núi cao\"",
       "blankAnswer": "làm",
       "answer": "làm",
-      "options": [
-        "sắt",
-        "làm",
-        "khôn",
-        "đùm"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao\". Một người lẻ loi khó làm việc lớn, nhưng khi đoàn kết lại sẽ tạo nên sức mạnh vô địch."
     },
     {
@@ -6912,12 +6162,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Một con ngựa đau cả (...) bỏ cỏ\"",
       "blankAnswer": "tàu",
       "answer": "tàu",
-      "options": [
-        "tàu",
-        "núi",
-        "nâng",
-        "đùm"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Một con ngựa đau cả tàu bỏ cỏ\". Khi một cá nhân gặp nạn, toàn thể tập thể đều chia sẻ nỗi buồn và tương trợ."
     },
     {
@@ -6929,12 +6173,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Gần (...) thì đen gần đèn thì sáng\"",
       "blankAnswer": "mực",
       "answer": "mực",
-      "options": [
-        "thương",
-        "núi",
-        "mực",
-        "nâng"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Gần mực thì đen gần đèn thì sáng\". Ở gần người tốt sẽ học được điều hay, ở gần người xấu dễ bị lây thói hư tật xấu."
     },
     {
@@ -6946,12 +6184,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Có công (...) sắt có ngày nên kim\"",
       "blankAnswer": "mài",
       "answer": "mài",
-      "options": [
-        "mực",
-        "mài",
-        "đùm",
-        "non"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Có công mài sắt có ngày nên kim\". Chỉ cần kiên trì, nỗ lực và nhẫn nại thì việc khó khăn đến mấy cũng sẽ thành công."
     },
     {
@@ -6963,12 +6195,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"(...) vợ thuận chồng tát biển Đông cũng cạn\"",
       "blankAnswer": "Thuận",
       "answer": "Thuận",
-      "options": [
-        "núi",
-        "sắt",
-        "trồng",
-        "Thuận"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Thuận vợ thuận chồng tát biển Đông cũng cạn\". Sự đồng lòng, hòa thuận trong gia đình giúp vượt qua mọi gian khó."
     },
     {
@@ -6980,12 +6206,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Uống nước nhớ người (...) giếng\"",
       "blankAnswer": "đào",
       "answer": "đào",
-      "options": [
-        "sắt",
-        "vàng",
-        "đào",
-        "đùm"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Uống nước nhớ người đào giếng\". Hưởng trái ngọt nhớ công người trồng cây, uống nước mát nhớ ơn người đào giếng."
     },
     {
@@ -6997,12 +6217,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Thương người như thể thương (...)\"",
       "blankAnswer": "thân",
       "answer": "thân",
-      "options": [
-        "núi",
-        "thân",
-        "sạch",
-        "đùm"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Thương người như thể thương thân\". Yêu thương người khác như yêu quý chính bản thân mình."
     },
     {
@@ -7014,12 +6228,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Thuận vợ thuận chồng tát biển Đông cũng (...)\"",
       "blankAnswer": "cạn",
       "answer": "cạn",
-      "options": [
-        "non",
-        "vàng",
-        "sạch",
-        "cạn"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Thuận vợ thuận chồng tát biển Đông cũng cạn\". Sự đồng lòng, hòa thuận trong gia đình giúp vượt qua mọi gian khó."
     },
     {
@@ -7031,12 +6239,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Ăn (...) nhớ kẻ trồng cây\"",
       "blankAnswer": "quả",
       "answer": "quả",
-      "options": [
-        "thật",
-        "vàng",
-        "quả",
-        "công"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Ăn quả nhớ kẻ trồng cây\". Khuyên nhủ con người khi được hưởng thành quả phải luôn biết ơn công lao người tạo dựng."
     },
     {
@@ -7048,12 +6250,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Lá (...) đùm lá rách\"",
       "blankAnswer": "lành",
       "answer": "lành",
-      "options": [
-        "ngay",
-        "kim",
-        "công",
-        "lành"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Lá lành đùm lá rách\". Khuyên con người phải biết đùm bọc, giúp đỡ lẫn nhau khi gặp hoạn nạn, khó khăn."
     },
     {
@@ -7065,12 +6261,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Chớ thấy sóng cả mà (...) tay chèo\"",
       "blankAnswer": "ngã",
       "answer": "ngã",
-      "options": [
-        "sạch",
-        "cây",
-        "nâng",
-        "ngã"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Chớ thấy sóng cả mà ngã tay chèo\". Đừng vì thấy khó khăn, nguy nan mà nản lòng, buông xuôi ý chí."
     },
     {
@@ -7082,12 +6272,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Lá lành đùm (...) rách\"",
       "blankAnswer": "lá",
       "answer": "lá",
-      "options": [
-        "trồng",
-        "ngày",
-        "lá",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Lá lành đùm lá rách\". Khuyên con người phải biết đùm bọc, giúp đỡ lẫn nhau khi gặp hoạn nạn, khó khăn."
     },
     {
@@ -7099,12 +6283,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Uống (...) nhớ người đào giếng\"",
       "blankAnswer": "nước",
       "answer": "nước",
-      "options": [
-        "nước",
-        "trồng",
-        "công",
-        "núi"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Uống nước nhớ người đào giếng\". Hưởng trái ngọt nhớ công người trồng cây, uống nước mát nhớ ơn người đào giếng."
     },
     {
@@ -7116,12 +6294,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Ăn ngay nói thật mọi tật mọi (...)\"",
       "blankAnswer": "lành",
       "answer": "lành",
-      "options": [
-        "công",
-        "đùm",
-        "lành",
-        "trồng"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Ăn ngay nói thật mọi tật mọi lành\". Sống chân thành, trung thực thì tâm hồn luôn thanh thản và bình an."
     },
     {
@@ -7133,12 +6305,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Cây ngay không sợ (...) đứng\"",
       "blankAnswer": "chết",
       "answer": "chết",
-      "options": [
-        "núi",
-        "đèn",
-        "chết",
-        "trồng"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Cây ngay không sợ chết đứng\". Người sống ngay thẳng, thật thà thì không sợ bất kì lời vu khống hay thử thách nào."
     },
     {
@@ -7150,12 +6316,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Lửa thử (...) gian nan thử sức\"",
       "blankAnswer": "vàng",
       "answer": "vàng",
-      "options": [
-        "vàng",
-        "đèn",
-        "ngay",
-        "bạn"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Lửa thử vàng gian nan thử sức\". Khó khăn thử thách là thước đo lòng kiên định và bản lĩnh con người."
     },
     {
@@ -7167,12 +6327,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Học thầy không (...) học bạn\"",
       "blankAnswer": "tày",
       "answer": "tày",
-      "options": [
-        "cây",
-        "tày",
-        "núi",
-        "mực"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Học thầy không tày học bạn\". Nhấn mạnh vai trò to lớn của việc học hỏi từ bạn bè xung quanh."
     },
     {
@@ -7184,12 +6338,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Thuận (...) thuận chồng tát biển Đông cũng cạn\"",
       "blankAnswer": "vợ",
       "answer": "vợ",
-      "options": [
-        "vàng",
-        "trồng",
-        "ngày",
-        "vợ"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Thuận vợ thuận chồng tát biển Đông cũng cạn\". Sự đồng lòng, hòa thuận trong gia đình giúp vượt qua mọi gian khó."
     },
     {
@@ -7201,12 +6349,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Lửa thử vàng gian (...) thử sức\"",
       "blankAnswer": "nan",
       "answer": "nan",
-      "options": [
-        "núi",
-        "thương",
-        "nan",
-        "sạch"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Lửa thử vàng gian nan thử sức\". Khó khăn thử thách là thước đo lòng kiên định và bản lĩnh con người."
     },
     {
@@ -20749,12 +19891,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -20766,12 +19902,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -20783,12 +19913,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -20800,12 +19924,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -20817,12 +19935,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -20834,12 +19946,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -20851,12 +19957,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -20868,12 +19968,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -20885,12 +19979,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -20902,12 +19990,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -20919,12 +20001,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -20936,12 +20012,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -20953,12 +20023,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -20970,12 +20034,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -20987,12 +20045,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -21004,12 +20056,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -21021,12 +20067,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -21038,12 +20078,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -21055,12 +20089,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -21072,12 +20100,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -21089,12 +20111,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -21106,12 +20122,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -21123,12 +20133,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -21140,12 +20144,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -21157,12 +20155,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -21174,12 +20166,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -21191,12 +20177,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -21208,12 +20188,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -21225,12 +20199,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -21242,12 +20210,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -21259,12 +20221,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -21276,12 +20232,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -21293,12 +20243,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -21310,12 +20254,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -21327,12 +20265,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -21344,12 +20276,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -21361,12 +20287,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -21378,12 +20298,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -21395,12 +20309,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -21412,12 +20320,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -21429,12 +20331,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -21446,12 +20342,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -21463,12 +20353,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -21480,12 +20364,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -21497,12 +20375,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -21514,12 +20386,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -21531,12 +20397,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -21548,12 +20408,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -21565,12 +20419,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -21582,12 +20430,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -21599,12 +20441,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -21616,12 +20452,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -21633,12 +20463,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -21650,12 +20474,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -21667,12 +20485,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -21684,12 +20496,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -21701,12 +20507,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -21718,12 +20518,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -21735,12 +20529,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -21752,12 +20540,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -21769,12 +20551,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -21786,12 +20562,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -21803,12 +20573,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -21820,12 +20584,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -21837,12 +20595,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -21854,12 +20606,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -21871,12 +20617,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -21888,12 +20628,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -21905,12 +20639,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -21922,12 +20650,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -21939,12 +20661,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -21956,12 +20672,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -21973,12 +20683,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -21990,12 +20694,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -22007,12 +20705,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -22024,12 +20716,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -22041,12 +20727,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -22058,12 +20738,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -22075,12 +20749,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -22092,12 +20760,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -22109,12 +20771,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -22126,12 +20782,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -22143,12 +20793,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -22160,12 +20804,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -22177,12 +20815,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -22194,12 +20826,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -22211,12 +20837,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -22228,12 +20848,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -22245,12 +20859,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -22262,12 +20870,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -22279,12 +20881,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -22296,12 +20892,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -22313,12 +20903,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -22330,12 +20914,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -22347,12 +20925,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -22364,12 +20936,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -22381,12 +20947,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -22398,12 +20958,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -22415,12 +20969,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -22432,12 +20980,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -22449,12 +20991,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -22466,12 +21002,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -22483,12 +21013,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -22500,12 +21024,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -22517,12 +21035,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -22534,12 +21046,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -22551,12 +21057,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -22568,12 +21068,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -22585,12 +21079,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -22602,12 +21090,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -22619,12 +21101,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -22636,12 +21112,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -22653,12 +21123,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -22670,12 +21134,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -22687,12 +21145,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -22704,12 +21156,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -22721,12 +21167,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -22738,12 +21178,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -22755,12 +21189,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -22772,12 +21200,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -22789,12 +21211,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -22806,12 +21222,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -22823,12 +21233,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -22840,12 +21244,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -22857,12 +21255,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -22874,12 +21266,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -22891,12 +21277,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -22908,12 +21288,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -22925,12 +21299,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -22942,12 +21310,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -22959,12 +21321,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -22976,12 +21332,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -22993,12 +21343,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -23010,12 +21354,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -23027,12 +21365,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -23044,12 +21376,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -23061,12 +21387,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -23078,12 +21398,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -23095,12 +21409,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -23112,12 +21420,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -23129,12 +21431,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -23146,12 +21442,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -23163,12 +21453,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -23180,12 +21464,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -23197,12 +21475,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -23214,12 +21486,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -23231,12 +21497,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -23248,12 +21508,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -23265,12 +21519,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -23282,12 +21530,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -23299,12 +21541,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -23316,12 +21552,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -23333,12 +21563,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -23350,12 +21574,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -23367,12 +21585,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -23384,12 +21596,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -23401,12 +21607,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -23418,12 +21618,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -23435,12 +21629,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -23452,12 +21640,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -23469,12 +21651,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -23486,12 +21662,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -23503,12 +21673,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -23520,12 +21684,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -23537,12 +21695,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -23554,12 +21706,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -23571,12 +21717,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -23588,12 +21728,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -23605,12 +21739,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -23622,12 +21750,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -23639,12 +21761,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -23656,12 +21772,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -23673,12 +21783,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -23690,12 +21794,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -23707,12 +21805,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -23724,12 +21816,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -23741,12 +21827,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -23758,12 +21838,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -23775,12 +21849,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -23792,12 +21860,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -23809,12 +21871,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -23826,12 +21882,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -23843,12 +21893,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -23860,12 +21904,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -23877,12 +21915,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -23894,12 +21926,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -23911,12 +21937,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -23928,12 +21948,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -23945,12 +21959,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -23962,12 +21970,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -23979,12 +21981,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -23996,12 +21992,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -24013,12 +22003,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -24030,12 +22014,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -24047,12 +22025,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -24064,12 +22036,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -24081,12 +22047,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -24098,12 +22058,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -24115,12 +22069,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -24132,12 +22080,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -24149,12 +22091,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -24166,12 +22102,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -24183,12 +22113,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -24200,12 +22124,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -24217,12 +22135,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -24234,12 +22146,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -24251,12 +22157,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -24268,12 +22168,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -24285,12 +22179,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -24302,12 +22190,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -24319,12 +22201,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -24336,12 +22212,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -24353,12 +22223,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -24370,12 +22234,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -24387,12 +22245,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -24404,12 +22256,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -24421,12 +22267,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -24438,12 +22278,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -24455,12 +22289,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -24472,12 +22300,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -24489,12 +22311,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -24506,12 +22322,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -24523,12 +22333,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -24540,12 +22344,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -24557,12 +22355,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -24574,12 +22366,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -24591,12 +22377,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -24608,12 +22388,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -24625,12 +22399,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -24642,12 +22410,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -24659,12 +22421,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -24676,12 +22432,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -24693,12 +22443,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -24710,12 +22454,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -24727,12 +22465,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -24744,12 +22476,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -24761,12 +22487,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -24778,12 +22498,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -24795,12 +22509,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {
@@ -24812,12 +22520,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: 'Uống nước nhớ ...'",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "sông",
-        "giếng",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'."
     },
     {

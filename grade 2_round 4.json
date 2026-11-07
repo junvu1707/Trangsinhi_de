@@ -4026,12 +4026,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Chớ thấy sóng cả mà ngã tay (...)\"",
       "blankAnswer": "chèo",
       "answer": "chèo",
-      "options": [
-        "chèo",
-        "đùm",
-        "khôn",
-        "thật"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Chớ thấy sóng cả mà ngã tay chèo\". Đừng vì thấy khó khăn, nguy nan mà nản lòng, buông xuôi ý chí.",
       "questionNumber": 196
     },
@@ -4044,12 +4038,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Ăn ngay nói (...) mọi tật mọi lành\"",
       "blankAnswer": "thật",
       "answer": "thật",
-      "options": [
-        "thật",
-        "bạn",
-        "vàng",
-        "sạch"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Ăn ngay nói thật mọi tật mọi lành\". Sống chân thành, trung thực thì tâm hồn luôn thanh thản và bình an.",
       "questionNumber": 197
     },
@@ -4062,12 +4050,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Chim có tổ người có (...)\"",
       "blankAnswer": "tông",
       "answer": "tông",
-      "options": [
-        "kim",
-        "bạn",
-        "khôn",
-        "tông"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Chim có tổ người có tông\". Mỗi con người đều có tổ tiên, cội nguồn giống như loài chim có tổ để về.",
       "questionNumber": 198
     },
@@ -4080,12 +4062,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Học thầy không tày học (...)\"",
       "blankAnswer": "bạn",
       "answer": "bạn",
-      "options": [
-        "bạn",
-        "thật",
-        "ngay",
-        "sạch"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Học thầy không tày học bạn\". Nhấn mạnh vai trò to lớn của việc học hỏi từ bạn bè xung quanh.",
       "questionNumber": 199
     },
@@ -4098,12 +4074,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Gần mực thì đen gần (...) thì sáng\"",
       "blankAnswer": "đèn",
       "answer": "đèn",
-      "options": [
-        "đèn",
-        "sạch",
-        "thật",
-        "khôn"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Gần mực thì đen gần đèn thì sáng\". Ở gần người tốt sẽ học được điều hay, ở gần người xấu dễ bị lây thói hư tật xấu.",
       "questionNumber": 200
     },
@@ -4116,12 +4086,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Người ta là (...)\"",
       "blankAnswer": "hoa đất",
       "answer": "hoa đất",
-      "options": [
-        "hoa đất",
-        "ngay",
-        "kim",
-        "sạch"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Người ta là hoa đất\". Ca ngợi con người là tinh hoa quý báu nhất của vũ trụ và mặt đất.",
       "questionNumber": 201
     },
@@ -4135,12 +4099,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Lửa thử vàng gian nan (...)\"",
       "blankAnswer": "thử sức",
       "answer": "thử sức",
-      "options": [
-        "thật",
-        "vàng",
-        "sạch",
-        "thử sức"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Lửa thử vàng gian nan thử sức\". Khó khăn thử thách là thước đo lòng kiên định và bản lĩnh con người.",
       "questionNumber": 203
     },
@@ -4153,12 +4111,6 @@
       "question": "Điền chữ cái hoặc âm thích hợp vào chỗ trống: \"(...)e đạp\"",
       "blankAnswer": "x",
       "answer": "x",
-      "options": [
-        "ch",
-        "s",
-        "tr",
-        "x"
-      ],
       "explanation": "Từ đúng chính tả là 'xe đạp', do đó âm cần điền là 'x'.",
       "questionNumber": 204
     },
@@ -4171,12 +4123,6 @@
       "question": "Điền chữ cái hoặc âm thích hợp vào chỗ trống: \"(...)ỉ ngơi\"",
       "blankAnswer": "ngh",
       "answer": "ngh",
-      "options": [
-        "nh",
-        "gh",
-        "ng",
-        "ngh"
-      ],
       "explanation": "Từ đúng chính tả là 'nghỉ ngơi', do đó âm cần điền là 'ngh'.",
       "questionNumber": 205
     },
@@ -4189,12 +4135,6 @@
       "question": "Điền chữ cái hoặc âm thích hợp vào chỗ trống: \"con (...)à\"",
       "blankAnswer": "g",
       "answer": "g",
-      "options": [
-        "g",
-        "gh",
-        "k",
-        "gi"
-      ],
       "explanation": "Từ đúng chính tả là 'gà', do đó âm cần điền là 'g'.",
       "questionNumber": 206
     },
@@ -4207,12 +4147,6 @@
       "question": "Điền chữ cái hoặc âm thích hợp vào chỗ trống: \"(...)àng xóm\"",
       "blankAnswer": "l",
       "answer": "l",
-      "options": [
-        "l",
-        "d",
-        "v",
-        "n"
-      ],
       "explanation": "Từ đúng chính tả là 'làng xóm', do đó âm cần điền là 'l'.",
       "questionNumber": 207
     },
@@ -4225,12 +4159,6 @@
       "question": "Điền chữ cái hoặc âm thích hợp vào chỗ trống: \"cây (...)e\"",
       "blankAnswer": "tr",
       "answer": "tr",
-      "options": [
-        "tr",
-        "r",
-        "t",
-        "ch"
-      ],
       "explanation": "Từ đúng chính tả là 'cây tre', do đó âm cần điền là 'tr'.",
       "questionNumber": 208
     },
@@ -4243,12 +4171,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Có công mài sắt có ngày nên (...)\"",
       "blankAnswer": "kim",
       "answer": "kim",
-      "options": [
-        "đèn",
-        "kim",
-        "nâng",
-        "thật"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Có công mài sắt có ngày nên kim\". Chỉ cần kiên trì, nỗ lực và nhẫn nại thì việc khó khăn đến mấy cũng sẽ thành công.",
       "questionNumber": 209
     },
@@ -4261,12 +4183,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Cây (...) không sợ chết đứng\"",
       "blankAnswer": "ngay",
       "answer": "ngay",
-      "options": [
-        "sạch",
-        "ngay",
-        "vàng",
-        "khôn"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Cây ngay không sợ chết đứng\". Người sống ngay thẳng, thật thà thì không sợ bất kì lời vu khống hay thử thách nào.",
       "questionNumber": 210
     },
@@ -4279,12 +4195,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Uống nước nhớ (...)\"",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nâng",
-        "thật",
-        "khôn",
-        "nguồn"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Uống nước nhớ nguồn\". Nhắc nhở con cháu phải ghi nhớ cội nguồn, tổ tiên và những người đã giúp đỡ mình.",
       "questionNumber": 211
     },
@@ -4297,12 +4207,6 @@
       "question": "Điền chữ cái hoặc âm thích hợp vào chỗ trống: \"con (...)ìm\"",
       "blankAnswer": "k",
       "answer": "k",
-      "options": [
-        "k",
-        "c",
-        "ch",
-        "q"
-      ],
       "explanation": "Từ đúng chính tả là 'kìm', do đó âm cần điền là 'k'.",
       "questionNumber": 212
     },
@@ -4315,12 +4219,6 @@
       "question": "Điền chữ cái hoặc âm thích hợp vào chỗ trống: \"dòng (...)ông\"",
       "blankAnswer": "s",
       "answer": "s",
-      "options": [
-        "d",
-        "r",
-        "s",
-        "x"
-      ],
       "explanation": "Từ đúng chính tả là 'dòng sông', do đó âm cần điền là 's'.",
       "questionNumber": 213
     },
@@ -4333,12 +4231,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Lá lành (...) lá rách\"",
       "blankAnswer": "đùm",
       "answer": "đùm",
-      "options": [
-        "kim",
-        "nâng",
-        "đùm",
-        "trồng"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Lá lành đùm lá rách\". Khuyên con người phải biết đùm bọc, giúp đỡ lẫn nhau khi gặp hoạn nạn, khó khăn.",
       "questionNumber": 214
     },
@@ -4351,12 +4243,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Đi một ngày đàng học một sàng (...)\"",
       "blankAnswer": "khôn",
       "answer": "khôn",
-      "options": [
-        "ngay",
-        "đèn",
-        "trồng",
-        "khôn"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Đi một ngày đàng học một sàng khôn\". Càng đi nhiều nơi, trải nghiệm thực tế ta càng tích lũy được nhiều hiểu biết, trí tuệ.",
       "questionNumber": 215
     },
@@ -4369,12 +4255,6 @@
       "question": "Điền chữ cái hoặc âm thích hợp vào chỗ trống: \"(...)ôi sao\"",
       "blankAnswer": "ng",
       "answer": "ng",
-      "options": [
-        "ngh",
-        "nh",
-        "ng",
-        "m"
-      ],
       "explanation": "Từ đúng chính tả là 'ngôi sao', do đó âm cần điền là 'ng'.",
       "questionNumber": 216
     },
@@ -4387,12 +4267,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Lời nói chẳng mất tiền mua, lựa lời mà nói cho vừa lòng (...)\"",
       "blankAnswer": "nhau",
       "answer": "nhau",
-      "options": [
-        "vàng",
-        "nhau",
-        "bạn",
-        "đùm"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Lời nói chẳng mất tiền mua, lựa lời mà nói cho vừa lòng nhau\". Khi giao tiếp cần ăn nói lịch thiệp, nhã nhặn và tế nhị.",
       "questionNumber": 217
     },
@@ -4405,12 +4279,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Ăn quả nhớ kẻ (...) cây\"",
       "blankAnswer": "trồng",
       "answer": "trồng",
-      "options": [
-        "thật",
-        "trồng",
-        "nâng",
-        "đùm"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Ăn quả nhớ kẻ trồng cây\". Khuyên nhủ con người khi được hưởng thành quả phải luôn biết ơn công lao người tạo dựng.",
       "questionNumber": 218
     },
@@ -4423,12 +4291,6 @@
       "question": "Điền chữ cái hoặc âm thích hợp vào chỗ trống: \"(...)ụ cười\"",
       "blankAnswer": "n",
       "answer": "n",
-      "options": [
-        "đ",
-        "m",
-        "n",
-        "l"
-      ],
       "explanation": "Từ đúng chính tả là 'nụ cười', do đó âm cần điền là 'n'.",
       "questionNumber": 219
     },
@@ -4441,12 +4303,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Thuận vợ thuận chồng tát (...) cũng cạn\"",
       "blankAnswer": "biển Đông",
       "answer": "biển Đông",
-      "options": [
-        "vàng",
-        "biển Đông",
-        "trồng",
-        "bạn"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Thuận vợ thuận chồng tát biển Đông cũng cạn\". Sự đồng lòng, hòa thuận trong gia đình giúp vượt qua mọi gian khó.",
       "questionNumber": 220
     },
@@ -4459,12 +4315,6 @@
       "question": "Điền chữ cái hoặc âm thích hợp vào chỗ trống: \"con (...)á\"",
       "blankAnswer": "c",
       "answer": "c",
-      "options": [
-        "tr",
-        "q",
-        "k",
-        "c"
-      ],
       "explanation": "Từ đúng chính tả là 'cá', do đó âm cần điền là 'c'.",
       "questionNumber": 221
     },
@@ -4477,12 +4327,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Nhiễu điều phủ lấy giá gương, người trong một nước phải (...) nhau cùng\"",
       "blankAnswer": "thương",
       "answer": "thương",
-      "options": [
-        "vàng",
-        "thương",
-        "nguồn",
-        "thật"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Nhiễu điều phủ lấy giá gương, người trong một nước phải thương nhau cùng\". Đồng bào cùng một giang sơn phải luôn đùm bọc, giúp đỡ lẫn nhau.",
       "questionNumber": 222
     },
@@ -4495,12 +4339,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Công cha như núi (...), nghĩa mẹ như nước trong nguồn chảy ra\"",
       "blankAnswer": "Thái Sơn",
       "answer": "Thái Sơn",
-      "options": [
-        "vàng",
-        "đùm",
-        "nguồn",
-        "Thái Sơn"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Công cha như núi Thái Sơn, nghĩa mẹ như nước trong nguồn chảy ra\". Công ơn sinh thành dưỡng dục của cha mẹ to lớn vô bờ bến không gì sánh bằng.",
       "questionNumber": 223
     },
@@ -4513,12 +4351,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Vạn sự khởi đầu (...)\"",
       "blankAnswer": "nan",
       "answer": "nan",
-      "options": [
-        "vàng",
-        "sạch",
-        "nan",
-        "kim"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Vạn sự khởi đầu nan\". Bất kì công việc gì lúc bắt đầu cũng đều gặp nhiều gian truân, thử thách.",
       "questionNumber": 224
     },
@@ -4531,12 +4363,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Uống nước nhớ người (...)\"",
       "blankAnswer": "đào giếng",
       "answer": "đào giếng",
-      "options": [
-        "đào giếng",
-        "ngay",
-        "kim",
-        "sạch"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Uống nước nhớ người đào giếng\". Hưởng trái ngọt nhớ công người trồng cây, uống nước mát nhớ ơn người đào giếng.",
       "questionNumber": 225
     },
@@ -4549,12 +4375,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Đói cho (...) rách cho thơm\"",
       "blankAnswer": "sạch",
       "answer": "sạch",
-      "options": [
-        "sạch",
-        "vàng",
-        "đèn",
-        "nguồn"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Đói cho sạch rách cho thơm\". Dù trong hoàn cảnh thiếu thốn bần hàn vẫn phải giữ gìn nhân cách và danh dự trong sạch.",
       "questionNumber": 226
     },
@@ -4567,12 +4387,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Tấc đất tấc (...)\"",
       "blankAnswer": "vàng",
       "answer": "vàng",
-      "options": [
-        "đùm",
-        "trồng",
-        "kim",
-        "vàng"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Tấc đất tấc vàng\". Mỗi tấc đất đều vô cùng quý giá như vàng vì đem lại nguồn sống cho con người.",
       "questionNumber": 227
     },
@@ -4585,12 +4399,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Bầu ơi (...) lấy bí cùng, tuy rằng khác giống nhưng chung một giàn\"",
       "blankAnswer": "thương",
       "answer": "thương",
-      "options": [
-        "đèn",
-        "thương",
-        "kim",
-        "đùm"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Bầu ơi thương lấy bí cùng, tuy rằng khác giống nhưng chung một giàn\". Dù xuất thân khác nhau nhưng cùng chung sống một đất nước thì phải thương yêu nhau.",
       "questionNumber": 228
     },
@@ -4603,12 +4411,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Thương người như thể (...)\"",
       "blankAnswer": "thương thân",
       "answer": "thương thân",
-      "options": [
-        "khôn",
-        "thương thân",
-        "nguồn",
-        "kim"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Thương người như thể thương thân\". Yêu thương người khác như yêu quý chính bản thân mình.",
       "questionNumber": 229
     },
@@ -4621,12 +4423,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Một con ngựa đau cả tàu (...)\"",
       "blankAnswer": "bỏ cỏ",
       "answer": "bỏ cỏ",
-      "options": [
-        "bỏ cỏ",
-        "đèn",
-        "bạn",
-        "sạch"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Một con ngựa đau cả tàu bỏ cỏ\". Khi một cá nhân gặp nạn, toàn thể tập thể đều chia sẻ nỗi buồn và tương trợ.",
       "questionNumber": 230
     },
@@ -4639,12 +4435,6 @@
       "question": "Điền chữ cái hoặc âm thích hợp vào chỗ trống: \"(...)ăm chỉ\"",
       "blankAnswer": "ch",
       "answer": "ch",
-      "options": [
-        "c",
-        "ch",
-        "tr",
-        "s"
-      ],
       "explanation": "Từ đúng chính tả là 'chăm chỉ', do đó âm cần điền là 'ch'.",
       "questionNumber": 231
     },
@@ -4657,12 +4447,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Một cây làm chẳng nên non, ba cây chụm lại nên hòn (...)\"",
       "blankAnswer": "núi cao",
       "answer": "núi cao",
-      "options": [
-        "thật",
-        "nguồn",
-        "núi cao",
-        "trồng"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao\". Một người lẻ loi khó làm việc lớn, nhưng khi đoàn kết lại sẽ tạo nên sức mạnh vô địch.",
       "questionNumber": 232
     },
@@ -4675,12 +4459,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Chị ngã em (...)\"",
       "blankAnswer": "nâng",
       "answer": "nâng",
-      "options": [
-        "sạch",
-        "bạn",
-        "nâng",
-        "thật"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Chị ngã em nâng\". Anh chị em trong một nhà phải biết nâng đỡ, thương yêu, che chở cho nhau.",
       "questionNumber": 233
     },
@@ -5492,12 +5270,6 @@
       "question": "Điền từ còn thiếu: “Một con ngựa đau, cả tàu bỏ …”",
       "blankAnswer": "cỏ",
       "answer": "cỏ",
-      "options": [
-        "cỏ",
-        "cây",
-        "lá",
-        "hoa"
-      ],
       "explanation": "Câu tục ngữ hoàn chỉnh là “Một con ngựa đau, cả tàu bỏ cỏ”, nói về sự cảm thông, chia sẻ.",
       "questionNumber": 281
     },
@@ -5510,12 +5282,6 @@
       "question": "Điền từ còn thiếu: “Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi …”",
       "blankAnswer": "cao",
       "answer": "cao",
-      "options": [
-        "cao",
-        "xanh",
-        "đỏ",
-        "xa"
-      ],
       "explanation": "Câu tục ngữ nhấn mạnh sức mạnh đoàn kết.",
       "questionNumber": 282
     },
@@ -5528,12 +5294,6 @@
       "question": "Điền từ còn thiếu: “Ăn trông nồi, ngồi trông …”",
       "blankAnswer": "hướng",
       "answer": "hướng",
-      "options": [
-        "hướng",
-        "bàn",
-        "nhà",
-        "người"
-      ],
       "explanation": "Câu tục ngữ khuyên cư xử ý tứ, đúng mực.",
       "questionNumber": 283
     },
@@ -5546,12 +5306,6 @@
       "question": "Điền từ còn thiếu: “Gần mực thì đen, gần đèn thì …”",
       "blankAnswer": "rạng",
       "answer": "rạng",
-      "options": [
-        "rạng",
-        "sáng",
-        "tối",
-        "vàng"
-      ],
       "explanation": "Câu tục ngữ khuyên chọn môi trường và bạn bè tốt.",
       "questionNumber": 284
     },
@@ -5564,12 +5318,6 @@
       "question": "Điền từ còn thiếu: “Lời nói chẳng mất tiền mua, lựa lời mà nói cho vừa lòng …”",
       "blankAnswer": "nhau",
       "answer": "nhau",
-      "options": [
-        "nhau",
-        "bạn",
-        "mẹ",
-        "người"
-      ],
       "explanation": "Câu tục ngữ khuyên nói năng lịch sự, tế nhị.",
       "questionNumber": 285
     },
@@ -5582,12 +5330,6 @@
       "question": "Điền từ chỉ hoạt động của người vào câu nhân hóa: “Ông mặt trời … sau rặng tre.”",
       "blankAnswer": "thức dậy",
       "answer": "thức dậy",
-      "options": [
-        "thức dậy",
-        "màu đỏ",
-        "tròn xoe",
-        "xa xa"
-      ],
       "explanation": "“Thức dậy” là hoạt động của con người, được dùng để nhân hóa mặt trời.",
       "questionNumber": 286
     },
@@ -5600,12 +5342,6 @@
       "question": "Điền từ nhân hóa thích hợp: “Chị gió … qua khung cửa.”",
       "blankAnswer": "ghé thăm",
       "answer": "ghé thăm",
-      "options": [
-        "ghé thăm",
-        "xanh biếc",
-        "trong veo",
-        "cao vút"
-      ],
       "explanation": "“Ghé thăm” là cách nói nhân hóa gió như một người khách.",
       "questionNumber": 287
     },
@@ -5618,12 +5354,6 @@
       "question": "Điền từ còn thiếu để tạo từ láy tượng thanh: “tiếng mưa rơi tí …”",
       "blankAnswer": "tách",
       "answer": "tách",
-      "options": [
-        "tách",
-        "xanh",
-        "cao",
-        "thơm"
-      ],
       "explanation": "“Tí tách” mô phỏng âm thanh giọt mưa.",
       "questionNumber": 288
     },
@@ -5636,12 +5366,6 @@
       "question": "Điền từ còn thiếu: “Dòng suối chảy róc …”",
       "blankAnswer": "rách",
       "answer": "rách",
-      "options": [
-        "rách",
-        "rào",
-        "rỡ",
-        "ràng"
-      ],
       "explanation": "“Róc rách” là từ tượng thanh.",
       "questionNumber": 289
     },
@@ -5654,12 +5378,6 @@
       "question": "Điền từ láy gợi hình: “Chú bé đi … vì chiếc cặp quá nặng.”",
       "blankAnswer": "lom khom",
       "answer": "lom khom",
-      "options": [
-        "lom khom",
-        "rì rào",
-        "leng keng",
-        "ầm ầm"
-      ],
       "explanation": "“Lom khom” gợi dáng người cúi thấp.",
       "questionNumber": 290
     },
@@ -5672,12 +5390,6 @@
       "question": "Trong câu “Mẹ đặt lọ hoa trên bàn”, điền từ chỉ đồ vật: “lọ …”",
       "blankAnswer": "hoa",
       "answer": "hoa",
-      "options": [
-        "hoa",
-        "đường",
-        "chân",
-        "tay"
-      ],
       "explanation": "“Lọ hoa” là đồ vật dùng để cắm hoa.",
       "questionNumber": 291
     },
@@ -5690,12 +5402,6 @@
       "question": "Trong câu “Em đi trên con đường làng”, điền từ chỉ lối đi: “con … làng”",
       "blankAnswer": "đường",
       "answer": "đường",
-      "options": [
-        "đường",
-        "mật",
-        "ăn",
-        "ngọt"
-      ],
       "explanation": "“Đường” trong ngữ cảnh này chỉ lối đi.",
       "questionNumber": 292
     },
@@ -5708,12 +5414,6 @@
       "question": "Điền từ còn thiếu để hoàn thành câu: “Có công mài sắt, có ngày nên …”",
       "blankAnswer": "kim",
       "answer": "kim",
-      "options": [
-        "kim",
-        "kéo",
-        "bút",
-        "dao"
-      ],
       "explanation": "Câu tục ngữ khuyên kiên trì, bền bỉ.",
       "questionNumber": 293
     },
@@ -5726,12 +5426,6 @@
       "question": "Điền từ còn thiếu: “Chị ngã em …”",
       "blankAnswer": "nâng",
       "answer": "nâng",
-      "options": [
-        "nâng",
-        "đỡ",
-        "gọi",
-        "chờ"
-      ],
       "explanation": "Câu nói nhắc anh chị em yêu thương, giúp đỡ nhau.",
       "questionNumber": 294
     },
@@ -5744,12 +5438,6 @@
       "question": "Điền từ còn thiếu trong câu thơ: “Trăng … đầu núi, bạn nhỏ say mê ngắm nhìn.”",
       "blankAnswer": "treo",
       "answer": "treo",
-      "options": [
-        "treo",
-        "chạy",
-        "nói",
-        "đọc"
-      ],
       "explanation": "“Trăng treo” là cách diễn đạt hình ảnh về vầng trăng trên cao.",
       "questionNumber": 295
     },
@@ -5762,12 +5450,6 @@
       "question": "Điền chủ ngữ phù hợp: “… đang tưới những luống rau.”",
       "blankAnswer": "Bác nông dân",
       "answer": "Bác nông dân",
-      "options": [
-        "Bác nông dân",
-        "Rất xanh",
-        "Ngoài vườn",
-        "Thật chăm chỉ"
-      ],
       "explanation": "“Bác nông dân” là chủ ngữ chỉ người thực hiện hoạt động tưới rau.",
       "questionNumber": 296
     },
@@ -5780,12 +5462,6 @@
       "question": "Điền vị ngữ phù hợp: “Những chú chim …”",
       "blankAnswer": "hót líu lo trên cành",
       "answer": "hót líu lo trên cành",
-      "options": [
-        "hót líu lo trên cành",
-        "trong khu vườn",
-        "những chiếc lá",
-        "vào buổi sáng"
-      ],
       "explanation": "Cụm từ chỉ hoạt động làm vị ngữ, hoàn thành câu.",
       "questionNumber": 297
     },
@@ -5798,12 +5474,6 @@
       "question": "Điền từ đúng chính tả: “Bạn nhỏ luôn … lời hứa.”",
       "blankAnswer": "giữ",
       "answer": "giữ",
-      "options": [
-        "giữ",
-        "dữ",
-        "rữ",
-        "dử"
-      ],
       "explanation": "Cụm từ đúng là “giữ lời hứa”.",
       "questionNumber": 298
     },
@@ -5816,12 +5486,6 @@
       "question": "Điền từ thích hợp: “Bạn bè cần … đỡ nhau khi gặp khó khăn.”",
       "blankAnswer": "giúp",
       "answer": "giúp",
-      "options": [
-        "giúp",
-        "gúp",
-        "dúp",
-        "zúp"
-      ],
       "explanation": "Từ đúng chính tả và hợp nghĩa là “giúp”.",
       "questionNumber": 299
     },
@@ -5834,12 +5498,6 @@
       "question": "Điền từ chỉ cảm xúc: “Nghe tin bạn khỏi bệnh, em rất …”",
       "blankAnswer": "vui mừng",
       "answer": "vui mừng",
-      "options": [
-        "vui mừng",
-        "lom khom",
-        "rì rào",
-        "lấp lánh"
-      ],
       "explanation": "“Vui mừng” diễn tả cảm xúc tích cực.",
       "questionNumber": 300
     },
@@ -22869,12 +22527,6 @@
       "answer": "tưới nước",
       "explanation": "'tưới nước' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "tưới nước",
-      "options": [
-        "đưa giúp",
-        "nhặt",
-        "gieo",
-        "tưới nước"
-      ],
       "questionId": "k2_c4_dt_5000",
       "questionNumber": 1001
     },
@@ -22887,12 +22539,6 @@
       "answer": "đọc",
       "explanation": "'đọc' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "đọc",
-      "options": [
-        "cho ăn",
-        "tưới nước",
-        "đọc",
-        "chăm sóc"
-      ],
       "questionId": "k2_c4_dt_5001",
       "questionNumber": 1002
     },
@@ -22905,12 +22551,6 @@
       "answer": "quét dọn",
       "explanation": "'quét dọn' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "quét dọn",
-      "options": [
-        "nhặt",
-        "gấp",
-        "quét dọn",
-        "gieo"
-      ],
       "questionId": "k2_c4_dt_5002",
       "questionNumber": 1003
     },
@@ -22923,12 +22563,6 @@
       "answer": "chăm sóc",
       "explanation": "'chăm sóc' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "chăm sóc",
-      "options": [
-        "chăm sóc",
-        "đem tặng",
-        "gói ghém",
-        "sửa chữa"
-      ],
       "questionId": "k2_c4_dt_5003",
       "questionNumber": 1004
     },
@@ -22941,12 +22575,6 @@
       "answer": "xếp gọn",
       "explanation": "'xếp gọn' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "xếp gọn",
-      "options": [
-        "đem tặng",
-        "gói ghém",
-        "xếp gọn",
-        "trồng"
-      ],
       "questionId": "k2_c4_dt_5004",
       "questionNumber": 1005
     },
@@ -22959,12 +22587,6 @@
       "answer": "nhặt",
       "explanation": "'nhặt' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "nhặt",
-      "options": [
-        "nhổ cỏ",
-        "buộc chặt",
-        "gói ghém",
-        "nhặt"
-      ],
       "questionId": "k2_c4_dt_5005",
       "questionNumber": 1006
     },
@@ -22977,12 +22599,6 @@
       "answer": "lau sạch",
       "explanation": "'lau sạch' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "lau sạch",
-      "options": [
-        "quét dọn",
-        "xếp gọn",
-        "gấp",
-        "lau sạch"
-      ],
       "questionId": "k2_c4_dt_5006",
       "questionNumber": 1007
     },
@@ -22995,12 +22611,6 @@
       "answer": "vẽ",
       "explanation": "'vẽ' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "vẽ",
-      "options": [
-        "cho ăn",
-        "lau sạch",
-        "vẽ",
-        "buộc chặt"
-      ],
       "questionId": "k2_c4_dt_5007",
       "questionNumber": 1008
     },
@@ -23013,12 +22623,6 @@
       "answer": "cho ăn",
       "explanation": "'cho ăn' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "cho ăn",
-      "options": [
-        "sửa chữa",
-        "nhổ cỏ",
-        "cho ăn",
-        "trồng"
-      ],
       "questionId": "k2_c4_dt_5008",
       "questionNumber": 1009
     },
@@ -23031,12 +22635,6 @@
       "answer": "đem tặng",
       "explanation": "'đem tặng' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "đem tặng",
-      "options": [
-        "quan sát",
-        "trồng",
-        "đọc",
-        "đem tặng"
-      ],
       "questionId": "k2_c4_dt_5009",
       "questionNumber": 1010
     },
@@ -23049,12 +22647,6 @@
       "answer": "trồng",
       "explanation": "'trồng' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "trồng",
-      "options": [
-        "sửa chữa",
-        "trồng",
-        "vẽ",
-        "đem tặng"
-      ],
       "questionId": "k2_c4_dt_5010",
       "questionNumber": 1011
     },
@@ -23067,12 +22659,6 @@
       "answer": "gấp",
       "explanation": "'gấp' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "gấp",
-      "options": [
-        "lau sạch",
-        "quét dọn",
-        "chăm sóc",
-        "gấp"
-      ],
       "questionId": "k2_c4_dt_5011",
       "questionNumber": 1012
     },
@@ -23085,12 +22671,6 @@
       "answer": "sửa chữa",
       "explanation": "'sửa chữa' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "sửa chữa",
-      "options": [
-        "quét dọn",
-        "sửa chữa",
-        "nhổ cỏ",
-        "buộc chặt"
-      ],
       "questionId": "k2_c4_dt_5012",
       "questionNumber": 1013
     },
@@ -23103,12 +22683,6 @@
       "answer": "buộc chặt",
       "explanation": "'buộc chặt' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "buộc chặt",
-      "options": [
-        "quan sát",
-        "buộc chặt",
-        "tưới nước",
-        "quét dọn"
-      ],
       "questionId": "k2_c4_dt_5013",
       "questionNumber": 1014
     },
@@ -23121,12 +22695,6 @@
       "answer": "quan sát",
       "explanation": "'quan sát' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "quan sát",
-      "options": [
-        "đọc",
-        "sửa chữa",
-        "quan sát",
-        "gấp"
-      ],
       "questionId": "k2_c4_dt_5014",
       "questionNumber": 1015
     },
@@ -23139,12 +22707,6 @@
       "answer": "nhổ cỏ",
       "explanation": "'nhổ cỏ' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "nhổ cỏ",
-      "options": [
-        "quan sát",
-        "tập viết",
-        "cho ăn",
-        "nhổ cỏ"
-      ],
       "questionId": "k2_c4_dt_5015",
       "questionNumber": 1016
     },
@@ -23157,12 +22719,6 @@
       "answer": "gieo",
       "explanation": "'gieo' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "gieo",
-      "options": [
-        "gấp",
-        "lau sạch",
-        "gói ghém",
-        "gieo"
-      ],
       "questionId": "k2_c4_dt_5016",
       "questionNumber": 1017
     },
@@ -23175,12 +22731,6 @@
       "answer": "tập viết",
       "explanation": "'tập viết' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "tập viết",
-      "options": [
-        "cho ăn",
-        "tập viết",
-        "trồng",
-        "tưới nước"
-      ],
       "questionId": "k2_c4_dt_5017",
       "questionNumber": 1018
     },
@@ -23193,12 +22743,6 @@
       "answer": "gói ghém",
       "explanation": "'gói ghém' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "gói ghém",
-      "options": [
-        "chăm sóc",
-        "quan sát",
-        "tưới nước",
-        "gói ghém"
-      ],
       "questionId": "k2_c4_dt_5018",
       "questionNumber": 1019
     },
@@ -23211,12 +22755,6 @@
       "answer": "đưa giúp",
       "explanation": "'đưa giúp' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "đưa giúp",
-      "options": [
-        "chăm sóc",
-        "sửa chữa",
-        "đưa giúp",
-        "cho ăn"
-      ],
       "questionId": "k2_c4_dt_5019",
       "questionNumber": 1020
     },
@@ -23229,12 +22767,6 @@
       "answer": "tưới nước",
       "explanation": "'tưới nước' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "tưới nước",
-      "options": [
-        "tưới nước",
-        "đem tặng",
-        "lau sạch",
-        "tập viết"
-      ],
       "questionId": "k2_c4_dt_5020",
       "questionNumber": 1021
     },
@@ -23247,12 +22779,6 @@
       "answer": "đọc",
       "explanation": "'đọc' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "đọc",
-      "options": [
-        "nhặt",
-        "đọc",
-        "tập viết",
-        "quét dọn"
-      ],
       "questionId": "k2_c4_dt_5021",
       "questionNumber": 1022
     },
@@ -23265,12 +22791,6 @@
       "answer": "quét dọn",
       "explanation": "'quét dọn' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "quét dọn",
-      "options": [
-        "quét dọn",
-        "đưa giúp",
-        "vẽ",
-        "buộc chặt"
-      ],
       "questionId": "k2_c4_dt_5022",
       "questionNumber": 1023
     },
@@ -23283,12 +22803,6 @@
       "answer": "chăm sóc",
       "explanation": "'chăm sóc' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "chăm sóc",
-      "options": [
-        "tập viết",
-        "chăm sóc",
-        "quét dọn",
-        "nhổ cỏ"
-      ],
       "questionId": "k2_c4_dt_5023",
       "questionNumber": 1024
     },
@@ -23301,12 +22815,6 @@
       "answer": "xếp gọn",
       "explanation": "'xếp gọn' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "xếp gọn",
-      "options": [
-        "lau sạch",
-        "xếp gọn",
-        "nhặt",
-        "vẽ"
-      ],
       "questionId": "k2_c4_dt_5024",
       "questionNumber": 1025
     },
@@ -23319,12 +22827,6 @@
       "answer": "nhặt",
       "explanation": "'nhặt' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "nhặt",
-      "options": [
-        "đem tặng",
-        "nhặt",
-        "lau sạch",
-        "tưới nước"
-      ],
       "questionId": "k2_c4_dt_5025",
       "questionNumber": 1026
     },
@@ -23337,12 +22839,6 @@
       "answer": "lau sạch",
       "explanation": "'lau sạch' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "lau sạch",
-      "options": [
-        "gấp",
-        "lau sạch",
-        "đem tặng",
-        "buộc chặt"
-      ],
       "questionId": "k2_c4_dt_5026",
       "questionNumber": 1027
     },
@@ -23355,12 +22851,6 @@
       "answer": "vẽ",
       "explanation": "'vẽ' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "vẽ",
-      "options": [
-        "đọc",
-        "sửa chữa",
-        "gieo",
-        "vẽ"
-      ],
       "questionId": "k2_c4_dt_5027",
       "questionNumber": 1028
     },
@@ -23373,12 +22863,6 @@
       "answer": "cho ăn",
       "explanation": "'cho ăn' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "cho ăn",
-      "options": [
-        "lau sạch",
-        "sửa chữa",
-        "cho ăn",
-        "gói ghém"
-      ],
       "questionId": "k2_c4_dt_5028",
       "questionNumber": 1029
     },
@@ -23391,12 +22875,6 @@
       "answer": "đem tặng",
       "explanation": "'đem tặng' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "đem tặng",
-      "options": [
-        "đưa giúp",
-        "quan sát",
-        "nhổ cỏ",
-        "đem tặng"
-      ],
       "questionId": "k2_c4_dt_5029",
       "questionNumber": 1030
     },
@@ -23409,12 +22887,6 @@
       "answer": "trồng",
       "explanation": "'trồng' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "trồng",
-      "options": [
-        "chăm sóc",
-        "đọc",
-        "đưa giúp",
-        "trồng"
-      ],
       "questionId": "k2_c4_dt_5030",
       "questionNumber": 1031
     },
@@ -23427,12 +22899,6 @@
       "answer": "gấp",
       "explanation": "'gấp' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "gấp",
-      "options": [
-        "lau sạch",
-        "xếp gọn",
-        "tưới nước",
-        "gấp"
-      ],
       "questionId": "k2_c4_dt_5031",
       "questionNumber": 1032
     },
@@ -23445,12 +22911,6 @@
       "answer": "sửa chữa",
       "explanation": "'sửa chữa' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "sửa chữa",
-      "options": [
-        "đọc",
-        "trồng",
-        "sửa chữa",
-        "đưa giúp"
-      ],
       "questionId": "k2_c4_dt_5032",
       "questionNumber": 1033
     },
@@ -23463,12 +22923,6 @@
       "answer": "buộc chặt",
       "explanation": "'buộc chặt' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "buộc chặt",
-      "options": [
-        "trồng",
-        "đọc",
-        "chăm sóc",
-        "buộc chặt"
-      ],
       "questionId": "k2_c4_dt_5033",
       "questionNumber": 1034
     },
@@ -23481,12 +22935,6 @@
       "answer": "quan sát",
       "explanation": "'quan sát' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "quan sát",
-      "options": [
-        "gấp",
-        "đọc",
-        "quan sát",
-        "đưa giúp"
-      ],
       "questionId": "k2_c4_dt_5034",
       "questionNumber": 1035
     },
@@ -23499,12 +22947,6 @@
       "answer": "nhổ cỏ",
       "explanation": "'nhổ cỏ' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "nhổ cỏ",
-      "options": [
-        "gói ghém",
-        "quét dọn",
-        "tưới nước",
-        "nhổ cỏ"
-      ],
       "questionId": "k2_c4_dt_5035",
       "questionNumber": 1036
     },
@@ -23517,12 +22959,6 @@
       "answer": "gieo",
       "explanation": "'gieo' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "gieo",
-      "options": [
-        "gieo",
-        "xếp gọn",
-        "nhổ cỏ",
-        "đọc"
-      ],
       "questionId": "k2_c4_dt_5036",
       "questionNumber": 1037
     },
@@ -23535,12 +22971,6 @@
       "answer": "tập viết",
       "explanation": "'tập viết' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "tập viết",
-      "options": [
-        "tập viết",
-        "tưới nước",
-        "gieo",
-        "quét dọn"
-      ],
       "questionId": "k2_c4_dt_5037",
       "questionNumber": 1038
     },
@@ -23553,12 +22983,6 @@
       "answer": "gói ghém",
       "explanation": "'gói ghém' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "gói ghém",
-      "options": [
-        "trồng",
-        "lau sạch",
-        "gói ghém",
-        "sửa chữa"
-      ],
       "questionId": "k2_c4_dt_5038",
       "questionNumber": 1039
     },
@@ -23571,12 +22995,6 @@
       "answer": "đưa giúp",
       "explanation": "'đưa giúp' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "đưa giúp",
-      "options": [
-        "tập viết",
-        "gói ghém",
-        "đưa giúp",
-        "xếp gọn"
-      ],
       "questionId": "k2_c4_dt_5039",
       "questionNumber": 1040
     },
@@ -23589,12 +23007,6 @@
       "answer": "tưới nước",
       "explanation": "'tưới nước' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "tưới nước",
-      "options": [
-        "tập viết",
-        "gấp",
-        "buộc chặt",
-        "tưới nước"
-      ],
       "questionId": "k2_c4_dt_5040",
       "questionNumber": 1041
     },
@@ -23607,12 +23019,6 @@
       "answer": "đọc",
       "explanation": "'đọc' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "đọc",
-      "options": [
-        "đem tặng",
-        "trồng",
-        "đọc",
-        "chăm sóc"
-      ],
       "questionId": "k2_c4_dt_5041",
       "questionNumber": 1042
     },
@@ -23625,12 +23031,6 @@
       "answer": "quét dọn",
       "explanation": "'quét dọn' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "quét dọn",
-      "options": [
-        "quét dọn",
-        "nhặt",
-        "gấp",
-        "gieo"
-      ],
       "questionId": "k2_c4_dt_5042",
       "questionNumber": 1043
     },
@@ -23643,12 +23043,6 @@
       "answer": "chăm sóc",
       "explanation": "'chăm sóc' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "chăm sóc",
-      "options": [
-        "chăm sóc",
-        "lau sạch",
-        "nhặt",
-        "đọc"
-      ],
       "questionId": "k2_c4_dt_5043",
       "questionNumber": 1044
     },
@@ -23661,12 +23055,6 @@
       "answer": "xếp gọn",
       "explanation": "'xếp gọn' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "xếp gọn",
-      "options": [
-        "xếp gọn",
-        "sửa chữa",
-        "nhặt",
-        "buộc chặt"
-      ],
       "questionId": "k2_c4_dt_5044",
       "questionNumber": 1045
     },
@@ -23679,12 +23067,6 @@
       "answer": "nhặt",
       "explanation": "'nhặt' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "nhặt",
-      "options": [
-        "nhổ cỏ",
-        "buộc chặt",
-        "xếp gọn",
-        "nhặt"
-      ],
       "questionId": "k2_c4_dt_5045",
       "questionNumber": 1046
     },
@@ -23697,12 +23079,6 @@
       "answer": "lau sạch",
       "explanation": "'lau sạch' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "lau sạch",
-      "options": [
-        "lau sạch",
-        "gieo",
-        "đọc",
-        "chăm sóc"
-      ],
       "questionId": "k2_c4_dt_5046",
       "questionNumber": 1047
     },
@@ -23715,12 +23091,6 @@
       "answer": "vẽ",
       "explanation": "'vẽ' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "vẽ",
-      "options": [
-        "gói ghém",
-        "vẽ",
-        "quan sát",
-        "đưa giúp"
-      ],
       "questionId": "k2_c4_dt_5047",
       "questionNumber": 1048
     },
@@ -23733,12 +23103,6 @@
       "answer": "cho ăn",
       "explanation": "'cho ăn' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "cho ăn",
-      "options": [
-        "chăm sóc",
-        "cho ăn",
-        "tập viết",
-        "gói ghém"
-      ],
       "questionId": "k2_c4_dt_5048",
       "questionNumber": 1049
     },
@@ -23751,12 +23115,6 @@
       "answer": "đem tặng",
       "explanation": "'đem tặng' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "đem tặng",
-      "options": [
-        "quan sát",
-        "đem tặng",
-        "gieo",
-        "xếp gọn"
-      ],
       "questionId": "k2_c4_dt_5049",
       "questionNumber": 1050
     },
@@ -23769,12 +23127,6 @@
       "answer": "trồng",
       "explanation": "'trồng' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "trồng",
-      "options": [
-        "vẽ",
-        "tưới nước",
-        "trồng",
-        "quan sát"
-      ],
       "questionId": "k2_c4_dt_5050",
       "questionNumber": 1051
     },
@@ -23787,12 +23139,6 @@
       "answer": "gấp",
       "explanation": "'gấp' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "gấp",
-      "options": [
-        "gấp",
-        "tập viết",
-        "cho ăn",
-        "buộc chặt"
-      ],
       "questionId": "k2_c4_dt_5051",
       "questionNumber": 1052
     },
@@ -23805,12 +23151,6 @@
       "answer": "sửa chữa",
       "explanation": "'sửa chữa' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "sửa chữa",
-      "options": [
-        "gói ghém",
-        "sửa chữa",
-        "nhặt",
-        "lau sạch"
-      ],
       "questionId": "k2_c4_dt_5052",
       "questionNumber": 1053
     },
@@ -23823,12 +23163,6 @@
       "answer": "buộc chặt",
       "explanation": "'buộc chặt' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "buộc chặt",
-      "options": [
-        "nhặt",
-        "lau sạch",
-        "tưới nước",
-        "buộc chặt"
-      ],
       "questionId": "k2_c4_dt_5053",
       "questionNumber": 1054
     },
@@ -23841,12 +23175,6 @@
       "answer": "quan sát",
       "explanation": "'quan sát' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "quan sát",
-      "options": [
-        "gói ghém",
-        "tập viết",
-        "quan sát",
-        "đem tặng"
-      ],
       "questionId": "k2_c4_dt_5054",
       "questionNumber": 1055
     },
@@ -23859,12 +23187,6 @@
       "answer": "nhổ cỏ",
       "explanation": "'nhổ cỏ' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "nhổ cỏ",
-      "options": [
-        "quét dọn",
-        "nhổ cỏ",
-        "đem tặng",
-        "quan sát"
-      ],
       "questionId": "k2_c4_dt_5055",
       "questionNumber": 1056
     },
@@ -23877,12 +23199,6 @@
       "answer": "gieo",
       "explanation": "'gieo' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "gieo",
-      "options": [
-        "sửa chữa",
-        "xếp gọn",
-        "quan sát",
-        "gieo"
-      ],
       "questionId": "k2_c4_dt_5056",
       "questionNumber": 1057
     },
@@ -23895,12 +23211,6 @@
       "answer": "tập viết",
       "explanation": "'tập viết' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "tập viết",
-      "options": [
-        "vẽ",
-        "tập viết",
-        "nhổ cỏ",
-        "gấp"
-      ],
       "questionId": "k2_c4_dt_5057",
       "questionNumber": 1058
     },
@@ -23913,12 +23223,6 @@
       "answer": "gói ghém",
       "explanation": "'gói ghém' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "gói ghém",
-      "options": [
-        "đọc",
-        "tưới nước",
-        "gói ghém",
-        "nhặt"
-      ],
       "questionId": "k2_c4_dt_5058",
       "questionNumber": 1059
     },
@@ -23931,12 +23235,6 @@
       "answer": "đưa giúp",
       "explanation": "'đưa giúp' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "đưa giúp",
-      "options": [
-        "nhổ cỏ",
-        "chăm sóc",
-        "đem tặng",
-        "đưa giúp"
-      ],
       "questionId": "k2_c4_dt_5059",
       "questionNumber": 1060
     },
@@ -23949,12 +23247,6 @@
       "answer": "tưới nước",
       "explanation": "'tưới nước' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "tưới nước",
-      "options": [
-        "đem tặng",
-        "tưới nước",
-        "xếp gọn",
-        "quan sát"
-      ],
       "questionId": "k2_c4_dt_5060",
       "questionNumber": 1061
     },
@@ -23967,12 +23259,6 @@
       "answer": "đọc",
       "explanation": "'đọc' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "đọc",
-      "options": [
-        "quét dọn",
-        "đọc",
-        "gói ghém",
-        "cho ăn"
-      ],
       "questionId": "k2_c4_dt_5061",
       "questionNumber": 1062
     },
@@ -23985,12 +23271,6 @@
       "answer": "quét dọn",
       "explanation": "'quét dọn' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "quét dọn",
-      "options": [
-        "tưới nước",
-        "cho ăn",
-        "tập viết",
-        "quét dọn"
-      ],
       "questionId": "k2_c4_dt_5062",
       "questionNumber": 1063
     },
@@ -24003,12 +23283,6 @@
       "answer": "chăm sóc",
       "explanation": "'chăm sóc' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "chăm sóc",
-      "options": [
-        "sửa chữa",
-        "đọc",
-        "chăm sóc",
-        "quét dọn"
-      ],
       "questionId": "k2_c4_dt_5063",
       "questionNumber": 1064
     },
@@ -24021,12 +23295,6 @@
       "answer": "xếp gọn",
       "explanation": "'xếp gọn' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "xếp gọn",
-      "options": [
-        "gấp",
-        "xếp gọn",
-        "trồng",
-        "đưa giúp"
-      ],
       "questionId": "k2_c4_dt_5064",
       "questionNumber": 1065
     },
@@ -24039,12 +23307,6 @@
       "answer": "nhặt",
       "explanation": "'nhặt' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "nhặt",
-      "options": [
-        "gói ghém",
-        "nhổ cỏ",
-        "nhặt",
-        "tưới nước"
-      ],
       "questionId": "k2_c4_dt_5065",
       "questionNumber": 1066
     },
@@ -24057,12 +23319,6 @@
       "answer": "lau sạch",
       "explanation": "'lau sạch' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "lau sạch",
-      "options": [
-        "đọc",
-        "lau sạch",
-        "vẽ",
-        "gói ghém"
-      ],
       "questionId": "k2_c4_dt_5066",
       "questionNumber": 1067
     },
@@ -24075,12 +23331,6 @@
       "answer": "vẽ",
       "explanation": "'vẽ' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "vẽ",
-      "options": [
-        "nhổ cỏ",
-        "gói ghém",
-        "vẽ",
-        "sửa chữa"
-      ],
       "questionId": "k2_c4_dt_5067",
       "questionNumber": 1068
     },
@@ -24093,12 +23343,6 @@
       "answer": "cho ăn",
       "explanation": "'cho ăn' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "cho ăn",
-      "options": [
-        "đọc",
-        "vẽ",
-        "quan sát",
-        "cho ăn"
-      ],
       "questionId": "k2_c4_dt_5068",
       "questionNumber": 1069
     },
@@ -24111,12 +23355,6 @@
       "answer": "đem tặng",
       "explanation": "'đem tặng' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "đem tặng",
-      "options": [
-        "tưới nước",
-        "quan sát",
-        "đọc",
-        "đem tặng"
-      ],
       "questionId": "k2_c4_dt_5069",
       "questionNumber": 1070
     },
@@ -24129,12 +23367,6 @@
       "answer": "trồng",
       "explanation": "'trồng' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "trồng",
-      "options": [
-        "đưa giúp",
-        "tập viết",
-        "trồng",
-        "nhặt"
-      ],
       "questionId": "k2_c4_dt_5070",
       "questionNumber": 1071
     },
@@ -24147,12 +23379,6 @@
       "answer": "gấp",
       "explanation": "'gấp' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "gấp",
-      "options": [
-        "tập viết",
-        "gấp",
-        "gói ghém",
-        "quan sát"
-      ],
       "questionId": "k2_c4_dt_5071",
       "questionNumber": 1072
     },
@@ -24165,12 +23391,6 @@
       "answer": "sửa chữa",
       "explanation": "'sửa chữa' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "sửa chữa",
-      "options": [
-        "quét dọn",
-        "sửa chữa",
-        "quan sát",
-        "xếp gọn"
-      ],
       "questionId": "k2_c4_dt_5072",
       "questionNumber": 1073
     },
@@ -24183,12 +23403,6 @@
       "answer": "buộc chặt",
       "explanation": "'buộc chặt' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "buộc chặt",
-      "options": [
-        "buộc chặt",
-        "tưới nước",
-        "xếp gọn",
-        "gấp"
-      ],
       "questionId": "k2_c4_dt_5073",
       "questionNumber": 1074
     },
@@ -24201,12 +23415,6 @@
       "answer": "quan sát",
       "explanation": "'quan sát' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "quan sát",
-      "options": [
-        "quan sát",
-        "quét dọn",
-        "lau sạch",
-        "xếp gọn"
-      ],
       "questionId": "k2_c4_dt_5074",
       "questionNumber": 1075
     },
@@ -24219,12 +23427,6 @@
       "answer": "nhổ cỏ",
       "explanation": "'nhổ cỏ' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "nhổ cỏ",
-      "options": [
-        "quan sát",
-        "nhổ cỏ",
-        "gói ghém",
-        "đọc"
-      ],
       "questionId": "k2_c4_dt_5075",
       "questionNumber": 1076
     },
@@ -24237,12 +23439,6 @@
       "answer": "gieo",
       "explanation": "'gieo' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "gieo",
-      "options": [
-        "đem tặng",
-        "tập viết",
-        "gieo",
-        "sửa chữa"
-      ],
       "questionId": "k2_c4_dt_5076",
       "questionNumber": 1077
     },
@@ -24255,12 +23451,6 @@
       "answer": "tập viết",
       "explanation": "'tập viết' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "tập viết",
-      "options": [
-        "tập viết",
-        "gấp",
-        "cho ăn",
-        "đưa giúp"
-      ],
       "questionId": "k2_c4_dt_5077",
       "questionNumber": 1078
     },
@@ -24273,12 +23463,6 @@
       "answer": "gói ghém",
       "explanation": "'gói ghém' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "gói ghém",
-      "options": [
-        "chăm sóc",
-        "vẽ",
-        "gói ghém",
-        "buộc chặt"
-      ],
       "questionId": "k2_c4_dt_5078",
       "questionNumber": 1079
     },
@@ -24291,12 +23475,6 @@
       "answer": "đưa giúp",
       "explanation": "'đưa giúp' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "đưa giúp",
-      "options": [
-        "gieo",
-        "sửa chữa",
-        "đưa giúp",
-        "quét dọn"
-      ],
       "questionId": "k2_c4_dt_5079",
       "questionNumber": 1080
     },
@@ -24309,12 +23487,6 @@
       "answer": "tưới nước",
       "explanation": "'tưới nước' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "tưới nước",
-      "options": [
-        "gói ghém",
-        "tưới nước",
-        "trồng",
-        "nhổ cỏ"
-      ],
       "questionId": "k2_c4_dt_5080",
       "questionNumber": 1081
     },
@@ -24327,12 +23499,6 @@
       "answer": "đọc",
       "explanation": "'đọc' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "đọc",
-      "options": [
-        "đọc",
-        "buộc chặt",
-        "lau sạch",
-        "nhặt"
-      ],
       "questionId": "k2_c4_dt_5081",
       "questionNumber": 1082
     },
@@ -24345,12 +23511,6 @@
       "answer": "quét dọn",
       "explanation": "'quét dọn' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "quét dọn",
-      "options": [
-        "sửa chữa",
-        "nhặt",
-        "gieo",
-        "quét dọn"
-      ],
       "questionId": "k2_c4_dt_5082",
       "questionNumber": 1083
     },
@@ -24363,12 +23523,6 @@
       "answer": "chăm sóc",
       "explanation": "'chăm sóc' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "chăm sóc",
-      "options": [
-        "gấp",
-        "gieo",
-        "đem tặng",
-        "chăm sóc"
-      ],
       "questionId": "k2_c4_dt_5083",
       "questionNumber": 1084
     },
@@ -24381,12 +23535,6 @@
       "answer": "xếp gọn",
       "explanation": "'xếp gọn' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "xếp gọn",
-      "options": [
-        "tập viết",
-        "xếp gọn",
-        "gấp",
-        "trồng"
-      ],
       "questionId": "k2_c4_dt_5084",
       "questionNumber": 1085
     },
@@ -24399,12 +23547,6 @@
       "answer": "nhặt",
       "explanation": "'nhặt' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "nhặt",
-      "options": [
-        "buộc chặt",
-        "sửa chữa",
-        "nhặt",
-        "gói ghém"
-      ],
       "questionId": "k2_c4_dt_5085",
       "questionNumber": 1086
     },
@@ -24417,12 +23559,6 @@
       "answer": "lau sạch",
       "explanation": "'lau sạch' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "lau sạch",
-      "options": [
-        "nhổ cỏ",
-        "quan sát",
-        "lau sạch",
-        "đem tặng"
-      ],
       "questionId": "k2_c4_dt_5086",
       "questionNumber": 1087
     },
@@ -24435,12 +23571,6 @@
       "answer": "vẽ",
       "explanation": "'vẽ' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "vẽ",
-      "options": [
-        "đưa giúp",
-        "tưới nước",
-        "vẽ",
-        "chăm sóc"
-      ],
       "questionId": "k2_c4_dt_5087",
       "questionNumber": 1088
     },
@@ -24453,12 +23583,6 @@
       "answer": "cho ăn",
       "explanation": "'cho ăn' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "cho ăn",
-      "options": [
-        "cho ăn",
-        "buộc chặt",
-        "tập viết",
-        "trồng"
-      ],
       "questionId": "k2_c4_dt_5088",
       "questionNumber": 1089
     },
@@ -24471,12 +23595,6 @@
       "answer": "đem tặng",
       "explanation": "'đem tặng' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "đem tặng",
-      "options": [
-        "gieo",
-        "quan sát",
-        "đem tặng",
-        "buộc chặt"
-      ],
       "questionId": "k2_c4_dt_5089",
       "questionNumber": 1090
     },
@@ -24489,12 +23607,6 @@
       "answer": "trồng",
       "explanation": "'trồng' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "trồng",
-      "options": [
-        "trồng",
-        "lau sạch",
-        "gấp",
-        "tưới nước"
-      ],
       "questionId": "k2_c4_dt_5090",
       "questionNumber": 1091
     },
@@ -24507,12 +23619,6 @@
       "answer": "gấp",
       "explanation": "'gấp' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "gấp",
-      "options": [
-        "quan sát",
-        "gấp",
-        "sửa chữa",
-        "gói ghém"
-      ],
       "questionId": "k2_c4_dt_5091",
       "questionNumber": 1092
     },
@@ -24525,12 +23631,6 @@
       "answer": "sửa chữa",
       "explanation": "'sửa chữa' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "sửa chữa",
-      "options": [
-        "đọc",
-        "buộc chặt",
-        "sửa chữa",
-        "quét dọn"
-      ],
       "questionId": "k2_c4_dt_5092",
       "questionNumber": 1093
     },
@@ -24543,12 +23643,6 @@
       "answer": "buộc chặt",
       "explanation": "'buộc chặt' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "buộc chặt",
-      "options": [
-        "quét dọn",
-        "buộc chặt",
-        "sửa chữa",
-        "tưới nước"
-      ],
       "questionId": "k2_c4_dt_5093",
       "questionNumber": 1094
     },
@@ -24561,12 +23655,6 @@
       "answer": "quan sát",
       "explanation": "'quan sát' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "quan sát",
-      "options": [
-        "cho ăn",
-        "nhặt",
-        "quan sát",
-        "buộc chặt"
-      ],
       "questionId": "k2_c4_dt_5094",
       "questionNumber": 1095
     },
@@ -24579,12 +23667,6 @@
       "answer": "nhổ cỏ",
       "explanation": "'nhổ cỏ' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "nhổ cỏ",
-      "options": [
-        "nhặt",
-        "vẽ",
-        "cho ăn",
-        "nhổ cỏ"
-      ],
       "questionId": "k2_c4_dt_5095",
       "questionNumber": 1096
     },
@@ -24597,12 +23679,6 @@
       "answer": "gieo",
       "explanation": "'gieo' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "gieo",
-      "options": [
-        "gói ghém",
-        "gieo",
-        "gấp",
-        "nhặt"
-      ],
       "questionId": "k2_c4_dt_5096",
       "questionNumber": 1097
     },
@@ -24615,12 +23691,6 @@
       "answer": "tập viết",
       "explanation": "'tập viết' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "tập viết",
-      "options": [
-        "tập viết",
-        "gieo",
-        "gấp",
-        "vẽ"
-      ],
       "questionId": "k2_c4_dt_5097",
       "questionNumber": 1098
     },
@@ -24633,12 +23703,6 @@
       "answer": "gói ghém",
       "explanation": "'gói ghém' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "gói ghém",
-      "options": [
-        "gấp",
-        "đọc",
-        "buộc chặt",
-        "gói ghém"
-      ],
       "questionId": "k2_c4_dt_5098",
       "questionNumber": 1099
     },
@@ -24651,12 +23715,6 @@
       "answer": "đưa giúp",
       "explanation": "'đưa giúp' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "đưa giúp",
-      "options": [
-        "đọc",
-        "lau sạch",
-        "đưa giúp",
-        "buộc chặt"
-      ],
       "questionId": "k2_c4_dt_5099",
       "questionNumber": 1100
     },
@@ -24669,12 +23727,6 @@
       "answer": "tưới nước",
       "explanation": "'tưới nước' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "tưới nước",
-      "options": [
-        "tưới nước",
-        "nhổ cỏ",
-        "quan sát",
-        "tập viết"
-      ],
       "questionId": "k2_c4_dt_5100",
       "questionNumber": 1101
     },
@@ -24687,12 +23739,6 @@
       "answer": "đọc",
       "explanation": "'đọc' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "đọc",
-      "options": [
-        "đọc",
-        "đưa giúp",
-        "sửa chữa",
-        "gieo"
-      ],
       "questionId": "k2_c4_dt_5101",
       "questionNumber": 1102
     },
@@ -24705,12 +23751,6 @@
       "answer": "quét dọn",
       "explanation": "'quét dọn' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "quét dọn",
-      "options": [
-        "quan sát",
-        "quét dọn",
-        "xếp gọn",
-        "buộc chặt"
-      ],
       "questionId": "k2_c4_dt_5102",
       "questionNumber": 1103
     },
@@ -24723,12 +23763,6 @@
       "answer": "chăm sóc",
       "explanation": "'chăm sóc' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "chăm sóc",
-      "options": [
-        "vẽ",
-        "chăm sóc",
-        "trồng",
-        "gấp"
-      ],
       "questionId": "k2_c4_dt_5103",
       "questionNumber": 1104
     },
@@ -24741,12 +23775,6 @@
       "answer": "xếp gọn",
       "explanation": "'xếp gọn' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "xếp gọn",
-      "options": [
-        "tưới nước",
-        "buộc chặt",
-        "xếp gọn",
-        "quét dọn"
-      ],
       "questionId": "k2_c4_dt_5104",
       "questionNumber": 1105
     },
@@ -24759,12 +23787,6 @@
       "answer": "nhặt",
       "explanation": "'nhặt' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "nhặt",
-      "options": [
-        "nhặt",
-        "nhổ cỏ",
-        "trồng",
-        "gấp"
-      ],
       "questionId": "k2_c4_dt_5105",
       "questionNumber": 1106
     },
@@ -24777,12 +23799,6 @@
       "answer": "lau sạch",
       "explanation": "'lau sạch' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "lau sạch",
-      "options": [
-        "đọc",
-        "buộc chặt",
-        "nhặt",
-        "lau sạch"
-      ],
       "questionId": "k2_c4_dt_5106",
       "questionNumber": 1107
     },
@@ -24795,12 +23811,6 @@
       "answer": "vẽ",
       "explanation": "'vẽ' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "vẽ",
-      "options": [
-        "vẽ",
-        "gói ghém",
-        "nhổ cỏ",
-        "quét dọn"
-      ],
       "questionId": "k2_c4_dt_5107",
       "questionNumber": 1108
     },
@@ -24813,12 +23823,6 @@
       "answer": "cho ăn",
       "explanation": "'cho ăn' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "cho ăn",
-      "options": [
-        "vẽ",
-        "cho ăn",
-        "đưa giúp",
-        "tưới nước"
-      ],
       "questionId": "k2_c4_dt_5108",
       "questionNumber": 1109
     },
@@ -24831,12 +23835,6 @@
       "answer": "đem tặng",
       "explanation": "'đem tặng' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "đem tặng",
-      "options": [
-        "quan sát",
-        "lau sạch",
-        "đem tặng",
-        "nhổ cỏ"
-      ],
       "questionId": "k2_c4_dt_5109",
       "questionNumber": 1110
     },
@@ -24849,12 +23847,6 @@
       "answer": "trồng",
       "explanation": "'trồng' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "trồng",
-      "options": [
-        "gấp",
-        "tập viết",
-        "trồng",
-        "tưới nước"
-      ],
       "questionId": "k2_c4_dt_5110",
       "questionNumber": 1111
     },
@@ -24867,12 +23859,6 @@
       "answer": "gấp",
       "explanation": "'gấp' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "gấp",
-      "options": [
-        "buộc chặt",
-        "cho ăn",
-        "gấp",
-        "chăm sóc"
-      ],
       "questionId": "k2_c4_dt_5111",
       "questionNumber": 1112
     },
@@ -24885,12 +23871,6 @@
       "answer": "sửa chữa",
       "explanation": "'sửa chữa' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "sửa chữa",
-      "options": [
-        "nhổ cỏ",
-        "buộc chặt",
-        "sửa chữa",
-        "nhặt"
-      ],
       "questionId": "k2_c4_dt_5112",
       "questionNumber": 1113
     },
@@ -24903,12 +23883,6 @@
       "answer": "buộc chặt",
       "explanation": "'buộc chặt' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "buộc chặt",
-      "options": [
-        "quét dọn",
-        "buộc chặt",
-        "gấp",
-        "cho ăn"
-      ],
       "questionId": "k2_c4_dt_5113",
       "questionNumber": 1114
     },
@@ -24921,12 +23895,6 @@
       "answer": "quan sát",
       "explanation": "'quan sát' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "quan sát",
-      "options": [
-        "quan sát",
-        "trồng",
-        "tưới nước",
-        "đem tặng"
-      ],
       "questionId": "k2_c4_dt_5114",
       "questionNumber": 1115
     },
@@ -24939,12 +23907,6 @@
       "answer": "nhổ cỏ",
       "explanation": "'nhổ cỏ' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "nhổ cỏ",
-      "options": [
-        "tưới nước",
-        "nhặt",
-        "nhổ cỏ",
-        "chăm sóc"
-      ],
       "questionId": "k2_c4_dt_5115",
       "questionNumber": 1116
     },
@@ -24957,12 +23919,6 @@
       "answer": "gieo",
       "explanation": "'gieo' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "gieo",
-      "options": [
-        "sửa chữa",
-        "đem tặng",
-        "gieo",
-        "gấp"
-      ],
       "questionId": "k2_c4_dt_5116",
       "questionNumber": 1117
     },
@@ -24975,12 +23931,6 @@
       "answer": "tập viết",
       "explanation": "'tập viết' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "tập viết",
-      "options": [
-        "buộc chặt",
-        "cho ăn",
-        "trồng",
-        "tập viết"
-      ],
       "questionId": "k2_c4_dt_5117",
       "questionNumber": 1118
     },
@@ -24993,12 +23943,6 @@
       "answer": "gói ghém",
       "explanation": "'gói ghém' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "gói ghém",
-      "options": [
-        "buộc chặt",
-        "xếp gọn",
-        "vẽ",
-        "gói ghém"
-      ],
       "questionId": "k2_c4_dt_5118",
       "questionNumber": 1119
     },
@@ -25011,12 +23955,6 @@
       "answer": "đưa giúp",
       "explanation": "'đưa giúp' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "đưa giúp",
-      "options": [
-        "đưa giúp",
-        "đọc",
-        "tập viết",
-        "nhặt"
-      ],
       "questionId": "k2_c4_dt_5119",
       "questionNumber": 1120
     },
@@ -25029,12 +23967,6 @@
       "answer": "tưới nước",
       "explanation": "'tưới nước' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "tưới nước",
-      "options": [
-        "tưới nước",
-        "gấp",
-        "quan sát",
-        "xếp gọn"
-      ],
       "questionId": "k2_c4_dt_5120",
       "questionNumber": 1121
     },
@@ -25047,12 +23979,6 @@
       "answer": "đọc",
       "explanation": "'đọc' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "đọc",
-      "options": [
-        "quét dọn",
-        "đọc",
-        "sửa chữa",
-        "nhổ cỏ"
-      ],
       "questionId": "k2_c4_dt_5121",
       "questionNumber": 1122
     },
@@ -25065,12 +23991,6 @@
       "answer": "quét dọn",
       "explanation": "'quét dọn' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "quét dọn",
-      "options": [
-        "quét dọn",
-        "lau sạch",
-        "sửa chữa",
-        "nhổ cỏ"
-      ],
       "questionId": "k2_c4_dt_5122",
       "questionNumber": 1123
     },
@@ -25083,12 +24003,6 @@
       "answer": "chăm sóc",
       "explanation": "'chăm sóc' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "chăm sóc",
-      "options": [
-        "chăm sóc",
-        "vẽ",
-        "tưới nước",
-        "gói ghém"
-      ],
       "questionId": "k2_c4_dt_5123",
       "questionNumber": 1124
     },
@@ -25101,12 +24015,6 @@
       "answer": "xếp gọn",
       "explanation": "'xếp gọn' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "xếp gọn",
-      "options": [
-        "đọc",
-        "cho ăn",
-        "xếp gọn",
-        "đem tặng"
-      ],
       "questionId": "k2_c4_dt_5124",
       "questionNumber": 1125
     },
@@ -25119,12 +24027,6 @@
       "answer": "nhặt",
       "explanation": "'nhặt' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "nhặt",
-      "options": [
-        "chăm sóc",
-        "nhặt",
-        "trồng",
-        "xếp gọn"
-      ],
       "questionId": "k2_c4_dt_5125",
       "questionNumber": 1126
     },
@@ -25137,12 +24039,6 @@
       "answer": "lau sạch",
       "explanation": "'lau sạch' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "lau sạch",
-      "options": [
-        "lau sạch",
-        "tập viết",
-        "đọc",
-        "tưới nước"
-      ],
       "questionId": "k2_c4_dt_5126",
       "questionNumber": 1127
     },
@@ -25155,12 +24051,6 @@
       "answer": "vẽ",
       "explanation": "'vẽ' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "vẽ",
-      "options": [
-        "đem tặng",
-        "vẽ",
-        "buộc chặt",
-        "cho ăn"
-      ],
       "questionId": "k2_c4_dt_5127",
       "questionNumber": 1128
     },
@@ -25173,12 +24063,6 @@
       "answer": "cho ăn",
       "explanation": "'cho ăn' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "cho ăn",
-      "options": [
-        "gấp",
-        "nhặt",
-        "gieo",
-        "cho ăn"
-      ],
       "questionId": "k2_c4_dt_5128",
       "questionNumber": 1129
     },
@@ -25191,12 +24075,6 @@
       "answer": "đem tặng",
       "explanation": "'đem tặng' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "đem tặng",
-      "options": [
-        "cho ăn",
-        "tưới nước",
-        "buộc chặt",
-        "đem tặng"
-      ],
       "questionId": "k2_c4_dt_5129",
       "questionNumber": 1130
     },
@@ -25209,12 +24087,6 @@
       "answer": "trồng",
       "explanation": "'trồng' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "trồng",
-      "options": [
-        "quét dọn",
-        "trồng",
-        "đem tặng",
-        "quan sát"
-      ],
       "questionId": "k2_c4_dt_5130",
       "questionNumber": 1131
     },
@@ -25227,12 +24099,6 @@
       "answer": "gấp",
       "explanation": "'gấp' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "gấp",
-      "options": [
-        "nhổ cỏ",
-        "gấp",
-        "buộc chặt",
-        "trồng"
-      ],
       "questionId": "k2_c4_dt_5131",
       "questionNumber": 1132
     },
@@ -25245,12 +24111,6 @@
       "answer": "sửa chữa",
       "explanation": "'sửa chữa' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "sửa chữa",
-      "options": [
-        "sửa chữa",
-        "tập viết",
-        "tưới nước",
-        "gieo"
-      ],
       "questionId": "k2_c4_dt_5132",
       "questionNumber": 1133
     },
@@ -25263,12 +24123,6 @@
       "answer": "buộc chặt",
       "explanation": "'buộc chặt' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "buộc chặt",
-      "options": [
-        "trồng",
-        "quét dọn",
-        "nhổ cỏ",
-        "buộc chặt"
-      ],
       "questionId": "k2_c4_dt_5133",
       "questionNumber": 1134
     },
@@ -25281,12 +24135,6 @@
       "answer": "quan sát",
       "explanation": "'quan sát' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "quan sát",
-      "options": [
-        "sửa chữa",
-        "gấp",
-        "quan sát",
-        "nhổ cỏ"
-      ],
       "questionId": "k2_c4_dt_5134",
       "questionNumber": 1135
     },
@@ -25299,12 +24147,6 @@
       "answer": "nhổ cỏ",
       "explanation": "'nhổ cỏ' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "nhổ cỏ",
-      "options": [
-        "quét dọn",
-        "nhổ cỏ",
-        "vẽ",
-        "gieo"
-      ],
       "questionId": "k2_c4_dt_5135",
       "questionNumber": 1136
     },
@@ -25317,12 +24159,6 @@
       "answer": "gieo",
       "explanation": "'gieo' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "gieo",
-      "options": [
-        "gấp",
-        "sửa chữa",
-        "gieo",
-        "buộc chặt"
-      ],
       "questionId": "k2_c4_dt_5136",
       "questionNumber": 1137
     },
@@ -25335,12 +24171,6 @@
       "answer": "tập viết",
       "explanation": "'tập viết' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "tập viết",
-      "options": [
-        "gieo",
-        "sửa chữa",
-        "gói ghém",
-        "tập viết"
-      ],
       "questionId": "k2_c4_dt_5137",
       "questionNumber": 1138
     },
@@ -25353,12 +24183,6 @@
       "answer": "gói ghém",
       "explanation": "'gói ghém' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "gói ghém",
-      "options": [
-        "gói ghém",
-        "buộc chặt",
-        "trồng",
-        "vẽ"
-      ],
       "questionId": "k2_c4_dt_5138",
       "questionNumber": 1139
     },
@@ -25371,12 +24195,6 @@
       "answer": "đưa giúp",
       "explanation": "'đưa giúp' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "đưa giúp",
-      "options": [
-        "tập viết",
-        "sửa chữa",
-        "đưa giúp",
-        "nhặt"
-      ],
       "questionId": "k2_c4_dt_5139",
       "questionNumber": 1140
     },
@@ -25389,12 +24207,6 @@
       "answer": "tưới nước",
       "explanation": "'tưới nước' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "tưới nước",
-      "options": [
-        "tưới nước",
-        "trồng",
-        "đem tặng",
-        "nhặt"
-      ],
       "questionId": "k2_c4_dt_5140",
       "questionNumber": 1141
     },
@@ -25407,12 +24219,6 @@
       "answer": "đọc",
       "explanation": "'đọc' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "đọc",
-      "options": [
-        "lau sạch",
-        "đọc",
-        "buộc chặt",
-        "đem tặng"
-      ],
       "questionId": "k2_c4_dt_5141",
       "questionNumber": 1142
     },
@@ -25425,12 +24231,6 @@
       "answer": "quét dọn",
       "explanation": "'quét dọn' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "quét dọn",
-      "options": [
-        "quét dọn",
-        "lau sạch",
-        "trồng",
-        "gấp"
-      ],
       "questionId": "k2_c4_dt_5142",
       "questionNumber": 1143
     },
@@ -25443,12 +24243,6 @@
       "answer": "chăm sóc",
       "explanation": "'chăm sóc' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "chăm sóc",
-      "options": [
-        "tưới nước",
-        "buộc chặt",
-        "quét dọn",
-        "chăm sóc"
-      ],
       "questionId": "k2_c4_dt_5143",
       "questionNumber": 1144
     },
@@ -25461,12 +24255,6 @@
       "answer": "xếp gọn",
       "explanation": "'xếp gọn' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "xếp gọn",
-      "options": [
-        "tưới nước",
-        "xếp gọn",
-        "gói ghém",
-        "gấp"
-      ],
       "questionId": "k2_c4_dt_5144",
       "questionNumber": 1145
     },
@@ -25479,12 +24267,6 @@
       "answer": "nhặt",
       "explanation": "'nhặt' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "nhặt",
-      "options": [
-        "vẽ",
-        "lau sạch",
-        "nhặt",
-        "sửa chữa"
-      ],
       "questionId": "k2_c4_dt_5145",
       "questionNumber": 1146
     },
@@ -25497,12 +24279,6 @@
       "answer": "lau sạch",
       "explanation": "'lau sạch' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "lau sạch",
-      "options": [
-        "chăm sóc",
-        "tưới nước",
-        "gieo",
-        "lau sạch"
-      ],
       "questionId": "k2_c4_dt_5146",
       "questionNumber": 1147
     },
@@ -25515,12 +24291,6 @@
       "answer": "vẽ",
       "explanation": "'vẽ' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "vẽ",
-      "options": [
-        "vẽ",
-        "cho ăn",
-        "nhổ cỏ",
-        "sửa chữa"
-      ],
       "questionId": "k2_c4_dt_5147",
       "questionNumber": 1148
     },
@@ -25533,12 +24303,6 @@
       "answer": "cho ăn",
       "explanation": "'cho ăn' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "cho ăn",
-      "options": [
-        "gieo",
-        "cho ăn",
-        "xếp gọn",
-        "trồng"
-      ],
       "questionId": "k2_c4_dt_5148",
       "questionNumber": 1149
     },
@@ -25551,12 +24315,6 @@
       "answer": "đem tặng",
       "explanation": "'đem tặng' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "đem tặng",
-      "options": [
-        "buộc chặt",
-        "đem tặng",
-        "lau sạch",
-        "quan sát"
-      ],
       "questionId": "k2_c4_dt_5149",
       "questionNumber": 1150
     },
@@ -25569,12 +24327,6 @@
       "answer": "trồng",
       "explanation": "'trồng' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "trồng",
-      "options": [
-        "nhặt",
-        "quan sát",
-        "trồng",
-        "chăm sóc"
-      ],
       "questionId": "k2_c4_dt_5150",
       "questionNumber": 1151
     },
@@ -25587,12 +24339,6 @@
       "answer": "gấp",
       "explanation": "'gấp' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "gấp",
-      "options": [
-        "xếp gọn",
-        "tập viết",
-        "sửa chữa",
-        "gấp"
-      ],
       "questionId": "k2_c4_dt_5151",
       "questionNumber": 1152
     },
@@ -25605,12 +24351,6 @@
       "answer": "sửa chữa",
       "explanation": "'sửa chữa' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "sửa chữa",
-      "options": [
-        "sửa chữa",
-        "quan sát",
-        "cho ăn",
-        "đưa giúp"
-      ],
       "questionId": "k2_c4_dt_5152",
       "questionNumber": 1153
     },
@@ -25623,12 +24363,6 @@
       "answer": "buộc chặt",
       "explanation": "'buộc chặt' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "buộc chặt",
-      "options": [
-        "gieo",
-        "buộc chặt",
-        "trồng",
-        "gói ghém"
-      ],
       "questionId": "k2_c4_dt_5153",
       "questionNumber": 1154
     },
@@ -25641,12 +24375,6 @@
       "answer": "quan sát",
       "explanation": "'quan sát' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "quan sát",
-      "options": [
-        "cho ăn",
-        "xếp gọn",
-        "quan sát",
-        "quét dọn"
-      ],
       "questionId": "k2_c4_dt_5154",
       "questionNumber": 1155
     },
@@ -25659,12 +24387,6 @@
       "answer": "nhổ cỏ",
       "explanation": "'nhổ cỏ' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "nhổ cỏ",
-      "options": [
-        "đem tặng",
-        "quan sát",
-        "buộc chặt",
-        "nhổ cỏ"
-      ],
       "questionId": "k2_c4_dt_5155",
       "questionNumber": 1156
     },
@@ -25677,12 +24399,6 @@
       "answer": "gieo",
       "explanation": "'gieo' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "gieo",
-      "options": [
-        "quan sát",
-        "chăm sóc",
-        "đưa giúp",
-        "gieo"
-      ],
       "questionId": "k2_c4_dt_5156",
       "questionNumber": 1157
     },
@@ -25695,12 +24411,6 @@
       "answer": "tập viết",
       "explanation": "'tập viết' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "tập viết",
-      "options": [
-        "lau sạch",
-        "đưa giúp",
-        "tập viết",
-        "cho ăn"
-      ],
       "questionId": "k2_c4_dt_5157",
       "questionNumber": 1158
     },
@@ -25713,12 +24423,6 @@
       "answer": "gói ghém",
       "explanation": "'gói ghém' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "gói ghém",
-      "options": [
-        "gói ghém",
-        "buộc chặt",
-        "đưa giúp",
-        "đem tặng"
-      ],
       "questionId": "k2_c4_dt_5158",
       "questionNumber": 1159
     },
@@ -25731,12 +24435,6 @@
       "answer": "đưa giúp",
       "explanation": "'đưa giúp' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "đưa giúp",
-      "options": [
-        "quét dọn",
-        "gieo",
-        "gói ghém",
-        "đưa giúp"
-      ],
       "questionId": "k2_c4_dt_5159",
       "questionNumber": 1160
     },
@@ -25749,12 +24447,6 @@
       "answer": "tưới nước",
       "explanation": "'tưới nước' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "tưới nước",
-      "options": [
-        "đưa giúp",
-        "tưới nước",
-        "gieo",
-        "trồng"
-      ],
       "questionId": "k2_c4_dt_5160",
       "questionNumber": 1161
     },
@@ -25767,12 +24459,6 @@
       "answer": "đọc",
       "explanation": "'đọc' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "đọc",
-      "options": [
-        "tập viết",
-        "đọc",
-        "xếp gọn",
-        "quét dọn"
-      ],
       "questionId": "k2_c4_dt_5161",
       "questionNumber": 1162
     },
@@ -25785,12 +24471,6 @@
       "answer": "quét dọn",
       "explanation": "'quét dọn' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "quét dọn",
-      "options": [
-        "sửa chữa",
-        "quét dọn",
-        "tưới nước",
-        "đem tặng"
-      ],
       "questionId": "k2_c4_dt_5162",
       "questionNumber": 1163
     },
@@ -25803,12 +24483,6 @@
       "answer": "chăm sóc",
       "explanation": "'chăm sóc' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "chăm sóc",
-      "options": [
-        "chăm sóc",
-        "tập viết",
-        "gấp",
-        "trồng"
-      ],
       "questionId": "k2_c4_dt_5163",
       "questionNumber": 1164
     },
@@ -25821,12 +24495,6 @@
       "answer": "xếp gọn",
       "explanation": "'xếp gọn' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "xếp gọn",
-      "options": [
-        "đem tặng",
-        "quan sát",
-        "nhặt",
-        "xếp gọn"
-      ],
       "questionId": "k2_c4_dt_5164",
       "questionNumber": 1165
     },
@@ -25839,12 +24507,6 @@
       "answer": "nhặt",
       "explanation": "'nhặt' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "nhặt",
-      "options": [
-        "vẽ",
-        "nhặt",
-        "tập viết",
-        "quét dọn"
-      ],
       "questionId": "k2_c4_dt_5165",
       "questionNumber": 1166
     },
@@ -25857,12 +24519,6 @@
       "answer": "lau sạch",
       "explanation": "'lau sạch' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "lau sạch",
-      "options": [
-        "lau sạch",
-        "chăm sóc",
-        "trồng",
-        "nhặt"
-      ],
       "questionId": "k2_c4_dt_5166",
       "questionNumber": 1167
     },
@@ -25875,12 +24531,6 @@
       "answer": "vẽ",
       "explanation": "'vẽ' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "vẽ",
-      "options": [
-        "vẽ",
-        "đưa giúp",
-        "gói ghém",
-        "lau sạch"
-      ],
       "questionId": "k2_c4_dt_5167",
       "questionNumber": 1168
     },
@@ -25893,12 +24543,6 @@
       "answer": "cho ăn",
       "explanation": "'cho ăn' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "cho ăn",
-      "options": [
-        "quan sát",
-        "cho ăn",
-        "chăm sóc",
-        "lau sạch"
-      ],
       "questionId": "k2_c4_dt_5168",
       "questionNumber": 1169
     },
@@ -25911,12 +24555,6 @@
       "answer": "đem tặng",
       "explanation": "'đem tặng' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "đem tặng",
-      "options": [
-        "lau sạch",
-        "quan sát",
-        "quét dọn",
-        "đem tặng"
-      ],
       "questionId": "k2_c4_dt_5169",
       "questionNumber": 1170
     },
@@ -25929,12 +24567,6 @@
       "answer": "trồng",
       "explanation": "'trồng' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "trồng",
-      "options": [
-        "đọc",
-        "gieo",
-        "trồng",
-        "tưới nước"
-      ],
       "questionId": "k2_c4_dt_5170",
       "questionNumber": 1171
     },
@@ -25947,12 +24579,6 @@
       "answer": "gấp",
       "explanation": "'gấp' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "gấp",
-      "options": [
-        "đưa giúp",
-        "gấp",
-        "cho ăn",
-        "sửa chữa"
-      ],
       "questionId": "k2_c4_dt_5171",
       "questionNumber": 1172
     },
@@ -25965,12 +24591,6 @@
       "answer": "sửa chữa",
       "explanation": "'sửa chữa' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "sửa chữa",
-      "options": [
-        "sửa chữa",
-        "quan sát",
-        "nhổ cỏ",
-        "đưa giúp"
-      ],
       "questionId": "k2_c4_dt_5172",
       "questionNumber": 1173
     },
@@ -25983,12 +24603,6 @@
       "answer": "buộc chặt",
       "explanation": "'buộc chặt' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "buộc chặt",
-      "options": [
-        "tập viết",
-        "nhặt",
-        "cho ăn",
-        "buộc chặt"
-      ],
       "questionId": "k2_c4_dt_5173",
       "questionNumber": 1174
     },
@@ -26001,12 +24615,6 @@
       "answer": "quan sát",
       "explanation": "'quan sát' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "quan sát",
-      "options": [
-        "tưới nước",
-        "xếp gọn",
-        "quan sát",
-        "vẽ"
-      ],
       "questionId": "k2_c4_dt_5174",
       "questionNumber": 1175
     },
@@ -26019,12 +24627,6 @@
       "answer": "nhổ cỏ",
       "explanation": "'nhổ cỏ' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "nhổ cỏ",
-      "options": [
-        "quét dọn",
-        "nhổ cỏ",
-        "xếp gọn",
-        "đưa giúp"
-      ],
       "questionId": "k2_c4_dt_5175",
       "questionNumber": 1176
     },
@@ -26037,12 +24639,6 @@
       "answer": "gieo",
       "explanation": "'gieo' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "gieo",
-      "options": [
-        "gieo",
-        "tưới nước",
-        "lau sạch",
-        "chăm sóc"
-      ],
       "questionId": "k2_c4_dt_5176",
       "questionNumber": 1177
     },
@@ -26055,12 +24651,6 @@
       "answer": "tập viết",
       "explanation": "'tập viết' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "tập viết",
-      "options": [
-        "lau sạch",
-        "gói ghém",
-        "tập viết",
-        "tưới nước"
-      ],
       "questionId": "k2_c4_dt_5177",
       "questionNumber": 1178
     },
@@ -26073,12 +24663,6 @@
       "answer": "gói ghém",
       "explanation": "'gói ghém' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "gói ghém",
-      "options": [
-        "đọc",
-        "chăm sóc",
-        "gói ghém",
-        "lau sạch"
-      ],
       "questionId": "k2_c4_dt_5178",
       "questionNumber": 1179
     },
@@ -26091,12 +24675,6 @@
       "answer": "đưa giúp",
       "explanation": "'đưa giúp' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "đưa giúp",
-      "options": [
-        "xếp gọn",
-        "đưa giúp",
-        "tập viết",
-        "buộc chặt"
-      ],
       "questionId": "k2_c4_dt_5179",
       "questionNumber": 1180
     },
@@ -26109,12 +24687,6 @@
       "answer": "tưới nước",
       "explanation": "'tưới nước' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "tưới nước",
-      "options": [
-        "nhặt",
-        "chăm sóc",
-        "trồng",
-        "tưới nước"
-      ],
       "questionId": "k2_c4_dt_5180",
       "questionNumber": 1181
     },
@@ -26127,12 +24699,6 @@
       "answer": "đọc",
       "explanation": "'đọc' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "đọc",
-      "options": [
-        "vẽ",
-        "đọc",
-        "nhặt",
-        "nhổ cỏ"
-      ],
       "questionId": "k2_c4_dt_5181",
       "questionNumber": 1182
     },
@@ -26145,12 +24711,6 @@
       "answer": "quét dọn",
       "explanation": "'quét dọn' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "quét dọn",
-      "options": [
-        "lau sạch",
-        "chăm sóc",
-        "quét dọn",
-        "buộc chặt"
-      ],
       "questionId": "k2_c4_dt_5182",
       "questionNumber": 1183
     },
@@ -26163,12 +24723,6 @@
       "answer": "chăm sóc",
       "explanation": "'chăm sóc' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "chăm sóc",
-      "options": [
-        "tập viết",
-        "gieo",
-        "cho ăn",
-        "chăm sóc"
-      ],
       "questionId": "k2_c4_dt_5183",
       "questionNumber": 1184
     },
@@ -26181,12 +24735,6 @@
       "answer": "xếp gọn",
       "explanation": "'xếp gọn' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "xếp gọn",
-      "options": [
-        "vẽ",
-        "nhổ cỏ",
-        "xếp gọn",
-        "đọc"
-      ],
       "questionId": "k2_c4_dt_5184",
       "questionNumber": 1185
     },
@@ -26199,12 +24747,6 @@
       "answer": "nhặt",
       "explanation": "'nhặt' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "nhặt",
-      "options": [
-        "nhặt",
-        "đem tặng",
-        "xếp gọn",
-        "chăm sóc"
-      ],
       "questionId": "k2_c4_dt_5185",
       "questionNumber": 1186
     },
@@ -26217,12 +24759,6 @@
       "answer": "lau sạch",
       "explanation": "'lau sạch' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "lau sạch",
-      "options": [
-        "đem tặng",
-        "đọc",
-        "lau sạch",
-        "gieo"
-      ],
       "questionId": "k2_c4_dt_5186",
       "questionNumber": 1187
     },
@@ -26235,12 +24771,6 @@
       "answer": "vẽ",
       "explanation": "'vẽ' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "vẽ",
-      "options": [
-        "lau sạch",
-        "vẽ",
-        "quét dọn",
-        "đem tặng"
-      ],
       "questionId": "k2_c4_dt_5187",
       "questionNumber": 1188
     },
@@ -26253,12 +24783,6 @@
       "answer": "cho ăn",
       "explanation": "'cho ăn' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "cho ăn",
-      "options": [
-        "trồng",
-        "chăm sóc",
-        "đưa giúp",
-        "cho ăn"
-      ],
       "questionId": "k2_c4_dt_5188",
       "questionNumber": 1189
     },
@@ -26271,12 +24795,6 @@
       "answer": "đem tặng",
       "explanation": "'đem tặng' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "đem tặng",
-      "options": [
-        "đem tặng",
-        "trồng",
-        "nhặt",
-        "quan sát"
-      ],
       "questionId": "k2_c4_dt_5189",
       "questionNumber": 1190
     },
@@ -26289,12 +24807,6 @@
       "answer": "trồng",
       "explanation": "'trồng' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "trồng",
-      "options": [
-        "đọc",
-        "trồng",
-        "quan sát",
-        "buộc chặt"
-      ],
       "questionId": "k2_c4_dt_5190",
       "questionNumber": 1191
     },
@@ -26307,12 +24819,6 @@
       "answer": "gấp",
       "explanation": "'gấp' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "gấp",
-      "options": [
-        "lau sạch",
-        "xếp gọn",
-        "gấp",
-        "quét dọn"
-      ],
       "questionId": "k2_c4_dt_5191",
       "questionNumber": 1192
     },
@@ -26325,12 +24831,6 @@
       "answer": "sửa chữa",
       "explanation": "'sửa chữa' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "sửa chữa",
-      "options": [
-        "đưa giúp",
-        "tưới nước",
-        "trồng",
-        "sửa chữa"
-      ],
       "questionId": "k2_c4_dt_5192",
       "questionNumber": 1193
     },
@@ -26343,12 +24843,6 @@
       "answer": "buộc chặt",
       "explanation": "'buộc chặt' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "buộc chặt",
-      "options": [
-        "quan sát",
-        "buộc chặt",
-        "sửa chữa",
-        "gói ghém"
-      ],
       "questionId": "k2_c4_dt_5193",
       "questionNumber": 1194
     },
@@ -26361,12 +24855,6 @@
       "answer": "quan sát",
       "explanation": "'quan sát' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "quan sát",
-      "options": [
-        "sửa chữa",
-        "đưa giúp",
-        "tập viết",
-        "quan sát"
-      ],
       "questionId": "k2_c4_dt_5194",
       "questionNumber": 1195
     },
@@ -26379,12 +24867,6 @@
       "answer": "nhổ cỏ",
       "explanation": "'nhổ cỏ' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "nhổ cỏ",
-      "options": [
-        "xếp gọn",
-        "nhổ cỏ",
-        "gieo",
-        "vẽ"
-      ],
       "questionId": "k2_c4_dt_5195",
       "questionNumber": 1196
     },
@@ -26397,12 +24879,6 @@
       "answer": "gieo",
       "explanation": "'gieo' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "gieo",
-      "options": [
-        "tập viết",
-        "gieo",
-        "nhặt",
-        "gấp"
-      ],
       "questionId": "k2_c4_dt_5196",
       "questionNumber": 1197
     },
@@ -26415,12 +24891,6 @@
       "answer": "tập viết",
       "explanation": "'tập viết' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "tập viết",
-      "options": [
-        "nhặt",
-        "gấp",
-        "chăm sóc",
-        "tập viết"
-      ],
       "questionId": "k2_c4_dt_5197",
       "questionNumber": 1198
     },
@@ -26433,12 +24903,6 @@
       "answer": "gói ghém",
       "explanation": "'gói ghém' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "gói ghém",
-      "options": [
-        "gói ghém",
-        "cho ăn",
-        "quan sát",
-        "buộc chặt"
-      ],
       "questionId": "k2_c4_dt_5198",
       "questionNumber": 1199
     },
@@ -26451,12 +24915,6 @@
       "answer": "đưa giúp",
       "explanation": "'đưa giúp' diễn tả hoạt động phù hợp với sự vật được nhắc đến.",
       "blankAnswer": "đưa giúp",
-      "options": [
-        "gấp",
-        "buộc chặt",
-        "quan sát",
-        "đưa giúp"
-      ],
       "questionId": "k2_c4_dt_5199",
       "questionNumber": 1200
     },
@@ -26469,12 +24927,6 @@
       "answer": "luống rau",
       "explanation": "'luống rau' là sự vật phù hợp với hoạt động 'tưới nước'.",
       "blankAnswer": "luống rau",
-      "options": [
-        "hạt cải",
-        "bàn học",
-        "luống rau",
-        "cửa kính"
-      ],
       "questionId": "k2_c4_dt_5200",
       "questionNumber": 1201
     },
@@ -26487,12 +24939,6 @@
       "answer": "sách khoa học",
       "explanation": "'sách khoa học' là sự vật phù hợp với hoạt động 'đọc'.",
       "blankAnswer": "sách khoa học",
-      "options": [
-        "hộp bút",
-        "báo thiếu nhi",
-        "bông hoa",
-        "sách khoa học"
-      ],
       "questionId": "k2_c4_dt_5201",
       "questionNumber": 1202
     },
@@ -26505,12 +24951,6 @@
       "answer": "hiên nhà",
       "explanation": "'hiên nhà' là sự vật phù hợp với hoạt động 'quét dọn'.",
       "blankAnswer": "hiên nhà",
-      "options": [
-        "hiên nhà",
-        "chữ cái",
-        "cây bàng",
-        "thuyền giấy"
-      ],
       "questionId": "k2_c4_dt_5202",
       "questionNumber": 1203
     },
@@ -26523,12 +24963,6 @@
       "answer": "đàn gà",
       "explanation": "'đàn gà' là sự vật phù hợp với hoạt động 'chăm sóc'.",
       "blankAnswer": "đàn gà",
-      "options": [
-        "khăn quàng",
-        "quả bóng",
-        "mái nhà",
-        "đàn gà"
-      ],
       "questionId": "k2_c4_dt_5203",
       "questionNumber": 1204
     },
@@ -26541,12 +24975,6 @@
       "answer": "bàn học",
       "explanation": "'bàn học' là sự vật phù hợp với hoạt động 'xếp gọn'.",
       "blankAnswer": "bàn học",
-      "options": [
-        "bàn học",
-        "áo mưa",
-        "quyển truyện",
-        "xe đạp"
-      ],
       "questionId": "k2_c4_dt_5204",
       "questionNumber": 1205
     },
@@ -26559,12 +24987,6 @@
       "answer": "mảnh giấy",
       "explanation": "'mảnh giấy' là sự vật phù hợp với hoạt động 'nhặt'.",
       "blankAnswer": "mảnh giấy",
-      "options": [
-        "mèo con",
-        "sách khoa học",
-        "mảnh giấy",
-        "tổ kiến"
-      ],
       "questionId": "k2_c4_dt_5205",
       "questionNumber": 1206
     },
@@ -26577,12 +24999,6 @@
       "answer": "cửa kính",
       "explanation": "'cửa kính' là sự vật phù hợp với hoạt động 'lau sạch'.",
       "blankAnswer": "cửa kính",
-      "options": [
-        "cửa kính",
-        "bể cá",
-        "quả bóng",
-        "báo thiếu nhi"
-      ],
       "questionId": "k2_c4_dt_5206",
       "questionNumber": 1207
     },
@@ -26595,12 +25011,6 @@
       "answer": "cánh buồm",
       "explanation": "'cánh buồm' là sự vật phù hợp với hoạt động 'vẽ'.",
       "blankAnswer": "cánh buồm",
-      "options": [
-        "hàng rào",
-        "bể cá",
-        "mái nhà",
-        "cánh buồm"
-      ],
       "questionId": "k2_c4_dt_5207",
       "questionNumber": 1208
     },
@@ -26613,12 +25023,6 @@
       "answer": "mèo con",
       "explanation": "'mèo con' là sự vật phù hợp với hoạt động 'cho ăn'.",
       "blankAnswer": "mèo con",
-      "options": [
-        "gà con",
-        "mèo con",
-        "sách vở",
-        "chiếc khăn"
-      ],
       "questionId": "k2_c4_dt_5208",
       "questionNumber": 1209
     },
@@ -26631,12 +25035,6 @@
       "answer": "quyển truyện",
       "explanation": "'quyển truyện' là sự vật phù hợp với hoạt động 'đem tặng'.",
       "blankAnswer": "quyển truyện",
-      "options": [
-        "tên mình",
-        "quyển truyện",
-        "cây bưởi",
-        "chiếc cặp"
-      ],
       "questionId": "k2_c4_dt_5209",
       "questionNumber": 1210
     },
@@ -26649,12 +25047,6 @@
       "answer": "cây bàng",
       "explanation": "'cây bàng' là sự vật phù hợp với hoạt động 'trồng'.",
       "blankAnswer": "cây bàng",
-      "options": [
-        "luống rau",
-        "bồn cây",
-        "cây bàng",
-        "bảng lớp"
-      ],
       "questionId": "k2_c4_dt_5210",
       "questionNumber": 1211
     },
@@ -26667,12 +25059,6 @@
       "answer": "khăn quàng",
       "explanation": "'khăn quàng' là sự vật phù hợp với hoạt động 'gấp'.",
       "blankAnswer": "khăn quàng",
-      "options": [
-        "hộp bút",
-        "bảng lớp",
-        "khăn quàng",
-        "chiếc khăn"
-      ],
       "questionId": "k2_c4_dt_5211",
       "questionNumber": 1212
     },
@@ -26685,12 +25071,6 @@
       "answer": "hàng rào",
       "explanation": "'hàng rào' là sự vật phù hợp với hoạt động 'sửa chữa'.",
       "blankAnswer": "hàng rào",
-      "options": [
-        "quả bóng",
-        "bồn cây",
-        "cánh buồm",
-        "hàng rào"
-      ],
       "questionId": "k2_c4_dt_5212",
       "questionNumber": 1213
     },
@@ -26703,12 +25083,6 @@
       "answer": "gói quà",
       "explanation": "'gói quà' là sự vật phù hợp với hoạt động 'buộc chặt'.",
       "blankAnswer": "gói quà",
-      "options": [
-        "món quà",
-        "hạt lúa",
-        "gói quà",
-        "bông hoa"
-      ],
       "questionId": "k2_c4_dt_5213",
       "questionNumber": 1214
     },
@@ -26721,12 +25095,6 @@
       "answer": "bể cá",
       "explanation": "'bể cá' là sự vật phù hợp với hoạt động 'quan sát'.",
       "blankAnswer": "bể cá",
-      "options": [
-        "bể cá",
-        "phòng học",
-        "cây bưởi",
-        "chậu hoa"
-      ],
       "questionId": "k2_c4_dt_5214",
       "questionNumber": 1215
     },
@@ -26739,12 +25107,6 @@
       "answer": "vườn hoa",
       "explanation": "'vườn hoa' là sự vật phù hợp với hoạt động 'nhổ cỏ'.",
       "blankAnswer": "vườn hoa",
-      "options": [
-        "khăn quàng",
-        "bể cá",
-        "vườn hoa",
-        "sân lớp"
-      ],
       "questionId": "k2_c4_dt_5215",
       "questionNumber": 1216
     },
@@ -26757,12 +25119,6 @@
       "answer": "hạt lúa",
       "explanation": "'hạt lúa' là sự vật phù hợp với hoạt động 'gieo'.",
       "blankAnswer": "hạt lúa",
-      "options": [
-        "hạt lúa",
-        "sách vở",
-        "thuyền giấy",
-        "hộp bút"
-      ],
       "questionId": "k2_c4_dt_5216",
       "questionNumber": 1217
     },
@@ -26775,12 +25131,6 @@
       "answer": "tên mình",
       "explanation": "'tên mình' là sự vật phù hợp với hoạt động 'tập viết'.",
       "blankAnswer": "tên mình",
-      "options": [
-        "hạt cải",
-        "hộp bút",
-        "cá vàng",
-        "tên mình"
-      ],
       "questionId": "k2_c4_dt_5217",
       "questionNumber": 1218
     },
@@ -26793,12 +25143,6 @@
       "answer": "bánh chưng",
       "explanation": "'bánh chưng' là sự vật phù hợp với hoạt động 'gói ghém'.",
       "blankAnswer": "bánh chưng",
-      "options": [
-        "đàn chim",
-        "cây bàng",
-        "tổ kiến",
-        "bánh chưng"
-      ],
       "questionId": "k2_c4_dt_5218",
       "questionNumber": 1219
     },
@@ -26811,12 +25155,6 @@
       "answer": "chiếc cặp",
       "explanation": "'chiếc cặp' là sự vật phù hợp với hoạt động 'đưa giúp'.",
       "blankAnswer": "chiếc cặp",
-      "options": [
-        "giỏ cam",
-        "chiếc cặp",
-        "sách vở",
-        "xe đạp"
-      ],
       "questionId": "k2_c4_dt_5219",
       "questionNumber": 1220
     },
@@ -26829,12 +25167,6 @@
       "answer": "cây non",
       "explanation": "'cây non' là sự vật phù hợp với hoạt động 'tưới nước'.",
       "blankAnswer": "cây non",
-      "options": [
-        "cá vàng",
-        "cây non",
-        "sân lớp",
-        "đàn chim"
-      ],
       "questionId": "k2_c4_dt_5220",
       "questionNumber": 1221
     },
@@ -26847,12 +25179,6 @@
       "answer": "báo thiếu nhi",
       "explanation": "'báo thiếu nhi' là sự vật phù hợp với hoạt động 'đọc'.",
       "blankAnswer": "báo thiếu nhi",
-      "options": [
-        "dây giày",
-        "mèo con",
-        "báo thiếu nhi",
-        "bể cá"
-      ],
       "questionId": "k2_c4_dt_5221",
       "questionNumber": 1222
     },
@@ -26865,12 +25191,6 @@
       "answer": "phòng học",
       "explanation": "'phòng học' là sự vật phù hợp với hoạt động 'quét dọn'.",
       "blankAnswer": "phòng học",
-      "options": [
-        "phòng học",
-        "tên mình",
-        "chiếc lá",
-        "khăn len"
-      ],
       "questionId": "k2_c4_dt_5222",
       "questionNumber": 1223
     },
@@ -26883,12 +25203,6 @@
       "answer": "bể cá",
       "explanation": "'bể cá' là sự vật phù hợp với hoạt động 'chăm sóc'.",
       "blankAnswer": "bể cá",
-      "options": [
-        "khăn len",
-        "quyển truyện",
-        "bể cá",
-        "hạt đậu"
-      ],
       "questionId": "k2_c4_dt_5223",
       "questionNumber": 1224
     },
@@ -26901,12 +25215,6 @@
       "answer": "hộp bút",
       "explanation": "'hộp bút' là sự vật phù hợp với hoạt động 'xếp gọn'.",
       "blankAnswer": "hộp bút",
-      "options": [
-        "vườn hoa",
-        "mèo con",
-        "bể cá",
-        "hộp bút"
-      ],
       "questionId": "k2_c4_dt_5224",
       "questionNumber": 1225
     },
@@ -26919,12 +25227,6 @@
       "answer": "quả bóng",
       "explanation": "'quả bóng' là sự vật phù hợp với hoạt động 'nhặt'.",
       "blankAnswer": "quả bóng",
-      "options": [
-        "phòng học",
-        "chiếc khăn",
-        "quả bóng",
-        "bức thư"
-      ],
       "questionId": "k2_c4_dt_5225",
       "questionNumber": 1226
     },
@@ -26937,12 +25239,6 @@
       "answer": "bảng lớp",
       "explanation": "'bảng lớp' là sự vật phù hợp với hoạt động 'lau sạch'.",
       "blankAnswer": "bảng lớp",
-      "options": [
-        "khăn len",
-        "luống rau",
-        "bảng lớp",
-        "hộp đồ"
-      ],
       "questionId": "k2_c4_dt_5226",
       "questionNumber": 1227
     },
@@ -26955,12 +25251,6 @@
       "answer": "mái nhà",
       "explanation": "'mái nhà' là sự vật phù hợp với hoạt động 'vẽ'.",
       "blankAnswer": "mái nhà",
-      "options": [
-        "món quà",
-        "tổ kiến",
-        "mái nhà",
-        "sách khoa học"
-      ],
       "questionId": "k2_c4_dt_5227",
       "questionNumber": 1228
     },
@@ -26973,12 +25263,6 @@
       "answer": "gà con",
       "explanation": "'gà con' là sự vật phù hợp với hoạt động 'cho ăn'.",
       "blankAnswer": "gà con",
-      "options": [
-        "cây non",
-        "gà con",
-        "khăn quàng",
-        "cá vàng"
-      ],
       "questionId": "k2_c4_dt_5228",
       "questionNumber": 1229
     },
@@ -26991,12 +25275,6 @@
       "answer": "khăn len",
       "explanation": "'khăn len' là sự vật phù hợp với hoạt động 'đem tặng'.",
       "blankAnswer": "khăn len",
-      "options": [
-        "sân lớp",
-        "gà con",
-        "khăn len",
-        "bể cá"
-      ],
       "questionId": "k2_c4_dt_5229",
       "questionNumber": 1230
     },
@@ -27009,12 +25287,6 @@
       "answer": "khóm cúc",
       "explanation": "'khóm cúc' là sự vật phù hợp với hoạt động 'trồng'.",
       "blankAnswer": "khóm cúc",
-      "options": [
-        "khóm cúc",
-        "mèo con",
-        "mảnh giấy",
-        "luống rau"
-      ],
       "questionId": "k2_c4_dt_5230",
       "questionNumber": 1231
     },
@@ -27027,12 +25299,6 @@
       "answer": "thuyền giấy",
       "explanation": "'thuyền giấy' là sự vật phù hợp với hoạt động 'gấp'.",
       "blankAnswer": "thuyền giấy",
-      "options": [
-        "báo thiếu nhi",
-        "mèo con",
-        "gói quà",
-        "thuyền giấy"
-      ],
       "questionId": "k2_c4_dt_5231",
       "questionNumber": 1232
     },
@@ -27045,12 +25311,6 @@
       "answer": "chiếc ghế",
       "explanation": "'chiếc ghế' là sự vật phù hợp với hoạt động 'sửa chữa'.",
       "blankAnswer": "chiếc ghế",
-      "options": [
-        "luống rau",
-        "sách vở",
-        "chậu hoa",
-        "chiếc ghế"
-      ],
       "questionId": "k2_c4_dt_5232",
       "questionNumber": 1233
     },
@@ -27063,12 +25323,6 @@
       "answer": "miệng túi",
       "explanation": "'miệng túi' là sự vật phù hợp với hoạt động 'buộc chặt'.",
       "blankAnswer": "miệng túi",
-      "options": [
-        "đàn gà",
-        "cây bàng",
-        "miệng túi",
-        "khăn quàng"
-      ],
       "questionId": "k2_c4_dt_5233",
       "questionNumber": 1234
     },
@@ -27081,12 +25335,6 @@
       "answer": "tổ kiến",
       "explanation": "'tổ kiến' là sự vật phù hợp với hoạt động 'quan sát'.",
       "blankAnswer": "tổ kiến",
-      "options": [
-        "tổ kiến",
-        "chậu hoa",
-        "cá vàng",
-        "chiếc ghế"
-      ],
       "questionId": "k2_c4_dt_5234",
       "questionNumber": 1235
     },
@@ -27099,12 +25347,6 @@
       "answer": "bồn cây",
       "explanation": "'bồn cây' là sự vật phù hợp với hoạt động 'nhổ cỏ'.",
       "blankAnswer": "bồn cây",
-      "options": [
-        "bồn cây",
-        "chiếc ghế",
-        "đàn chim",
-        "khăn len"
-      ],
       "questionId": "k2_c4_dt_5235",
       "questionNumber": 1236
     },
@@ -27117,12 +25359,6 @@
       "answer": "hạt cải",
       "explanation": "'hạt cải' là sự vật phù hợp với hoạt động 'gieo'.",
       "blankAnswer": "hạt cải",
-      "options": [
-        "cửa kính",
-        "hạt cải",
-        "bể cá",
-        "quyển truyện"
-      ],
       "questionId": "k2_c4_dt_5236",
       "questionNumber": 1237
     },
@@ -27135,12 +25371,6 @@
       "answer": "câu thơ",
       "explanation": "'câu thơ' là sự vật phù hợp với hoạt động 'tập viết'.",
       "blankAnswer": "câu thơ",
-      "options": [
-        "phòng học",
-        "câu thơ",
-        "cây bưởi",
-        "hộp bút"
-      ],
       "questionId": "k2_c4_dt_5237",
       "questionNumber": 1238
     },
@@ -27153,12 +25383,6 @@
       "answer": "chiếc khăn",
       "explanation": "'chiếc khăn' là sự vật phù hợp với hoạt động 'gói ghém'.",
       "blankAnswer": "chiếc khăn",
-      "options": [
-        "mèo con",
-        "chiếc khăn",
-        "tên mình",
-        "cây bưởi"
-      ],
       "questionId": "k2_c4_dt_5238",
       "questionNumber": 1239
     },
@@ -27171,12 +25395,6 @@
       "answer": "hộp đồ",
       "explanation": "'hộp đồ' là sự vật phù hợp với hoạt động 'đưa giúp'.",
       "blankAnswer": "hộp đồ",
-      "options": [
-        "hộp đồ",
-        "bánh chưng",
-        "bông hoa",
-        "cánh buồm"
-      ],
       "questionId": "k2_c4_dt_5239",
       "questionNumber": 1240
     },
@@ -27189,12 +25407,6 @@
       "answer": "chậu hoa",
       "explanation": "'chậu hoa' là sự vật phù hợp với hoạt động 'tưới nước'.",
       "blankAnswer": "chậu hoa",
-      "options": [
-        "chiếc lá",
-        "chậu hoa",
-        "hạt cải",
-        "chiếc khăn"
-      ],
       "questionId": "k2_c4_dt_5240",
       "questionNumber": 1241
     },
@@ -27207,12 +25419,6 @@
       "answer": "quyển truyện",
       "explanation": "'quyển truyện' là sự vật phù hợp với hoạt động 'đọc'.",
       "blankAnswer": "quyển truyện",
-      "options": [
-        "quyển truyện",
-        "chiếc lá",
-        "mái nhà",
-        "hạt đậu"
-      ],
       "questionId": "k2_c4_dt_5241",
       "questionNumber": 1242
     },
@@ -27225,12 +25431,6 @@
       "answer": "sân lớp",
       "explanation": "'sân lớp' là sự vật phù hợp với hoạt động 'quét dọn'.",
       "blankAnswer": "sân lớp",
-      "options": [
-        "gà con",
-        "chữ cái",
-        "sân lớp",
-        "luống rau"
-      ],
       "questionId": "k2_c4_dt_5242",
       "questionNumber": 1243
     },
@@ -27243,12 +25443,6 @@
       "answer": "cây bưởi",
       "explanation": "'cây bưởi' là sự vật phù hợp với hoạt động 'chăm sóc'.",
       "blankAnswer": "cây bưởi",
-      "options": [
-        "chiếc cặp",
-        "cây bưởi",
-        "mái nhà",
-        "bảng lớp"
-      ],
       "questionId": "k2_c4_dt_5243",
       "questionNumber": 1244
     },
@@ -27261,12 +25455,6 @@
       "answer": "sách vở",
       "explanation": "'sách vở' là sự vật phù hợp với hoạt động 'xếp gọn'.",
       "blankAnswer": "sách vở",
-      "options": [
-        "chiếc cặp",
-        "quyển truyện",
-        "báo thiếu nhi",
-        "sách vở"
-      ],
       "questionId": "k2_c4_dt_5244",
       "questionNumber": 1245
     },
@@ -27279,12 +25467,6 @@
       "answer": "chiếc lá",
       "explanation": "'chiếc lá' là sự vật phù hợp với hoạt động 'nhặt'.",
       "blankAnswer": "chiếc lá",
-      "options": [
-        "hạt đậu",
-        "sách vở",
-        "đàn chim",
-        "chiếc lá"
-      ],
       "questionId": "k2_c4_dt_5245",
       "questionNumber": 1246
     },
@@ -27297,12 +25479,6 @@
       "answer": "chiếc bàn",
       "explanation": "'chiếc bàn' là sự vật phù hợp với hoạt động 'lau sạch'.",
       "blankAnswer": "chiếc bàn",
-      "options": [
-        "món quà",
-        "chiếc lá",
-        "khăn len",
-        "chiếc bàn"
-      ],
       "questionId": "k2_c4_dt_5246",
       "questionNumber": 1247
     },
@@ -27315,12 +25491,6 @@
       "answer": "bông hoa",
       "explanation": "'bông hoa' là sự vật phù hợp với hoạt động 'vẽ'.",
       "blankAnswer": "bông hoa",
-      "options": [
-        "gói quà",
-        "sách khoa học",
-        "bông hoa",
-        "cánh buồm"
-      ],
       "questionId": "k2_c4_dt_5247",
       "questionNumber": 1248
     },
@@ -27333,12 +25503,6 @@
       "answer": "cá vàng",
       "explanation": "'cá vàng' là sự vật phù hợp với hoạt động 'cho ăn'.",
       "blankAnswer": "cá vàng",
-      "options": [
-        "bánh chưng",
-        "miệng túi",
-        "cá vàng",
-        "xe đạp"
-      ],
       "questionId": "k2_c4_dt_5248",
       "questionNumber": 1249
     },
@@ -27351,12 +25515,6 @@
       "answer": "giỏ cam",
       "explanation": "'giỏ cam' là sự vật phù hợp với hoạt động 'đem tặng'.",
       "blankAnswer": "giỏ cam",
-      "options": [
-        "cá vàng",
-        "vườn hoa",
-        "chiếc khăn",
-        "giỏ cam"
-      ],
       "questionId": "k2_c4_dt_5249",
       "questionNumber": 1250
     },
@@ -27369,12 +25527,6 @@
       "answer": "cây phượng",
       "explanation": "'cây phượng' là sự vật phù hợp với hoạt động 'trồng'.",
       "blankAnswer": "cây phượng",
-      "options": [
-        "cây phượng",
-        "sân lớp",
-        "báo thiếu nhi",
-        "hộp đồ"
-      ],
       "questionId": "k2_c4_dt_5250",
       "questionNumber": 1251
     },
@@ -27387,12 +25539,6 @@
       "answer": "áo mưa",
       "explanation": "'áo mưa' là sự vật phù hợp với hoạt động 'gấp'.",
       "blankAnswer": "áo mưa",
-      "options": [
-        "bàn học",
-        "hàng rào",
-        "bể cá",
-        "áo mưa"
-      ],
       "questionId": "k2_c4_dt_5251",
       "questionNumber": 1252
     },
@@ -27405,12 +25551,6 @@
       "answer": "xe đạp",
       "explanation": "'xe đạp' là sự vật phù hợp với hoạt động 'sửa chữa'.",
       "blankAnswer": "xe đạp",
-      "options": [
-        "chiếc lá",
-        "xe đạp",
-        "quả bóng",
-        "câu thơ"
-      ],
       "questionId": "k2_c4_dt_5252",
       "questionNumber": 1253
     },
@@ -27423,12 +25563,6 @@
       "answer": "dây giày",
       "explanation": "'dây giày' là sự vật phù hợp với hoạt động 'buộc chặt'.",
       "blankAnswer": "dây giày",
-      "options": [
-        "chiếc cặp",
-        "bồn cây",
-        "dây giày",
-        "hạt lúa"
-      ],
       "questionId": "k2_c4_dt_5253",
       "questionNumber": 1254
     },
@@ -27441,12 +25575,6 @@
       "answer": "đàn chim",
       "explanation": "'đàn chim' là sự vật phù hợp với hoạt động 'quan sát'.",
       "blankAnswer": "đàn chim",
-      "options": [
-        "cửa kính",
-        "cây phượng",
-        "khăn len",
-        "đàn chim"
-      ],
       "questionId": "k2_c4_dt_5254",
       "questionNumber": 1255
     },
@@ -27459,12 +25587,6 @@
       "answer": "luống rau",
       "explanation": "'luống rau' là sự vật phù hợp với hoạt động 'nhổ cỏ'.",
       "blankAnswer": "luống rau",
-      "options": [
-        "luống rau",
-        "hộp đồ",
-        "chiếc ghế",
-        "báo thiếu nhi"
-      ],
       "questionId": "k2_c4_dt_5255",
       "questionNumber": 1256
     },
@@ -27477,12 +25599,6 @@
       "answer": "hạt đậu",
       "explanation": "'hạt đậu' là sự vật phù hợp với hoạt động 'gieo'.",
       "blankAnswer": "hạt đậu",
-      "options": [
-        "dây giày",
-        "cây bàng",
-        "chiếc lá",
-        "hạt đậu"
-      ],
       "questionId": "k2_c4_dt_5256",
       "questionNumber": 1257
     },
@@ -27495,12 +25611,6 @@
       "answer": "chữ cái",
       "explanation": "'chữ cái' là sự vật phù hợp với hoạt động 'tập viết'.",
       "blankAnswer": "chữ cái",
-      "options": [
-        "món quà",
-        "sách khoa học",
-        "chữ cái",
-        "luống rau"
-      ],
       "questionId": "k2_c4_dt_5257",
       "questionNumber": 1258
     },
@@ -27513,12 +25623,6 @@
       "answer": "món quà",
       "explanation": "'món quà' là sự vật phù hợp với hoạt động 'gói ghém'.",
       "blankAnswer": "món quà",
-      "options": [
-        "hộp đồ",
-        "gà con",
-        "tổ kiến",
-        "món quà"
-      ],
       "questionId": "k2_c4_dt_5258",
       "questionNumber": 1259
     },
@@ -27531,12 +25635,6 @@
       "answer": "bức thư",
       "explanation": "'bức thư' là sự vật phù hợp với hoạt động 'đưa giúp'.",
       "blankAnswer": "bức thư",
-      "options": [
-        "hàng rào",
-        "bức thư",
-        "phòng học",
-        "bánh chưng"
-      ],
       "questionId": "k2_c4_dt_5259",
       "questionNumber": 1260
     },
@@ -27549,12 +25647,6 @@
       "answer": "luống rau",
       "explanation": "'luống rau' là sự vật phù hợp với hoạt động 'tưới nước'.",
       "blankAnswer": "luống rau",
-      "options": [
-        "hạt lúa",
-        "chậu hoa",
-        "áo mưa",
-        "luống rau"
-      ],
       "questionId": "k2_c4_dt_5260",
       "questionNumber": 1261
     },
@@ -27567,12 +25659,6 @@
       "answer": "sách khoa học",
       "explanation": "'sách khoa học' là sự vật phù hợp với hoạt động 'đọc'.",
       "blankAnswer": "sách khoa học",
-      "options": [
-        "sách khoa học",
-        "đàn chim",
-        "câu thơ",
-        "thuyền giấy"
-      ],
       "questionId": "k2_c4_dt_5261",
       "questionNumber": 1262
     },
@@ -27585,12 +25671,6 @@
       "answer": "hiên nhà",
       "explanation": "'hiên nhà' là sự vật phù hợp với hoạt động 'quét dọn'.",
       "blankAnswer": "hiên nhà",
-      "options": [
-        "luống rau",
-        "hiên nhà",
-        "sân lớp",
-        "quyển truyện"
-      ],
       "questionId": "k2_c4_dt_5262",
       "questionNumber": 1263
     },
@@ -27603,12 +25683,6 @@
       "answer": "đàn gà",
       "explanation": "'đàn gà' là sự vật phù hợp với hoạt động 'chăm sóc'.",
       "blankAnswer": "đàn gà",
-      "options": [
-        "chiếc bàn",
-        "bức thư",
-        "chậu hoa",
-        "đàn gà"
-      ],
       "questionId": "k2_c4_dt_5263",
       "questionNumber": 1264
     },
@@ -27621,12 +25695,6 @@
       "answer": "bàn học",
       "explanation": "'bàn học' là sự vật phù hợp với hoạt động 'xếp gọn'.",
       "blankAnswer": "bàn học",
-      "options": [
-        "bàn học",
-        "chiếc ghế",
-        "chữ cái",
-        "tên mình"
-      ],
       "questionId": "k2_c4_dt_5264",
       "questionNumber": 1265
     },
@@ -27639,12 +25707,6 @@
       "answer": "mảnh giấy",
       "explanation": "'mảnh giấy' là sự vật phù hợp với hoạt động 'nhặt'.",
       "blankAnswer": "mảnh giấy",
-      "options": [
-        "bàn học",
-        "mảnh giấy",
-        "phòng học",
-        "đàn gà"
-      ],
       "questionId": "k2_c4_dt_5265",
       "questionNumber": 1266
     },
@@ -27657,12 +25719,6 @@
       "answer": "cửa kính",
       "explanation": "'cửa kính' là sự vật phù hợp với hoạt động 'lau sạch'.",
       "blankAnswer": "cửa kính",
-      "options": [
-        "luống rau",
-        "hạt lúa",
-        "cửa kính",
-        "bể cá"
-      ],
       "questionId": "k2_c4_dt_5266",
       "questionNumber": 1267
     },
@@ -27675,12 +25731,6 @@
       "answer": "cánh buồm",
       "explanation": "'cánh buồm' là sự vật phù hợp với hoạt động 'vẽ'.",
       "blankAnswer": "cánh buồm",
-      "options": [
-        "hạt cải",
-        "thuyền giấy",
-        "cánh buồm",
-        "khóm cúc"
-      ],
       "questionId": "k2_c4_dt_5267",
       "questionNumber": 1268
     },
@@ -27693,12 +25743,6 @@
       "answer": "mèo con",
       "explanation": "'mèo con' là sự vật phù hợp với hoạt động 'cho ăn'.",
       "blankAnswer": "mèo con",
-      "options": [
-        "sách khoa học",
-        "mèo con",
-        "cây bàng",
-        "bánh chưng"
-      ],
       "questionId": "k2_c4_dt_5268",
       "questionNumber": 1269
     },
@@ -27711,12 +25755,6 @@
       "answer": "quyển truyện",
       "explanation": "'quyển truyện' là sự vật phù hợp với hoạt động 'đem tặng'.",
       "blankAnswer": "quyển truyện",
-      "options": [
-        "quyển truyện",
-        "hộp đồ",
-        "cây phượng",
-        "hạt cải"
-      ],
       "questionId": "k2_c4_dt_5269",
       "questionNumber": 1270
     },
@@ -27729,12 +25767,6 @@
       "answer": "cây bàng",
       "explanation": "'cây bàng' là sự vật phù hợp với hoạt động 'trồng'.",
       "blankAnswer": "cây bàng",
-      "options": [
-        "cây bàng",
-        "sách khoa học",
-        "câu thơ",
-        "áo mưa"
-      ],
       "questionId": "k2_c4_dt_5270",
       "questionNumber": 1271
     },
@@ -27747,12 +25779,6 @@
       "answer": "khăn quàng",
       "explanation": "'khăn quàng' là sự vật phù hợp với hoạt động 'gấp'.",
       "blankAnswer": "khăn quàng",
-      "options": [
-        "khăn quàng",
-        "vườn hoa",
-        "báo thiếu nhi",
-        "mái nhà"
-      ],
       "questionId": "k2_c4_dt_5271",
       "questionNumber": 1272
     },
@@ -27765,12 +25791,6 @@
       "answer": "hàng rào",
       "explanation": "'hàng rào' là sự vật phù hợp với hoạt động 'sửa chữa'.",
       "blankAnswer": "hàng rào",
-      "options": [
-        "hàng rào",
-        "bể cá",
-        "gà con",
-        "hạt đậu"
-      ],
       "questionId": "k2_c4_dt_5272",
       "questionNumber": 1273
     },
@@ -27783,12 +25803,6 @@
       "answer": "gói quà",
       "explanation": "'gói quà' là sự vật phù hợp với hoạt động 'buộc chặt'.",
       "blankAnswer": "gói quà",
-      "options": [
-        "gói quà",
-        "đàn chim",
-        "mái nhà",
-        "sách vở"
-      ],
       "questionId": "k2_c4_dt_5273",
       "questionNumber": 1274
     },
@@ -27801,12 +25815,6 @@
       "answer": "bể cá",
       "explanation": "'bể cá' là sự vật phù hợp với hoạt động 'quan sát'.",
       "blankAnswer": "bể cá",
-      "options": [
-        "luống rau",
-        "mảnh giấy",
-        "bồn cây",
-        "bể cá"
-      ],
       "questionId": "k2_c4_dt_5274",
       "questionNumber": 1275
     },
@@ -27819,12 +25827,6 @@
       "answer": "vườn hoa",
       "explanation": "'vườn hoa' là sự vật phù hợp với hoạt động 'nhổ cỏ'.",
       "blankAnswer": "vườn hoa",
-      "options": [
-        "đàn gà",
-        "quyển truyện",
-        "bức thư",
-        "vườn hoa"
-      ],
       "questionId": "k2_c4_dt_5275",
       "questionNumber": 1276
     },
@@ -27837,12 +25839,6 @@
       "answer": "hạt lúa",
       "explanation": "'hạt lúa' là sự vật phù hợp với hoạt động 'gieo'.",
       "blankAnswer": "hạt lúa",
-      "options": [
-        "hàng rào",
-        "quả bóng",
-        "đàn gà",
-        "hạt lúa"
-      ],
       "questionId": "k2_c4_dt_5276",
       "questionNumber": 1277
     },
@@ -27855,12 +25851,6 @@
       "answer": "tên mình",
       "explanation": "'tên mình' là sự vật phù hợp với hoạt động 'tập viết'.",
       "blankAnswer": "tên mình",
-      "options": [
-        "câu thơ",
-        "bể cá",
-        "thuyền giấy",
-        "tên mình"
-      ],
       "questionId": "k2_c4_dt_5277",
       "questionNumber": 1278
     },
@@ -27873,12 +25863,6 @@
       "answer": "bánh chưng",
       "explanation": "'bánh chưng' là sự vật phù hợp với hoạt động 'gói ghém'.",
       "blankAnswer": "bánh chưng",
-      "options": [
-        "bánh chưng",
-        "vườn hoa",
-        "miệng túi",
-        "đàn gà"
-      ],
       "questionId": "k2_c4_dt_5278",
       "questionNumber": 1279
     },
@@ -27891,12 +25875,6 @@
       "answer": "chiếc cặp",
       "explanation": "'chiếc cặp' là sự vật phù hợp với hoạt động 'đưa giúp'.",
       "blankAnswer": "chiếc cặp",
-      "options": [
-        "chiếc cặp",
-        "chậu hoa",
-        "sân lớp",
-        "luống rau"
-      ],
       "questionId": "k2_c4_dt_5279",
       "questionNumber": 1280
     },
@@ -27909,12 +25887,6 @@
       "answer": "cây non",
       "explanation": "'cây non' là sự vật phù hợp với hoạt động 'tưới nước'.",
       "blankAnswer": "cây non",
-      "options": [
-        "cây non",
-        "đàn gà",
-        "khăn len",
-        "hạt đậu"
-      ],
       "questionId": "k2_c4_dt_5280",
       "questionNumber": 1281
     },
@@ -27927,12 +25899,6 @@
       "answer": "báo thiếu nhi",
       "explanation": "'báo thiếu nhi' là sự vật phù hợp với hoạt động 'đọc'.",
       "blankAnswer": "báo thiếu nhi",
-      "options": [
-        "luống rau",
-        "cửa kính",
-        "bể cá",
-        "báo thiếu nhi"
-      ],
       "questionId": "k2_c4_dt_5281",
       "questionNumber": 1282
     },
@@ -27945,12 +25911,6 @@
       "answer": "phòng học",
       "explanation": "'phòng học' là sự vật phù hợp với hoạt động 'quét dọn'.",
       "blankAnswer": "phòng học",
-      "options": [
-        "phòng học",
-        "khăn quàng",
-        "mèo con",
-        "bể cá"
-      ],
       "questionId": "k2_c4_dt_5282",
       "questionNumber": 1283
     },
@@ -27963,12 +25923,6 @@
       "answer": "bể cá",
       "explanation": "'bể cá' là sự vật phù hợp với hoạt động 'chăm sóc'.",
       "blankAnswer": "bể cá",
-      "options": [
-        "bể cá",
-        "chiếc cặp",
-        "báo thiếu nhi",
-        "mèo con"
-      ],
       "questionId": "k2_c4_dt_5283",
       "questionNumber": 1284
     },
@@ -27981,12 +25935,6 @@
       "answer": "hộp bút",
       "explanation": "'hộp bút' là sự vật phù hợp với hoạt động 'xếp gọn'.",
       "blankAnswer": "hộp bút",
-      "options": [
-        "hạt lúa",
-        "sách khoa học",
-        "hộp bút",
-        "bức thư"
-      ],
       "questionId": "k2_c4_dt_5284",
       "questionNumber": 1285
     },
@@ -27999,12 +25947,6 @@
       "answer": "quả bóng",
       "explanation": "'quả bóng' là sự vật phù hợp với hoạt động 'nhặt'.",
       "blankAnswer": "quả bóng",
-      "options": [
-        "chiếc cặp",
-        "miệng túi",
-        "sách vở",
-        "quả bóng"
-      ],
       "questionId": "k2_c4_dt_5285",
       "questionNumber": 1286
     },
@@ -28017,12 +25959,6 @@
       "answer": "bảng lớp",
       "explanation": "'bảng lớp' là sự vật phù hợp với hoạt động 'lau sạch'.",
       "blankAnswer": "bảng lớp",
-      "options": [
-        "bàn học",
-        "bảng lớp",
-        "phòng học",
-        "hạt đậu"
-      ],
       "questionId": "k2_c4_dt_5286",
       "questionNumber": 1287
     },
@@ -28035,12 +25971,6 @@
       "answer": "mái nhà",
       "explanation": "'mái nhà' là sự vật phù hợp với hoạt động 'vẽ'.",
       "blankAnswer": "mái nhà",
-      "options": [
-        "mái nhà",
-        "báo thiếu nhi",
-        "chữ cái",
-        "bể cá"
-      ],
       "questionId": "k2_c4_dt_5287",
       "questionNumber": 1288
     },
@@ -28053,12 +25983,6 @@
       "answer": "gà con",
       "explanation": "'gà con' là sự vật phù hợp với hoạt động 'cho ăn'.",
       "blankAnswer": "gà con",
-      "options": [
-        "hiên nhà",
-        "khóm cúc",
-        "phòng học",
-        "gà con"
-      ],
       "questionId": "k2_c4_dt_5288",
       "questionNumber": 1289
     },
@@ -28071,12 +25995,6 @@
       "answer": "khăn len",
       "explanation": "'khăn len' là sự vật phù hợp với hoạt động 'đem tặng'.",
       "blankAnswer": "khăn len",
-      "options": [
-        "khăn len",
-        "phòng học",
-        "luống rau",
-        "bánh chưng"
-      ],
       "questionId": "k2_c4_dt_5289",
       "questionNumber": 1290
     },
@@ -28089,12 +26007,6 @@
       "answer": "khóm cúc",
       "explanation": "'khóm cúc' là sự vật phù hợp với hoạt động 'trồng'.",
       "blankAnswer": "khóm cúc",
-      "options": [
-        "quyển truyện",
-        "khóm cúc",
-        "khăn len",
-        "mèo con"
-      ],
       "questionId": "k2_c4_dt_5290",
       "questionNumber": 1291
     },
@@ -28107,12 +26019,6 @@
       "answer": "thuyền giấy",
       "explanation": "'thuyền giấy' là sự vật phù hợp với hoạt động 'gấp'.",
       "blankAnswer": "thuyền giấy",
-      "options": [
-        "khăn len",
-        "luống rau",
-        "thuyền giấy",
-        "chiếc ghế"
-      ],
       "questionId": "k2_c4_dt_5291",
       "questionNumber": 1292
     },
@@ -28125,12 +26031,6 @@
       "answer": "chiếc ghế",
       "explanation": "'chiếc ghế' là sự vật phù hợp với hoạt động 'sửa chữa'.",
       "blankAnswer": "chiếc ghế",
-      "options": [
-        "quả bóng",
-        "quyển truyện",
-        "chữ cái",
-        "chiếc ghế"
-      ],
       "questionId": "k2_c4_dt_5292",
       "questionNumber": 1293
     },
@@ -28143,12 +26043,6 @@
       "answer": "miệng túi",
       "explanation": "'miệng túi' là sự vật phù hợp với hoạt động 'buộc chặt'.",
       "blankAnswer": "miệng túi",
-      "options": [
-        "quyển truyện",
-        "miệng túi",
-        "hiên nhà",
-        "chiếc khăn"
-      ],
       "questionId": "k2_c4_dt_5293",
       "questionNumber": 1294
     },
@@ -28161,12 +26055,6 @@
       "answer": "tổ kiến",
       "explanation": "'tổ kiến' là sự vật phù hợp với hoạt động 'quan sát'.",
       "blankAnswer": "tổ kiến",
-      "options": [
-        "hộp đồ",
-        "hàng rào",
-        "vườn hoa",
-        "tổ kiến"
-      ],
       "questionId": "k2_c4_dt_5294",
       "questionNumber": 1295
     },
@@ -28179,12 +26067,6 @@
       "answer": "bồn cây",
       "explanation": "'bồn cây' là sự vật phù hợp với hoạt động 'nhổ cỏ'.",
       "blankAnswer": "bồn cây",
-      "options": [
-        "bồn cây",
-        "tên mình",
-        "sân lớp",
-        "phòng học"
-      ],
       "questionId": "k2_c4_dt_5295",
       "questionNumber": 1296
     },
@@ -28197,12 +26079,6 @@
       "answer": "hạt cải",
       "explanation": "'hạt cải' là sự vật phù hợp với hoạt động 'gieo'.",
       "blankAnswer": "hạt cải",
-      "options": [
-        "tổ kiến",
-        "luống rau",
-        "hạt cải",
-        "sân lớp"
-      ],
       "questionId": "k2_c4_dt_5296",
       "questionNumber": 1297
     },
@@ -28215,12 +26091,6 @@
       "answer": "câu thơ",
       "explanation": "'câu thơ' là sự vật phù hợp với hoạt động 'tập viết'.",
       "blankAnswer": "câu thơ",
-      "options": [
-        "chiếc khăn",
-        "câu thơ",
-        "gói quà",
-        "bức thư"
-      ],
       "questionId": "k2_c4_dt_5297",
       "questionNumber": 1298
     },
@@ -28233,12 +26103,6 @@
       "answer": "chiếc khăn",
       "explanation": "'chiếc khăn' là sự vật phù hợp với hoạt động 'gói ghém'.",
       "blankAnswer": "chiếc khăn",
-      "options": [
-        "hộp bút",
-        "bồn cây",
-        "chiếc khăn",
-        "đàn gà"
-      ],
       "questionId": "k2_c4_dt_5298",
       "questionNumber": 1299
     },
@@ -28251,12 +26115,6 @@
       "answer": "hộp đồ",
       "explanation": "'hộp đồ' là sự vật phù hợp với hoạt động 'đưa giúp'.",
       "blankAnswer": "hộp đồ",
-      "options": [
-        "hộp đồ",
-        "khăn len",
-        "mái nhà",
-        "mèo con"
-      ],
       "questionId": "k2_c4_dt_5299",
       "questionNumber": 1300
     },
@@ -28269,12 +26127,6 @@
       "answer": "chậu hoa",
       "explanation": "'chậu hoa' là sự vật phù hợp với hoạt động 'tưới nước'.",
       "blankAnswer": "chậu hoa",
-      "options": [
-        "cá vàng",
-        "cây phượng",
-        "chậu hoa",
-        "cây bưởi"
-      ],
       "questionId": "k2_c4_dt_5300",
       "questionNumber": 1301
     },
@@ -28287,12 +26139,6 @@
       "answer": "quyển truyện",
       "explanation": "'quyển truyện' là sự vật phù hợp với hoạt động 'đọc'.",
       "blankAnswer": "quyển truyện",
-      "options": [
-        "bức thư",
-        "hạt lúa",
-        "quyển truyện",
-        "tổ kiến"
-      ],
       "questionId": "k2_c4_dt_5301",
       "questionNumber": 1302
     },
@@ -28305,12 +26151,6 @@
       "answer": "sân lớp",
       "explanation": "'sân lớp' là sự vật phù hợp với hoạt động 'quét dọn'.",
       "blankAnswer": "sân lớp",
-      "options": [
-        "câu thơ",
-        "thuyền giấy",
-        "sân lớp",
-        "bông hoa"
-      ],
       "questionId": "k2_c4_dt_5302",
       "questionNumber": 1303
     },
@@ -28323,12 +26163,6 @@
       "answer": "cây bưởi",
       "explanation": "'cây bưởi' là sự vật phù hợp với hoạt động 'chăm sóc'.",
       "blankAnswer": "cây bưởi",
-      "options": [
-        "chiếc lá",
-        "phòng học",
-        "cây bưởi",
-        "luống rau"
-      ],
       "questionId": "k2_c4_dt_5303",
       "questionNumber": 1304
     },
@@ -28341,12 +26175,6 @@
       "answer": "sách vở",
       "explanation": "'sách vở' là sự vật phù hợp với hoạt động 'xếp gọn'.",
       "blankAnswer": "sách vở",
-      "options": [
-        "sách vở",
-        "đàn chim",
-        "dây giày",
-        "chữ cái"
-      ],
       "questionId": "k2_c4_dt_5304",
       "questionNumber": 1305
     },
@@ -28359,12 +26187,6 @@
       "answer": "chiếc lá",
       "explanation": "'chiếc lá' là sự vật phù hợp với hoạt động 'nhặt'.",
       "blankAnswer": "chiếc lá",
-      "options": [
-        "chiếc lá",
-        "cửa kính",
-        "hiên nhà",
-        "vườn hoa"
-      ],
       "questionId": "k2_c4_dt_5305",
       "questionNumber": 1306
     },
@@ -28377,12 +26199,6 @@
       "answer": "chiếc bàn",
       "explanation": "'chiếc bàn' là sự vật phù hợp với hoạt động 'lau sạch'.",
       "blankAnswer": "chiếc bàn",
-      "options": [
-        "cánh buồm",
-        "hàng rào",
-        "tên mình",
-        "chiếc bàn"
-      ],
       "questionId": "k2_c4_dt_5306",
       "questionNumber": 1307
     },
@@ -28395,12 +26211,6 @@
       "answer": "bông hoa",
       "explanation": "'bông hoa' là sự vật phù hợp với hoạt động 'vẽ'.",
       "blankAnswer": "bông hoa",
-      "options": [
-        "chữ cái",
-        "chiếc khăn",
-        "bông hoa",
-        "hạt lúa"
-      ],
       "questionId": "k2_c4_dt_5307",
       "questionNumber": 1308
     },
@@ -28413,12 +26223,6 @@
       "answer": "cá vàng",
       "explanation": "'cá vàng' là sự vật phù hợp với hoạt động 'cho ăn'.",
       "blankAnswer": "cá vàng",
-      "options": [
-        "mèo con",
-        "báo thiếu nhi",
-        "đàn gà",
-        "cá vàng"
-      ],
       "questionId": "k2_c4_dt_5308",
       "questionNumber": 1309
     },
@@ -28431,12 +26235,6 @@
       "answer": "giỏ cam",
       "explanation": "'giỏ cam' là sự vật phù hợp với hoạt động 'đem tặng'.",
       "blankAnswer": "giỏ cam",
-      "options": [
-        "dây giày",
-        "phòng học",
-        "giỏ cam",
-        "mảnh giấy"
-      ],
       "questionId": "k2_c4_dt_5309",
       "questionNumber": 1310
     },
@@ -28449,12 +26247,6 @@
       "answer": "cây phượng",
       "explanation": "'cây phượng' là sự vật phù hợp với hoạt động 'trồng'.",
       "blankAnswer": "cây phượng",
-      "options": [
-        "hộp đồ",
-        "hạt cải",
-        "cây phượng",
-        "mèo con"
-      ],
       "questionId": "k2_c4_dt_5310",
       "questionNumber": 1311
     },
@@ -28467,12 +26259,6 @@
       "answer": "áo mưa",
       "explanation": "'áo mưa' là sự vật phù hợp với hoạt động 'gấp'.",
       "blankAnswer": "áo mưa",
-      "options": [
-        "hạt đậu",
-        "chậu hoa",
-        "hiên nhà",
-        "áo mưa"
-      ],
       "questionId": "k2_c4_dt_5311",
       "questionNumber": 1312
     },
@@ -28485,12 +26271,6 @@
       "answer": "xe đạp",
       "explanation": "'xe đạp' là sự vật phù hợp với hoạt động 'sửa chữa'.",
       "blankAnswer": "xe đạp",
-      "options": [
-        "khóm cúc",
-        "xe đạp",
-        "hạt lúa",
-        "dây giày"
-      ],
       "questionId": "k2_c4_dt_5312",
       "questionNumber": 1313
     },
@@ -28503,12 +26283,6 @@
       "answer": "dây giày",
       "explanation": "'dây giày' là sự vật phù hợp với hoạt động 'buộc chặt'.",
       "blankAnswer": "dây giày",
-      "options": [
-        "cây phượng",
-        "hộp bút",
-        "mảnh giấy",
-        "dây giày"
-      ],
       "questionId": "k2_c4_dt_5313",
       "questionNumber": 1314
     },
@@ -28521,12 +26295,6 @@
       "answer": "đàn chim",
       "explanation": "'đàn chim' là sự vật phù hợp với hoạt động 'quan sát'.",
       "blankAnswer": "đàn chim",
-      "options": [
-        "bể cá",
-        "tên mình",
-        "đàn chim",
-        "bông hoa"
-      ],
       "questionId": "k2_c4_dt_5314",
       "questionNumber": 1315
     },
@@ -28539,12 +26307,6 @@
       "answer": "luống rau",
       "explanation": "'luống rau' là sự vật phù hợp với hoạt động 'nhổ cỏ'.",
       "blankAnswer": "luống rau",
-      "options": [
-        "quả bóng",
-        "báo thiếu nhi",
-        "luống rau",
-        "hàng rào"
-      ],
       "questionId": "k2_c4_dt_5315",
       "questionNumber": 1316
     },
@@ -28557,12 +26319,6 @@
       "answer": "hạt đậu",
       "explanation": "'hạt đậu' là sự vật phù hợp với hoạt động 'gieo'.",
       "blankAnswer": "hạt đậu",
-      "options": [
-        "bánh chưng",
-        "cây phượng",
-        "báo thiếu nhi",
-        "hạt đậu"
-      ],
       "questionId": "k2_c4_dt_5316",
       "questionNumber": 1317
     },
@@ -28575,12 +26331,6 @@
       "answer": "chữ cái",
       "explanation": "'chữ cái' là sự vật phù hợp với hoạt động 'tập viết'.",
       "blankAnswer": "chữ cái",
-      "options": [
-        "hạt cải",
-        "bồn cây",
-        "hộp bút",
-        "chữ cái"
-      ],
       "questionId": "k2_c4_dt_5317",
       "questionNumber": 1318
     },
@@ -28593,12 +26343,6 @@
       "answer": "món quà",
       "explanation": "'món quà' là sự vật phù hợp với hoạt động 'gói ghém'.",
       "blankAnswer": "món quà",
-      "options": [
-        "món quà",
-        "cánh buồm",
-        "cây bưởi",
-        "thuyền giấy"
-      ],
       "questionId": "k2_c4_dt_5318",
       "questionNumber": 1319
     },
@@ -28611,12 +26355,6 @@
       "answer": "bức thư",
       "explanation": "'bức thư' là sự vật phù hợp với hoạt động 'đưa giúp'.",
       "blankAnswer": "bức thư",
-      "options": [
-        "bức thư",
-        "đàn gà",
-        "cây non",
-        "cây bưởi"
-      ],
       "questionId": "k2_c4_dt_5319",
       "questionNumber": 1320
     },
@@ -28629,12 +26367,6 @@
       "answer": "luống rau",
       "explanation": "'luống rau' là sự vật phù hợp với hoạt động 'tưới nước'.",
       "blankAnswer": "luống rau",
-      "options": [
-        "sân lớp",
-        "luống rau",
-        "hộp bút",
-        "miệng túi"
-      ],
       "questionId": "k2_c4_dt_5320",
       "questionNumber": 1321
     },
@@ -28647,12 +26379,6 @@
       "answer": "sách khoa học",
       "explanation": "'sách khoa học' là sự vật phù hợp với hoạt động 'đọc'.",
       "blankAnswer": "sách khoa học",
-      "options": [
-        "cá vàng",
-        "miệng túi",
-        "chiếc khăn",
-        "sách khoa học"
-      ],
       "questionId": "k2_c4_dt_5321",
       "questionNumber": 1322
     },
@@ -28665,12 +26391,6 @@
       "answer": "hiên nhà",
       "explanation": "'hiên nhà' là sự vật phù hợp với hoạt động 'quét dọn'.",
       "blankAnswer": "hiên nhà",
-      "options": [
-        "hiên nhà",
-        "cá vàng",
-        "hạt cải",
-        "tổ kiến"
-      ],
       "questionId": "k2_c4_dt_5322",
       "questionNumber": 1323
     },
@@ -28683,12 +26403,6 @@
       "answer": "đàn gà",
       "explanation": "'đàn gà' là sự vật phù hợp với hoạt động 'chăm sóc'.",
       "blankAnswer": "đàn gà",
-      "options": [
-        "khăn len",
-        "đàn gà",
-        "đàn chim",
-        "khóm cúc"
-      ],
       "questionId": "k2_c4_dt_5323",
       "questionNumber": 1324
     },
@@ -28701,12 +26415,6 @@
       "answer": "bàn học",
       "explanation": "'bàn học' là sự vật phù hợp với hoạt động 'xếp gọn'.",
       "blankAnswer": "bàn học",
-      "options": [
-        "bàn học",
-        "quả bóng",
-        "bồn cây",
-        "khăn quàng"
-      ],
       "questionId": "k2_c4_dt_5324",
       "questionNumber": 1325
     },
@@ -28719,12 +26427,6 @@
       "answer": "mảnh giấy",
       "explanation": "'mảnh giấy' là sự vật phù hợp với hoạt động 'nhặt'.",
       "blankAnswer": "mảnh giấy",
-      "options": [
-        "mèo con",
-        "chiếc lá",
-        "giỏ cam",
-        "mảnh giấy"
-      ],
       "questionId": "k2_c4_dt_5325",
       "questionNumber": 1326
     },
@@ -28737,12 +26439,6 @@
       "answer": "cửa kính",
       "explanation": "'cửa kính' là sự vật phù hợp với hoạt động 'lau sạch'.",
       "blankAnswer": "cửa kính",
-      "options": [
-        "chiếc cặp",
-        "hộp bút",
-        "giỏ cam",
-        "cửa kính"
-      ],
       "questionId": "k2_c4_dt_5326",
       "questionNumber": 1327
     },
@@ -28755,12 +26451,6 @@
       "answer": "cánh buồm",
       "explanation": "'cánh buồm' là sự vật phù hợp với hoạt động 'vẽ'.",
       "blankAnswer": "cánh buồm",
-      "options": [
-        "mái nhà",
-        "sách khoa học",
-        "chiếc bàn",
-        "cánh buồm"
-      ],
       "questionId": "k2_c4_dt_5327",
       "questionNumber": 1328
     },
@@ -28773,12 +26463,6 @@
       "answer": "mèo con",
       "explanation": "'mèo con' là sự vật phù hợp với hoạt động 'cho ăn'.",
       "blankAnswer": "mèo con",
-      "options": [
-        "mèo con",
-        "chiếc ghế",
-        "cánh buồm",
-        "chậu hoa"
-      ],
       "questionId": "k2_c4_dt_5328",
       "questionNumber": 1329
     },
@@ -28791,12 +26475,6 @@
       "answer": "quyển truyện",
       "explanation": "'quyển truyện' là sự vật phù hợp với hoạt động 'đem tặng'.",
       "blankAnswer": "quyển truyện",
-      "options": [
-        "quyển truyện",
-        "hạt cải",
-        "khăn len",
-        "hạt lúa"
-      ],
       "questionId": "k2_c4_dt_5329",
       "questionNumber": 1330
     },
@@ -28809,12 +26487,6 @@
       "answer": "cây bàng",
       "explanation": "'cây bàng' là sự vật phù hợp với hoạt động 'trồng'.",
       "blankAnswer": "cây bàng",
-      "options": [
-        "cây bàng",
-        "chiếc lá",
-        "cánh buồm",
-        "hộp bút"
-      ],
       "questionId": "k2_c4_dt_5330",
       "questionNumber": 1331
     },
@@ -28827,12 +26499,6 @@
       "answer": "khăn quàng",
       "explanation": "'khăn quàng' là sự vật phù hợp với hoạt động 'gấp'.",
       "blankAnswer": "khăn quàng",
-      "options": [
-        "vườn hoa",
-        "khăn quàng",
-        "khóm cúc",
-        "chiếc ghế"
-      ],
       "questionId": "k2_c4_dt_5331",
       "questionNumber": 1332
     },
@@ -28845,12 +26511,6 @@
       "answer": "hàng rào",
       "explanation": "'hàng rào' là sự vật phù hợp với hoạt động 'sửa chữa'.",
       "blankAnswer": "hàng rào",
-      "options": [
-        "tổ kiến",
-        "vườn hoa",
-        "hàng rào",
-        "luống rau"
-      ],
       "questionId": "k2_c4_dt_5332",
       "questionNumber": 1333
     },
@@ -28863,12 +26523,6 @@
       "answer": "gói quà",
       "explanation": "'gói quà' là sự vật phù hợp với hoạt động 'buộc chặt'.",
       "blankAnswer": "gói quà",
-      "options": [
-        "gói quà",
-        "hạt cải",
-        "dây giày",
-        "đàn gà"
-      ],
       "questionId": "k2_c4_dt_5333",
       "questionNumber": 1334
     },
@@ -28881,12 +26535,6 @@
       "answer": "bể cá",
       "explanation": "'bể cá' là sự vật phù hợp với hoạt động 'quan sát'.",
       "blankAnswer": "bể cá",
-      "options": [
-        "câu thơ",
-        "hạt lúa",
-        "bể cá",
-        "chiếc khăn"
-      ],
       "questionId": "k2_c4_dt_5334",
       "questionNumber": 1335
     },
@@ -28899,12 +26547,6 @@
       "answer": "vườn hoa",
       "explanation": "'vườn hoa' là sự vật phù hợp với hoạt động 'nhổ cỏ'.",
       "blankAnswer": "vườn hoa",
-      "options": [
-        "vườn hoa",
-        "đàn chim",
-        "quả bóng",
-        "gói quà"
-      ],
       "questionId": "k2_c4_dt_5335",
       "questionNumber": 1336
     },
@@ -28917,12 +26559,6 @@
       "answer": "hạt lúa",
       "explanation": "'hạt lúa' là sự vật phù hợp với hoạt động 'gieo'.",
       "blankAnswer": "hạt lúa",
-      "options": [
-        "chiếc ghế",
-        "gà con",
-        "hạt lúa",
-        "đàn chim"
-      ],
       "questionId": "k2_c4_dt_5336",
       "questionNumber": 1337
     },
@@ -28935,12 +26571,6 @@
       "answer": "tên mình",
       "explanation": "'tên mình' là sự vật phù hợp với hoạt động 'tập viết'.",
       "blankAnswer": "tên mình",
-      "options": [
-        "câu thơ",
-        "tên mình",
-        "phòng học",
-        "mèo con"
-      ],
       "questionId": "k2_c4_dt_5337",
       "questionNumber": 1338
     },
@@ -28953,12 +26583,6 @@
       "answer": "bánh chưng",
       "explanation": "'bánh chưng' là sự vật phù hợp với hoạt động 'gói ghém'.",
       "blankAnswer": "bánh chưng",
-      "options": [
-        "giỏ cam",
-        "gà con",
-        "bánh chưng",
-        "tên mình"
-      ],
       "questionId": "k2_c4_dt_5338",
       "questionNumber": 1339
     },
@@ -28971,12 +26595,6 @@
       "answer": "chiếc cặp",
       "explanation": "'chiếc cặp' là sự vật phù hợp với hoạt động 'đưa giúp'.",
       "blankAnswer": "chiếc cặp",
-      "options": [
-        "dây giày",
-        "chiếc khăn",
-        "chiếc cặp",
-        "hàng rào"
-      ],
       "questionId": "k2_c4_dt_5339",
       "questionNumber": 1340
     },
@@ -28989,12 +26607,6 @@
       "answer": "cây non",
       "explanation": "'cây non' là sự vật phù hợp với hoạt động 'tưới nước'.",
       "blankAnswer": "cây non",
-      "options": [
-        "áo mưa",
-        "cây non",
-        "hiên nhà",
-        "dây giày"
-      ],
       "questionId": "k2_c4_dt_5340",
       "questionNumber": 1341
     },
@@ -29007,12 +26619,6 @@
       "answer": "báo thiếu nhi",
       "explanation": "'báo thiếu nhi' là sự vật phù hợp với hoạt động 'đọc'.",
       "blankAnswer": "báo thiếu nhi",
-      "options": [
-        "luống rau",
-        "cây phượng",
-        "báo thiếu nhi",
-        "khóm cúc"
-      ],
       "questionId": "k2_c4_dt_5341",
       "questionNumber": 1342
     },
@@ -29025,12 +26631,6 @@
       "answer": "phòng học",
       "explanation": "'phòng học' là sự vật phù hợp với hoạt động 'quét dọn'.",
       "blankAnswer": "phòng học",
-      "options": [
-        "mèo con",
-        "phòng học",
-        "cánh buồm",
-        "gà con"
-      ],
       "questionId": "k2_c4_dt_5342",
       "questionNumber": 1343
     },
@@ -29043,12 +26643,6 @@
       "answer": "bể cá",
       "explanation": "'bể cá' là sự vật phù hợp với hoạt động 'chăm sóc'.",
       "blankAnswer": "bể cá",
-      "options": [
-        "chữ cái",
-        "bể cá",
-        "chiếc cặp",
-        "khăn quàng"
-      ],
       "questionId": "k2_c4_dt_5343",
       "questionNumber": 1344
     },
@@ -29061,12 +26655,6 @@
       "answer": "hộp bút",
       "explanation": "'hộp bút' là sự vật phù hợp với hoạt động 'xếp gọn'.",
       "blankAnswer": "hộp bút",
-      "options": [
-        "hạt đậu",
-        "bức thư",
-        "hộp bút",
-        "chiếc khăn"
-      ],
       "questionId": "k2_c4_dt_5344",
       "questionNumber": 1345
     },
@@ -29079,12 +26667,6 @@
       "answer": "quả bóng",
       "explanation": "'quả bóng' là sự vật phù hợp với hoạt động 'nhặt'.",
       "blankAnswer": "quả bóng",
-      "options": [
-        "quyển truyện",
-        "quả bóng",
-        "khăn quàng",
-        "hộp đồ"
-      ],
       "questionId": "k2_c4_dt_5345",
       "questionNumber": 1346
     },
@@ -29097,12 +26679,6 @@
       "answer": "bảng lớp",
       "explanation": "'bảng lớp' là sự vật phù hợp với hoạt động 'lau sạch'.",
       "blankAnswer": "bảng lớp",
-      "options": [
-        "mái nhà",
-        "sách vở",
-        "bảng lớp",
-        "miệng túi"
-      ],
       "questionId": "k2_c4_dt_5346",
       "questionNumber": 1347
     },
@@ -29115,12 +26691,6 @@
       "answer": "mái nhà",
       "explanation": "'mái nhà' là sự vật phù hợp với hoạt động 'vẽ'.",
       "blankAnswer": "mái nhà",
-      "options": [
-        "mái nhà",
-        "hàng rào",
-        "giỏ cam",
-        "xe đạp"
-      ],
       "questionId": "k2_c4_dt_5347",
       "questionNumber": 1348
     },
@@ -29133,12 +26703,6 @@
       "answer": "gà con",
       "explanation": "'gà con' là sự vật phù hợp với hoạt động 'cho ăn'.",
       "blankAnswer": "gà con",
-      "options": [
-        "chiếc cặp",
-        "cây bàng",
-        "vườn hoa",
-        "gà con"
-      ],
       "questionId": "k2_c4_dt_5348",
       "questionNumber": 1349
     },
@@ -29151,12 +26715,6 @@
       "answer": "khăn len",
       "explanation": "'khăn len' là sự vật phù hợp với hoạt động 'đem tặng'.",
       "blankAnswer": "khăn len",
-      "options": [
-        "cá vàng",
-        "khăn len",
-        "chữ cái",
-        "quả bóng"
-      ],
       "questionId": "k2_c4_dt_5349",
       "questionNumber": 1350
     },
@@ -29169,12 +26727,6 @@
       "answer": "khóm cúc",
       "explanation": "'khóm cúc' là sự vật phù hợp với hoạt động 'trồng'.",
       "blankAnswer": "khóm cúc",
-      "options": [
-        "cây bàng",
-        "cây phượng",
-        "câu thơ",
-        "khóm cúc"
-      ],
       "questionId": "k2_c4_dt_5350",
       "questionNumber": 1351
     },
@@ -29187,12 +26739,6 @@
       "answer": "thuyền giấy",
       "explanation": "'thuyền giấy' là sự vật phù hợp với hoạt động 'gấp'.",
       "blankAnswer": "thuyền giấy",
-      "options": [
-        "thuyền giấy",
-        "dây giày",
-        "gói quà",
-        "hạt lúa"
-      ],
       "questionId": "k2_c4_dt_5351",
       "questionNumber": 1352
     },
@@ -29205,12 +26751,6 @@
       "answer": "chiếc ghế",
       "explanation": "'chiếc ghế' là sự vật phù hợp với hoạt động 'sửa chữa'.",
       "blankAnswer": "chiếc ghế",
-      "options": [
-        "chiếc ghế",
-        "khăn len",
-        "cây bưởi",
-        "bể cá"
-      ],
       "questionId": "k2_c4_dt_5352",
       "questionNumber": 1353
     },
@@ -29223,12 +26763,6 @@
       "answer": "miệng túi",
       "explanation": "'miệng túi' là sự vật phù hợp với hoạt động 'buộc chặt'.",
       "blankAnswer": "miệng túi",
-      "options": [
-        "miệng túi",
-        "luống rau",
-        "cây non",
-        "thuyền giấy"
-      ],
       "questionId": "k2_c4_dt_5353",
       "questionNumber": 1354
     },
@@ -29241,12 +26775,6 @@
       "answer": "tổ kiến",
       "explanation": "'tổ kiến' là sự vật phù hợp với hoạt động 'quan sát'.",
       "blankAnswer": "tổ kiến",
-      "options": [
-        "cây bàng",
-        "tổ kiến",
-        "cây bưởi",
-        "gà con"
-      ],
       "questionId": "k2_c4_dt_5354",
       "questionNumber": 1355
     },
@@ -29259,12 +26787,6 @@
       "answer": "bồn cây",
       "explanation": "'bồn cây' là sự vật phù hợp với hoạt động 'nhổ cỏ'.",
       "blankAnswer": "bồn cây",
-      "options": [
-        "hộp bút",
-        "bồn cây",
-        "chậu hoa",
-        "sách khoa học"
-      ],
       "questionId": "k2_c4_dt_5355",
       "questionNumber": 1356
     },
@@ -29277,12 +26799,6 @@
       "answer": "hạt cải",
       "explanation": "'hạt cải' là sự vật phù hợp với hoạt động 'gieo'.",
       "blankAnswer": "hạt cải",
-      "options": [
-        "hạt đậu",
-        "chiếc bàn",
-        "hạt cải",
-        "bông hoa"
-      ],
       "questionId": "k2_c4_dt_5356",
       "questionNumber": 1357
     },
@@ -29295,12 +26811,6 @@
       "answer": "câu thơ",
       "explanation": "'câu thơ' là sự vật phù hợp với hoạt động 'tập viết'.",
       "blankAnswer": "câu thơ",
-      "options": [
-        "gà con",
-        "câu thơ",
-        "hộp đồ",
-        "chiếc bàn"
-      ],
       "questionId": "k2_c4_dt_5357",
       "questionNumber": 1358
     },
@@ -29313,12 +26823,6 @@
       "answer": "chiếc khăn",
       "explanation": "'chiếc khăn' là sự vật phù hợp với hoạt động 'gói ghém'.",
       "blankAnswer": "chiếc khăn",
-      "options": [
-        "thuyền giấy",
-        "chiếc khăn",
-        "khóm cúc",
-        "cá vàng"
-      ],
       "questionId": "k2_c4_dt_5358",
       "questionNumber": 1359
     },
@@ -29331,12 +26835,6 @@
       "answer": "hộp đồ",
       "explanation": "'hộp đồ' là sự vật phù hợp với hoạt động 'đưa giúp'.",
       "blankAnswer": "hộp đồ",
-      "options": [
-        "món quà",
-        "mảnh giấy",
-        "mái nhà",
-        "hộp đồ"
-      ],
       "questionId": "k2_c4_dt_5359",
       "questionNumber": 1360
     },
@@ -29349,12 +26847,6 @@
       "answer": "chậu hoa",
       "explanation": "'chậu hoa' là sự vật phù hợp với hoạt động 'tưới nước'.",
       "blankAnswer": "chậu hoa",
-      "options": [
-        "chiếc ghế",
-        "chậu hoa",
-        "chữ cái",
-        "chiếc bàn"
-      ],
       "questionId": "k2_c4_dt_5360",
       "questionNumber": 1361
     },
@@ -29367,12 +26859,6 @@
       "answer": "quyển truyện",
       "explanation": "'quyển truyện' là sự vật phù hợp với hoạt động 'đọc'.",
       "blankAnswer": "quyển truyện",
-      "options": [
-        "quyển truyện",
-        "bảng lớp",
-        "hạt cải",
-        "hạt đậu"
-      ],
       "questionId": "k2_c4_dt_5361",
       "questionNumber": 1362
     },
@@ -29385,12 +26871,6 @@
       "answer": "sân lớp",
       "explanation": "'sân lớp' là sự vật phù hợp với hoạt động 'quét dọn'.",
       "blankAnswer": "sân lớp",
-      "options": [
-        "sân lớp",
-        "khăn quàng",
-        "hàng rào",
-        "chiếc cặp"
-      ],
       "questionId": "k2_c4_dt_5362",
       "questionNumber": 1363
     },
@@ -29403,12 +26883,6 @@
       "answer": "cây bưởi",
       "explanation": "'cây bưởi' là sự vật phù hợp với hoạt động 'chăm sóc'.",
       "blankAnswer": "cây bưởi",
-      "options": [
-        "cây bưởi",
-        "bánh chưng",
-        "cá vàng",
-        "sân lớp"
-      ],
       "questionId": "k2_c4_dt_5363",
       "questionNumber": 1364
     },
@@ -29421,12 +26895,6 @@
       "answer": "sách vở",
       "explanation": "'sách vở' là sự vật phù hợp với hoạt động 'xếp gọn'.",
       "blankAnswer": "sách vở",
-      "options": [
-        "bể cá",
-        "chiếc bàn",
-        "sách vở",
-        "hàng rào"
-      ],
       "questionId": "k2_c4_dt_5364",
       "questionNumber": 1365
     },
@@ -29439,12 +26907,6 @@
       "answer": "chiếc lá",
       "explanation": "'chiếc lá' là sự vật phù hợp với hoạt động 'nhặt'.",
       "blankAnswer": "chiếc lá",
-      "options": [
-        "chiếc lá",
-        "sách vở",
-        "miệng túi",
-        "bể cá"
-      ],
       "questionId": "k2_c4_dt_5365",
       "questionNumber": 1366
     },
@@ -29457,12 +26919,6 @@
       "answer": "chiếc bàn",
       "explanation": "'chiếc bàn' là sự vật phù hợp với hoạt động 'lau sạch'.",
       "blankAnswer": "chiếc bàn",
-      "options": [
-        "hàng rào",
-        "quyển truyện",
-        "chiếc bàn",
-        "cây bưởi"
-      ],
       "questionId": "k2_c4_dt_5366",
       "questionNumber": 1367
     },
@@ -29475,12 +26931,6 @@
       "answer": "bông hoa",
       "explanation": "'bông hoa' là sự vật phù hợp với hoạt động 'vẽ'.",
       "blankAnswer": "bông hoa",
-      "options": [
-        "chiếc bàn",
-        "bông hoa",
-        "khóm cúc",
-        "chiếc khăn"
-      ],
       "questionId": "k2_c4_dt_5367",
       "questionNumber": 1368
     },
@@ -29493,12 +26943,6 @@
       "answer": "cá vàng",
       "explanation": "'cá vàng' là sự vật phù hợp với hoạt động 'cho ăn'.",
       "blankAnswer": "cá vàng",
-      "options": [
-        "cá vàng",
-        "chậu hoa",
-        "bể cá",
-        "miệng túi"
-      ],
       "questionId": "k2_c4_dt_5368",
       "questionNumber": 1369
     },
@@ -29511,12 +26955,6 @@
       "answer": "giỏ cam",
       "explanation": "'giỏ cam' là sự vật phù hợp với hoạt động 'đem tặng'.",
       "blankAnswer": "giỏ cam",
-      "options": [
-        "bánh chưng",
-        "cây bàng",
-        "quyển truyện",
-        "giỏ cam"
-      ],
       "questionId": "k2_c4_dt_5369",
       "questionNumber": 1370
     },
@@ -29529,12 +26967,6 @@
       "answer": "cây phượng",
       "explanation": "'cây phượng' là sự vật phù hợp với hoạt động 'trồng'.",
       "blankAnswer": "cây phượng",
-      "options": [
-        "cây phượng",
-        "bức thư",
-        "bông hoa",
-        "cánh buồm"
-      ],
       "questionId": "k2_c4_dt_5370",
       "questionNumber": 1371
     },
@@ -29547,12 +26979,6 @@
       "answer": "áo mưa",
       "explanation": "'áo mưa' là sự vật phù hợp với hoạt động 'gấp'.",
       "blankAnswer": "áo mưa",
-      "options": [
-        "món quà",
-        "áo mưa",
-        "tổ kiến",
-        "mảnh giấy"
-      ],
       "questionId": "k2_c4_dt_5371",
       "questionNumber": 1372
     },
@@ -29565,12 +26991,6 @@
       "answer": "xe đạp",
       "explanation": "'xe đạp' là sự vật phù hợp với hoạt động 'sửa chữa'.",
       "blankAnswer": "xe đạp",
-      "options": [
-        "bể cá",
-        "xe đạp",
-        "món quà",
-        "phòng học"
-      ],
       "questionId": "k2_c4_dt_5372",
       "questionNumber": 1373
     },
@@ -29583,12 +27003,6 @@
       "answer": "dây giày",
       "explanation": "'dây giày' là sự vật phù hợp với hoạt động 'buộc chặt'.",
       "blankAnswer": "dây giày",
-      "options": [
-        "chiếc cặp",
-        "gói quà",
-        "dây giày",
-        "bức thư"
-      ],
       "questionId": "k2_c4_dt_5373",
       "questionNumber": 1374
     },
@@ -29601,12 +27015,6 @@
       "answer": "đàn chim",
       "explanation": "'đàn chim' là sự vật phù hợp với hoạt động 'quan sát'.",
       "blankAnswer": "đàn chim",
-      "options": [
-        "câu thơ",
-        "bể cá",
-        "khăn len",
-        "đàn chim"
-      ],
       "questionId": "k2_c4_dt_5374",
       "questionNumber": 1375
     },
@@ -29619,12 +27027,6 @@
       "answer": "luống rau",
       "explanation": "'luống rau' là sự vật phù hợp với hoạt động 'nhổ cỏ'.",
       "blankAnswer": "luống rau",
-      "options": [
-        "bể cá",
-        "luống rau",
-        "bể cá",
-        "chậu hoa"
-      ],
       "questionId": "k2_c4_dt_5375",
       "questionNumber": 1376
     },
@@ -29637,12 +27039,6 @@
       "answer": "hạt đậu",
       "explanation": "'hạt đậu' là sự vật phù hợp với hoạt động 'gieo'.",
       "blankAnswer": "hạt đậu",
-      "options": [
-        "khăn len",
-        "hạt đậu",
-        "tổ kiến",
-        "món quà"
-      ],
       "questionId": "k2_c4_dt_5376",
       "questionNumber": 1377
     },
@@ -29655,12 +27051,6 @@
       "answer": "chữ cái",
       "explanation": "'chữ cái' là sự vật phù hợp với hoạt động 'tập viết'.",
       "blankAnswer": "chữ cái",
-      "options": [
-        "chữ cái",
-        "gói quà",
-        "cá vàng",
-        "quyển truyện"
-      ],
       "questionId": "k2_c4_dt_5377",
       "questionNumber": 1378
     },
@@ -29673,12 +27063,6 @@
       "answer": "món quà",
       "explanation": "'món quà' là sự vật phù hợp với hoạt động 'gói ghém'.",
       "blankAnswer": "món quà",
-      "options": [
-        "món quà",
-        "cây non",
-        "gói quà",
-        "bể cá"
-      ],
       "questionId": "k2_c4_dt_5378",
       "questionNumber": 1379
     },
@@ -29691,12 +27075,6 @@
       "answer": "bức thư",
       "explanation": "'bức thư' là sự vật phù hợp với hoạt động 'đưa giúp'.",
       "blankAnswer": "bức thư",
-      "options": [
-        "hạt lúa",
-        "bức thư",
-        "cá vàng",
-        "hàng rào"
-      ],
       "questionId": "k2_c4_dt_5379",
       "questionNumber": 1380
     },
@@ -29709,12 +27087,6 @@
       "answer": "luống rau",
       "explanation": "'luống rau' là sự vật phù hợp với hoạt động 'tưới nước'.",
       "blankAnswer": "luống rau",
-      "options": [
-        "luống rau",
-        "cửa kính",
-        "gà con",
-        "đàn chim"
-      ],
       "questionId": "k2_c4_dt_5380",
       "questionNumber": 1381
     },
@@ -29727,12 +27099,6 @@
       "answer": "sách khoa học",
       "explanation": "'sách khoa học' là sự vật phù hợp với hoạt động 'đọc'.",
       "blankAnswer": "sách khoa học",
-      "options": [
-        "sách khoa học",
-        "hạt cải",
-        "gà con",
-        "bức thư"
-      ],
       "questionId": "k2_c4_dt_5381",
       "questionNumber": 1382
     },
@@ -29745,12 +27111,6 @@
       "answer": "hiên nhà",
       "explanation": "'hiên nhà' là sự vật phù hợp với hoạt động 'quét dọn'.",
       "blankAnswer": "hiên nhà",
-      "options": [
-        "mái nhà",
-        "giỏ cam",
-        "hiên nhà",
-        "bể cá"
-      ],
       "questionId": "k2_c4_dt_5382",
       "questionNumber": 1383
     },
@@ -29763,12 +27123,6 @@
       "answer": "đàn gà",
       "explanation": "'đàn gà' là sự vật phù hợp với hoạt động 'chăm sóc'.",
       "blankAnswer": "đàn gà",
-      "options": [
-        "bảng lớp",
-        "sân lớp",
-        "đàn gà",
-        "hạt đậu"
-      ],
       "questionId": "k2_c4_dt_5383",
       "questionNumber": 1384
     },
@@ -29781,12 +27135,6 @@
       "answer": "bàn học",
       "explanation": "'bàn học' là sự vật phù hợp với hoạt động 'xếp gọn'.",
       "blankAnswer": "bàn học",
-      "options": [
-        "món quà",
-        "dây giày",
-        "bàn học",
-        "bảng lớp"
-      ],
       "questionId": "k2_c4_dt_5384",
       "questionNumber": 1385
     },
@@ -29799,12 +27147,6 @@
       "answer": "mảnh giấy",
       "explanation": "'mảnh giấy' là sự vật phù hợp với hoạt động 'nhặt'.",
       "blankAnswer": "mảnh giấy",
-      "options": [
-        "mảnh giấy",
-        "sách vở",
-        "bể cá",
-        "đàn chim"
-      ],
       "questionId": "k2_c4_dt_5385",
       "questionNumber": 1386
     },
@@ -29817,12 +27159,6 @@
       "answer": "cửa kính",
       "explanation": "'cửa kính' là sự vật phù hợp với hoạt động 'lau sạch'.",
       "blankAnswer": "cửa kính",
-      "options": [
-        "gà con",
-        "bể cá",
-        "cửa kính",
-        "luống rau"
-      ],
       "questionId": "k2_c4_dt_5386",
       "questionNumber": 1387
     },
@@ -29835,12 +27171,6 @@
       "answer": "cánh buồm",
       "explanation": "'cánh buồm' là sự vật phù hợp với hoạt động 'vẽ'.",
       "blankAnswer": "cánh buồm",
-      "options": [
-        "cánh buồm",
-        "bàn học",
-        "quyển truyện",
-        "bể cá"
-      ],
       "questionId": "k2_c4_dt_5387",
       "questionNumber": 1388
     },
@@ -29853,12 +27183,6 @@
       "answer": "mèo con",
       "explanation": "'mèo con' là sự vật phù hợp với hoạt động 'cho ăn'.",
       "blankAnswer": "mèo con",
-      "options": [
-        "chiếc khăn",
-        "hộp đồ",
-        "câu thơ",
-        "mèo con"
-      ],
       "questionId": "k2_c4_dt_5388",
       "questionNumber": 1389
     },
@@ -29871,12 +27195,6 @@
       "answer": "quyển truyện",
       "explanation": "'quyển truyện' là sự vật phù hợp với hoạt động 'đem tặng'.",
       "blankAnswer": "quyển truyện",
-      "options": [
-        "cây phượng",
-        "quyển truyện",
-        "áo mưa",
-        "chiếc khăn"
-      ],
       "questionId": "k2_c4_dt_5389",
       "questionNumber": 1390
     },
@@ -29889,12 +27207,6 @@
       "answer": "cây bàng",
       "explanation": "'cây bàng' là sự vật phù hợp với hoạt động 'trồng'.",
       "blankAnswer": "cây bàng",
-      "options": [
-        "cây bàng",
-        "mảnh giấy",
-        "bánh chưng",
-        "sách vở"
-      ],
       "questionId": "k2_c4_dt_5390",
       "questionNumber": 1391
     },
@@ -29907,12 +27219,6 @@
       "answer": "khăn quàng",
       "explanation": "'khăn quàng' là sự vật phù hợp với hoạt động 'gấp'.",
       "blankAnswer": "khăn quàng",
-      "options": [
-        "hạt lúa",
-        "khăn quàng",
-        "gói quà",
-        "vườn hoa"
-      ],
       "questionId": "k2_c4_dt_5391",
       "questionNumber": 1392
     },
@@ -29925,12 +27231,6 @@
       "answer": "hàng rào",
       "explanation": "'hàng rào' là sự vật phù hợp với hoạt động 'sửa chữa'.",
       "blankAnswer": "hàng rào",
-      "options": [
-        "quả bóng",
-        "chậu hoa",
-        "hàng rào",
-        "chiếc lá"
-      ],
       "questionId": "k2_c4_dt_5392",
       "questionNumber": 1393
     },
@@ -29943,12 +27243,6 @@
       "answer": "gói quà",
       "explanation": "'gói quà' là sự vật phù hợp với hoạt động 'buộc chặt'.",
       "blankAnswer": "gói quà",
-      "options": [
-        "hộp bút",
-        "gói quà",
-        "vườn hoa",
-        "cánh buồm"
-      ],
       "questionId": "k2_c4_dt_5393",
       "questionNumber": 1394
     },
@@ -29961,12 +27255,6 @@
       "answer": "bể cá",
       "explanation": "'bể cá' là sự vật phù hợp với hoạt động 'quan sát'.",
       "blankAnswer": "bể cá",
-      "options": [
-        "sân lớp",
-        "bể cá",
-        "áo mưa",
-        "chậu hoa"
-      ],
       "questionId": "k2_c4_dt_5394",
       "questionNumber": 1395
     },
@@ -29979,12 +27267,6 @@
       "answer": "vườn hoa",
       "explanation": "'vườn hoa' là sự vật phù hợp với hoạt động 'nhổ cỏ'.",
       "blankAnswer": "vườn hoa",
-      "options": [
-        "hàng rào",
-        "sách khoa học",
-        "hạt đậu",
-        "vườn hoa"
-      ],
       "questionId": "k2_c4_dt_5395",
       "questionNumber": 1396
     },
@@ -29997,12 +27279,6 @@
       "answer": "hạt lúa",
       "explanation": "'hạt lúa' là sự vật phù hợp với hoạt động 'gieo'.",
       "blankAnswer": "hạt lúa",
-      "options": [
-        "bể cá",
-        "hạt lúa",
-        "khăn quàng",
-        "cá vàng"
-      ],
       "questionId": "k2_c4_dt_5396",
       "questionNumber": 1397
     },
@@ -30015,12 +27291,6 @@
       "answer": "tên mình",
       "explanation": "'tên mình' là sự vật phù hợp với hoạt động 'tập viết'.",
       "blankAnswer": "tên mình",
-      "options": [
-        "tên mình",
-        "luống rau",
-        "hộp đồ",
-        "xe đạp"
-      ],
       "questionId": "k2_c4_dt_5397",
       "questionNumber": 1398
     },
@@ -30033,12 +27303,6 @@
       "answer": "bánh chưng",
       "explanation": "'bánh chưng' là sự vật phù hợp với hoạt động 'gói ghém'.",
       "blankAnswer": "bánh chưng",
-      "options": [
-        "bánh chưng",
-        "cá vàng",
-        "luống rau",
-        "chữ cái"
-      ],
       "questionId": "k2_c4_dt_5398",
       "questionNumber": 1399
     },
@@ -30051,12 +27315,6 @@
       "answer": "chiếc cặp",
       "explanation": "'chiếc cặp' là sự vật phù hợp với hoạt động 'đưa giúp'.",
       "blankAnswer": "chiếc cặp",
-      "options": [
-        "chiếc cặp",
-        "mái nhà",
-        "sách khoa học",
-        "miệng túi"
-      ],
       "questionId": "k2_c4_dt_5399",
       "questionNumber": 1400
     },

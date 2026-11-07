@@ -4214,12 +4214,6 @@
       "question": "Điền chữ cái hoặc âm thích hợp vào chỗ trống: \"con (...)á\"",
       "blankAnswer": "c",
       "answer": "c",
-      "options": [
-        "tr",
-        "c",
-        "q",
-        "k"
-      ],
       "explanation": "Từ đúng chính tả là 'cá', do đó âm cần điền là 'c'."
     },
     {
@@ -5127,12 +5121,6 @@
       "question": "Điền chữ cái hoặc âm thích hợp vào chỗ trống: \"con (...)à\"",
       "blankAnswer": "g",
       "answer": "g",
-      "options": [
-        "gh",
-        "k",
-        "g",
-        "gi"
-      ],
       "explanation": "Từ đúng chính tả là 'gà', do đó âm cần điền là 'g'."
     },
     {
@@ -5320,12 +5308,6 @@
       "question": "Điền chữ cái hoặc âm thích hợp vào chỗ trống: \"con (...)á\"",
       "blankAnswer": "c",
       "answer": "c",
-      "options": [
-        "c",
-        "q",
-        "k",
-        "tr"
-      ],
       "explanation": "Từ đúng chính tả là 'cá', do đó âm cần điền là 'c'."
     },
     {
@@ -5497,12 +5479,6 @@
       "question": "Điền chữ cái hoặc âm thích hợp vào chỗ trống: \"con (...)á\"",
       "blankAnswer": "c",
       "answer": "c",
-      "options": [
-        "c",
-        "k",
-        "tr",
-        "q"
-      ],
       "explanation": "Từ đúng chính tả là 'cá', do đó âm cần điền là 'c'."
     },
     {
@@ -5658,12 +5634,6 @@
       "question": "Điền chữ cái hoặc âm thích hợp vào chỗ trống: \"con (...)á\"",
       "blankAnswer": "c",
       "answer": "c",
-      "options": [
-        "q",
-        "tr",
-        "k",
-        "c"
-      ],
       "explanation": "Từ đúng chính tả là 'cá', do đó âm cần điền là 'c'."
     },
     {
@@ -5819,12 +5789,6 @@
       "question": "Điền chữ cái hoặc âm thích hợp vào chỗ trống: \"con (...)á\"",
       "blankAnswer": "c",
       "answer": "c",
-      "options": [
-        "q",
-        "tr",
-        "k",
-        "c"
-      ],
       "explanation": "Từ đúng chính tả là 'cá', do đó âm cần điền là 'c'."
     },
     {
@@ -6092,12 +6056,6 @@
       "question": "Điền chữ cái hoặc âm thích hợp vào chỗ trống: \"cái (...)ìm\"",
       "blankAnswer": "k",
       "answer": "k",
-      "options": [
-        "ch",
-        "c",
-        "q",
-        "k"
-      ],
       "explanation": "Điền phụ âm đầu 'k' để tạo thành từ 'kìm' trong cụm từ 'cái kìm'."
     },
     {
@@ -6157,12 +6115,6 @@
       "question": "Điền chữ cái hoặc âm thích hợp vào chỗ trống: \"con (...)à\"",
       "blankAnswer": "g",
       "answer": "g",
-      "options": [
-        "g",
-        "k",
-        "gi",
-        "gh"
-      ],
       "explanation": "Từ đúng chính tả là 'gà', do đó âm cần điền là 'g'."
     },
     {
@@ -6302,12 +6254,6 @@
       "question": "Điền chữ cái hoặc âm thích hợp vào chỗ trống: \"con (...)à\"",
       "blankAnswer": "g",
       "answer": "g",
-      "options": [
-        "k",
-        "gi",
-        "g",
-        "gh"
-      ],
       "explanation": "Từ đúng chính tả là 'gà', do đó âm cần điền là 'g'."
     },
     {
@@ -6463,12 +6409,6 @@
       "question": "Điền chữ cái hoặc âm thích hợp vào chỗ trống: \"con (...)à\"",
       "blankAnswer": "g",
       "answer": "g",
-      "options": [
-        "gi",
-        "g",
-        "k",
-        "gh"
-      ],
       "explanation": "Từ đúng chính tả là 'gà', do đó âm cần điền là 'g'."
     },
     {
@@ -6608,12 +6548,6 @@
       "question": "Điền chữ cái hoặc âm thích hợp vào chỗ trống: \"con (...)à\"",
       "blankAnswer": "g",
       "answer": "g",
-      "options": [
-        "k",
-        "g",
-        "gh",
-        "gi"
-      ],
       "explanation": "Từ đúng chính tả là 'gà', do đó âm cần điền là 'g'."
     },
     {
@@ -6993,12 +6927,6 @@
       "question": "Điền chữ cái hoặc âm thích hợp vào chỗ trống: \"cái (...)ìm\"",
       "blankAnswer": "k",
       "answer": "k",
-      "options": [
-        "q",
-        "c",
-        "k",
-        "ch"
-      ],
       "explanation": "Điền phụ âm đầu 'k' để tạo thành từ 'kìm' trong cụm từ 'cái kìm'."
     },
     {
@@ -7074,12 +7002,6 @@
       "question": "Điền chữ cái hoặc âm thích hợp vào chỗ trống: \"cái (...)ìm\"",
       "blankAnswer": "k",
       "answer": "k",
-      "options": [
-        "k",
-        "c",
-        "q",
-        "ch"
-      ],
       "explanation": "Điền phụ âm đầu 'k' để tạo thành từ 'kìm' trong cụm từ 'cái kìm'."
     },
     {
@@ -7171,12 +7093,6 @@
       "question": "Điền chữ cái hoặc âm thích hợp vào chỗ trống: \"cái (...)ìm\"",
       "blankAnswer": "k",
       "answer": "k",
-      "options": [
-        "k",
-        "q",
-        "ch",
-        "c"
-      ],
       "explanation": "Điền phụ âm đầu 'k' để tạo thành từ 'kìm' trong cụm từ 'cái kìm'."
     },
     {
@@ -7220,12 +7136,6 @@
       "question": "Điền chữ cái hoặc âm thích hợp vào chỗ trống: \"cái (...)ìm\"",
       "blankAnswer": "k",
       "answer": "k",
-      "options": [
-        "ch",
-        "q",
-        "k",
-        "c"
-      ],
       "explanation": "Điền phụ âm đầu 'k' để tạo thành từ 'kìm' trong cụm từ 'cái kìm'."
     },
     {
@@ -7349,12 +7259,6 @@
       "question": "Điền chữ cái hoặc âm thích hợp vào chỗ trống: \"cái (...)ế\"",
       "blankAnswer": "gh",
       "answer": "gh",
-      "options": [
-        "gh",
-        "d",
-        "g",
-        "r"
-      ],
       "explanation": "Từ đúng chính tả là 'ghế', do đó âm cần điền là 'gh'."
     },
     {
@@ -7526,12 +7430,6 @@
       "question": "Điền chữ cái hoặc âm thích hợp vào chỗ trống: \"(...)ụ cười\"",
       "blankAnswer": "n",
       "answer": "n",
-      "options": [
-        "n",
-        "m",
-        "đ",
-        "l"
-      ],
       "explanation": "Từ đúng chính tả là 'nụ cười', do đó âm cần điền là 'n'."
     },
     {
@@ -7543,12 +7441,6 @@
       "question": "Điền chữ cái hoặc âm thích hợp vào chỗ trống: \"(...)e đạp\"",
       "blankAnswer": "x",
       "answer": "x",
-      "options": [
-        "s",
-        "tr",
-        "x",
-        "ch"
-      ],
       "explanation": "Từ đúng chính tả là 'xe đạp', do đó âm cần điền là 'x'."
     },
     {
@@ -7608,12 +7500,6 @@
       "question": "Điền chữ cái hoặc âm thích hợp vào chỗ trống: \"cái (...)ế\"",
       "blankAnswer": "gh",
       "answer": "gh",
-      "options": [
-        "gh",
-        "g",
-        "r",
-        "d"
-      ],
       "explanation": "Từ đúng chính tả là 'ghế', do đó âm cần điền là 'gh'."
     },
     {
@@ -7657,12 +7543,6 @@
       "question": "Điền chữ cái hoặc âm thích hợp vào chỗ trống: \"cái (...)ế\"",
       "blankAnswer": "gh",
       "answer": "gh",
-      "options": [
-        "gh",
-        "g",
-        "r",
-        "d"
-      ],
       "explanation": "Từ đúng chính tả là 'ghế', do đó âm cần điền là 'gh'."
     },
     {
@@ -7674,12 +7554,6 @@
       "question": "Điền chữ cái hoặc âm thích hợp vào chỗ trống: \"cái (...)ế\"",
       "blankAnswer": "gh",
       "answer": "gh",
-      "options": [
-        "gh",
-        "g",
-        "d",
-        "r"
-      ],
       "explanation": "Từ đúng chính tả là 'ghế', do đó âm cần điền là 'gh'."
     },
     {
@@ -7691,12 +7565,6 @@
       "question": "Điền chữ cái hoặc âm thích hợp vào chỗ trống: \"cái (...)ế\"",
       "blankAnswer": "gh",
       "answer": "gh",
-      "options": [
-        "r",
-        "g",
-        "d",
-        "gh"
-      ],
       "explanation": "Từ đúng chính tả là 'ghế', do đó âm cần điền là 'gh'."
     },
     {
@@ -7740,12 +7608,6 @@
       "question": "Điền chữ cái hoặc âm thích hợp vào chỗ trống: \"(...)ụ cười\"",
       "blankAnswer": "n",
       "answer": "n",
-      "options": [
-        "m",
-        "l",
-        "đ",
-        "n"
-      ],
       "explanation": "Từ đúng chính tả là 'nụ cười', do đó âm cần điền là 'n'."
     },
     {
@@ -7757,12 +7619,6 @@
       "question": "Điền chữ cái hoặc âm thích hợp vào chỗ trống: \"(...)e đạp\"",
       "blankAnswer": "x",
       "answer": "x",
-      "options": [
-        "s",
-        "ch",
-        "x",
-        "tr"
-      ],
       "explanation": "Từ đúng chính tả là 'xe đạp', do đó âm cần điền là 'x'."
     },
     {
@@ -7790,12 +7646,6 @@
       "question": "Điền chữ cái hoặc âm thích hợp vào chỗ trống: \"(...)e đạp\"",
       "blankAnswer": "x",
       "answer": "x",
-      "options": [
-        "ch",
-        "x",
-        "tr",
-        "s"
-      ],
       "explanation": "Từ đúng chính tả là 'xe đạp', do đó âm cần điền là 'x'."
     },
     {
@@ -7807,12 +7657,6 @@
       "question": "Điền chữ cái hoặc âm thích hợp vào chỗ trống: \"(...)ụ cười\"",
       "blankAnswer": "n",
       "answer": "n",
-      "options": [
-        "l",
-        "đ",
-        "n",
-        "m"
-      ],
       "explanation": "Từ đúng chính tả là 'nụ cười', do đó âm cần điền là 'n'."
     },
     {
@@ -7824,12 +7668,6 @@
       "question": "Điền chữ cái hoặc âm thích hợp vào chỗ trống: \"(...)ụ cười\"",
       "blankAnswer": "n",
       "answer": "n",
-      "options": [
-        "n",
-        "đ",
-        "l",
-        "m"
-      ],
       "explanation": "Từ đúng chính tả là 'nụ cười', do đó âm cần điền là 'n'."
     },
     {
@@ -7841,12 +7679,6 @@
       "question": "Điền chữ cái hoặc âm thích hợp vào chỗ trống: \"(...)e đạp\"",
       "blankAnswer": "x",
       "answer": "x",
-      "options": [
-        "tr",
-        "s",
-        "x",
-        "ch"
-      ],
       "explanation": "Từ đúng chính tả là 'xe đạp', do đó âm cần điền là 'x'."
     },
     {
@@ -7874,12 +7706,6 @@
       "question": "Điền chữ cái hoặc âm thích hợp vào chỗ trống: \"(...)ụ cười\"",
       "blankAnswer": "n",
       "answer": "n",
-      "options": [
-        "n",
-        "m",
-        "l",
-        "đ"
-      ],
       "explanation": "Từ đúng chính tả là 'nụ cười', do đó âm cần điền là 'n'."
     },
     {
@@ -7891,12 +7717,6 @@
       "question": "Điền chữ cái hoặc âm thích hợp vào chỗ trống: \"(...)e đạp\"",
       "blankAnswer": "x",
       "answer": "x",
-      "options": [
-        "ch",
-        "s",
-        "tr",
-        "x"
-      ],
       "explanation": "Từ đúng chính tả là 'xe đạp', do đó âm cần điền là 'x'."
     },
     {
@@ -7908,12 +7728,6 @@
       "question": "Điền chữ cái hoặc âm thích hợp vào chỗ trống: \"(...)àng xóm\"",
       "blankAnswer": "l",
       "answer": "l",
-      "options": [
-        "l",
-        "n",
-        "v",
-        "d"
-      ],
       "explanation": "Từ đúng chính tả là 'làng xóm', do đó âm cần điền là 'l'."
     },
     {
@@ -8005,12 +7819,6 @@
       "question": "Điền chữ cái hoặc âm thích hợp vào chỗ trống: \"(...)àng xóm\"",
       "blankAnswer": "l",
       "answer": "l",
-      "options": [
-        "l",
-        "n",
-        "v",
-        "d"
-      ],
       "explanation": "Từ đúng chính tả là 'làng xóm', do đó âm cần điền là 'l'."
     },
     {
@@ -8022,12 +7830,6 @@
       "question": "Điền chữ cái hoặc âm thích hợp vào chỗ trống: \"(...)àng xóm\"",
       "blankAnswer": "l",
       "answer": "l",
-      "options": [
-        "d",
-        "l",
-        "n",
-        "v"
-      ],
       "explanation": "Từ đúng chính tả là 'làng xóm', do đó âm cần điền là 'l'."
     },
     {
@@ -8055,12 +7857,6 @@
       "question": "Điền chữ cái hoặc âm thích hợp vào chỗ trống: \"(...)àng xóm\"",
       "blankAnswer": "l",
       "answer": "l",
-      "options": [
-        "l",
-        "d",
-        "v",
-        "n"
-      ],
       "explanation": "Từ đúng chính tả là 'làng xóm', do đó âm cần điền là 'l'."
     },
     {
@@ -8088,12 +7884,6 @@
       "question": "Điền chữ cái hoặc âm thích hợp vào chỗ trống: \"(...)àng xóm\"",
       "blankAnswer": "l",
       "answer": "l",
-      "options": [
-        "n",
-        "d",
-        "l",
-        "v"
-      ],
       "explanation": "Từ đúng chính tả là 'làng xóm', do đó âm cần điền là 'l'."
     },
     {
@@ -8105,12 +7895,6 @@
       "question": "Điền chữ cái hoặc âm thích hợp vào chỗ trống: \"dòng (...)ông\"",
       "blankAnswer": "s",
       "answer": "s",
-      "options": [
-        "x",
-        "d",
-        "s",
-        "r"
-      ],
       "explanation": "Từ đúng chính tả là 'dòng sông', do đó âm cần điền là 's'."
     },
     {
@@ -8122,12 +7906,6 @@
       "question": "Điền chữ cái hoặc âm thích hợp vào chỗ trống: \"cây (...)e\"",
       "blankAnswer": "tr",
       "answer": "tr",
-      "options": [
-        "tr",
-        "r",
-        "ch",
-        "t"
-      ],
       "explanation": "Từ đúng chính tả là 'cây tre', do đó âm cần điền là 'tr'."
     },
     {
@@ -8155,12 +7933,6 @@
       "question": "Điền chữ cái hoặc âm thích hợp vào chỗ trống: \"cây (...)e\"",
       "blankAnswer": "tr",
       "answer": "tr",
-      "options": [
-        "t",
-        "tr",
-        "ch",
-        "r"
-      ],
       "explanation": "Từ đúng chính tả là 'cây tre', do đó âm cần điền là 'tr'."
     },
     {
@@ -8172,12 +7944,6 @@
       "question": "Điền chữ cái hoặc âm thích hợp vào chỗ trống: \"dòng (...)ông\"",
       "blankAnswer": "s",
       "answer": "s",
-      "options": [
-        "d",
-        "s",
-        "r",
-        "x"
-      ],
       "explanation": "Từ đúng chính tả là 'dòng sông', do đó âm cần điền là 's'."
     },
     {
@@ -8189,12 +7955,6 @@
       "question": "Điền chữ cái hoặc âm thích hợp vào chỗ trống: \"dòng (...)ông\"",
       "blankAnswer": "s",
       "answer": "s",
-      "options": [
-        "r",
-        "x",
-        "d",
-        "s"
-      ],
       "explanation": "Từ đúng chính tả là 'dòng sông', do đó âm cần điền là 's'."
     },
     {
@@ -8206,12 +7966,6 @@
       "question": "Điền chữ cái hoặc âm thích hợp vào chỗ trống: \"cây (...)e\"",
       "blankAnswer": "tr",
       "answer": "tr",
-      "options": [
-        "r",
-        "ch",
-        "t",
-        "tr"
-      ],
       "explanation": "Từ đúng chính tả là 'cây tre', do đó âm cần điền là 'tr'."
     },
     {
@@ -8223,12 +7977,6 @@
       "question": "Điền chữ cái hoặc âm thích hợp vào chỗ trống: \"dòng (...)ông\"",
       "blankAnswer": "s",
       "answer": "s",
-      "options": [
-        "d",
-        "r",
-        "x",
-        "s"
-      ],
       "explanation": "Từ đúng chính tả là 'dòng sông', do đó âm cần điền là 's'."
     },
     {
@@ -8240,12 +7988,6 @@
       "question": "Điền chữ cái hoặc âm thích hợp vào chỗ trống: \"cây (...)e\"",
       "blankAnswer": "tr",
       "answer": "tr",
-      "options": [
-        "tr",
-        "ch",
-        "t",
-        "r"
-      ],
       "explanation": "Từ đúng chính tả là 'cây tre', do đó âm cần điền là 'tr'."
     },
     {
@@ -8257,12 +7999,6 @@
       "question": "Điền chữ cái hoặc âm thích hợp vào chỗ trống: \"dòng (...)ông\"",
       "blankAnswer": "s",
       "answer": "s",
-      "options": [
-        "d",
-        "x",
-        "s",
-        "r"
-      ],
       "explanation": "Từ đúng chính tả là 'dòng sông', do đó âm cần điền là 's'."
     },
     {
@@ -8274,12 +8010,6 @@
       "question": "Điền chữ cái hoặc âm thích hợp vào chỗ trống: \"cây (...)e\"",
       "blankAnswer": "tr",
       "answer": "tr",
-      "options": [
-        "ch",
-        "tr",
-        "t",
-        "r"
-      ],
       "explanation": "Từ đúng chính tả là 'cây tre', do đó âm cần điền là 'tr'."
     },
     {
@@ -8291,12 +8021,6 @@
       "question": "Điền chữ cái hoặc âm thích hợp vào chỗ trống: \"(...)ăm chỉ\"",
       "blankAnswer": "ch",
       "answer": "ch",
-      "options": [
-        "c",
-        "s",
-        "tr",
-        "ch"
-      ],
       "explanation": "Từ đúng chính tả là 'chăm chỉ', do đó âm cần điền là 'ch'."
     },
     {
@@ -8308,12 +8032,6 @@
       "question": "Điền chữ cái hoặc âm thích hợp vào chỗ trống: \"(...)ăm chỉ\"",
       "blankAnswer": "ch",
       "answer": "ch",
-      "options": [
-        "c",
-        "s",
-        "tr",
-        "ch"
-      ],
       "explanation": "Từ đúng chính tả là 'chăm chỉ', do đó âm cần điền là 'ch'."
     },
     {
@@ -8325,12 +8043,6 @@
       "question": "Điền chữ cái hoặc âm thích hợp vào chỗ trống: \"(...)ăm chỉ\"",
       "blankAnswer": "ch",
       "answer": "ch",
-      "options": [
-        "s",
-        "ch",
-        "tr",
-        "c"
-      ],
       "explanation": "Từ đúng chính tả là 'chăm chỉ', do đó âm cần điền là 'ch'."
     },
     {
@@ -8342,12 +8054,6 @@
       "question": "Điền chữ cái hoặc âm thích hợp vào chỗ trống: \"(...)ăm chỉ\"",
       "blankAnswer": "ch",
       "answer": "ch",
-      "options": [
-        "tr",
-        "ch",
-        "c",
-        "s"
-      ],
       "explanation": "Từ đúng chính tả là 'chăm chỉ', do đó âm cần điền là 'ch'."
     },
     {
@@ -8359,12 +8065,6 @@
       "question": "Điền chữ cái hoặc âm thích hợp vào chỗ trống: \"(...)ăm chỉ\"",
       "blankAnswer": "ch",
       "answer": "ch",
-      "options": [
-        "c",
-        "ch",
-        "s",
-        "tr"
-      ],
       "explanation": "Từ đúng chính tả là 'chăm chỉ', do đó âm cần điền là 'ch'."
     },
     {
@@ -8376,12 +8076,6 @@
       "question": "Điền chữ cái hoặc âm thích hợp vào chỗ trống: \"(...)ôi sao\"",
       "blankAnswer": "ng",
       "answer": "ng",
-      "options": [
-        "ng",
-        "ngh",
-        "m",
-        "nh"
-      ],
       "explanation": "Từ đúng chính tả là 'ngôi sao', do đó âm cần điền là 'ng'."
     },
     {
@@ -8393,12 +8087,6 @@
       "question": "Điền chữ cái hoặc âm thích hợp vào chỗ trống: \"(...)ôi sao\"",
       "blankAnswer": "ng",
       "answer": "ng",
-      "options": [
-        "ng",
-        "ngh",
-        "nh",
-        "m"
-      ],
       "explanation": "Từ đúng chính tả là 'ngôi sao', do đó âm cần điền là 'ng'."
     },
     {
@@ -8410,12 +8098,6 @@
       "question": "Điền chữ cái hoặc âm thích hợp vào chỗ trống: \"(...)ôi sao\"",
       "blankAnswer": "ng",
       "answer": "ng",
-      "options": [
-        "ngh",
-        "m",
-        "ng",
-        "nh"
-      ],
       "explanation": "Từ đúng chính tả là 'ngôi sao', do đó âm cần điền là 'ng'."
     },
     {
@@ -8427,12 +8109,6 @@
       "question": "Điền chữ cái hoặc âm thích hợp vào chỗ trống: \"(...)ôi sao\"",
       "blankAnswer": "ng",
       "answer": "ng",
-      "options": [
-        "ngh",
-        "ng",
-        "nh",
-        "m"
-      ],
       "explanation": "Từ đúng chính tả là 'ngôi sao', do đó âm cần điền là 'ng'."
     },
     {
@@ -8444,12 +8120,6 @@
       "question": "Điền chữ cái hoặc âm thích hợp vào chỗ trống: \"(...)ôi sao\"",
       "blankAnswer": "ng",
       "answer": "ng",
-      "options": [
-        "ngh",
-        "ng",
-        "m",
-        "nh"
-      ],
       "explanation": "Từ đúng chính tả là 'ngôi sao', do đó âm cần điền là 'ng'."
     },
     {
@@ -8461,12 +8131,6 @@
       "question": "Điền chữ cái hoặc âm thích hợp vào chỗ trống: \"(...)ỉ ngơi\"",
       "blankAnswer": "ngh",
       "answer": "ngh",
-      "options": [
-        "gh",
-        "ngh",
-        "ng",
-        "nh"
-      ],
       "explanation": "Từ đúng chính tả là 'nghỉ ngơi', do đó âm cần điền là 'ngh'."
     },
     {
@@ -8478,12 +8142,6 @@
       "question": "Điền chữ cái hoặc âm thích hợp vào chỗ trống: \"(...)ỉ ngơi\"",
       "blankAnswer": "ngh",
       "answer": "ngh",
-      "options": [
-        "ng",
-        "ngh",
-        "gh",
-        "nh"
-      ],
       "explanation": "Từ đúng chính tả là 'nghỉ ngơi', do đó âm cần điền là 'ngh'."
     },
     {
@@ -8495,12 +8153,6 @@
       "question": "Điền chữ cái hoặc âm thích hợp vào chỗ trống: \"(...)ỉ ngơi\"",
       "blankAnswer": "ngh",
       "answer": "ngh",
-      "options": [
-        "ng",
-        "nh",
-        "ngh",
-        "gh"
-      ],
       "explanation": "Từ đúng chính tả là 'nghỉ ngơi', do đó âm cần điền là 'ngh'."
     },
     {
@@ -8512,12 +8164,6 @@
       "question": "Điền chữ cái hoặc âm thích hợp vào chỗ trống: \"(...)ỉ ngơi\"",
       "blankAnswer": "ngh",
       "answer": "ngh",
-      "options": [
-        "nh",
-        "ng",
-        "gh",
-        "ngh"
-      ],
       "explanation": "Từ đúng chính tả là 'nghỉ ngơi', do đó âm cần điền là 'ngh'."
     },
     {
@@ -8529,12 +8175,6 @@
       "question": "Điền chữ cái hoặc âm thích hợp vào chỗ trống: \"(...)ỉ ngơi\"",
       "blankAnswer": "ngh",
       "answer": "ngh",
-      "options": [
-        "ng",
-        "nh",
-        "ngh",
-        "gh"
-      ],
       "explanation": "Từ đúng chính tả là 'nghỉ ngơi', do đó âm cần điền là 'ngh'."
     },
     {
@@ -10449,12 +10089,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)hầy cô\"",
       "blankAnswer": "th",
       "answer": "th",
-      "options": [
-        "gh",
-        "d",
-        "l",
-        "th"
-      ],
       "explanation": "Điền phụ âm đầu 'th' để tạo thành từ 'thầy cô'."
     },
     {
@@ -10466,12 +10100,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)hấn trắng\"",
       "blankAnswer": "ph",
       "answer": "ph",
-      "options": [
-        "m",
-        "h",
-        "ph",
-        "đ"
-      ],
       "explanation": "Điền phụ âm đầu 'ph' để tạo thành từ 'phấn trắng'."
     },
     {
@@ -10514,12 +10142,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)ảng đen\"",
       "blankAnswer": "b",
       "answer": "b",
-      "options": [
-        "g",
-        "n",
-        "kh",
-        "b"
-      ],
       "explanation": "Điền phụ âm đầu 'b' để tạo thành từ 'bảng đen'."
     },
     {
@@ -10531,12 +10153,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)ặp sách\"",
       "blankAnswer": "c",
       "answer": "c",
-      "options": [
-        "gh",
-        "l",
-        "c",
-        "ng"
-      ],
       "explanation": "Điền phụ âm đầu 'c' để tạo thành từ 'cặp sách'."
     },
     {
@@ -10548,12 +10164,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)út chì\"",
       "blankAnswer": "b",
       "answer": "b",
-      "options": [
-        "h",
-        "m",
-        "ngh",
-        "b"
-      ],
       "explanation": "Điền phụ âm đầu 'b' để tạo thành từ 'bút chì'."
     },
     {
@@ -10565,12 +10175,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)hoai lang\"",
       "blankAnswer": "kh",
       "answer": "kh",
-      "options": [
-        "n",
-        "s",
-        "ph",
-        "kh"
-      ],
       "explanation": "Điền phụ âm đầu 'kh' để tạo thành từ 'khoai lang'."
     },
     {
@@ -10582,12 +10186,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)oay hoay\"",
       "blankAnswer": "l",
       "answer": "l",
-      "options": [
-        "qu",
-        "ng",
-        "l",
-        "t"
-      ],
       "explanation": "Điền phụ âm đầu 'l' để tạo thành từ 'loay hoay'."
     },
     {
@@ -10646,12 +10244,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"mùa (...)uân\"",
       "blankAnswer": "x",
       "answer": "x",
-      "options": [
-        "m",
-        "r",
-        "x",
-        "ngh"
-      ],
       "explanation": "Điền phụ âm đầu 'x' để tạo thành từ 'mùa xuân'."
     },
     {
@@ -10679,12 +10271,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"con (...)huyền\"",
       "blankAnswer": "th",
       "answer": "th",
-      "options": [
-        "th",
-        "ph",
-        "n",
-        "s"
-      ],
       "explanation": "Điền phụ âm đầu 'th' để tạo thành từ 'con thuyền'."
     },
     {
@@ -10744,12 +10330,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"áo (...)hoác\"",
       "blankAnswer": "kh",
       "answer": "kh",
-      "options": [
-        "qu",
-        "t",
-        "kh",
-        "ng"
-      ],
       "explanation": "Điền phụ âm đầu 'kh' để tạo thành từ 'áo khoác'."
     },
     {
@@ -10792,12 +10372,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)oạt động\"",
       "blankAnswer": "h",
       "answer": "h",
-      "options": [
-        "r",
-        "ngh",
-        "th",
-        "h"
-      ],
       "explanation": "Điền phụ âm đầu 'h' để tạo thành từ 'hoạt động'."
     },
     {
@@ -10825,12 +10399,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)hú mèo\"",
       "blankAnswer": "ch",
       "answer": "ch",
-      "options": [
-        "tr",
-        "s",
-        "ph",
-        "ch"
-      ],
       "explanation": "Điền phụ âm đầu 'ch' để tạo thành từ 'chú mèo'."
     },
     {
@@ -10842,12 +10410,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)à trống\"",
       "blankAnswer": "g",
       "answer": "g",
-      "options": [
-        "v",
-        "qu",
-        "g",
-        "t"
-      ],
       "explanation": "Điền phụ âm đầu 'g' để tạo thành từ 'gà trống'."
     },
     {
@@ -10859,12 +10421,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)on công\"",
       "blankAnswer": "c",
       "answer": "c",
-      "options": [
-        "th",
-        "x",
-        "r",
-        "c"
-      ],
       "explanation": "Điền phụ âm đầu 'c' để tạo thành từ 'con công'."
     },
     {
@@ -10892,12 +10448,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)òng sông\"",
       "blankAnswer": "d",
       "answer": "d",
-      "options": [
-        "d",
-        "s",
-        "b",
-        "tr"
-      ],
       "explanation": "Điền phụ âm đầu 'd' để tạo thành từ 'dòng sông'."
     },
     {
@@ -10909,12 +10459,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)gọn núi\"",
       "blankAnswer": "ng",
       "answer": "ng",
-      "options": [
-        "c",
-        "ng",
-        "v",
-        "t"
-      ],
       "explanation": "Điền phụ âm đầu 'ng' để tạo thành từ 'ngọn núi'."
     },
     {
@@ -10926,12 +10470,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)ặt trời\"",
       "blankAnswer": "m",
       "answer": "m",
-      "options": [
-        "th",
-        "ch",
-        "x",
-        "m"
-      ],
       "explanation": "Điền phụ âm đầu 'm' để tạo thành từ 'mặt trời'."
     },
     {
@@ -10943,12 +10481,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)oa hồng\"",
       "blankAnswer": "h",
       "answer": "h",
-      "options": [
-        "tr",
-        "d",
-        "h",
-        "b"
-      ],
       "explanation": "Điền phụ âm đầu 'h' để tạo thành từ 'hoa hồng'."
     },
     {
@@ -10960,12 +10492,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)ây dừa\"",
       "blankAnswer": "c",
       "answer": "c",
-      "options": [
-        "h",
-        "đ",
-        "v",
-        "c"
-      ],
       "explanation": "Điền phụ âm đầu 'c' để tạo thành từ 'cây dừa'."
     },
     {
@@ -10977,12 +10503,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)ỏ rực\"",
       "blankAnswer": "đ",
       "answer": "đ",
-      "options": [
-        "đ",
-        "x",
-        "ch",
-        "g"
-      ],
       "explanation": "Điền phụ âm đầu 'đ' để tạo thành từ 'đỏ rực'."
     },
     {
@@ -10994,12 +10514,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)anh rờn\"",
       "blankAnswer": "x",
       "answer": "x",
-      "options": [
-        "x",
-        "d",
-        "gh",
-        "b"
-      ],
       "explanation": "Điền phụ âm đầu 'x' để tạo thành từ 'xanh rờn'."
     },
     {
@@ -11011,12 +10525,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)hăm chỉ\"",
       "blankAnswer": "ch",
       "answer": "ch",
-      "options": [
-        "ch",
-        "h",
-        "đ",
-        "c"
-      ],
       "explanation": "Điền phụ âm đầu 'ch' để tạo thành từ 'chăm chỉ'."
     },
     {
@@ -11028,12 +10536,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)iêng năng\"",
       "blankAnswer": "s",
       "answer": "s",
-      "options": [
-        "ch",
-        "kh",
-        "g",
-        "s"
-      ],
       "explanation": "Điền phụ âm đầu 's' để tạo thành từ 'siêng năng'."
     },
     {
@@ -11077,12 +10579,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)goan ngoãn\"",
       "blankAnswer": "ng",
       "answer": "ng",
-      "options": [
-        "gh",
-        "l",
-        "ng",
-        "d"
-      ],
       "explanation": "Điền phụ âm đầu 'ng' để tạo thành từ 'ngoan ngoãn'."
     },
     {
@@ -11094,12 +10590,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)hạy bộ\"",
       "blankAnswer": "ch",
       "answer": "ch",
-      "options": [
-        "h",
-        "ch",
-        "đ",
-        "m"
-      ],
       "explanation": "Điền phụ âm đầu 'ch' để tạo thành từ 'chạy bộ'."
     },
     {
@@ -11111,12 +10601,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)úa hát\"",
       "blankAnswer": "m",
       "answer": "m",
-      "options": [
-        "g",
-        "n",
-        "m",
-        "kh"
-      ],
       "explanation": "Điền phụ âm đầu 'm' để tạo thành từ 'múa hát'."
     },
     {
@@ -11128,12 +10612,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)ọc bài\"",
       "blankAnswer": "h",
       "answer": "h",
-      "options": [
-        "ng",
-        "l",
-        "gh",
-        "h"
-      ],
       "explanation": "Điền phụ âm đầu 'h' để tạo thành từ 'học bài'."
     },
     {
@@ -11145,12 +10623,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)ưới cây\"",
       "blankAnswer": "t",
       "answer": "t",
-      "options": [
-        "h",
-        "ngh",
-        "t",
-        "m"
-      ],
       "explanation": "Điền phụ âm đầu 't' để tạo thành từ 'tưới cây'."
     },
     {
@@ -11162,12 +10634,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)áy xoay\"",
       "blankAnswer": "m",
       "answer": "m",
-      "options": [
-        "ph",
-        "kh",
-        "m",
-        "n"
-      ],
       "explanation": "Điền phụ âm đầu 'm' để tạo thành từ 'máy xoay'."
     },
     {
@@ -11179,12 +10645,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)eo hò\"",
       "blankAnswer": "r",
       "answer": "r",
-      "options": [
-        "r",
-        "l",
-        "ng",
-        "qu"
-      ],
       "explanation": "Điền phụ âm đầu 'r' để tạo thành từ 'reo hò'."
     },
     {
@@ -11196,12 +10656,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)hầy cô\"",
       "blankAnswer": "th",
       "answer": "th",
-      "options": [
-        "ngh",
-        "th",
-        "r",
-        "m"
-      ],
       "explanation": "Điền phụ âm đầu 'th' để tạo thành từ 'thầy cô'."
     },
     {
@@ -11213,12 +10667,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)hấn trắng\"",
       "blankAnswer": "ph",
       "answer": "ph",
-      "options": [
-        "ph",
-        "tr",
-        "s",
-        "n"
-      ],
       "explanation": "Điền phụ âm đầu 'ph' để tạo thành từ 'phấn trắng'."
     },
     {
@@ -11262,12 +10710,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)ảng đen\"",
       "blankAnswer": "b",
       "answer": "b",
-      "options": [
-        "b",
-        "ng",
-        "qu",
-        "t"
-      ],
       "explanation": "Điền phụ âm đầu 'b' để tạo thành từ 'bảng đen'."
     },
     {
@@ -11279,12 +10721,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)ặp sách\"",
       "blankAnswer": "c",
       "answer": "c",
-      "options": [
-        "ngh",
-        "th",
-        "c",
-        "r"
-      ],
       "explanation": "Điền phụ âm đầu 'c' để tạo thành từ 'cặp sách'."
     },
     {
@@ -11296,12 +10732,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)út chì\"",
       "blankAnswer": "b",
       "answer": "b",
-      "options": [
-        "ph",
-        "s",
-        "b",
-        "tr"
-      ],
       "explanation": "Điền phụ âm đầu 'b' để tạo thành từ 'bút chì'."
     },
     {
@@ -11313,12 +10743,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)hoai lang\"",
       "blankAnswer": "kh",
       "answer": "kh",
-      "options": [
-        "qu",
-        "t",
-        "v",
-        "kh"
-      ],
       "explanation": "Điền phụ âm đầu 'kh' để tạo thành từ 'khoai lang'."
     },
     {
@@ -11330,12 +10754,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)oay hoay\"",
       "blankAnswer": "l",
       "answer": "l",
-      "options": [
-        "r",
-        "l",
-        "th",
-        "x"
-      ],
       "explanation": "Điền phụ âm đầu 'l' để tạo thành từ 'loay hoay'."
     },
     {
@@ -11347,12 +10765,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"mùa (...)uân\"",
       "blankAnswer": "x",
       "answer": "x",
-      "options": [
-        "x",
-        "tr",
-        "s",
-        "b"
-      ],
       "explanation": "Điền phụ âm đầu 'x' để tạo thành từ 'mùa xuân'."
     },
     {
@@ -11394,12 +10806,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"con (...)huyền\"",
       "blankAnswer": "th",
       "answer": "th",
-      "options": [
-        "t",
-        "th",
-        "c",
-        "v"
-      ],
       "explanation": "Điền phụ âm đầu 'th' để tạo thành từ 'con thuyền'."
     },
     {
@@ -11411,12 +10817,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"áo (...)hoác\"",
       "blankAnswer": "kh",
       "answer": "kh",
-      "options": [
-        "ch",
-        "th",
-        "x",
-        "kh"
-      ],
       "explanation": "Điền phụ âm đầu 'kh' để tạo thành từ 'áo khoác'."
     },
     {
@@ -11460,12 +10860,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)oạt động\"",
       "blankAnswer": "h",
       "answer": "h",
-      "options": [
-        "d",
-        "tr",
-        "h",
-        "b"
-      ],
       "explanation": "Điền phụ âm đầu 'h' để tạo thành từ 'hoạt động'."
     },
     {
@@ -11572,12 +10966,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)hú mèo\"",
       "blankAnswer": "ch",
       "answer": "ch",
-      "options": [
-        "c",
-        "v",
-        "ch",
-        "đ"
-      ],
       "explanation": "Điền phụ âm đầu 'ch' để tạo thành từ 'chú mèo'."
     },
     {
@@ -11621,12 +11009,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)à trống\"",
       "blankAnswer": "g",
       "answer": "g",
-      "options": [
-        "kh",
-        "x",
-        "ch",
-        "g"
-      ],
       "explanation": "Điền phụ âm đầu 'g' để tạo thành từ 'gà trống'."
     },
     {
@@ -11638,12 +11020,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)on công\"",
       "blankAnswer": "c",
       "answer": "c",
-      "options": [
-        "gh",
-        "c",
-        "d",
-        "b"
-      ],
       "explanation": "Điền phụ âm đầu 'c' để tạo thành từ 'con công'."
     },
     {
@@ -11719,12 +11095,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)òng sông\"",
       "blankAnswer": "d",
       "answer": "d",
-      "options": [
-        "c",
-        "d",
-        "h",
-        "đ"
-      ],
       "explanation": "Điền phụ âm đầu 'd' để tạo thành từ 'dòng sông'."
     },
     {
@@ -11752,12 +11122,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)gọn núi\"",
       "blankAnswer": "ng",
       "answer": "ng",
-      "options": [
-        "g",
-        "ng",
-        "kh",
-        "ch"
-      ],
       "explanation": "Điền phụ âm đầu 'ng' để tạo thành từ 'ngọn núi'."
     },
     {
@@ -11769,12 +11133,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)ặt trời\"",
       "blankAnswer": "m",
       "answer": "m",
-      "options": [
-        "l",
-        "d",
-        "gh",
-        "m"
-      ],
       "explanation": "Điền phụ âm đầu 'm' để tạo thành từ 'mặt trời'."
     },
     {
@@ -11786,12 +11144,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)oa hồng\"",
       "blankAnswer": "h",
       "answer": "h",
-      "options": [
-        "đ",
-        "m",
-        "h",
-        "ngh"
-      ],
       "explanation": "Điền phụ âm đầu 'h' để tạo thành từ 'hoa hồng'."
     },
     {
@@ -11819,12 +11171,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)ây dừa\"",
       "blankAnswer": "c",
       "answer": "c",
-      "options": [
-        "n",
-        "c",
-        "g",
-        "kh"
-      ],
       "explanation": "Điền phụ âm đầu 'c' để tạo thành từ 'cây dừa'."
     },
     {
@@ -11868,12 +11214,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)ỏ rực\"",
       "blankAnswer": "đ",
       "answer": "đ",
-      "options": [
-        "gh",
-        "l",
-        "ng",
-        "đ"
-      ],
       "explanation": "Điền phụ âm đầu 'đ' để tạo thành từ 'đỏ rực'."
     },
     {
@@ -11900,12 +11240,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)anh rờn\"",
       "blankAnswer": "x",
       "answer": "x",
-      "options": [
-        "ngh",
-        "h",
-        "m",
-        "x"
-      ],
       "explanation": "Điền phụ âm đầu 'x' để tạo thành từ 'xanh rờn'."
     },
     {
@@ -11917,12 +11251,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)hăm chỉ\"",
       "blankAnswer": "ch",
       "answer": "ch",
-      "options": [
-        "kh",
-        "ph",
-        "n",
-        "ch"
-      ],
       "explanation": "Điền phụ âm đầu 'ch' để tạo thành từ 'chăm chỉ'."
     },
     {
@@ -11934,12 +11262,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)iêng năng\"",
       "blankAnswer": "s",
       "answer": "s",
-      "options": [
-        "s",
-        "qu",
-        "ng",
-        "l"
-      ],
       "explanation": "Điền phụ âm đầu 's' để tạo thành từ 'siêng năng'."
     },
     {
@@ -11951,12 +11273,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)goan ngoãn\"",
       "blankAnswer": "ng",
       "answer": "ng",
-      "options": [
-        "ng",
-        "ngh",
-        "r",
-        "m"
-      ],
       "explanation": "Điền phụ âm đầu 'ng' để tạo thành từ 'ngoan ngoãn'."
     },
     {
@@ -11968,12 +11284,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)hạy bộ\"",
       "blankAnswer": "ch",
       "answer": "ch",
-      "options": [
-        "s",
-        "ch",
-        "ph",
-        "n"
-      ],
       "explanation": "Điền phụ âm đầu 'ch' để tạo thành từ 'chạy bộ'."
     },
     {
@@ -11985,12 +11295,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)úa hát\"",
       "blankAnswer": "m",
       "answer": "m",
-      "options": [
-        "m",
-        "t",
-        "ng",
-        "qu"
-      ],
       "explanation": "Điền phụ âm đầu 'm' để tạo thành từ 'múa hát'."
     },
     {
@@ -12002,12 +11306,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)ọc bài\"",
       "blankAnswer": "h",
       "answer": "h",
-      "options": [
-        "h",
-        "ngh",
-        "r",
-        "th"
-      ],
       "explanation": "Điền phụ âm đầu 'h' để tạo thành từ 'học bài'."
     },
     {
@@ -12067,12 +11365,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)ưới cây\"",
       "blankAnswer": "t",
       "answer": "t",
-      "options": [
-        "ph",
-        "s",
-        "tr",
-        "t"
-      ],
       "explanation": "Điền phụ âm đầu 't' để tạo thành từ 'tưới cây'."
     },
     {
@@ -12100,12 +11392,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)áy xoay\"",
       "blankAnswer": "m",
       "answer": "m",
-      "options": [
-        "t",
-        "v",
-        "qu",
-        "m"
-      ],
       "explanation": "Điền phụ âm đầu 'm' để tạo thành từ 'máy xoay'."
     },
     {
@@ -12133,12 +11419,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)eo hò\"",
       "blankAnswer": "r",
       "answer": "r",
-      "options": [
-        "ch",
-        "r",
-        "x",
-        "th"
-      ],
       "explanation": "Điền phụ âm đầu 'r' để tạo thành từ 'reo hò'."
     },
     {
@@ -12166,12 +11446,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)hầy cô\"",
       "blankAnswer": "th",
       "answer": "th",
-      "options": [
-        "s",
-        "tr",
-        "b",
-        "th"
-      ],
       "explanation": "Điền phụ âm đầu 'th' để tạo thành từ 'thầy cô'."
     },
     {
@@ -12183,12 +11457,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)hấn trắng\"",
       "blankAnswer": "ph",
       "answer": "ph",
-      "options": [
-        "c",
-        "v",
-        "ph",
-        "t"
-      ],
       "explanation": "Điền phụ âm đầu 'ph' để tạo thành từ 'phấn trắng'."
     },
     {
@@ -12200,12 +11468,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)ảng đen\"",
       "blankAnswer": "b",
       "answer": "b",
-      "options": [
-        "th",
-        "ch",
-        "b",
-        "x"
-      ],
       "explanation": "Điền phụ âm đầu 'b' để tạo thành từ 'bảng đen'."
     },
     {
@@ -12217,12 +11479,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)ặp sách\"",
       "blankAnswer": "c",
       "answer": "c",
-      "options": [
-        "c",
-        "tr",
-        "d",
-        "b"
-      ],
       "explanation": "Điền phụ âm đầu 'c' để tạo thành từ 'cặp sách'."
     },
     {
@@ -12234,12 +11490,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)út chì\"",
       "blankAnswer": "b",
       "answer": "b",
-      "options": [
-        "đ",
-        "b",
-        "c",
-        "v"
-      ],
       "explanation": "Điền phụ âm đầu 'b' để tạo thành từ 'bút chì'."
     },
     {
@@ -12251,12 +11501,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)hoai lang\"",
       "blankAnswer": "kh",
       "answer": "kh",
-      "options": [
-        "ch",
-        "x",
-        "kh",
-        "g"
-      ],
       "explanation": "Điền phụ âm đầu 'kh' để tạo thành từ 'khoai lang'."
     },
     {
@@ -12284,12 +11528,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)oay hoay\"",
       "blankAnswer": "l",
       "answer": "l",
-      "options": [
-        "b",
-        "d",
-        "l",
-        "gh"
-      ],
       "explanation": "Điền phụ âm đầu 'l' để tạo thành từ 'loay hoay'."
     },
     {
@@ -12333,12 +11571,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"mùa (...)uân\"",
       "blankAnswer": "x",
       "answer": "x",
-      "options": [
-        "h",
-        "c",
-        "đ",
-        "x"
-      ],
       "explanation": "Điền phụ âm đầu 'x' để tạo thành từ 'mùa xuân'."
     },
     {
@@ -12350,12 +11582,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"con (...)huyền\"",
       "blankAnswer": "th",
       "answer": "th",
-      "options": [
-        "th",
-        "kh",
-        "ch",
-        "g"
-      ],
       "explanation": "Điền phụ âm đầu 'th' để tạo thành từ 'con thuyền'."
     },
     {
@@ -12367,12 +11593,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"áo (...)hoác\"",
       "blankAnswer": "kh",
       "answer": "kh",
-      "options": [
-        "d",
-        "kh",
-        "gh",
-        "l"
-      ],
       "explanation": "Điền phụ âm đầu 'kh' để tạo thành từ 'áo khoác'."
     },
     {
@@ -12384,12 +11604,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)oạt động\"",
       "blankAnswer": "h",
       "answer": "h",
-      "options": [
-        "m",
-        "đ",
-        "ngh",
-        "h"
-      ],
       "explanation": "Điền phụ âm đầu 'h' để tạo thành từ 'hoạt động'."
     },
     {
@@ -12401,12 +11615,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)hú mèo\"",
       "blankAnswer": "ch",
       "answer": "ch",
-      "options": [
-        "g",
-        "n",
-        "ch",
-        "kh"
-      ],
       "explanation": "Điền phụ âm đầu 'ch' để tạo thành từ 'chú mèo'."
     },
     {
@@ -12418,12 +11626,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)à trống\"",
       "blankAnswer": "g",
       "answer": "g",
-      "options": [
-        "l",
-        "ng",
-        "g",
-        "gh"
-      ],
       "explanation": "Điền phụ âm đầu 'g' để tạo thành từ 'gà trống'."
     },
     {
@@ -12435,12 +11637,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)on công\"",
       "blankAnswer": "c",
       "answer": "c",
-      "options": [
-        "m",
-        "c",
-        "ngh",
-        "h"
-      ],
       "explanation": "Điền phụ âm đầu 'c' để tạo thành từ 'con công'."
     },
     {
@@ -12452,12 +11648,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)òng sông\"",
       "blankAnswer": "d",
       "answer": "d",
-      "options": [
-        "ph",
-        "d",
-        "kh",
-        "n"
-      ],
       "explanation": "Điền phụ âm đầu 'd' để tạo thành từ 'dòng sông'."
     },
     {
@@ -12531,12 +11721,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)gọn núi\"",
       "blankAnswer": "ng",
       "answer": "ng",
-      "options": [
-        "qu",
-        "t",
-        "l",
-        "ng"
-      ],
       "explanation": "Điền phụ âm đầu 'ng' để tạo thành từ 'ngọn núi'."
     },
     {
@@ -12580,12 +11764,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)ặt trời\"",
       "blankAnswer": "m",
       "answer": "m",
-      "options": [
-        "ngh",
-        "th",
-        "r",
-        "m"
-      ],
       "explanation": "Điền phụ âm đầu 'm' để tạo thành từ 'mặt trời'."
     },
     {
@@ -12597,12 +11775,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)oa hồng\"",
       "blankAnswer": "h",
       "answer": "h",
-      "options": [
-        "n",
-        "ph",
-        "s",
-        "h"
-      ],
       "explanation": "Điền phụ âm đầu 'h' để tạo thành từ 'hoa hồng'."
     },
     {
@@ -12614,12 +11786,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)ây dừa\"",
       "blankAnswer": "c",
       "answer": "c",
-      "options": [
-        "c",
-        "qu",
-        "ng",
-        "t"
-      ],
       "explanation": "Điền phụ âm đầu 'c' để tạo thành từ 'cây dừa'."
     },
     {
@@ -12647,12 +11813,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)ỏ rực\"",
       "blankAnswer": "đ",
       "answer": "đ",
-      "options": [
-        "r",
-        "đ",
-        "th",
-        "ngh"
-      ],
       "explanation": "Điền phụ âm đầu 'đ' để tạo thành từ 'đỏ rực'."
     },
     {
@@ -12774,12 +11934,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)anh rờn\"",
       "blankAnswer": "x",
       "answer": "x",
-      "options": [
-        "s",
-        "x",
-        "tr",
-        "ph"
-      ],
       "explanation": "Điền phụ âm đầu 'x' để tạo thành từ 'xanh rờn'."
     },
     {
@@ -12791,12 +11945,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)hăm chỉ\"",
       "blankAnswer": "ch",
       "answer": "ch",
-      "options": [
-        "ch",
-        "t",
-        "qu",
-        "v"
-      ],
       "explanation": "Điền phụ âm đầu 'ch' để tạo thành từ 'chăm chỉ'."
     },
     {
@@ -12808,12 +11956,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)iêng năng\"",
       "blankAnswer": "s",
       "answer": "s",
-      "options": [
-        "s",
-        "x",
-        "r",
-        "th"
-      ],
       "explanation": "Điền phụ âm đầu 's' để tạo thành từ 'siêng năng'."
     },
     {
@@ -12825,12 +11967,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)goan ngoãn\"",
       "blankAnswer": "ng",
       "answer": "ng",
-      "options": [
-        "tr",
-        "b",
-        "ng",
-        "s"
-      ],
       "explanation": "Điền phụ âm đầu 'ng' để tạo thành từ 'ngoan ngoãn'."
     },
     {
@@ -12842,12 +11978,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)hạy bộ\"",
       "blankAnswer": "ch",
       "answer": "ch",
-      "options": [
-        "c",
-        "v",
-        "ch",
-        "t"
-      ],
       "explanation": "Điền phụ âm đầu 'ch' để tạo thành từ 'chạy bộ'."
     },
     {
@@ -12859,12 +11989,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)úa hát\"",
       "blankAnswer": "m",
       "answer": "m",
-      "options": [
-        "th",
-        "ch",
-        "m",
-        "x"
-      ],
       "explanation": "Điền phụ âm đầu 'm' để tạo thành từ 'múa hát'."
     },
     {
@@ -12876,12 +12000,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)ọc bài\"",
       "blankAnswer": "h",
       "answer": "h",
-      "options": [
-        "tr",
-        "h",
-        "b",
-        "d"
-      ],
       "explanation": "Điền phụ âm đầu 'h' để tạo thành từ 'học bài'."
     },
     {
@@ -12893,12 +12011,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)ưới cây\"",
       "blankAnswer": "t",
       "answer": "t",
-      "options": [
-        "v",
-        "đ",
-        "c",
-        "t"
-      ],
       "explanation": "Điền phụ âm đầu 't' để tạo thành từ 'tưới cây'."
     },
     {
@@ -12910,12 +12022,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)áy xoay\"",
       "blankAnswer": "m",
       "answer": "m",
-      "options": [
-        "g",
-        "ch",
-        "m",
-        "x"
-      ],
       "explanation": "Điền phụ âm đầu 'm' để tạo thành từ 'máy xoay'."
     },
     {
@@ -12927,12 +12033,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)eo hò\"",
       "blankAnswer": "r",
       "answer": "r",
-      "options": [
-        "d",
-        "r",
-        "gh",
-        "b"
-      ],
       "explanation": "Điền phụ âm đầu 'r' để tạo thành từ 'reo hò'."
     },
     {
@@ -12976,12 +12076,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)hầy cô\"",
       "blankAnswer": "th",
       "answer": "th",
-      "options": [
-        "h",
-        "th",
-        "đ",
-        "c"
-      ],
       "explanation": "Điền phụ âm đầu 'th' để tạo thành từ 'thầy cô'."
     },
     {
@@ -13025,12 +12119,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)hấn trắng\"",
       "blankAnswer": "ph",
       "answer": "ph",
-      "options": [
-        "kh",
-        "g",
-        "ch",
-        "ph"
-      ],
       "explanation": "Điền phụ âm đầu 'ph' để tạo thành từ 'phấn trắng'."
     },
     {
@@ -13042,12 +12130,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)ảng đen\"",
       "blankAnswer": "b",
       "answer": "b",
-      "options": [
-        "l",
-        "d",
-        "b",
-        "gh"
-      ],
       "explanation": "Điền phụ âm đầu 'b' để tạo thành từ 'bảng đen'."
     },
     {
@@ -13059,12 +12141,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)ặp sách\"",
       "blankAnswer": "c",
       "answer": "c",
-      "options": [
-        "c",
-        "h",
-        "m",
-        "đ"
-      ],
       "explanation": "Điền phụ âm đầu 'c' để tạo thành từ 'cặp sách'."
     },
     {
@@ -13076,12 +12152,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)út chì\"",
       "blankAnswer": "b",
       "answer": "b",
-      "options": [
-        "b",
-        "n",
-        "kh",
-        "g"
-      ],
       "explanation": "Điền phụ âm đầu 'b' để tạo thành từ 'bút chì'."
     },
     {
@@ -13093,12 +12163,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)hoai lang\"",
       "blankAnswer": "kh",
       "answer": "kh",
-      "options": [
-        "l",
-        "kh",
-        "gh",
-        "ng"
-      ],
       "explanation": "Điền phụ âm đầu 'kh' để tạo thành từ 'khoai lang'."
     },
     {
@@ -13142,12 +12206,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)oay hoay\"",
       "blankAnswer": "l",
       "answer": "l",
-      "options": [
-        "m",
-        "ngh",
-        "h",
-        "l"
-      ],
       "explanation": "Điền phụ âm đầu 'l' để tạo thành từ 'loay hoay'."
     },
     {
@@ -13159,12 +12217,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"mùa (...)uân\"",
       "blankAnswer": "x",
       "answer": "x",
-      "options": [
-        "kh",
-        "ph",
-        "n",
-        "x"
-      ],
       "explanation": "Điền phụ âm đầu 'x' để tạo thành từ 'mùa xuân'."
     },
     {
@@ -13176,12 +12228,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"con (...)huyền\"",
       "blankAnswer": "th",
       "answer": "th",
-      "options": [
-        "qu",
-        "l",
-        "th",
-        "ng"
-      ],
       "explanation": "Điền phụ âm đầu 'th' để tạo thành từ 'con thuyền'."
     },
     {
@@ -13193,12 +12239,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"áo (...)hoác\"",
       "blankAnswer": "kh",
       "answer": "kh",
-      "options": [
-        "ngh",
-        "m",
-        "r",
-        "kh"
-      ],
       "explanation": "Điền phụ âm đầu 'kh' để tạo thành từ 'áo khoác'."
     },
     {
@@ -13514,12 +12554,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)oạt động\"",
       "blankAnswer": "h",
       "answer": "h",
-      "options": [
-        "s",
-        "n",
-        "h",
-        "ph"
-      ],
       "explanation": "Điền phụ âm đầu 'h' để tạo thành từ 'hoạt động'."
     },
     {
@@ -13627,12 +12661,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)hú mèo\"",
       "blankAnswer": "ch",
       "answer": "ch",
-      "options": [
-        "ng",
-        "ch",
-        "t",
-        "qu"
-      ],
       "explanation": "Điền phụ âm đầu 'ch' để tạo thành từ 'chú mèo'."
     },
     {
@@ -13644,12 +12672,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)à trống\"",
       "blankAnswer": "g",
       "answer": "g",
-      "options": [
-        "ngh",
-        "g",
-        "th",
-        "r"
-      ],
       "explanation": "Điền phụ âm đầu 'g' để tạo thành từ 'gà trống'."
     },
     {
@@ -13661,12 +12683,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)on công\"",
       "blankAnswer": "c",
       "answer": "c",
-      "options": [
-        "s",
-        "c",
-        "tr",
-        "ph"
-      ],
       "explanation": "Điền phụ âm đầu 'c' để tạo thành từ 'con công'."
     },
     {
@@ -13678,12 +12694,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)òng sông\"",
       "blankAnswer": "d",
       "answer": "d",
-      "options": [
-        "qu",
-        "v",
-        "t",
-        "d"
-      ],
       "explanation": "Điền phụ âm đầu 'd' để tạo thành từ 'dòng sông'."
     },
     {
@@ -13695,12 +12705,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)gọn núi\"",
       "blankAnswer": "ng",
       "answer": "ng",
-      "options": [
-        "x",
-        "ng",
-        "r",
-        "th"
-      ],
       "explanation": "Điền phụ âm đầu 'ng' để tạo thành từ 'ngọn núi'."
     },
     {
@@ -13712,12 +12716,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)ặt trời\"",
       "blankAnswer": "m",
       "answer": "m",
-      "options": [
-        "b",
-        "s",
-        "m",
-        "tr"
-      ],
       "explanation": "Điền phụ âm đầu 'm' để tạo thành từ 'mặt trời'."
     },
     {
@@ -13729,12 +12727,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)oa hồng\"",
       "blankAnswer": "h",
       "answer": "h",
-      "options": [
-        "v",
-        "h",
-        "t",
-        "c"
-      ],
       "explanation": "Điền phụ âm đầu 'h' để tạo thành từ 'hoa hồng'."
     },
     {
@@ -13826,12 +12818,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)ây dừa\"",
       "blankAnswer": "c",
       "answer": "c",
-      "options": [
-        "ch",
-        "th",
-        "x",
-        "c"
-      ],
       "explanation": "Điền phụ âm đầu 'c' để tạo thành từ 'cây dừa'."
     },
     {
@@ -13843,12 +12829,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)ỏ rực\"",
       "blankAnswer": "đ",
       "answer": "đ",
-      "options": [
-        "tr",
-        "d",
-        "đ",
-        "b"
-      ],
       "explanation": "Điền phụ âm đầu 'đ' để tạo thành từ 'đỏ rực'."
     },
     {
@@ -13860,12 +12840,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)anh rờn\"",
       "blankAnswer": "x",
       "answer": "x",
-      "options": [
-        "đ",
-        "v",
-        "x",
-        "c"
-      ],
       "explanation": "Điền phụ âm đầu 'x' để tạo thành từ 'xanh rờn'."
     },
     {
@@ -13877,12 +12851,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)hăm chỉ\"",
       "blankAnswer": "ch",
       "answer": "ch",
-      "options": [
-        "ch",
-        "kh",
-        "g",
-        "x"
-      ],
       "explanation": "Điền phụ âm đầu 'ch' để tạo thành từ 'chăm chỉ'."
     },
     {
@@ -13894,12 +12862,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)iêng năng\"",
       "blankAnswer": "s",
       "answer": "s",
-      "options": [
-        "b",
-        "s",
-        "d",
-        "gh"
-      ],
       "explanation": "Điền phụ âm đầu 's' để tạo thành từ 'siêng năng'."
     },
     {
@@ -13911,12 +12873,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)goan ngoãn\"",
       "blankAnswer": "ng",
       "answer": "ng",
-      "options": [
-        "c",
-        "đ",
-        "h",
-        "ng"
-      ],
       "explanation": "Điền phụ âm đầu 'ng' để tạo thành từ 'ngoan ngoãn'."
     },
     {
@@ -13928,12 +12884,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)hạy bộ\"",
       "blankAnswer": "ch",
       "answer": "ch",
-      "options": [
-        "kh",
-        "n",
-        "g",
-        "ch"
-      ],
       "explanation": "Điền phụ âm đầu 'ch' để tạo thành từ 'chạy bộ'."
     },
     {
@@ -13945,12 +12895,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)úa hát\"",
       "blankAnswer": "m",
       "answer": "m",
-      "options": [
-        "d",
-        "gh",
-        "m",
-        "l"
-      ],
       "explanation": "Điền phụ âm đầu 'm' để tạo thành từ 'múa hát'."
     },
     {
@@ -13962,12 +12906,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)ọc bài\"",
       "blankAnswer": "h",
       "answer": "h",
-      "options": [
-        "ngh",
-        "h",
-        "đ",
-        "m"
-      ],
       "explanation": "Điền phụ âm đầu 'h' để tạo thành từ 'học bài'."
     },
     {
@@ -13995,12 +12933,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)ưới cây\"",
       "blankAnswer": "t",
       "answer": "t",
-      "options": [
-        "g",
-        "n",
-        "t",
-        "kh"
-      ],
       "explanation": "Điền phụ âm đầu 't' để tạo thành từ 'tưới cây'."
     },
     {
@@ -14028,12 +12960,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)áy xoay\"",
       "blankAnswer": "m",
       "answer": "m",
-      "options": [
-        "ng",
-        "l",
-        "gh",
-        "m"
-      ],
       "explanation": "Điền phụ âm đầu 'm' để tạo thành từ 'máy xoay'."
     },
     {
@@ -14045,12 +12971,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)eo hò\"",
       "blankAnswer": "r",
       "answer": "r",
-      "options": [
-        "ngh",
-        "m",
-        "r",
-        "h"
-      ],
       "explanation": "Điền phụ âm đầu 'r' để tạo thành từ 'reo hò'."
     },
     {
@@ -14078,12 +12998,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)hầy cô\"",
       "blankAnswer": "th",
       "answer": "th",
-      "options": [
-        "n",
-        "th",
-        "ph",
-        "kh"
-      ],
       "explanation": "Điền phụ âm đầu 'th' để tạo thành từ 'thầy cô'."
     },
     {
@@ -14095,12 +13009,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)hấn trắng\"",
       "blankAnswer": "ph",
       "answer": "ph",
-      "options": [
-        "ph",
-        "qu",
-        "ng",
-        "l"
-      ],
       "explanation": "Điền phụ âm đầu 'ph' để tạo thành từ 'phấn trắng'."
     },
     {
@@ -14144,12 +13052,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)ảng đen\"",
       "blankAnswer": "b",
       "answer": "b",
-      "options": [
-        "m",
-        "b",
-        "ngh",
-        "r"
-      ],
       "explanation": "Điền phụ âm đầu 'b' để tạo thành từ 'bảng đen'."
     },
     {
@@ -14161,12 +13063,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)ặp sách\"",
       "blankAnswer": "c",
       "answer": "c",
-      "options": [
-        "n",
-        "s",
-        "c",
-        "ph"
-      ],
       "explanation": "Điền phụ âm đầu 'c' để tạo thành từ 'cặp sách'."
     },
     {
@@ -14209,12 +13105,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)út chì\"",
       "blankAnswer": "b",
       "answer": "b",
-      "options": [
-        "qu",
-        "ng",
-        "b",
-        "t"
-      ],
       "explanation": "Điền phụ âm đầu 'b' để tạo thành từ 'bút chì'."
     },
     {
@@ -14226,12 +13116,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)hoai lang\"",
       "blankAnswer": "kh",
       "answer": "kh",
-      "options": [
-        "r",
-        "th",
-        "kh",
-        "ngh"
-      ],
       "explanation": "Điền phụ âm đầu 'kh' để tạo thành từ 'khoai lang'."
     },
     {
@@ -14243,12 +13127,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)oay hoay\"",
       "blankAnswer": "l",
       "answer": "l",
-      "options": [
-        "tr",
-        "l",
-        "ph",
-        "s"
-      ],
       "explanation": "Điền phụ âm đầu 'l' để tạo thành từ 'loay hoay'."
     },
     {
@@ -14260,12 +13138,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"mùa (...)uân\"",
       "blankAnswer": "x",
       "answer": "x",
-      "options": [
-        "v",
-        "t",
-        "x",
-        "qu"
-      ],
       "explanation": "Điền phụ âm đầu 'x' để tạo thành từ 'mùa xuân'."
     },
     {
@@ -14277,12 +13149,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"con (...)huyền\"",
       "blankAnswer": "th",
       "answer": "th",
-      "options": [
-        "th",
-        "x",
-        "r",
-        "ch"
-      ],
       "explanation": "Điền phụ âm đầu 'th' để tạo thành từ 'con thuyền'."
     },
     {
@@ -14294,12 +13160,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"áo (...)hoác\"",
       "blankAnswer": "kh",
       "answer": "kh",
-      "options": [
-        "b",
-        "tr",
-        "s",
-        "kh"
-      ],
       "explanation": "Điền phụ âm đầu 'kh' để tạo thành từ 'áo khoác'."
     },
     {
@@ -14343,12 +13203,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)oạt động\"",
       "blankAnswer": "h",
       "answer": "h",
-      "options": [
-        "h",
-        "t",
-        "v",
-        "c"
-      ],
       "explanation": "Điền phụ âm đầu 'h' để tạo thành từ 'hoạt động'."
     },
     {
@@ -14360,12 +13214,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)hú mèo\"",
       "blankAnswer": "ch",
       "answer": "ch",
-      "options": [
-        "x",
-        "th",
-        "g",
-        "ch"
-      ],
       "explanation": "Điền phụ âm đầu 'ch' để tạo thành từ 'chú mèo'."
     },
     {
@@ -14377,12 +13225,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)à trống\"",
       "blankAnswer": "g",
       "answer": "g",
-      "options": [
-        "g",
-        "d",
-        "b",
-        "tr"
-      ],
       "explanation": "Điền phụ âm đầu 'g' để tạo thành từ 'gà trống'."
     },
     {
@@ -14394,12 +13236,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)on công\"",
       "blankAnswer": "c",
       "answer": "c",
-      "options": [
-        "đ",
-        "v",
-        "h",
-        "c"
-      ],
       "explanation": "Điền phụ âm đầu 'c' để tạo thành từ 'con công'."
     },
     {
@@ -14411,12 +13247,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)òng sông\"",
       "blankAnswer": "d",
       "answer": "d",
-      "options": [
-        "d",
-        "x",
-        "g",
-        "ch"
-      ],
       "explanation": "Điền phụ âm đầu 'd' để tạo thành từ 'dòng sông'."
     },
     {
@@ -14492,12 +13322,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)gọn núi\"",
       "blankAnswer": "ng",
       "answer": "ng",
-      "options": [
-        "b",
-        "ng",
-        "d",
-        "gh"
-      ],
       "explanation": "Điền phụ âm đầu 'ng' để tạo thành từ 'ngọn núi'."
     },
     {
@@ -14573,12 +13397,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)ặt trời\"",
       "blankAnswer": "m",
       "answer": "m",
-      "options": [
-        "c",
-        "m",
-        "đ",
-        "h"
-      ],
       "explanation": "Điền phụ âm đầu 'm' để tạo thành từ 'mặt trời'."
     },
     {
@@ -14590,12 +13408,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)oa hồng\"",
       "blankAnswer": "h",
       "answer": "h",
-      "options": [
-        "kh",
-        "ch",
-        "h",
-        "g"
-      ],
       "explanation": "Điền phụ âm đầu 'h' để tạo thành từ 'hoa hồng'."
     },
     {
@@ -14607,12 +13419,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)ây dừa\"",
       "blankAnswer": "c",
       "answer": "c",
-      "options": [
-        "d",
-        "l",
-        "gh",
-        "c"
-      ],
       "explanation": "Điền phụ âm đầu 'c' để tạo thành từ 'cây dừa'."
     },
     {
@@ -14624,12 +13430,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)ỏ rực\"",
       "blankAnswer": "đ",
       "answer": "đ",
-      "options": [
-        "ngh",
-        "đ",
-        "h",
-        "m"
-      ],
       "explanation": "Điền phụ âm đầu 'đ' để tạo thành từ 'đỏ rực'."
     },
     {
@@ -14641,12 +13441,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)anh rờn\"",
       "blankAnswer": "x",
       "answer": "x",
-      "options": [
-        "x",
-        "g",
-        "n",
-        "kh"
-      ],
       "explanation": "Điền phụ âm đầu 'x' để tạo thành từ 'xanh rờn'."
     },
     {
@@ -14658,12 +13452,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)hăm chỉ\"",
       "blankAnswer": "ch",
       "answer": "ch",
-      "options": [
-        "ng",
-        "gh",
-        "l",
-        "ch"
-      ],
       "explanation": "Điền phụ âm đầu 'ch' để tạo thành từ 'chăm chỉ'."
     },
     {
@@ -14691,12 +13479,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)iêng năng\"",
       "blankAnswer": "s",
       "answer": "s",
-      "options": [
-        "s",
-        "h",
-        "ngh",
-        "m"
-      ],
       "explanation": "Điền phụ âm đầu 's' để tạo thành từ 'siêng năng'."
     },
     {
@@ -14724,12 +13506,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)goan ngoãn\"",
       "blankAnswer": "ng",
       "answer": "ng",
-      "options": [
-        "ng",
-        "ph",
-        "kh",
-        "n"
-      ],
       "explanation": "Điền phụ âm đầu 'ng' để tạo thành từ 'ngoan ngoãn'."
     },
     {
@@ -14741,12 +13517,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)hạy bộ\"",
       "blankAnswer": "ch",
       "answer": "ch",
-      "options": [
-        "ng",
-        "qu",
-        "ch",
-        "l"
-      ],
       "explanation": "Điền phụ âm đầu 'ch' để tạo thành từ 'chạy bộ'."
     },
     {
@@ -14758,12 +13528,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)úa hát\"",
       "blankAnswer": "m",
       "answer": "m",
-      "options": [
-        "ngh",
-        "m",
-        "r",
-        "th"
-      ],
       "explanation": "Điền phụ âm đầu 'm' để tạo thành từ 'múa hát'."
     },
     {
@@ -14775,12 +13539,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)ọc bài\"",
       "blankAnswer": "h",
       "answer": "h",
-      "options": [
-        "s",
-        "h",
-        "n",
-        "ph"
-      ],
       "explanation": "Điền phụ âm đầu 'h' để tạo thành từ 'học bài'."
     },
     {
@@ -14792,12 +13550,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)ưới cây\"",
       "blankAnswer": "t",
       "answer": "t",
-      "options": [
-        "v",
-        "t",
-        "ng",
-        "qu"
-      ],
       "explanation": "Điền phụ âm đầu 't' để tạo thành từ 'tưới cây'."
     },
     {
@@ -14809,12 +13561,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)áy xoay\"",
       "blankAnswer": "m",
       "answer": "m",
-      "options": [
-        "m",
-        "ngh",
-        "r",
-        "th"
-      ],
       "explanation": "Điền phụ âm đầu 'm' để tạo thành từ 'máy xoay'."
     },
     {
@@ -14826,12 +13572,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)eo hò\"",
       "blankAnswer": "r",
       "answer": "r",
-      "options": [
-        "r",
-        "s",
-        "ph",
-        "tr"
-      ],
       "explanation": "Điền phụ âm đầu 'r' để tạo thành từ 'reo hò'."
     },
     {
@@ -14843,12 +13583,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)hầy cô\"",
       "blankAnswer": "th",
       "answer": "th",
-      "options": [
-        "th",
-        "v",
-        "t",
-        "qu"
-      ],
       "explanation": "Điền phụ âm đầu 'th' để tạo thành từ 'thầy cô'."
     },
     {
@@ -14892,12 +13626,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)hấn trắng\"",
       "blankAnswer": "ph",
       "answer": "ph",
-      "options": [
-        "x",
-        "ph",
-        "th",
-        "r"
-      ],
       "explanation": "Điền phụ âm đầu 'ph' để tạo thành từ 'phấn trắng'."
     },
     {
@@ -14957,12 +13685,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)ảng đen\"",
       "blankAnswer": "b",
       "answer": "b",
-      "options": [
-        "b",
-        "s",
-        "d",
-        "tr"
-      ],
       "explanation": "Điền phụ âm đầu 'b' để tạo thành từ 'bảng đen'."
     },
     {
@@ -14990,12 +13712,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)ặp sách\"",
       "blankAnswer": "c",
       "answer": "c",
-      "options": [
-        "v",
-        "t",
-        "đ",
-        "c"
-      ],
       "explanation": "Điền phụ âm đầu 'c' để tạo thành từ 'cặp sách'."
     },
     {
@@ -15023,12 +13739,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)út chì\"",
       "blankAnswer": "b",
       "answer": "b",
-      "options": [
-        "ch",
-        "x",
-        "b",
-        "th"
-      ],
       "explanation": "Điền phụ âm đầu 'b' để tạo thành từ 'bút chì'."
     },
     {
@@ -15040,12 +13750,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)hoai lang\"",
       "blankAnswer": "kh",
       "answer": "kh",
-      "options": [
-        "tr",
-        "b",
-        "d",
-        "kh"
-      ],
       "explanation": "Điền phụ âm đầu 'kh' để tạo thành từ 'khoai lang'."
     },
     {
@@ -15073,12 +13777,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)oay hoay\"",
       "blankAnswer": "l",
       "answer": "l",
-      "options": [
-        "v",
-        "l",
-        "c",
-        "đ"
-      ],
       "explanation": "Điền phụ âm đầu 'l' để tạo thành từ 'loay hoay'."
     },
     {
@@ -15250,12 +13948,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"mùa (...)uân\"",
       "blankAnswer": "x",
       "answer": "x",
-      "options": [
-        "g",
-        "x",
-        "ch",
-        "kh"
-      ],
       "explanation": "Điền phụ âm đầu 'x' để tạo thành từ 'mùa xuân'."
     },
     {
@@ -15267,12 +13959,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"con (...)huyền\"",
       "blankAnswer": "th",
       "answer": "th",
-      "options": [
-        "th",
-        "d",
-        "b",
-        "gh"
-      ],
       "explanation": "Điền phụ âm đầu 'th' để tạo thành từ 'con thuyền'."
     },
     {
@@ -15284,12 +13970,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"áo (...)hoác\"",
       "blankAnswer": "kh",
       "answer": "kh",
-      "options": [
-        "h",
-        "đ",
-        "kh",
-        "c"
-      ],
       "explanation": "Điền phụ âm đầu 'kh' để tạo thành từ 'áo khoác'."
     },
     {
@@ -15301,12 +13981,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)oạt động\"",
       "blankAnswer": "h",
       "answer": "h",
-      "options": [
-        "g",
-        "kh",
-        "ch",
-        "h"
-      ],
       "explanation": "Điền phụ âm đầu 'h' để tạo thành từ 'hoạt động'."
     },
     {
@@ -15318,12 +13992,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)hú mèo\"",
       "blankAnswer": "ch",
       "answer": "ch",
-      "options": [
-        "ch",
-        "l",
-        "gh",
-        "d"
-      ],
       "explanation": "Điền phụ âm đầu 'ch' để tạo thành từ 'chú mèo'."
     },
     {
@@ -15351,12 +14019,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)à trống\"",
       "blankAnswer": "g",
       "answer": "g",
-      "options": [
-        "đ",
-        "m",
-        "h",
-        "g"
-      ],
       "explanation": "Điền phụ âm đầu 'g' để tạo thành từ 'gà trống'."
     },
     {
@@ -15400,12 +14062,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)on công\"",
       "blankAnswer": "c",
       "answer": "c",
-      "options": [
-        "kh",
-        "n",
-        "g",
-        "c"
-      ],
       "explanation": "Điền phụ âm đầu 'c' để tạo thành từ 'con công'."
     },
     {
@@ -15465,12 +14121,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)òng sông\"",
       "blankAnswer": "d",
       "answer": "d",
-      "options": [
-        "d",
-        "gh",
-        "l",
-        "ng"
-      ],
       "explanation": "Điền phụ âm đầu 'd' để tạo thành từ 'dòng sông'."
     },
     {
@@ -15482,12 +14132,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)gọn núi\"",
       "blankAnswer": "ng",
       "answer": "ng",
-      "options": [
-        "ng",
-        "h",
-        "m",
-        "ngh"
-      ],
       "explanation": "Điền phụ âm đầu 'ng' để tạo thành từ 'ngọn núi'."
     },
     {
@@ -15499,12 +14143,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)ặt trời\"",
       "blankAnswer": "m",
       "answer": "m",
-      "options": [
-        "n",
-        "kh",
-        "m",
-        "ph"
-      ],
       "explanation": "Điền phụ âm đầu 'm' để tạo thành từ 'mặt trời'."
     },
     {
@@ -15516,12 +14154,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)oa hồng\"",
       "blankAnswer": "h",
       "answer": "h",
-      "options": [
-        "ng",
-        "h",
-        "l",
-        "qu"
-      ],
       "explanation": "Điền phụ âm đầu 'h' để tạo thành từ 'hoa hồng'."
     },
     {
@@ -15549,12 +14181,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)ây dừa\"",
       "blankAnswer": "c",
       "answer": "c",
-      "options": [
-        "c",
-        "m",
-        "r",
-        "ngh"
-      ],
       "explanation": "Điền phụ âm đầu 'c' để tạo thành từ 'cây dừa'."
     },
     {
@@ -15566,12 +14192,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)ỏ rực\"",
       "blankAnswer": "đ",
       "answer": "đ",
-      "options": [
-        "đ",
-        "ph",
-        "s",
-        "n"
-      ],
       "explanation": "Điền phụ âm đầu 'đ' để tạo thành từ 'đỏ rực'."
     },
     {
@@ -15615,12 +14235,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)anh rờn\"",
       "blankAnswer": "x",
       "answer": "x",
-      "options": [
-        "t",
-        "ng",
-        "qu",
-        "x"
-      ],
       "explanation": "Điền phụ âm đầu 'x' để tạo thành từ 'xanh rờn'."
     },
     {
@@ -15632,12 +14246,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)hăm chỉ\"",
       "blankAnswer": "ch",
       "answer": "ch",
-      "options": [
-        "ch",
-        "r",
-        "th",
-        "ngh"
-      ],
       "explanation": "Điền phụ âm đầu 'ch' để tạo thành từ 'chăm chỉ'."
     },
     {
@@ -15681,12 +14289,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)iêng năng\"",
       "blankAnswer": "s",
       "answer": "s",
-      "options": [
-        "ph",
-        "s",
-        "b",
-        "tr"
-      ],
       "explanation": "Điền phụ âm đầu 's' để tạo thành từ 'siêng năng'."
     },
     {
@@ -15698,12 +14300,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)goan ngoãn\"",
       "blankAnswer": "ng",
       "answer": "ng",
-      "options": [
-        "v",
-        "t",
-        "ng",
-        "qu"
-      ],
       "explanation": "Điền phụ âm đầu 'ng' để tạo thành từ 'ngoan ngoãn'."
     },
     {
@@ -15715,12 +14311,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)hạy bộ\"",
       "blankAnswer": "ch",
       "answer": "ch",
-      "options": [
-        "r",
-        "ch",
-        "th",
-        "x"
-      ],
       "explanation": "Điền phụ âm đầu 'ch' để tạo thành từ 'chạy bộ'."
     },
     {
@@ -15732,12 +14322,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)úa hát\"",
       "blankAnswer": "m",
       "answer": "m",
-      "options": [
-        "tr",
-        "b",
-        "m",
-        "s"
-      ],
       "explanation": "Điền phụ âm đầu 'm' để tạo thành từ 'múa hát'."
     },
     {
@@ -15749,12 +14333,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)ọc bài\"",
       "blankAnswer": "h",
       "answer": "h",
-      "options": [
-        "h",
-        "v",
-        "t",
-        "c"
-      ],
       "explanation": "Điền phụ âm đầu 'h' để tạo thành từ 'học bài'."
     },
     {
@@ -15766,12 +14344,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)ưới cây\"",
       "blankAnswer": "t",
       "answer": "t",
-      "options": [
-        "th",
-        "x",
-        "t",
-        "ch"
-      ],
       "explanation": "Điền phụ âm đầu 't' để tạo thành từ 'tưới cây'."
     },
     {
@@ -15783,12 +14355,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)áy xoay\"",
       "blankAnswer": "m",
       "answer": "m",
-      "options": [
-        "b",
-        "m",
-        "tr",
-        "d"
-      ],
       "explanation": "Điền phụ âm đầu 'm' để tạo thành từ 'máy xoay'."
     },
     {
@@ -15800,12 +14366,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)eo hò\"",
       "blankAnswer": "r",
       "answer": "r",
-      "options": [
-        "c",
-        "r",
-        "v",
-        "đ"
-      ],
       "explanation": "Điền phụ âm đầu 'r' để tạo thành từ 'reo hò'."
     },
     {
@@ -15817,12 +14377,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)hầy cô\"",
       "blankAnswer": "th",
       "answer": "th",
-      "options": [
-        "th",
-        "g",
-        "x",
-        "ch"
-      ],
       "explanation": "Điền phụ âm đầu 'th' để tạo thành từ 'thầy cô'."
     },
     {
@@ -15834,12 +14388,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)hấn trắng\"",
       "blankAnswer": "ph",
       "answer": "ph",
-      "options": [
-        "b",
-        "ph",
-        "d",
-        "gh"
-      ],
       "explanation": "Điền phụ âm đầu 'ph' để tạo thành từ 'phấn trắng'."
     },
     {
@@ -15851,12 +14399,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)ảng đen\"",
       "blankAnswer": "b",
       "answer": "b",
-      "options": [
-        "đ",
-        "c",
-        "b",
-        "h"
-      ],
       "explanation": "Điền phụ âm đầu 'b' để tạo thành từ 'bảng đen'."
     },
     {
@@ -15916,12 +14458,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)ặp sách\"",
       "blankAnswer": "c",
       "answer": "c",
-      "options": [
-        "g",
-        "c",
-        "ch",
-        "kh"
-      ],
       "explanation": "Điền phụ âm đầu 'c' để tạo thành từ 'cặp sách'."
     },
     {
@@ -15933,12 +14469,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)út chì\"",
       "blankAnswer": "b",
       "answer": "b",
-      "options": [
-        "b",
-        "gh",
-        "d",
-        "l"
-      ],
       "explanation": "Điền phụ âm đầu 'b' để tạo thành từ 'bút chì'."
     },
     {
@@ -15950,12 +14480,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)hoai lang\"",
       "blankAnswer": "kh",
       "answer": "kh",
-      "options": [
-        "h",
-        "kh",
-        "m",
-        "đ"
-      ],
       "explanation": "Điền phụ âm đầu 'kh' để tạo thành từ 'khoai lang'."
     },
     {
@@ -15967,12 +14491,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)oay hoay\"",
       "blankAnswer": "l",
       "answer": "l",
-      "options": [
-        "kh",
-        "n",
-        "g",
-        "l"
-      ],
       "explanation": "Điền phụ âm đầu 'l' để tạo thành từ 'loay hoay'."
     },
     {
@@ -16016,12 +14534,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"mùa (...)uân\"",
       "blankAnswer": "x",
       "answer": "x",
-      "options": [
-        "ng",
-        "gh",
-        "l",
-        "x"
-      ],
       "explanation": "Điền phụ âm đầu 'x' để tạo thành từ 'mùa xuân'."
     },
     {
@@ -16129,12 +14641,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"con (...)huyền\"",
       "blankAnswer": "th",
       "answer": "th",
-      "options": [
-        "m",
-        "th",
-        "ngh",
-        "h"
-      ],
       "explanation": "Điền phụ âm đầu 'th' để tạo thành từ 'con thuyền'."
     },
     {
@@ -16146,12 +14652,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"áo (...)hoác\"",
       "blankAnswer": "kh",
       "answer": "kh",
-      "options": [
-        "s",
-        "ph",
-        "n",
-        "kh"
-      ],
       "explanation": "Điền phụ âm đầu 'kh' để tạo thành từ 'áo khoác'."
     },
     {
@@ -16770,12 +15270,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)oạt động\"",
       "blankAnswer": "h",
       "answer": "h",
-      "options": [
-        "qu",
-        "l",
-        "h",
-        "ng"
-      ],
       "explanation": "Điền phụ âm đầu 'h' để tạo thành từ 'hoạt động'."
     },
     {
@@ -16897,12 +15391,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)hú mèo\"",
       "blankAnswer": "ch",
       "answer": "ch",
-      "options": [
-        "ch",
-        "r",
-        "m",
-        "ngh"
-      ],
       "explanation": "Điền phụ âm đầu 'ch' để tạo thành từ 'chú mèo'."
     },
     {
@@ -16914,12 +15402,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)à trống\"",
       "blankAnswer": "g",
       "answer": "g",
-      "options": [
-        "g",
-        "s",
-        "n",
-        "ph"
-      ],
       "explanation": "Điền phụ âm đầu 'g' để tạo thành từ 'gà trống'."
     },
     {
@@ -16979,12 +15461,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)on công\"",
       "blankAnswer": "c",
       "answer": "c",
-      "options": [
-        "qu",
-        "t",
-        "ng",
-        "c"
-      ],
       "explanation": "Điền phụ âm đầu 'c' để tạo thành từ 'con công'."
     },
     {
@@ -16996,12 +15472,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)òng sông\"",
       "blankAnswer": "d",
       "answer": "d",
-      "options": [
-        "r",
-        "th",
-        "ngh",
-        "d"
-      ],
       "explanation": "Điền phụ âm đầu 'd' để tạo thành từ 'dòng sông'."
     },
     {
@@ -17013,12 +15483,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)gọn núi\"",
       "blankAnswer": "ng",
       "answer": "ng",
-      "options": [
-        "ph",
-        "tr",
-        "s",
-        "ng"
-      ],
       "explanation": "Điền phụ âm đầu 'ng' để tạo thành từ 'ngọn núi'."
     },
     {
@@ -17062,12 +15526,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)ặt trời\"",
       "blankAnswer": "m",
       "answer": "m",
-      "options": [
-        "qu",
-        "t",
-        "v",
-        "m"
-      ],
       "explanation": "Điền phụ âm đầu 'm' để tạo thành từ 'mặt trời'."
     },
     {
@@ -17175,12 +15633,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)oa hồng\"",
       "blankAnswer": "h",
       "answer": "h",
-      "options": [
-        "r",
-        "x",
-        "th",
-        "h"
-      ],
       "explanation": "Điền phụ âm đầu 'h' để tạo thành từ 'hoa hồng'."
     },
     {
@@ -17208,12 +15660,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)ây dừa\"",
       "blankAnswer": "c",
       "answer": "c",
-      "options": [
-        "tr",
-        "b",
-        "c",
-        "s"
-      ],
       "explanation": "Điền phụ âm đầu 'c' để tạo thành từ 'cây dừa'."
     },
     {
@@ -17305,12 +15751,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)ỏ rực\"",
       "blankAnswer": "đ",
       "answer": "đ",
-      "options": [
-        "t",
-        "c",
-        "v",
-        "đ"
-      ],
       "explanation": "Điền phụ âm đầu 'đ' để tạo thành từ 'đỏ rực'."
     },
     {
@@ -18058,12 +16498,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)anh rờn\"",
       "blankAnswer": "x",
       "answer": "x",
-      "options": [
-        "x",
-        "th",
-        "ch",
-        "g"
-      ],
       "explanation": "Điền phụ âm đầu 'x' để tạo thành từ 'xanh rờn'."
     },
     {
@@ -18075,12 +16509,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)hăm chỉ\"",
       "blankAnswer": "ch",
       "answer": "ch",
-      "options": [
-        "tr",
-        "d",
-        "ch",
-        "b"
-      ],
       "explanation": "Điền phụ âm đầu 'ch' để tạo thành từ 'chăm chỉ'."
     },
     {
@@ -18092,12 +16520,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)iêng năng\"",
       "blankAnswer": "s",
       "answer": "s",
-      "options": [
-        "c",
-        "s",
-        "đ",
-        "v"
-      ],
       "explanation": "Điền phụ âm đầu 's' để tạo thành từ 'siêng năng'."
     },
     {
@@ -18109,12 +16531,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)goan ngoãn\"",
       "blankAnswer": "ng",
       "answer": "ng",
-      "options": [
-        "g",
-        "ch",
-        "x",
-        "ng"
-      ],
       "explanation": "Điền phụ âm đầu 'ng' để tạo thành từ 'ngoan ngoãn'."
     },
     {
@@ -18190,12 +16606,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)hạy bộ\"",
       "blankAnswer": "ch",
       "answer": "ch",
-      "options": [
-        "b",
-        "ch",
-        "d",
-        "gh"
-      ],
       "explanation": "Điền phụ âm đầu 'ch' để tạo thành từ 'chạy bộ'."
     },
     {
@@ -18207,12 +16617,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)úa hát\"",
       "blankAnswer": "m",
       "answer": "m",
-      "options": [
-        "c",
-        "h",
-        "đ",
-        "m"
-      ],
       "explanation": "Điền phụ âm đầu 'm' để tạo thành từ 'múa hát'."
     },
     {
@@ -18240,12 +16644,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)ọc bài\"",
       "blankAnswer": "h",
       "answer": "h",
-      "options": [
-        "kh",
-        "ch",
-        "g",
-        "h"
-      ],
       "explanation": "Điền phụ âm đầu 'h' để tạo thành từ 'học bài'."
     },
     {
@@ -18449,12 +16847,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)ưới cây\"",
       "blankAnswer": "t",
       "answer": "t",
-      "options": [
-        "d",
-        "l",
-        "gh",
-        "t"
-      ],
       "explanation": "Điền phụ âm đầu 't' để tạo thành từ 'tưới cây'."
     },
     {
@@ -18514,12 +16906,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)áy xoay\"",
       "blankAnswer": "m",
       "answer": "m",
-      "options": [
-        "m",
-        "đ",
-        "ngh",
-        "h"
-      ],
       "explanation": "Điền phụ âm đầu 'm' để tạo thành từ 'máy xoay'."
     },
     {
@@ -18595,12 +16981,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)eo hò\"",
       "blankAnswer": "r",
       "answer": "r",
-      "options": [
-        "n",
-        "g",
-        "r",
-        "kh"
-      ],
       "explanation": "Điền phụ âm đầu 'r' để tạo thành từ 'reo hò'."
     },
     {
@@ -19684,12 +18064,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)hầy cô\"",
       "blankAnswer": "th",
       "answer": "th",
-      "options": [
-        "ng",
-        "l",
-        "gh",
-        "th"
-      ],
       "explanation": "Điền phụ âm đầu 'th' để tạo thành từ 'thầy cô'."
     },
     {
@@ -19701,12 +18075,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)hấn trắng\"",
       "blankAnswer": "ph",
       "answer": "ph",
-      "options": [
-        "ngh",
-        "m",
-        "h",
-        "ph"
-      ],
       "explanation": "Điền phụ âm đầu 'ph' để tạo thành từ 'phấn trắng'."
     },
     {
@@ -19718,12 +18086,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)ảng đen\"",
       "blankAnswer": "b",
       "answer": "b",
-      "options": [
-        "kh",
-        "b",
-        "n",
-        "ph"
-      ],
       "explanation": "Điền phụ âm đầu 'b' để tạo thành từ 'bảng đen'."
     },
     {
@@ -19879,12 +18241,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)ặp sách\"",
       "blankAnswer": "c",
       "answer": "c",
-      "options": [
-        "ng",
-        "l",
-        "c",
-        "qu"
-      ],
       "explanation": "Điền phụ âm đầu 'c' để tạo thành từ 'cặp sách'."
     },
     {
@@ -20056,12 +18412,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)út chì\"",
       "blankAnswer": "b",
       "answer": "b",
-      "options": [
-        "b",
-        "ngh",
-        "m",
-        "r"
-      ],
       "explanation": "Điền phụ âm đầu 'b' để tạo thành từ 'bút chì'."
     },
     {
@@ -20105,12 +18455,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)hoai lang\"",
       "blankAnswer": "kh",
       "answer": "kh",
-      "options": [
-        "s",
-        "kh",
-        "n",
-        "ph"
-      ],
       "explanation": "Điền phụ âm đầu 'kh' để tạo thành từ 'khoai lang'."
     },
     {
@@ -20170,12 +18514,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)oay hoay\"",
       "blankAnswer": "l",
       "answer": "l",
-      "options": [
-        "t",
-        "qu",
-        "ng",
-        "l"
-      ],
       "explanation": "Điền phụ âm đầu 'l' để tạo thành từ 'loay hoay'."
     },
     {
@@ -20187,12 +18525,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"mùa (...)uân\"",
       "blankAnswer": "x",
       "answer": "x",
-      "options": [
-        "x",
-        "r",
-        "th",
-        "ngh"
-      ],
       "explanation": "Điền phụ âm đầu 'x' để tạo thành từ 'mùa xuân'."
     },
     {
@@ -20220,12 +18552,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"con (...)huyền\"",
       "blankAnswer": "th",
       "answer": "th",
-      "options": [
-        "tr",
-        "ph",
-        "th",
-        "s"
-      ],
       "explanation": "Điền phụ âm đầu 'th' để tạo thành từ 'con thuyền'."
     },
     {
@@ -20237,12 +18563,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"áo (...)hoác\"",
       "blankAnswer": "kh",
       "answer": "kh",
-      "options": [
-        "v",
-        "qu",
-        "kh",
-        "t"
-      ],
       "explanation": "Điền phụ âm đầu 'kh' để tạo thành từ 'áo khoác'."
     },
     {
@@ -23149,12 +21469,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)oạt động\"",
       "blankAnswer": "h",
       "answer": "h",
-      "options": [
-        "h",
-        "th",
-        "x",
-        "r"
-      ],
       "explanation": "Điền phụ âm đầu 'h' để tạo thành từ 'hoạt động'."
     },
     {
@@ -23166,12 +21480,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)hú mèo\"",
       "blankAnswer": "ch",
       "answer": "ch",
-      "options": [
-        "ch",
-        "b",
-        "s",
-        "tr"
-      ],
       "explanation": "Điền phụ âm đầu 'ch' để tạo thành từ 'chú mèo'."
     },
     {
@@ -23183,12 +21491,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)à trống\"",
       "blankAnswer": "g",
       "answer": "g",
-      "options": [
-        "t",
-        "c",
-        "v",
-        "g"
-      ],
       "explanation": "Điền phụ âm đầu 'g' để tạo thành từ 'gà trống'."
     },
     {
@@ -23216,12 +21518,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)on công\"",
       "blankAnswer": "c",
       "answer": "c",
-      "options": [
-        "x",
-        "th",
-        "ch",
-        "c"
-      ],
       "explanation": "Điền phụ âm đầu 'c' để tạo thành từ 'con công'."
     },
     {
@@ -23297,12 +21593,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)òng sông\"",
       "blankAnswer": "d",
       "answer": "d",
-      "options": [
-        "tr",
-        "d",
-        "b",
-        "gh"
-      ],
       "explanation": "Điền phụ âm đầu 'd' để tạo thành từ 'dòng sông'."
     },
     {
@@ -23314,12 +21604,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)gọn núi\"",
       "blankAnswer": "ng",
       "answer": "ng",
-      "options": [
-        "ng",
-        "v",
-        "c",
-        "đ"
-      ],
       "explanation": "Điền phụ âm đầu 'ng' để tạo thành từ 'ngọn núi'."
     },
     {
@@ -23331,12 +21615,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)ặt trời\"",
       "blankAnswer": "m",
       "answer": "m",
-      "options": [
-        "x",
-        "ch",
-        "m",
-        "g"
-      ],
       "explanation": "Điền phụ âm đầu 'm' để tạo thành từ 'mặt trời'."
     },
     {
@@ -23348,12 +21626,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)oa hồng\"",
       "blankAnswer": "h",
       "answer": "h",
-      "options": [
-        "gh",
-        "b",
-        "h",
-        "d"
-      ],
       "explanation": "Điền phụ âm đầu 'h' để tạo thành từ 'hoa hồng'."
     },
     {
@@ -23461,12 +21733,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)ây dừa\"",
       "blankAnswer": "c",
       "answer": "c",
-      "options": [
-        "c",
-        "h",
-        "m",
-        "đ"
-      ],
       "explanation": "Điền phụ âm đầu 'c' để tạo thành từ 'cây dừa'."
     },
     {
@@ -23478,12 +21744,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)ỏ rực\"",
       "blankAnswer": "đ",
       "answer": "đ",
-      "options": [
-        "đ",
-        "ch",
-        "g",
-        "kh"
-      ],
       "explanation": "Điền phụ âm đầu 'đ' để tạo thành từ 'đỏ rực'."
     },
     {
@@ -23511,12 +21771,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)anh rờn\"",
       "blankAnswer": "x",
       "answer": "x",
-      "options": [
-        "x",
-        "d",
-        "gh",
-        "l"
-      ],
       "explanation": "Điền phụ âm đầu 'x' để tạo thành từ 'xanh rờn'."
     },
     {
@@ -23576,12 +21830,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)hăm chỉ\"",
       "blankAnswer": "ch",
       "answer": "ch",
-      "options": [
-        "ch",
-        "đ",
-        "m",
-        "h"
-      ],
       "explanation": "Điền phụ âm đầu 'ch' để tạo thành từ 'chăm chỉ'."
     },
     {
@@ -23593,12 +21841,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)iêng năng\"",
       "blankAnswer": "s",
       "answer": "s",
-      "options": [
-        "s",
-        "n",
-        "g",
-        "kh"
-      ],
       "explanation": "Điền phụ âm đầu 's' để tạo thành từ 'siêng năng'."
     },
     {
@@ -23690,12 +21932,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)goan ngoãn\"",
       "blankAnswer": "ng",
       "answer": "ng",
-      "options": [
-        "qu",
-        "l",
-        "ng",
-        "gh"
-      ],
       "explanation": "Điền phụ âm đầu 'ng' để tạo thành từ 'ngoan ngoãn'."
     },
     {
@@ -23707,12 +21943,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)hạy bộ\"",
       "blankAnswer": "ch",
       "answer": "ch",
-      "options": [
-        "h",
-        "ngh",
-        "ch",
-        "m"
-      ],
       "explanation": "Điền phụ âm đầu 'ch' để tạo thành từ 'chạy bộ'."
     },
     {
@@ -23724,12 +21954,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)úa hát\"",
       "blankAnswer": "m",
       "answer": "m",
-      "options": [
-        "n",
-        "ph",
-        "m",
-        "kh"
-      ],
       "explanation": "Điền phụ âm đầu 'm' để tạo thành từ 'múa hát'."
     },
     {
@@ -23773,12 +21997,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)ọc bài\"",
       "blankAnswer": "h",
       "answer": "h",
-      "options": [
-        "h",
-        "l",
-        "qu",
-        "ng"
-      ],
       "explanation": "Điền phụ âm đầu 'h' để tạo thành từ 'học bài'."
     },
     {
@@ -23790,12 +22008,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)ưới cây\"",
       "blankAnswer": "t",
       "answer": "t",
-      "options": [
-        "ngh",
-        "m",
-        "r",
-        "t"
-      ],
       "explanation": "Điền phụ âm đầu 't' để tạo thành từ 'tưới cây'."
     },
     {
@@ -23839,12 +22051,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)áy xoay\"",
       "blankAnswer": "m",
       "answer": "m",
-      "options": [
-        "ph",
-        "m",
-        "s",
-        "n"
-      ],
       "explanation": "Điền phụ âm đầu 'm' để tạo thành từ 'máy xoay'."
     },
     {
@@ -23856,12 +22062,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)eo hò\"",
       "blankAnswer": "r",
       "answer": "r",
-      "options": [
-        "ng",
-        "t",
-        "r",
-        "qu"
-      ],
       "explanation": "Điền phụ âm đầu 'r' để tạo thành từ 'reo hò'."
     },
     {
@@ -23873,12 +22073,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)hầy cô\"",
       "blankAnswer": "th",
       "answer": "th",
-      "options": [
-        "ngh",
-        "x",
-        "th",
-        "r"
-      ],
       "explanation": "Điền phụ âm đầu 'th' để tạo thành từ 'thầy cô'."
     },
     {
@@ -23890,12 +22084,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)hấn trắng\"",
       "blankAnswer": "ph",
       "answer": "ph",
-      "options": [
-        "s",
-        "ph",
-        "b",
-        "tr"
-      ],
       "explanation": "Điền phụ âm đầu 'ph' để tạo thành từ 'phấn trắng'."
     },
     {
@@ -23907,12 +22095,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)ảng đen\"",
       "blankAnswer": "b",
       "answer": "b",
-      "options": [
-        "qu",
-        "t",
-        "b",
-        "v"
-      ],
       "explanation": "Điền phụ âm đầu 'b' để tạo thành từ 'bảng đen'."
     },
     {
@@ -23924,12 +22106,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)ặp sách\"",
       "blankAnswer": "c",
       "answer": "c",
-      "options": [
-        "c",
-        "x",
-        "r",
-        "th"
-      ],
       "explanation": "Điền phụ âm đầu 'c' để tạo thành từ 'cặp sách'."
     },
     {
@@ -23941,12 +22117,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)út chì\"",
       "blankAnswer": "b",
       "answer": "b",
-      "options": [
-        "tr",
-        "b",
-        "s",
-        "d"
-      ],
       "explanation": "Điền phụ âm đầu 'b' để tạo thành từ 'bút chì'."
     },
     {
@@ -23958,12 +22128,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)hoai lang\"",
       "blankAnswer": "kh",
       "answer": "kh",
-      "options": [
-        "c",
-        "v",
-        "t",
-        "kh"
-      ],
       "explanation": "Điền phụ âm đầu 'kh' để tạo thành từ 'khoai lang'."
     },
     {
@@ -23975,12 +22139,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)oay hoay\"",
       "blankAnswer": "l",
       "answer": "l",
-      "options": [
-        "x",
-        "th",
-        "ch",
-        "l"
-      ],
       "explanation": "Điền phụ âm đầu 'l' để tạo thành từ 'loay hoay'."
     },
     {
@@ -24040,12 +22198,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"mùa (...)uân\"",
       "blankAnswer": "x",
       "answer": "x",
-      "options": [
-        "tr",
-        "b",
-        "x",
-        "d"
-      ],
       "explanation": "Điền phụ âm đầu 'x' để tạo thành từ 'mùa xuân'."
     },
     {
@@ -24105,12 +22257,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"con (...)huyền\"",
       "blankAnswer": "th",
       "answer": "th",
-      "options": [
-        "c",
-        "đ",
-        "th",
-        "v"
-      ],
       "explanation": "Điền phụ âm đầu 'th' để tạo thành từ 'con thuyền'."
     },
     {
@@ -24154,12 +22300,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"áo (...)hoác\"",
       "blankAnswer": "kh",
       "answer": "kh",
-      "options": [
-        "x",
-        "ch",
-        "g",
-        "kh"
-      ],
       "explanation": "Điền phụ âm đầu 'kh' để tạo thành từ 'áo khoác'."
     },
     {
@@ -24490,12 +22630,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)oạt động\"",
       "blankAnswer": "h",
       "answer": "h",
-      "options": [
-        "b",
-        "h",
-        "d",
-        "gh"
-      ],
       "explanation": "Điền phụ âm đầu 'h' để tạo thành từ 'hoạt động'."
     },
     {
@@ -24587,12 +22721,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)hú mèo\"",
       "blankAnswer": "ch",
       "answer": "ch",
-      "options": [
-        "ch",
-        "đ",
-        "c",
-        "h"
-      ],
       "explanation": "Điền phụ âm đầu 'ch' để tạo thành từ 'chú mèo'."
     },
     {
@@ -24604,12 +22732,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)à trống\"",
       "blankAnswer": "g",
       "answer": "g",
-      "options": [
-        "g",
-        "ch",
-        "n",
-        "kh"
-      ],
       "explanation": "Điền phụ âm đầu 'g' để tạo thành từ 'gà trống'."
     },
     {
@@ -24685,12 +22807,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)on công\"",
       "blankAnswer": "c",
       "answer": "c",
-      "options": [
-        "d",
-        "c",
-        "l",
-        "gh"
-      ],
       "explanation": "Điền phụ âm đầu 'c' để tạo thành từ 'con công'."
     },
     {
@@ -24734,12 +22850,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)òng sông\"",
       "blankAnswer": "d",
       "answer": "d",
-      "options": [
-        "đ",
-        "h",
-        "m",
-        "d"
-      ],
       "explanation": "Điền phụ âm đầu 'd' để tạo thành từ 'dòng sông'."
     },
     {
@@ -24751,12 +22861,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)gọn núi\"",
       "blankAnswer": "ng",
       "answer": "ng",
-      "options": [
-        "g",
-        "ng",
-        "n",
-        "kh"
-      ],
       "explanation": "Điền phụ âm đầu 'ng' để tạo thành từ 'ngọn núi'."
     },
     {
@@ -24768,12 +22872,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)ặt trời\"",
       "blankAnswer": "m",
       "answer": "m",
-      "options": [
-        "ng",
-        "l",
-        "m",
-        "gh"
-      ],
       "explanation": "Điền phụ âm đầu 'm' để tạo thành từ 'mặt trời'."
     },
     {
@@ -24801,12 +22899,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)oa hồng\"",
       "blankAnswer": "h",
       "answer": "h",
-      "options": [
-        "m",
-        "ngh",
-        "r",
-        "h"
-      ],
       "explanation": "Điền phụ âm đầu 'h' để tạo thành từ 'hoa hồng'."
     },
     {
@@ -24994,12 +23086,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)ây dừa\"",
       "blankAnswer": "c",
       "answer": "c",
-      "options": [
-        "c",
-        "n",
-        "kh",
-        "ph"
-      ],
       "explanation": "Điền phụ âm đầu 'c' để tạo thành từ 'cây dừa'."
     },
     {
@@ -25027,12 +23113,6 @@
       "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)ỏ rực\"",
       "blankAnswer": "đ",
       "answer": "đ",
-      "options": [
-        "l",
-        "qu",
-        "đ",
-        "ng"
-      ],
       "explanation": "Điền phụ âm đầu 'đ' để tạo thành từ 'đỏ rực'."
     },
     {

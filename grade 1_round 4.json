@@ -1155,8 +1155,8 @@
         "Uống nước",
         "nhớ người"
       ],
-      "answer": "Uống nước nhớ người đào giếng",
-      "explanation": "Câu thành ngữ/tục ngữ đúng là: 'Uống nước nhớ người đào giếng'. Hưởng trái ngọt nhớ công người trồng cây, uống nước mát nhớ ơn người đào giếng.",
+      "answer": "Uống nước nhớ nguồn",
+      "explanation": "Câu thành ngữ/tục ngữ đúng là: 'Uống nước nhớ nguồn'. Hưởng trái ngọt nhớ công người trồng cây, uống nước mát nhớ ơn nguồn.",
       "id": 65
     },
     {
@@ -1548,7 +1548,7 @@
       "columnB": {
         "A": "người có tông",
         "B": "gần đèn thì sáng",
-        "C": "nhớ người đào giếng",
+        "C": "nhớ nguồn",
         "D": "đùm lá rách"
       },
       "answer": {
@@ -1557,7 +1557,7 @@
         "3": "C",
         "4": "D"
       },
-      "explanation": "Nối đúng các cặp tương ứng: 1-B: Gần mực thì đen ~ gần đèn thì sáng; 2-A: Chim có tổ ~ người có tông; 3-C: Uống nước ~ nhớ người đào giếng; 4-D: Lá lành ~ đùm lá rách.",
+      "explanation": "Nối đúng các cặp tương ứng: 1-B: Gần mực thì đen ~ gần đèn thì sáng; 2-A: Chim có tổ ~ người có tông; 3-C: Uống nước ~ nhớ nguồn; 4-D: Lá lành ~ đùm lá rách.",
       "id": 88
     },
     {
@@ -2051,7 +2051,7 @@
       },
       "columnB": {
         "A": "cả tàu bỏ cỏ",
-        "B": "nhớ người đào giếng",
+        "B": "nhớ nguồn",
         "C": "có ngày nên kim",
         "D": "là hoa đất"
       },
@@ -2061,7 +2061,7 @@
         "3": "B",
         "4": "A"
       },
-      "explanation": "Nối đúng các cặp tương ứng: 1-C: Có công mài sắt ~ có ngày nên kim; 2-D: Người ta ~ là hoa đất; 3-B: Uống nước ~ nhớ người đào giếng; 4-A: Một con ngựa đau ~ cả tàu bỏ cỏ.",
+      "explanation": "Nối đúng các cặp tương ứng: 1-C: Có công mài sắt ~ có ngày nên kim; 2-D: Người ta ~ là hoa đất; 3-B: Uống nước ~ nhớ nguồn; 4-A: Một con ngựa đau ~ cả tàu bỏ cỏ.",
       "id": 106
     },
     {
@@ -2381,12 +2381,6 @@
       "question": "Điền chữ cái hoặc âm thích hợp vào chỗ trống: \"con (...)á\"",
       "blankAnswer": "c",
       "answer": "c",
-      "options": [
-        "q",
-        "k",
-        "c",
-        "tr"
-      ],
       "explanation": "Từ đúng chính tả là 'cá', do đó âm cần điền là 'c'.",
       "id": 118
     },
@@ -2399,12 +2393,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Gần mực thì đen gần (...) thì sáng\"",
       "blankAnswer": "đèn",
       "answer": "đèn",
-      "options": [
-        "bạn",
-        "vàng",
-        "khôn",
-        "đèn"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Gần mực thì đen gần đèn thì sáng\". Ở gần người tốt sẽ học được điều hay, ở gần người xấu dễ bị lây thói hư tật xấu.",
       "id": 119
     },
@@ -2417,12 +2405,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Có công mài sắt có ngày nên (...)\"",
       "blankAnswer": "kim",
       "answer": "kim",
-      "options": [
-        "khôn",
-        "vàng",
-        "kim",
-        "bạn"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Có công mài sắt có ngày nên kim\". Chỉ cần kiên trì, nỗ lực và nhẫn nại thì việc khó khăn đến mấy cũng sẽ thành công.",
       "id": 120
     },
@@ -2435,12 +2417,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Chị ngã em (...)\"",
       "blankAnswer": "nâng",
       "answer": "nâng",
-      "options": [
-        "kim",
-        "trồng",
-        "nâng",
-        "vàng"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Chị ngã em nâng\". Anh chị em trong một nhà phải biết nâng đỡ, thương yêu, che chở cho nhau.",
       "id": 121
     },
@@ -2453,12 +2429,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Một cây làm chẳng nên non, ba cây chụm lại nên hòn (...)\"",
       "blankAnswer": "núi cao",
       "answer": "núi cao",
-      "options": [
-        "ngay",
-        "bạn",
-        "trồng",
-        "núi cao"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao\". Một người lẻ loi khó làm việc lớn, nhưng khi đoàn kết lại sẽ tạo nên sức mạnh vô địch.",
       "id": 122
     },
@@ -2471,12 +2441,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Cây (...) không sợ chết đứng\"",
       "blankAnswer": "ngay",
       "answer": "ngay",
-      "options": [
-        "khôn",
-        "đèn",
-        "ngay",
-        "trồng"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Cây ngay không sợ chết đứng\". Người sống ngay thẳng, thật thà thì không sợ bất kì lời vu khống hay thử thách nào.",
       "id": 123
     },
@@ -2489,12 +2453,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Một con ngựa đau cả tàu (...)\"",
       "blankAnswer": "bỏ cỏ",
       "answer": "bỏ cỏ",
-      "options": [
-        "sạch",
-        "ngay",
-        "đùm",
-        "bỏ cỏ"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Một con ngựa đau cả tàu bỏ cỏ\". Khi một cá nhân gặp nạn, toàn thể tập thể đều chia sẻ nỗi buồn và tương trợ.",
       "id": 124
     },
@@ -2507,12 +2465,6 @@
       "question": "Điền chữ cái hoặc âm thích hợp vào chỗ trống: \"cái (...)ế\"",
       "blankAnswer": "gh",
       "answer": "gh",
-      "options": [
-        "d",
-        "gh",
-        "g",
-        "r"
-      ],
       "explanation": "Từ đúng chính tả là 'ghế', do đó âm cần điền là 'gh'.",
       "id": 125
     },
@@ -2525,12 +2477,6 @@
       "question": "Điền chữ cái hoặc âm thích hợp vào chỗ trống: \"cây (...)e\"",
       "blankAnswer": "tr",
       "answer": "tr",
-      "options": [
-        "r",
-        "tr",
-        "t",
-        "ch"
-      ],
       "explanation": "Từ đúng chính tả là 'cây tre', do đó âm cần điền là 'tr'.",
       "id": 126
     },
@@ -2543,12 +2489,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Lửa thử vàng gian nan (...)\"",
       "blankAnswer": "thử sức",
       "answer": "thử sức",
-      "options": [
-        "bạn",
-        "thử sức",
-        "ngay",
-        "sạch"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Lửa thử vàng gian nan thử sức\". Khó khăn thử thách là thước đo lòng kiên định và bản lĩnh con người.",
       "id": 127
     },
@@ -2561,12 +2501,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Bầu ơi (...) lấy bí cùng, tuy rằng khác giống nhưng chung một giàn\"",
       "blankAnswer": "thương",
       "answer": "thương",
-      "options": [
-        "trồng",
-        "bạn",
-        "vàng",
-        "thương"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Bầu ơi thương lấy bí cùng, tuy rằng khác giống nhưng chung một giàn\". Dù xuất thân khác nhau nhưng cùng chung sống một đất nước thì phải thương yêu nhau.",
       "id": 128
     },
@@ -2579,12 +2513,6 @@
       "question": "Điền chữ cái hoặc âm thích hợp vào chỗ trống: \"dòng (...)ông\"",
       "blankAnswer": "s",
       "answer": "s",
-      "options": [
-        "x",
-        "r",
-        "s",
-        "d"
-      ],
       "explanation": "Từ đúng chính tả là 'dòng sông', do đó âm cần điền là 's'.",
       "id": 129
     },
@@ -2597,12 +2525,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Nhiễu điều phủ lấy giá gương, người trong một nước phải (...) nhau cùng\"",
       "blankAnswer": "thương",
       "answer": "thương",
-      "options": [
-        "bạn",
-        "trồng",
-        "nguồn",
-        "thương"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Nhiễu điều phủ lấy giá gương, người trong một nước phải thương nhau cùng\". Đồng bào cùng một giang sơn phải luôn đùm bọc, giúp đỡ lẫn nhau.",
       "id": 130
     },
@@ -2615,12 +2537,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Lá lành (...) lá rách\"",
       "blankAnswer": "đùm",
       "answer": "đùm",
-      "options": [
-        "trồng",
-        "đèn",
-        "khôn",
-        "đùm"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Lá lành đùm lá rách\". Khuyên con người phải biết đùm bọc, giúp đỡ lẫn nhau khi gặp hoạn nạn, khó khăn.",
       "id": 131
     },
@@ -2633,12 +2549,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Đi một ngày đàng học một sàng (...)\"",
       "blankAnswer": "khôn",
       "answer": "khôn",
-      "options": [
-        "đèn",
-        "vàng",
-        "trồng",
-        "khôn"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Đi một ngày đàng học một sàng khôn\". Càng đi nhiều nơi, trải nghiệm thực tế ta càng tích lũy được nhiều hiểu biết, trí tuệ.",
       "id": 132
     },
@@ -2651,12 +2561,6 @@
       "question": "Điền chữ cái hoặc âm thích hợp vào chỗ trống: \"(...)àng xóm\"",
       "blankAnswer": "l",
       "answer": "l",
-      "options": [
-        "v",
-        "l",
-        "n",
-        "d"
-      ],
       "explanation": "Từ đúng chính tả là 'làng xóm', do đó âm cần điền là 'l'.",
       "id": 133
     },
@@ -2669,12 +2573,6 @@
       "question": "Điền chữ cái hoặc âm thích hợp vào chỗ trống: \"(...)ụ cười\"",
       "blankAnswer": "n",
       "answer": "n",
-      "options": [
-        "l",
-        "m",
-        "đ",
-        "n"
-      ],
       "explanation": "Từ đúng chính tả là 'nụ cười', do đó âm cần điền là 'n'.",
       "id": 134
     },
@@ -2687,12 +2585,6 @@
       "question": "Điền chữ cái hoặc âm thích hợp vào chỗ trống: \"(...)ỉ ngơi\"",
       "blankAnswer": "ngh",
       "answer": "ngh",
-      "options": [
-        "ngh",
-        "nh",
-        "ng",
-        "gh"
-      ],
       "explanation": "Từ đúng chính tả là 'nghỉ ngơi', do đó âm cần điền là 'ngh'.",
       "id": 135
     },
@@ -2705,13 +2597,7 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Uống nước nhớ người (...)\"",
       "blankAnswer": "đào giếng",
       "answer": "đào giếng",
-      "options": [
-        "đào giếng",
-        "bạn",
-        "khôn",
-        "sạch"
-      ],
-      "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Uống nước nhớ người đào giếng\". Hưởng trái ngọt nhớ công người trồng cây, uống nước mát nhớ ơn người đào giếng.",
+      "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Uống nước nhớ nguồn\". Hưởng trái ngọt nhớ công người trồng cây, uống nước mát nhớ ơn nguồn.",
       "id": 136
     },
     {
@@ -2723,12 +2609,6 @@
       "question": "Điền chữ cái hoặc âm thích hợp vào chỗ trống: \"(...)ăm chỉ\"",
       "blankAnswer": "ch",
       "answer": "ch",
-      "options": [
-        "s",
-        "ch",
-        "c",
-        "tr"
-      ],
       "explanation": "Từ đúng chính tả là 'chăm chỉ', do đó âm cần điền là 'ch'.",
       "id": 137
     },
@@ -2741,12 +2621,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Uống nước nhớ (...)\"",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "trồng",
-        "kim",
-        "sạch"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Uống nước nhớ nguồn\". Nhắc nhở con cháu phải ghi nhớ cội nguồn, tổ tiên và những người đã giúp đỡ mình.",
       "id": 138
     },
@@ -2759,12 +2633,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Chim có tổ người có (...)\"",
       "blankAnswer": "tông",
       "answer": "tông",
-      "options": [
-        "thật",
-        "nâng",
-        "đùm",
-        "tông"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Chim có tổ người có tông\". Mỗi con người đều có tổ tiên, cội nguồn giống như loài chim có tổ để về.",
       "id": 139
     },
@@ -2777,12 +2645,6 @@
       "question": "Điền chữ cái hoặc âm thích hợp vào chỗ trống: \"con (...)à\"",
       "blankAnswer": "g",
       "answer": "g",
-      "options": [
-        "k",
-        "g",
-        "gi",
-        "gh"
-      ],
       "explanation": "Từ đúng chính tả là 'gà', do đó âm cần điền là 'g'.",
       "id": 140
     },
@@ -2795,12 +2657,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Thương người như thể (...)\"",
       "blankAnswer": "thương thân",
       "answer": "thương thân",
-      "options": [
-        "nguồn",
-        "bạn",
-        "đèn",
-        "thương thân"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Thương người như thể thương thân\". Yêu thương người khác như yêu quý chính bản thân mình.",
       "id": 141
     },
@@ -2813,12 +2669,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Ăn quả nhớ kẻ (...) cây\"",
       "blankAnswer": "trồng",
       "answer": "trồng",
-      "options": [
-        "bạn",
-        "kim",
-        "nâng",
-        "trồng"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Ăn quả nhớ kẻ trồng cây\". Khuyên nhủ con người khi được hưởng thành quả phải luôn biết ơn công lao người tạo dựng.",
       "id": 142
     },
@@ -2831,12 +2681,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Thuận vợ thuận chồng tát (...) cũng cạn\"",
       "blankAnswer": "biển Đông",
       "answer": "biển Đông",
-      "options": [
-        "sạch",
-        "đùm",
-        "đèn",
-        "biển Đông"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Thuận vợ thuận chồng tát biển Đông cũng cạn\". Sự đồng lòng, hòa thuận trong gia đình giúp vượt qua mọi gian khó.",
       "id": 143
     },
@@ -2849,12 +2693,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Ăn ngay nói (...) mọi tật mọi lành\"",
       "blankAnswer": "thật",
       "answer": "thật",
-      "options": [
-        "thật",
-        "trồng",
-        "nguồn",
-        "sạch"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Ăn ngay nói thật mọi tật mọi lành\". Sống chân thành, trung thực thì tâm hồn luôn thanh thản và bình an.",
       "id": 144
     },
@@ -2867,12 +2705,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Học thầy không tày học (...)\"",
       "blankAnswer": "bạn",
       "answer": "bạn",
-      "options": [
-        "nguồn",
-        "vàng",
-        "thật",
-        "bạn"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Học thầy không tày học bạn\". Nhấn mạnh vai trò to lớn của việc học hỏi từ bạn bè xung quanh.",
       "id": 145
     },
@@ -2885,12 +2717,6 @@
       "question": "Điền chữ cái hoặc âm thích hợp vào chỗ trống: \"(...)ôi sao\"",
       "blankAnswer": "ng",
       "answer": "ng",
-      "options": [
-        "ngh",
-        "ng",
-        "m",
-        "nh"
-      ],
       "explanation": "Từ đúng chính tả là 'ngôi sao', do đó âm cần điền là 'ng'.",
       "id": 146
     },
@@ -2903,12 +2729,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Lời nói chẳng mất tiền mua, lựa lời mà nói cho vừa lòng (...)\"",
       "blankAnswer": "nhau",
       "answer": "nhau",
-      "options": [
-        "ngay",
-        "thật",
-        "nhau",
-        "khôn"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Lời nói chẳng mất tiền mua, lựa lời mà nói cho vừa lòng nhau\". Khi giao tiếp cần ăn nói lịch thiệp, nhã nhặn và tế nhị.",
       "id": 147
     },
@@ -2921,12 +2741,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Người ta là (...)\"",
       "blankAnswer": "hoa đất",
       "answer": "hoa đất",
-      "options": [
-        "hoa đất",
-        "khôn",
-        "sạch",
-        "kim"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Người ta là hoa đất\". Ca ngợi con người là tinh hoa quý báu nhất của vũ trụ và mặt đất.",
       "id": 148
     },
@@ -2939,12 +2753,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Tấc đất tấc (...)\"",
       "blankAnswer": "vàng",
       "answer": "vàng",
-      "options": [
-        "nâng",
-        "đèn",
-        "sạch",
-        "vàng"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Tấc đất tấc vàng\". Mỗi tấc đất đều vô cùng quý giá như vàng vì đem lại nguồn sống cho con người.",
       "id": 149
     },
@@ -2957,12 +2765,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Công cha như núi (...), nghĩa mẹ như nước trong nguồn chảy ra\"",
       "blankAnswer": "Thái Sơn",
       "answer": "Thái Sơn",
-      "options": [
-        "đùm",
-        "ngay",
-        "Thái Sơn",
-        "trồng"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Công cha như núi Thái Sơn, nghĩa mẹ như nước trong nguồn chảy ra\". Công ơn sinh thành dưỡng dục của cha mẹ to lớn vô bờ bến không gì sánh bằng.",
       "id": 150
     },
@@ -2975,12 +2777,6 @@
       "question": "Điền chữ cái hoặc âm thích hợp vào chỗ trống: \"(...)e đạp\"",
       "blankAnswer": "x",
       "answer": "x",
-      "options": [
-        "tr",
-        "ch",
-        "x",
-        "s"
-      ],
       "explanation": "Từ đúng chính tả là 'xe đạp', do đó âm cần điền là 'x'.",
       "id": 151
     },
@@ -2993,12 +2789,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Đói cho (...) rách cho thơm\"",
       "blankAnswer": "sạch",
       "answer": "sạch",
-      "options": [
-        "thật",
-        "khôn",
-        "nguồn",
-        "sạch"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Đói cho sạch rách cho thơm\". Dù trong hoàn cảnh thiếu thốn bần hàn vẫn phải giữ gìn nhân cách và danh dự trong sạch.",
       "id": 152
     },
@@ -3011,12 +2801,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Vạn sự khởi đầu (...)\"",
       "blankAnswer": "nan",
       "answer": "nan",
-      "options": [
-        "nan",
-        "sạch",
-        "nâng",
-        "vàng"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Vạn sự khởi đầu nan\". Bất kì công việc gì lúc bắt đầu cũng đều gặp nhiều gian truân, thử thách.",
       "id": 153
     },
@@ -3029,12 +2813,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Chớ thấy sóng cả mà ngã tay (...)\"",
       "blankAnswer": "chèo",
       "answer": "chèo",
-      "options": [
-        "chèo",
-        "ngay",
-        "vàng",
-        "nâng"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Chớ thấy sóng cả mà ngã tay chèo\". Đừng vì thấy khó khăn, nguy nan mà nản lòng, buông xuôi ý chí.",
       "id": 154
     },
@@ -15791,12 +15569,6 @@
       "question": "Điền âm đầu thích hợp: “(...)á vàng bơi trong bể. (bài 1).",
       "blankAnswer": "c",
       "answer": "c",
-      "options": [
-        "đẹp",
-        "gi",
-        "c",
-        "sạch"
-      ],
       "explanation": "Điền 'c' để câu có nghĩa và đúng chính tả.",
       "id": 842
     },
@@ -15809,12 +15581,6 @@
       "question": "Điền âm đầu thích hợp: “(...)im sâu chuyền cành. (bài 2).",
       "blankAnswer": "ch",
       "answer": "ch",
-      "options": [
-        "ch",
-        "ngoan",
-        "t",
-        "sân"
-      ],
       "explanation": "Điền 'ch' để câu có nghĩa và đúng chính tả.",
       "id": 843
     },
@@ -15827,12 +15593,6 @@
       "question": "Điền âm đầu thích hợp: “(...)uối chín có vị ngọt. (bài 3).",
       "blankAnswer": "ch",
       "answer": "ch",
-      "options": [
-        "đẹp",
-        "uống",
-        "đọc",
-        "ch"
-      ],
       "explanation": "Điền 'ch' để câu có nghĩa và đúng chính tả.",
       "id": 844
     },
@@ -15845,12 +15605,6 @@
       "question": "Điền tiếng còn thiếu: “Bé (...) bài rất chăm. (bài 4).",
       "blankAnswer": "học",
       "answer": "học",
-      "options": [
-        "học",
-        "gh",
-        "cây",
-        "ngh"
-      ],
       "explanation": "Điền 'học' để câu có nghĩa và đúng chính tả.",
       "id": 845
     },
@@ -15863,12 +15617,6 @@
       "question": "Điền từ thích hợp: “Mẹ nấu (...) cho cả nhà. (bài 5).",
       "blankAnswer": "cơm",
       "answer": "cơm",
-      "options": [
-        "nắng",
-        "cơm",
-        "d",
-        "uống"
-      ],
       "explanation": "Điền 'cơm' để câu có nghĩa và đúng chính tả.",
       "id": 846
     },
@@ -15881,12 +15629,6 @@
       "question": "Điền tiếng còn thiếu: “Trời (...) sau cơn mưa. (bài 6).",
       "blankAnswer": "mát",
       "answer": "mát",
-      "options": [
-        "mát",
-        "l",
-        "n",
-        "ng"
-      ],
       "explanation": "Điền 'mát' để câu có nghĩa và đúng chính tả.",
       "id": 847
     },
@@ -15899,12 +15641,6 @@
       "question": "Điền tiếng còn thiếu: “Bé (...) lời cô dạy. (bài 7).",
       "blankAnswer": "vâng",
       "answer": "vâng",
-      "options": [
-        "bút",
-        "vâng",
-        "l",
-        "đẹp"
-      ],
       "explanation": "Điền 'vâng' để câu có nghĩa và đúng chính tả.",
       "id": 848
     },
@@ -15917,12 +15653,6 @@
       "question": "Điền từ thích hợp: “Đàn chim bay trên (...) xanh. (bài 8).",
       "blankAnswer": "bầu trời",
       "answer": "bầu trời",
-      "options": [
-        "gi",
-        "c",
-        "bầu trời",
-        "t"
-      ],
       "explanation": "Điền 'bầu trời' để câu có nghĩa và đúng chính tả.",
       "id": 849
     },
@@ -15935,12 +15665,6 @@
       "question": "Điền tiếng còn thiếu: “Em giữ gìn (...) vở sạch đẹp. (bài 9).",
       "blankAnswer": "sách",
       "answer": "sách",
-      "options": [
-        "g",
-        "k",
-        "chơi",
-        "sách"
-      ],
       "explanation": "Điền 'sách' để câu có nghĩa và đúng chính tả.",
       "id": 850
     },
@@ -15953,12 +15677,6 @@
       "question": "Điền từ thích hợp: “Bố (...) cây trước sân. (bài 10).",
       "blankAnswer": "tưới",
       "answer": "tưới",
-      "options": [
-        "tưới",
-        "tr",
-        "d",
-        "học"
-      ],
       "explanation": "Điền 'tưới' để câu có nghĩa và đúng chính tả.",
       "id": 851
     },
@@ -15971,12 +15689,6 @@
       "question": "Điền tiếng còn thiếu: “Chú (...) đang gặm cỏ. (bài 11).",
       "blankAnswer": "dê",
       "answer": "dê",
-      "options": [
-        "l",
-        "dê",
-        "ch",
-        "học"
-      ],
       "explanation": "Điền 'dê' để câu có nghĩa và đúng chính tả.",
       "id": 852
     },
@@ -15989,12 +15701,6 @@
       "question": "Điền tiếng còn thiếu: “Bé (...) răng trước khi ngủ. (bài 12).",
       "blankAnswer": "đánh",
       "answer": "đánh",
-      "options": [
-        "vui",
-        "b",
-        "đánh",
-        "cây"
-      ],
       "explanation": "Điền 'đánh' để câu có nghĩa và đúng chính tả.",
       "id": 853
     },
@@ -16007,12 +15713,6 @@
       "question": "Điền từ thích hợp: “Bà kể chuyện (...) cho em nghe. (bài 13).",
       "blankAnswer": "cổ tích",
       "answer": "cổ tích",
-      "options": [
-        "sạch",
-        "cây",
-        "cổ tích",
-        "mưa"
-      ],
       "explanation": "Điền 'cổ tích' để câu có nghĩa và đúng chính tả.",
       "id": 854
     },
@@ -16025,12 +15725,6 @@
       "question": "Điền tiếng còn thiếu: “Hoa sen nở trong (...) nước. (bài 14).",
       "blankAnswer": "đầm",
       "answer": "đầm",
-      "options": [
-        "ng",
-        "bút",
-        "đầm",
-        "gh"
-      ],
       "explanation": "Điền 'đầm' để câu có nghĩa và đúng chính tả.",
       "id": 855
     },
@@ -16043,12 +15737,6 @@
       "question": "Điền từ thích hợp: “Em xếp hàng ngay (...) trước lớp. (bài 15).",
       "blankAnswer": "ngắn",
       "answer": "ngắn",
-      "options": [
-        "sạch",
-        "ngắn",
-        "nắng",
-        "c"
-      ],
       "explanation": "Điền 'ngắn' để câu có nghĩa và đúng chính tả.",
       "id": 856
     },
@@ -16061,12 +15749,6 @@
       "question": "Điền tiếng còn thiếu: “Mùa hè có tiếng ve (...) rả. (bài 16).",
       "blankAnswer": "kêu",
       "answer": "kêu",
-      "options": [
-        "nắng",
-        "ch",
-        "kêu",
-        "v"
-      ],
       "explanation": "Điền 'kêu' để câu có nghĩa và đúng chính tả.",
       "id": 857
     },
@@ -16079,12 +15761,6 @@
       "question": "Điền từ thích hợp: “Chúng em cùng nhau (...) vệ sinh lớp học. (bài 17).",
       "blankAnswer": "giữ",
       "answer": "giữ",
-      "options": [
-        "giữ",
-        "nhà",
-        "mưa",
-        "qu"
-      ],
       "explanation": "Điền 'giữ' để câu có nghĩa và đúng chính tả.",
       "id": 858
     },
@@ -16097,12 +15773,6 @@
       "question": "Điền âm đầu thích hợp: “(...)á vàng bơi trong bể. (bài 18).",
       "blankAnswer": "c",
       "answer": "c",
-      "options": [
-        "hoa",
-        "nhà",
-        "t",
-        "c"
-      ],
       "explanation": "Điền 'c' để câu có nghĩa và đúng chính tả.",
       "id": 859
     },
@@ -16115,12 +15785,6 @@
       "question": "Điền âm đầu thích hợp: “(...)im sâu chuyền cành. (bài 19).",
       "blankAnswer": "ch",
       "answer": "ch",
-      "options": [
-        "ch",
-        "gh",
-        "qu",
-        "d"
-      ],
       "explanation": "Điền 'ch' để câu có nghĩa và đúng chính tả.",
       "id": 860
     },
@@ -16133,12 +15797,6 @@
       "question": "Điền âm đầu thích hợp: “(...)uối chín có vị ngọt. (bài 20).",
       "blankAnswer": "ch",
       "answer": "ch",
-      "options": [
-        "n",
-        "ch",
-        "ngh",
-        "vở"
-      ],
       "explanation": "Điền 'ch' để câu có nghĩa và đúng chính tả.",
       "id": 861
     },
@@ -16151,12 +15809,6 @@
       "question": "Điền tiếng còn thiếu: “Bé (...) bài rất chăm. (bài 21).",
       "blankAnswer": "học",
       "answer": "học",
-      "options": [
-        "uống",
-        "học",
-        "đ",
-        "tr"
-      ],
       "explanation": "Điền 'học' để câu có nghĩa và đúng chính tả.",
       "id": 862
     },
@@ -16169,12 +15821,6 @@
       "question": "Điền từ thích hợp: “Mẹ nấu (...) cho cả nhà. (bài 22).",
       "blankAnswer": "cơm",
       "answer": "cơm",
-      "options": [
-        "đọc",
-        "vở",
-        "l",
-        "cơm"
-      ],
       "explanation": "Điền 'cơm' để câu có nghĩa và đúng chính tả.",
       "id": 863
     },
@@ -16187,12 +15833,6 @@
       "question": "Điền tiếng còn thiếu: “Trời (...) sau cơn mưa. (bài 23).",
       "blankAnswer": "mát",
       "answer": "mát",
-      "options": [
-        "c",
-        "mát",
-        "viết",
-        "t"
-      ],
       "explanation": "Điền 'mát' để câu có nghĩa và đúng chính tả.",
       "id": 864
     },
@@ -16205,12 +15845,6 @@
       "question": "Điền tiếng còn thiếu: “Bé (...) lời cô dạy. (bài 24).",
       "blankAnswer": "vâng",
       "answer": "vâng",
-      "options": [
-        "ph",
-        "m",
-        "vâng",
-        "viết"
-      ],
       "explanation": "Điền 'vâng' để câu có nghĩa và đúng chính tả.",
       "id": 865
     },
@@ -16223,12 +15857,6 @@
       "question": "Điền từ thích hợp: “Đàn chim bay trên (...) xanh. (bài 25).",
       "blankAnswer": "bầu trời",
       "answer": "bầu trời",
-      "options": [
-        "v",
-        "bầu trời",
-        "ng",
-        "d"
-      ],
       "explanation": "Điền 'bầu trời' để câu có nghĩa và đúng chính tả.",
       "id": 866
     },
@@ -16241,12 +15869,6 @@
       "question": "Điền tiếng còn thiếu: “Em giữ gìn (...) vở sạch đẹp. (bài 26).",
       "blankAnswer": "sách",
       "answer": "sách",
-      "options": [
-        "ngoan",
-        "t",
-        "uống",
-        "sách"
-      ],
       "explanation": "Điền 'sách' để câu có nghĩa và đúng chính tả.",
       "id": 867
     },
@@ -16259,12 +15881,6 @@
       "question": "Điền từ thích hợp: “Bố (...) cây trước sân. (bài 27).",
       "blankAnswer": "tưới",
       "answer": "tưới",
-      "options": [
-        "r",
-        "ngoan",
-        "viết",
-        "tưới"
-      ],
       "explanation": "Điền 'tưới' để câu có nghĩa và đúng chính tả.",
       "id": 868
     },
@@ -16277,12 +15893,6 @@
       "question": "Điền tiếng còn thiếu: “Chú (...) đang gặm cỏ. (bài 28).",
       "blankAnswer": "dê",
       "answer": "dê",
-      "options": [
-        "đẹp",
-        "t",
-        "dê",
-        "k"
-      ],
       "explanation": "Điền 'dê' để câu có nghĩa và đúng chính tả.",
       "id": 869
     },
@@ -16295,12 +15905,6 @@
       "question": "Điền tiếng còn thiếu: “Bé (...) răng trước khi ngủ. (bài 29).",
       "blankAnswer": "đánh",
       "answer": "đánh",
-      "options": [
-        "gh",
-        "đ",
-        "d",
-        "đánh"
-      ],
       "explanation": "Điền 'đánh' để câu có nghĩa và đúng chính tả.",
       "id": 870
     },
@@ -16313,12 +15917,6 @@
       "question": "Điền từ thích hợp: “Bà kể chuyện (...) cho em nghe. (bài 30).",
       "blankAnswer": "cổ tích",
       "answer": "cổ tích",
-      "options": [
-        "cổ tích",
-        "k",
-        "vở",
-        "bút"
-      ],
       "explanation": "Điền 'cổ tích' để câu có nghĩa và đúng chính tả.",
       "id": 871
     },
@@ -16331,12 +15929,6 @@
       "question": "Điền tiếng còn thiếu: “Hoa sen nở trong (...) nước. (bài 31).",
       "blankAnswer": "đầm",
       "answer": "đầm",
-      "options": [
-        "học",
-        "đ",
-        "sân",
-        "đầm"
-      ],
       "explanation": "Điền 'đầm' để câu có nghĩa và đúng chính tả.",
       "id": 872
     },
@@ -16349,12 +15941,6 @@
       "question": "Điền từ thích hợp: “Em xếp hàng ngay (...) trước lớp. (bài 32).",
       "blankAnswer": "ngắn",
       "answer": "ngắn",
-      "options": [
-        "ngắn",
-        "gi",
-        "sạch",
-        "vở"
-      ],
       "explanation": "Điền 'ngắn' để câu có nghĩa và đúng chính tả.",
       "id": 873
     },
@@ -16367,12 +15953,6 @@
       "question": "Điền tiếng còn thiếu: “Mùa hè có tiếng ve (...) rả. (bài 33).",
       "blankAnswer": "kêu",
       "answer": "kêu",
-      "options": [
-        "l",
-        "uống",
-        "ăn",
-        "kêu"
-      ],
       "explanation": "Điền 'kêu' để câu có nghĩa và đúng chính tả.",
       "id": 874
     },
@@ -16385,12 +15965,6 @@
       "question": "Điền từ thích hợp: “Chúng em cùng nhau (...) vệ sinh lớp học. (bài 34).",
       "blankAnswer": "giữ",
       "answer": "giữ",
-      "options": [
-        "vui",
-        "tr",
-        "t",
-        "giữ"
-      ],
       "explanation": "Điền 'giữ' để câu có nghĩa và đúng chính tả.",
       "id": 875
     },
@@ -16403,12 +15977,6 @@
       "question": "Điền âm đầu thích hợp: “(...)á vàng bơi trong bể. (bài 35).",
       "blankAnswer": "c",
       "answer": "c",
-      "options": [
-        "c",
-        "b",
-        "th",
-        "gh"
-      ],
       "explanation": "Điền 'c' để câu có nghĩa và đúng chính tả.",
       "id": 876
     },
@@ -16421,12 +15989,6 @@
       "question": "Điền âm đầu thích hợp: “(...)im sâu chuyền cành. (bài 36).",
       "blankAnswer": "ch",
       "answer": "ch",
-      "options": [
-        "ăn",
-        "vở",
-        "ch",
-        "n"
-      ],
       "explanation": "Điền 'ch' để câu có nghĩa và đúng chính tả.",
       "id": 877
     },
@@ -16439,12 +16001,6 @@
       "question": "Điền âm đầu thích hợp: “(...)uối chín có vị ngọt. (bài 37).",
       "blankAnswer": "ch",
       "answer": "ch",
-      "options": [
-        "ch",
-        "đọc",
-        "đ",
-        "sạch"
-      ],
       "explanation": "Điền 'ch' để câu có nghĩa và đúng chính tả.",
       "id": 878
     },
@@ -16457,12 +16013,6 @@
       "question": "Điền tiếng còn thiếu: “Bé (...) bài rất chăm. (bài 38).",
       "blankAnswer": "học",
       "answer": "học",
-      "options": [
-        "th",
-        "ăn",
-        "viết",
-        "học"
-      ],
       "explanation": "Điền 'học' để câu có nghĩa và đúng chính tả.",
       "id": 879
     },
@@ -16475,12 +16025,6 @@
       "question": "Điền từ thích hợp: “Mẹ nấu (...) cho cả nhà. (bài 39).",
       "blankAnswer": "cơm",
       "answer": "cơm",
-      "options": [
-        "uống",
-        "qu",
-        "v",
-        "cơm"
-      ],
       "explanation": "Điền 'cơm' để câu có nghĩa và đúng chính tả.",
       "id": 880
     },
@@ -16493,12 +16037,6 @@
       "question": "Điền tiếng còn thiếu: “Trời (...) sau cơn mưa. (bài 40).",
       "blankAnswer": "mát",
       "answer": "mát",
-      "options": [
-        "c",
-        "mát",
-        "ng",
-        "đọc"
-      ],
       "explanation": "Điền 'mát' để câu có nghĩa và đúng chính tả.",
       "id": 881
     },
@@ -16511,12 +16049,6 @@
       "question": "Điền tiếng còn thiếu: “Bé (...) lời cô dạy. (bài 41).",
       "blankAnswer": "vâng",
       "answer": "vâng",
-      "options": [
-        "nắng",
-        "vâng",
-        "sạch",
-        "mưa"
-      ],
       "explanation": "Điền 'vâng' để câu có nghĩa và đúng chính tả.",
       "id": 882
     },
@@ -16529,12 +16061,6 @@
       "question": "Điền từ thích hợp: “Đàn chim bay trên (...) xanh. (bài 42).",
       "blankAnswer": "bầu trời",
       "answer": "bầu trời",
-      "options": [
-        "r",
-        "gi",
-        "bầu trời",
-        "tr"
-      ],
       "explanation": "Điền 'bầu trời' để câu có nghĩa và đúng chính tả.",
       "id": 883
     },
@@ -16547,12 +16073,6 @@
       "question": "Điền tiếng còn thiếu: “Em giữ gìn (...) vở sạch đẹp. (bài 43).",
       "blankAnswer": "sách",
       "answer": "sách",
-      "options": [
-        "mưa",
-        "n",
-        "bút",
-        "sách"
-      ],
       "explanation": "Điền 'sách' để câu có nghĩa và đúng chính tả.",
       "id": 884
     },
@@ -16565,12 +16085,6 @@
       "question": "Điền từ thích hợp: “Bố (...) cây trước sân. (bài 44).",
       "blankAnswer": "tưới",
       "answer": "tưới",
-      "options": [
-        "nhà",
-        "th",
-        "tưới",
-        "đ"
-      ],
       "explanation": "Điền 'tưới' để câu có nghĩa và đúng chính tả.",
       "id": 885
     },
@@ -16583,12 +16097,6 @@
       "question": "Điền tiếng còn thiếu: “Chú (...) đang gặm cỏ. (bài 45).",
       "blankAnswer": "dê",
       "answer": "dê",
-      "options": [
-        "học",
-        "dê",
-        "l",
-        "v"
-      ],
       "explanation": "Điền 'dê' để câu có nghĩa và đúng chính tả.",
       "id": 886
     },
@@ -16601,12 +16109,6 @@
       "question": "Điền tiếng còn thiếu: “Bé (...) răng trước khi ngủ. (bài 46).",
       "blankAnswer": "đánh",
       "answer": "đánh",
-      "options": [
-        "nắng",
-        "đánh",
-        "ngh",
-        "ch"
-      ],
       "explanation": "Điền 'đánh' để câu có nghĩa và đúng chính tả.",
       "id": 887
     },
@@ -16619,12 +16121,6 @@
       "question": "Điền từ thích hợp: “Bà kể chuyện (...) cho em nghe. (bài 47).",
       "blankAnswer": "cổ tích",
       "answer": "cổ tích",
-      "options": [
-        "đ",
-        "v",
-        "cổ tích",
-        "b"
-      ],
       "explanation": "Điền 'cổ tích' để câu có nghĩa và đúng chính tả.",
       "id": 888
     },
@@ -16637,12 +16133,6 @@
       "question": "Điền tiếng còn thiếu: “Hoa sen nở trong (...) nước. (bài 48).",
       "blankAnswer": "đầm",
       "answer": "đầm",
-      "options": [
-        "đầm",
-        "gh",
-        "sân",
-        "hoa"
-      ],
       "explanation": "Điền 'đầm' để câu có nghĩa và đúng chính tả.",
       "id": 889
     },
@@ -16655,12 +16145,6 @@
       "question": "Điền từ thích hợp: “Em xếp hàng ngay (...) trước lớp. (bài 49).",
       "blankAnswer": "ngắn",
       "answer": "ngắn",
-      "options": [
-        "m",
-        "ngắn",
-        "tr",
-        "mưa"
-      ],
       "explanation": "Điền 'ngắn' để câu có nghĩa và đúng chính tả.",
       "id": 890
     },
@@ -16673,12 +16157,6 @@
       "question": "Điền tiếng còn thiếu: “Mùa hè có tiếng ve (...) rả. (bài 50).",
       "blankAnswer": "kêu",
       "answer": "kêu",
-      "options": [
-        "viết",
-        "mưa",
-        "kêu",
-        "th"
-      ],
       "explanation": "Điền 'kêu' để câu có nghĩa và đúng chính tả.",
       "id": 891
     },
@@ -16691,12 +16169,6 @@
       "question": "Điền từ thích hợp: “Chúng em cùng nhau (...) vệ sinh lớp học. (bài 51).",
       "blankAnswer": "giữ",
       "answer": "giữ",
-      "options": [
-        "chơi",
-        "vui",
-        "th",
-        "giữ"
-      ],
       "explanation": "Điền 'giữ' để câu có nghĩa và đúng chính tả.",
       "id": 892
     },
@@ -16709,12 +16181,6 @@
       "question": "Điền âm đầu thích hợp: “(...)á vàng bơi trong bể. (bài 52).",
       "blankAnswer": "c",
       "answer": "c",
-      "options": [
-        "nhà",
-        "c",
-        "t",
-        "x"
-      ],
       "explanation": "Điền 'c' để câu có nghĩa và đúng chính tả.",
       "id": 893
     },
@@ -16727,12 +16193,6 @@
       "question": "Điền âm đầu thích hợp: “(...)im sâu chuyền cành. (bài 53).",
       "blankAnswer": "ch",
       "answer": "ch",
-      "options": [
-        "viết",
-        "ch",
-        "gi",
-        "d"
-      ],
       "explanation": "Điền 'ch' để câu có nghĩa và đúng chính tả.",
       "id": 894
     },
@@ -16745,12 +16205,6 @@
       "question": "Điền âm đầu thích hợp: “(...)uối chín có vị ngọt. (bài 54).",
       "blankAnswer": "ch",
       "answer": "ch",
-      "options": [
-        "bé",
-        "ch",
-        "v",
-        "học"
-      ],
       "explanation": "Điền 'ch' để câu có nghĩa và đúng chính tả.",
       "id": 895
     },
@@ -16763,12 +16217,6 @@
       "question": "Điền tiếng còn thiếu: “Bé (...) bài rất chăm. (bài 55).",
       "blankAnswer": "học",
       "answer": "học",
-      "options": [
-        "học",
-        "x",
-        "m",
-        "tr"
-      ],
       "explanation": "Điền 'học' để câu có nghĩa và đúng chính tả.",
       "id": 896
     },
@@ -16781,12 +16229,6 @@
       "question": "Điền từ thích hợp: “Mẹ nấu (...) cho cả nhà. (bài 56).",
       "blankAnswer": "cơm",
       "answer": "cơm",
-      "options": [
-        "chơi",
-        "cơm",
-        "mưa",
-        "g"
-      ],
       "explanation": "Điền 'cơm' để câu có nghĩa và đúng chính tả.",
       "id": 897
     },
@@ -16799,12 +16241,6 @@
       "question": "Điền tiếng còn thiếu: “Trời (...) sau cơn mưa. (bài 57).",
       "blankAnswer": "mát",
       "answer": "mát",
-      "options": [
-        "mát",
-        "t",
-        "th",
-        "ngoan"
-      ],
       "explanation": "Điền 'mát' để câu có nghĩa và đúng chính tả.",
       "id": 898
     },
@@ -16817,12 +16253,6 @@
       "question": "Điền tiếng còn thiếu: “Bé (...) lời cô dạy. (bài 58).",
       "blankAnswer": "vâng",
       "answer": "vâng",
-      "options": [
-        "r",
-        "v",
-        "vâng",
-        "tr"
-      ],
       "explanation": "Điền 'vâng' để câu có nghĩa và đúng chính tả.",
       "id": 899
     },
@@ -16835,12 +16265,6 @@
       "question": "Điền từ thích hợp: “Đàn chim bay trên (...) xanh. (bài 59).",
       "blankAnswer": "bầu trời",
       "answer": "bầu trời",
-      "options": [
-        "d",
-        "bầu trời",
-        "ngh",
-        "chơi"
-      ],
       "explanation": "Điền 'bầu trời' để câu có nghĩa và đúng chính tả.",
       "id": 900
     },
@@ -16853,12 +16277,6 @@
       "question": "Điền tiếng còn thiếu: “Em giữ gìn (...) vở sạch đẹp. (bài 60).",
       "blankAnswer": "sách",
       "answer": "sách",
-      "options": [
-        "hoa",
-        "gh",
-        "sách",
-        "đẹp"
-      ],
       "explanation": "Điền 'sách' để câu có nghĩa và đúng chính tả.",
       "id": 901
     },
@@ -16871,12 +16289,6 @@
       "question": "Điền từ thích hợp: “Bố (...) cây trước sân. (bài 61).",
       "blankAnswer": "tưới",
       "answer": "tưới",
-      "options": [
-        "tr",
-        "cây",
-        "ngoan",
-        "tưới"
-      ],
       "explanation": "Điền 'tưới' để câu có nghĩa và đúng chính tả.",
       "id": 902
     },
@@ -16889,12 +16301,6 @@
       "question": "Điền tiếng còn thiếu: “Chú (...) đang gặm cỏ. (bài 62).",
       "blankAnswer": "dê",
       "answer": "dê",
-      "options": [
-        "c",
-        "m",
-        "ch",
-        "dê"
-      ],
       "explanation": "Điền 'dê' để câu có nghĩa và đúng chính tả.",
       "id": 903
     },
@@ -16907,12 +16313,6 @@
       "question": "Điền tiếng còn thiếu: “Bé (...) răng trước khi ngủ. (bài 63).",
       "blankAnswer": "đánh",
       "answer": "đánh",
-      "options": [
-        "nắng",
-        "đánh",
-        "sân",
-        "nhà"
-      ],
       "explanation": "Điền 'đánh' để câu có nghĩa và đúng chính tả.",
       "id": 904
     },
@@ -16925,12 +16325,6 @@
       "question": "Điền từ thích hợp: “Bà kể chuyện (...) cho em nghe. (bài 64).",
       "blankAnswer": "cổ tích",
       "answer": "cổ tích",
-      "options": [
-        "bút",
-        "sân",
-        "cổ tích",
-        "uống"
-      ],
       "explanation": "Điền 'cổ tích' để câu có nghĩa và đúng chính tả.",
       "id": 905
     },
@@ -16943,12 +16337,6 @@
       "question": "Điền tiếng còn thiếu: “Hoa sen nở trong (...) nước. (bài 65).",
       "blankAnswer": "đầm",
       "answer": "đầm",
-      "options": [
-        "gh",
-        "n",
-        "đầm",
-        "d"
-      ],
       "explanation": "Điền 'đầm' để câu có nghĩa và đúng chính tả.",
       "id": 906
     },
@@ -16961,12 +16349,6 @@
       "question": "Điền từ thích hợp: “Em xếp hàng ngay (...) trước lớp. (bài 66).",
       "blankAnswer": "ngắn",
       "answer": "ngắn",
-      "options": [
-        "ngắn",
-        "v",
-        "đẹp",
-        "học"
-      ],
       "explanation": "Điền 'ngắn' để câu có nghĩa và đúng chính tả.",
       "id": 907
     },
@@ -16979,12 +16361,6 @@
       "question": "Điền tiếng còn thiếu: “Mùa hè có tiếng ve (...) rả. (bài 67).",
       "blankAnswer": "kêu",
       "answer": "kêu",
-      "options": [
-        "sân",
-        "hoa",
-        "vui",
-        "kêu"
-      ],
       "explanation": "Điền 'kêu' để câu có nghĩa và đúng chính tả.",
       "id": 908
     },
@@ -16997,12 +16373,6 @@
       "question": "Điền từ thích hợp: “Chúng em cùng nhau (...) vệ sinh lớp học. (bài 68).",
       "blankAnswer": "giữ",
       "answer": "giữ",
-      "options": [
-        "b",
-        "nắng",
-        "giữ",
-        "m"
-      ],
       "explanation": "Điền 'giữ' để câu có nghĩa và đúng chính tả.",
       "id": 909
     },
@@ -17015,12 +16385,6 @@
       "question": "Điền âm đầu thích hợp: “(...)á vàng bơi trong bể. (bài 69).",
       "blankAnswer": "c",
       "answer": "c",
-      "options": [
-        "g",
-        "qu",
-        "c",
-        "cây"
-      ],
       "explanation": "Điền 'c' để câu có nghĩa và đúng chính tả.",
       "id": 910
     },
@@ -17033,12 +16397,6 @@
       "question": "Điền âm đầu thích hợp: “(...)im sâu chuyền cành. (bài 70).",
       "blankAnswer": "ch",
       "answer": "ch",
-      "options": [
-        "nhà",
-        "chơi",
-        "n",
-        "ch"
-      ],
       "explanation": "Điền 'ch' để câu có nghĩa và đúng chính tả.",
       "id": 911
     },
@@ -17051,12 +16409,6 @@
       "question": "Điền âm đầu thích hợp: “(...)uối chín có vị ngọt. (bài 71).",
       "blankAnswer": "ch",
       "answer": "ch",
-      "options": [
-        "ph",
-        "ch",
-        "qu",
-        "viết"
-      ],
       "explanation": "Điền 'ch' để câu có nghĩa và đúng chính tả.",
       "id": 912
     },
@@ -17069,12 +16421,6 @@
       "question": "Điền tiếng còn thiếu: “Bé (...) bài rất chăm. (bài 72).",
       "blankAnswer": "học",
       "answer": "học",
-      "options": [
-        "x",
-        "gh",
-        "t",
-        "học"
-      ],
       "explanation": "Điền 'học' để câu có nghĩa và đúng chính tả.",
       "id": 913
     },
@@ -17087,12 +16433,6 @@
       "question": "Điền từ thích hợp: “Mẹ nấu (...) cho cả nhà. (bài 73).",
       "blankAnswer": "cơm",
       "answer": "cơm",
-      "options": [
-        "học",
-        "cơm",
-        "uống",
-        "n"
-      ],
       "explanation": "Điền 'cơm' để câu có nghĩa và đúng chính tả.",
       "id": 914
     },
@@ -17105,12 +16445,6 @@
       "question": "Điền tiếng còn thiếu: “Trời (...) sau cơn mưa. (bài 74).",
       "blankAnswer": "mát",
       "answer": "mát",
-      "options": [
-        "nắng",
-        "tr",
-        "gh",
-        "mát"
-      ],
       "explanation": "Điền 'mát' để câu có nghĩa và đúng chính tả.",
       "id": 915
     },
@@ -17123,12 +16457,6 @@
       "question": "Điền tiếng còn thiếu: “Bé (...) lời cô dạy. (bài 75).",
       "blankAnswer": "vâng",
       "answer": "vâng",
-      "options": [
-        "vâng",
-        "chơi",
-        "vui",
-        "nhà"
-      ],
       "explanation": "Điền 'vâng' để câu có nghĩa và đúng chính tả.",
       "id": 916
     },
@@ -17141,12 +16469,6 @@
       "question": "Điền từ thích hợp: “Đàn chim bay trên (...) xanh. (bài 76).",
       "blankAnswer": "bầu trời",
       "answer": "bầu trời",
-      "options": [
-        "vở",
-        "t",
-        "bầu trời",
-        "n"
-      ],
       "explanation": "Điền 'bầu trời' để câu có nghĩa và đúng chính tả.",
       "id": 917
     },
@@ -17159,12 +16481,6 @@
       "question": "Điền tiếng còn thiếu: “Em giữ gìn (...) vở sạch đẹp. (bài 77).",
       "blankAnswer": "sách",
       "answer": "sách",
-      "options": [
-        "nhà",
-        "đ",
-        "sách",
-        "vui"
-      ],
       "explanation": "Điền 'sách' để câu có nghĩa và đúng chính tả.",
       "id": 918
     },
@@ -17177,12 +16493,6 @@
       "question": "Điền từ thích hợp: “Bố (...) cây trước sân. (bài 78).",
       "blankAnswer": "tưới",
       "answer": "tưới",
-      "options": [
-        "m",
-        "tưới",
-        "tr",
-        "đ"
-      ],
       "explanation": "Điền 'tưới' để câu có nghĩa và đúng chính tả.",
       "id": 919
     },
@@ -17195,12 +16505,6 @@
       "question": "Điền tiếng còn thiếu: “Chú (...) đang gặm cỏ. (bài 79).",
       "blankAnswer": "dê",
       "answer": "dê",
-      "options": [
-        "dê",
-        "n",
-        "ngh",
-        "gh"
-      ],
       "explanation": "Điền 'dê' để câu có nghĩa và đúng chính tả.",
       "id": 920
     },
@@ -17213,12 +16517,6 @@
       "question": "Điền tiếng còn thiếu: “Bé (...) răng trước khi ngủ. (bài 80).",
       "blankAnswer": "đánh",
       "answer": "đánh",
-      "options": [
-        "mưa",
-        "c",
-        "đánh",
-        "sân"
-      ],
       "explanation": "Điền 'đánh' để câu có nghĩa và đúng chính tả.",
       "id": 921
     },
@@ -17231,12 +16529,6 @@
       "question": "Điền từ thích hợp: “Bà kể chuyện (...) cho em nghe. (bài 81).",
       "blankAnswer": "cổ tích",
       "answer": "cổ tích",
-      "options": [
-        "x",
-        "cổ tích",
-        "nắng",
-        "v"
-      ],
       "explanation": "Điền 'cổ tích' để câu có nghĩa và đúng chính tả.",
       "id": 922
     },
@@ -17249,12 +16541,6 @@
       "question": "Điền tiếng còn thiếu: “Hoa sen nở trong (...) nước. (bài 82).",
       "blankAnswer": "đầm",
       "answer": "đầm",
-      "options": [
-        "r",
-        "gi",
-        "ngh",
-        "đầm"
-      ],
       "explanation": "Điền 'đầm' để câu có nghĩa và đúng chính tả.",
       "id": 923
     },
@@ -17267,12 +16553,6 @@
       "question": "Điền từ thích hợp: “Em xếp hàng ngay (...) trước lớp. (bài 83).",
       "blankAnswer": "ngắn",
       "answer": "ngắn",
-      "options": [
-        "vui",
-        "v",
-        "ngắn",
-        "k"
-      ],
       "explanation": "Điền 'ngắn' để câu có nghĩa và đúng chính tả.",
       "id": 924
     },
@@ -17285,12 +16565,6 @@
       "question": "Điền tiếng còn thiếu: “Mùa hè có tiếng ve (...) rả. (bài 84).",
       "blankAnswer": "kêu",
       "answer": "kêu",
-      "options": [
-        "n",
-        "tr",
-        "kêu",
-        "uống"
-      ],
       "explanation": "Điền 'kêu' để câu có nghĩa và đúng chính tả.",
       "id": 925
     },
@@ -17303,12 +16577,6 @@
       "question": "Điền từ thích hợp: “Chúng em cùng nhau (...) vệ sinh lớp học. (bài 85).",
       "blankAnswer": "giữ",
       "answer": "giữ",
-      "options": [
-        "qu",
-        "giữ",
-        "sạch",
-        "ng"
-      ],
       "explanation": "Điền 'giữ' để câu có nghĩa và đúng chính tả.",
       "id": 926
     },
@@ -17321,12 +16589,6 @@
       "question": "Điền âm đầu thích hợp: “(...)á vàng bơi trong bể. (bài 86).",
       "blankAnswer": "c",
       "answer": "c",
-      "options": [
-        "uống",
-        "v",
-        "b",
-        "c"
-      ],
       "explanation": "Điền 'c' để câu có nghĩa và đúng chính tả.",
       "id": 927
     },
@@ -17339,12 +16601,6 @@
       "question": "Điền âm đầu thích hợp: “(...)im sâu chuyền cành. (bài 87).",
       "blankAnswer": "ch",
       "answer": "ch",
-      "options": [
-        "ph",
-        "ch",
-        "ng",
-        "bút"
-      ],
       "explanation": "Điền 'ch' để câu có nghĩa và đúng chính tả.",
       "id": 928
     },
@@ -17357,12 +16613,6 @@
       "question": "Điền âm đầu thích hợp: “(...)uối chín có vị ngọt. (bài 88).",
       "blankAnswer": "ch",
       "answer": "ch",
-      "options": [
-        "vui",
-        "học",
-        "ch",
-        "đẹp"
-      ],
       "explanation": "Điền 'ch' để câu có nghĩa và đúng chính tả.",
       "id": 929
     },
@@ -17375,12 +16625,6 @@
       "question": "Điền tiếng còn thiếu: “Bé (...) bài rất chăm. (bài 89).",
       "blankAnswer": "học",
       "answer": "học",
-      "options": [
-        "đ",
-        "k",
-        "học",
-        "s"
-      ],
       "explanation": "Điền 'học' để câu có nghĩa và đúng chính tả.",
       "id": 930
     },
@@ -17393,12 +16637,6 @@
       "question": "Điền từ thích hợp: “Mẹ nấu (...) cho cả nhà. (bài 90).",
       "blankAnswer": "cơm",
       "answer": "cơm",
-      "options": [
-        "s",
-        "cơm",
-        "v",
-        "n"
-      ],
       "explanation": "Điền 'cơm' để câu có nghĩa và đúng chính tả.",
       "id": 931
     },
@@ -17411,12 +16649,6 @@
       "question": "Điền tiếng còn thiếu: “Trời (...) sau cơn mưa. (bài 91).",
       "blankAnswer": "mát",
       "answer": "mát",
-      "options": [
-        "mát",
-        "m",
-        "mưa",
-        "v"
-      ],
       "explanation": "Điền 'mát' để câu có nghĩa và đúng chính tả.",
       "id": 932
     },
@@ -17429,12 +16661,6 @@
       "question": "Điền tiếng còn thiếu: “Bé (...) lời cô dạy. (bài 92).",
       "blankAnswer": "vâng",
       "answer": "vâng",
-      "options": [
-        "n",
-        "viết",
-        "d",
-        "vâng"
-      ],
       "explanation": "Điền 'vâng' để câu có nghĩa và đúng chính tả.",
       "id": 933
     },
@@ -17447,12 +16673,6 @@
       "question": "Điền từ thích hợp: “Đàn chim bay trên (...) xanh. (bài 93).",
       "blankAnswer": "bầu trời",
       "answer": "bầu trời",
-      "options": [
-        "ng",
-        "bầu trời",
-        "r",
-        "n"
-      ],
       "explanation": "Điền 'bầu trời' để câu có nghĩa và đúng chính tả.",
       "id": 934
     },
@@ -17465,12 +16685,6 @@
       "question": "Điền tiếng còn thiếu: “Em giữ gìn (...) vở sạch đẹp. (bài 94).",
       "blankAnswer": "sách",
       "answer": "sách",
-      "options": [
-        "c",
-        "r",
-        "ch",
-        "sách"
-      ],
       "explanation": "Điền 'sách' để câu có nghĩa và đúng chính tả.",
       "id": 935
     },
@@ -17483,12 +16697,6 @@
       "question": "Điền từ thích hợp: “Bố (...) cây trước sân. (bài 95).",
       "blankAnswer": "tưới",
       "answer": "tưới",
-      "options": [
-        "nắng",
-        "m",
-        "tưới",
-        "l"
-      ],
       "explanation": "Điền 'tưới' để câu có nghĩa và đúng chính tả.",
       "id": 936
     },
@@ -17501,12 +16709,6 @@
       "question": "Điền tiếng còn thiếu: “Chú (...) đang gặm cỏ. (bài 96).",
       "blankAnswer": "dê",
       "answer": "dê",
-      "options": [
-        "v",
-        "dê",
-        "ngoan",
-        "ng"
-      ],
       "explanation": "Điền 'dê' để câu có nghĩa và đúng chính tả.",
       "id": 937
     },
@@ -17519,12 +16721,6 @@
       "question": "Điền tiếng còn thiếu: “Bé (...) răng trước khi ngủ. (bài 97).",
       "blankAnswer": "đánh",
       "answer": "đánh",
-      "options": [
-        "cây",
-        "đọc",
-        "đánh",
-        "ăn"
-      ],
       "explanation": "Điền 'đánh' để câu có nghĩa và đúng chính tả.",
       "id": 938
     },
@@ -17537,12 +16733,6 @@
       "question": "Điền từ thích hợp: “Bà kể chuyện (...) cho em nghe. (bài 98).",
       "blankAnswer": "cổ tích",
       "answer": "cổ tích",
-      "options": [
-        "sân",
-        "cổ tích",
-        "đẹp",
-        "k"
-      ],
       "explanation": "Điền 'cổ tích' để câu có nghĩa và đúng chính tả.",
       "id": 939
     },
@@ -17555,12 +16745,6 @@
       "question": "Điền tiếng còn thiếu: “Hoa sen nở trong (...) nước. (bài 99).",
       "blankAnswer": "đầm",
       "answer": "đầm",
-      "options": [
-        "c",
-        "v",
-        "tr",
-        "đầm"
-      ],
       "explanation": "Điền 'đầm' để câu có nghĩa và đúng chính tả.",
       "id": 940
     },
@@ -17573,12 +16757,6 @@
       "question": "Điền từ thích hợp: “Em xếp hàng ngay (...) trước lớp. (bài 100).",
       "blankAnswer": "ngắn",
       "answer": "ngắn",
-      "options": [
-        "ch",
-        "vở",
-        "ngắn",
-        "k"
-      ],
       "explanation": "Điền 'ngắn' để câu có nghĩa và đúng chính tả.",
       "id": 941
     },
@@ -17591,12 +16769,6 @@
       "question": "Điền tiếng còn thiếu: “Mùa hè có tiếng ve (...) rả. (bài 101).",
       "blankAnswer": "kêu",
       "answer": "kêu",
-      "options": [
-        "kêu",
-        "r",
-        "chơi",
-        "d"
-      ],
       "explanation": "Điền 'kêu' để câu có nghĩa và đúng chính tả.",
       "id": 942
     },
@@ -17609,12 +16781,6 @@
       "question": "Điền từ thích hợp: “Chúng em cùng nhau (...) vệ sinh lớp học. (bài 102).",
       "blankAnswer": "giữ",
       "answer": "giữ",
-      "options": [
-        "giữ",
-        "sân",
-        "ngoan",
-        "hoa"
-      ],
       "explanation": "Điền 'giữ' để câu có nghĩa và đúng chính tả.",
       "id": 943
     },
@@ -17627,12 +16793,6 @@
       "question": "Điền âm đầu thích hợp: “(...)á vàng bơi trong bể. (bài 103).",
       "blankAnswer": "c",
       "answer": "c",
-      "options": [
-        "c",
-        "x",
-        "đẹp",
-        "đọc"
-      ],
       "explanation": "Điền 'c' để câu có nghĩa và đúng chính tả.",
       "id": 944
     },
@@ -17645,12 +16805,6 @@
       "question": "Điền âm đầu thích hợp: “(...)im sâu chuyền cành. (bài 104).",
       "blankAnswer": "ch",
       "answer": "ch",
-      "options": [
-        "ch",
-        "ăn",
-        "ngh",
-        "m"
-      ],
       "explanation": "Điền 'ch' để câu có nghĩa và đúng chính tả.",
       "id": 945
     },
@@ -17663,12 +16817,6 @@
       "question": "Điền âm đầu thích hợp: “(...)uối chín có vị ngọt. (bài 105).",
       "blankAnswer": "ch",
       "answer": "ch",
-      "options": [
-        "bút",
-        "v",
-        "chơi",
-        "ch"
-      ],
       "explanation": "Điền 'ch' để câu có nghĩa và đúng chính tả.",
       "id": 946
     },
@@ -17681,12 +16829,6 @@
       "question": "Điền tiếng còn thiếu: “Bé (...) bài rất chăm. (bài 106).",
       "blankAnswer": "học",
       "answer": "học",
-      "options": [
-        "mưa",
-        "đẹp",
-        "học",
-        "t"
-      ],
       "explanation": "Điền 'học' để câu có nghĩa và đúng chính tả.",
       "id": 947
     },
@@ -17699,12 +16841,6 @@
       "question": "Điền từ thích hợp: “Mẹ nấu (...) cho cả nhà. (bài 107).",
       "blankAnswer": "cơm",
       "answer": "cơm",
-      "options": [
-        "cơm",
-        "qu",
-        "cây",
-        "vui"
-      ],
       "explanation": "Điền 'cơm' để câu có nghĩa và đúng chính tả.",
       "id": 948
     },
@@ -17717,12 +16853,6 @@
       "question": "Điền tiếng còn thiếu: “Trời (...) sau cơn mưa. (bài 108).",
       "blankAnswer": "mát",
       "answer": "mát",
-      "options": [
-        "v",
-        "vui",
-        "uống",
-        "mát"
-      ],
       "explanation": "Điền 'mát' để câu có nghĩa và đúng chính tả.",
       "id": 949
     },
@@ -17735,12 +16865,6 @@
       "question": "Điền tiếng còn thiếu: “Bé (...) lời cô dạy. (bài 109).",
       "blankAnswer": "vâng",
       "answer": "vâng",
-      "options": [
-        "t",
-        "hoa",
-        "vâng",
-        "bút"
-      ],
       "explanation": "Điền 'vâng' để câu có nghĩa và đúng chính tả.",
       "id": 950
     },
@@ -17753,12 +16877,6 @@
       "question": "Điền từ thích hợp: “Đàn chim bay trên (...) xanh. (bài 110).",
       "blankAnswer": "bầu trời",
       "answer": "bầu trời",
-      "options": [
-        "gh",
-        "bầu trời",
-        "vở",
-        "bút"
-      ],
       "explanation": "Điền 'bầu trời' để câu có nghĩa và đúng chính tả.",
       "id": 951
     },
@@ -17771,12 +16889,6 @@
       "question": "Điền tiếng còn thiếu: “Em giữ gìn (...) vở sạch đẹp. (bài 111).",
       "blankAnswer": "sách",
       "answer": "sách",
-      "options": [
-        "sách",
-        "nắng",
-        "qu",
-        "đẹp"
-      ],
       "explanation": "Điền 'sách' để câu có nghĩa và đúng chính tả.",
       "id": 952
     },
@@ -17789,12 +16901,6 @@
       "question": "Điền từ thích hợp: “Bố (...) cây trước sân. (bài 112).",
       "blankAnswer": "tưới",
       "answer": "tưới",
-      "options": [
-        "n",
-        "đọc",
-        "sạch",
-        "tưới"
-      ],
       "explanation": "Điền 'tưới' để câu có nghĩa và đúng chính tả.",
       "id": 953
     },
@@ -17807,12 +16913,6 @@
       "question": "Điền tiếng còn thiếu: “Chú (...) đang gặm cỏ. (bài 113).",
       "blankAnswer": "dê",
       "answer": "dê",
-      "options": [
-        "vở",
-        "dê",
-        "qu",
-        "nhà"
-      ],
       "explanation": "Điền 'dê' để câu có nghĩa và đúng chính tả.",
       "id": 954
     },
@@ -17825,12 +16925,6 @@
       "question": "Điền tiếng còn thiếu: “Bé (...) răng trước khi ngủ. (bài 114).",
       "blankAnswer": "đánh",
       "answer": "đánh",
-      "options": [
-        "r",
-        "ăn",
-        "cây",
-        "đánh"
-      ],
       "explanation": "Điền 'đánh' để câu có nghĩa và đúng chính tả.",
       "id": 955
     },
@@ -17843,12 +16937,6 @@
       "question": "Điền từ thích hợp: “Bà kể chuyện (...) cho em nghe. (bài 115).",
       "blankAnswer": "cổ tích",
       "answer": "cổ tích",
-      "options": [
-        "s",
-        "cổ tích",
-        "d",
-        "ngoan"
-      ],
       "explanation": "Điền 'cổ tích' để câu có nghĩa và đúng chính tả.",
       "id": 956
     },
@@ -17861,12 +16949,6 @@
       "question": "Điền tiếng còn thiếu: “Hoa sen nở trong (...) nước. (bài 116).",
       "blankAnswer": "đầm",
       "answer": "đầm",
-      "options": [
-        "ăn",
-        "đầm",
-        "s",
-        "mưa"
-      ],
       "explanation": "Điền 'đầm' để câu có nghĩa và đúng chính tả.",
       "id": 957
     },
@@ -17879,12 +16961,6 @@
       "question": "Điền từ thích hợp: “Em xếp hàng ngay (...) trước lớp. (bài 117).",
       "blankAnswer": "ngắn",
       "answer": "ngắn",
-      "options": [
-        "ngắn",
-        "ngh",
-        "g",
-        "ng"
-      ],
       "explanation": "Điền 'ngắn' để câu có nghĩa và đúng chính tả.",
       "id": 958
     },
@@ -17897,12 +16973,6 @@
       "question": "Điền tiếng còn thiếu: “Mùa hè có tiếng ve (...) rả. (bài 118).",
       "blankAnswer": "kêu",
       "answer": "kêu",
-      "options": [
-        "g",
-        "kêu",
-        "học",
-        "đ"
-      ],
       "explanation": "Điền 'kêu' để câu có nghĩa và đúng chính tả.",
       "id": 959
     },
@@ -17915,12 +16985,6 @@
       "question": "Điền từ thích hợp: “Chúng em cùng nhau (...) vệ sinh lớp học. (bài 119).",
       "blankAnswer": "giữ",
       "answer": "giữ",
-      "options": [
-        "vui",
-        "giữ",
-        "vở",
-        "nắng"
-      ],
       "explanation": "Điền 'giữ' để câu có nghĩa và đúng chính tả.",
       "id": 960
     },
@@ -17933,12 +16997,6 @@
       "question": "Điền âm đầu thích hợp: “(...)á vàng bơi trong bể. (bài 120).",
       "blankAnswer": "c",
       "answer": "c",
-      "options": [
-        "viết",
-        "c",
-        "nắng",
-        "ngh"
-      ],
       "explanation": "Điền 'c' để câu có nghĩa và đúng chính tả.",
       "id": 961
     },
@@ -17951,12 +17009,6 @@
       "question": "Điền âm đầu thích hợp: “(...)im sâu chuyền cành. (bài 121).",
       "blankAnswer": "ch",
       "answer": "ch",
-      "options": [
-        "gi",
-        "bút",
-        "ch",
-        "th"
-      ],
       "explanation": "Điền 'ch' để câu có nghĩa và đúng chính tả.",
       "id": 962
     },
@@ -17969,12 +17021,6 @@
       "question": "Điền âm đầu thích hợp: “(...)uối chín có vị ngọt. (bài 122).",
       "blankAnswer": "ch",
       "answer": "ch",
-      "options": [
-        "ch",
-        "x",
-        "cây",
-        "vui"
-      ],
       "explanation": "Điền 'ch' để câu có nghĩa và đúng chính tả.",
       "id": 963
     },
@@ -17987,12 +17033,6 @@
       "question": "Điền tiếng còn thiếu: “Bé (...) bài rất chăm. (bài 123).",
       "blankAnswer": "học",
       "answer": "học",
-      "options": [
-        "gi",
-        "sạch",
-        "bút",
-        "học"
-      ],
       "explanation": "Điền 'học' để câu có nghĩa và đúng chính tả.",
       "id": 964
     },
@@ -18005,12 +17045,6 @@
       "question": "Điền từ thích hợp: “Mẹ nấu (...) cho cả nhà. (bài 124).",
       "blankAnswer": "cơm",
       "answer": "cơm",
-      "options": [
-        "th",
-        "sạch",
-        "cơm",
-        "hoa"
-      ],
       "explanation": "Điền 'cơm' để câu có nghĩa và đúng chính tả.",
       "id": 965
     },
@@ -18023,12 +17057,6 @@
       "question": "Điền tiếng còn thiếu: “Trời (...) sau cơn mưa. (bài 125).",
       "blankAnswer": "mát",
       "answer": "mát",
-      "options": [
-        "s",
-        "gh",
-        "mát",
-        "ng"
-      ],
       "explanation": "Điền 'mát' để câu có nghĩa và đúng chính tả.",
       "id": 966
     },
@@ -18041,12 +17069,6 @@
       "question": "Điền tiếng còn thiếu: “Bé (...) lời cô dạy. (bài 126).",
       "blankAnswer": "vâng",
       "answer": "vâng",
-      "options": [
-        "cây",
-        "vâng",
-        "d",
-        "đẹp"
-      ],
       "explanation": "Điền 'vâng' để câu có nghĩa và đúng chính tả.",
       "id": 967
     },
@@ -18059,12 +17081,6 @@
       "question": "Điền từ thích hợp: “Đàn chim bay trên (...) xanh. (bài 127).",
       "blankAnswer": "bầu trời",
       "answer": "bầu trời",
-      "options": [
-        "ngoan",
-        "sạch",
-        "bầu trời",
-        "ng"
-      ],
       "explanation": "Điền 'bầu trời' để câu có nghĩa và đúng chính tả.",
       "id": 968
     },
@@ -18077,12 +17093,6 @@
       "question": "Điền tiếng còn thiếu: “Em giữ gìn (...) vở sạch đẹp. (bài 128).",
       "blankAnswer": "sách",
       "answer": "sách",
-      "options": [
-        "sách",
-        "ăn",
-        "nhà",
-        "đọc"
-      ],
       "explanation": "Điền 'sách' để câu có nghĩa và đúng chính tả.",
       "id": 969
     },
@@ -18095,12 +17105,6 @@
       "question": "Điền từ thích hợp: “Bố (...) cây trước sân. (bài 129).",
       "blankAnswer": "tưới",
       "answer": "tưới",
-      "options": [
-        "g",
-        "tưới",
-        "t",
-        "b"
-      ],
       "explanation": "Điền 'tưới' để câu có nghĩa và đúng chính tả.",
       "id": 970
     },
@@ -18113,12 +17117,6 @@
       "question": "Điền tiếng còn thiếu: “Chú (...) đang gặm cỏ. (bài 130).",
       "blankAnswer": "dê",
       "answer": "dê",
-      "options": [
-        "viết",
-        "dê",
-        "chơi",
-        "s"
-      ],
       "explanation": "Điền 'dê' để câu có nghĩa và đúng chính tả.",
       "id": 971
     },
@@ -18131,12 +17129,6 @@
       "question": "Điền tiếng còn thiếu: “Bé (...) răng trước khi ngủ. (bài 131).",
       "blankAnswer": "đánh",
       "answer": "đánh",
-      "options": [
-        "đánh",
-        "v",
-        "uống",
-        "m"
-      ],
       "explanation": "Điền 'đánh' để câu có nghĩa và đúng chính tả.",
       "id": 972
     },
@@ -18149,12 +17141,6 @@
       "question": "Điền từ thích hợp: “Bà kể chuyện (...) cho em nghe. (bài 132).",
       "blankAnswer": "cổ tích",
       "answer": "cổ tích",
-      "options": [
-        "cổ tích",
-        "vở",
-        "đ",
-        "vui"
-      ],
       "explanation": "Điền 'cổ tích' để câu có nghĩa và đúng chính tả.",
       "id": 973
     },
@@ -18167,12 +17153,6 @@
       "question": "Điền tiếng còn thiếu: “Hoa sen nở trong (...) nước. (bài 133).",
       "blankAnswer": "đầm",
       "answer": "đầm",
-      "options": [
-        "m",
-        "x",
-        "đầm",
-        "ngoan"
-      ],
       "explanation": "Điền 'đầm' để câu có nghĩa và đúng chính tả.",
       "id": 974
     },
@@ -18185,12 +17165,6 @@
       "question": "Điền từ thích hợp: “Em xếp hàng ngay (...) trước lớp. (bài 134).",
       "blankAnswer": "ngắn",
       "answer": "ngắn",
-      "options": [
-        "cây",
-        "x",
-        "ngắn",
-        "gh"
-      ],
       "explanation": "Điền 'ngắn' để câu có nghĩa và đúng chính tả.",
       "id": 975
     },
@@ -18203,12 +17177,6 @@
       "question": "Điền tiếng còn thiếu: “Mùa hè có tiếng ve (...) rả. (bài 135).",
       "blankAnswer": "kêu",
       "answer": "kêu",
-      "options": [
-        "ch",
-        "kêu",
-        "bút",
-        "gh"
-      ],
       "explanation": "Điền 'kêu' để câu có nghĩa và đúng chính tả.",
       "id": 976
     },
@@ -18221,12 +17189,6 @@
       "question": "Điền từ thích hợp: “Chúng em cùng nhau (...) vệ sinh lớp học. (bài 136).",
       "blankAnswer": "giữ",
       "answer": "giữ",
-      "options": [
-        "ph",
-        "tr",
-        "bút",
-        "giữ"
-      ],
       "explanation": "Điền 'giữ' để câu có nghĩa và đúng chính tả.",
       "id": 977
     },
@@ -18239,12 +17201,6 @@
       "question": "Điền âm đầu thích hợp: “(...)á vàng bơi trong bể. (bài 137).",
       "blankAnswer": "c",
       "answer": "c",
-      "options": [
-        "gi",
-        "r",
-        "chơi",
-        "c"
-      ],
       "explanation": "Điền 'c' để câu có nghĩa và đúng chính tả.",
       "id": 978
     },
@@ -18257,12 +17213,6 @@
       "question": "Điền âm đầu thích hợp: “(...)im sâu chuyền cành. (bài 138).",
       "blankAnswer": "ch",
       "answer": "ch",
-      "options": [
-        "đ",
-        "ngh",
-        "qu",
-        "ch"
-      ],
       "explanation": "Điền 'ch' để câu có nghĩa và đúng chính tả.",
       "id": 979
     },
@@ -18275,12 +17225,6 @@
       "question": "Điền âm đầu thích hợp: “(...)uối chín có vị ngọt. (bài 139).",
       "blankAnswer": "ch",
       "answer": "ch",
-      "options": [
-        "sạch",
-        "ch",
-        "l",
-        "hoa"
-      ],
       "explanation": "Điền 'ch' để câu có nghĩa và đúng chính tả.",
       "id": 980
     },
@@ -18293,12 +17237,6 @@
       "question": "Điền tiếng còn thiếu: “Bé (...) bài rất chăm. (bài 140).",
       "blankAnswer": "học",
       "answer": "học",
-      "options": [
-        "học",
-        "t",
-        "s",
-        "hoa"
-      ],
       "explanation": "Điền 'học' để câu có nghĩa và đúng chính tả.",
       "id": 981
     },
@@ -18311,12 +17249,6 @@
       "question": "Điền từ thích hợp: “Mẹ nấu (...) cho cả nhà. (bài 141).",
       "blankAnswer": "cơm",
       "answer": "cơm",
-      "options": [
-        "v",
-        "ngoan",
-        "nắng",
-        "cơm"
-      ],
       "explanation": "Điền 'cơm' để câu có nghĩa và đúng chính tả.",
       "id": 982
     },
@@ -18329,12 +17261,6 @@
       "question": "Điền tiếng còn thiếu: “Trời (...) sau cơn mưa. (bài 142).",
       "blankAnswer": "mát",
       "answer": "mát",
-      "options": [
-        "k",
-        "mát",
-        "ng",
-        "n"
-      ],
       "explanation": "Điền 'mát' để câu có nghĩa và đúng chính tả.",
       "id": 983
     },
@@ -18347,12 +17273,6 @@
       "question": "Điền tiếng còn thiếu: “Bé (...) lời cô dạy. (bài 143).",
       "blankAnswer": "vâng",
       "answer": "vâng",
-      "options": [
-        "uống",
-        "ăn",
-        "vâng",
-        "mưa"
-      ],
       "explanation": "Điền 'vâng' để câu có nghĩa và đúng chính tả.",
       "id": 984
     },
@@ -18365,12 +17285,6 @@
       "question": "Điền từ thích hợp: “Đàn chim bay trên (...) xanh. (bài 144).",
       "blankAnswer": "bầu trời",
       "answer": "bầu trời",
-      "options": [
-        "l",
-        "ph",
-        "bầu trời",
-        "th"
-      ],
       "explanation": "Điền 'bầu trời' để câu có nghĩa và đúng chính tả.",
       "id": 985
     },
@@ -18383,12 +17297,6 @@
       "question": "Điền tiếng còn thiếu: “Em giữ gìn (...) vở sạch đẹp. (bài 145).",
       "blankAnswer": "sách",
       "answer": "sách",
-      "options": [
-        "hoa",
-        "d",
-        "gh",
-        "sách"
-      ],
       "explanation": "Điền 'sách' để câu có nghĩa và đúng chính tả.",
       "id": 986
     },
@@ -18401,12 +17309,6 @@
       "question": "Điền từ thích hợp: “Bố (...) cây trước sân. (bài 146).",
       "blankAnswer": "tưới",
       "answer": "tưới",
-      "options": [
-        "ngoan",
-        "ch",
-        "tưới",
-        "viết"
-      ],
       "explanation": "Điền 'tưới' để câu có nghĩa và đúng chính tả.",
       "id": 987
     },
@@ -18419,12 +17321,6 @@
       "question": "Điền tiếng còn thiếu: “Chú (...) đang gặm cỏ. (bài 147).",
       "blankAnswer": "dê",
       "answer": "dê",
-      "options": [
-        "dê",
-        "học",
-        "v",
-        "đọc"
-      ],
       "explanation": "Điền 'dê' để câu có nghĩa và đúng chính tả.",
       "id": 988
     },
@@ -18437,12 +17333,6 @@
       "question": "Điền tiếng còn thiếu: “Bé (...) răng trước khi ngủ. (bài 148).",
       "blankAnswer": "đánh",
       "answer": "đánh",
-      "options": [
-        "b",
-        "đánh",
-        "nhà",
-        "vui"
-      ],
       "explanation": "Điền 'đánh' để câu có nghĩa và đúng chính tả.",
       "id": 989
     },
@@ -18455,12 +17345,6 @@
       "question": "Điền từ thích hợp: “Bà kể chuyện (...) cho em nghe. (bài 149).",
       "blankAnswer": "cổ tích",
       "answer": "cổ tích",
-      "options": [
-        "ngoan",
-        "cổ tích",
-        "l",
-        "nhà"
-      ],
       "explanation": "Điền 'cổ tích' để câu có nghĩa và đúng chính tả.",
       "id": 990
     },
@@ -18473,12 +17357,6 @@
       "question": "Điền tiếng còn thiếu: “Hoa sen nở trong (...) nước. (bài 150).",
       "blankAnswer": "đầm",
       "answer": "đầm",
-      "options": [
-        "đầm",
-        "qu",
-        "ph",
-        "cây"
-      ],
       "explanation": "Điền 'đầm' để câu có nghĩa và đúng chính tả.",
       "id": 991
     },
@@ -18491,12 +17369,6 @@
       "question": "Điền từ thích hợp: “Em xếp hàng ngay (...) trước lớp. (bài 151).",
       "blankAnswer": "ngắn",
       "answer": "ngắn",
-      "options": [
-        "x",
-        "đ",
-        "bút",
-        "ngắn"
-      ],
       "explanation": "Điền 'ngắn' để câu có nghĩa và đúng chính tả.",
       "id": 992
     },
@@ -18509,12 +17381,6 @@
       "question": "Điền tiếng còn thiếu: “Mùa hè có tiếng ve (...) rả. (bài 152).",
       "blankAnswer": "kêu",
       "answer": "kêu",
-      "options": [
-        "nắng",
-        "x",
-        "kêu",
-        "c"
-      ],
       "explanation": "Điền 'kêu' để câu có nghĩa và đúng chính tả.",
       "id": 993
     },
@@ -18527,12 +17393,6 @@
       "question": "Điền từ thích hợp: “Chúng em cùng nhau (...) vệ sinh lớp học. (bài 153).",
       "blankAnswer": "giữ",
       "answer": "giữ",
-      "options": [
-        "giữ",
-        "ng",
-        "t",
-        "n"
-      ],
       "explanation": "Điền 'giữ' để câu có nghĩa và đúng chính tả.",
       "id": 994
     },
@@ -18545,12 +17405,6 @@
       "question": "Điền âm đầu thích hợp: “(...)á vàng bơi trong bể. (bài 154).",
       "blankAnswer": "c",
       "answer": "c",
-      "options": [
-        "gi",
-        "học",
-        "ch",
-        "c"
-      ],
       "explanation": "Điền 'c' để câu có nghĩa và đúng chính tả.",
       "id": 995
     },
@@ -18563,12 +17417,6 @@
       "question": "Điền âm đầu thích hợp: “(...)im sâu chuyền cành. (bài 155).",
       "blankAnswer": "ch",
       "answer": "ch",
-      "options": [
-        "n",
-        "ch",
-        "uống",
-        "m"
-      ],
       "explanation": "Điền 'ch' để câu có nghĩa và đúng chính tả.",
       "id": 996
     },
@@ -18581,12 +17429,6 @@
       "question": "Điền âm đầu thích hợp: “(...)uối chín có vị ngọt. (bài 156).",
       "blankAnswer": "ch",
       "answer": "ch",
-      "options": [
-        "d",
-        "g",
-        "ăn",
-        "ch"
-      ],
       "explanation": "Điền 'ch' để câu có nghĩa và đúng chính tả.",
       "id": 997
     },
@@ -18599,12 +17441,6 @@
       "question": "Điền tiếng còn thiếu: “Bé (...) bài rất chăm. (bài 157).",
       "blankAnswer": "học",
       "answer": "học",
-      "options": [
-        "g",
-        "k",
-        "uống",
-        "học"
-      ],
       "explanation": "Điền 'học' để câu có nghĩa và đúng chính tả.",
       "id": 998
     },
@@ -18617,12 +17453,6 @@
       "question": "Điền từ thích hợp: “Mẹ nấu (...) cho cả nhà. (bài 158).",
       "blankAnswer": "cơm",
       "answer": "cơm",
-      "options": [
-        "ng",
-        "gh",
-        "x",
-        "cơm"
-      ],
       "explanation": "Điền 'cơm' để câu có nghĩa và đúng chính tả.",
       "id": 999
     },
@@ -18635,12 +17465,6 @@
       "question": "Điền tiếng còn thiếu: “Trời (...) sau cơn mưa. (bài 159).",
       "blankAnswer": "mát",
       "answer": "mát",
-      "options": [
-        "mát",
-        "k",
-        "ăn",
-        "mưa"
-      ],
       "explanation": "Điền 'mát' để câu có nghĩa và đúng chính tả.",
       "id": 1000
     },
@@ -18653,12 +17477,6 @@
       "question": "Điền tiếng còn thiếu: “Bé (...) lời cô dạy. (bài 160).",
       "blankAnswer": "vâng",
       "answer": "vâng",
-      "options": [
-        "b",
-        "cây",
-        "vâng",
-        "ph"
-      ],
       "explanation": "Điền 'vâng' để câu có nghĩa và đúng chính tả.",
       "id": 1001
     },
@@ -18671,12 +17489,6 @@
       "question": "Điền từ thích hợp: “Đàn chim bay trên (...) xanh. (bài 161).",
       "blankAnswer": "bầu trời",
       "answer": "bầu trời",
-      "options": [
-        "uống",
-        "học",
-        "bầu trời",
-        "sạch"
-      ],
       "explanation": "Điền 'bầu trời' để câu có nghĩa và đúng chính tả.",
       "id": 1002
     },
@@ -18689,12 +17501,6 @@
       "question": "Điền tiếng còn thiếu: “Em giữ gìn (...) vở sạch đẹp. (bài 162).",
       "blankAnswer": "sách",
       "answer": "sách",
-      "options": [
-        "tr",
-        "nhà",
-        "sách",
-        "m"
-      ],
       "explanation": "Điền 'sách' để câu có nghĩa và đúng chính tả.",
       "id": 1003
     },
@@ -18707,12 +17513,6 @@
       "question": "Điền từ thích hợp: “Bố (...) cây trước sân. (bài 163).",
       "blankAnswer": "tưới",
       "answer": "tưới",
-      "options": [
-        "r",
-        "ph",
-        "tưới",
-        "d"
-      ],
       "explanation": "Điền 'tưới' để câu có nghĩa và đúng chính tả.",
       "id": 1004
     },
@@ -18725,12 +17525,6 @@
       "question": "Điền tiếng còn thiếu: “Chú (...) đang gặm cỏ. (bài 164).",
       "blankAnswer": "dê",
       "answer": "dê",
-      "options": [
-        "m",
-        "dê",
-        "viết",
-        "học"
-      ],
       "explanation": "Điền 'dê' để câu có nghĩa và đúng chính tả.",
       "id": 1005
     },
@@ -18743,12 +17537,6 @@
       "question": "Điền tiếng còn thiếu: “Bé (...) răng trước khi ngủ. (bài 165).",
       "blankAnswer": "đánh",
       "answer": "đánh",
-      "options": [
-        "đánh",
-        "k",
-        "đọc",
-        "uống"
-      ],
       "explanation": "Điền 'đánh' để câu có nghĩa và đúng chính tả.",
       "id": 1006
     },
@@ -18761,12 +17549,6 @@
       "question": "Điền từ thích hợp: “Bà kể chuyện (...) cho em nghe. (bài 166).",
       "blankAnswer": "cổ tích",
       "answer": "cổ tích",
-      "options": [
-        "ng",
-        "ph",
-        "cổ tích",
-        "vở"
-      ],
       "explanation": "Điền 'cổ tích' để câu có nghĩa và đúng chính tả.",
       "id": 1007
     },
@@ -18779,12 +17561,6 @@
       "question": "Điền tiếng còn thiếu: “Hoa sen nở trong (...) nước. (bài 167).",
       "blankAnswer": "đầm",
       "answer": "đầm",
-      "options": [
-        "ăn",
-        "ngoan",
-        "đầm",
-        "ch"
-      ],
       "explanation": "Điền 'đầm' để câu có nghĩa và đúng chính tả.",
       "id": 1008
     },
@@ -18797,12 +17573,6 @@
       "question": "Điền từ thích hợp: “Em xếp hàng ngay (...) trước lớp. (bài 168).",
       "blankAnswer": "ngắn",
       "answer": "ngắn",
-      "options": [
-        "gi",
-        "ngắn",
-        "viết",
-        "uống"
-      ],
       "explanation": "Điền 'ngắn' để câu có nghĩa và đúng chính tả.",
       "id": 1009
     },
@@ -18815,12 +17585,6 @@
       "question": "Điền tiếng còn thiếu: “Mùa hè có tiếng ve (...) rả. (bài 169).",
       "blankAnswer": "kêu",
       "answer": "kêu",
-      "options": [
-        "ph",
-        "chơi",
-        "kêu",
-        "uống"
-      ],
       "explanation": "Điền 'kêu' để câu có nghĩa và đúng chính tả.",
       "id": 1010
     },
@@ -18833,12 +17597,6 @@
       "question": "Điền từ thích hợp: “Chúng em cùng nhau (...) vệ sinh lớp học. (bài 170).",
       "blankAnswer": "giữ",
       "answer": "giữ",
-      "options": [
-        "giữ",
-        "c",
-        "cây",
-        "ngoan"
-      ],
       "explanation": "Điền 'giữ' để câu có nghĩa và đúng chính tả.",
       "id": 1011
     },
@@ -30675,12 +29433,6 @@
       "question": "Điền từ thích hợp vào chỗ trống:\nBuổi sáng, chim ... trên cành cây.",
       "blankAnswer": "hót",
       "answer": "hót",
-      "options": [
-        "hót",
-        "ngủ",
-        "bơi",
-        "chạy"
-      ],
       "explanation": "Từ 'hót' phù hợp về nghĩa và giúp câu hoàn chỉnh.",
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_1",
@@ -30693,12 +29445,6 @@
       "question": "Điền từ thích hợp vào chỗ trống:\nMẹ ... cơm trong căn bếp nhỏ.",
       "blankAnswer": "nấu",
       "answer": "nấu",
-      "options": [
-        "nấu",
-        "hát",
-        "vẽ",
-        "bay"
-      ],
       "explanation": "Từ 'nấu' phù hợp về nghĩa và giúp câu hoàn chỉnh.",
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_1",
@@ -30711,12 +29457,6 @@
       "question": "Điền từ thích hợp vào chỗ trống:\nBé dùng bút ... để viết bài.",
       "blankAnswer": "chì",
       "answer": "chì",
-      "options": [
-        "chì",
-        "cá",
-        "lá",
-        "gió"
-      ],
       "explanation": "Từ 'chì' phù hợp về nghĩa và giúp câu hoàn chỉnh.",
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_1",
@@ -30729,12 +29469,6 @@
       "question": "Điền từ thích hợp vào chỗ trống:\nTrời nắng, em đội ... khi ra đường.",
       "blankAnswer": "mũ",
       "answer": "mũ",
-      "options": [
-        "mũ",
-        "bát",
-        "vở",
-        "thìa"
-      ],
       "explanation": "Từ 'mũ' phù hợp về nghĩa và giúp câu hoàn chỉnh.",
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_1",
@@ -30747,12 +29481,6 @@
       "question": "Điền từ thích hợp vào chỗ trống:\nCô giáo ... bài cho cả lớp nghe.",
       "blankAnswer": "đọc",
       "answer": "đọc",
-      "options": [
-        "đọc",
-        "nấu",
-        "tưới",
-        "hót"
-      ],
       "explanation": "Từ 'đọc' phù hợp về nghĩa và giúp câu hoàn chỉnh.",
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_1",
@@ -30765,12 +29493,6 @@
       "question": "Điền từ thích hợp vào chỗ trống:\nCon mèo ... trên chiếc ghế êm.",
       "blankAnswer": "nằm",
       "answer": "nằm",
-      "options": [
-        "nằm",
-        "bay",
-        "bơi",
-        "mọc"
-      ],
       "explanation": "Từ 'nằm' phù hợp về nghĩa và giúp câu hoàn chỉnh.",
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_1",
@@ -30783,12 +29505,6 @@
       "question": "Điền từ thích hợp vào chỗ trống:\nBố ... cây non trong vườn.",
       "blankAnswer": "trồng",
       "answer": "trồng",
-      "options": [
-        "trồng",
-        "đọc",
-        "hát",
-        "vẽ"
-      ],
       "explanation": "Từ 'trồng' phù hợp về nghĩa và giúp câu hoàn chỉnh.",
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_1",
@@ -30801,12 +29517,6 @@
       "question": "Điền từ thích hợp vào chỗ trống:\nBé ... tay trước khi ăn.",
       "blankAnswer": "rửa",
       "answer": "rửa",
-      "options": [
-        "rửa",
-        "hót",
-        "bay",
-        "nở"
-      ],
       "explanation": "Từ 'rửa' phù hợp về nghĩa và giúp câu hoàn chỉnh.",
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_1",
@@ -30819,12 +29529,6 @@
       "question": "Điền từ thích hợp vào chỗ trống:\nMùa hè, hoa phượng ... đỏ rực.",
       "blankAnswer": "nở",
       "answer": "nở",
-      "options": [
-        "nở",
-        "bơi",
-        "chạy",
-        "ngủ"
-      ],
       "explanation": "Từ 'nở' phù hợp về nghĩa và giúp câu hoàn chỉnh.",
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_1",
@@ -30837,12 +29541,6 @@
       "question": "Điền từ thích hợp vào chỗ trống:\nEm ... lời ông bà dặn.",
       "blankAnswer": "nhớ",
       "answer": "nhớ",
-      "options": [
-        "nhớ",
-        "nấu",
-        "hót",
-        "tưới"
-      ],
       "explanation": "Từ 'nhớ' phù hợp về nghĩa và giúp câu hoàn chỉnh.",
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_1",
@@ -30855,12 +29553,6 @@
       "question": "Điền từ thích hợp vào chỗ trống:\nGà trống ... vang mỗi sớm.",
       "blankAnswer": "gáy",
       "answer": "gáy",
-      "options": [
-        "gáy",
-        "bơi",
-        "học",
-        "đọc"
-      ],
       "explanation": "Từ 'gáy' phù hợp về nghĩa và giúp câu hoàn chỉnh.",
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_1",
@@ -30873,12 +29565,6 @@
       "question": "Điền từ thích hợp vào chỗ trống:\nChiếc thuyền ... trên mặt nước.",
       "blankAnswer": "trôi",
       "answer": "trôi",
-      "options": [
-        "trôi",
-        "nở",
-        "hót",
-        "đứng"
-      ],
       "explanation": "Từ 'trôi' phù hợp về nghĩa và giúp câu hoàn chỉnh.",
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_1",
@@ -30891,12 +29577,6 @@
       "question": "Điền từ thích hợp vào chỗ trống:\nBạn nhỏ ... sách ở thư viện.",
       "blankAnswer": "đọc",
       "answer": "đọc",
-      "options": [
-        "đọc",
-        "tưới",
-        "nấu",
-        "bay"
-      ],
       "explanation": "Từ 'đọc' phù hợp về nghĩa và giúp câu hoàn chỉnh.",
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_1",
@@ -30909,12 +29589,6 @@
       "question": "Điền từ thích hợp vào chỗ trống:\nCơn gió ... làm lá rung rinh.",
       "blankAnswer": "thổi",
       "answer": "thổi",
-      "options": [
-        "thổi",
-        "ăn",
-        "viết",
-        "ngủ"
-      ],
       "explanation": "Từ 'thổi' phù hợp về nghĩa và giúp câu hoàn chỉnh.",
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_1",
@@ -30927,12 +29601,6 @@
       "question": "Điền từ thích hợp vào chỗ trống:\nBé ... bức tranh tặng mẹ.",
       "blankAnswer": "vẽ",
       "answer": "vẽ",
-      "options": [
-        "vẽ",
-        "bơi",
-        "gáy",
-        "trồng"
-      ],
       "explanation": "Từ 'vẽ' phù hợp về nghĩa và giúp câu hoàn chỉnh.",
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_1",
@@ -30945,12 +29613,6 @@
       "question": "Điền từ thích hợp vào chỗ trống:\nĐàn cá ... dưới ao xanh.",
       "blankAnswer": "bơi",
       "answer": "bơi",
-      "options": [
-        "bơi",
-        "hót",
-        "đọc",
-        "nở"
-      ],
       "explanation": "Từ 'bơi' phù hợp về nghĩa và giúp câu hoàn chỉnh.",
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_1",
@@ -30963,12 +29625,6 @@
       "question": "Điền từ thích hợp vào chỗ trống:\nEm ... hàng ngay ngắn trước lớp.",
       "blankAnswer": "xếp",
       "answer": "xếp",
-      "options": [
-        "xếp",
-        "hát",
-        "bay",
-        "ngủ"
-      ],
       "explanation": "Từ 'xếp' phù hợp về nghĩa và giúp câu hoàn chỉnh.",
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_1",
@@ -30981,12 +29637,6 @@
       "question": "Điền từ thích hợp vào chỗ trống:\nBà ... cháu nghe một câu chuyện.",
       "blankAnswer": "kể",
       "answer": "kể",
-      "options": [
-        "kể",
-        "tưới",
-        "chạy",
-        "rửa"
-      ],
       "explanation": "Từ 'kể' phù hợp về nghĩa và giúp câu hoàn chỉnh.",
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_1",

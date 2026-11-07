@@ -67,12 +67,6 @@
       "question": "Câu 130: Điền âm đầu còn thiếu vào tiếng “(...)ân” để tạo từ đúng chính tả.",
       "blankAnswer": "ch",
       "answer": "ch",
-      "options": [
-        "tr",
-        "ch",
-        "s",
-        "x"
-      ],
       "explanation": "Điền âm đầu “ch” để tạo thành tiếng “chân” đúng chính tả.",
       "questionNumber": 2
     },
@@ -170,12 +164,6 @@
       "question": "Câu 351: Điền phần vần còn thiếu vào tiếng “m...” để tạo từ phù hợp với gợi ý: Minh chăm học.",
       "blankAnswer": "inh",
       "answer": "inh",
-      "options": [
-        "an",
-        "ang",
-        "inh",
-        "ac"
-      ],
       "explanation": "Điền phần vần “inh” để tạo từ “minh” đúng với gợi ý.",
       "questionNumber": 8
     },
@@ -248,12 +236,6 @@
       "question": "Câu 391: Điền phần vần còn thiếu vào tiếng “h...” để tạo từ phù hợp với gợi ý: Em chăm chỉ học bài.",
       "blankAnswer": "ọc",
       "answer": "ọc",
-      "options": [
-        "an",
-        "ang",
-        "ọc",
-        "ac"
-      ],
       "explanation": "Điền phần vần “ọc” để tạo từ “học” đúng với gợi ý.",
       "questionNumber": 12
     },
@@ -316,12 +298,6 @@
       "question": "Câu 336: Điền phần vần còn thiếu vào tiếng “c...” để tạo từ phù hợp với gợi ý: Bãi cát vàng bên biển.",
       "blankAnswer": "át",
       "answer": "át",
-      "options": [
-        "an",
-        "ang",
-        "ac",
-        "át"
-      ],
       "explanation": "Điền phần vần “át” để tạo từ “cát” đúng với gợi ý.",
       "questionNumber": 16
     },
@@ -334,12 +310,6 @@
       "question": "Câu 305: Điền phần vần còn thiếu vào tiếng “b...” để tạo từ phù hợp với gợi ý: Quyển sách ở trên bàn.",
       "blankAnswer": "àn",
       "answer": "àn",
-      "options": [
-        "àn",
-        "an",
-        "ang",
-        "ac"
-      ],
       "explanation": "Điền phần vần “àn” để tạo từ “bàn” đúng với gợi ý.",
       "questionNumber": 17
     },
@@ -505,12 +475,6 @@
       "question": "Câu 165: Điền âm đầu còn thiếu vào tiếng “(...)ớp” để tạo từ đúng chính tả.",
       "blankAnswer": "l",
       "answer": "l",
-      "options": [
-        "l",
-        "ch",
-        "tr",
-        "s"
-      ],
       "explanation": "Điền âm đầu “l” để tạo thành tiếng “lớp” đúng chính tả.",
       "questionNumber": 27
     },
@@ -759,12 +723,6 @@
       "question": "Câu 198: Điền âm đầu còn thiếu vào tiếng “(...)ắng” để tạo từ đúng chính tả.",
       "blankAnswer": "n",
       "answer": "n",
-      "options": [
-        "ch",
-        "n",
-        "tr",
-        "s"
-      ],
       "explanation": "Điền âm đầu “n” để tạo thành tiếng “nắng” đúng chính tả.",
       "questionNumber": 40
     },
@@ -805,12 +763,6 @@
       "question": "Câu 429: Điền phần vần còn thiếu vào tiếng “m...” để tạo từ phù hợp với gợi ý: Minh chăm học.",
       "blankAnswer": "inh",
       "answer": "inh",
-      "options": [
-        "inh",
-        "an",
-        "ang",
-        "ac"
-      ],
       "explanation": "Điền phần vần “inh” để tạo từ “minh” đúng với gợi ý.",
       "questionNumber": 42
     },
@@ -962,12 +914,6 @@
       "question": "Điền chữ cái hoặc âm thích hợp vào chỗ trống: \"(...)e đạp\"",
       "blankAnswer": "x",
       "answer": "x",
-      "options": [
-        "s",
-        "tr",
-        "x",
-        "ch"
-      ],
       "explanation": "Từ đúng chính tả là 'xe đạp', do đó âm cần điền là 'x'.",
       "questionNumber": 50
     },
@@ -1130,12 +1076,6 @@
       "question": "Câu 179: Điền âm đầu còn thiếu vào tiếng “(...)ữa” để tạo từ đúng chính tả.",
       "blankAnswer": "s",
       "answer": "s",
-      "options": [
-        "ch",
-        "tr",
-        "s",
-        "x"
-      ],
       "explanation": "Điền âm đầu “s” để tạo thành tiếng “sữa” đúng chính tả.",
       "questionNumber": 58
     },
@@ -1148,12 +1088,6 @@
       "question": "Câu 280: Điền âm đầu còn thiếu vào tiếng “(...)ưa” để tạo từ đúng chính tả.",
       "blankAnswer": "d",
       "answer": "d",
-      "options": [
-        "ch",
-        "tr",
-        "s",
-        "d"
-      ],
       "explanation": "Điền âm đầu “d” để tạo thành tiếng “dưa” đúng chính tả.",
       "questionNumber": 59
     },
@@ -1183,12 +1117,6 @@
       "question": "Câu 301: Điền phần vần còn thiếu vào tiếng “tr...” để tạo từ đúng theo gợi ý: trang: một mặt của quyển vở hoặc quyển sách.",
       "blankAnswer": "ang",
       "answer": "ang",
-      "options": [
-        "ang",
-        "an",
-        "ac",
-        "at"
-      ],
       "explanation": "Điền phần vần “ang” để tạo từ “trang” đúng với gợi ý.",
       "questionNumber": 61
     },
@@ -1303,12 +1231,6 @@
       "question": "Câu 444: Điền phần vần còn thiếu vào tiếng “g...” để tạo từ phù hợp với gợi ý: Chiếc bàn đặt ở góc lớp.",
       "blankAnswer": "óc",
       "answer": "óc",
-      "options": [
-        "an",
-        "ang",
-        "ac",
-        "óc"
-      ],
       "explanation": "Điền phần vần “óc” để tạo từ “góc” đúng với gợi ý.",
       "questionNumber": 68
     },
@@ -1406,12 +1328,6 @@
       "question": "Câu 129: Điền âm đầu còn thiếu vào tiếng “(...)ống” để tạo từ đúng chính tả.",
       "blankAnswer": "tr",
       "answer": "tr",
-      "options": [
-        "tr",
-        "ch",
-        "s",
-        "x"
-      ],
       "explanation": "Điền âm đầu “tr” để tạo thành tiếng “trống” đúng chính tả.",
       "questionNumber": 74
     },
@@ -1477,12 +1393,6 @@
       "question": "Câu 87: Điền âm đầu còn thiếu vào tiếng “(...)au” để tạo từ đúng chính tả.",
       "blankAnswer": "r",
       "answer": "r",
-      "options": [
-        "ch",
-        "tr",
-        "r",
-        "s"
-      ],
       "explanation": "Điền âm đầu “r” để tạo thành tiếng “rau” đúng chính tả.",
       "questionNumber": 77
     },
@@ -1647,12 +1557,6 @@
       "question": "Câu 435: Điền phần vần còn thiếu vào tiếng “b...” để tạo từ phù hợp với gợi ý: Quyển sách ở trên bàn.",
       "blankAnswer": "àn",
       "answer": "àn",
-      "options": [
-        "an",
-        "ang",
-        "àn",
-        "ac"
-      ],
       "explanation": "Điền phần vần “àn” để tạo từ “bàn” đúng với gợi ý.",
       "questionNumber": 87
     },
@@ -1665,12 +1569,6 @@
       "question": "Câu 28: Điền âm đầu còn thiếu vào tiếng “(...)ế” để tạo từ đúng chính tả.",
       "blankAnswer": "gh",
       "answer": "gh",
-      "options": [
-        "ch",
-        "tr",
-        "s",
-        "gh"
-      ],
       "explanation": "Điền âm đầu “gh” để tạo thành tiếng “ghế” đúng chính tả.",
       "questionNumber": 88
     },
@@ -1788,12 +1686,6 @@
       "question": "Câu 375: Điền phần vần còn thiếu vào tiếng “x...” để tạo từ phù hợp với gợi ý: Bông hoa thật xinh.",
       "blankAnswer": "inh",
       "answer": "inh",
-      "options": [
-        "an",
-        "ang",
-        "inh",
-        "ac"
-      ],
       "explanation": "Điền phần vần “inh” để tạo từ “xinh” đúng với gợi ý.",
       "questionNumber": 94
     },
@@ -1860,12 +1752,6 @@
       "question": "Câu 226: Điền âm đầu còn thiếu vào tiếng “(...)ân” để tạo từ đúng chính tả.",
       "blankAnswer": "ch",
       "answer": "ch",
-      "options": [
-        "tr",
-        "ch",
-        "s",
-        "x"
-      ],
       "explanation": "Điền âm đầu “ch” để tạo thành tiếng “chân” đúng chính tả.",
       "questionNumber": 97
     },
@@ -1928,12 +1814,6 @@
       "question": "Câu 231: Điền âm đầu còn thiếu vào tiếng “(...)au” để tạo từ đúng chính tả.",
       "blankAnswer": "r",
       "answer": "r",
-      "options": [
-        "ch",
-        "tr",
-        "r",
-        "s"
-      ],
       "explanation": "Điền âm đầu “r” để tạo thành tiếng “rau” đúng chính tả.",
       "questionNumber": 101
     },
@@ -1946,12 +1826,6 @@
       "question": "Câu 424: Điền phần vần còn thiếu vào tiếng “b...” để tạo từ phù hợp với gợi ý: Mẹ ngồi bên em.",
       "blankAnswer": "ên",
       "answer": "ên",
-      "options": [
-        "an",
-        "ang",
-        "ac",
-        "ên"
-      ],
       "explanation": "Điền phần vần “ên” để tạo từ “bên” đúng với gợi ý.",
       "questionNumber": 102
     },
@@ -1964,12 +1838,6 @@
       "question": "Câu 365: Điền phần vần còn thiếu vào tiếng “h...” để tạo từ phù hợp với gợi ý: Em chăm chỉ học bài.",
       "blankAnswer": "ọc",
       "answer": "ọc",
-      "options": [
-        "ọc",
-        "an",
-        "ang",
-        "ac"
-      ],
       "explanation": "Điền phần vần “ọc” để tạo từ “học” đúng với gợi ý.",
       "questionNumber": 103
     },
@@ -2129,12 +1997,6 @@
       "question": "Câu 289: Điền âm đầu còn thiếu vào tiếng “(...)ường” để tạo từ đúng chính tả.",
       "blankAnswer": "tr",
       "answer": "tr",
-      "options": [
-        "tr",
-        "ch",
-        "s",
-        "x"
-      ],
       "explanation": "Điền âm đầu “tr” để tạo thành tiếng “trường” đúng chính tả.",
       "questionNumber": 112
     },
@@ -2197,12 +2059,6 @@
       "question": "Câu 303: Điền phần vần còn thiếu vào tiếng “v...” để tạo từ phù hợp với gợi ý: Bông lúa chín vàng.",
       "blankAnswer": "àng",
       "answer": "àng",
-      "options": [
-        "an",
-        "ang",
-        "àng",
-        "ac"
-      ],
       "explanation": "Điền phần vần “àng” để tạo từ “vàng” đúng với gợi ý.",
       "questionNumber": 116
     },
@@ -2232,12 +2088,6 @@
       "question": "Câu 410: Điền phần vần còn thiếu vào tiếng “b...” để tạo từ phù hợp với gợi ý: Bạn bè cùng học.",
       "blankAnswer": "ạn",
       "answer": "ạn",
-      "options": [
-        "an",
-        "ạn",
-        "ang",
-        "ac"
-      ],
       "explanation": "Điền phần vần “ạn” để tạo từ “bạn” đúng với gợi ý.",
       "questionNumber": 118
     },
@@ -2425,12 +2275,6 @@
       "question": "Câu 193: Điền âm đầu còn thiếu vào tiếng “(...)ường” để tạo từ đúng chính tả.",
       "blankAnswer": "tr",
       "answer": "tr",
-      "options": [
-        "tr",
-        "ch",
-        "s",
-        "x"
-      ],
       "explanation": "Điền âm đầu “tr” để tạo thành tiếng “trường” đúng chính tả.",
       "questionNumber": 127
     },
@@ -2460,12 +2304,6 @@
       "question": "Câu 251: Điền âm đầu còn thiếu vào tiếng “(...)ế” để tạo từ đúng chính tả.",
       "blankAnswer": "gh",
       "answer": "gh",
-      "options": [
-        "ch",
-        "tr",
-        "gh",
-        "s"
-      ],
       "explanation": "Điền âm đầu “gh” để tạo thành tiếng “ghế” đúng chính tả.",
       "questionNumber": 129
     },
@@ -2478,12 +2316,6 @@
       "question": "Câu 323: Điền phần vần còn thiếu vào tiếng “x...” để tạo từ phù hợp với gợi ý: Bông hoa thật xinh.",
       "blankAnswer": "inh",
       "answer": "inh",
-      "options": [
-        "an",
-        "ang",
-        "inh",
-        "ac"
-      ],
       "explanation": "Điền phần vần “inh” để tạo từ “xinh” đúng với gợi ý.",
       "questionNumber": 130
     },
@@ -2529,12 +2361,6 @@
       "question": "Câu 221: Điền âm đầu còn thiếu vào tiếng “(...)ề” để tạo từ đúng chính tả.",
       "blankAnswer": "ngh",
       "answer": "ngh",
-      "options": [
-        "ngh",
-        "ch",
-        "tr",
-        "s"
-      ],
       "explanation": "Điền âm đầu “ngh” để tạo thành tiếng “nghề” đúng chính tả.",
       "questionNumber": 133
     },
@@ -2598,12 +2424,6 @@
       "question": "Câu 418: Điền phần vần còn thiếu vào tiếng “g...” để tạo từ phù hợp với gợi ý: Chiếc bàn đặt ở góc lớp.",
       "blankAnswer": "óc",
       "answer": "óc",
-      "options": [
-        "an",
-        "óc",
-        "ang",
-        "ac"
-      ],
       "explanation": "Điền phần vần “óc” để tạo từ “góc” đúng với gợi ý.",
       "questionNumber": 137
     },
@@ -2922,12 +2742,6 @@
       "question": "Câu 100: Điền âm đầu còn thiếu vào tiếng “(...)e” để tạo từ đúng chính tả.",
       "blankAnswer": "x",
       "answer": "x",
-      "options": [
-        "ch",
-        "tr",
-        "s",
-        "x"
-      ],
       "explanation": "Điền âm đầu “x” để tạo thành tiếng “xe” đúng chính tả.",
       "questionNumber": 152
     },
@@ -2940,12 +2754,6 @@
       "question": "Câu 70: Điền âm đầu còn thiếu vào tiếng “(...)ón” để tạo từ đúng chính tả.",
       "blankAnswer": "n",
       "answer": "n",
-      "options": [
-        "ch",
-        "n",
-        "tr",
-        "s"
-      ],
       "explanation": "Điền âm đầu “n” để tạo thành tiếng “nón” đúng chính tả.",
       "questionNumber": 153
     },
@@ -3037,12 +2845,6 @@
       "question": "Câu 378: Điền phần vần còn thiếu vào tiếng “t...” để tạo từ phù hợp với gợi ý: Em tin lời cô dạy.",
       "blankAnswer": "in",
       "answer": "in",
-      "options": [
-        "an",
-        "in",
-        "ang",
-        "ac"
-      ],
       "explanation": "Điền phần vần “in” để tạo từ “tin” đúng với gợi ý.",
       "questionNumber": 158
     },
@@ -3191,12 +2993,6 @@
       "question": "Câu 265: Điền âm đầu còn thiếu vào tiếng “(...)ỏ” để tạo từ đúng chính tả.",
       "blankAnswer": "gi",
       "answer": "gi",
-      "options": [
-        "gi",
-        "ch",
-        "tr",
-        "s"
-      ],
       "explanation": "Điền âm đầu “gi” để tạo thành tiếng “giỏ” đúng chính tả.",
       "questionNumber": 167
     },
@@ -3364,12 +3160,6 @@
       "question": "Câu 209: Điền âm đầu còn thiếu vào tiếng “(...)ăng” để tạo từ đúng chính tả.",
       "blankAnswer": "tr",
       "answer": "tr",
-      "options": [
-        "tr",
-        "ch",
-        "s",
-        "x"
-      ],
       "explanation": "Điền âm đầu “tr” để tạo thành tiếng “trăng” đúng chính tả.",
       "questionNumber": 176
     },
@@ -3449,12 +3239,6 @@
       "question": "Câu 287: Điền âm đầu còn thiếu vào tiếng “(...)éo” để tạo từ đúng chính tả.",
       "blankAnswer": "k",
       "answer": "k",
-      "options": [
-        "ch",
-        "tr",
-        "k",
-        "s"
-      ],
       "explanation": "Điền âm đầu “k” để tạo thành tiếng “kéo” đúng chính tả.",
       "questionNumber": 181
     },
@@ -3580,12 +3364,6 @@
       "question": "Câu 149: Điền âm đầu còn thiếu vào tiếng “(...)á” để tạo từ đúng chính tả.",
       "blankAnswer": "l",
       "answer": "l",
-      "options": [
-        "l",
-        "ch",
-        "tr",
-        "s"
-      ],
       "explanation": "Điền âm đầu “l” để tạo thành tiếng “lá” đúng chính tả.",
       "questionNumber": 188
     },
@@ -3598,12 +3376,6 @@
       "question": "Câu 242: Điền âm đầu còn thiếu vào tiếng “(...)im” để tạo từ đúng chính tả.",
       "blankAnswer": "ch",
       "answer": "ch",
-      "options": [
-        "tr",
-        "ch",
-        "s",
-        "x"
-      ],
       "explanation": "Điền âm đầu “ch” để tạo thành tiếng “chim” đúng chính tả.",
       "questionNumber": 189
     },
@@ -3650,12 +3422,6 @@
       "question": "Câu 405: Điền phần vần còn thiếu vào tiếng “tr...” để tạo từ phù hợp với gợi ý: Trang giấy trắng tinh.",
       "blankAnswer": "ang",
       "answer": "ang",
-      "options": [
-        "ang",
-        "an",
-        "ac",
-        "at"
-      ],
       "explanation": "Điền phần vần “ang” để tạo từ “trang” đúng với gợi ý.",
       "questionNumber": 192
     },
@@ -3668,12 +3434,6 @@
       "question": "Câu 283: Điền âm đầu còn thiếu vào tiếng “(...)ế” để tạo từ đúng chính tả.",
       "blankAnswer": "gh",
       "answer": "gh",
-      "options": [
-        "ch",
-        "tr",
-        "gh",
-        "s"
-      ],
       "explanation": "Điền âm đầu “gh” để tạo thành tiếng “ghế” đúng chính tả.",
       "questionNumber": 193
     },
@@ -3686,12 +3446,6 @@
       "question": "Câu 7: Điền âm đầu còn thiếu vào tiếng “(...)ổ” để tạo từ đúng chính tả.",
       "blankAnswer": "r",
       "answer": "r",
-      "options": [
-        "ch",
-        "tr",
-        "r",
-        "s"
-      ],
       "explanation": "Điền âm đầu “r” để tạo thành tiếng “rổ” đúng chính tả.",
       "questionNumber": 194
     },
@@ -3721,12 +3475,6 @@
       "question": "Câu 324: Điền phần vần còn thiếu vào tiếng “b...” để tạo từ phù hợp với gợi ý: Bình minh lên.",
       "blankAnswer": "ình",
       "answer": "ình",
-      "options": [
-        "an",
-        "ang",
-        "ac",
-        "ình"
-      ],
       "explanation": "Điền phần vần “ình” để tạo từ “bình” đúng với gợi ý.",
       "questionNumber": 196
     },
@@ -3773,12 +3521,6 @@
       "question": "Câu 220: Điền âm đầu còn thiếu vào tiếng “(...)ế” để tạo từ đúng chính tả.",
       "blankAnswer": "gh",
       "answer": "gh",
-      "options": [
-        "ch",
-        "tr",
-        "s",
-        "gh"
-      ],
       "explanation": "Điền âm đầu “gh” để tạo thành tiếng “ghế” đúng chính tả.",
       "questionNumber": 199
     },
@@ -3853,12 +3595,6 @@
       "question": "Câu 134: Điền âm đầu còn thiếu vào tiếng “(...)ụ” để tạo từ đúng chính tả.",
       "blankAnswer": "n",
       "answer": "n",
-      "options": [
-        "ch",
-        "n",
-        "tr",
-        "s"
-      ],
       "explanation": "Điền âm đầu “n” để tạo thành tiếng “nụ” đúng chính tả.",
       "questionNumber": 203
     },
@@ -3871,12 +3607,6 @@
       "question": "Câu 15: Điền âm đầu còn thiếu vào tiếng “(...)ẹo” để tạo từ đúng chính tả.",
       "blankAnswer": "k",
       "answer": "k",
-      "options": [
-        "ch",
-        "tr",
-        "k",
-        "s"
-      ],
       "explanation": "Điền âm đầu “k” để tạo thành tiếng “kẹo” đúng chính tả.",
       "questionNumber": 204
     },
@@ -3906,12 +3636,6 @@
       "question": "Câu 189: Điền âm đầu còn thiếu vào tiếng “(...)ề” để tạo từ đúng chính tả.",
       "blankAnswer": "ngh",
       "answer": "ngh",
-      "options": [
-        "ngh",
-        "ch",
-        "tr",
-        "s"
-      ],
       "explanation": "Điền âm đầu “ngh” để tạo thành tiếng “nghề” đúng chính tả.",
       "questionNumber": 206
     },
@@ -4230,12 +3954,6 @@
       "question": "Câu 111: Điền âm đầu còn thiếu vào tiếng “(...)ẹo” để tạo từ đúng chính tả.",
       "blankAnswer": "k",
       "answer": "k",
-      "options": [
-        "ch",
-        "tr",
-        "k",
-        "s"
-      ],
       "explanation": "Điền âm đầu “k” để tạo thành tiếng “kẹo” đúng chính tả.",
       "questionNumber": 222
     },
@@ -4248,12 +3966,6 @@
       "question": "Câu 115: Điền âm đầu còn thiếu vào tiếng “(...)ách” để tạo từ đúng chính tả.",
       "blankAnswer": "s",
       "answer": "s",
-      "options": [
-        "ch",
-        "tr",
-        "s",
-        "x"
-      ],
       "explanation": "Điền âm đầu “s” để tạo thành tiếng “sách” đúng chính tả.",
       "questionNumber": 223
     },
@@ -4266,12 +3978,6 @@
       "question": "Câu 412: Điền phần vần còn thiếu vào tiếng “đ...” để tạo từ phù hợp với gợi ý: Đàn chim bay trên trời.",
       "blankAnswer": "àn",
       "answer": "àn",
-      "options": [
-        "an",
-        "ang",
-        "ac",
-        "àn"
-      ],
       "explanation": "Điền phần vần “àn” để tạo từ “đàn” đúng với gợi ý.",
       "questionNumber": 224
     },
@@ -4369,12 +4075,6 @@
       "question": "Câu 148: Điền âm đầu còn thiếu vào tiếng “(...)e” để tạo từ đúng chính tả.",
       "blankAnswer": "x",
       "answer": "x",
-      "options": [
-        "ch",
-        "tr",
-        "s",
-        "x"
-      ],
       "explanation": "Điền âm đầu “x” để tạo thành tiếng “xe” đúng chính tả.",
       "questionNumber": 230
     },
@@ -4454,12 +4154,6 @@
       "question": "Câu 394: Điền phần vần còn thiếu vào tiếng “m...” để tạo từ phù hợp với gợi ý: Em có một chiếc bút.",
       "blankAnswer": "ột",
       "answer": "ột",
-      "options": [
-        "an",
-        "ột",
-        "ang",
-        "ac"
-      ],
       "explanation": "Điền phần vần “ột” để tạo từ “một” đúng với gợi ý.",
       "questionNumber": 235
     },
@@ -4489,12 +4183,6 @@
       "question": "Câu 104: Điền âm đầu còn thiếu vào tiếng “(...)òng” để tạo từ đúng chính tả.",
       "blankAnswer": "d",
       "answer": "d",
-      "options": [
-        "ch",
-        "tr",
-        "s",
-        "d"
-      ],
       "explanation": "Điền âm đầu “d” để tạo thành tiếng “dòng” đúng chính tả.",
       "questionNumber": 237
     },
@@ -4623,12 +4311,6 @@
       "question": "Câu 413: Điền phần vần còn thiếu vào tiếng “b...” để tạo từ phù hợp với gợi ý: Bác nông dân ra đồng.",
       "blankAnswer": "ác",
       "answer": "ác",
-      "options": [
-        "ác",
-        "an",
-        "ang",
-        "ac"
-      ],
       "explanation": "Điền phần vần “ác” để tạo từ “bác” đúng với gợi ý.",
       "questionNumber": 245
     },
@@ -4842,12 +4524,6 @@
       "question": "Câu 439: Điền phần vần còn thiếu vào tiếng “b...” để tạo từ phù hợp với gợi ý: Bác nông dân ra đồng.",
       "blankAnswer": "ác",
       "answer": "ác",
-      "options": [
-        "an",
-        "ang",
-        "ác",
-        "ac"
-      ],
       "explanation": "Điền phần vần “ác” để tạo từ “bác” đúng với gợi ý.",
       "questionNumber": 256
     },
@@ -4860,12 +4536,6 @@
       "question": "Câu 396: Điền phần vần còn thiếu vào tiếng “tr...” để tạo từ phù hợp với gợi ý: Em đến trường mỗi ngày.",
       "blankAnswer": "ường",
       "answer": "ường",
-      "options": [
-        "an",
-        "ang",
-        "ac",
-        "ường"
-      ],
       "explanation": "Điền phần vần “ường” để tạo từ “trường” đúng với gợi ý.",
       "questionNumber": 257
     },
@@ -4929,12 +4599,6 @@
       "question": "Câu 288: Điền âm đầu còn thiếu vào tiếng “(...)ê” để tạo từ đúng chính tả.",
       "blankAnswer": "qu",
       "answer": "qu",
-      "options": [
-        "ch",
-        "tr",
-        "s",
-        "qu"
-      ],
       "explanation": "Điền âm đầu “qu” để tạo thành tiếng “quê” đúng chính tả.",
       "questionNumber": 261
     },
@@ -4947,12 +4611,6 @@
       "question": "Câu 322: Điền phần vần còn thiếu vào tiếng “m...” để tạo từ phù hợp với gợi ý: Biển rộng mênh mông.",
       "blankAnswer": "ênh",
       "answer": "ênh",
-      "options": [
-        "an",
-        "ênh",
-        "ang",
-        "ac"
-      ],
       "explanation": "Điền phần vần “ênh” để tạo từ “mênh” đúng với gợi ý.",
       "questionNumber": 262
     },
@@ -5036,12 +4694,6 @@
       "question": "Câu 360: Điền phần vần còn thiếu vào tiếng “đ...” để tạo từ phù hợp với gợi ý: Đàn chim bay trên trời.",
       "blankAnswer": "àn",
       "answer": "àn",
-      "options": [
-        "an",
-        "ang",
-        "ac",
-        "àn"
-      ],
       "explanation": "Điền phần vần “àn” để tạo từ “đàn” đúng với gợi ý.",
       "questionNumber": 266
     },
@@ -5176,12 +4828,6 @@
       "question": "Câu 12: Điền âm đầu còn thiếu vào tiếng “(...)ôi” để tạo từ đúng chính tả.",
       "blankAnswer": "ng",
       "answer": "ng",
-      "options": [
-        "ch",
-        "tr",
-        "s",
-        "ng"
-      ],
       "explanation": "Điền âm đầu “ng” để tạo thành tiếng “ngôi” đúng chính tả.",
       "questionNumber": 273
     },
@@ -5245,12 +4891,6 @@
       "question": "Câu 45: Điền âm đầu còn thiếu vào tiếng “(...)ề” để tạo từ đúng chính tả.",
       "blankAnswer": "ngh",
       "answer": "ngh",
-      "options": [
-        "ngh",
-        "ch",
-        "tr",
-        "s"
-      ],
       "explanation": "Điền âm đầu “ngh” để tạo thành tiếng “nghề” đúng chính tả.",
       "questionNumber": 277
     },
@@ -5263,12 +4903,6 @@
       "question": "Câu 332: Điền phần vần còn thiếu vào tiếng “b...” để tạo từ phù hợp với gợi ý: Bạn bè cùng học.",
       "blankAnswer": "ạn",
       "answer": "ạn",
-      "options": [
-        "an",
-        "ang",
-        "ac",
-        "ạn"
-      ],
       "explanation": "Điền phần vần “ạn” để tạo từ “bạn” đúng với gợi ý.",
       "questionNumber": 278
     },
@@ -5281,12 +4915,6 @@
       "question": "Câu 268: Điền âm đầu còn thiếu vào tiếng “(...)ế” để tạo từ đúng chính tả.",
       "blankAnswer": "gh",
       "answer": "gh",
-      "options": [
-        "ch",
-        "tr",
-        "s",
-        "gh"
-      ],
       "explanation": "Điền âm đầu “gh” để tạo thành tiếng “ghế” đúng chính tả.",
       "questionNumber": 279
     },
@@ -5367,12 +4995,6 @@
       "question": "Câu 358: Điền phần vần còn thiếu vào tiếng “b...” để tạo từ phù hợp với gợi ý: Bạn bè cùng học.",
       "blankAnswer": "ạn",
       "answer": "ạn",
-      "options": [
-        "an",
-        "ạn",
-        "ang",
-        "ac"
-      ],
       "explanation": "Điền phần vần “ạn” để tạo từ “bạn” đúng với gợi ý.",
       "questionNumber": 284
     },
@@ -5554,12 +5176,6 @@
       "question": "Câu 357: Điền phần vần còn thiếu vào tiếng “b...” để tạo từ phù hợp với gợi ý: Quyển sách ở trên bàn.",
       "blankAnswer": "àn",
       "answer": "àn",
-      "options": [
-        "àn",
-        "an",
-        "ang",
-        "ac"
-      ],
       "explanation": "Điền phần vần “àn” để tạo từ “bàn” đúng với gợi ý.",
       "questionNumber": 295
     },
@@ -5600,12 +5216,6 @@
       "question": "Câu 254: Điền âm đầu còn thiếu vào tiếng “(...)á” để tạo từ đúng chính tả.",
       "blankAnswer": "c",
       "answer": "c",
-      "options": [
-        "ch",
-        "c",
-        "tr",
-        "s"
-      ],
       "explanation": "Điền âm đầu “c” để tạo thành tiếng “cá” đúng chính tả.",
       "questionNumber": 297
     },
@@ -5856,12 +5466,6 @@
       "question": "Câu 380: Điền phần vần còn thiếu vào tiếng “s...” để tạo từ phù hợp với gợi ý: Buổi sáng trời rất sáng.",
       "blankAnswer": "áng",
       "answer": "áng",
-      "options": [
-        "an",
-        "ang",
-        "ac",
-        "áng"
-      ],
       "explanation": "Điền phần vần “áng” để tạo từ “sáng” đúng với gợi ý.",
       "questionNumber": 309
     },
@@ -6054,12 +5658,6 @@
       "question": "Câu 337: Điền phần vần còn thiếu vào tiếng “m...” để tạo từ phù hợp với gợi ý: Gió thổi mát rượi.",
       "blankAnswer": "át",
       "answer": "át",
-      "options": [
-        "át",
-        "an",
-        "ang",
-        "ac"
-      ],
       "explanation": "Điền phần vần “át” để tạo từ “mát” đúng với gợi ý.",
       "questionNumber": 320
     },
@@ -6106,12 +5704,6 @@
       "question": "Câu 51: Điền âm đầu còn thiếu vào tiếng “(...)ân” để tạo từ đúng chính tả.",
       "blankAnswer": "s",
       "answer": "s",
-      "options": [
-        "ch",
-        "tr",
-        "s",
-        "x"
-      ],
       "explanation": "Điền âm đầu “s” để tạo thành tiếng “sân” đúng chính tả.",
       "questionNumber": 323
     },
@@ -6246,12 +5838,6 @@
       "question": "Câu 321: Điền phần vần còn thiếu vào tiếng “t...” để tạo từ phù hợp với gợi ý: Tên em là Lan.",
       "blankAnswer": "ên",
       "answer": "ên",
-      "options": [
-        "ên",
-        "an",
-        "ang",
-        "ac"
-      ],
       "explanation": "Điền phần vần “ên” để tạo từ “tên” đúng với gợi ý.",
       "questionNumber": 330
     },
@@ -6298,12 +5884,6 @@
       "question": "Câu 56: Điền âm đầu còn thiếu vào tiếng “(...)òng” để tạo từ đúng chính tả.",
       "blankAnswer": "d",
       "answer": "d",
-      "options": [
-        "ch",
-        "tr",
-        "s",
-        "d"
-      ],
       "explanation": "Điền âm đầu “d” để tạo thành tiếng “dòng” đúng chính tả.",
       "questionNumber": 333
     },
@@ -6333,12 +5913,6 @@
       "question": "Câu 296: Điền âm đầu còn thiếu vào tiếng “(...)òng” để tạo từ đúng chính tả.",
       "blankAnswer": "d",
       "answer": "d",
-      "options": [
-        "ch",
-        "tr",
-        "s",
-        "d"
-      ],
       "explanation": "Điền âm đầu “d” để tạo thành tiếng “dòng” đúng chính tả.",
       "questionNumber": 335
     },
@@ -6351,12 +5925,6 @@
       "question": "Câu 381: Điền phần vần còn thiếu vào tiếng “v...” để tạo từ phù hợp với gợi ý: Bông lúa chín vàng.",
       "blankAnswer": "àng",
       "answer": "àng",
-      "options": [
-        "àng",
-        "an",
-        "ang",
-        "ac"
-      ],
       "explanation": "Điền phần vần “àng” để tạo từ “vàng” đúng với gợi ý.",
       "questionNumber": 336
     },
@@ -6369,12 +5937,6 @@
       "question": "Câu 263: Điền âm đầu còn thiếu vào tiếng “(...)ừng” để tạo từ đúng chính tả.",
       "blankAnswer": "r",
       "answer": "r",
-      "options": [
-        "ch",
-        "tr",
-        "r",
-        "s"
-      ],
       "explanation": "Điền âm đầu “r” để tạo thành tiếng “rừng” đúng chính tả.",
       "questionNumber": 337
     },
@@ -6420,12 +5982,6 @@
       "question": "Câu 278: Điền âm đầu còn thiếu vào tiếng “(...)ụ” để tạo từ đúng chính tả.",
       "blankAnswer": "n",
       "answer": "n",
-      "options": [
-        "ch",
-        "n",
-        "tr",
-        "s"
-      ],
       "explanation": "Điền âm đầu “n” để tạo thành tiếng “nụ” đúng chính tả.",
       "questionNumber": 340
     },
@@ -6455,12 +6011,6 @@
       "question": "Câu 212: Điền âm đầu còn thiếu vào tiếng “(...)inh” để tạo từ đúng chính tả.",
       "blankAnswer": "x",
       "answer": "x",
-      "options": [
-        "ch",
-        "tr",
-        "s",
-        "x"
-      ],
       "explanation": "Điền âm đầu “x” để tạo thành tiếng “xinh” đúng chính tả.",
       "questionNumber": 342
     },
@@ -6700,12 +6250,6 @@
       "question": "Câu 77: Điền âm đầu còn thiếu vào tiếng “(...)ề” để tạo từ đúng chính tả.",
       "blankAnswer": "ngh",
       "answer": "ngh",
-      "options": [
-        "ngh",
-        "ch",
-        "tr",
-        "s"
-      ],
       "explanation": "Điền âm đầu “ngh” để tạo thành tiếng “nghề” đúng chính tả.",
       "questionNumber": 354
     },
@@ -6875,12 +6419,6 @@
       "question": "Câu 81: Điền âm đầu còn thiếu vào tiếng “(...)ống” để tạo từ đúng chính tả.",
       "blankAnswer": "tr",
       "answer": "tr",
-      "options": [
-        "tr",
-        "ch",
-        "s",
-        "x"
-      ],
       "explanation": "Điền âm đầu “tr” để tạo thành tiếng “trống” đúng chính tả.",
       "questionNumber": 362
     },
@@ -6893,12 +6431,6 @@
       "question": "Câu 230: Điền âm đầu còn thiếu vào tiếng “(...)ụ” để tạo từ đúng chính tả.",
       "blankAnswer": "n",
       "answer": "n",
-      "options": [
-        "ch",
-        "n",
-        "tr",
-        "s"
-      ],
       "explanation": "Điền âm đầu “n” để tạo thành tiếng “nụ” đúng chính tả.",
       "questionNumber": 363
     },
@@ -7044,12 +6576,6 @@
       "question": "Câu 128: Điền âm đầu còn thiếu vào tiếng “(...)yển” để tạo từ đúng chính tả.",
       "blankAnswer": "qu",
       "answer": "qu",
-      "options": [
-        "ch",
-        "tr",
-        "s",
-        "qu"
-      ],
       "explanation": "Điền âm đầu “qu” để tạo thành tiếng “quyển” đúng chính tả.",
       "questionNumber": 370
     },
@@ -7062,12 +6588,6 @@
       "question": "Câu 415: Điền phần vần còn thiếu vào tiếng “m...” để tạo từ phù hợp với gợi ý: Gió thổi mát rượi.",
       "blankAnswer": "át",
       "answer": "át",
-      "options": [
-        "an",
-        "ang",
-        "át",
-        "ac"
-      ],
       "explanation": "Điền phần vần “át” để tạo từ “mát” đúng với gợi ý.",
       "questionNumber": 371
     },
@@ -7117,12 +6637,6 @@
       "question": "Câu 1: Điền âm đầu còn thiếu vào tiếng “(...)ường” để tạo từ đúng chính tả.",
       "blankAnswer": "tr",
       "answer": "tr",
-      "options": [
-        "tr",
-        "ch",
-        "s",
-        "x"
-      ],
       "explanation": "Điền âm đầu “tr” để tạo thành tiếng “trường” đúng chính tả.",
       "questionNumber": 373
     },
@@ -7270,12 +6784,6 @@
       "question": "Câu 53: Điền âm đầu còn thiếu vào tiếng “(...)á” để tạo từ đúng chính tả.",
       "blankAnswer": "l",
       "answer": "l",
-      "options": [
-        "l",
-        "ch",
-        "tr",
-        "s"
-      ],
       "explanation": "Điền âm đầu “l” để tạo thành tiếng “lá” đúng chính tả.",
       "questionNumber": 382
     },
@@ -7288,12 +6796,6 @@
       "question": "Câu 206: Điền âm đầu còn thiếu vào tiếng “(...)á” để tạo từ đúng chính tả.",
       "blankAnswer": "c",
       "answer": "c",
-      "options": [
-        "ch",
-        "c",
-        "tr",
-        "s"
-      ],
       "explanation": "Điền âm đầu “c” để tạo thành tiếng “cá” đúng chính tả.",
       "questionNumber": 383
     },
@@ -7306,12 +6808,6 @@
       "question": "Câu 80: Điền âm đầu còn thiếu vào tiếng “(...)yển” để tạo từ đúng chính tả.",
       "blankAnswer": "qu",
       "answer": "qu",
-      "options": [
-        "ch",
-        "tr",
-        "s",
-        "qu"
-      ],
       "explanation": "Điền âm đầu “qu” để tạo thành tiếng “quyển” đúng chính tả.",
       "questionNumber": 384
     },
@@ -7440,12 +6936,6 @@
       "question": "Câu 440: Điền phần vần còn thiếu vào tiếng “c...” để tạo từ phù hợp với gợi ý: Bãi cát vàng bên biển.",
       "blankAnswer": "át",
       "answer": "át",
-      "options": [
-        "an",
-        "ang",
-        "ac",
-        "át"
-      ],
       "explanation": "Điền phần vần “át” để tạo từ “cát” đúng với gợi ý.",
       "questionNumber": 390
     },
@@ -7622,12 +7112,6 @@
       "question": "Câu 41: Điền âm đầu còn thiếu vào tiếng “(...)ày” để tạo từ đúng chính tả.",
       "blankAnswer": "gi",
       "answer": "gi",
-      "options": [
-        "gi",
-        "ch",
-        "tr",
-        "s"
-      ],
       "explanation": "Điền âm đầu “gi” để tạo thành tiếng “giày” đúng chính tả.",
       "questionNumber": 400
     },
@@ -7710,12 +7194,6 @@
       "question": "Câu 22: Điền âm đầu còn thiếu vào tiếng “(...)ón” để tạo từ đúng chính tả.",
       "blankAnswer": "n",
       "answer": "n",
-      "options": [
-        "ch",
-        "n",
-        "tr",
-        "s"
-      ],
       "explanation": "Điền âm đầu “n” để tạo thành tiếng “nón” đúng chính tả.",
       "questionNumber": 404
     },
@@ -7807,12 +7285,6 @@
       "question": "Câu 16: Điền âm đầu còn thiếu vào tiếng “(...)ả” để tạo từ đúng chính tả.",
       "blankAnswer": "qu",
       "answer": "qu",
-      "options": [
-        "ch",
-        "tr",
-        "s",
-        "qu"
-      ],
       "explanation": "Điền âm đầu “qu” để tạo thành tiếng “quả” đúng chính tả.",
       "questionNumber": 409
     },
@@ -7913,12 +7385,6 @@
       "question": "Câu 285: Điền âm đầu còn thiếu vào tiếng “(...)ề” để tạo từ đúng chính tả.",
       "blankAnswer": "ngh",
       "answer": "ngh",
-      "options": [
-        "ngh",
-        "ch",
-        "tr",
-        "s"
-      ],
       "explanation": "Điền âm đầu “ngh” để tạo thành tiếng “nghề” đúng chính tả.",
       "questionNumber": 414
     },
@@ -7931,12 +7397,6 @@
       "question": "Câu 55: Điền âm đầu còn thiếu vào tiếng “(...)ổ” để tạo từ đúng chính tả.",
       "blankAnswer": "r",
       "answer": "r",
-      "options": [
-        "ch",
-        "tr",
-        "r",
-        "s"
-      ],
       "explanation": "Điền âm đầu “r” để tạo thành tiếng “rổ” đúng chính tả.",
       "questionNumber": 415
     },
@@ -7983,12 +7443,6 @@
       "question": "Câu 94: Điền âm đầu còn thiếu vào tiếng “(...)ây” để tạo từ đúng chính tả.",
       "blankAnswer": "c",
       "answer": "c",
-      "options": [
-        "ch",
-        "c",
-        "tr",
-        "s"
-      ],
       "explanation": "Điền âm đầu “c” để tạo thành tiếng “cây” đúng chính tả.",
       "questionNumber": 418
     },
@@ -8209,12 +7663,6 @@
       "question": "Câu 260: Điền âm đầu còn thiếu vào tiếng “(...)inh” để tạo từ đúng chính tả.",
       "blankAnswer": "x",
       "answer": "x",
-      "options": [
-        "ch",
-        "tr",
-        "s",
-        "x"
-      ],
       "explanation": "Điền âm đầu “x” để tạo thành tiếng “xinh” đúng chính tả.",
       "questionNumber": 429
     },
@@ -8373,12 +7821,6 @@
       "question": "Câu 120: Điền âm đầu còn thiếu vào tiếng “(...)ép” để tạo từ đúng chính tả.",
       "blankAnswer": "d",
       "answer": "d",
-      "options": [
-        "ch",
-        "tr",
-        "s",
-        "d"
-      ],
       "explanation": "Điền âm đầu “d” để tạo thành tiếng “dép” đúng chính tả.",
       "questionNumber": 438
     },
@@ -8391,12 +7833,6 @@
       "question": "Câu 447: Điền phần vần còn thiếu vào tiếng “v...” để tạo từ phù hợp với gợi ý: Bà chăm sóc vườn rau.",
       "blankAnswer": "ườn",
       "answer": "ườn",
-      "options": [
-        "an",
-        "ang",
-        "ườn",
-        "ac"
-      ],
       "explanation": "Điền phần vần “ườn” để tạo từ “vườn” đúng với gợi ý.",
       "questionNumber": 439
     },
@@ -8425,12 +7861,6 @@
       "question": "Câu 108: Điền âm đầu còn thiếu vào tiếng “(...)ôi” để tạo từ đúng chính tả.",
       "blankAnswer": "ng",
       "answer": "ng",
-      "options": [
-        "ch",
-        "tr",
-        "s",
-        "ng"
-      ],
       "explanation": "Điền âm đầu “ng” để tạo thành tiếng “ngôi” đúng chính tả.",
       "questionNumber": 441
     },
@@ -8539,12 +7969,6 @@
       "question": "Câu 310: Điền phần vần còn thiếu vào tiếng “c...” để tạo từ phù hợp với gợi ý: Bãi cát vàng bên biển.",
       "blankAnswer": "át",
       "answer": "át",
-      "options": [
-        "an",
-        "át",
-        "ang",
-        "ac"
-      ],
       "explanation": "Điền phần vần “át” để tạo từ “cát” đúng với gợi ý.",
       "questionNumber": 447
     },
@@ -8591,12 +8015,6 @@
       "question": "Câu 359: Điền phần vần còn thiếu vào tiếng “kh...” để tạo từ phù hợp với gợi ý: Bé lau mặt bằng khăn.",
       "blankAnswer": "ăn",
       "answer": "ăn",
-      "options": [
-        "an",
-        "ang",
-        "ăn",
-        "ac"
-      ],
       "explanation": "Điền phần vần “ăn” để tạo từ “khăn” đúng với gợi ý.",
       "questionNumber": 450
     },
@@ -8609,12 +8027,6 @@
       "question": "Câu 215: Điền âm đầu còn thiếu vào tiếng “(...)ừng” để tạo từ đúng chính tả.",
       "blankAnswer": "r",
       "answer": "r",
-      "options": [
-        "ch",
-        "tr",
-        "r",
-        "s"
-      ],
       "explanation": "Điền âm đầu “r” để tạo thành tiếng “rừng” đúng chính tả.",
       "questionNumber": 451
     },
@@ -8644,12 +8056,6 @@
       "question": "Câu 218: Điền âm đầu còn thiếu vào tiếng “(...)ỗ” để tạo từ đúng chính tả.",
       "blankAnswer": "g",
       "answer": "g",
-      "options": [
-        "ch",
-        "g",
-        "tr",
-        "s"
-      ],
       "explanation": "Điền âm đầu “g” để tạo thành tiếng “gỗ” đúng chính tả.",
       "questionNumber": 453
     },
@@ -8678,12 +8084,6 @@
       "question": "Câu 106: Điền âm đầu còn thiếu vào tiếng “(...)à” để tạo từ đúng chính tả.",
       "blankAnswer": "g",
       "answer": "g",
-      "options": [
-        "ch",
-        "g",
-        "tr",
-        "s"
-      ],
       "explanation": "Điền âm đầu “g” để tạo thành tiếng “gà” đúng chính tả.",
       "questionNumber": 455
     },
@@ -8750,12 +8150,6 @@
       "question": "Câu 91: Điền âm đầu còn thiếu vào tiếng “(...)ế” để tạo từ đúng chính tả.",
       "blankAnswer": "gh",
       "answer": "gh",
-      "options": [
-        "ch",
-        "tr",
-        "gh",
-        "s"
-      ],
       "explanation": "Điền âm đầu “gh” để tạo thành tiếng “ghế” đúng chính tả.",
       "questionNumber": 458
     },
@@ -8768,12 +8162,6 @@
       "question": "Câu 356: Điền phần vần còn thiếu vào tiếng “l...” để tạo từ phù hợp với gợi ý: Em về thăm làng.",
       "blankAnswer": "àng",
       "answer": "àng",
-      "options": [
-        "an",
-        "ang",
-        "ac",
-        "àng"
-      ],
       "explanation": "Điền phần vần “àng” để tạo từ “làng” đúng với gợi ý.",
       "questionNumber": 459
     },
@@ -8847,12 +8235,6 @@
       "question": "Câu 313: Điền phần vần còn thiếu vào tiếng “h...” để tạo từ phù hợp với gợi ý: Em chăm chỉ học bài.",
       "blankAnswer": "ọc",
       "answer": "ọc",
-      "options": [
-        "ọc",
-        "an",
-        "ang",
-        "ac"
-      ],
       "explanation": "Điền phần vần “ọc” để tạo từ “học” đúng với gợi ý.",
       "questionNumber": 463
     },
@@ -8953,12 +8335,6 @@
       "question": "Câu 240: Điền âm đầu còn thiếu vào tiếng “(...)ê” để tạo từ đúng chính tả.",
       "blankAnswer": "qu",
       "answer": "qu",
-      "options": [
-        "ch",
-        "tr",
-        "s",
-        "qu"
-      ],
       "explanation": "Điền âm đầu “qu” để tạo thành tiếng “quê” đúng chính tả.",
       "questionNumber": 468
     },
@@ -9160,12 +8536,6 @@
       "question": "Câu 386: Điền phần vần còn thiếu vào tiếng “đ...” để tạo từ phù hợp với gợi ý: Đàn chim bay trên trời.",
       "blankAnswer": "àn",
       "answer": "àn",
-      "options": [
-        "an",
-        "àn",
-        "ang",
-        "ac"
-      ],
       "explanation": "Điền phần vần “àn” để tạo từ “đàn” đúng với gợi ý.",
       "questionNumber": 479
     },
@@ -9178,12 +8548,6 @@
       "question": "Câu 101: Điền âm đầu còn thiếu vào tiếng “(...)á” để tạo từ đúng chính tả.",
       "blankAnswer": "l",
       "answer": "l",
-      "options": [
-        "l",
-        "ch",
-        "tr",
-        "s"
-      ],
       "explanation": "Điền âm đầu “l” để tạo thành tiếng “lá” đúng chính tả.",
       "questionNumber": 480
     },
@@ -9298,12 +8662,6 @@
       "question": "Câu 46: Điền âm đầu còn thiếu vào tiếng “(...)ây” để tạo từ đúng chính tả.",
       "blankAnswer": "c",
       "answer": "c",
-      "options": [
-        "ch",
-        "c",
-        "tr",
-        "s"
-      ],
       "explanation": "Điền âm đầu “c” để tạo thành tiếng “cây” đúng chính tả.",
       "questionNumber": 484
     },
@@ -9421,12 +8779,6 @@
       "question": "Câu 181: Điền âm đầu còn thiếu vào tiếng “(...)òng” để tạo từ đúng chính tả.",
       "blankAnswer": "l",
       "answer": "l",
-      "options": [
-        "l",
-        "ch",
-        "tr",
-        "s"
-      ],
       "explanation": "Điền âm đầu “l” để tạo thành tiếng “lòng” đúng chính tả.",
       "questionNumber": 490
     },
@@ -9552,12 +8904,6 @@
       "question": "Câu 379: Điền phần vần còn thiếu vào tiếng “tr...” để tạo từ phù hợp với gợi ý: Trang giấy trắng tinh.",
       "blankAnswer": "ang",
       "answer": "ang",
-      "options": [
-        "an",
-        "ac",
-        "ang",
-        "at"
-      ],
       "explanation": "Điền phần vần “ang” để tạo từ “trang” đúng với gợi ý.",
       "questionNumber": 497
     },
@@ -9570,12 +8916,6 @@
       "question": "Câu 421: Điền phần vần còn thiếu vào tiếng “v...” để tạo từ phù hợp với gợi ý: Bà chăm sóc vườn rau.",
       "blankAnswer": "ườn",
       "answer": "ườn",
-      "options": [
-        "ườn",
-        "an",
-        "ang",
-        "ac"
-      ],
       "explanation": "Điền phần vần “ườn” để tạo từ “vườn” đúng với gợi ý.",
       "questionNumber": 498
     },
@@ -9588,12 +8928,6 @@
       "question": "Câu 350: Điền phần vần còn thiếu vào tiếng “b...” để tạo từ phù hợp với gợi ý: Bình minh lên.",
       "blankAnswer": "ình",
       "answer": "ình",
-      "options": [
-        "an",
-        "ình",
-        "ang",
-        "ac"
-      ],
       "explanation": "Điền phần vần “ình” để tạo từ “bình” đúng với gợi ý.",
       "questionNumber": 499
     },
@@ -9685,12 +9019,6 @@
       "question": "Câu 171: Điền âm đầu còn thiếu vào tiếng “(...)é” để tạo từ đúng chính tả.",
       "blankAnswer": "gh",
       "answer": "gh",
-      "options": [
-        "ch",
-        "tr",
-        "gh",
-        "s"
-      ],
       "explanation": "Điền âm đầu “gh” để tạo thành tiếng “ghé” đúng chính tả.",
       "questionNumber": 504
     },
@@ -9737,12 +9065,6 @@
       "question": "Câu 328: Điền phần vần còn thiếu vào tiếng “s...” để tạo từ phù hợp với gợi ý: Buổi sáng trời rất sáng.",
       "blankAnswer": "áng",
       "answer": "áng",
-      "options": [
-        "an",
-        "ang",
-        "ac",
-        "áng"
-      ],
       "explanation": "Điền phần vần “áng” để tạo từ “sáng” đúng với gợi ý.",
       "questionNumber": 507
     },
@@ -9891,12 +9213,6 @@
       "question": "Câu 89: Điền âm đầu còn thiếu vào tiếng “(...)ày” để tạo từ đúng chính tả.",
       "blankAnswer": "gi",
       "answer": "gi",
-      "options": [
-        "gi",
-        "ch",
-        "tr",
-        "s"
-      ],
       "explanation": "Điền âm đầu “gi” để tạo thành tiếng “giày” đúng chính tả.",
       "questionNumber": 516
     },
@@ -10014,12 +9330,6 @@
       "question": "Câu 373: Điền phần vần còn thiếu vào tiếng “t...” để tạo từ phù hợp với gợi ý: Tên em là Lan.",
       "blankAnswer": "ên",
       "answer": "ên",
-      "options": [
-        "ên",
-        "an",
-        "ang",
-        "ac"
-      ],
       "explanation": "Điền phần vần “ên” để tạo từ “tên” đúng với gợi ý.",
       "questionNumber": 522
     },
@@ -10130,12 +9440,6 @@
       "question": "Câu 367: Điền phần vần còn thiếu vào tiếng “l...” để tạo từ phù hợp với gợi ý: Chồi non đâm lộc.",
       "blankAnswer": "ộc",
       "answer": "ộc",
-      "options": [
-        "an",
-        "ang",
-        "ộc",
-        "ac"
-      ],
       "explanation": "Điền phần vần “ộc” để tạo từ “lộc” đúng với gợi ý.",
       "questionNumber": 527
     },
@@ -10462,12 +9766,6 @@
       "question": "Điền âm đầu còn thiếu vào tiếng “(...)ệ” để tạo thành một từ đúng chính tả.",
       "blankAnswer": "ngh",
       "answer": "ngh",
-      "options": [
-        "ngh",
-        "ch",
-        "tr",
-        "s"
-      ],
       "explanation": "Điền âm đầu “ngh” để tạo thành tiếng “nghệ” đúng chính tả.",
       "questionNumber": 544
     },
@@ -10534,12 +9832,6 @@
       "question": "Câu 143: Điền âm đầu còn thiếu vào tiếng “(...)éo” để tạo từ đúng chính tả.",
       "blankAnswer": "k",
       "answer": "k",
-      "options": [
-        "ch",
-        "tr",
-        "k",
-        "s"
-      ],
       "explanation": "Điền âm đầu “k” để tạo thành tiếng “kéo” đúng chính tả.",
       "questionNumber": 547
     },
@@ -10586,12 +9878,6 @@
       "question": "Câu 294: Điền âm đầu còn thiếu vào tiếng “(...)ắng” để tạo từ đúng chính tả.",
       "blankAnswer": "n",
       "answer": "n",
-      "options": [
-        "ch",
-        "n",
-        "tr",
-        "s"
-      ],
       "explanation": "Điền âm đầu “n” để tạo thành tiếng “nắng” đúng chính tả.",
       "questionNumber": 550
     },
@@ -10722,12 +10008,6 @@
       "question": "Câu 2: Điền âm đầu còn thiếu vào tiếng “(...)im” để tạo từ đúng chính tả.",
       "blankAnswer": "ch",
       "answer": "ch",
-      "options": [
-        "tr",
-        "ch",
-        "s",
-        "x"
-      ],
       "explanation": "Điền âm đầu “ch” để tạo thành tiếng “chim” đúng chính tả.",
       "questionNumber": 558
     },
@@ -10740,12 +10020,6 @@
       "question": "Câu 291: Điền âm đầu còn thiếu vào tiếng “(...)ân” để tạo từ đúng chính tả.",
       "blankAnswer": "s",
       "answer": "s",
-      "options": [
-        "ch",
-        "tr",
-        "s",
-        "x"
-      ],
       "explanation": "Điền âm đầu “s” để tạo thành tiếng “sân” đúng chính tả.",
       "questionNumber": 559
     },
@@ -10758,12 +10032,6 @@
       "question": "Câu 136: Điền âm đầu còn thiếu vào tiếng “(...)ưa” để tạo từ đúng chính tả.",
       "blankAnswer": "d",
       "answer": "d",
-      "options": [
-        "ch",
-        "tr",
-        "s",
-        "d"
-      ],
       "explanation": "Điền âm đầu “d” để tạo thành tiếng “dưa” đúng chính tả.",
       "questionNumber": 560
     },
@@ -10776,12 +10044,6 @@
       "question": "Câu 160: Điền âm đầu còn thiếu vào tiếng “(...)ả” để tạo từ đúng chính tả.",
       "blankAnswer": "qu",
       "answer": "qu",
-      "options": [
-        "ch",
-        "tr",
-        "s",
-        "qu"
-      ],
       "explanation": "Điền âm đầu “qu” để tạo thành tiếng “quả” đúng chính tả.",
       "questionNumber": 561
     },
@@ -10831,12 +10093,6 @@
       "question": "Câu 352: Điền phần vần còn thiếu vào tiếng “t...” để tạo từ phù hợp với gợi ý: Em tin lời cô dạy.",
       "blankAnswer": "in",
       "answer": "in",
-      "options": [
-        "an",
-        "ang",
-        "ac",
-        "in"
-      ],
       "explanation": "Điền phần vần “in” để tạo từ “tin” đúng với gợi ý.",
       "questionNumber": 563
     },
@@ -10917,12 +10173,6 @@
       "question": "Câu 146: Điền âm đầu còn thiếu vào tiếng “(...)im” để tạo từ đúng chính tả.",
       "blankAnswer": "ch",
       "answer": "ch",
-      "options": [
-        "tr",
-        "ch",
-        "s",
-        "x"
-      ],
       "explanation": "Điền âm đầu “ch” để tạo thành tiếng “chim” đúng chính tả.",
       "questionNumber": 568
     },
@@ -11094,12 +10344,6 @@
       "question": "Câu 299: Điền âm đầu còn thiếu vào tiếng “(...)ế” để tạo từ đúng chính tả.",
       "blankAnswer": "gh",
       "answer": "gh",
-      "options": [
-        "ch",
-        "tr",
-        "gh",
-        "s"
-      ],
       "explanation": "Điền âm đầu “gh” để tạo thành tiếng “ghế” đúng chính tả.",
       "questionNumber": 576
     },
@@ -11112,12 +10356,6 @@
       "question": "Câu 233: Điền âm đầu còn thiếu vào tiếng “(...)ày” để tạo từ đúng chính tả.",
       "blankAnswer": "gi",
       "answer": "gi",
-      "options": [
-        "gi",
-        "ch",
-        "tr",
-        "s"
-      ],
       "explanation": "Điền âm đầu “gi” để tạo thành tiếng “giày” đúng chính tả.",
       "questionNumber": 577
     },
@@ -11175,12 +10413,6 @@
       "question": "Câu 241: Điền âm đầu còn thiếu vào tiếng “(...)ường” để tạo từ đúng chính tả.",
       "blankAnswer": "tr",
       "answer": "tr",
-      "options": [
-        "tr",
-        "ch",
-        "s",
-        "x"
-      ],
       "explanation": "Điền âm đầu “tr” để tạo thành tiếng “trường” đúng chính tả.",
       "questionNumber": 580
     },
@@ -11226,12 +10458,6 @@
       "question": "Câu 78: Điền âm đầu còn thiếu vào tiếng “(...)ốc” để tạo từ đúng chính tả.",
       "blankAnswer": "c",
       "answer": "c",
-      "options": [
-        "ch",
-        "c",
-        "tr",
-        "s"
-      ],
       "explanation": "Điền âm đầu “c” để tạo thành tiếng “cốc” đúng chính tả.",
       "questionNumber": 583
     },
@@ -11244,12 +10470,6 @@
       "question": "Câu 257: Điền âm đầu còn thiếu vào tiếng “(...)ăng” để tạo từ đúng chính tả.",
       "blankAnswer": "tr",
       "answer": "tr",
-      "options": [
-        "tr",
-        "ch",
-        "s",
-        "x"
-      ],
       "explanation": "Điền âm đầu “tr” để tạo thành tiếng “trăng” đúng chính tả.",
       "questionNumber": 584
     },
@@ -11357,12 +10577,6 @@
       "question": "Câu 157: Điền âm đầu còn thiếu vào tiếng “(...)ỉ” để tạo từ đúng chính tả.",
       "blankAnswer": "ngh",
       "answer": "ngh",
-      "options": [
-        "ngh",
-        "ch",
-        "tr",
-        "s"
-      ],
       "explanation": "Điền âm đầu “ngh” để tạo thành tiếng “nghỉ” đúng chính tả.",
       "questionNumber": 590
     },
@@ -11409,12 +10623,6 @@
       "question": "Câu 210: Điền âm đầu còn thiếu vào tiếng “(...)ổi” để tạo từ đúng chính tả.",
       "blankAnswer": "ch",
       "answer": "ch",
-      "options": [
-        "tr",
-        "ch",
-        "s",
-        "x"
-      ],
       "explanation": "Điền âm đầu “ch” để tạo thành tiếng “chổi” đúng chính tả.",
       "questionNumber": 593
     },
@@ -11557,12 +10765,6 @@
       "question": "Câu 411: Điền phần vần còn thiếu vào tiếng “kh...” để tạo từ phù hợp với gợi ý: Bé lau mặt bằng khăn.",
       "blankAnswer": "ăn",
       "answer": "ăn",
-      "options": [
-        "an",
-        "ang",
-        "ăn",
-        "ac"
-      ],
       "explanation": "Điền phần vần “ăn” để tạo từ “khăn” đúng với gợi ý.",
       "questionNumber": 601
     },
@@ -11834,12 +11036,6 @@
       "question": "Câu 334: Điền phần vần còn thiếu vào tiếng “đ...” để tạo từ phù hợp với gợi ý: Đàn chim bay trên trời.",
       "blankAnswer": "àn",
       "answer": "àn",
-      "options": [
-        "an",
-        "àn",
-        "ang",
-        "ac"
-      ],
       "explanation": "Điền phần vần “àn” để tạo từ “đàn” đúng với gợi ý.",
       "questionNumber": 616
     },
@@ -11919,12 +11115,6 @@
       "question": "Câu 21: Điền âm đầu còn thiếu vào tiếng “(...)ớp” để tạo từ đúng chính tả.",
       "blankAnswer": "l",
       "answer": "l",
-      "options": [
-        "l",
-        "ch",
-        "tr",
-        "s"
-      ],
       "explanation": "Điền âm đầu “l” để tạo thành tiếng “lớp” đúng chính tả.",
       "questionNumber": 621
     },
@@ -11937,12 +11127,6 @@
       "question": "Câu 65: Điền âm đầu còn thiếu vào tiếng “(...)ăng” để tạo từ đúng chính tả.",
       "blankAnswer": "tr",
       "answer": "tr",
-      "options": [
-        "tr",
-        "ch",
-        "s",
-        "x"
-      ],
       "explanation": "Điền âm đầu “tr” để tạo thành tiếng “trăng” đúng chính tả.",
       "questionNumber": 622
     },
@@ -11989,12 +11173,6 @@
       "question": "Câu 197: Điền âm đầu còn thiếu vào tiếng “(...)á” để tạo từ đúng chính tả.",
       "blankAnswer": "l",
       "answer": "l",
-      "options": [
-        "l",
-        "ch",
-        "tr",
-        "s"
-      ],
       "explanation": "Điền âm đầu “l” để tạo thành tiếng “lá” đúng chính tả.",
       "questionNumber": 625
     },
@@ -12051,12 +11229,6 @@
       "question": "Câu 213: Điền âm đầu còn thiếu vào tiếng “(...)ớp” để tạo từ đúng chính tả.",
       "blankAnswer": "l",
       "answer": "l",
-      "options": [
-        "l",
-        "ch",
-        "tr",
-        "s"
-      ],
       "explanation": "Điền âm đầu “l” để tạo thành tiếng “lớp” đúng chính tả.",
       "questionNumber": 628
     },
@@ -12103,12 +11275,6 @@
       "question": "Câu 239: Điền âm đầu còn thiếu vào tiếng “(...)éo” để tạo từ đúng chính tả.",
       "blankAnswer": "k",
       "answer": "k",
-      "options": [
-        "ch",
-        "tr",
-        "k",
-        "s"
-      ],
       "explanation": "Điền âm đầu “k” để tạo thành tiếng “kéo” đúng chính tả.",
       "questionNumber": 631
     },
@@ -12284,12 +11450,6 @@
       "question": "Câu 35: Điền âm đầu còn thiếu vào tiếng “(...)ữa” để tạo từ đúng chính tả.",
       "blankAnswer": "s",
       "answer": "s",
-      "options": [
-        "ch",
-        "tr",
-        "s",
-        "x"
-      ],
       "explanation": "Điền âm đầu “s” để tạo thành tiếng “sữa” đúng chính tả.",
       "questionNumber": 641
     },
@@ -12381,12 +11541,6 @@
       "question": "Câu 167: Điền âm đầu còn thiếu vào tiếng “(...)ừng” để tạo từ đúng chính tả.",
       "blankAnswer": "r",
       "answer": "r",
-      "options": [
-        "ch",
-        "tr",
-        "r",
-        "s"
-      ],
       "explanation": "Điền âm đầu “r” để tạo thành tiếng “rừng” đúng chính tả.",
       "questionNumber": 646
     },
@@ -12399,12 +11553,6 @@
       "question": "Câu 353: Điền phần vần còn thiếu vào tiếng “tr...” để tạo từ phù hợp với gợi ý: Trang giấy trắng tinh.",
       "blankAnswer": "ang",
       "answer": "ang",
-      "options": [
-        "ang",
-        "an",
-        "ac",
-        "at"
-      ],
       "explanation": "Điền phần vần “ang” để tạo từ “trang” đúng với gợi ý.",
       "questionNumber": 647
     },
@@ -12468,12 +11616,6 @@
       "question": "Câu 290: Điền âm đầu còn thiếu vào tiếng “(...)im” để tạo từ đúng chính tả.",
       "blankAnswer": "ch",
       "answer": "ch",
-      "options": [
-        "tr",
-        "ch",
-        "s",
-        "x"
-      ],
       "explanation": "Điền âm đầu “ch” để tạo thành tiếng “chim” đúng chính tả.",
       "questionNumber": 651
     },
@@ -12503,12 +11645,6 @@
       "question": "Câu 407: Điền phần vần còn thiếu vào tiếng “v...” để tạo từ phù hợp với gợi ý: Bông lúa chín vàng.",
       "blankAnswer": "àng",
       "answer": "àng",
-      "options": [
-        "an",
-        "ang",
-        "àng",
-        "ac"
-      ],
       "explanation": "Điền phần vần “àng” để tạo từ “vàng” đúng với gợi ý.",
       "questionNumber": 653
     },
@@ -12521,12 +11657,6 @@
       "question": "Câu 201: Điền âm đầu còn thiếu vào tiếng “(...)ảng” để tạo từ đúng chính tả.",
       "blankAnswer": "gi",
       "answer": "gi",
-      "options": [
-        "gi",
-        "ch",
-        "tr",
-        "s"
-      ],
       "explanation": "Điền âm đầu “gi” để tạo thành tiếng “giảng” đúng chính tả.",
       "questionNumber": 654
     },
@@ -12572,12 +11702,6 @@
       "question": "Câu 147: Điền âm đầu còn thiếu vào tiếng “(...)ân” để tạo từ đúng chính tả.",
       "blankAnswer": "s",
       "answer": "s",
-      "options": [
-        "ch",
-        "tr",
-        "s",
-        "x"
-      ],
       "explanation": "Điền âm đầu “s” để tạo thành tiếng “sân” đúng chính tả.",
       "questionNumber": 657
     },
@@ -12755,12 +11879,6 @@
       "question": "Câu 67: Điền âm đầu còn thiếu vào tiếng “(...)ách” để tạo từ đúng chính tả.",
       "blankAnswer": "s",
       "answer": "s",
-      "options": [
-        "ch",
-        "tr",
-        "s",
-        "x"
-      ],
       "explanation": "Điền âm đầu “s” để tạo thành tiếng “sách” đúng chính tả.",
       "questionNumber": 666
     },
@@ -12919,12 +12037,6 @@
       "question": "Câu 155: Điền âm đầu còn thiếu vào tiếng “(...)ế” để tạo từ đúng chính tả.",
       "blankAnswer": "gh",
       "answer": "gh",
-      "options": [
-        "ch",
-        "tr",
-        "gh",
-        "s"
-      ],
       "explanation": "Điền âm đầu “gh” để tạo thành tiếng “ghế” đúng chính tả.",
       "questionNumber": 675
     },
@@ -12937,12 +12049,6 @@
       "question": "Câu 114: Điền âm đầu còn thiếu vào tiếng “(...)ổi” để tạo từ đúng chính tả.",
       "blankAnswer": "ch",
       "answer": "ch",
-      "options": [
-        "tr",
-        "ch",
-        "s",
-        "x"
-      ],
       "explanation": "Điền âm đầu “ch” để tạo thành tiếng “chổi” đúng chính tả.",
       "questionNumber": 676
     },
@@ -12955,12 +12061,6 @@
       "question": "Câu 214: Điền âm đầu còn thiếu vào tiếng “(...)ón” để tạo từ đúng chính tả.",
       "blankAnswer": "n",
       "answer": "n",
-      "options": [
-        "ch",
-        "n",
-        "tr",
-        "s"
-      ],
       "explanation": "Điền âm đầu “n” để tạo thành tiếng “nón” đúng chính tả.",
       "questionNumber": 677
     },
@@ -12973,12 +12073,6 @@
       "question": "Câu 36: Điền âm đầu còn thiếu vào tiếng “(...)anh” để tạo từ đúng chính tả.",
       "blankAnswer": "x",
       "answer": "x",
-      "options": [
-        "ch",
-        "tr",
-        "s",
-        "x"
-      ],
       "explanation": "Điền âm đầu “x” để tạo thành tiếng “xanh” đúng chính tả.",
       "questionNumber": 678
     },
@@ -13024,12 +12118,6 @@
       "question": "Câu 341: Điền phần vần còn thiếu vào tiếng “l...” để tạo từ phù hợp với gợi ý: Chồi non đâm lộc.",
       "blankAnswer": "ộc",
       "answer": "ộc",
-      "options": [
-        "ộc",
-        "an",
-        "ang",
-        "ac"
-      ],
       "explanation": "Điền phần vần “ộc” để tạo từ “lộc” đúng với gợi ý.",
       "questionNumber": 681
     },
@@ -13076,12 +12164,6 @@
       "question": "Câu 166: Điền âm đầu còn thiếu vào tiếng “(...)ón” để tạo từ đúng chính tả.",
       "blankAnswer": "n",
       "answer": "n",
-      "options": [
-        "ch",
-        "n",
-        "tr",
-        "s"
-      ],
       "explanation": "Điền âm đầu “n” để tạo thành tiếng “nón” đúng chính tả.",
       "questionNumber": 684
     },
@@ -13094,12 +12176,6 @@
       "question": "Câu 57: Điền âm đầu còn thiếu vào tiếng “(...)ảng” để tạo từ đúng chính tả.",
       "blankAnswer": "gi",
       "answer": "gi",
-      "options": [
-        "gi",
-        "ch",
-        "tr",
-        "s"
-      ],
       "explanation": "Điền âm đầu “gi” để tạo thành tiếng “giảng” đúng chính tả.",
       "questionNumber": 685
     },
@@ -13228,12 +12304,6 @@
       "question": "Câu 393: Điền phần vần còn thiếu vào tiếng “l...” để tạo từ phù hợp với gợi ý: Chồi non đâm lộc.",
       "blankAnswer": "ộc",
       "answer": "ộc",
-      "options": [
-        "ộc",
-        "an",
-        "ang",
-        "ac"
-      ],
       "explanation": "Điền phần vần “ộc” để tạo từ “lộc” đúng với gợi ý.",
       "questionNumber": 691
     },
@@ -13246,12 +12316,6 @@
       "question": "Câu 304: Điền phần vần còn thiếu vào tiếng “l...” để tạo từ phù hợp với gợi ý: Em về thăm làng.",
       "blankAnswer": "àng",
       "answer": "àng",
-      "options": [
-        "an",
-        "ang",
-        "ac",
-        "àng"
-      ],
       "explanation": "Điền phần vần “àng” để tạo từ “làng” đúng với gợi ý.",
       "questionNumber": 692
     },
@@ -13264,12 +12328,6 @@
       "question": "Câu 26: Điền âm đầu còn thiếu vào tiếng “(...)ỗ” để tạo từ đúng chính tả.",
       "blankAnswer": "g",
       "answer": "g",
-      "options": [
-        "ch",
-        "g",
-        "tr",
-        "s"
-      ],
       "explanation": "Điền âm đầu “g” để tạo thành tiếng “gỗ” đúng chính tả.",
       "questionNumber": 693
     },
@@ -13316,12 +12374,6 @@
       "question": "Câu 185: Điền âm đầu còn thiếu vào tiếng “(...)ày” để tạo từ đúng chính tả.",
       "blankAnswer": "gi",
       "answer": "gi",
-      "options": [
-        "gi",
-        "ch",
-        "tr",
-        "s"
-      ],
       "explanation": "Điền âm đầu “gi” để tạo thành tiếng “giày” đúng chính tả.",
       "questionNumber": 696
     },
@@ -13467,12 +12519,6 @@
       "question": "Câu 133: Điền âm đầu còn thiếu vào tiếng “(...)òng” để tạo từ đúng chính tả.",
       "blankAnswer": "l",
       "answer": "l",
-      "options": [
-        "l",
-        "ch",
-        "tr",
-        "s"
-      ],
       "explanation": "Điền âm đầu “l” để tạo thành tiếng “lòng” đúng chính tả.",
       "questionNumber": 703
     },
@@ -13502,12 +12548,6 @@
       "question": "Câu 434: Điền phần vần còn thiếu vào tiếng “l...” để tạo từ phù hợp với gợi ý: Em về thăm làng.",
       "blankAnswer": "àng",
       "answer": "àng",
-      "options": [
-        "an",
-        "àng",
-        "ang",
-        "ac"
-      ],
       "explanation": "Điền phần vần “àng” để tạo từ “làng” đúng với gợi ý.",
       "questionNumber": 705
     },
@@ -13537,12 +12577,6 @@
       "question": "Câu 428: Điền phần vần còn thiếu vào tiếng “b...” để tạo từ phù hợp với gợi ý: Bình minh lên.",
       "blankAnswer": "ình",
       "answer": "ình",
-      "options": [
-        "an",
-        "ang",
-        "ac",
-        "ình"
-      ],
       "explanation": "Điền phần vần “ình” để tạo từ “bình” đúng với gợi ý.",
       "questionNumber": 707
     },
@@ -13606,12 +12640,6 @@
       "question": "Câu 259: Điền âm đầu còn thiếu vào tiếng “(...)ách” để tạo từ đúng chính tả.",
       "blankAnswer": "s",
       "answer": "s",
-      "options": [
-        "ch",
-        "tr",
-        "s",
-        "x"
-      ],
       "explanation": "Điền âm đầu “s” để tạo thành tiếng “sách” đúng chính tả.",
       "questionNumber": 711
     },
@@ -13624,12 +12652,6 @@
       "question": "Câu 73: Điền âm đầu còn thiếu vào tiếng “(...)ỏ” để tạo từ đúng chính tả.",
       "blankAnswer": "gi",
       "answer": "gi",
-      "options": [
-        "gi",
-        "ch",
-        "tr",
-        "s"
-      ],
       "explanation": "Điền âm đầu “gi” để tạo thành tiếng “giỏ” đúng chính tả.",
       "questionNumber": 712
     },
@@ -13642,12 +12664,6 @@
       "question": "Câu 163: Điền âm đầu còn thiếu vào tiếng “(...)ách” để tạo từ đúng chính tả.",
       "blankAnswer": "s",
       "answer": "s",
-      "options": [
-        "ch",
-        "tr",
-        "s",
-        "x"
-      ],
       "explanation": "Điền âm đầu “s” để tạo thành tiếng “sách” đúng chính tả.",
       "questionNumber": 713
     },
@@ -13773,12 +12789,6 @@
       "question": "Câu 318: Điền phần vần còn thiếu vào tiếng “tr...” để tạo từ phù hợp với gợi ý: Em đến trường mỗi ngày.",
       "blankAnswer": "ường",
       "answer": "ường",
-      "options": [
-        "an",
-        "ường",
-        "ang",
-        "ac"
-      ],
       "explanation": "Điền phần vần “ường” để tạo từ “trường” đúng với gợi ý.",
       "questionNumber": 720
     },
@@ -13859,12 +12869,6 @@
       "question": "Câu 372: Điền phần vần còn thiếu vào tiếng “b...” để tạo từ phù hợp với gợi ý: Mẹ ngồi bên em.",
       "blankAnswer": "ên",
       "answer": "ên",
-      "options": [
-        "an",
-        "ang",
-        "ac",
-        "ên"
-      ],
       "explanation": "Điền phần vần “ên” để tạo từ “bên” đúng với gợi ý.",
       "questionNumber": 725
     },
@@ -13928,12 +12932,6 @@
       "question": "Câu 196: Điền âm đầu còn thiếu vào tiếng “(...)e” để tạo từ đúng chính tả.",
       "blankAnswer": "x",
       "answer": "x",
-      "options": [
-        "ch",
-        "tr",
-        "s",
-        "x"
-      ],
       "explanation": "Điền âm đầu “x” để tạo thành tiếng “xe” đúng chính tả.",
       "questionNumber": 729
     },
@@ -14293,12 +13291,6 @@
       "question": "Câu 40: Điền âm đầu còn thiếu vào tiếng “(...)ưa” để tạo từ đúng chính tả.",
       "blankAnswer": "d",
       "answer": "d",
-      "options": [
-        "ch",
-        "tr",
-        "s",
-        "d"
-      ],
       "explanation": "Điền âm đầu “d” để tạo thành tiếng “dưa” đúng chính tả.",
       "questionNumber": 750
     },
@@ -14311,12 +13303,6 @@
       "question": "Câu 431: Điền phần vần còn thiếu vào tiếng “tr...” để tạo từ phù hợp với gợi ý: Trang giấy trắng tinh.",
       "blankAnswer": "ang",
       "answer": "ang",
-      "options": [
-        "an",
-        "ac",
-        "ang",
-        "at"
-      ],
       "explanation": "Điền phần vần “ang” để tạo từ “trang” đúng với gợi ý.",
       "questionNumber": 751
     },
@@ -14462,12 +13448,6 @@
       "question": "Câu 404: Điền phần vần còn thiếu vào tiếng “t...” để tạo từ phù hợp với gợi ý: Em tin lời cô dạy.",
       "blankAnswer": "in",
       "answer": "in",
-      "options": [
-        "an",
-        "ang",
-        "ac",
-        "in"
-      ],
       "explanation": "Điền phần vần “in” để tạo từ “tin” đúng với gợi ý.",
       "questionNumber": 758
     },
@@ -14588,12 +13568,6 @@
       "question": "Câu 401: Điền phần vần còn thiếu vào tiếng “x...” để tạo từ phù hợp với gợi ý: Bông hoa thật xinh.",
       "blankAnswer": "inh",
       "answer": "inh",
-      "options": [
-        "inh",
-        "an",
-        "ang",
-        "ac"
-      ],
       "explanation": "Điền phần vần “inh” để tạo từ “xinh” đúng với gợi ý.",
       "questionNumber": 763
     },
@@ -14622,12 +13596,6 @@
       "question": "Câu 281: Điền âm đầu còn thiếu vào tiếng “(...)ày” để tạo từ đúng chính tả.",
       "blankAnswer": "gi",
       "answer": "gi",
-      "options": [
-        "gi",
-        "ch",
-        "tr",
-        "s"
-      ],
       "explanation": "Điền âm đầu “gi” để tạo thành tiếng “giày” đúng chính tả.",
       "questionNumber": 765
     },
@@ -14707,12 +13675,6 @@
       "question": "Câu 348: Điền phần vần còn thiếu vào tiếng “m...” để tạo từ phù hợp với gợi ý: Biển rộng mênh mông.",
       "blankAnswer": "ênh",
       "answer": "ênh",
-      "options": [
-        "an",
-        "ang",
-        "ac",
-        "ênh"
-      ],
       "explanation": "Điền phần vần “ênh” để tạo từ “mênh” đúng với gợi ý.",
       "questionNumber": 770
     },
@@ -14725,12 +13687,6 @@
       "question": "Câu 202: Điền âm đầu còn thiếu vào tiếng “(...)à” để tạo từ đúng chính tả.",
       "blankAnswer": "g",
       "answer": "g",
-      "options": [
-        "ch",
-        "g",
-        "tr",
-        "s"
-      ],
       "explanation": "Điền âm đầu “g” để tạo thành tiếng “gà” đúng chính tả.",
       "questionNumber": 771
     },
@@ -14893,12 +13849,6 @@
       "question": "Câu 388: Điền phần vần còn thiếu vào tiếng “c...” để tạo từ phù hợp với gợi ý: Bãi cát vàng bên biển.",
       "blankAnswer": "át",
       "answer": "át",
-      "options": [
-        "an",
-        "ang",
-        "ac",
-        "át"
-      ],
       "explanation": "Điền phần vần “át” để tạo từ “cát” đúng với gợi ý.",
       "questionNumber": 779
     },
@@ -14928,12 +13878,6 @@
       "question": "Điền chữ cái hoặc âm thích hợp vào chỗ trống: \"con (...)ìm\"",
       "blankAnswer": "k",
       "answer": "k",
-      "options": [
-        "c",
-        "k",
-        "q",
-        "ch"
-      ],
       "explanation": "Từ đúng chính tả là 'kìm', do đó âm cần điền là 'k'.",
       "questionNumber": 781
     },
@@ -14963,12 +13907,6 @@
       "question": "Câu 75: Điền âm đầu còn thiếu vào tiếng “(...)é” để tạo từ đúng chính tả.",
       "blankAnswer": "gh",
       "answer": "gh",
-      "options": [
-        "ch",
-        "tr",
-        "gh",
-        "s"
-      ],
       "explanation": "Điền âm đầu “gh” để tạo thành tiếng “ghé” đúng chính tả.",
       "questionNumber": 783
     },
@@ -15009,12 +13947,6 @@
       "question": "Câu 387: Điền phần vần còn thiếu vào tiếng “b...” để tạo từ phù hợp với gợi ý: Bác nông dân ra đồng.",
       "blankAnswer": "ác",
       "answer": "ác",
-      "options": [
-        "an",
-        "ang",
-        "ác",
-        "ac"
-      ],
       "explanation": "Điền phần vần “ác” để tạo từ “bác” đúng với gợi ý.",
       "questionNumber": 785
     },
@@ -15027,12 +13959,6 @@
       "question": "Câu 137: Điền âm đầu còn thiếu vào tiếng “(...)ày” để tạo từ đúng chính tả.",
       "blankAnswer": "gi",
       "answer": "gi",
-      "options": [
-        "gi",
-        "ch",
-        "tr",
-        "s"
-      ],
       "explanation": "Điền âm đầu “gi” để tạo thành tiếng “giày” đúng chính tả.",
       "questionNumber": 786
     },
@@ -15079,12 +14005,6 @@
       "question": "Câu 14: Điền âm đầu còn thiếu vào tiếng “(...)á” để tạo từ đúng chính tả.",
       "blankAnswer": "c",
       "answer": "c",
-      "options": [
-        "ch",
-        "c",
-        "tr",
-        "s"
-      ],
       "explanation": "Điền âm đầu “c” để tạo thành tiếng “cá” đúng chính tả.",
       "questionNumber": 789
     },
@@ -15164,12 +14084,6 @@
       "question": "Câu 86: Điền âm đầu còn thiếu vào tiếng “(...)ụ” để tạo từ đúng chính tả.",
       "blankAnswer": "n",
       "answer": "n",
-      "options": [
-        "ch",
-        "n",
-        "tr",
-        "s"
-      ],
       "explanation": "Điền âm đầu “n” để tạo thành tiếng “nụ” đúng chính tả.",
       "questionNumber": 794
     },
@@ -15182,12 +14096,6 @@
       "question": "Câu 37: Điền âm đầu còn thiếu vào tiếng “(...)òng” để tạo từ đúng chính tả.",
       "blankAnswer": "l",
       "answer": "l",
-      "options": [
-        "l",
-        "ch",
-        "tr",
-        "s"
-      ],
       "explanation": "Điền âm đầu “l” để tạo thành tiếng “lòng” đúng chính tả.",
       "questionNumber": 795
     },
@@ -15217,12 +14125,6 @@
       "question": "Câu 275: Điền âm đầu còn thiếu vào tiếng “(...)ữa” để tạo từ đúng chính tả.",
       "blankAnswer": "s",
       "answer": "s",
-      "options": [
-        "ch",
-        "tr",
-        "s",
-        "x"
-      ],
       "explanation": "Điền âm đầu “s” để tạo thành tiếng “sữa” đúng chính tả.",
       "questionNumber": 797
     },
@@ -15252,12 +14154,6 @@
       "question": "Câu 432: Điền phần vần còn thiếu vào tiếng “s...” để tạo từ phù hợp với gợi ý: Buổi sáng trời rất sáng.",
       "blankAnswer": "áng",
       "answer": "áng",
-      "options": [
-        "an",
-        "ang",
-        "ac",
-        "áng"
-      ],
       "explanation": "Điền phần vần “áng” để tạo từ “sáng” đúng với gợi ý.",
       "questionNumber": 799
     },
@@ -15286,12 +14182,6 @@
       "question": "Câu 42: Điền âm đầu còn thiếu vào tiếng “(...)ió” để tạo từ đúng chính tả.",
       "blankAnswer": "g",
       "answer": "g",
-      "options": [
-        "ch",
-        "g",
-        "tr",
-        "s"
-      ],
       "explanation": "Điền âm đầu “g” để tạo thành tiếng “gió” đúng chính tả.",
       "questionNumber": 801
     },
@@ -15321,12 +14211,6 @@
       "question": "Câu 244: Điền âm đầu còn thiếu vào tiếng “(...)e” để tạo từ đúng chính tả.",
       "blankAnswer": "x",
       "answer": "x",
-      "options": [
-        "ch",
-        "tr",
-        "s",
-        "x"
-      ],
       "explanation": "Điền âm đầu “x” để tạo thành tiếng “xe” đúng chính tả.",
       "questionNumber": 803
     },
@@ -15339,12 +14223,6 @@
       "question": "Câu 449: Điền phần vần còn thiếu vào tiếng “đ...” để tạo từ phù hợp với gợi ý: Con đường sạch đẹp.",
       "blankAnswer": "ường",
       "answer": "ường",
-      "options": [
-        "ường",
-        "an",
-        "ang",
-        "ac"
-      ],
       "explanation": "Điền phần vần “ường” để tạo từ “đường” đúng với gợi ý.",
       "questionNumber": 804
     },
@@ -15411,12 +14289,6 @@
       "question": "Câu 164: Điền âm đầu còn thiếu vào tiếng “(...)inh” để tạo từ đúng chính tả.",
       "blankAnswer": "x",
       "answer": "x",
-      "options": [
-        "ch",
-        "tr",
-        "s",
-        "x"
-      ],
       "explanation": "Điền âm đầu “x” để tạo thành tiếng “xinh” đúng chính tả.",
       "questionNumber": 807
     },
@@ -15511,12 +14383,6 @@
       "question": "Câu 327: Điền phần vần còn thiếu vào tiếng “tr...” để tạo từ phù hợp với gợi ý: Trang giấy trắng tinh.",
       "blankAnswer": "ang",
       "answer": "ang",
-      "options": [
-        "an",
-        "ac",
-        "ang",
-        "at"
-      ],
       "explanation": "Điền phần vần “ang” để tạo từ “trang” đúng với gợi ý.",
       "questionNumber": 811
     },
@@ -15529,12 +14395,6 @@
       "question": "Câu 216: Điền âm đầu còn thiếu vào tiếng “(...)ép” để tạo từ đúng chính tả.",
       "blankAnswer": "d",
       "answer": "d",
-      "options": [
-        "ch",
-        "tr",
-        "s",
-        "d"
-      ],
       "explanation": "Điền âm đầu “d” để tạo thành tiếng “dép” đúng chính tả.",
       "questionNumber": 812
     },
@@ -15632,12 +14492,6 @@
       "question": "Câu 211: Điền âm đầu còn thiếu vào tiếng “(...)ách” để tạo từ đúng chính tả.",
       "blankAnswer": "s",
       "answer": "s",
-      "options": [
-        "ch",
-        "tr",
-        "s",
-        "x"
-      ],
       "explanation": "Điền âm đầu “s” để tạo thành tiếng “sách” đúng chính tả.",
       "questionNumber": 818
     },
@@ -15721,12 +14575,6 @@
       "question": "Câu 83: Điền âm đầu còn thiếu vào tiếng “(...)ữa” để tạo từ đúng chính tả.",
       "blankAnswer": "s",
       "answer": "s",
-      "options": [
-        "ch",
-        "tr",
-        "s",
-        "x"
-      ],
       "explanation": "Điền âm đầu “s” để tạo thành tiếng “sữa” đúng chính tả.",
       "questionNumber": 822
     },
@@ -15773,12 +14621,6 @@
       "question": "Câu 138: Điền âm đầu còn thiếu vào tiếng “(...)ió” để tạo từ đúng chính tả.",
       "blankAnswer": "g",
       "answer": "g",
-      "options": [
-        "ch",
-        "g",
-        "tr",
-        "s"
-      ],
       "explanation": "Điền âm đầu “g” để tạo thành tiếng “gió” đúng chính tả.",
       "questionNumber": 825
     },
@@ -15808,12 +14650,6 @@
       "question": "Câu 162: Điền âm đầu còn thiếu vào tiếng “(...)ổi” để tạo từ đúng chính tả.",
       "blankAnswer": "ch",
       "answer": "ch",
-      "options": [
-        "tr",
-        "ch",
-        "s",
-        "x"
-      ],
       "explanation": "Điền âm đầu “ch” để tạo thành tiếng “chổi” đúng chính tả.",
       "questionNumber": 827
     },
@@ -15931,12 +14767,6 @@
       "question": "Câu 66: Điền âm đầu còn thiếu vào tiếng “(...)ổi” để tạo từ đúng chính tả.",
       "blankAnswer": "ch",
       "answer": "ch",
-      "options": [
-        "tr",
-        "ch",
-        "s",
-        "x"
-      ],
       "explanation": "Điền âm đầu “ch” để tạo thành tiếng “chổi” đúng chính tả.",
       "questionNumber": 833
     },
@@ -15977,12 +14807,6 @@
       "question": "Câu 32: Điền âm đầu còn thiếu vào tiếng “(...)yển” để tạo từ đúng chính tả.",
       "blankAnswer": "qu",
       "answer": "qu",
-      "options": [
-        "ch",
-        "tr",
-        "s",
-        "qu"
-      ],
       "explanation": "Điền âm đầu “qu” để tạo thành tiếng “quyển” đúng chính tả.",
       "questionNumber": 835
     },
@@ -16096,12 +14920,6 @@
       "question": "Câu 338: Điền phần vần còn thiếu vào tiếng “h...” để tạo từ phù hợp với gợi ý: Các bạn cùng hát.",
       "blankAnswer": "át",
       "answer": "át",
-      "options": [
-        "an",
-        "át",
-        "ang",
-        "ac"
-      ],
       "explanation": "Điền phần vần “át” để tạo từ “hát” đúng với gợi ý.",
       "questionNumber": 842
     },
@@ -16335,12 +15153,6 @@
       "question": "Câu 38: Điền âm đầu còn thiếu vào tiếng “(...)ụ” để tạo từ đúng chính tả.",
       "blankAnswer": "n",
       "answer": "n",
-      "options": [
-        "ch",
-        "n",
-        "tr",
-        "s"
-      ],
       "explanation": "Điền âm đầu “n” để tạo thành tiếng “nụ” đúng chính tả.",
       "questionNumber": 853
     },
@@ -16370,12 +15182,6 @@
       "question": "Câu 229: Điền âm đầu còn thiếu vào tiếng “(...)òng” để tạo từ đúng chính tả.",
       "blankAnswer": "l",
       "answer": "l",
-      "options": [
-        "l",
-        "ch",
-        "tr",
-        "s"
-      ],
       "explanation": "Điền âm đầu “l” để tạo thành tiếng “lòng” đúng chính tả.",
       "questionNumber": 855
     },
@@ -16712,12 +15518,6 @@
       "question": "Câu 326: Điền phần vần còn thiếu vào tiếng “t...” để tạo từ phù hợp với gợi ý: Em tin lời cô dạy.",
       "blankAnswer": "in",
       "answer": "in",
-      "options": [
-        "an",
-        "in",
-        "ang",
-        "ac"
-      ],
       "explanation": "Điền phần vần “in” để tạo từ “tin” đúng với gợi ý.",
       "questionNumber": 871
     },
@@ -16835,12 +15635,6 @@
       "question": "Câu 309: Điền phần vần còn thiếu vào tiếng “b...” để tạo từ phù hợp với gợi ý: Bác nông dân ra đồng.",
       "blankAnswer": "ác",
       "answer": "ác",
-      "options": [
-        "ác",
-        "an",
-        "ang",
-        "ac"
-      ],
       "explanation": "Điền phần vần “ác” để tạo từ “bác” đúng với gợi ý.",
       "questionNumber": 877
     },
@@ -16869,12 +15663,6 @@
       "question": "Câu 450: Điền phần vần còn thiếu vào tiếng “b...” để tạo từ phù hợp với gợi ý: Mẹ ngồi bên em.",
       "blankAnswer": "ên",
       "answer": "ên",
-      "options": [
-        "an",
-        "ên",
-        "ang",
-        "ac"
-      ],
       "explanation": "Điền phần vần “ên” để tạo từ “bên” đúng với gợi ý.",
       "questionNumber": 879
     },
@@ -16887,12 +15675,6 @@
       "question": "Điền chữ cái hoặc âm thích hợp vào chỗ trống: \"con (...)à\"",
       "blankAnswer": "g",
       "answer": "g",
-      "options": [
-        "k",
-        "gi",
-        "g",
-        "gh"
-      ],
       "explanation": "Từ đúng chính tả là 'gà', do đó âm cần điền là 'g'.",
       "questionNumber": 880
     },
@@ -16990,12 +15772,6 @@
       "question": "Câu 355: Điền phần vần còn thiếu vào tiếng “v...” để tạo từ phù hợp với gợi ý: Bông lúa chín vàng.",
       "blankAnswer": "àng",
       "answer": "àng",
-      "options": [
-        "an",
-        "ang",
-        "àng",
-        "ac"
-      ],
       "explanation": "Điền phần vần “àng” để tạo từ “vàng” đúng với gợi ý.",
       "questionNumber": 886
     },
@@ -17075,12 +15851,6 @@
       "question": "Câu 238: Điền âm đầu còn thiếu vào tiếng “(...)ây” để tạo từ đúng chính tả.",
       "blankAnswer": "c",
       "answer": "c",
-      "options": [
-        "ch",
-        "c",
-        "tr",
-        "s"
-      ],
       "explanation": "Điền âm đầu “c” để tạo thành tiếng “cây” đúng chính tả.",
       "questionNumber": 891
     },
@@ -17093,12 +15863,6 @@
       "question": "Câu 177: Điền âm đầu còn thiếu vào tiếng “(...)ống” để tạo từ đúng chính tả.",
       "blankAnswer": "tr",
       "answer": "tr",
-      "options": [
-        "tr",
-        "ch",
-        "s",
-        "x"
-      ],
       "explanation": "Điền âm đầu “tr” để tạo thành tiếng “trống” đúng chính tả.",
       "questionNumber": 892
     },
@@ -17315,12 +16079,6 @@
       "question": "Câu 63: Điền âm đầu còn thiếu vào tiếng “(...)ẹo” để tạo từ đúng chính tả.",
       "blankAnswer": "k",
       "answer": "k",
-      "options": [
-        "ch",
-        "tr",
-        "k",
-        "s"
-      ],
       "explanation": "Điền âm đầu “k” để tạo thành tiếng “kẹo” đúng chính tả.",
       "questionNumber": 905
     },
@@ -17333,12 +16091,6 @@
       "question": "Câu 279: Điền âm đầu còn thiếu vào tiếng “(...)au” để tạo từ đúng chính tả.",
       "blankAnswer": "r",
       "answer": "r",
-      "options": [
-        "ch",
-        "tr",
-        "r",
-        "s"
-      ],
       "explanation": "Điền âm đầu “r” để tạo thành tiếng “rau” đúng chính tả.",
       "questionNumber": 906
     },
@@ -17402,12 +16154,6 @@
       "question": "Câu 127: Điền âm đầu còn thiếu vào tiếng “(...)im” để tạo từ đúng chính tả.",
       "blankAnswer": "k",
       "answer": "k",
-      "options": [
-        "ch",
-        "tr",
-        "k",
-        "s"
-      ],
       "explanation": "Điền âm đầu “k” để tạo thành tiếng “kim” đúng chính tả.",
       "questionNumber": 910
     },
@@ -17437,12 +16183,6 @@
       "question": "Câu 141: Điền âm đầu còn thiếu vào tiếng “(...)ề” để tạo từ đúng chính tả.",
       "blankAnswer": "ngh",
       "answer": "ngh",
-      "options": [
-        "ngh",
-        "ch",
-        "tr",
-        "s"
-      ],
       "explanation": "Điền âm đầu “ngh” để tạo thành tiếng “nghề” đúng chính tả.",
       "questionNumber": 912
     },
@@ -17455,12 +16195,6 @@
       "question": "Câu 145: Điền âm đầu còn thiếu vào tiếng “(...)ường” để tạo từ đúng chính tả.",
       "blankAnswer": "tr",
       "answer": "tr",
-      "options": [
-        "tr",
-        "ch",
-        "s",
-        "x"
-      ],
       "explanation": "Điền âm đầu “tr” để tạo thành tiếng “trường” đúng chính tả.",
       "questionNumber": 913
     },
@@ -17507,12 +16241,6 @@
       "question": "Câu 269: Điền âm đầu còn thiếu vào tiếng “(...)ề” để tạo từ đúng chính tả.",
       "blankAnswer": "ngh",
       "answer": "ngh",
-      "options": [
-        "ngh",
-        "ch",
-        "tr",
-        "s"
-      ],
       "explanation": "Điền âm đầu “ngh” để tạo thành tiếng “nghề” đúng chính tả.",
       "questionNumber": 916
     },
@@ -17525,12 +16253,6 @@
       "question": "Câu 433: Điền phần vần còn thiếu vào tiếng “v...” để tạo từ phù hợp với gợi ý: Bông lúa chín vàng.",
       "blankAnswer": "àng",
       "answer": "àng",
-      "options": [
-        "àng",
-        "an",
-        "ang",
-        "ac"
-      ],
       "explanation": "Điền phần vần “àng” để tạo từ “vàng” đúng với gợi ý.",
       "questionNumber": 917
     },
@@ -17613,12 +16335,6 @@
       "question": "Câu 392: Điền phần vần còn thiếu vào tiếng “g...” để tạo từ phù hợp với gợi ý: Chiếc bàn đặt ở góc lớp.",
       "blankAnswer": "óc",
       "answer": "óc",
-      "options": [
-        "an",
-        "ang",
-        "ac",
-        "óc"
-      ],
       "explanation": "Điền phần vần “óc” để tạo từ “góc” đúng với gợi ý.",
       "questionNumber": 921
     },
@@ -17631,12 +16347,6 @@
       "question": "Điền âm đầu còn thiếu vào tiếng “(...)oài” để tạo thành một từ đúng chính tả.",
       "blankAnswer": "x",
       "answer": "x",
-      "options": [
-        "ch",
-        "tr",
-        "s",
-        "x"
-      ],
       "explanation": "Điền âm đầu “x” để tạo thành tiếng “xoài” đúng chính tả.",
       "questionNumber": 922
     },
@@ -17649,12 +16359,6 @@
       "question": "Câu 270: Điền âm đầu còn thiếu vào tiếng “(...)ốc” để tạo từ đúng chính tả.",
       "blankAnswer": "c",
       "answer": "c",
-      "options": [
-        "ch",
-        "c",
-        "tr",
-        "s"
-      ],
       "explanation": "Điền âm đầu “c” để tạo thành tiếng “cốc” đúng chính tả.",
       "questionNumber": 923
     },
@@ -17757,12 +16461,6 @@
       "question": "Câu 195: Điền âm đầu còn thiếu vào tiếng “(...)ân” để tạo từ đúng chính tả.",
       "blankAnswer": "s",
       "answer": "s",
-      "options": [
-        "ch",
-        "tr",
-        "s",
-        "x"
-      ],
       "explanation": "Điền âm đầu “s” để tạo thành tiếng “sân” đúng chính tả.",
       "questionNumber": 928
     },
@@ -17837,12 +16535,6 @@
       "question": "Câu 445: Điền phần vần còn thiếu vào tiếng “l...” để tạo từ phù hợp với gợi ý: Chồi non đâm lộc.",
       "blankAnswer": "ộc",
       "answer": "ộc",
-      "options": [
-        "ộc",
-        "an",
-        "ang",
-        "ac"
-      ],
       "explanation": "Điền phần vần “ộc” để tạo từ “lộc” đúng với gợi ý.",
       "questionNumber": 932
     },
@@ -17909,12 +16601,6 @@
       "question": "Câu 117: Điền âm đầu còn thiếu vào tiếng “(...)ớp” để tạo từ đúng chính tả.",
       "blankAnswer": "l",
       "answer": "l",
-      "options": [
-        "l",
-        "ch",
-        "tr",
-        "s"
-      ],
       "explanation": "Điền âm đầu “l” để tạo thành tiếng “lớp” đúng chính tả.",
       "questionNumber": 935
     },
@@ -17927,12 +16613,6 @@
       "question": "Câu 245: Điền âm đầu còn thiếu vào tiếng “(...)á” để tạo từ đúng chính tả.",
       "blankAnswer": "l",
       "answer": "l",
-      "options": [
-        "l",
-        "ch",
-        "tr",
-        "s"
-      ],
       "explanation": "Điền âm đầu “l” để tạo thành tiếng “lá” đúng chính tả.",
       "questionNumber": 936
     },
@@ -17979,12 +16659,6 @@
       "question": "Câu 174: Điền âm đầu còn thiếu vào tiếng “(...)ốc” để tạo từ đúng chính tả.",
       "blankAnswer": "c",
       "answer": "c",
-      "options": [
-        "ch",
-        "c",
-        "tr",
-        "s"
-      ],
       "explanation": "Điền âm đầu “c” để tạo thành tiếng “cốc” đúng chính tả.",
       "questionNumber": 939
     },
@@ -18312,12 +16986,6 @@
       "question": "Câu 298: Điền âm đầu còn thiếu vào tiếng “(...)à” để tạo từ đúng chính tả.",
       "blankAnswer": "g",
       "answer": "g",
-      "options": [
-        "ch",
-        "g",
-        "tr",
-        "s"
-      ],
       "explanation": "Điền âm đầu “g” để tạo thành tiếng “gà” đúng chính tả.",
       "questionNumber": 952
     },
@@ -18347,12 +17015,6 @@
       "question": "Câu 123: Điền âm đầu còn thiếu vào tiếng “(...)é” để tạo từ đúng chính tả.",
       "blankAnswer": "gh",
       "answer": "gh",
-      "options": [
-        "ch",
-        "tr",
-        "gh",
-        "s"
-      ],
       "explanation": "Điền âm đầu “gh” để tạo thành tiếng “ghé” đúng chính tả.",
       "questionNumber": 954
     },
@@ -18467,12 +17129,6 @@
       "question": "Câu 347: Điền phần vần còn thiếu vào tiếng “t...” để tạo từ phù hợp với gợi ý: Tên em là Lan.",
       "blankAnswer": "ên",
       "answer": "ên",
-      "options": [
-        "an",
-        "ang",
-        "ên",
-        "ac"
-      ],
       "explanation": "Điền phần vần “ên” để tạo từ “tên” đúng với gợi ý.",
       "questionNumber": 961
     },
@@ -18502,12 +17158,6 @@
       "question": "Câu 58: Điền âm đầu còn thiếu vào tiếng “(...)à” để tạo từ đúng chính tả.",
       "blankAnswer": "g",
       "answer": "g",
-      "options": [
-        "ch",
-        "g",
-        "tr",
-        "s"
-      ],
       "explanation": "Điền âm đầu “g” để tạo thành tiếng “gà” đúng chính tả.",
       "questionNumber": 963
     },
@@ -18520,12 +17170,6 @@
       "question": "Câu 249: Điền âm đầu còn thiếu vào tiếng “(...)ảng” để tạo từ đúng chính tả.",
       "blankAnswer": "gi",
       "answer": "gi",
-      "options": [
-        "gi",
-        "ch",
-        "tr",
-        "s"
-      ],
       "explanation": "Điền âm đầu “gi” để tạo thành tiếng “giảng” đúng chính tả.",
       "questionNumber": 964
     },
@@ -18555,12 +17199,6 @@
       "question": "Câu 122: Điền âm đầu còn thiếu vào tiếng “(...)ỗ” để tạo từ đúng chính tả.",
       "blankAnswer": "g",
       "answer": "g",
-      "options": [
-        "ch",
-        "g",
-        "tr",
-        "s"
-      ],
       "explanation": "Điền âm đầu “g” để tạo thành tiếng “gỗ” đúng chính tả.",
       "questionNumber": 966
     },
@@ -18661,12 +17299,6 @@
       "question": "Câu 441: Điền phần vần còn thiếu vào tiếng “m...” để tạo từ phù hợp với gợi ý: Gió thổi mát rượi.",
       "blankAnswer": "át",
       "answer": "át",
-      "options": [
-        "át",
-        "an",
-        "ang",
-        "ac"
-      ],
       "explanation": "Điền phần vần “át” để tạo từ “mát” đúng với gợi ý.",
       "questionNumber": 971
     },
@@ -18902,12 +17534,6 @@
       "question": "Câu 232: Điền âm đầu còn thiếu vào tiếng “(...)ưa” để tạo từ đúng chính tả.",
       "blankAnswer": "d",
       "answer": "d",
-      "options": [
-        "ch",
-        "tr",
-        "s",
-        "d"
-      ],
       "explanation": "Điền âm đầu “d” để tạo thành tiếng “dưa” đúng chính tả.",
       "questionNumber": 984
     },
@@ -19033,12 +17659,6 @@
       "question": "Câu 140: Điền âm đầu còn thiếu vào tiếng “(...)ọn” để tạo từ đúng chính tả.",
       "blankAnswer": "ng",
       "answer": "ng",
-      "options": [
-        "ch",
-        "tr",
-        "s",
-        "ng"
-      ],
       "explanation": "Điền âm đầu “ng” để tạo thành tiếng “ngọn” đúng chính tả.",
       "questionNumber": 991
     },
@@ -19217,12 +17837,6 @@
       "question": "Câu 442: Điền phần vần còn thiếu vào tiếng “h...” để tạo từ phù hợp với gợi ý: Các bạn cùng hát.",
       "blankAnswer": "át",
       "answer": "át",
-      "options": [
-        "an",
-        "át",
-        "ang",
-        "ac"
-      ],
       "explanation": "Điền phần vần “át” để tạo từ “hát” đúng với gợi ý.",
       "questionNumber": 1000
     },
@@ -19269,12 +17883,6 @@
       "question": "Câu 370: Điền phần vần còn thiếu vào tiếng “tr...” để tạo từ phù hợp với gợi ý: Em đến trường mỗi ngày.",
       "blankAnswer": "ường",
       "answer": "ường",
-      "options": [
-        "an",
-        "ường",
-        "ang",
-        "ac"
-      ],
       "explanation": "Điền phần vần “ường” để tạo từ “trường” đúng với gợi ý.",
       "questionNumber": 1003
     },
@@ -19304,12 +17912,6 @@
       "question": "Câu 11: Điền âm đầu còn thiếu vào tiếng “(...)ế” để tạo từ đúng chính tả.",
       "blankAnswer": "gh",
       "answer": "gh",
-      "options": [
-        "ch",
-        "tr",
-        "gh",
-        "s"
-      ],
       "explanation": "Điền âm đầu “gh” để tạo thành tiếng “ghế” đúng chính tả.",
       "questionNumber": 1005
     },
@@ -19508,12 +18110,6 @@
       "question": "Câu 408: Điền phần vần còn thiếu vào tiếng “l...” để tạo từ phù hợp với gợi ý: Em về thăm làng.",
       "blankAnswer": "àng",
       "answer": "àng",
-      "options": [
-        "an",
-        "ang",
-        "ac",
-        "àng"
-      ],
       "explanation": "Điền phần vần “àng” để tạo từ “làng” đúng với gợi ý.",
       "questionNumber": 1014
     },
@@ -19543,12 +18139,6 @@
       "question": "Câu 121: Điền âm đầu còn thiếu vào tiếng “(...)ỏ” để tạo từ đúng chính tả.",
       "blankAnswer": "gi",
       "answer": "gi",
-      "options": [
-        "gi",
-        "ch",
-        "tr",
-        "s"
-      ],
       "explanation": "Điền âm đầu “gi” để tạo thành tiếng “giỏ” đúng chính tả.",
       "questionNumber": 1016
     },
@@ -19674,12 +18264,6 @@
       "question": "Câu 274: Điền âm đầu còn thiếu vào tiếng “(...)ân” để tạo từ đúng chính tả.",
       "blankAnswer": "ch",
       "answer": "ch",
-      "options": [
-        "tr",
-        "ch",
-        "s",
-        "x"
-      ],
       "explanation": "Điền âm đầu “ch” để tạo thành tiếng “chân” đúng chính tả.",
       "questionNumber": 1023
     },
@@ -19743,12 +18327,6 @@
       "question": "Câu 371: Điền phần vần còn thiếu vào tiếng “đ...” để tạo từ phù hợp với gợi ý: Con đường sạch đẹp.",
       "blankAnswer": "ường",
       "answer": "ường",
-      "options": [
-        "an",
-        "ang",
-        "ường",
-        "ac"
-      ],
       "explanation": "Điền phần vần “ường” để tạo từ “đường” đúng với gợi ý.",
       "questionNumber": 1027
     },
@@ -19862,12 +18440,6 @@
       "question": "Câu 256: Điền âm đầu còn thiếu vào tiếng “(...)ả” để tạo từ đúng chính tả.",
       "blankAnswer": "qu",
       "answer": "qu",
-      "options": [
-        "ch",
-        "tr",
-        "s",
-        "qu"
-      ],
       "explanation": "Điền âm đầu “qu” để tạo thành tiếng “quả” đúng chính tả.",
       "questionNumber": 1034
     },
@@ -19965,12 +18537,6 @@
       "question": "Câu 176: Điền âm đầu còn thiếu vào tiếng “(...)yển” để tạo từ đúng chính tả.",
       "blankAnswer": "qu",
       "answer": "qu",
-      "options": [
-        "ch",
-        "tr",
-        "s",
-        "qu"
-      ],
       "explanation": "Điền âm đầu “qu” để tạo thành tiếng “quyển” đúng chính tả.",
       "questionNumber": 1040
     },
@@ -19983,12 +18549,6 @@
       "question": "Câu 19: Điền âm đầu còn thiếu vào tiếng “(...)ách” để tạo từ đúng chính tả.",
       "blankAnswer": "s",
       "answer": "s",
-      "options": [
-        "ch",
-        "tr",
-        "s",
-        "x"
-      ],
       "explanation": "Điền âm đầu “s” để tạo thành tiếng “sách” đúng chính tả.",
       "questionNumber": 1041
     },
@@ -20018,12 +18578,6 @@
       "question": "Câu 366: Điền phần vần còn thiếu vào tiếng “g...” để tạo từ phù hợp với gợi ý: Chiếc bàn đặt ở góc lớp.",
       "blankAnswer": "óc",
       "answer": "óc",
-      "options": [
-        "an",
-        "óc",
-        "ang",
-        "ac"
-      ],
       "explanation": "Điền phần vần “óc” để tạo từ “góc” đúng với gợi ý.",
       "questionNumber": 1043
     },
@@ -20036,12 +18590,6 @@
       "question": "Câu 443: Điền phần vần còn thiếu vào tiếng “h...” để tạo từ phù hợp với gợi ý: Em chăm chỉ học bài.",
       "blankAnswer": "ọc",
       "answer": "ọc",
-      "options": [
-        "an",
-        "ang",
-        "ọc",
-        "ac"
-      ],
       "explanation": "Điền phần vần “ọc” để tạo từ “học” đúng với gợi ý.",
       "questionNumber": 1044
     },
@@ -20184,12 +18732,6 @@
       "question": "Câu 403: Điền phần vần còn thiếu vào tiếng “m...” để tạo từ phù hợp với gợi ý: Minh chăm học.",
       "blankAnswer": "inh",
       "answer": "inh",
-      "options": [
-        "an",
-        "ang",
-        "inh",
-        "ac"
-      ],
       "explanation": "Điền phần vần “inh” để tạo từ “minh” đúng với gợi ý.",
       "questionNumber": 1052
     },
@@ -20247,12 +18789,6 @@
       "question": "Câu 131: Điền âm đầu còn thiếu vào tiếng “(...)ữa” để tạo từ đúng chính tả.",
       "blankAnswer": "s",
       "answer": "s",
-      "options": [
-        "ch",
-        "tr",
-        "s",
-        "x"
-      ],
       "explanation": "Điền âm đầu “s” để tạo thành tiếng “sữa” đúng chính tả.",
       "questionNumber": 1055
     },
@@ -20346,12 +18882,6 @@
       "question": "Câu 374: Điền phần vần còn thiếu vào tiếng “m...” để tạo từ phù hợp với gợi ý: Biển rộng mênh mông.",
       "blankAnswer": "ênh",
       "answer": "ênh",
-      "options": [
-        "an",
-        "ênh",
-        "ang",
-        "ac"
-      ],
       "explanation": "Điền phần vần “ênh” để tạo từ “mênh” đúng với gợi ý.",
       "questionNumber": 1059
     },
@@ -20466,12 +18996,6 @@
       "question": "Câu 153: Điền âm đầu còn thiếu vào tiếng “(...)ảng” để tạo từ đúng chính tả.",
       "blankAnswer": "gi",
       "answer": "gi",
-      "options": [
-        "gi",
-        "ch",
-        "tr",
-        "s"
-      ],
       "explanation": "Điền âm đầu “gi” để tạo thành tiếng “giảng” đúng chính tả.",
       "questionNumber": 1066
     },
@@ -20552,12 +19076,6 @@
       "question": "Câu 282: Điền âm đầu còn thiếu vào tiếng “(...)ió” để tạo từ đúng chính tả.",
       "blankAnswer": "g",
       "answer": "g",
-      "options": [
-        "ch",
-        "g",
-        "tr",
-        "s"
-      ],
       "explanation": "Điền âm đầu “g” để tạo thành tiếng “gió” đúng chính tả.",
       "questionNumber": 1071
     },
@@ -20700,12 +19218,6 @@
       "question": "Câu 262: Điền âm đầu còn thiếu vào tiếng “(...)ón” để tạo từ đúng chính tả.",
       "blankAnswer": "n",
       "answer": "n",
-      "options": [
-        "ch",
-        "n",
-        "tr",
-        "s"
-      ],
       "explanation": "Điền âm đầu “n” để tạo thành tiếng “nón” đúng chính tả.",
       "questionNumber": 1079
     },
@@ -20820,12 +19332,6 @@
       "question": "Câu 173: Điền âm đầu còn thiếu vào tiếng “(...)ề” để tạo từ đúng chính tả.",
       "blankAnswer": "ngh",
       "answer": "ngh",
-      "options": [
-        "ngh",
-        "ch",
-        "tr",
-        "s"
-      ],
       "explanation": "Điền âm đầu “ngh” để tạo thành tiếng “nghề” đúng chính tả.",
       "questionNumber": 1086
     },
@@ -20855,12 +19361,6 @@
       "question": "Câu 4: Điền âm đầu còn thiếu vào tiếng “(...)e” để tạo từ đúng chính tả.",
       "blankAnswer": "x",
       "answer": "x",
-      "options": [
-        "ch",
-        "tr",
-        "s",
-        "x"
-      ],
       "explanation": "Điền âm đầu “x” để tạo thành tiếng “xe” đúng chính tả.",
       "questionNumber": 1088
     },
@@ -20941,12 +19441,6 @@
       "question": "Câu 23: Điền âm đầu còn thiếu vào tiếng “(...)ừng” để tạo từ đúng chính tả.",
       "blankAnswer": "r",
       "answer": "r",
-      "options": [
-        "ch",
-        "tr",
-        "r",
-        "s"
-      ],
       "explanation": "Điền âm đầu “r” để tạo thành tiếng “rừng” đúng chính tả.",
       "questionNumber": 1093
     },
@@ -21047,12 +19541,6 @@
       "question": "Câu 311: Điền phần vần còn thiếu vào tiếng “m...” để tạo từ phù hợp với gợi ý: Gió thổi mát rượi.",
       "blankAnswer": "át",
       "answer": "át",
-      "options": [
-        "an",
-        "ang",
-        "át",
-        "ac"
-      ],
       "explanation": "Điền phần vần “át” để tạo từ “mát” đúng với gợi ý.",
       "questionNumber": 1098
     },
@@ -21065,12 +19553,6 @@
       "question": "Câu 178: Điền âm đầu còn thiếu vào tiếng “(...)ân” để tạo từ đúng chính tả.",
       "blankAnswer": "ch",
       "answer": "ch",
-      "options": [
-        "tr",
-        "ch",
-        "s",
-        "x"
-      ],
       "explanation": "Điền âm đầu “ch” để tạo thành tiếng “chân” đúng chính tả.",
       "questionNumber": 1099
     },
@@ -21262,12 +19744,6 @@
       "question": "Câu 426: Điền phần vần còn thiếu vào tiếng “m...” để tạo từ phù hợp với gợi ý: Biển rộng mênh mông.",
       "blankAnswer": "ênh",
       "answer": "ênh",
-      "options": [
-        "an",
-        "ênh",
-        "ang",
-        "ac"
-      ],
       "explanation": "Điền phần vần “ênh” để tạo từ “mênh” đúng với gợi ý.",
       "questionNumber": 1110
     },
@@ -21313,12 +19789,6 @@
       "question": "Câu 191: Điền âm đầu còn thiếu vào tiếng “(...)éo” để tạo từ đúng chính tả.",
       "blankAnswer": "k",
       "answer": "k",
-      "options": [
-        "ch",
-        "tr",
-        "k",
-        "s"
-      ],
       "explanation": "Điền âm đầu “k” để tạo thành tiếng “kéo” đúng chính tả.",
       "questionNumber": 1113
     },
@@ -21331,12 +19801,6 @@
       "question": "Câu 192: Điền âm đầu còn thiếu vào tiếng “(...)ê” để tạo từ đúng chính tả.",
       "blankAnswer": "qu",
       "answer": "qu",
-      "options": [
-        "ch",
-        "tr",
-        "s",
-        "qu"
-      ],
       "explanation": "Điền âm đầu “qu” để tạo thành tiếng “quê” đúng chính tả.",
       "questionNumber": 1114
     },
@@ -21468,12 +19932,6 @@
       "question": "Câu 107: Điền âm đầu còn thiếu vào tiếng “(...)ế” để tạo từ đúng chính tả.",
       "blankAnswer": "gh",
       "answer": "gh",
-      "options": [
-        "ch",
-        "tr",
-        "gh",
-        "s"
-      ],
       "explanation": "Điền âm đầu “gh” để tạo thành tiếng “ghế” đúng chính tả.",
       "questionNumber": 1119
     },
@@ -21523,12 +19981,6 @@
       "question": "Câu 169: Điền âm đầu còn thiếu vào tiếng “(...)ỏ” để tạo từ đúng chính tả.",
       "blankAnswer": "gi",
       "answer": "gi",
-      "options": [
-        "gi",
-        "ch",
-        "tr",
-        "s"
-      ],
       "explanation": "Điền âm đầu “gi” để tạo thành tiếng “giỏ” đúng chính tả.",
       "questionNumber": 1121
     },
@@ -21541,12 +19993,6 @@
       "question": "Câu 422: Điền phần vần còn thiếu vào tiếng “tr...” để tạo từ phù hợp với gợi ý: Em đến trường mỗi ngày.",
       "blankAnswer": "ường",
       "answer": "ường",
-      "options": [
-        "an",
-        "ường",
-        "ang",
-        "ac"
-      ],
       "explanation": "Điền phần vần “ường” để tạo từ “trường” đúng với gợi ý.",
       "questionNumber": 1122
     },
@@ -21559,12 +20005,6 @@
       "question": "Câu 255: Điền âm đầu còn thiếu vào tiếng “(...)ẹo” để tạo từ đúng chính tả.",
       "blankAnswer": "k",
       "answer": "k",
-      "options": [
-        "ch",
-        "tr",
-        "k",
-        "s"
-      ],
       "explanation": "Điền âm đầu “k” để tạo thành tiếng “kẹo” đúng chính tả.",
       "questionNumber": 1123
     },
@@ -21631,12 +20071,6 @@
       "question": "Câu 300: Điền âm đầu còn thiếu vào tiếng “(...)ôi” để tạo từ đúng chính tả.",
       "blankAnswer": "ng",
       "answer": "ng",
-      "options": [
-        "ch",
-        "tr",
-        "s",
-        "ng"
-      ],
       "explanation": "Điền âm đầu “ng” để tạo thành tiếng “ngôi” đúng chính tả.",
       "questionNumber": 1126
     },
@@ -21666,12 +20100,6 @@
       "question": "Câu 319: Điền phần vần còn thiếu vào tiếng “đ...” để tạo từ phù hợp với gợi ý: Con đường sạch đẹp.",
       "blankAnswer": "ường",
       "answer": "ường",
-      "options": [
-        "an",
-        "ang",
-        "ường",
-        "ac"
-      ],
       "explanation": "Điền phần vần “ường” để tạo từ “đường” đúng với gợi ý.",
       "questionNumber": 1128
     },
@@ -21684,12 +20112,6 @@
       "question": "Câu 390: Điền phần vần còn thiếu vào tiếng “h...” để tạo từ phù hợp với gợi ý: Các bạn cùng hát.",
       "blankAnswer": "át",
       "answer": "át",
-      "options": [
-        "an",
-        "át",
-        "ang",
-        "ac"
-      ],
       "explanation": "Điền phần vần “át” để tạo từ “hát” đúng với gợi ý.",
       "questionNumber": 1129
     },
@@ -21719,12 +20141,6 @@
       "question": "Câu 335: Điền phần vần còn thiếu vào tiếng “b...” để tạo từ phù hợp với gợi ý: Bác nông dân ra đồng.",
       "blankAnswer": "ác",
       "answer": "ác",
-      "options": [
-        "an",
-        "ang",
-        "ác",
-        "ac"
-      ],
       "explanation": "Điền phần vần “ác” để tạo từ “bác” đúng với gợi ý.",
       "questionNumber": 1131
     },
@@ -21737,12 +20153,6 @@
       "question": "Câu 222: Điền âm đầu còn thiếu vào tiếng “(...)ốc” để tạo từ đúng chính tả.",
       "blankAnswer": "c",
       "answer": "c",
-      "options": [
-        "ch",
-        "c",
-        "tr",
-        "s"
-      ],
       "explanation": "Điền âm đầu “c” để tạo thành tiếng “cốc” đúng chính tả.",
       "questionNumber": 1132
     },
@@ -21887,12 +20297,6 @@
       "question": "Câu 339: Điền phần vần còn thiếu vào tiếng “h...” để tạo từ phù hợp với gợi ý: Em chăm chỉ học bài.",
       "blankAnswer": "ọc",
       "answer": "ọc",
-      "options": [
-        "an",
-        "ang",
-        "ọc",
-        "ac"
-      ],
       "explanation": "Điền phần vần “ọc” để tạo từ “học” đúng với gợi ý.",
       "questionNumber": 1139
     },
@@ -21990,12 +20394,6 @@
       "question": "Câu 126: Điền âm đầu còn thiếu vào tiếng “(...)ốc” để tạo từ đúng chính tả.",
       "blankAnswer": "c",
       "answer": "c",
-      "options": [
-        "ch",
-        "c",
-        "tr",
-        "s"
-      ],
       "explanation": "Điền âm đầu “c” để tạo thành tiếng “cốc” đúng chính tả.",
       "questionNumber": 1145
     },
@@ -22058,12 +20456,6 @@
       "question": "Câu 308: Điền phần vần còn thiếu vào tiếng “đ...” để tạo từ phù hợp với gợi ý: Đàn chim bay trên trời.",
       "blankAnswer": "àn",
       "answer": "àn",
-      "options": [
-        "an",
-        "ang",
-        "ac",
-        "àn"
-      ],
       "explanation": "Điền phần vần “àn” để tạo từ “đàn” đúng với gợi ý.",
       "questionNumber": 1149
     },
@@ -22076,12 +20468,6 @@
       "question": "Câu 423: Điền phần vần còn thiếu vào tiếng “đ...” để tạo từ phù hợp với gợi ý: Con đường sạch đẹp.",
       "blankAnswer": "ường",
       "answer": "ường",
-      "options": [
-        "an",
-        "ang",
-        "ường",
-        "ac"
-      ],
       "explanation": "Điền phần vần “ường” để tạo từ “đường” đúng với gợi ý.",
       "questionNumber": 1150
     },
@@ -22270,12 +20656,6 @@
       "question": "Câu 237: Điền âm đầu còn thiếu vào tiếng “(...)ề” để tạo từ đúng chính tả.",
       "blankAnswer": "ngh",
       "answer": "ngh",
-      "options": [
-        "ngh",
-        "ch",
-        "tr",
-        "s"
-      ],
       "explanation": "Điền âm đầu “ngh” để tạo thành tiếng “nghề” đúng chính tả.",
       "questionNumber": 1159
     },
@@ -22682,12 +21062,6 @@
       "question": "Câu 377: Điền phần vần còn thiếu vào tiếng “m...” để tạo từ phù hợp với gợi ý: Minh chăm học.",
       "blankAnswer": "inh",
       "answer": "inh",
-      "options": [
-        "inh",
-        "an",
-        "ang",
-        "ac"
-      ],
       "explanation": "Điền phần vần “inh” để tạo từ “minh” đúng với gợi ý.",
       "questionNumber": 1179
     },
@@ -22717,12 +21091,6 @@
       "question": "Điền chữ cái hoặc âm thích hợp vào chỗ trống: \"(...)ỉ ngơi\"",
       "blankAnswer": "ngh",
       "answer": "ngh",
-      "options": [
-        "gh",
-        "nh",
-        "ng",
-        "ngh"
-      ],
       "explanation": "Từ đúng chính tả là 'nghỉ ngơi', do đó âm cần điền là 'ngh'.",
       "questionNumber": 1181
     },
@@ -22763,12 +21131,6 @@
       "question": "Câu 306: Điền phần vần còn thiếu vào tiếng “b...” để tạo từ phù hợp với gợi ý: Bạn bè cùng học.",
       "blankAnswer": "ạn",
       "answer": "ạn",
-      "options": [
-        "an",
-        "ạn",
-        "ang",
-        "ac"
-      ],
       "explanation": "Điền phần vần “ạn” để tạo từ “bạn” đúng với gợi ý.",
       "questionNumber": 1183
     },
@@ -22781,12 +21143,6 @@
       "question": "Câu 272: Điền âm đầu còn thiếu vào tiếng “(...)yển” để tạo từ đúng chính tả.",
       "blankAnswer": "qu",
       "answer": "qu",
-      "options": [
-        "ch",
-        "tr",
-        "s",
-        "qu"
-      ],
       "explanation": "Điền âm đầu “qu” để tạo thành tiếng “quyển” đúng chính tả.",
       "questionNumber": 1184
     },
@@ -22852,12 +21208,6 @@
       "question": "Câu 354: Điền phần vần còn thiếu vào tiếng “s...” để tạo từ phù hợp với gợi ý: Buổi sáng trời rất sáng.",
       "blankAnswer": "áng",
       "answer": "áng",
-      "options": [
-        "an",
-        "áng",
-        "ang",
-        "ac"
-      ],
       "explanation": "Điền phần vần “áng” để tạo từ “sáng” đúng với gợi ý.",
       "questionNumber": 1187
     },
@@ -22887,12 +21237,6 @@
       "question": "Câu 307: Điền phần vần còn thiếu vào tiếng “kh...” để tạo từ phù hợp với gợi ý: Bé lau mặt bằng khăn.",
       "blankAnswer": "ăn",
       "answer": "ăn",
-      "options": [
-        "an",
-        "ang",
-        "ăn",
-        "ac"
-      ],
       "explanation": "Điền phần vần “ăn” để tạo từ “khăn” đúng với gợi ý.",
       "questionNumber": 1189
     },
@@ -22939,12 +21283,6 @@
       "question": "Câu 253: Điền âm đầu còn thiếu vào tiếng “(...)ỉ” để tạo từ đúng chính tả.",
       "blankAnswer": "ngh",
       "answer": "ngh",
-      "options": [
-        "ngh",
-        "ch",
-        "tr",
-        "s"
-      ],
       "explanation": "Điền âm đầu “ngh” để tạo thành tiếng “nghỉ” đúng chính tả.",
       "questionNumber": 1192
     },
@@ -22957,12 +21295,6 @@
       "question": "Câu 119: Điền âm đầu còn thiếu vào tiếng “(...)ừng” để tạo từ đúng chính tả.",
       "blankAnswer": "r",
       "answer": "r",
-      "options": [
-        "ch",
-        "tr",
-        "r",
-        "s"
-      ],
       "explanation": "Điền âm đầu “r” để tạo thành tiếng “rừng” đúng chính tả.",
       "questionNumber": 1193
     },
@@ -23278,12 +21610,6 @@
       "question": "Câu 297: Điền âm đầu còn thiếu vào tiếng “(...)ảng” để tạo từ đúng chính tả.",
       "blankAnswer": "gi",
       "answer": "gi",
-      "options": [
-        "gi",
-        "ch",
-        "tr",
-        "s"
-      ],
       "explanation": "Điền âm đầu “gi” để tạo thành tiếng “giảng” đúng chính tả.",
       "questionNumber": 1210
     },
@@ -23432,12 +21758,6 @@
       "question": "Câu 437: Điền phần vần còn thiếu vào tiếng “kh...” để tạo từ phù hợp với gợi ý: Bé lau mặt bằng khăn.",
       "blankAnswer": "ăn",
       "answer": "ăn",
-      "options": [
-        "ăn",
-        "an",
-        "ang",
-        "ac"
-      ],
       "explanation": "Điền phần vần “ăn” để tạo từ “khăn” đúng với gợi ý.",
       "questionNumber": 1219
     },
@@ -23450,12 +21770,6 @@
       "question": "Câu 325: Điền phần vần còn thiếu vào tiếng “m...” để tạo từ phù hợp với gợi ý: Minh chăm học.",
       "blankAnswer": "inh",
       "answer": "inh",
-      "options": [
-        "inh",
-        "an",
-        "ang",
-        "ac"
-      ],
       "explanation": "Điền phần vần “inh” để tạo từ “minh” đúng với gợi ý.",
       "questionNumber": 1220
     },
@@ -23530,12 +21844,6 @@
       "question": "Câu 225: Điền âm đầu còn thiếu vào tiếng “(...)ống” để tạo từ đúng chính tả.",
       "blankAnswer": "tr",
       "answer": "tr",
-      "options": [
-        "tr",
-        "ch",
-        "s",
-        "x"
-      ],
       "explanation": "Điền âm đầu “tr” để tạo thành tiếng “trống” đúng chính tả.",
       "questionNumber": 1224
     },
@@ -23565,12 +21873,6 @@
       "question": "Câu 246: Điền âm đầu còn thiếu vào tiếng “(...)ắng” để tạo từ đúng chính tả.",
       "blankAnswer": "n",
       "answer": "n",
-      "options": [
-        "ch",
-        "n",
-        "tr",
-        "s"
-      ],
       "explanation": "Điền âm đầu “n” để tạo thành tiếng “nắng” đúng chính tả.",
       "questionNumber": 1226
     },
@@ -23926,12 +22228,6 @@
       "question": "Câu 199: Điền âm đầu còn thiếu vào tiếng “(...)ổ” để tạo từ đúng chính tả.",
       "blankAnswer": "r",
       "answer": "r",
-      "options": [
-        "ch",
-        "tr",
-        "r",
-        "s"
-      ],
       "explanation": "Điền âm đầu “r” để tạo thành tiếng “rổ” đúng chính tả.",
       "questionNumber": 1243
     },
@@ -23944,12 +22240,6 @@
       "question": "Câu 29: Điền âm đầu còn thiếu vào tiếng “(...)ề” để tạo từ đúng chính tả.",
       "blankAnswer": "ngh",
       "answer": "ngh",
-      "options": [
-        "ngh",
-        "ch",
-        "tr",
-        "s"
-      ],
       "explanation": "Điền âm đầu “ngh” để tạo thành tiếng “nghề” đúng chính tả.",
       "questionNumber": 1244
     },
@@ -23996,12 +22286,6 @@
       "question": "Câu 448: Điền phần vần còn thiếu vào tiếng “tr...” để tạo từ phù hợp với gợi ý: Em đến trường mỗi ngày.",
       "blankAnswer": "ường",
       "answer": "ường",
-      "options": [
-        "an",
-        "ang",
-        "ac",
-        "ường"
-      ],
       "explanation": "Điền phần vần “ường” để tạo từ “trường” đúng với gợi ý.",
       "questionNumber": 1247
     },
@@ -24014,12 +22298,6 @@
       "question": "Câu 3: Điền âm đầu còn thiếu vào tiếng “(...)ân” để tạo từ đúng chính tả.",
       "blankAnswer": "s",
       "answer": "s",
-      "options": [
-        "ch",
-        "tr",
-        "s",
-        "x"
-      ],
       "explanation": "Điền âm đầu “s” để tạo thành tiếng “sân” đúng chính tả.",
       "questionNumber": 1248
     },
@@ -24212,12 +22490,6 @@
       "question": "Câu 25: Điền âm đầu còn thiếu vào tiếng “(...)ỏ” để tạo từ đúng chính tả.",
       "blankAnswer": "gi",
       "answer": "gi",
-      "options": [
-        "gi",
-        "ch",
-        "tr",
-        "s"
-      ],
       "explanation": "Điền âm đầu “gi” để tạo thành tiếng “giỏ” đúng chính tả.",
       "questionNumber": 1259
     },
@@ -24247,12 +22519,6 @@
       "question": "Câu 417: Điền phần vần còn thiếu vào tiếng “h...” để tạo từ phù hợp với gợi ý: Em chăm chỉ học bài.",
       "blankAnswer": "ọc",
       "answer": "ọc",
-      "options": [
-        "ọc",
-        "an",
-        "ang",
-        "ac"
-      ],
       "explanation": "Điền phần vần “ọc” để tạo từ “học” đúng với gợi ý.",
       "questionNumber": 1261
     },
@@ -24265,12 +22531,6 @@
       "question": "Câu 342: Điền phần vần còn thiếu vào tiếng “m...” để tạo từ phù hợp với gợi ý: Em có một chiếc bút.",
       "blankAnswer": "ột",
       "answer": "ột",
-      "options": [
-        "an",
-        "ột",
-        "ang",
-        "ac"
-      ],
       "explanation": "Điền phần vần “ột” để tạo từ “một” đúng với gợi ý.",
       "questionNumber": 1262
     },
@@ -24436,12 +22696,6 @@
       "question": "Câu 39: Điền âm đầu còn thiếu vào tiếng “(...)au” để tạo từ đúng chính tả.",
       "blankAnswer": "r",
       "answer": "r",
-      "options": [
-        "ch",
-        "tr",
-        "r",
-        "s"
-      ],
       "explanation": "Điền âm đầu “r” để tạo thành tiếng “rau” đúng chính tả.",
       "questionNumber": 1272
     },
@@ -24522,12 +22776,6 @@
       "question": "Câu 109: Điền âm đầu còn thiếu vào tiếng “(...)ỉ” để tạo từ đúng chính tả.",
       "blankAnswer": "ngh",
       "answer": "ngh",
-      "options": [
-        "ngh",
-        "ch",
-        "tr",
-        "s"
-      ],
       "explanation": "Điền âm đầu “ngh” để tạo thành tiếng “nghỉ” đúng chính tả.",
       "questionNumber": 1277
     },
@@ -24540,12 +22788,6 @@
       "question": "Câu 105: Điền âm đầu còn thiếu vào tiếng “(...)ảng” để tạo từ đúng chính tả.",
       "blankAnswer": "gi",
       "answer": "gi",
-      "options": [
-        "gi",
-        "ch",
-        "tr",
-        "s"
-      ],
       "explanation": "Điền âm đầu “gi” để tạo thành tiếng “giảng” đúng chính tả.",
       "questionNumber": 1278
     },
@@ -24592,12 +22834,6 @@
       "question": "Câu 76: Điền âm đầu còn thiếu vào tiếng “(...)ế” để tạo từ đúng chính tả.",
       "blankAnswer": "gh",
       "answer": "gh",
-      "options": [
-        "ch",
-        "tr",
-        "s",
-        "gh"
-      ],
       "explanation": "Điền âm đầu “gh” để tạo thành tiếng “ghế” đúng chính tả.",
       "questionNumber": 1281
     },
@@ -24740,12 +22976,6 @@
       "question": "Câu 82: Điền âm đầu còn thiếu vào tiếng “(...)ân” để tạo từ đúng chính tả.",
       "blankAnswer": "ch",
       "answer": "ch",
-      "options": [
-        "tr",
-        "ch",
-        "s",
-        "x"
-      ],
       "explanation": "Điền âm đầu “ch” để tạo thành tiếng “chân” đúng chính tả.",
       "questionNumber": 1289
     },
@@ -24829,12 +23059,6 @@
       "question": "Câu 266: Điền âm đầu còn thiếu vào tiếng “(...)ỗ” để tạo từ đúng chính tả.",
       "blankAnswer": "g",
       "answer": "g",
-      "options": [
-        "ch",
-        "g",
-        "tr",
-        "s"
-      ],
       "explanation": "Điền âm đầu “g” để tạo thành tiếng “gỗ” đúng chính tả.",
       "questionNumber": 1293
     },
@@ -24914,12 +23138,6 @@
       "question": "Câu 376: Điền phần vần còn thiếu vào tiếng “b...” để tạo từ phù hợp với gợi ý: Bình minh lên.",
       "blankAnswer": "ình",
       "answer": "ình",
-      "options": [
-        "an",
-        "ang",
-        "ac",
-        "ình"
-      ],
       "explanation": "Điền phần vần “ình” để tạo từ “bình” đúng với gợi ý.",
       "questionNumber": 1298
     },
@@ -24932,12 +23150,6 @@
       "question": "Câu 425: Điền phần vần còn thiếu vào tiếng “t...” để tạo từ phù hợp với gợi ý: Tên em là Lan.",
       "blankAnswer": "ên",
       "answer": "ên",
-      "options": [
-        "ên",
-        "an",
-        "ang",
-        "ac"
-      ],
       "explanation": "Điền phần vần “ên” để tạo từ “tên” đúng với gợi ý.",
       "questionNumber": 1299
     },
@@ -24950,12 +23162,6 @@
       "question": "Điền chữ cái hoặc âm thích hợp vào chỗ trống: \"dòng (...)ông\"",
       "blankAnswer": "s",
       "answer": "s",
-      "options": [
-        "r",
-        "d",
-        "s",
-        "x"
-      ],
       "explanation": "Từ đúng chính tả là 'dòng sông', do đó âm cần điền là 's'.",
       "questionNumber": 1300
     },
@@ -24968,12 +23174,6 @@
       "question": "Câu 362: Điền phần vần còn thiếu vào tiếng “c...” để tạo từ phù hợp với gợi ý: Bãi cát vàng bên biển.",
       "blankAnswer": "át",
       "answer": "át",
-      "options": [
-        "an",
-        "át",
-        "ang",
-        "ac"
-      ],
       "explanation": "Điền phần vần “át” để tạo từ “cát” đúng với gợi ý.",
       "questionNumber": 1301
     },
@@ -25003,12 +23203,6 @@
       "question": "Câu 59: Điền âm đầu còn thiếu vào tiếng “(...)ế” để tạo từ đúng chính tả.",
       "blankAnswer": "gh",
       "answer": "gh",
-      "options": [
-        "ch",
-        "tr",
-        "gh",
-        "s"
-      ],
       "explanation": "Điền âm đầu “gh” để tạo thành tiếng “ghế” đúng chính tả.",
       "questionNumber": 1303
     },
@@ -25195,12 +23389,6 @@
       "question": "Câu 17: Điền âm đầu còn thiếu vào tiếng “(...)ăng” để tạo từ đúng chính tả.",
       "blankAnswer": "tr",
       "answer": "tr",
-      "options": [
-        "tr",
-        "ch",
-        "s",
-        "x"
-      ],
       "explanation": "Điền âm đầu “tr” để tạo thành tiếng “trăng” đúng chính tả.",
       "questionNumber": 1312
     },
@@ -25213,12 +23401,6 @@
       "question": "Câu 200: Điền âm đầu còn thiếu vào tiếng “(...)òng” để tạo từ đúng chính tả.",
       "blankAnswer": "d",
       "answer": "d",
-      "options": [
-        "ch",
-        "tr",
-        "s",
-        "d"
-      ],
       "explanation": "Điền âm đầu “d” để tạo thành tiếng “dòng” đúng chính tả.",
       "questionNumber": 1313
     },
@@ -25321,12 +23503,6 @@
       "question": "Câu 158: Điền âm đầu còn thiếu vào tiếng “(...)á” để tạo từ đúng chính tả.",
       "blankAnswer": "c",
       "answer": "c",
-      "options": [
-        "ch",
-        "c",
-        "tr",
-        "s"
-      ],
       "explanation": "Điền âm đầu “c” để tạo thành tiếng “cá” đúng chính tả.",
       "questionNumber": 1318
     },
@@ -25356,12 +23532,6 @@
       "question": "Câu 84: Điền âm đầu còn thiếu vào tiếng “(...)anh” để tạo từ đúng chính tả.",
       "blankAnswer": "x",
       "answer": "x",
-      "options": [
-        "ch",
-        "tr",
-        "s",
-        "x"
-      ],
       "explanation": "Điền âm đầu “x” để tạo thành tiếng “xanh” đúng chính tả.",
       "questionNumber": 1320
     },
@@ -25623,12 +23793,6 @@
       "question": "Câu 414: Điền phần vần còn thiếu vào tiếng “c...” để tạo từ phù hợp với gợi ý: Bãi cát vàng bên biển.",
       "blankAnswer": "át",
       "answer": "át",
-      "options": [
-        "an",
-        "át",
-        "ang",
-        "ac"
-      ],
       "explanation": "Điền phần vần “át” để tạo từ “cát” đúng với gợi ý.",
       "questionNumber": 1332
     },
@@ -25757,12 +23921,6 @@
       "question": "Câu 124: Điền âm đầu còn thiếu vào tiếng “(...)ế” để tạo từ đúng chính tả.",
       "blankAnswer": "gh",
       "answer": "gh",
-      "options": [
-        "ch",
-        "tr",
-        "s",
-        "gh"
-      ],
       "explanation": "Điền âm đầu “gh” để tạo thành tiếng “ghế” đúng chính tả.",
       "questionNumber": 1338
     },
@@ -25792,12 +23950,6 @@
       "question": "Câu 397: Điền phần vần còn thiếu vào tiếng “đ...” để tạo từ phù hợp với gợi ý: Con đường sạch đẹp.",
       "blankAnswer": "ường",
       "answer": "ường",
-      "options": [
-        "ường",
-        "an",
-        "ang",
-        "ac"
-      ],
       "explanation": "Điền phần vần “ường” để tạo từ “đường” đúng với gợi ý.",
       "questionNumber": 1340
     },
@@ -25827,12 +23979,6 @@
       "question": "Câu 52: Điền âm đầu còn thiếu vào tiếng “(...)e” để tạo từ đúng chính tả.",
       "blankAnswer": "x",
       "answer": "x",
-      "options": [
-        "ch",
-        "tr",
-        "s",
-        "x"
-      ],
       "explanation": "Điền âm đầu “x” để tạo thành tiếng “xe” đúng chính tả.",
       "questionNumber": 1342
     },
@@ -25862,12 +24008,6 @@
       "question": "Câu 188: Điền âm đầu còn thiếu vào tiếng “(...)ọn” để tạo từ đúng chính tả.",
       "blankAnswer": "ng",
       "answer": "ng",
-      "options": [
-        "ch",
-        "tr",
-        "s",
-        "ng"
-      ],
       "explanation": "Điền âm đầu “ng” để tạo thành tiếng “ngọn” đúng chính tả.",
       "questionNumber": 1344
     },
@@ -26044,12 +24184,6 @@
       "question": "Câu 47: Điền âm đầu còn thiếu vào tiếng “(...)éo” để tạo từ đúng chính tả.",
       "blankAnswer": "k",
       "answer": "k",
-      "options": [
-        "ch",
-        "tr",
-        "k",
-        "s"
-      ],
       "explanation": "Điền âm đầu “k” để tạo thành tiếng “kéo” đúng chính tả.",
       "questionNumber": 1354
     },
@@ -26116,12 +24250,6 @@
       "question": "Câu 135: Điền âm đầu còn thiếu vào tiếng “(...)au” để tạo từ đúng chính tả.",
       "blankAnswer": "r",
       "answer": "r",
-      "options": [
-        "ch",
-        "tr",
-        "r",
-        "s"
-      ],
       "explanation": "Điền âm đầu “r” để tạo thành tiếng “rau” đúng chính tả.",
       "questionNumber": 1357
     },
@@ -26134,12 +24262,6 @@
       "question": "Câu 438: Điền phần vần còn thiếu vào tiếng “đ...” để tạo từ phù hợp với gợi ý: Đàn chim bay trên trời.",
       "blankAnswer": "àn",
       "answer": "àn",
-      "options": [
-        "an",
-        "àn",
-        "ang",
-        "ac"
-      ],
       "explanation": "Điền phần vần “àn” để tạo từ “đàn” đúng với gợi ý.",
       "questionNumber": 1358
     },
@@ -26261,12 +24383,6 @@
       "question": "Câu 363: Điền phần vần còn thiếu vào tiếng “m...” để tạo từ phù hợp với gợi ý: Gió thổi mát rượi.",
       "blankAnswer": "át",
       "answer": "át",
-      "options": [
-        "an",
-        "ang",
-        "át",
-        "ac"
-      ],
       "explanation": "Điền phần vần “át” để tạo từ “mát” đúng với gợi ý.",
       "questionNumber": 1363
     },
@@ -26296,12 +24412,6 @@
       "question": "Câu 43: Điền âm đầu còn thiếu vào tiếng “(...)ế” để tạo từ đúng chính tả.",
       "blankAnswer": "gh",
       "answer": "gh",
-      "options": [
-        "ch",
-        "tr",
-        "gh",
-        "s"
-      ],
       "explanation": "Điền âm đầu “gh” để tạo thành tiếng “ghế” đúng chính tả.",
       "questionNumber": 1365
     },
@@ -26314,12 +24424,6 @@
       "question": "Câu 329: Điền phần vần còn thiếu vào tiếng “v...” để tạo từ phù hợp với gợi ý: Bông lúa chín vàng.",
       "blankAnswer": "àng",
       "answer": "àng",
-      "options": [
-        "àng",
-        "an",
-        "ang",
-        "ac"
-      ],
       "explanation": "Điền phần vần “àng” để tạo từ “vàng” đúng với gợi ý.",
       "questionNumber": 1366
     },
@@ -26348,12 +24452,6 @@
       "question": "Câu 261: Điền âm đầu còn thiếu vào tiếng “(...)ớp” để tạo từ đúng chính tả.",
       "blankAnswer": "l",
       "answer": "l",
-      "options": [
-        "l",
-        "ch",
-        "tr",
-        "s"
-      ],
       "explanation": "Điền âm đầu “l” để tạo thành tiếng “lớp” đúng chính tả.",
       "questionNumber": 1368
     },
@@ -26581,12 +24679,6 @@
       "question": "Câu 95: Điền âm đầu còn thiếu vào tiếng “(...)éo” để tạo từ đúng chính tả.",
       "blankAnswer": "k",
       "answer": "k",
-      "options": [
-        "ch",
-        "tr",
-        "k",
-        "s"
-      ],
       "explanation": "Điền âm đầu “k” để tạo thành tiếng “kéo” đúng chính tả.",
       "questionNumber": 1381
     },
@@ -26644,12 +24736,6 @@
       "question": "Câu 20: Điền âm đầu còn thiếu vào tiếng “(...)inh” để tạo từ đúng chính tả.",
       "blankAnswer": "x",
       "answer": "x",
-      "options": [
-        "ch",
-        "tr",
-        "s",
-        "x"
-      ],
       "explanation": "Điền âm đầu “x” để tạo thành tiếng “xinh” đúng chính tả.",
       "questionNumber": 1384
     },
@@ -26679,12 +24765,6 @@
       "question": "Câu 409: Điền phần vần còn thiếu vào tiếng “b...” để tạo từ phù hợp với gợi ý: Quyển sách ở trên bàn.",
       "blankAnswer": "àn",
       "answer": "àn",
-      "options": [
-        "àn",
-        "an",
-        "ang",
-        "ac"
-      ],
       "explanation": "Điền phần vần “àn” để tạo từ “bàn” đúng với gợi ý.",
       "questionNumber": 1386
     },
@@ -26873,12 +24953,6 @@
       "question": "Câu 33: Điền âm đầu còn thiếu vào tiếng “(...)ống” để tạo từ đúng chính tả.",
       "blankAnswer": "tr",
       "answer": "tr",
-      "options": [
-        "tr",
-        "ch",
-        "s",
-        "x"
-      ],
       "explanation": "Điền âm đầu “tr” để tạo thành tiếng “trống” đúng chính tả.",
       "questionNumber": 1395
     },
@@ -26987,12 +25061,6 @@
       "question": "Điền chữ cái hoặc âm thích hợp vào chỗ trống: \"(...)ôi sao\"",
       "blankAnswer": "ng",
       "answer": "ng",
-      "options": [
-        "nh",
-        "ngh",
-        "m",
-        "ng"
-      ],
       "explanation": "Từ đúng chính tả là 'ngôi sao', do đó âm cần điền là 'ng'.",
       "questionNumber": 1401
     },
@@ -27022,12 +25090,6 @@
       "question": "Câu 385: Điền phần vần còn thiếu vào tiếng “kh...” để tạo từ phù hợp với gợi ý: Bé lau mặt bằng khăn.",
       "blankAnswer": "ăn",
       "answer": "ăn",
-      "options": [
-        "ăn",
-        "an",
-        "ang",
-        "ac"
-      ],
       "explanation": "Điền phần vần “ăn” để tạo từ “khăn” đúng với gợi ý.",
       "questionNumber": 1403
     },
@@ -27218,12 +25280,6 @@
       "question": "Câu 331: Điền phần vần còn thiếu vào tiếng “b...” để tạo từ phù hợp với gợi ý: Quyển sách ở trên bàn.",
       "blankAnswer": "àn",
       "answer": "àn",
-      "options": [
-        "an",
-        "ang",
-        "àn",
-        "ac"
-      ],
       "explanation": "Điền phần vần “àn” để tạo từ “bàn” đúng với gợi ý.",
       "questionNumber": 1412
     },
@@ -27273,12 +25329,6 @@
       "question": "Điền âm đầu còn thiếu vào tiếng “(...)ẻ” để tạo thành một từ đúng chính tả.",
       "blankAnswer": "tr",
       "answer": "tr",
-      "options": [
-        "x",
-        "tr",
-        "ch",
-        "s"
-      ],
       "explanation": "Điền âm đầu “tr” để tạo thành tiếng “trẻ” đúng chính tả.",
       "questionNumber": 1414
     },
@@ -27325,12 +25375,6 @@
       "question": "Câu 194: Điền âm đầu còn thiếu vào tiếng “(...)im” để tạo từ đúng chính tả.",
       "blankAnswer": "ch",
       "answer": "ch",
-      "options": [
-        "tr",
-        "ch",
-        "s",
-        "x"
-      ],
       "explanation": "Điền âm đầu “ch” để tạo thành tiếng “chim” đúng chính tả.",
       "questionNumber": 1417
     },
@@ -27343,12 +25387,6 @@
       "question": "Câu 8: Điền âm đầu còn thiếu vào tiếng “(...)òng” để tạo từ đúng chính tả.",
       "blankAnswer": "d",
       "answer": "d",
-      "options": [
-        "ch",
-        "tr",
-        "s",
-        "d"
-      ],
       "explanation": "Điền âm đầu “d” để tạo thành tiếng “dòng” đúng chính tả.",
       "questionNumber": 1418
     },
@@ -27361,12 +25399,6 @@
       "question": "Câu 10: Điền âm đầu còn thiếu vào tiếng “(...)à” để tạo từ đúng chính tả.",
       "blankAnswer": "g",
       "answer": "g",
-      "options": [
-        "ch",
-        "g",
-        "tr",
-        "s"
-      ],
       "explanation": "Điền âm đầu “g” để tạo thành tiếng “gà” đúng chính tả.",
       "questionNumber": 1419
     },
@@ -27379,12 +25411,6 @@
       "question": "Câu 118: Điền âm đầu còn thiếu vào tiếng “(...)ón” để tạo từ đúng chính tả.",
       "blankAnswer": "n",
       "answer": "n",
-      "options": [
-        "ch",
-        "n",
-        "tr",
-        "s"
-      ],
       "explanation": "Điền âm đầu “n” để tạo thành tiếng “nón” đúng chính tả.",
       "questionNumber": 1420
     },
@@ -27449,12 +25475,6 @@
       "question": "Câu 175: Điền âm đầu còn thiếu vào tiếng “(...)im” để tạo từ đúng chính tả.",
       "blankAnswer": "k",
       "answer": "k",
-      "options": [
-        "ch",
-        "tr",
-        "k",
-        "s"
-      ],
       "explanation": "Điền âm đầu “k” để tạo thành tiếng “kim” đúng chính tả.",
       "questionNumber": 1424
     },
@@ -27583,12 +25603,6 @@
       "question": "Câu 50: Điền âm đầu còn thiếu vào tiếng “(...)im” để tạo từ đúng chính tả.",
       "blankAnswer": "ch",
       "answer": "ch",
-      "options": [
-        "tr",
-        "ch",
-        "s",
-        "x"
-      ],
       "explanation": "Điền âm đầu “ch” để tạo thành tiếng “chim” đúng chính tả.",
       "questionNumber": 1430
     },
@@ -27730,12 +25744,6 @@
       "question": "Câu 227: Điền âm đầu còn thiếu vào tiếng “(...)ữa” để tạo từ đúng chính tả.",
       "blankAnswer": "s",
       "answer": "s",
-      "options": [
-        "ch",
-        "tr",
-        "s",
-        "x"
-      ],
       "explanation": "Điền âm đầu “s” để tạo thành tiếng “sữa” đúng chính tả.",
       "questionNumber": 1438
     },
@@ -27776,12 +25784,6 @@
       "question": "Câu 273: Điền âm đầu còn thiếu vào tiếng “(...)ống” để tạo từ đúng chính tả.",
       "blankAnswer": "tr",
       "answer": "tr",
-      "options": [
-        "tr",
-        "ch",
-        "s",
-        "x"
-      ],
       "explanation": "Điền âm đầu “tr” để tạo thành tiếng “trống” đúng chính tả.",
       "questionNumber": 1440
     },
@@ -27845,12 +25847,6 @@
       "question": "Câu 152: Điền âm đầu còn thiếu vào tiếng “(...)òng” để tạo từ đúng chính tả.",
       "blankAnswer": "d",
       "answer": "d",
-      "options": [
-        "ch",
-        "tr",
-        "s",
-        "d"
-      ],
       "explanation": "Điền âm đầu “d” để tạo thành tiếng “dòng” đúng chính tả.",
       "questionNumber": 1444
     },
@@ -27880,12 +25876,6 @@
       "question": "Câu 68: Điền âm đầu còn thiếu vào tiếng “(...)inh” để tạo từ đúng chính tả.",
       "blankAnswer": "x",
       "answer": "x",
-      "options": [
-        "ch",
-        "tr",
-        "s",
-        "x"
-      ],
       "explanation": "Điền âm đầu “x” để tạo thành tiếng “xinh” đúng chính tả.",
       "questionNumber": 1446
     },
@@ -27914,12 +25904,6 @@
       "question": "Câu 99: Điền âm đầu còn thiếu vào tiếng “(...)ân” để tạo từ đúng chính tả.",
       "blankAnswer": "s",
       "answer": "s",
-      "options": [
-        "ch",
-        "tr",
-        "s",
-        "x"
-      ],
       "explanation": "Điền âm đầu “s” để tạo thành tiếng “sân” đúng chính tả.",
       "questionNumber": 1448
     },
@@ -27949,12 +25933,6 @@
       "question": "Câu 419: Điền phần vần còn thiếu vào tiếng “l...” để tạo từ phù hợp với gợi ý: Chồi non đâm lộc.",
       "blankAnswer": "ộc",
       "answer": "ộc",
-      "options": [
-        "an",
-        "ang",
-        "ộc",
-        "ac"
-      ],
       "explanation": "Điền phần vần “ộc” để tạo từ “lộc” đúng với gợi ý.",
       "questionNumber": 1450
     },
@@ -27967,12 +25945,6 @@
       "question": "Điền chữ cái hoặc âm thích hợp vào chỗ trống: \"cái (...)ế\"",
       "blankAnswer": "gh",
       "answer": "gh",
-      "options": [
-        "d",
-        "gh",
-        "r",
-        "g"
-      ],
       "explanation": "Từ đúng chính tả là 'ghế', do đó âm cần điền là 'gh'.",
       "questionNumber": 1451
     },
@@ -28195,12 +26167,6 @@
       "question": "Câu 110: Điền âm đầu còn thiếu vào tiếng “(...)á” để tạo từ đúng chính tả.",
       "blankAnswer": "c",
       "answer": "c",
-      "options": [
-        "ch",
-        "c",
-        "tr",
-        "s"
-      ],
       "explanation": "Điền âm đầu “c” để tạo thành tiếng “cá” đúng chính tả.",
       "questionNumber": 1462
     },
@@ -28230,12 +26196,6 @@
       "question": "Câu 236: Điền âm đầu còn thiếu vào tiếng “(...)ọn” để tạo từ đúng chính tả.",
       "blankAnswer": "ng",
       "answer": "ng",
-      "options": [
-        "ch",
-        "tr",
-        "s",
-        "ng"
-      ],
       "explanation": "Điền âm đầu “ng” để tạo thành tiếng “ngọn” đúng chính tả.",
       "questionNumber": 1464
     },
@@ -28248,12 +26208,6 @@
       "question": "Câu 74: Điền âm đầu còn thiếu vào tiếng “(...)ỗ” để tạo từ đúng chính tả.",
       "blankAnswer": "g",
       "answer": "g",
-      "options": [
-        "ch",
-        "g",
-        "tr",
-        "s"
-      ],
       "explanation": "Điền âm đầu “g” để tạo thành tiếng “gỗ” đúng chính tả.",
       "questionNumber": 1465
     },
@@ -28367,12 +26321,6 @@
       "question": "Câu 61: Điền âm đầu còn thiếu vào tiếng “(...)ỉ” để tạo từ đúng chính tả.",
       "blankAnswer": "ngh",
       "answer": "ngh",
-      "options": [
-        "ngh",
-        "ch",
-        "tr",
-        "s"
-      ],
       "explanation": "Điền âm đầu “ngh” để tạo thành tiếng “nghỉ” đúng chính tả.",
       "questionNumber": 1472
     },
@@ -28563,12 +26511,6 @@
       "question": "Câu 168: Điền âm đầu còn thiếu vào tiếng “(...)ép” để tạo từ đúng chính tả.",
       "blankAnswer": "d",
       "answer": "d",
-      "options": [
-        "ch",
-        "tr",
-        "s",
-        "d"
-      ],
       "explanation": "Điền âm đầu “d” để tạo thành tiếng “dép” đúng chính tả.",
       "questionNumber": 1481
     },
@@ -28618,12 +26560,6 @@
       "question": "Câu 125: Điền âm đầu còn thiếu vào tiếng “(...)ề” để tạo từ đúng chính tả.",
       "blankAnswer": "ngh",
       "answer": "ngh",
-      "options": [
-        "ngh",
-        "ch",
-        "tr",
-        "s"
-      ],
       "explanation": "Điền âm đầu “ngh” để tạo thành tiếng “nghề” đúng chính tả.",
       "questionNumber": 1483
     },
@@ -28636,12 +26572,6 @@
       "question": "Câu 5: Điền âm đầu còn thiếu vào tiếng “(...)á” để tạo từ đúng chính tả.",
       "blankAnswer": "l",
       "answer": "l",
-      "options": [
-        "l",
-        "ch",
-        "tr",
-        "s"
-      ],
       "explanation": "Điền âm đầu “l” để tạo thành tiếng “lá” đúng chính tả.",
       "questionNumber": 1484
     },
@@ -28742,12 +26672,6 @@
       "question": "Câu 208: Điền âm đầu còn thiếu vào tiếng “(...)ả” để tạo từ đúng chính tả.",
       "blankAnswer": "qu",
       "answer": "qu",
-      "options": [
-        "ch",
-        "tr",
-        "s",
-        "qu"
-      ],
       "explanation": "Điền âm đầu “qu” để tạo thành tiếng “quả” đúng chính tả.",
       "questionNumber": 1489
     },
@@ -28814,12 +26738,6 @@
       "question": "Câu 368: Điền phần vần còn thiếu vào tiếng “m...” để tạo từ phù hợp với gợi ý: Em có một chiếc bút.",
       "blankAnswer": "ột",
       "answer": "ột",
-      "options": [
-        "an",
-        "ang",
-        "ac",
-        "ột"
-      ],
       "explanation": "Điền phần vần “ột” để tạo từ “một” đúng với gợi ý.",
       "questionNumber": 1492
     },
@@ -28883,12 +26801,6 @@
       "question": "Câu 112: Điền âm đầu còn thiếu vào tiếng “(...)ả” để tạo từ đúng chính tả.",
       "blankAnswer": "qu",
       "answer": "qu",
-      "options": [
-        "ch",
-        "tr",
-        "s",
-        "qu"
-      ],
       "explanation": "Điền âm đầu “qu” để tạo thành tiếng “quả” đúng chính tả.",
       "questionNumber": 1496
     },
@@ -28918,12 +26830,6 @@
       "question": "Câu 315: Điền phần vần còn thiếu vào tiếng “l...” để tạo từ phù hợp với gợi ý: Chồi non đâm lộc.",
       "blankAnswer": "ộc",
       "answer": "ộc",
-      "options": [
-        "an",
-        "ang",
-        "ộc",
-        "ac"
-      ],
       "explanation": "Điền phần vần “ộc” để tạo từ “lộc” đúng với gợi ý.",
       "questionNumber": 1498
     },
@@ -29060,12 +26966,6 @@
       "question": "Câu 18: Điền âm đầu còn thiếu vào tiếng “(...)ổi” để tạo từ đúng chính tả.",
       "blankAnswer": "ch",
       "answer": "ch",
-      "options": [
-        "tr",
-        "ch",
-        "s",
-        "x"
-      ],
       "explanation": "Điền âm đầu “ch” để tạo thành tiếng “chổi” đúng chính tả.",
       "questionNumber": 1505
     },
@@ -29078,12 +26978,6 @@
       "question": "Điền chữ cái hoặc âm thích hợp vào chỗ trống: \"(...)àng xóm\"",
       "blankAnswer": "l",
       "answer": "l",
-      "options": [
-        "v",
-        "l",
-        "n",
-        "d"
-      ],
       "explanation": "Từ đúng chính tả là 'làng xóm', do đó âm cần điền là 'l'.",
       "questionNumber": 1506
     },
@@ -29124,12 +27018,6 @@
       "question": "Câu 151: Điền âm đầu còn thiếu vào tiếng “(...)ổ” để tạo từ đúng chính tả.",
       "blankAnswer": "r",
       "answer": "r",
-      "options": [
-        "ch",
-        "tr",
-        "r",
-        "s"
-      ],
       "explanation": "Điền âm đầu “r” để tạo thành tiếng “rổ” đúng chính tả.",
       "questionNumber": 1508
     },
@@ -29343,12 +27231,6 @@
       "question": "Câu 24: Điền âm đầu còn thiếu vào tiếng “(...)ép” để tạo từ đúng chính tả.",
       "blankAnswer": "d",
       "answer": "d",
-      "options": [
-        "ch",
-        "tr",
-        "s",
-        "d"
-      ],
       "explanation": "Điền âm đầu “d” để tạo thành tiếng “dép” đúng chính tả.",
       "questionNumber": 1519
     },
@@ -29378,12 +27260,6 @@
       "question": "Câu 161: Điền âm đầu còn thiếu vào tiếng “(...)ăng” để tạo từ đúng chính tả.",
       "blankAnswer": "tr",
       "answer": "tr",
-      "options": [
-        "tr",
-        "ch",
-        "s",
-        "x"
-      ],
       "explanation": "Điền âm đầu “tr” để tạo thành tiếng “trăng” đúng chính tả.",
       "questionNumber": 1521
     },
@@ -29413,12 +27289,6 @@
       "question": "Câu 416: Điền phần vần còn thiếu vào tiếng “h...” để tạo từ phù hợp với gợi ý: Các bạn cùng hát.",
       "blankAnswer": "át",
       "answer": "át",
-      "options": [
-        "an",
-        "ang",
-        "ac",
-        "át"
-      ],
       "explanation": "Điền phần vần “át” để tạo từ “hát” đúng với gợi ý.",
       "questionNumber": 1523
     },
@@ -29431,12 +27301,6 @@
       "question": "Điền âm đầu còn thiếu vào tiếng “(...)uột” để tạo thành một từ đúng chính tả.",
       "blankAnswer": "ch",
       "answer": "ch",
-      "options": [
-        "ch",
-        "tr",
-        "s",
-        "x"
-      ],
       "explanation": "Điền âm đầu “ch” để tạo thành tiếng “chuột” đúng chính tả.",
       "questionNumber": 1524
     },
@@ -29533,12 +27397,6 @@
       "question": "Câu 395: Điền phần vần còn thiếu vào tiếng “v...” để tạo từ phù hợp với gợi ý: Bà chăm sóc vườn rau.",
       "blankAnswer": "ườn",
       "answer": "ườn",
-      "options": [
-        "an",
-        "ang",
-        "ườn",
-        "ac"
-      ],
       "explanation": "Điền phần vần “ườn” để tạo từ “vườn” đúng với gợi ý.",
       "questionNumber": 1530
     },
@@ -29551,12 +27409,6 @@
       "question": "Câu 333: Điền phần vần còn thiếu vào tiếng “kh...” để tạo từ phù hợp với gợi ý: Bé lau mặt bằng khăn.",
       "blankAnswer": "ăn",
       "answer": "ăn",
-      "options": [
-        "ăn",
-        "an",
-        "ang",
-        "ac"
-      ],
       "explanation": "Điền phần vần “ăn” để tạo từ “khăn” đúng với gợi ý.",
       "questionNumber": 1531
     },
@@ -29569,12 +27421,6 @@
       "question": "Câu 49: Điền âm đầu còn thiếu vào tiếng “(...)ường” để tạo từ đúng chính tả.",
       "blankAnswer": "tr",
       "answer": "tr",
-      "options": [
-        "tr",
-        "ch",
-        "s",
-        "x"
-      ],
       "explanation": "Điền âm đầu “tr” để tạo thành tiếng “trường” đúng chính tả.",
       "questionNumber": 1532
     },
@@ -29621,12 +27467,6 @@
       "question": "Câu 284: Điền âm đầu còn thiếu vào tiếng “(...)ọn” để tạo từ đúng chính tả.",
       "blankAnswer": "ng",
       "answer": "ng",
-      "options": [
-        "ch",
-        "tr",
-        "s",
-        "ng"
-      ],
       "explanation": "Điền âm đầu “ng” để tạo thành tiếng “ngọn” đúng chính tả.",
       "questionNumber": 1535
     },
@@ -29673,12 +27513,6 @@
       "question": "Câu 330: Điền phần vần còn thiếu vào tiếng “l...” để tạo từ phù hợp với gợi ý: Em về thăm làng.",
       "blankAnswer": "àng",
       "answer": "àng",
-      "options": [
-        "an",
-        "àng",
-        "ang",
-        "ac"
-      ],
       "explanation": "Điền phần vần “àng” để tạo từ “làng” đúng với gợi ý.",
       "questionNumber": 1538
     },
@@ -29691,12 +27525,6 @@
       "question": "Câu 34: Điền âm đầu còn thiếu vào tiếng “(...)ân” để tạo từ đúng chính tả.",
       "blankAnswer": "ch",
       "answer": "ch",
-      "options": [
-        "tr",
-        "ch",
-        "s",
-        "x"
-      ],
       "explanation": "Điền âm đầu “ch” để tạo thành tiếng “chân” đúng chính tả.",
       "questionNumber": 1539
     },
@@ -29709,12 +27537,6 @@
       "question": "Câu 204: Điền âm đầu còn thiếu vào tiếng “(...)ôi” để tạo từ đúng chính tả.",
       "blankAnswer": "ng",
       "answer": "ng",
-      "options": [
-        "ch",
-        "tr",
-        "s",
-        "ng"
-      ],
       "explanation": "Điền âm đầu “ng” để tạo thành tiếng “ngôi” đúng chính tả.",
       "questionNumber": 1540
     },
@@ -29832,12 +27654,6 @@
       "question": "Câu 44: Điền âm đầu còn thiếu vào tiếng “(...)ọn” để tạo từ đúng chính tả.",
       "blankAnswer": "ng",
       "answer": "ng",
-      "options": [
-        "ch",
-        "tr",
-        "s",
-        "ng"
-      ],
       "explanation": "Điền âm đầu “ng” để tạo thành tiếng “ngọn” đúng chính tả.",
       "questionNumber": 1546
     },
@@ -29850,12 +27666,6 @@
       "question": "Câu 364: Điền phần vần còn thiếu vào tiếng “h...” để tạo từ phù hợp với gợi ý: Các bạn cùng hát.",
       "blankAnswer": "át",
       "answer": "át",
-      "options": [
-        "an",
-        "ang",
-        "ac",
-        "át"
-      ],
       "explanation": "Điền phần vần “át” để tạo từ “hát” đúng với gợi ý.",
       "questionNumber": 1547
     },
@@ -29868,12 +27678,6 @@
       "question": "Câu 186: Điền âm đầu còn thiếu vào tiếng “(...)ió” để tạo từ đúng chính tả.",
       "blankAnswer": "g",
       "answer": "g",
-      "options": [
-        "ch",
-        "g",
-        "tr",
-        "s"
-      ],
       "explanation": "Điền âm đầu “g” để tạo thành tiếng “gió” đúng chính tả.",
       "questionNumber": 1548
     },
@@ -29886,12 +27690,6 @@
       "question": "Câu 250: Điền âm đầu còn thiếu vào tiếng “(...)à” để tạo từ đúng chính tả.",
       "blankAnswer": "g",
       "answer": "g",
-      "options": [
-        "ch",
-        "g",
-        "tr",
-        "s"
-      ],
       "explanation": "Điền âm đầu “g” để tạo thành tiếng “gà” đúng chính tả.",
       "questionNumber": 1549
     },
@@ -29941,12 +27739,6 @@
       "question": "Câu 27: Điền âm đầu còn thiếu vào tiếng “(...)é” để tạo từ đúng chính tả.",
       "blankAnswer": "gh",
       "answer": "gh",
-      "options": [
-        "ch",
-        "tr",
-        "gh",
-        "s"
-      ],
       "explanation": "Điền âm đầu “gh” để tạo thành tiếng “ghé” đúng chính tả.",
       "questionNumber": 1551
     },
@@ -29976,12 +27768,6 @@
       "question": "Câu 79: Điền âm đầu còn thiếu vào tiếng “(...)im” để tạo từ đúng chính tả.",
       "blankAnswer": "k",
       "answer": "k",
-      "options": [
-        "ch",
-        "tr",
-        "k",
-        "s"
-      ],
       "explanation": "Điền âm đầu “k” để tạo thành tiếng “kim” đúng chính tả.",
       "questionNumber": 1553
     },
@@ -29994,12 +27780,6 @@
       "question": "Câu 430: Điền phần vần còn thiếu vào tiếng “t...” để tạo từ phù hợp với gợi ý: Em tin lời cô dạy.",
       "blankAnswer": "in",
       "answer": "in",
-      "options": [
-        "an",
-        "in",
-        "ang",
-        "ac"
-      ],
       "explanation": "Điền phần vần “in” để tạo từ “tin” đúng với gợi ý.",
       "questionNumber": 1554
     },
@@ -30046,12 +27826,6 @@
       "question": "Câu 102: Điền âm đầu còn thiếu vào tiếng “(...)ắng” để tạo từ đúng chính tả.",
       "blankAnswer": "n",
       "answer": "n",
-      "options": [
-        "ch",
-        "n",
-        "tr",
-        "s"
-      ],
       "explanation": "Điền âm đầu “n” để tạo thành tiếng “nắng” đúng chính tả.",
       "questionNumber": 1557
     },
@@ -30064,12 +27838,6 @@
       "question": "Câu 302: Điền phần vần còn thiếu vào tiếng “s...” để tạo từ phù hợp với gợi ý: Buổi sáng trời rất sáng.",
       "blankAnswer": "áng",
       "answer": "áng",
-      "options": [
-        "an",
-        "áng",
-        "ang",
-        "ac"
-      ],
       "explanation": "Điền phần vần “áng” để tạo từ “sáng” đúng với gợi ý.",
       "questionNumber": 1558
     },
@@ -30116,12 +27884,6 @@
       "question": "Câu 205: Điền âm đầu còn thiếu vào tiếng “(...)ỉ” để tạo từ đúng chính tả.",
       "blankAnswer": "ngh",
       "answer": "ngh",
-      "options": [
-        "ngh",
-        "ch",
-        "tr",
-        "s"
-      ],
       "explanation": "Điền âm đầu “ngh” để tạo thành tiếng “nghỉ” đúng chính tả.",
       "questionNumber": 1561
     },
@@ -30151,12 +27913,6 @@
       "question": "Câu 286: Điền âm đầu còn thiếu vào tiếng “(...)ây” để tạo từ đúng chính tả.",
       "blankAnswer": "c",
       "answer": "c",
-      "options": [
-        "ch",
-        "c",
-        "tr",
-        "s"
-      ],
       "explanation": "Điền âm đầu “c” để tạo thành tiếng “cây” đúng chính tả.",
       "questionNumber": 1563
     },
@@ -30353,12 +28109,6 @@
       "question": "Câu 71: Điền âm đầu còn thiếu vào tiếng “(...)ừng” để tạo từ đúng chính tả.",
       "blankAnswer": "r",
       "answer": "r",
-      "options": [
-        "ch",
-        "tr",
-        "r",
-        "s"
-      ],
       "explanation": "Điền âm đầu “r” để tạo thành tiếng “rừng” đúng chính tả.",
       "questionNumber": 1575
     },
@@ -30527,12 +28277,6 @@
       "question": "Câu 369: Điền phần vần còn thiếu vào tiếng “v...” để tạo từ phù hợp với gợi ý: Bà chăm sóc vườn rau.",
       "blankAnswer": "ườn",
       "answer": "ườn",
-      "options": [
-        "ườn",
-        "an",
-        "ang",
-        "ac"
-      ],
       "explanation": "Điền phần vần “ườn” để tạo từ “vườn” đúng với gợi ý.",
       "questionNumber": 1584
     },
@@ -30545,12 +28289,6 @@
       "question": "Câu 187: Điền âm đầu còn thiếu vào tiếng “(...)ế” để tạo từ đúng chính tả.",
       "blankAnswer": "gh",
       "answer": "gh",
-      "options": [
-        "ch",
-        "tr",
-        "gh",
-        "s"
-      ],
       "explanation": "Điền âm đầu “gh” để tạo thành tiếng “ghế” đúng chính tả.",
       "questionNumber": 1585
     },
@@ -30662,12 +28400,6 @@
       "question": "Câu 277: Điền âm đầu còn thiếu vào tiếng “(...)òng” để tạo từ đúng chính tả.",
       "blankAnswer": "l",
       "answer": "l",
-      "options": [
-        "l",
-        "ch",
-        "tr",
-        "s"
-      ],
       "explanation": "Điền âm đầu “l” để tạo thành tiếng “lòng” đúng chính tả.",
       "questionNumber": 1590
     },
@@ -30731,12 +28463,6 @@
       "question": "Câu 293: Điền âm đầu còn thiếu vào tiếng “(...)á” để tạo từ đúng chính tả.",
       "blankAnswer": "l",
       "answer": "l",
-      "options": [
-        "l",
-        "ch",
-        "tr",
-        "s"
-      ],
       "explanation": "Điền âm đầu “l” để tạo thành tiếng “lá” đúng chính tả.",
       "questionNumber": 1594
     },
@@ -30749,12 +28475,6 @@
       "question": "Câu 62: Điền âm đầu còn thiếu vào tiếng “(...)á” để tạo từ đúng chính tả.",
       "blankAnswer": "c",
       "answer": "c",
-      "options": [
-        "ch",
-        "c",
-        "tr",
-        "s"
-      ],
       "explanation": "Điền âm đầu “c” để tạo thành tiếng “cá” đúng chính tả.",
       "questionNumber": 1595
     },
@@ -30767,12 +28487,6 @@
       "question": "Câu 203: Điền âm đầu còn thiếu vào tiếng “(...)ế” để tạo từ đúng chính tả.",
       "blankAnswer": "gh",
       "answer": "gh",
-      "options": [
-        "ch",
-        "tr",
-        "gh",
-        "s"
-      ],
       "explanation": "Điền âm đầu “gh” để tạo thành tiếng “ghế” đúng chính tả.",
       "questionNumber": 1596
     },
@@ -30785,12 +28499,6 @@
       "question": "Câu 31: Điền âm đầu còn thiếu vào tiếng “(...)im” để tạo từ đúng chính tả.",
       "blankAnswer": "k",
       "answer": "k",
-      "options": [
-        "ch",
-        "tr",
-        "k",
-        "s"
-      ],
       "explanation": "Điền âm đầu “k” để tạo thành tiếng “kim” đúng chính tả.",
       "questionNumber": 1597
     },
@@ -30857,12 +28565,6 @@
       "question": "Câu 252: Điền âm đầu còn thiếu vào tiếng “(...)ôi” để tạo từ đúng chính tả.",
       "blankAnswer": "ng",
       "answer": "ng",
-      "options": [
-        "ch",
-        "tr",
-        "s",
-        "ng"
-      ],
       "explanation": "Điền âm đầu “ng” để tạo thành tiếng “ngôi” đúng chính tả.",
       "questionNumber": 1600
     },
@@ -30937,12 +28639,6 @@
       "question": "Câu 207: Điền âm đầu còn thiếu vào tiếng “(...)ẹo” để tạo từ đúng chính tả.",
       "blankAnswer": "k",
       "answer": "k",
-      "options": [
-        "ch",
-        "tr",
-        "k",
-        "s"
-      ],
       "explanation": "Điền âm đầu “k” để tạo thành tiếng “kẹo” đúng chính tả.",
       "questionNumber": 1604
     },
@@ -31037,12 +28733,6 @@
       "question": "Câu 96: Điền âm đầu còn thiếu vào tiếng “(...)ê” để tạo từ đúng chính tả.",
       "blankAnswer": "qu",
       "answer": "qu",
-      "options": [
-        "ch",
-        "tr",
-        "s",
-        "qu"
-      ],
       "explanation": "Điền âm đầu “qu” để tạo thành tiếng “quê” đúng chính tả.",
       "questionNumber": 1608
     },
@@ -31055,12 +28745,6 @@
       "question": "Câu 312: Điền phần vần còn thiếu vào tiếng “h...” để tạo từ phù hợp với gợi ý: Các bạn cùng hát.",
       "blankAnswer": "át",
       "answer": "át",
-      "options": [
-        "an",
-        "ang",
-        "ac",
-        "át"
-      ],
       "explanation": "Điền phần vần “át” để tạo từ “hát” đúng với gợi ý.",
       "questionNumber": 1609
     },
@@ -31123,12 +28807,6 @@
       "question": "Câu 389: Điền phần vần còn thiếu vào tiếng “m...” để tạo từ phù hợp với gợi ý: Gió thổi mát rượi.",
       "blankAnswer": "át",
       "answer": "át",
-      "options": [
-        "át",
-        "an",
-        "ang",
-        "ac"
-      ],
       "explanation": "Điền phần vần “át” để tạo từ “mát” đúng với gợi ý.",
       "questionNumber": 1613
     },
@@ -31175,12 +28853,6 @@
       "question": "Câu 247: Điền âm đầu còn thiếu vào tiếng “(...)ổ” để tạo từ đúng chính tả.",
       "blankAnswer": "r",
       "answer": "r",
-      "options": [
-        "ch",
-        "tr",
-        "r",
-        "s"
-      ],
       "explanation": "Điền âm đầu “r” để tạo thành tiếng “rổ” đúng chính tả.",
       "questionNumber": 1616
     },
@@ -31421,12 +29093,6 @@
       "question": "Điền chữ cái hoặc âm thích hợp vào chỗ trống: \"(...)ụ cười\"",
       "blankAnswer": "n",
       "answer": "n",
-      "options": [
-        "n",
-        "m",
-        "đ",
-        "l"
-      ],
       "explanation": "Từ đúng chính tả là 'nụ cười', do đó âm cần điền là 'n'.",
       "questionNumber": 1628
     },
@@ -31571,12 +29237,6 @@
       "question": "Câu 183: Điền âm đầu còn thiếu vào tiếng “(...)au” để tạo từ đúng chính tả.",
       "blankAnswer": "r",
       "answer": "r",
-      "options": [
-        "ch",
-        "tr",
-        "r",
-        "s"
-      ],
       "explanation": "Điền âm đầu “r” để tạo thành tiếng “rau” đúng chính tả.",
       "questionNumber": 1635
     },
@@ -31589,12 +29249,6 @@
       "question": "Câu 30: Điền âm đầu còn thiếu vào tiếng “(...)ốc” để tạo từ đúng chính tả.",
       "blankAnswer": "c",
       "answer": "c",
-      "options": [
-        "ch",
-        "c",
-        "tr",
-        "s"
-      ],
       "explanation": "Điền âm đầu “c” để tạo thành tiếng “cốc” đúng chính tả.",
       "questionNumber": 1636
     },
@@ -31695,12 +29349,6 @@
       "question": "Câu 420: Điền phần vần còn thiếu vào tiếng “m...” để tạo từ phù hợp với gợi ý: Em có một chiếc bút.",
       "blankAnswer": "ột",
       "answer": "ột",
-      "options": [
-        "an",
-        "ang",
-        "ac",
-        "ột"
-      ],
       "explanation": "Điền phần vần “ột” để tạo từ “một” đúng với gợi ý.",
       "questionNumber": 1641
     },
@@ -31713,12 +29361,6 @@
       "question": "Câu 184: Điền âm đầu còn thiếu vào tiếng “(...)ưa” để tạo từ đúng chính tả.",
       "blankAnswer": "d",
       "answer": "d",
-      "options": [
-        "ch",
-        "tr",
-        "s",
-        "d"
-      ],
       "explanation": "Điền âm đầu “d” để tạo thành tiếng “dưa” đúng chính tả.",
       "questionNumber": 1642
     },
@@ -31765,12 +29407,6 @@
       "question": "Câu 346: Điền phần vần còn thiếu vào tiếng “b...” để tạo từ phù hợp với gợi ý: Mẹ ngồi bên em.",
       "blankAnswer": "ên",
       "answer": "ên",
-      "options": [
-        "an",
-        "ên",
-        "ang",
-        "ac"
-      ],
       "explanation": "Điền phần vần “ên” để tạo từ “bên” đúng với gợi ý.",
       "questionNumber": 1645
     },
@@ -31817,12 +29453,6 @@
       "question": "Câu 382: Điền phần vần còn thiếu vào tiếng “l...” để tạo từ phù hợp với gợi ý: Em về thăm làng.",
       "blankAnswer": "àng",
       "answer": "àng",
-      "options": [
-        "an",
-        "àng",
-        "ang",
-        "ac"
-      ],
       "explanation": "Điền phần vần “àng” để tạo từ “làng” đúng với gợi ý.",
       "questionNumber": 1648
     },
@@ -31835,12 +29465,6 @@
       "question": "Điền âm đầu còn thiếu vào tiếng “(...)ữa” để tạo thành một từ đúng chính tả.",
       "blankAnswer": "s",
       "answer": "s",
-      "options": [
-        "tr",
-        "x",
-        "s",
-        "ch"
-      ],
       "explanation": "Điền âm đầu “s” để tạo thành tiếng “sữa” đúng chính tả.",
       "questionNumber": 1649
     },
@@ -32026,12 +29650,6 @@
       "question": "Câu 292: Điền âm đầu còn thiếu vào tiếng “(...)e” để tạo từ đúng chính tả.",
       "blankAnswer": "x",
       "answer": "x",
-      "options": [
-        "ch",
-        "tr",
-        "s",
-        "x"
-      ],
       "explanation": "Điền âm đầu “x” để tạo thành tiếng “xe” đúng chính tả.",
       "questionNumber": 1659
     },
@@ -32078,12 +29696,6 @@
       "question": "Câu 398: Điền phần vần còn thiếu vào tiếng “b...” để tạo từ phù hợp với gợi ý: Mẹ ngồi bên em.",
       "blankAnswer": "ên",
       "answer": "ên",
-      "options": [
-        "an",
-        "ên",
-        "ang",
-        "ac"
-      ],
       "explanation": "Điền phần vần “ên” để tạo từ “bên” đúng với gợi ý.",
       "questionNumber": 1662
     },
@@ -32133,12 +29745,6 @@
       "question": "Câu 139: Điền âm đầu còn thiếu vào tiếng “(...)ế” để tạo từ đúng chính tả.",
       "blankAnswer": "gh",
       "answer": "gh",
-      "options": [
-        "ch",
-        "tr",
-        "gh",
-        "s"
-      ],
       "explanation": "Điền âm đầu “gh” để tạo thành tiếng “ghế” đúng chính tả.",
       "questionNumber": 1664
     },
@@ -32168,12 +29774,6 @@
       "question": "Câu 6: Điền âm đầu còn thiếu vào tiếng “(...)ắng” để tạo từ đúng chính tả.",
       "blankAnswer": "n",
       "answer": "n",
-      "options": [
-        "ch",
-        "n",
-        "tr",
-        "s"
-      ],
       "explanation": "Điền âm đầu “n” để tạo thành tiếng “nắng” đúng chính tả.",
       "questionNumber": 1666
     },
@@ -32320,12 +29920,6 @@
       "question": "Câu 219: Điền âm đầu còn thiếu vào tiếng “(...)é” để tạo từ đúng chính tả.",
       "blankAnswer": "gh",
       "answer": "gh",
-      "options": [
-        "ch",
-        "tr",
-        "gh",
-        "s"
-      ],
       "explanation": "Điền âm đầu “gh” để tạo thành tiếng “ghé” đúng chính tả.",
       "questionNumber": 1675
     },
@@ -32443,12 +30037,6 @@
       "question": "Câu 116: Điền âm đầu còn thiếu vào tiếng “(...)inh” để tạo từ đúng chính tả.",
       "blankAnswer": "x",
       "answer": "x",
-      "options": [
-        "ch",
-        "tr",
-        "s",
-        "x"
-      ],
       "explanation": "Điền âm đầu “x” để tạo thành tiếng “xinh” đúng chính tả.",
       "questionNumber": 1681
     },
@@ -32461,12 +30049,6 @@
       "question": "Câu 320: Điền phần vần còn thiếu vào tiếng “b...” để tạo từ phù hợp với gợi ý: Mẹ ngồi bên em.",
       "blankAnswer": "ên",
       "answer": "ên",
-      "options": [
-        "an",
-        "ang",
-        "ac",
-        "ên"
-      ],
       "explanation": "Điền phần vần “ên” để tạo từ “bên” đúng với gợi ý.",
       "questionNumber": 1682
     },
@@ -32496,12 +30078,6 @@
       "question": "Câu 85: Điền âm đầu còn thiếu vào tiếng “(...)òng” để tạo từ đúng chính tả.",
       "blankAnswer": "l",
       "answer": "l",
-      "options": [
-        "l",
-        "ch",
-        "tr",
-        "s"
-      ],
       "explanation": "Điền âm đầu “l” để tạo thành tiếng “lòng” đúng chính tả.",
       "questionNumber": 1684
     },
@@ -32514,12 +30090,6 @@
       "question": "Câu 427: Điền phần vần còn thiếu vào tiếng “x...” để tạo từ phù hợp với gợi ý: Bông hoa thật xinh.",
       "blankAnswer": "inh",
       "answer": "inh",
-      "options": [
-        "an",
-        "ang",
-        "inh",
-        "ac"
-      ],
       "explanation": "Điền phần vần “inh” để tạo từ “xinh” đúng với gợi ý.",
       "questionNumber": 1685
     },
@@ -32637,12 +30207,6 @@
       "question": "Câu 159: Điền âm đầu còn thiếu vào tiếng “(...)ẹo” để tạo từ đúng chính tả.",
       "blankAnswer": "k",
       "answer": "k",
-      "options": [
-        "ch",
-        "tr",
-        "k",
-        "s"
-      ],
       "explanation": "Điền âm đầu “k” để tạo thành tiếng “kẹo” đúng chính tả.",
       "questionNumber": 1691
     },
@@ -33002,12 +30566,6 @@
       "question": "Câu 64: Điền âm đầu còn thiếu vào tiếng “(...)ả” để tạo từ đúng chính tả.",
       "blankAnswer": "qu",
       "answer": "qu",
-      "options": [
-        "ch",
-        "tr",
-        "s",
-        "qu"
-      ],
       "explanation": "Điền âm đầu “qu” để tạo thành tiếng “quả” đúng chính tả.",
       "questionNumber": 1710
     },
@@ -33125,12 +30683,6 @@
       "question": "Câu 436: Điền phần vần còn thiếu vào tiếng “b...” để tạo từ phù hợp với gợi ý: Bạn bè cùng học.",
       "blankAnswer": "ạn",
       "answer": "ạn",
-      "options": [
-        "an",
-        "ang",
-        "ac",
-        "ạn"
-      ],
       "explanation": "Điền phần vần “ạn” để tạo từ “bạn” đúng với gợi ý.",
       "questionNumber": 1716
     },
@@ -33160,12 +30712,6 @@
       "question": "Câu 72: Điền âm đầu còn thiếu vào tiếng “(...)ép” để tạo từ đúng chính tả.",
       "blankAnswer": "d",
       "answer": "d",
-      "options": [
-        "ch",
-        "tr",
-        "s",
-        "d"
-      ],
       "explanation": "Điền âm đầu “d” để tạo thành tiếng “dép” đúng chính tả.",
       "questionNumber": 1718
     },
@@ -33212,12 +30758,6 @@
       "question": "Câu 399: Điền phần vần còn thiếu vào tiếng “t...” để tạo từ phù hợp với gợi ý: Tên em là Lan.",
       "blankAnswer": "ên",
       "answer": "ên",
-      "options": [
-        "an",
-        "ang",
-        "ên",
-        "ac"
-      ],
       "explanation": "Điền phần vần “ên” để tạo từ “tên” đúng với gợi ý.",
       "questionNumber": 1721
     },
@@ -33247,12 +30787,6 @@
       "question": "Câu 156: Điền âm đầu còn thiếu vào tiếng “(...)ôi” để tạo từ đúng chính tả.",
       "blankAnswer": "ng",
       "answer": "ng",
-      "options": [
-        "ch",
-        "tr",
-        "s",
-        "ng"
-      ],
       "explanation": "Điền âm đầu “ng” để tạo thành tiếng “ngôi” đúng chính tả.",
       "questionNumber": 1723
     },
@@ -33327,12 +30861,6 @@
       "question": "Điền chữ cái hoặc âm thích hợp vào chỗ trống: \"cây (...)e\"",
       "blankAnswer": "tr",
       "answer": "tr",
-      "options": [
-        "tr",
-        "r",
-        "ch",
-        "t"
-      ],
       "explanation": "Từ đúng chính tả là 'cây tre', do đó âm cần điền là 'tr'.",
       "questionNumber": 1727
     },
@@ -33552,12 +31080,6 @@
       "question": "Câu 170: Điền âm đầu còn thiếu vào tiếng “(...)ỗ” để tạo từ đúng chính tả.",
       "blankAnswer": "g",
       "answer": "g",
-      "options": [
-        "ch",
-        "g",
-        "tr",
-        "s"
-      ],
       "explanation": "Điền âm đầu “g” để tạo thành tiếng “gỗ” đúng chính tả.",
       "questionNumber": 1738
     },
@@ -33666,12 +31188,6 @@
       "question": "Điền chữ cái hoặc âm thích hợp vào chỗ trống: \"(...)ăm chỉ\"",
       "blankAnswer": "ch",
       "answer": "ch",
-      "options": [
-        "tr",
-        "c",
-        "ch",
-        "s"
-      ],
       "explanation": "Từ đúng chính tả là 'chăm chỉ', do đó âm cần điền là 'ch'.",
       "questionNumber": 1744
     },
@@ -33717,12 +31233,6 @@
       "question": "Câu 13: Điền âm đầu còn thiếu vào tiếng “(...)ỉ” để tạo từ đúng chính tả.",
       "blankAnswer": "ngh",
       "answer": "ngh",
-      "options": [
-        "ngh",
-        "ch",
-        "tr",
-        "s"
-      ],
       "explanation": "Điền âm đầu “ngh” để tạo thành tiếng “nghỉ” đúng chính tả.",
       "questionNumber": 1747
     },
@@ -33751,12 +31261,6 @@
       "question": "Câu 267: Điền âm đầu còn thiếu vào tiếng “(...)é” để tạo từ đúng chính tả.",
       "blankAnswer": "gh",
       "answer": "gh",
-      "options": [
-        "ch",
-        "tr",
-        "gh",
-        "s"
-      ],
       "explanation": "Điền âm đầu “gh” để tạo thành tiếng “ghé” đúng chính tả.",
       "questionNumber": 1749
     },
@@ -33769,12 +31273,6 @@
       "question": "Điền chữ cái hoặc âm thích hợp vào chỗ trống: \"con (...)á\"",
       "blankAnswer": "c",
       "answer": "c",
-      "options": [
-        "tr",
-        "c",
-        "q",
-        "k"
-      ],
       "explanation": "Từ đúng chính tả là 'cá', do đó âm cần điền là 'c'.",
       "questionNumber": 1750
     },
@@ -33821,12 +31319,6 @@
       "question": "Câu 340: Điền phần vần còn thiếu vào tiếng “g...” để tạo từ phù hợp với gợi ý: Chiếc bàn đặt ở góc lớp.",
       "blankAnswer": "óc",
       "answer": "óc",
-      "options": [
-        "an",
-        "ang",
-        "ac",
-        "óc"
-      ],
       "explanation": "Điền phần vần “óc” để tạo từ “góc” đúng với gợi ý.",
       "questionNumber": 1753
     },
@@ -33965,12 +31457,6 @@
       "question": "Câu 54: Điền âm đầu còn thiếu vào tiếng “(...)ắng” để tạo từ đúng chính tả.",
       "blankAnswer": "n",
       "answer": "n",
-      "options": [
-        "ch",
-        "n",
-        "tr",
-        "s"
-      ],
       "explanation": "Điền âm đầu “n” để tạo thành tiếng “nắng” đúng chính tả.",
       "questionNumber": 1759
     },
@@ -34079,12 +31565,6 @@
       "question": "Câu 69: Điền âm đầu còn thiếu vào tiếng “(...)ớp” để tạo từ đúng chính tả.",
       "blankAnswer": "l",
       "answer": "l",
-      "options": [
-        "l",
-        "ch",
-        "tr",
-        "s"
-      ],
       "explanation": "Điền âm đầu “l” để tạo thành tiếng “lớp” đúng chính tả.",
       "questionNumber": 1765
     },
@@ -34097,12 +31577,6 @@
       "question": "Câu 345: Điền phần vần còn thiếu vào tiếng “đ...” để tạo từ phù hợp với gợi ý: Con đường sạch đẹp.",
       "blankAnswer": "ường",
       "answer": "ường",
-      "options": [
-        "ường",
-        "an",
-        "ang",
-        "ac"
-      ],
       "explanation": "Điền phần vần “ường” để tạo từ “đường” đúng với gợi ý.",
       "questionNumber": 1766
     },
@@ -34222,12 +31696,6 @@
       "question": "Câu 400: Điền phần vần còn thiếu vào tiếng “m...” để tạo từ phù hợp với gợi ý: Biển rộng mênh mông.",
       "blankAnswer": "ênh",
       "answer": "ênh",
-      "options": [
-        "an",
-        "ang",
-        "ac",
-        "ênh"
-      ],
       "explanation": "Điền phần vần “ênh” để tạo từ “mênh” đúng với gợi ý.",
       "questionNumber": 1772
     },
@@ -34240,12 +31708,6 @@
       "question": "Câu 384: Điền phần vần còn thiếu vào tiếng “b...” để tạo từ phù hợp với gợi ý: Bạn bè cùng học.",
       "blankAnswer": "ạn",
       "answer": "ạn",
-      "options": [
-        "an",
-        "ang",
-        "ac",
-        "ạn"
-      ],
       "explanation": "Điền phần vần “ạn” để tạo từ “bạn” đúng với gợi ý.",
       "questionNumber": 1773
     },
@@ -34275,12 +31737,6 @@
       "question": "Câu 295: Điền âm đầu còn thiếu vào tiếng “(...)ổ” để tạo từ đúng chính tả.",
       "blankAnswer": "r",
       "answer": "r",
-      "options": [
-        "ch",
-        "tr",
-        "r",
-        "s"
-      ],
       "explanation": "Điền âm đầu “r” để tạo thành tiếng “rổ” đúng chính tả.",
       "questionNumber": 1775
     },
@@ -34310,12 +31766,6 @@
       "question": "Câu 92: Điền âm đầu còn thiếu vào tiếng “(...)ọn” để tạo từ đúng chính tả.",
       "blankAnswer": "ng",
       "answer": "ng",
-      "options": [
-        "ch",
-        "tr",
-        "s",
-        "ng"
-      ],
       "explanation": "Điền âm đầu “ng” để tạo thành tiếng “ngọn” đúng chính tả.",
       "questionNumber": 1777
     },
@@ -34345,12 +31795,6 @@
       "question": "Câu 228: Điền âm đầu còn thiếu vào tiếng “(...)anh” để tạo từ đúng chính tả.",
       "blankAnswer": "x",
       "answer": "x",
-      "options": [
-        "ch",
-        "tr",
-        "s",
-        "x"
-      ],
       "explanation": "Điền âm đầu “x” để tạo thành tiếng “xanh” đúng chính tả.",
       "questionNumber": 1779
     },
@@ -34380,12 +31824,6 @@
       "question": "Câu 150: Điền âm đầu còn thiếu vào tiếng “(...)ắng” để tạo từ đúng chính tả.",
       "blankAnswer": "n",
       "answer": "n",
-      "options": [
-        "ch",
-        "n",
-        "tr",
-        "s"
-      ],
       "explanation": "Điền âm đầu “n” để tạo thành tiếng “nắng” đúng chính tả.",
       "questionNumber": 1781
     },
@@ -34398,12 +31836,6 @@
       "question": "Câu 182: Điền âm đầu còn thiếu vào tiếng “(...)ụ” để tạo từ đúng chính tả.",
       "blankAnswer": "n",
       "answer": "n",
-      "options": [
-        "ch",
-        "n",
-        "tr",
-        "s"
-      ],
       "explanation": "Điền âm đầu “n” để tạo thành tiếng “nụ” đúng chính tả.",
       "questionNumber": 1782
     },
@@ -34546,12 +31978,6 @@
       "question": "Câu 88: Điền âm đầu còn thiếu vào tiếng “(...)ưa” để tạo từ đúng chính tả.",
       "blankAnswer": "d",
       "answer": "d",
-      "options": [
-        "ch",
-        "tr",
-        "s",
-        "d"
-      ],
       "explanation": "Điền âm đầu “d” để tạo thành tiếng “dưa” đúng chính tả.",
       "questionNumber": 1790
     },
@@ -34581,12 +32007,6 @@
       "question": "Câu 361: Điền phần vần còn thiếu vào tiếng “b...” để tạo từ phù hợp với gợi ý: Bác nông dân ra đồng.",
       "blankAnswer": "ác",
       "answer": "ác",
-      "options": [
-        "ác",
-        "an",
-        "ang",
-        "ac"
-      ],
       "explanation": "Điền phần vần “ác” để tạo từ “bác” đúng với gợi ý.",
       "questionNumber": 1792
     },
@@ -34703,12 +32123,6 @@
       "question": "Câu 248: Điền âm đầu còn thiếu vào tiếng “(...)òng” để tạo từ đúng chính tả.",
       "blankAnswer": "d",
       "answer": "d",
-      "options": [
-        "ch",
-        "tr",
-        "s",
-        "d"
-      ],
       "explanation": "Điền âm đầu “d” để tạo thành tiếng “dòng” đúng chính tả.",
       "questionNumber": 1798
     },
@@ -34721,12 +32135,6 @@
       "question": "Câu 154: Điền âm đầu còn thiếu vào tiếng “(...)à” để tạo từ đúng chính tả.",
       "blankAnswer": "g",
       "answer": "g",
-      "options": [
-        "ch",
-        "g",
-        "tr",
-        "s"
-      ],
       "explanation": "Điền âm đầu “g” để tạo thành tiếng “gà” đúng chính tả.",
       "questionNumber": 1799
     },
@@ -34739,12 +32147,6 @@
       "question": "Câu 234: Điền âm đầu còn thiếu vào tiếng “(...)ió” để tạo từ đúng chính tả.",
       "blankAnswer": "g",
       "answer": "g",
-      "options": [
-        "ch",
-        "g",
-        "tr",
-        "s"
-      ],
       "explanation": "Điền âm đầu “g” để tạo thành tiếng “gió” đúng chính tả.",
       "questionNumber": 1800
     },
@@ -34842,12 +32244,6 @@
       "question": "Câu 343: Điền phần vần còn thiếu vào tiếng “v...” để tạo từ phù hợp với gợi ý: Bà chăm sóc vườn rau.",
       "blankAnswer": "ườn",
       "answer": "ườn",
-      "options": [
-        "an",
-        "ang",
-        "ườn",
-        "ac"
-      ],
       "explanation": "Điền phần vần “ườn” để tạo từ “vườn” đúng với gợi ý.",
       "questionNumber": 1806
     },
@@ -34877,12 +32273,6 @@
       "question": "Câu 258: Điền âm đầu còn thiếu vào tiếng “(...)ổi” để tạo từ đúng chính tả.",
       "blankAnswer": "ch",
       "answer": "ch",
-      "options": [
-        "tr",
-        "ch",
-        "s",
-        "x"
-      ],
       "explanation": "Điền âm đầu “ch” để tạo thành tiếng “chổi” đúng chính tả.",
       "questionNumber": 1808
     },
@@ -35168,12 +32558,6 @@
       "question": "Câu 142: Điền âm đầu còn thiếu vào tiếng “(...)ây” để tạo từ đúng chính tả.",
       "blankAnswer": "c",
       "answer": "c",
-      "options": [
-        "ch",
-        "c",
-        "tr",
-        "s"
-      ],
       "explanation": "Điền âm đầu “c” để tạo thành tiếng “cây” đúng chính tả.",
       "questionNumber": 1822
     },
@@ -35310,12 +32694,6 @@
       "question": "Câu 317: Điền phần vần còn thiếu vào tiếng “v...” để tạo từ phù hợp với gợi ý: Bà chăm sóc vườn rau.",
       "blankAnswer": "ườn",
       "answer": "ườn",
-      "options": [
-        "ườn",
-        "an",
-        "ang",
-        "ac"
-      ],
       "explanation": "Điền phần vần “ườn” để tạo từ “vườn” đúng với gợi ý.",
       "questionNumber": 1829
     },
@@ -35732,12 +33110,6 @@
       "question": "Câu 276: Điền âm đầu còn thiếu vào tiếng “(...)anh” để tạo từ đúng chính tả.",
       "blankAnswer": "x",
       "answer": "x",
-      "options": [
-        "ch",
-        "tr",
-        "s",
-        "x"
-      ],
       "explanation": "Điền âm đầu “x” để tạo thành tiếng “xanh” đúng chính tả.",
       "questionNumber": 1852
     },
@@ -35767,12 +33139,6 @@
       "question": "Câu 90: Điền âm đầu còn thiếu vào tiếng “(...)ió” để tạo từ đúng chính tả.",
       "blankAnswer": "g",
       "answer": "g",
-      "options": [
-        "ch",
-        "g",
-        "tr",
-        "s"
-      ],
       "explanation": "Điền âm đầu “g” để tạo thành tiếng “gió” đúng chính tả.",
       "questionNumber": 1854
     },
@@ -35916,12 +33282,6 @@
       "question": "Câu 271: Điền âm đầu còn thiếu vào tiếng “(...)im” để tạo từ đúng chính tả.",
       "blankAnswer": "k",
       "answer": "k",
-      "options": [
-        "ch",
-        "tr",
-        "k",
-        "s"
-      ],
       "explanation": "Điền âm đầu “k” để tạo thành tiếng “kim” đúng chính tả.",
       "questionNumber": 1862
     },
@@ -36047,12 +33407,6 @@
       "question": "Câu 406: Điền phần vần còn thiếu vào tiếng “s...” để tạo từ phù hợp với gợi ý: Buổi sáng trời rất sáng.",
       "blankAnswer": "áng",
       "answer": "áng",
-      "options": [
-        "an",
-        "áng",
-        "ang",
-        "ac"
-      ],
       "explanation": "Điền phần vần “áng” để tạo từ “sáng” đúng với gợi ý.",
       "questionNumber": 1869
     },
@@ -36065,12 +33419,6 @@
       "question": "Câu 60: Điền âm đầu còn thiếu vào tiếng “(...)ôi” để tạo từ đúng chính tả.",
       "blankAnswer": "ng",
       "answer": "ng",
-      "options": [
-        "ch",
-        "tr",
-        "s",
-        "ng"
-      ],
       "explanation": "Điền âm đầu “ng” để tạo thành tiếng “ngôi” đúng chính tả.",
       "questionNumber": 1870
     },
@@ -36134,12 +33482,6 @@
       "question": "Câu 223: Điền âm đầu còn thiếu vào tiếng “(...)im” để tạo từ đúng chính tả.",
       "blankAnswer": "k",
       "answer": "k",
-      "options": [
-        "ch",
-        "tr",
-        "k",
-        "s"
-      ],
       "explanation": "Điền âm đầu “k” để tạo thành tiếng “kim” đúng chính tả.",
       "questionNumber": 1874
     },
@@ -36231,12 +33573,6 @@
       "question": "Câu 48: Điền âm đầu còn thiếu vào tiếng “(...)ê” để tạo từ đúng chính tả.",
       "blankAnswer": "qu",
       "answer": "qu",
-      "options": [
-        "ch",
-        "tr",
-        "s",
-        "qu"
-      ],
       "explanation": "Điền âm đầu “qu” để tạo thành tiếng “quê” đúng chính tả.",
       "questionNumber": 1879
     },
@@ -36300,12 +33636,6 @@
       "question": "Câu 144: Điền âm đầu còn thiếu vào tiếng “(...)ê” để tạo từ đúng chính tả.",
       "blankAnswer": "qu",
       "answer": "qu",
-      "options": [
-        "ch",
-        "tr",
-        "s",
-        "qu"
-      ],
       "explanation": "Điền âm đầu “qu” để tạo thành tiếng “quê” đúng chính tả.",
       "questionNumber": 1883
     },
@@ -36387,12 +33717,6 @@
       "question": "Câu 224: Điền âm đầu còn thiếu vào tiếng “(...)yển” để tạo từ đúng chính tả.",
       "blankAnswer": "qu",
       "answer": "qu",
-      "options": [
-        "ch",
-        "tr",
-        "s",
-        "qu"
-      ],
       "explanation": "Điền âm đầu “qu” để tạo thành tiếng “quyển” đúng chính tả.",
       "questionNumber": 1888
     },
@@ -36490,12 +33814,6 @@
       "question": "Câu 180: Điền âm đầu còn thiếu vào tiếng “(...)anh” để tạo từ đúng chính tả.",
       "blankAnswer": "x",
       "answer": "x",
-      "options": [
-        "ch",
-        "tr",
-        "s",
-        "x"
-      ],
       "explanation": "Điền âm đầu “x” để tạo thành tiếng “xanh” đúng chính tả.",
       "questionNumber": 1894
     },
@@ -36672,12 +33990,6 @@
       "question": "Câu 98: Điền âm đầu còn thiếu vào tiếng “(...)im” để tạo từ đúng chính tả.",
       "blankAnswer": "ch",
       "answer": "ch",
-      "options": [
-        "tr",
-        "ch",
-        "s",
-        "x"
-      ],
       "explanation": "Điền âm đầu “ch” để tạo thành tiếng “chim” đúng chính tả.",
       "questionNumber": 1904
     },
@@ -36874,12 +34186,6 @@
       "question": "Câu 383: Điền phần vần còn thiếu vào tiếng “b...” để tạo từ phù hợp với gợi ý: Quyển sách ở trên bàn.",
       "blankAnswer": "àn",
       "answer": "àn",
-      "options": [
-        "an",
-        "ang",
-        "àn",
-        "ac"
-      ],
       "explanation": "Điền phần vần “àn” để tạo từ “bàn” đúng với gợi ý.",
       "questionNumber": 1914
     },
@@ -36943,12 +34249,6 @@
       "question": "Câu 349: Điền phần vần còn thiếu vào tiếng “x...” để tạo từ phù hợp với gợi ý: Bông hoa thật xinh.",
       "blankAnswer": "inh",
       "answer": "inh",
-      "options": [
-        "inh",
-        "an",
-        "ang",
-        "ac"
-      ],
       "explanation": "Điền phần vần “inh” để tạo từ “xinh” đúng với gợi ý.",
       "questionNumber": 1918
     },
@@ -37068,12 +34368,6 @@
       "question": "Câu 9: Điền âm đầu còn thiếu vào tiếng “(...)ảng” để tạo từ đúng chính tả.",
       "blankAnswer": "gi",
       "answer": "gi",
-      "options": [
-        "gi",
-        "ch",
-        "tr",
-        "s"
-      ],
       "explanation": "Điền âm đầu “gi” để tạo thành tiếng “giảng” đúng chính tả.",
       "questionNumber": 1924
     },
@@ -37103,12 +34397,6 @@
       "question": "Câu 97: Điền âm đầu còn thiếu vào tiếng “(...)ường” để tạo từ đúng chính tả.",
       "blankAnswer": "tr",
       "answer": "tr",
-      "options": [
-        "tr",
-        "ch",
-        "s",
-        "x"
-      ],
       "explanation": "Điền âm đầu “tr” để tạo thành tiếng “trường” đúng chính tả.",
       "questionNumber": 1926
     },
@@ -37121,12 +34409,6 @@
       "question": "Câu 132: Điền âm đầu còn thiếu vào tiếng “(...)anh” để tạo từ đúng chính tả.",
       "blankAnswer": "x",
       "answer": "x",
-      "options": [
-        "ch",
-        "tr",
-        "s",
-        "x"
-      ],
       "explanation": "Điền âm đầu “x” để tạo thành tiếng “xanh” đúng chính tả.",
       "questionNumber": 1927
     },
@@ -37286,12 +34568,6 @@
       "question": "Câu 402: Điền phần vần còn thiếu vào tiếng “b...” để tạo từ phù hợp với gợi ý: Bình minh lên.",
       "blankAnswer": "ình",
       "answer": "ình",
-      "options": [
-        "an",
-        "ình",
-        "ang",
-        "ac"
-      ],
       "explanation": "Điền phần vần “ình” để tạo từ “bình” đúng với gợi ý.",
       "questionNumber": 1936
     },
@@ -37304,12 +34580,6 @@
       "question": "Câu 314: Điền phần vần còn thiếu vào tiếng “g...” để tạo từ phù hợp với gợi ý: Chiếc bàn đặt ở góc lớp.",
       "blankAnswer": "óc",
       "answer": "óc",
-      "options": [
-        "an",
-        "óc",
-        "ang",
-        "ac"
-      ],
       "explanation": "Điền phần vần “óc” để tạo từ “góc” đúng với gợi ý.",
       "questionNumber": 1937
     },
@@ -37339,12 +34609,6 @@
       "question": "Câu 172: Điền âm đầu còn thiếu vào tiếng “(...)ế” để tạo từ đúng chính tả.",
       "blankAnswer": "gh",
       "answer": "gh",
-      "options": [
-        "ch",
-        "tr",
-        "s",
-        "gh"
-      ],
       "explanation": "Điền âm đầu “gh” để tạo thành tiếng “ghế” đúng chính tả.",
       "questionNumber": 1939
     },
@@ -37425,12 +34689,6 @@
       "question": "Câu 316: Điền phần vần còn thiếu vào tiếng “m...” để tạo từ phù hợp với gợi ý: Em có một chiếc bút.",
       "blankAnswer": "ột",
       "answer": "ột",
-      "options": [
-        "an",
-        "ang",
-        "ac",
-        "ột"
-      ],
       "explanation": "Điền phần vần “ột” để tạo từ “một” đúng với gợi ý.",
       "questionNumber": 1944
     },
@@ -37505,12 +34763,6 @@
       "question": "Câu 113: Điền âm đầu còn thiếu vào tiếng “(...)ăng” để tạo từ đúng chính tả.",
       "blankAnswer": "tr",
       "answer": "tr",
-      "options": [
-        "tr",
-        "ch",
-        "s",
-        "x"
-      ],
       "explanation": "Điền âm đầu “tr” để tạo thành tiếng “trăng” đúng chính tả.",
       "questionNumber": 1948
     },
@@ -37557,12 +34809,6 @@
       "question": "Câu 235: Điền âm đầu còn thiếu vào tiếng “(...)ế” để tạo từ đúng chính tả.",
       "blankAnswer": "gh",
       "answer": "gh",
-      "options": [
-        "ch",
-        "tr",
-        "gh",
-        "s"
-      ],
       "explanation": "Điền âm đầu “gh” để tạo thành tiếng “ghế” đúng chính tả.",
       "questionNumber": 1951
     },
@@ -37688,12 +34934,6 @@
       "question": "Câu 217: Điền âm đầu còn thiếu vào tiếng “(...)ỏ” để tạo từ đúng chính tả.",
       "blankAnswer": "gi",
       "answer": "gi",
-      "options": [
-        "gi",
-        "ch",
-        "tr",
-        "s"
-      ],
       "explanation": "Điền âm đầu “gi” để tạo thành tiếng “giỏ” đúng chính tả.",
       "questionNumber": 1958
     },
@@ -37740,12 +34980,6 @@
       "question": "Câu 243: Điền âm đầu còn thiếu vào tiếng “(...)ân” để tạo từ đúng chính tả.",
       "blankAnswer": "s",
       "answer": "s",
-      "options": [
-        "ch",
-        "tr",
-        "s",
-        "x"
-      ],
       "explanation": "Điền âm đầu “s” để tạo thành tiếng “sân” đúng chính tả.",
       "questionNumber": 1961
     },
@@ -37775,12 +35009,6 @@
       "question": "Câu 190: Điền âm đầu còn thiếu vào tiếng “(...)ây” để tạo từ đúng chính tả.",
       "blankAnswer": "c",
       "answer": "c",
-      "options": [
-        "ch",
-        "c",
-        "tr",
-        "s"
-      ],
       "explanation": "Điền âm đầu “c” để tạo thành tiếng “cây” đúng chính tả.",
       "questionNumber": 1963
     },
@@ -37918,12 +35146,6 @@
       "question": "Câu 93: Điền âm đầu còn thiếu vào tiếng “(...)ề” để tạo từ đúng chính tả.",
       "blankAnswer": "ngh",
       "answer": "ngh",
-      "options": [
-        "ngh",
-        "ch",
-        "tr",
-        "s"
-      ],
       "explanation": "Điền âm đầu “ngh” để tạo thành tiếng “nghề” đúng chính tả.",
       "questionNumber": 1969
     },
@@ -38052,12 +35274,6 @@
       "question": "Câu 264: Điền âm đầu còn thiếu vào tiếng “(...)ép” để tạo từ đúng chính tả.",
       "blankAnswer": "d",
       "answer": "d",
-      "options": [
-        "ch",
-        "tr",
-        "s",
-        "d"
-      ],
       "explanation": "Điền âm đầu “d” để tạo thành tiếng “dép” đúng chính tả.",
       "questionNumber": 1975
     },
@@ -38154,12 +35370,6 @@
       "question": "Câu 344: Điền phần vần còn thiếu vào tiếng “tr...” để tạo từ phù hợp với gợi ý: Em đến trường mỗi ngày.",
       "blankAnswer": "ường",
       "answer": "ường",
-      "options": [
-        "an",
-        "ang",
-        "ac",
-        "ường"
-      ],
       "explanation": "Điền phần vần “ường” để tạo từ “trường” đúng với gợi ý.",
       "questionNumber": 1981
     },
@@ -38450,12 +35660,6 @@
       "question": "Câu 446: Điền phần vần còn thiếu vào tiếng “m...” để tạo từ phù hợp với gợi ý: Em có một chiếc bút.",
       "blankAnswer": "ột",
       "answer": "ột",
-      "options": [
-        "an",
-        "ột",
-        "ang",
-        "ac"
-      ],
       "explanation": "Điền phần vần “ột” để tạo từ “một” đúng với gợi ý.",
       "questionNumber": 1996
     },
@@ -38468,12 +35672,6 @@
       "question": "Câu 103: Điền âm đầu còn thiếu vào tiếng “(...)ổ” để tạo từ đúng chính tả.",
       "blankAnswer": "r",
       "answer": "r",
-      "options": [
-        "ch",
-        "tr",
-        "r",
-        "s"
-      ],
       "explanation": "Điền âm đầu “r” để tạo thành tiếng “rổ” đúng chính tả.",
       "questionNumber": 1997
     },

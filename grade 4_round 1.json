@@ -3546,12 +3546,6 @@
       "question": "Điền quan hệ từ thích hợp vào chỗ trống trong câu sau: \"Hễ gió mùa đông bắc tràn về (...) trời trở rét đậm.\"",
       "blankAnswer": "thì",
       "answer": "thì",
-      "options": [
-        "thì",
-        "nhưng",
-        "và",
-        "mà"
-      ],
       "explanation": "Câu văn sử dụng cặp quan hệ từ 'Hễ... thì...' biểu thị quan hệ Điều kiện (giả thiết) - Kết quả."
     },
     {
@@ -3563,12 +3557,6 @@
       "question": "Điền quan hệ từ thích hợp vào chỗ trống trong câu sau: \"(...) mưa to mà sấm chớp còn nổi lên dữ dội.\"",
       "blankAnswer": "Chẳng những",
       "answer": "Chẳng những",
-      "options": [
-        "và",
-        "thì",
-        "nhưng",
-        "Chẳng những"
-      ],
       "explanation": "Câu văn sử dụng cặp quan hệ từ 'Chẳng những... mà còn...' biểu thị quan hệ Tăng tiến."
     },
     {
@@ -3580,12 +3568,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"(...) nước nhớ người đào giếng\"",
       "blankAnswer": "Uống",
       "answer": "Uống",
-      "options": [
-        "cây",
-        "công",
-        "ngày",
-        "Uống"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Uống nước nhớ người đào giếng\". Hưởng trái ngọt nhớ công người trồng cây, uống nước mát nhớ ơn người đào giếng."
     },
     {
@@ -3597,12 +3579,6 @@
       "question": "Điền quan hệ từ thích hợp vào chỗ trống trong câu sau: \"Hà không những học giỏi mà bạn ấy còn hát rất hay.\"",
       "blankAnswer": "Không những",
       "answer": "Không những",
-      "options": [
-        "nhưng",
-        "Không những",
-        "và",
-        "thì"
-      ],
       "explanation": "Câu văn sử dụng cặp quan hệ từ 'Không những... mà còn...' biểu thị quan hệ Tăng tiến."
     },
     {
@@ -3614,12 +3590,6 @@
       "question": "Chọn từ thích hợp điền vào chỗ trống: \"Mặt trời vừa ló rạng tỏa ánh nắng (...) sưởi ấm vạn vật.\"",
       "blankAnswer": "ấm áp",
       "answer": "ấm áp",
-      "options": [
-        "ấm áp",
-        "héo hắt",
-        "giá buốt",
-        "lạnh tanh"
-      ],
       "explanation": "Từ 'ấm áp' phù hợp miêu tả đặc điểm của ánh nắng mặt trời."
     },
     {
@@ -3631,12 +3601,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Ăn quả (...) kẻ trồng cây\"",
       "blankAnswer": "nhớ",
       "answer": "nhớ",
-      "options": [
-        "cây",
-        "thương",
-        "công",
-        "nhớ"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Ăn quả nhớ kẻ trồng cây\". Khuyên nhủ con người khi được hưởng thành quả phải luôn biết ơn công lao người tạo dựng."
     },
     {
@@ -3648,12 +3612,6 @@
       "question": "Chọn từ thích hợp điền vào chỗ trống: \"Dòng sông quê hương chảy (...) qua xóm làng.\"",
       "blankAnswer": "hiền hòa",
       "answer": "hiền hòa",
-      "options": [
-        "khúc khuỷu",
-        "hiền hòa",
-        "vội vã",
-        "ầm ĩ"
-      ],
       "explanation": "Từ 'hiền hòa' gợi tả vẻ êm đềm, tĩnh lặng của dòng sông quê."
     },
     {
@@ -3665,12 +3623,6 @@
       "question": "Điền quan hệ từ thích hợp vào chỗ trống trong câu sau: \"Nhờ chăm chỉ rèn luyện (...) Nam đạt giải cao trong kì thi.\"",
       "blankAnswer": "mà",
       "answer": "mà",
-      "options": [
-        "mà",
-        "nhưng",
-        "và",
-        "thì"
-      ],
       "explanation": "Câu văn sử dụng cặp quan hệ từ 'Nhờ... mà...' biểu thị quan hệ Nguyên nhân tích cực - Kết quả."
     },
     {
@@ -3682,12 +3634,6 @@
       "question": "Điền quan hệ từ thích hợp vào chỗ trống trong câu sau: \"Trăng (...) lên cao, mặt biển càng thêm lấp lánh.\"",
       "blankAnswer": "càng",
       "answer": "càng",
-      "options": [
-        "nhưng",
-        "càng",
-        "thì",
-        "và"
-      ],
       "explanation": "Câu văn sử dụng cặp quan hệ từ 'Càng... càng...' biểu thị quan hệ Hô ứng."
     },
     {
@@ -3699,12 +3645,6 @@
       "question": "Điền quan hệ từ thích hợp vào chỗ trống trong câu sau: \"Mặc dù tuổi đã cao (...) ông nội vẫn say mê đọc sách báo.\"",
       "blankAnswer": "nhưng",
       "answer": "nhưng",
-      "options": [
-        "nhưng",
-        "mà",
-        "và",
-        "thì"
-      ],
       "explanation": "Câu văn sử dụng cặp quan hệ từ 'Mặc dù... nhưng...' biểu thị quan hệ Tương phản."
     },
     {
@@ -3716,12 +3656,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Lá (...) đùm lá rách\"",
       "blankAnswer": "lành",
       "answer": "lành",
-      "options": [
-        "ngày",
-        "đùm",
-        "đèn",
-        "lành"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Lá lành đùm lá rách\". Khuyên con người phải biết đùm bọc, giúp đỡ lẫn nhau khi gặp hoạn nạn, khó khăn."
     },
     {
@@ -3733,12 +3667,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Thuận vợ thuận chồng tát biển Đông cũng (...)\"",
       "blankAnswer": "cạn",
       "answer": "cạn",
-      "options": [
-        "thật",
-        "cạn",
-        "non",
-        "trồng"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Thuận vợ thuận chồng tát biển Đông cũng cạn\". Sự đồng lòng, hòa thuận trong gia đình giúp vượt qua mọi gian khó."
     },
     {
@@ -3750,12 +3678,6 @@
       "question": "Chọn từ thích hợp điền vào chỗ trống: \"Những bông hoa hồng nhung nở (...) trong nắng sớm.\"",
       "blankAnswer": "rực rỡ",
       "answer": "rực rỡ",
-      "options": [
-        "mờ nhạt",
-        "chênh vênh",
-        "rực rỡ",
-        "lạc lõng"
-      ],
       "explanation": "Từ 'rực rỡ' mô tả màu sắc tươi thắm của hoa hồng nhung."
     },
     {
@@ -3767,12 +3689,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Cây (...) không sợ chết đứng\"",
       "blankAnswer": "ngay",
       "answer": "ngay",
-      "options": [
-        "bạn",
-        "đùm",
-        "vàng",
-        "ngay"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Cây ngay không sợ chết đứng\". Người sống ngay thẳng, thật thà thì không sợ bất kì lời vu khống hay thử thách nào."
     },
     {
@@ -3784,12 +3700,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Bầu ơi (...) lấy bí cùng, tuy rằng khác giống nhưng chung một giàn\"",
       "blankAnswer": "thương",
       "answer": "thương",
-      "options": [
-        "thương",
-        "vàng",
-        "khôn",
-        "nguồn"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Bầu ơi thương lấy bí cùng, tuy rằng khác giống nhưng chung một giàn\". Dù xuất thân khác nhau nhưng cùng chung sống một đất nước thì phải thương yêu nhau."
     },
     {
@@ -3801,12 +3711,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"(...) thử vàng gian nan thử sức\"",
       "blankAnswer": "Lửa",
       "answer": "Lửa",
-      "options": [
-        "Lửa",
-        "sắt",
-        "ngay",
-        "khôn"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Lửa thử vàng gian nan thử sức\". Khó khăn thử thách là thước đo lòng kiên định và bản lĩnh con người."
     },
     {
@@ -3818,12 +3722,6 @@
       "question": "Chọn từ thích hợp điền vào chỗ trống: \"Chúng em quyết tâm (...) rèn luyện để đạt danh hiệu cháu ngoan Bác Hồ.\"",
       "blankAnswer": "chăm chỉ",
       "answer": "chăm chỉ",
-      "options": [
-        "chậm trễ",
-        "hời hợt",
-        "chăm chỉ",
-        "lơ đãng"
-      ],
       "explanation": "Từ 'chăm chỉ' diễn tả ý thức học tập và rèn luyện nghiêm túc."
     },
     {
@@ -3835,12 +3733,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Vạn sự khởi đầu (...)\"",
       "blankAnswer": "nan",
       "answer": "nan",
-      "options": [
-        "bạn",
-        "ngay",
-        "nan",
-        "nguồn"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Vạn sự khởi đầu nan\". Bất kì công việc gì lúc bắt đầu cũng đều gặp nhiều gian truân, thử thách."
     },
     {
@@ -3852,12 +3744,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Đi một ngày đàng học một sàng (...)\"",
       "blankAnswer": "khôn",
       "answer": "khôn",
-      "options": [
-        "thật",
-        "đèn",
-        "khôn",
-        "kim"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Đi một ngày đàng học một sàng khôn\". Càng đi nhiều nơi, trải nghiệm thực tế ta càng tích lũy được nhiều hiểu biết, trí tuệ."
     },
     {
@@ -3869,12 +3755,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Lá lành (...) lá rách\"",
       "blankAnswer": "đùm",
       "answer": "đùm",
-      "options": [
-        "bạn",
-        "thật",
-        "trồng",
-        "đùm"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Lá lành đùm lá rách\". Khuyên con người phải biết đùm bọc, giúp đỡ lẫn nhau khi gặp hoạn nạn, khó khăn."
     },
     {
@@ -3886,12 +3766,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Một cây làm chẳng nên non, ba cây chụm lại nên hòn (...)\"",
       "blankAnswer": "núi cao",
       "answer": "núi cao",
-      "options": [
-        "nguồn",
-        "núi cao",
-        "bạn",
-        "trồng"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao\". Một người lẻ loi khó làm việc lớn, nhưng khi đoàn kết lại sẽ tạo nên sức mạnh vô địch."
     },
     {
@@ -3903,12 +3777,6 @@
       "question": "Điền quan hệ từ thích hợp vào chỗ trống trong câu sau: \"Tuy gia cảnh khó khăn (...) bạn Lan luôn vượt khó vươn lên.\"",
       "blankAnswer": "nhưng",
       "answer": "nhưng",
-      "options": [
-        "mà",
-        "và",
-        "thì",
-        "nhưng"
-      ],
       "explanation": "Câu văn sử dụng cặp quan hệ từ 'Tuy... nhưng...' biểu thị quan hệ Tương phản."
     },
     {
@@ -3920,12 +3788,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Một con ngựa đau cả tàu (...)\"",
       "blankAnswer": "bỏ cỏ",
       "answer": "bỏ cỏ",
-      "options": [
-        "trồng",
-        "ngay",
-        "bỏ cỏ",
-        "sạch"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Một con ngựa đau cả tàu bỏ cỏ\". Khi một cá nhân gặp nạn, toàn thể tập thể đều chia sẻ nỗi buồn và tương trợ."
     },
     {
@@ -3937,12 +3799,6 @@
       "question": "Điền quan hệ từ thích hợp vào chỗ trống trong câu sau: \"Do chủ quan (...) bạn ấy đã làm sai bài toán.\"",
       "blankAnswer": "nên",
       "answer": "nên",
-      "options": [
-        "thì",
-        "nhưng",
-        "nên",
-        "và"
-      ],
       "explanation": "Câu văn sử dụng cặp quan hệ từ 'Do... nên...' biểu thị quan hệ Nguyên nhân - Kết quả."
     },
     {
@@ -3954,12 +3810,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Chớ thấy sóng cả mà (...) tay chèo\"",
       "blankAnswer": "ngã",
       "answer": "ngã",
-      "options": [
-        "sắt",
-        "nguồn",
-        "ngã",
-        "sạch"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Chớ thấy sóng cả mà ngã tay chèo\". Đừng vì thấy khó khăn, nguy nan mà nản lòng, buông xuôi ý chí."
     },
     {
@@ -3971,12 +3821,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Chim có tổ người có (...)\"",
       "blankAnswer": "tông",
       "answer": "tông",
-      "options": [
-        "thật",
-        "tông",
-        "vàng",
-        "nâng"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Chim có tổ người có tông\". Mỗi con người đều có tổ tiên, cội nguồn giống như loài chim có tổ để về."
     },
     {
@@ -3988,12 +3832,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"(...) thầy không tày học bạn\"",
       "blankAnswer": "Học",
       "answer": "Học",
-      "options": [
-        "núi",
-        "Học",
-        "đùm",
-        "khôn"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Học thầy không tày học bạn\". Nhấn mạnh vai trò to lớn của việc học hỏi từ bạn bè xung quanh."
     },
     {
@@ -4005,12 +3843,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Gần mực thì đen gần (...) thì sáng\"",
       "blankAnswer": "đèn",
       "answer": "đèn",
-      "options": [
-        "kim",
-        "đèn",
-        "sạch",
-        "vàng"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Gần mực thì đen gần đèn thì sáng\". Ở gần người tốt sẽ học được điều hay, ở gần người xấu dễ bị lây thói hư tật xấu."
     },
     {
@@ -4022,12 +3854,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Uống nước nhớ người (...) giếng\"",
       "blankAnswer": "đào",
       "answer": "đào",
-      "options": [
-        "đào",
-        "nâng",
-        "công",
-        "ngay"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Uống nước nhớ người đào giếng\". Hưởng trái ngọt nhớ công người trồng cây, uống nước mát nhớ ơn người đào giếng."
     },
     {
@@ -4039,12 +3865,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Uống nước nhớ (...)\"",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "options": [
-        "nguồn",
-        "ngay",
-        "sạch",
-        "trồng"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Uống nước nhớ nguồn\". Nhắc nhở con cháu phải ghi nhớ cội nguồn, tổ tiên và những người đã giúp đỡ mình."
     },
     {
@@ -4056,12 +3876,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Đói cho (...) rách cho thơm\"",
       "blankAnswer": "sạch",
       "answer": "sạch",
-      "options": [
-        "khôn",
-        "nguồn",
-        "kim",
-        "sạch"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Đói cho sạch rách cho thơm\". Dù trong hoàn cảnh thiếu thốn bần hàn vẫn phải giữ gìn nhân cách và danh dự trong sạch."
     },
     {
@@ -4073,12 +3887,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Tấc đất tấc (...)\"",
       "blankAnswer": "vàng",
       "answer": "vàng",
-      "options": [
-        "khôn",
-        "nâng",
-        "kim",
-        "vàng"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Tấc đất tấc vàng\". Mỗi tấc đất đều vô cùng quý giá như vàng vì đem lại nguồn sống cho con người."
     },
     {
@@ -4090,12 +3898,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Người ta là (...) đất\"",
       "blankAnswer": "hoa",
       "answer": "hoa",
-      "options": [
-        "ngày",
-        "bạn",
-        "non",
-        "hoa"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Người ta là hoa đất\". Ca ngợi con người là tinh hoa quý báu nhất của vũ trụ và mặt đất."
     },
     {
@@ -4107,12 +3909,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Người ta là (...)\"",
       "blankAnswer": "hoa đất",
       "answer": "hoa đất",
-      "options": [
-        "kim",
-        "nâng",
-        "khôn",
-        "hoa đất"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Người ta là hoa đất\". Ca ngợi con người là tinh hoa quý báu nhất của vũ trụ và mặt đất."
     },
     {
@@ -4124,12 +3920,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Công cha như núi (...), nghĩa mẹ như nước trong nguồn chảy ra\"",
       "blankAnswer": "Thái Sơn",
       "answer": "Thái Sơn",
-      "options": [
-        "vàng",
-        "ngay",
-        "Thái Sơn",
-        "trồng"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Công cha như núi Thái Sơn, nghĩa mẹ như nước trong nguồn chảy ra\". Công ơn sinh thành dưỡng dục của cha mẹ to lớn vô bờ bến không gì sánh bằng."
     },
     {
@@ -4141,12 +3931,6 @@
       "question": "Điền quan hệ từ thích hợp vào chỗ trống trong câu sau: \"Vì thời tiết thuận lợi (...) vụ mùa năm nay bội thu.\"",
       "blankAnswer": "nên",
       "answer": "nên",
-      "options": [
-        "nên",
-        "nhưng",
-        "và",
-        "thì"
-      ],
       "explanation": "Câu văn sử dụng cặp quan hệ từ 'Vì... nên...' biểu thị quan hệ Nguyên nhân - Kết quả."
     },
     {
@@ -4158,12 +3942,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Lửa thử vàng gian nan (...)\"",
       "blankAnswer": "thử sức",
       "answer": "thử sức",
-      "options": [
-        "nâng",
-        "ngay",
-        "kim",
-        "thử sức"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Lửa thử vàng gian nan thử sức\". Khó khăn thử thách là thước đo lòng kiên định và bản lĩnh con người."
     },
     {
@@ -4175,12 +3953,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Uống nước nhớ người (...)\"",
       "blankAnswer": "đào giếng",
       "answer": "đào giếng",
-      "options": [
-        "đùm",
-        "nâng",
-        "đào giếng",
-        "bạn"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Uống nước nhớ người đào giếng\". Hưởng trái ngọt nhớ công người trồng cây, uống nước mát nhớ ơn người đào giếng."
     },
     {
@@ -4192,12 +3964,6 @@
       "question": "Điền quan hệ từ thích hợp vào chỗ trống trong câu sau: \"Nếu ngày mai trời nắng (...) lớp ta sẽ đi dã ngoại.\"",
       "blankAnswer": "thì",
       "answer": "thì",
-      "options": [
-        "và",
-        "mà",
-        "nhưng",
-        "thì"
-      ],
       "explanation": "Câu văn sử dụng cặp quan hệ từ 'Nếu... thì...' biểu thị quan hệ Điều kiện (giả thiết) - Kết quả."
     },
     {
@@ -4209,12 +3975,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Chớ thấy (...) cả mà ngã tay chèo\"",
       "blankAnswer": "sóng",
       "answer": "sóng",
-      "options": [
-        "trồng",
-        "bạn",
-        "sóng",
-        "núi"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Chớ thấy sóng cả mà ngã tay chèo\". Đừng vì thấy khó khăn, nguy nan mà nản lòng, buông xuôi ý chí."
     },
     {
@@ -4226,12 +3986,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Ăn quả nhớ kẻ (...) cây\"",
       "blankAnswer": "trồng",
       "answer": "trồng",
-      "options": [
-        "đèn",
-        "khôn",
-        "bạn",
-        "trồng"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Ăn quả nhớ kẻ trồng cây\". Khuyên nhủ con người khi được hưởng thành quả phải luôn biết ơn công lao người tạo dựng."
     },
     {
@@ -4243,12 +3997,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Nhiễu điều phủ lấy giá gương, người trong một nước phải (...) nhau cùng\"",
       "blankAnswer": "thương",
       "answer": "thương",
-      "options": [
-        "bạn",
-        "thương",
-        "sạch",
-        "nguồn"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Nhiễu điều phủ lấy giá gương, người trong một nước phải thương nhau cùng\". Đồng bào cùng một giang sơn phải luôn đùm bọc, giúp đỡ lẫn nhau."
     },
     {
@@ -4260,12 +4008,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Bầu ơi thương (...) bí cùng, tuy rằng khác giống nhưng chung một giàn\"",
       "blankAnswer": "lấy",
       "answer": "lấy",
-      "options": [
-        "đùm",
-        "núi",
-        "lấy",
-        "công"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Bầu ơi thương lấy bí cùng, tuy rằng khác giống nhưng chung một giàn\". Dù xuất thân khác nhau nhưng cùng chung sống một đất nước thì phải thương yêu nhau."
     },
     {
@@ -4277,12 +4019,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Chị ngã em (...)\"",
       "blankAnswer": "nâng",
       "answer": "nâng",
-      "options": [
-        "khôn",
-        "ngay",
-        "nâng",
-        "đèn"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Chị ngã em nâng\". Anh chị em trong một nhà phải biết nâng đỡ, thương yêu, che chở cho nhau."
     },
     {
@@ -4294,12 +4030,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Học thầy không tày học (...)\"",
       "blankAnswer": "bạn",
       "answer": "bạn",
-      "options": [
-        "bạn",
-        "nâng",
-        "sạch",
-        "ngay"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Học thầy không tày học bạn\". Nhấn mạnh vai trò to lớn của việc học hỏi từ bạn bè xung quanh."
     },
     {
@@ -4311,12 +4041,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Đói cho sạch rách cho (...)\"",
       "blankAnswer": "thơm",
       "answer": "thơm",
-      "options": [
-        "vàng",
-        "nâng",
-        "sắt",
-        "thơm"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Đói cho sạch rách cho thơm\". Dù trong hoàn cảnh thiếu thốn bần hàn vẫn phải giữ gìn nhân cách và danh dự trong sạch."
     },
     {
@@ -4328,12 +4052,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Chớ thấy sóng cả mà ngã tay (...)\"",
       "blankAnswer": "chèo",
       "answer": "chèo",
-      "options": [
-        "chèo",
-        "nguồn",
-        "đèn",
-        "bạn"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Chớ thấy sóng cả mà ngã tay chèo\". Đừng vì thấy khó khăn, nguy nan mà nản lòng, buông xuôi ý chí."
     },
     {
@@ -4345,12 +4063,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Ăn ngay nói (...) mọi tật mọi lành\"",
       "blankAnswer": "thật",
       "answer": "thật",
-      "options": [
-        "thật",
-        "ngay",
-        "vàng",
-        "bạn"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Ăn ngay nói thật mọi tật mọi lành\". Sống chân thành, trung thực thì tâm hồn luôn thanh thản và bình an."
     },
     {
@@ -4362,12 +4074,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"(...) nước nhớ nguồn\"",
       "blankAnswer": "Uống",
       "answer": "Uống",
-      "options": [
-        "đùm",
-        "nâng",
-        "sạch",
-        "Uống"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Uống nước nhớ nguồn\". Nhắc nhở con cháu phải ghi nhớ cội nguồn, tổ tiên và những người đã giúp đỡ mình."
     },
     {
@@ -4379,12 +4085,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Thương người như (...) thương thân\"",
       "blankAnswer": "thể",
       "answer": "thể",
-      "options": [
-        "thể",
-        "thương",
-        "non",
-        "đèn"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Thương người như thể thương thân\". Yêu thương người khác như yêu quý chính bản thân mình."
     },
     {
@@ -4396,12 +4096,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Công cha như núi Thái Sơn, (...) mẹ như nước trong nguồn chảy ra\"",
       "blankAnswer": "nghĩa",
       "answer": "nghĩa",
-      "options": [
-        "bạn",
-        "non",
-        "nghĩa",
-        "núi"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Công cha như núi Thái Sơn, nghĩa mẹ như nước trong nguồn chảy ra\". Công ơn sinh thành dưỡng dục của cha mẹ to lớn vô bờ bến không gì sánh bằng."
     },
     {
@@ -4413,12 +4107,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Có công mài sắt có ngày nên (...)\"",
       "blankAnswer": "kim",
       "answer": "kim",
-      "options": [
-        "khôn",
-        "bạn",
-        "nguồn",
-        "kim"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Có công mài sắt có ngày nên kim\". Chỉ cần kiên trì, nỗ lực và nhẫn nại thì việc khó khăn đến mấy cũng sẽ thành công."
     },
     {
@@ -4430,12 +4118,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"(...) sự khởi đầu nan\"",
       "blankAnswer": "Vạn",
       "answer": "Vạn",
-      "options": [
-        "kim",
-        "cây",
-        "Vạn",
-        "núi"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Vạn sự khởi đầu nan\". Bất kì công việc gì lúc bắt đầu cũng đều gặp nhiều gian truân, thử thách."
     },
     {
@@ -4447,12 +4129,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"(...) cho sạch rách cho thơm\"",
       "blankAnswer": "Đói",
       "answer": "Đói",
-      "options": [
-        "vàng",
-        "núi",
-        "Đói",
-        "ngày"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Đói cho sạch rách cho thơm\". Dù trong hoàn cảnh thiếu thốn bần hàn vẫn phải giữ gìn nhân cách và danh dự trong sạch."
     },
     {
@@ -4464,12 +4140,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Lời nói chẳng mất tiền mua, lựa lời mà nói cho vừa lòng (...)\"",
       "blankAnswer": "nhau",
       "answer": "nhau",
-      "options": [
-        "sạch",
-        "nhau",
-        "đùm",
-        "nâng"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Lời nói chẳng mất tiền mua, lựa lời mà nói cho vừa lòng nhau\". Khi giao tiếp cần ăn nói lịch thiệp, nhã nhặn và tế nhị."
     },
     {
@@ -4481,12 +4151,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Đói cho sạch (...) cho thơm\"",
       "blankAnswer": "rách",
       "answer": "rách",
-      "options": [
-        "non",
-        "công",
-        "rách",
-        "đùm"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Đói cho sạch rách cho thơm\". Dù trong hoàn cảnh thiếu thốn bần hàn vẫn phải giữ gìn nhân cách và danh dự trong sạch."
     },
     {
@@ -4498,12 +4162,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Lửa (...) vàng gian nan thử sức\"",
       "blankAnswer": "thử",
       "answer": "thử",
-      "options": [
-        "thật",
-        "kim",
-        "sạch",
-        "thử"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Lửa thử vàng gian nan thử sức\". Khó khăn thử thách là thước đo lòng kiên định và bản lĩnh con người."
     },
     {
@@ -4515,12 +4173,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Nhiễu điều phủ lấy (...) gương, người trong một nước phải thương nhau cùng\"",
       "blankAnswer": "giá",
       "answer": "giá",
-      "options": [
-        "nâng",
-        "đùm",
-        "mực",
-        "giá"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Nhiễu điều phủ lấy giá gương, người trong một nước phải thương nhau cùng\". Đồng bào cùng một giang sơn phải luôn đùm bọc, giúp đỡ lẫn nhau."
     },
     {
@@ -4532,12 +4184,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Thuận vợ (...) chồng tát biển Đông cũng cạn\"",
       "blankAnswer": "thuận",
       "answer": "thuận",
-      "options": [
-        "nâng",
-        "thuận",
-        "đèn",
-        "đùm"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Thuận vợ thuận chồng tát biển Đông cũng cạn\". Sự đồng lòng, hòa thuận trong gia đình giúp vượt qua mọi gian khó."
     },
     {
@@ -4549,12 +4195,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Lá lành đùm lá (...)\"",
       "blankAnswer": "rách",
       "answer": "rách",
-      "options": [
-        "rách",
-        "nguồn",
-        "kim",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Lá lành đùm lá rách\". Khuyên con người phải biết đùm bọc, giúp đỡ lẫn nhau khi gặp hoạn nạn, khó khăn."
     },
     {
@@ -4566,12 +4206,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Học thầy không (...) học bạn\"",
       "blankAnswer": "tày",
       "answer": "tày",
-      "options": [
-        "tày",
-        "cây",
-        "nguồn",
-        "đèn"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Học thầy không tày học bạn\". Nhấn mạnh vai trò to lớn của việc học hỏi từ bạn bè xung quanh."
     },
     {
@@ -4583,12 +4217,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Chim có tổ (...) có tông\"",
       "blankAnswer": "người",
       "answer": "người",
-      "options": [
-        "nâng",
-        "mực",
-        "người",
-        "sạch"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Chim có tổ người có tông\". Mỗi con người đều có tổ tiên, cội nguồn giống như loài chim có tổ để về."
     },
     {
@@ -4600,12 +4228,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Vạn sự khởi (...) nan\"",
       "blankAnswer": "đầu",
       "answer": "đầu",
-      "options": [
-        "sạch",
-        "núi",
-        "đầu",
-        "khôn"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Vạn sự khởi đầu nan\". Bất kì công việc gì lúc bắt đầu cũng đều gặp nhiều gian truân, thử thách."
     },
     {
@@ -4617,12 +4239,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Một con ngựa đau cả tàu bỏ (...)\"",
       "blankAnswer": "cỏ",
       "answer": "cỏ",
-      "options": [
-        "non",
-        "cỏ",
-        "cây",
-        "đùm"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Một con ngựa đau cả tàu bỏ cỏ\". Khi một cá nhân gặp nạn, toàn thể tập thể đều chia sẻ nỗi buồn và tương trợ."
     },
     {
@@ -4634,12 +4250,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Thuận vợ thuận chồng tát (...) cũng cạn\"",
       "blankAnswer": "biển Đông",
       "answer": "biển Đông",
-      "options": [
-        "nâng",
-        "nguồn",
-        "thật",
-        "biển Đông"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Thuận vợ thuận chồng tát biển Đông cũng cạn\". Sự đồng lòng, hòa thuận trong gia đình giúp vượt qua mọi gian khó."
     },
     {
@@ -4651,12 +4261,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Cây ngay không (...) chết đứng\"",
       "blankAnswer": "sợ",
       "answer": "sợ",
-      "options": [
-        "sợ",
-        "thương",
-        "bạn",
-        "trồng"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Cây ngay không sợ chết đứng\". Người sống ngay thẳng, thật thà thì không sợ bất kì lời vu khống hay thử thách nào."
     },
     {
@@ -4668,12 +4272,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Thương người như thể (...)\"",
       "blankAnswer": "thương thân",
       "answer": "thương thân",
-      "options": [
-        "nguồn",
-        "thương thân",
-        "trồng",
-        "vàng"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Thương người như thể thương thân\". Yêu thương người khác như yêu quý chính bản thân mình."
     },
     {
@@ -4685,12 +4283,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Một (...) làm chẳng nên non, ba cây chụm lại nên hòn núi cao\"",
       "blankAnswer": "cây",
       "answer": "cây",
-      "options": [
-        "non",
-        "cây",
-        "ngày",
-        "sạch"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao\". Một người lẻ loi khó làm việc lớn, nhưng khi đoàn kết lại sẽ tạo nên sức mạnh vô địch."
     },
     {
@@ -4702,12 +4294,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Đi một ngày (...) học một sàng khôn\"",
       "blankAnswer": "đàng",
       "answer": "đàng",
-      "options": [
-        "đàng",
-        "bạn",
-        "trồng",
-        "đèn"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Đi một ngày đàng học một sàng khôn\". Càng đi nhiều nơi, trải nghiệm thực tế ta càng tích lũy được nhiều hiểu biết, trí tuệ."
     },
     {
@@ -4719,12 +4305,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Ăn ngay nói thật mọi (...) mọi lành\"",
       "blankAnswer": "tật",
       "answer": "tật",
-      "options": [
-        "núi",
-        "thật",
-        "tật",
-        "mực"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Ăn ngay nói thật mọi tật mọi lành\". Sống chân thành, trung thực thì tâm hồn luôn thanh thản và bình an."
     },
     {
@@ -4736,12 +4316,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Có công (...) sắt có ngày nên kim\"",
       "blankAnswer": "mài",
       "answer": "mài",
-      "options": [
-        "thương",
-        "nâng",
-        "trồng",
-        "mài"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Có công mài sắt có ngày nên kim\". Chỉ cần kiên trì, nỗ lực và nhẫn nại thì việc khó khăn đến mấy cũng sẽ thành công."
     },
     {
@@ -4753,12 +4327,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Chim có (...) người có tông\"",
       "blankAnswer": "tổ",
       "answer": "tổ",
-      "options": [
-        "tổ",
-        "sắt",
-        "vàng",
-        "trồng"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Chim có tổ người có tông\". Mỗi con người đều có tổ tiên, cội nguồn giống như loài chim có tổ để về."
     },
     {
@@ -4770,12 +4338,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Công (...) như núi Thái Sơn, nghĩa mẹ như nước trong nguồn chảy ra\"",
       "blankAnswer": "cha",
       "answer": "cha",
-      "options": [
-        "thật",
-        "cha",
-        "đèn",
-        "ngày"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Công cha như núi Thái Sơn, nghĩa mẹ như nước trong nguồn chảy ra\". Công ơn sinh thành dưỡng dục của cha mẹ to lớn vô bờ bến không gì sánh bằng."
     },
     {
@@ -4787,12 +4349,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Lời (...) chẳng mất tiền mua, lựa lời mà nói cho vừa lòng nhau\"",
       "blankAnswer": "nói",
       "answer": "nói",
-      "options": [
-        "nguồn",
-        "nói",
-        "trồng",
-        "bạn"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Lời nói chẳng mất tiền mua, lựa lời mà nói cho vừa lòng nhau\". Khi giao tiếp cần ăn nói lịch thiệp, nhã nhặn và tế nhị."
     },
     {
@@ -4804,12 +4360,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Chị ngã (...) nâng\"",
       "blankAnswer": "em",
       "answer": "em",
-      "options": [
-        "em",
-        "trồng",
-        "núi",
-        "cây"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Chị ngã em nâng\". Anh chị em trong một nhà phải biết nâng đỡ, thương yêu, che chở cho nhau."
     },
     {
@@ -4821,12 +4371,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Đi một ngày đàng học một (...) khôn\"",
       "blankAnswer": "sàng",
       "answer": "sàng",
-      "options": [
-        "nguồn",
-        "trồng",
-        "sàng",
-        "thật"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Đi một ngày đàng học một sàng khôn\". Càng đi nhiều nơi, trải nghiệm thực tế ta càng tích lũy được nhiều hiểu biết, trí tuệ."
     },
     {
@@ -4838,12 +4382,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Tấc đất (...) vàng\"",
       "blankAnswer": "tấc",
       "answer": "tấc",
-      "options": [
-        "ngày",
-        "kim",
-        "sắt",
-        "tấc"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Tấc đất tấc vàng\". Mỗi tấc đất đều vô cùng quý giá như vàng vì đem lại nguồn sống cho con người."
     },
     {
@@ -4855,12 +4393,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Có (...) mài sắt có ngày nên kim\"",
       "blankAnswer": "công",
       "answer": "công",
-      "options": [
-        "công",
-        "ngày",
-        "núi",
-        "kim"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Có công mài sắt có ngày nên kim\". Chỉ cần kiên trì, nỗ lực và nhẫn nại thì việc khó khăn đến mấy cũng sẽ thành công."
     },
     {
@@ -4872,12 +4404,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"(...) ngã em nâng\"",
       "blankAnswer": "Chị",
       "answer": "Chị",
-      "options": [
-        "kim",
-        "ngày",
-        "Chị",
-        "sạch"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Chị ngã em nâng\". Anh chị em trong một nhà phải biết nâng đỡ, thương yêu, che chở cho nhau."
     },
     {
@@ -4889,12 +4415,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Đi một ngày đàng (...) một sàng khôn\"",
       "blankAnswer": "học",
       "answer": "học",
-      "options": [
-        "cây",
-        "ngày",
-        "học",
-        "nâng"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Đi một ngày đàng học một sàng khôn\". Càng đi nhiều nơi, trải nghiệm thực tế ta càng tích lũy được nhiều hiểu biết, trí tuệ."
     },
     {
@@ -4906,12 +4426,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Gần mực thì đen gần đèn thì (...)\"",
       "blankAnswer": "sáng",
       "answer": "sáng",
-      "options": [
-        "non",
-        "trồng",
-        "sáng",
-        "đùm"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Gần mực thì đen gần đèn thì sáng\". Ở gần người tốt sẽ học được điều hay, ở gần người xấu dễ bị lây thói hư tật xấu."
     },
     {
@@ -4923,12 +4437,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Gần mực thì (...) gần đèn thì sáng\"",
       "blankAnswer": "đen",
       "answer": "đen",
-      "options": [
-        "cây",
-        "đèn",
-        "đen",
-        "mực"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Gần mực thì đen gần đèn thì sáng\". Ở gần người tốt sẽ học được điều hay, ở gần người xấu dễ bị lây thói hư tật xấu."
     },
     {
@@ -4940,12 +4448,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Uống nước nhớ (...) đào giếng\"",
       "blankAnswer": "người",
       "answer": "người",
-      "options": [
-        "sạch",
-        "kim",
-        "đèn",
-        "người"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Uống nước nhớ người đào giếng\". Hưởng trái ngọt nhớ công người trồng cây, uống nước mát nhớ ơn người đào giếng."
     },
     {
@@ -4957,12 +4459,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"(...) ngay không sợ chết đứng\"",
       "blankAnswer": "Cây",
       "answer": "Cây",
-      "options": [
-        "Cây",
-        "bạn",
-        "công",
-        "ngày"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Cây ngay không sợ chết đứng\". Người sống ngay thẳng, thật thà thì không sợ bất kì lời vu khống hay thử thách nào."
     },
     {
@@ -4974,12 +4470,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Thuận vợ thuận chồng tát (...) Đông cũng cạn\"",
       "blankAnswer": "biển",
       "answer": "biển",
-      "options": [
-        "biển",
-        "vàng",
-        "mực",
-        "sạch"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Thuận vợ thuận chồng tát biển Đông cũng cạn\". Sự đồng lòng, hòa thuận trong gia đình giúp vượt qua mọi gian khó."
     },
     {
@@ -4991,12 +4481,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"(...) lành đùm lá rách\"",
       "blankAnswer": "Lá",
       "answer": "Lá",
-      "options": [
-        "Lá",
-        "thương",
-        "trồng",
-        "mực"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Lá lành đùm lá rách\". Khuyên con người phải biết đùm bọc, giúp đỡ lẫn nhau khi gặp hoạn nạn, khó khăn."
     },
     {
@@ -5008,12 +4492,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Bầu (...) thương lấy bí cùng, tuy rằng khác giống nhưng chung một giàn\"",
       "blankAnswer": "ơi",
       "answer": "ơi",
-      "options": [
-        "nâng",
-        "trồng",
-        "mực",
-        "ơi"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Bầu ơi thương lấy bí cùng, tuy rằng khác giống nhưng chung một giàn\". Dù xuất thân khác nhau nhưng cùng chung sống một đất nước thì phải thương yêu nhau."
     },
     {
@@ -5025,12 +4503,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Có công mài (...) có ngày nên kim\"",
       "blankAnswer": "sắt",
       "answer": "sắt",
-      "options": [
-        "sắt",
-        "khôn",
-        "non",
-        "mực"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Có công mài sắt có ngày nên kim\". Chỉ cần kiên trì, nỗ lực và nhẫn nại thì việc khó khăn đến mấy cũng sẽ thành công."
     },
     {
@@ -5042,12 +4514,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Gần (...) thì đen gần đèn thì sáng\"",
       "blankAnswer": "mực",
       "answer": "mực",
-      "options": [
-        "sạch",
-        "mực",
-        "nguồn",
-        "thương"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Gần mực thì đen gần đèn thì sáng\". Ở gần người tốt sẽ học được điều hay, ở gần người xấu dễ bị lây thói hư tật xấu."
     },
     {
@@ -5059,12 +4525,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Gần mực thì đen (...) đèn thì sáng\"",
       "blankAnswer": "gần",
       "answer": "gần",
-      "options": [
-        "núi",
-        "gần",
-        "khôn",
-        "kim"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Gần mực thì đen gần đèn thì sáng\". Ở gần người tốt sẽ học được điều hay, ở gần người xấu dễ bị lây thói hư tật xấu."
     },
     {
@@ -5076,12 +4536,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Chớ (...) sóng cả mà ngã tay chèo\"",
       "blankAnswer": "thấy",
       "answer": "thấy",
-      "options": [
-        "thấy",
-        "non",
-        "mực",
-        "nguồn"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Chớ thấy sóng cả mà ngã tay chèo\". Đừng vì thấy khó khăn, nguy nan mà nản lòng, buông xuôi ý chí."
     },
     {
@@ -5093,12 +4547,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Uống nước nhớ người đào (...)\"",
       "blankAnswer": "giếng",
       "answer": "giếng",
-      "options": [
-        "ngay",
-        "núi",
-        "giếng",
-        "đèn"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Uống nước nhớ người đào giếng\". Hưởng trái ngọt nhớ công người trồng cây, uống nước mát nhớ ơn người đào giếng."
     },
     {
@@ -5110,12 +4558,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Lời nói chẳng mất tiền mua, lựa lời mà nói cho vừa (...) nhau\"",
       "blankAnswer": "lòng",
       "answer": "lòng",
-      "options": [
-        "khôn",
-        "lòng",
-        "đèn",
-        "kim"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Lời nói chẳng mất tiền mua, lựa lời mà nói cho vừa lòng nhau\". Khi giao tiếp cần ăn nói lịch thiệp, nhã nhặn và tế nhị."
     },
     {
@@ -5127,12 +4569,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Uống nước (...) nguồn\"",
       "blankAnswer": "nhớ",
       "answer": "nhớ",
-      "options": [
-        "khôn",
-        "nâng",
-        "cây",
-        "nhớ"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Uống nước nhớ nguồn\". Nhắc nhở con cháu phải ghi nhớ cội nguồn, tổ tiên và những người đã giúp đỡ mình."
     },
     {
@@ -5144,12 +4580,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Thương (...) như thể thương thân\"",
       "blankAnswer": "người",
       "answer": "người",
-      "options": [
-        "đùm",
-        "người",
-        "khôn",
-        "mực"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Thương người như thể thương thân\". Yêu thương người khác như yêu quý chính bản thân mình."
     },
     {
@@ -5161,12 +4591,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Chớ thấy sóng cả mà ngã (...) chèo\"",
       "blankAnswer": "tay",
       "answer": "tay",
-      "options": [
-        "sạch",
-        "trồng",
-        "vàng",
-        "tay"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Chớ thấy sóng cả mà ngã tay chèo\". Đừng vì thấy khó khăn, nguy nan mà nản lòng, buông xuôi ý chí."
     },
     {
@@ -5178,12 +4602,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Uống (...) nhớ nguồn\"",
       "blankAnswer": "nước",
       "answer": "nước",
-      "options": [
-        "khôn",
-        "vàng",
-        "nước",
-        "non"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Uống nước nhớ nguồn\". Nhắc nhở con cháu phải ghi nhớ cội nguồn, tổ tiên và những người đã giúp đỡ mình."
     },
     {
@@ -5195,12 +4613,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Người (...) là hoa đất\"",
       "blankAnswer": "ta",
       "answer": "ta",
-      "options": [
-        "ta",
-        "bạn",
-        "thương",
-        "nguồn"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Người ta là hoa đất\". Ca ngợi con người là tinh hoa quý báu nhất của vũ trụ và mặt đất."
     },
     {
@@ -5212,12 +4624,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"(...) ta là hoa đất\"",
       "blankAnswer": "Người",
       "answer": "Người",
-      "options": [
-        "nâng",
-        "Người",
-        "đèn",
-        "sắt"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Người ta là hoa đất\". Ca ngợi con người là tinh hoa quý báu nhất của vũ trụ và mặt đất."
     },
     {
@@ -5229,12 +4635,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Cây ngay (...) sợ chết đứng\"",
       "blankAnswer": "không",
       "answer": "không",
-      "options": [
-        "thật",
-        "trồng",
-        "không",
-        "ngày"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Cây ngay không sợ chết đứng\". Người sống ngay thẳng, thật thà thì không sợ bất kì lời vu khống hay thử thách nào."
     },
     {
@@ -5246,12 +4646,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Uống nước (...) người đào giếng\"",
       "blankAnswer": "nhớ",
       "answer": "nhớ",
-      "options": [
-        "ngay",
-        "vàng",
-        "thật",
-        "nhớ"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Uống nước nhớ người đào giếng\". Hưởng trái ngọt nhớ công người trồng cây, uống nước mát nhớ ơn người đào giếng."
     },
     {
@@ -5263,12 +4657,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Một con ngựa đau cả (...) bỏ cỏ\"",
       "blankAnswer": "tàu",
       "answer": "tàu",
-      "options": [
-        "vàng",
-        "thương",
-        "tàu",
-        "sắt"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Một con ngựa đau cả tàu bỏ cỏ\". Khi một cá nhân gặp nạn, toàn thể tập thể đều chia sẻ nỗi buồn và tương trợ."
     },
     {
@@ -5280,12 +4668,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Lửa thử vàng gian (...) thử sức\"",
       "blankAnswer": "nan",
       "answer": "nan",
-      "options": [
-        "nguồn",
-        "cây",
-        "thật",
-        "nan"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Lửa thử vàng gian nan thử sức\". Khó khăn thử thách là thước đo lòng kiên định và bản lĩnh con người."
     },
     {
@@ -5297,12 +4679,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Có công mài sắt có (...) nên kim\"",
       "blankAnswer": "ngày",
       "answer": "ngày",
-      "options": [
-        "sạch",
-        "ngày",
-        "đùm",
-        "non"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Có công mài sắt có ngày nên kim\". Chỉ cần kiên trì, nỗ lực và nhẫn nại thì việc khó khăn đến mấy cũng sẽ thành công."
     },
     {
@@ -5314,12 +4690,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Người ta là hoa (...)\"",
       "blankAnswer": "đất",
       "answer": "đất",
-      "options": [
-        "đất",
-        "núi",
-        "sắt",
-        "sạch"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Người ta là hoa đất\". Ca ngợi con người là tinh hoa quý báu nhất của vũ trụ và mặt đất."
     },
     {
@@ -5331,12 +4701,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Chị (...) em nâng\"",
       "blankAnswer": "ngã",
       "answer": "ngã",
-      "options": [
-        "thương",
-        "kim",
-        "ngay",
-        "ngã"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Chị ngã em nâng\". Anh chị em trong một nhà phải biết nâng đỡ, thương yêu, che chở cho nhau."
     },
     {
@@ -5348,12 +4712,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Một cây làm chẳng nên non, ba cây chụm lại nên hòn (...) cao\"",
       "blankAnswer": "núi",
       "answer": "núi",
-      "options": [
-        "sắt",
-        "núi",
-        "thật",
-        "đèn"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao\". Một người lẻ loi khó làm việc lớn, nhưng khi đoàn kết lại sẽ tạo nên sức mạnh vô địch."
     },
     {
@@ -5365,12 +4723,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Vạn sự (...) đầu nan\"",
       "blankAnswer": "khởi",
       "answer": "khởi",
-      "options": [
-        "ngày",
-        "khởi",
-        "công",
-        "kim"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Vạn sự khởi đầu nan\". Bất kì công việc gì lúc bắt đầu cũng đều gặp nhiều gian truân, thử thách."
     },
     {
@@ -5382,12 +4734,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Ăn ngay nói thật mọi tật mọi (...)\"",
       "blankAnswer": "lành",
       "answer": "lành",
-      "options": [
-        "lành",
-        "đèn",
-        "sạch",
-        "công"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Ăn ngay nói thật mọi tật mọi lành\". Sống chân thành, trung thực thì tâm hồn luôn thanh thản và bình an."
     },
     {
@@ -5399,12 +4745,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Thuận vợ thuận chồng tát biển (...) cũng cạn\"",
       "blankAnswer": "Đông",
       "answer": "Đông",
-      "options": [
-        "nâng",
-        "Đông",
-        "núi",
-        "ngày"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Thuận vợ thuận chồng tát biển Đông cũng cạn\". Sự đồng lòng, hòa thuận trong gia đình giúp vượt qua mọi gian khó."
     },
     {
@@ -5416,12 +4756,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Học thầy (...) tày học bạn\"",
       "blankAnswer": "không",
       "answer": "không",
-      "options": [
-        "nguồn",
-        "thật",
-        "không",
-        "ngày"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Học thầy không tày học bạn\". Nhấn mạnh vai trò to lớn của việc học hỏi từ bạn bè xung quanh."
     },
     {
@@ -5433,12 +4767,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"(...) một ngày đàng học một sàng khôn\"",
       "blankAnswer": "Đi",
       "answer": "Đi",
-      "options": [
-        "Đi",
-        "công",
-        "kim",
-        "sắt"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Đi một ngày đàng học một sàng khôn\". Càng đi nhiều nơi, trải nghiệm thực tế ta càng tích lũy được nhiều hiểu biết, trí tuệ."
     },
     {
@@ -5450,12 +4778,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Đi một (...) đàng học một sàng khôn\"",
       "blankAnswer": "ngày",
       "answer": "ngày",
-      "options": [
-        "thương",
-        "sạch",
-        "núi",
-        "ngày"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Đi một ngày đàng học một sàng khôn\". Càng đi nhiều nơi, trải nghiệm thực tế ta càng tích lũy được nhiều hiểu biết, trí tuệ."
     },
     {
@@ -5467,12 +4789,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"(...) có tổ người có tông\"",
       "blankAnswer": "Chim",
       "answer": "Chim",
-      "options": [
-        "sạch",
-        "Chim",
-        "công",
-        "kim"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Chim có tổ người có tông\". Mỗi con người đều có tổ tiên, cội nguồn giống như loài chim có tổ để về."
     },
     {
@@ -5484,12 +4800,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Lời nói chẳng mất tiền mua, lựa lời mà nói cho (...) lòng nhau\"",
       "blankAnswer": "vừa",
       "answer": "vừa",
-      "options": [
-        "vừa",
-        "sắt",
-        "mực",
-        "núi"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Lời nói chẳng mất tiền mua, lựa lời mà nói cho vừa lòng nhau\". Khi giao tiếp cần ăn nói lịch thiệp, nhã nhặn và tế nhị."
     },
     {
@@ -5501,12 +4811,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Tấc (...) tấc vàng\"",
       "blankAnswer": "đất",
       "answer": "đất",
-      "options": [
-        "đất",
-        "trồng",
-        "cây",
-        "thật"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Tấc đất tấc vàng\". Mỗi tấc đất đều vô cùng quý giá như vàng vì đem lại nguồn sống cho con người."
     },
     {
@@ -5518,12 +4822,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Lửa thử vàng gian nan thử (...)\"",
       "blankAnswer": "sức",
       "answer": "sức",
-      "options": [
-        "trồng",
-        "đèn",
-        "núi",
-        "sức"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Lửa thử vàng gian nan thử sức\". Khó khăn thử thách là thước đo lòng kiên định và bản lĩnh con người."
     },
     {
@@ -5535,12 +4833,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Thuận vợ thuận chồng (...) biển Đông cũng cạn\"",
       "blankAnswer": "tát",
       "answer": "tát",
-      "options": [
-        "ngay",
-        "khôn",
-        "đùm",
-        "tát"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Thuận vợ thuận chồng tát biển Đông cũng cạn\". Sự đồng lòng, hòa thuận trong gia đình giúp vượt qua mọi gian khó."
     },
     {
@@ -5552,12 +4844,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Ăn ngay nói thật (...) tật mọi lành\"",
       "blankAnswer": "mọi",
       "answer": "mọi",
-      "options": [
-        "trồng",
-        "khôn",
-        "đùm",
-        "mọi"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Ăn ngay nói thật mọi tật mọi lành\". Sống chân thành, trung thực thì tâm hồn luôn thanh thản và bình an."
     },
     {
@@ -5569,12 +4855,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Một con (...) đau cả tàu bỏ cỏ\"",
       "blankAnswer": "ngựa",
       "answer": "ngựa",
-      "options": [
-        "non",
-        "vàng",
-        "công",
-        "ngựa"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Một con ngựa đau cả tàu bỏ cỏ\". Khi một cá nhân gặp nạn, toàn thể tập thể đều chia sẻ nỗi buồn và tương trợ."
     },
     {
@@ -5586,12 +4866,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Ăn (...) nói thật mọi tật mọi lành\"",
       "blankAnswer": "ngay",
       "answer": "ngay",
-      "options": [
-        "cây",
-        "ngay",
-        "sắt",
-        "thương"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Ăn ngay nói thật mọi tật mọi lành\". Sống chân thành, trung thực thì tâm hồn luôn thanh thản và bình an."
     },
     {
@@ -5603,12 +4877,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Nhiễu điều phủ lấy giá gương, người trong một nước (...) thương nhau cùng\"",
       "blankAnswer": "phải",
       "answer": "phải",
-      "options": [
-        "kim",
-        "phải",
-        "cây",
-        "khôn"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Nhiễu điều phủ lấy giá gương, người trong một nước phải thương nhau cùng\". Đồng bào cùng một giang sơn phải luôn đùm bọc, giúp đỡ lẫn nhau."
     },
     {
@@ -5620,12 +4888,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"(...) ngay nói thật mọi tật mọi lành\"",
       "blankAnswer": "Ăn",
       "answer": "Ăn",
-      "options": [
-        "công",
-        "trồng",
-        "Ăn",
-        "thương"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Ăn ngay nói thật mọi tật mọi lành\". Sống chân thành, trung thực thì tâm hồn luôn thanh thản và bình an."
     },
     {
@@ -5637,12 +4899,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Cây ngay không sợ chết (...)\"",
       "blankAnswer": "đứng",
       "answer": "đứng",
-      "options": [
-        "đùm",
-        "đứng",
-        "nâng",
-        "khôn"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Cây ngay không sợ chết đứng\". Người sống ngay thẳng, thật thà thì không sợ bất kì lời vu khống hay thử thách nào."
     },
     {
@@ -5654,12 +4910,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Vạn (...) khởi đầu nan\"",
       "blankAnswer": "sự",
       "answer": "sự",
-      "options": [
-        "ngay",
-        "sự",
-        "kim",
-        "vàng"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Vạn sự khởi đầu nan\". Bất kì công việc gì lúc bắt đầu cũng đều gặp nhiều gian truân, thử thách."
     },
     {
@@ -5671,12 +4921,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Một con ngựa (...) cả tàu bỏ cỏ\"",
       "blankAnswer": "đau",
       "answer": "đau",
-      "options": [
-        "kim",
-        "cây",
-        "ngay",
-        "đau"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Một con ngựa đau cả tàu bỏ cỏ\". Khi một cá nhân gặp nạn, toàn thể tập thể đều chia sẻ nỗi buồn và tương trợ."
     },
     {
@@ -5688,12 +4932,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Ăn (...) nhớ kẻ trồng cây\"",
       "blankAnswer": "quả",
       "answer": "quả",
-      "options": [
-        "mực",
-        "quả",
-        "thật",
-        "vàng"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Ăn quả nhớ kẻ trồng cây\". Khuyên nhủ con người khi được hưởng thành quả phải luôn biết ơn công lao người tạo dựng."
     },
     {
@@ -5705,12 +4943,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Một (...) ngựa đau cả tàu bỏ cỏ\"",
       "blankAnswer": "con",
       "answer": "con",
-      "options": [
-        "sắt",
-        "đùm",
-        "đèn",
-        "con"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Một con ngựa đau cả tàu bỏ cỏ\". Khi một cá nhân gặp nạn, toàn thể tập thể đều chia sẻ nỗi buồn và tương trợ."
     },
     {
@@ -5722,12 +4954,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Lửa thử (...) gian nan thử sức\"",
       "blankAnswer": "vàng",
       "answer": "vàng",
-      "options": [
-        "vàng",
-        "trồng",
-        "thật",
-        "nâng"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Lửa thử vàng gian nan thử sức\". Khó khăn thử thách là thước đo lòng kiên định và bản lĩnh con người."
     },
     {
@@ -5739,12 +4965,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Nhiễu điều phủ (...) giá gương, người trong một nước phải thương nhau cùng\"",
       "blankAnswer": "lấy",
       "answer": "lấy",
-      "options": [
-        "trồng",
-        "đèn",
-        "lấy",
-        "thật"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Nhiễu điều phủ lấy giá gương, người trong một nước phải thương nhau cùng\". Đồng bào cùng một giang sơn phải luôn đùm bọc, giúp đỡ lẫn nhau."
     },
     {
@@ -5756,12 +4976,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Ăn quả nhớ (...) trồng cây\"",
       "blankAnswer": "kẻ",
       "answer": "kẻ",
-      "options": [
-        "thật",
-        "non",
-        "kẻ",
-        "kim"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Ăn quả nhớ kẻ trồng cây\". Khuyên nhủ con người khi được hưởng thành quả phải luôn biết ơn công lao người tạo dựng."
     },
     {
@@ -5773,12 +4987,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Thuận vợ thuận (...) tát biển Đông cũng cạn\"",
       "blankAnswer": "chồng",
       "answer": "chồng",
-      "options": [
-        "chồng",
-        "thương",
-        "nguồn",
-        "trồng"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Thuận vợ thuận chồng tát biển Đông cũng cạn\". Sự đồng lòng, hòa thuận trong gia đình giúp vượt qua mọi gian khó."
     },
     {
@@ -5790,12 +4998,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"(...) quả nhớ kẻ trồng cây\"",
       "blankAnswer": "Ăn",
       "answer": "Ăn",
-      "options": [
-        "vàng",
-        "ngày",
-        "non",
-        "Ăn"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Ăn quả nhớ kẻ trồng cây\". Khuyên nhủ con người khi được hưởng thành quả phải luôn biết ơn công lao người tạo dựng."
     },
     {
@@ -5807,12 +5009,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Học (...) không tày học bạn\"",
       "blankAnswer": "thầy",
       "answer": "thầy",
-      "options": [
-        "nâng",
-        "thầy",
-        "ngày",
-        "khôn"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Học thầy không tày học bạn\". Nhấn mạnh vai trò to lớn của việc học hỏi từ bạn bè xung quanh."
     },
     {
@@ -5824,12 +5020,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Ăn ngay (...) thật mọi tật mọi lành\"",
       "blankAnswer": "nói",
       "answer": "nói",
-      "options": [
-        "nói",
-        "nguồn",
-        "đùm",
-        "thương"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Ăn ngay nói thật mọi tật mọi lành\". Sống chân thành, trung thực thì tâm hồn luôn thanh thản và bình an."
     },
     {
@@ -5841,12 +5031,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Một con ngựa đau cả tàu (...) cỏ\"",
       "blankAnswer": "bỏ",
       "answer": "bỏ",
-      "options": [
-        "bỏ",
-        "mực",
-        "khôn",
-        "sạch"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Một con ngựa đau cả tàu bỏ cỏ\". Khi một cá nhân gặp nạn, toàn thể tập thể đều chia sẻ nỗi buồn và tương trợ."
     },
     {
@@ -5858,12 +5042,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Ăn quả nhớ kẻ trồng (...)\"",
       "blankAnswer": "cây",
       "answer": "cây",
-      "options": [
-        "mực",
-        "cây",
-        "kim",
-        "núi"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Ăn quả nhớ kẻ trồng cây\". Khuyên nhủ con người khi được hưởng thành quả phải luôn biết ơn công lao người tạo dựng."
     },
     {
@@ -5875,12 +5053,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Lời nói (...) mất tiền mua, lựa lời mà nói cho vừa lòng nhau\"",
       "blankAnswer": "chẳng",
       "answer": "chẳng",
-      "options": [
-        "ngày",
-        "cây",
-        "công",
-        "chẳng"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Lời nói chẳng mất tiền mua, lựa lời mà nói cho vừa lòng nhau\". Khi giao tiếp cần ăn nói lịch thiệp, nhã nhặn và tế nhị."
     },
     {
@@ -5892,12 +5064,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Lá lành đùm (...) rách\"",
       "blankAnswer": "lá",
       "answer": "lá",
-      "options": [
-        "vàng",
-        "khôn",
-        "lá",
-        "ngay"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Lá lành đùm lá rách\". Khuyên con người phải biết đùm bọc, giúp đỡ lẫn nhau khi gặp hoạn nạn, khó khăn."
     },
     {
@@ -5909,12 +5075,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Lửa thử vàng (...) nan thử sức\"",
       "blankAnswer": "gian",
       "answer": "gian",
-      "options": [
-        "núi",
-        "gian",
-        "mực",
-        "sạch"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Lửa thử vàng gian nan thử sức\". Khó khăn thử thách là thước đo lòng kiên định và bản lĩnh con người."
     },
     {
@@ -5926,12 +5086,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Bầu ơi thương lấy bí (...), tuy rằng khác giống nhưng chung một giàn\"",
       "blankAnswer": "cùng",
       "answer": "cùng",
-      "options": [
-        "sạch",
-        "đèn",
-        "thật",
-        "cùng"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Bầu ơi thương lấy bí cùng, tuy rằng khác giống nhưng chung một giàn\". Dù xuất thân khác nhau nhưng cùng chung sống một đất nước thì phải thương yêu nhau."
     },
     {
@@ -5943,12 +5097,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Cây ngay không sợ (...) đứng\"",
       "blankAnswer": "chết",
       "answer": "chết",
-      "options": [
-        "non",
-        "núi",
-        "công",
-        "chết"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Cây ngay không sợ chết đứng\". Người sống ngay thẳng, thật thà thì không sợ bất kì lời vu khống hay thử thách nào."
     },
     {
@@ -5960,12 +5108,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"(...) thấy sóng cả mà ngã tay chèo\"",
       "blankAnswer": "Chớ",
       "answer": "Chớ",
-      "options": [
-        "đèn",
-        "sạch",
-        "cây",
-        "Chớ"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Chớ thấy sóng cả mà ngã tay chèo\". Đừng vì thấy khó khăn, nguy nan mà nản lòng, buông xuôi ý chí."
     },
     {
@@ -5977,12 +5119,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi (...)\"",
       "blankAnswer": "cao",
       "answer": "cao",
-      "options": [
-        "thương",
-        "ngay",
-        "cao",
-        "đùm"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao\". Một người lẻ loi khó làm việc lớn, nhưng khi đoàn kết lại sẽ tạo nên sức mạnh vô địch."
     },
     {
@@ -5994,12 +5130,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Uống (...) nhớ người đào giếng\"",
       "blankAnswer": "nước",
       "answer": "nước",
-      "options": [
-        "nước",
-        "sạch",
-        "ngay",
-        "trồng"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Uống nước nhớ người đào giếng\". Hưởng trái ngọt nhớ công người trồng cây, uống nước mát nhớ ơn người đào giếng."
     },
     {
@@ -6011,12 +5141,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Thuận (...) thuận chồng tát biển Đông cũng cạn\"",
       "blankAnswer": "vợ",
       "answer": "vợ",
-      "options": [
-        "cây",
-        "đùm",
-        "vợ",
-        "ngày"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Thuận vợ thuận chồng tát biển Đông cũng cạn\". Sự đồng lòng, hòa thuận trong gia đình giúp vượt qua mọi gian khó."
     },
     {
@@ -6028,12 +5152,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Nhiễu điều phủ lấy giá gương, người trong một (...) phải thương nhau cùng\"",
       "blankAnswer": "nước",
       "answer": "nước",
-      "options": [
-        "thương",
-        "công",
-        "vàng",
-        "nước"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Nhiễu điều phủ lấy giá gương, người trong một nước phải thương nhau cùng\". Đồng bào cùng một giang sơn phải luôn đùm bọc, giúp đỡ lẫn nhau."
     },
     {
@@ -6045,12 +5163,6 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Nhiễu điều phủ lấy giá (...), người trong một nước phải thương nhau cùng\"",
       "blankAnswer": "gương",
       "answer": "gương",
-      "options": [
-        "ngày",
-        "núi",
-        "gương",
-        "non"
-      ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Nhiễu điều phủ lấy giá gương, người trong một nước phải thương nhau cùng\". Đồng bào cùng một giang sơn phải luôn đùm bọc, giúp đỡ lẫn nhau."
     },
     {
@@ -9384,12 +8496,6 @@
       "question": "Điền tính từ thích hợp: 'Bầu trời sau cơn mưa trở nên (...)'.",
       "blankAnswer": "trong trẻo",
       "answer": "trong trẻo",
-      "options": [
-        "trong trẻo",
-        "chạy nhảy",
-        "học sinh",
-        "bàn ghế"
-      ],
       "explanation": "'trong trẻo' là tính từ chỉ đặc điểm; chọn từ phù hợp với câu."
     },
     {
@@ -9401,12 +8507,6 @@
       "question": "Điền từ còn thiếu để hoàn thành câu tục ngữ: 'Có công mài sắt, có ngày nên kim'.",
       "blankAnswer": "Có công mài sắt, có ngày nên kim",
       "answer": "Có công mài sắt, có ngày nên kim",
-      "options": [
-        "Có công mài sắt, có ngày nên kim",
-        "Ăn quả nhớ kẻ trồng cây",
-        "Lá lành đùm lá rách",
-        "Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao"
-      ],
       "explanation": "Câu tục ngữ hoàn chỉnh: Có công mài sắt, có ngày nên kim."
     },
     {
@@ -9418,12 +8518,6 @@
       "question": "Điền quan hệ từ thích hợp: \"Nếu em chăm chỉ (...) em sẽ tiến bộ.\"",
       "blankAnswer": "thì",
       "answer": "thì",
-      "options": [
-        "thì",
-        "nhưng",
-        "và",
-        "mà"
-      ],
       "explanation": "Cặp quan hệ từ 'nếu... thì...' biểu thị điều kiện – kết quả."
     },
     {
@@ -9435,12 +8529,6 @@
       "question": "Điền từ đồng nghĩa với 'dũng cảm' vào chỗ trống: Bạn Nam rất (...).",
       "blankAnswer": "can đảm",
       "answer": "can đảm",
-      "options": [
-        "can đảm",
-        "thấp",
-        "lạnh lẽo",
-        "xa xôi"
-      ],
       "explanation": "'can đảm' đồng nghĩa với 'dũng cảm'."
     },
     {
@@ -9452,12 +8540,6 @@
       "question": "Điền từ trái nghĩa với 'cao' vào chỗ trống.",
       "blankAnswer": "thấp",
       "answer": "thấp",
-      "options": [
-        "thấp",
-        "can đảm",
-        "rực rỡ",
-        "êm đềm"
-      ],
       "explanation": "'thấp' trái nghĩa với 'cao'."
     },
     {
@@ -9469,12 +8551,6 @@
       "question": "Điền từ thích hợp: \"(...) trời mưa, chúng em vẫn đến lớp đúng giờ.\"",
       "blankAnswer": "Tuy",
       "answer": "Tuy",
-      "options": [
-        "Tuy",
-        "Bởi vì",
-        "Nếu",
-        "Hễ"
-      ],
       "explanation": "'Tuy... vẫn...' biểu thị quan hệ tương phản."
     },
     {
@@ -9486,12 +8562,6 @@
       "question": "Điền từ chỉ thời gian thích hợp: \"Ngày mai, lớp em (...) tham quan bảo tàng.\"",
       "blankAnswer": "sẽ",
       "answer": "sẽ",
-      "options": [
-        "đã",
-        "đang",
-        "sẽ",
-        "vừa"
-      ],
       "explanation": "'Sẽ' chỉ hoạt động xảy ra trong tương lai."
     },
     {
@@ -9503,12 +8573,6 @@
       "question": "Điền từ còn thiếu để hoàn thành câu tục ngữ: 'Ăn quả nhớ kẻ trồng cây'.",
       "blankAnswer": "Ăn quả nhớ kẻ trồng cây",
       "answer": "Ăn quả nhớ kẻ trồng cây",
-      "options": [
-        "Ăn quả nhớ kẻ trồng cây",
-        "Lá lành đùm lá rách",
-        "Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao",
-        "Gần mực thì đen, gần đèn thì sáng"
-      ],
       "explanation": "Câu tục ngữ hoàn chỉnh: Ăn quả nhớ kẻ trồng cây."
     },
     {
@@ -9520,12 +8584,6 @@
       "question": "Điền từ trái nghĩa với 'sáng' vào chỗ trống.",
       "blankAnswer": "tối",
       "answer": "tối",
-      "options": [
-        "tối",
-        "mênh mông",
-        "rực rỡ",
-        "êm đềm"
-      ],
       "explanation": "'tối' trái nghĩa với 'sáng'."
     },
     {
@@ -9537,12 +8595,6 @@
       "question": "Điền từ còn thiếu để hoàn thành câu tục ngữ: 'Lá lành đùm lá rách'.",
       "blankAnswer": "Lá lành đùm lá rách",
       "answer": "Lá lành đùm lá rách",
-      "options": [
-        "Lá lành đùm lá rách",
-        "Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao",
-        "Gần mực thì đen, gần đèn thì sáng",
-        "Uống nước nhớ nguồn"
-      ],
       "explanation": "Câu tục ngữ hoàn chỉnh: Lá lành đùm lá rách."
     },
     {
@@ -9554,12 +8606,6 @@
       "question": "Điền từ trái nghĩa với 'chăm chỉ' vào chỗ trống.",
       "blankAnswer": "lười biếng",
       "answer": "lười biếng",
-      "options": [
-        "lười biếng",
-        "thanh bình",
-        "rực rỡ",
-        "êm đềm"
-      ],
       "explanation": "'lười biếng' trái nghĩa với 'chăm chỉ'."
     },
     {
@@ -9571,12 +8617,6 @@
       "question": "Điền tính từ thích hợp: 'Bầu trời sau cơn mưa trở nên (...)'.",
       "blankAnswer": "rực rỡ",
       "answer": "rực rỡ",
-      "options": [
-        "rực rỡ",
-        "chạy nhảy",
-        "học sinh",
-        "bàn ghế"
-      ],
       "explanation": "'rực rỡ' là tính từ chỉ đặc điểm; chọn từ phù hợp với câu."
     },
     {
@@ -9588,12 +8628,6 @@
       "question": "Điền từ còn thiếu để hoàn thành câu tục ngữ: 'Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao'.",
       "blankAnswer": "Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao",
       "answer": "Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao",
-      "options": [
-        "Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao",
-        "Gần mực thì đen, gần đèn thì sáng",
-        "Uống nước nhớ nguồn",
-        "Đi một ngày đàng, học một sàng khôn"
-      ],
       "explanation": "Câu tục ngữ hoàn chỉnh: Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao."
     },
     {
@@ -9605,12 +8639,6 @@
       "question": "Điền từ đồng nghĩa với 'thông minh' vào chỗ trống: Bạn Nam rất (...).",
       "blankAnswer": "sáng dạ",
       "answer": "sáng dạ",
-      "options": [
-        "sáng dạ",
-        "nhút nhát",
-        "lạnh lẽo",
-        "xa xôi"
-      ],
       "explanation": "'sáng dạ' đồng nghĩa với 'thông minh'."
     },
     {
@@ -9622,12 +8650,6 @@
       "question": "Điền từ trái nghĩa với 'dũng cảm' vào chỗ trống.",
       "blankAnswer": "nhút nhát",
       "answer": "nhút nhát",
-      "options": [
-        "nhút nhát",
-        "sáng dạ",
-        "rực rỡ",
-        "êm đềm"
-      ],
       "explanation": "'nhút nhát' trái nghĩa với 'dũng cảm'."
     },
     {
@@ -9639,12 +8661,6 @@
       "question": "Điền từ còn thiếu để hoàn thành câu tục ngữ: 'Gần mực thì đen, gần đèn thì sáng'.",
       "blankAnswer": "Gần mực thì đen, gần đèn thì sáng",
       "answer": "Gần mực thì đen, gần đèn thì sáng",
-      "options": [
-        "Gần mực thì đen, gần đèn thì sáng",
-        "Uống nước nhớ nguồn",
-        "Đi một ngày đàng, học một sàng khôn",
-        "Thương người như thể thương thân"
-      ],
       "explanation": "Câu tục ngữ hoàn chỉnh: Gần mực thì đen, gần đèn thì sáng."
     },
     {
@@ -9656,12 +8672,6 @@
       "question": "Điền từ đồng nghĩa với 'chăm chỉ' vào chỗ trống: Bạn Nam rất (...).",
       "blankAnswer": "siêng năng",
       "answer": "siêng năng",
-      "options": [
-        "siêng năng",
-        "gian dối",
-        "lạnh lẽo",
-        "xa xôi"
-      ],
       "explanation": "'siêng năng' đồng nghĩa với 'chăm chỉ'."
     },
     {
@@ -9673,12 +8683,6 @@
       "question": "Điền từ trái nghĩa với 'thật thà' vào chỗ trống.",
       "blankAnswer": "gian dối",
       "answer": "gian dối",
-      "options": [
-        "gian dối",
-        "siêng năng",
-        "rực rỡ",
-        "êm đềm"
-      ],
       "explanation": "'gian dối' trái nghĩa với 'thật thà'."
     },
     {
@@ -9690,12 +8694,6 @@
       "question": "Điền từ còn thiếu để hoàn thành câu tục ngữ: 'Uống nước nhớ nguồn'.",
       "blankAnswer": "Uống nước nhớ nguồn",
       "answer": "Uống nước nhớ nguồn",
-      "options": [
-        "Uống nước nhớ nguồn",
-        "Đi một ngày đàng, học một sàng khôn",
-        "Thương người như thể thương thân",
-        "Chớ thấy sóng cả mà ngã tay chèo"
-      ],
       "explanation": "Câu tục ngữ hoàn chỉnh: Uống nước nhớ nguồn."
     },
     {
@@ -9707,12 +8705,6 @@
       "question": "Điền từ trái nghĩa với 'rộng' vào chỗ trống.",
       "blankAnswer": "hẹp",
       "answer": "hẹp",
-      "options": [
-        "hẹp",
-        "thoăn thoắt",
-        "rực rỡ",
-        "êm đềm"
-      ],
       "explanation": "'hẹp' trái nghĩa với 'rộng'."
     },
     {
@@ -9724,12 +8716,6 @@
       "question": "Điền từ còn thiếu để hoàn thành câu tục ngữ: 'Đi một ngày đàng, học một sàng khôn'.",
       "blankAnswer": "Đi một ngày đàng, học một sàng khôn",
       "answer": "Đi một ngày đàng, học một sàng khôn",
-      "options": [
-        "Đi một ngày đàng, học một sàng khôn",
-        "Thương người như thể thương thân",
-        "Chớ thấy sóng cả mà ngã tay chèo",
-        "Tốt gỗ hơn tốt nước sơn"
-      ],
       "explanation": "Câu tục ngữ hoàn chỉnh: Đi một ngày đàng, học một sàng khôn."
     },
     {
@@ -9741,12 +8727,6 @@
       "question": "Điền từ đồng nghĩa với 'trung thực' vào chỗ trống: Bạn Nam rất (...).",
       "blankAnswer": "thật thà",
       "answer": "thật thà",
-      "options": [
-        "thật thà",
-        "yên tĩnh",
-        "lạnh lẽo",
-        "xa xôi"
-      ],
       "explanation": "'thật thà' đồng nghĩa với 'trung thực'."
     },
     {
@@ -9758,12 +8738,6 @@
       "question": "Điền từ trái nghĩa với 'ồn ào' vào chỗ trống.",
       "blankAnswer": "yên tĩnh",
       "answer": "yên tĩnh",
-      "options": [
-        "yên tĩnh",
-        "thật thà",
-        "rực rỡ",
-        "êm đềm"
-      ],
       "explanation": "'yên tĩnh' trái nghĩa với 'ồn ào'."
     },
     {
@@ -9775,12 +8749,6 @@
       "question": "Điền tính từ thích hợp: 'Bầu trời sau cơn mưa trở nên (...)'.",
       "blankAnswer": "thanh bình",
       "answer": "thanh bình",
-      "options": [
-        "thanh bình",
-        "chạy nhảy",
-        "học sinh",
-        "bàn ghế"
-      ],
       "explanation": "'thanh bình' là tính từ chỉ đặc điểm; chọn từ phù hợp với câu."
     },
     {
@@ -9792,12 +8760,6 @@
       "question": "Điền từ còn thiếu để hoàn thành câu tục ngữ: 'Thương người như thể thương thân'.",
       "blankAnswer": "Thương người như thể thương thân",
       "answer": "Thương người như thể thương thân",
-      "options": [
-        "Thương người như thể thương thân",
-        "Chớ thấy sóng cả mà ngã tay chèo",
-        "Tốt gỗ hơn tốt nước sơn",
-        "Lời nói chẳng mất tiền mua, lựa lời mà nói cho vừa lòng nhau"
-      ],
       "explanation": "Câu tục ngữ hoàn chỉnh: Thương người như thể thương thân."
     },
     {
@@ -9809,12 +8771,6 @@
       "question": "Điền từ đồng nghĩa với 'hiền hậu' vào chỗ trống: Bạn Nam rất (...).",
       "blankAnswer": "nhân hậu",
       "answer": "nhân hậu",
-      "options": [
-        "nhân hậu",
-        "buồn",
-        "lạnh lẽo",
-        "xa xôi"
-      ],
       "explanation": "'nhân hậu' đồng nghĩa với 'hiền hậu'."
     },
     {
@@ -9826,12 +8782,6 @@
       "question": "Điền từ trái nghĩa với 'vui' vào chỗ trống.",
       "blankAnswer": "buồn",
       "answer": "buồn",
-      "options": [
-        "buồn",
-        "nhân hậu",
-        "rực rỡ",
-        "êm đềm"
-      ],
       "explanation": "'buồn' trái nghĩa với 'vui'."
     },
     {
@@ -9843,12 +8793,6 @@
       "question": "Điền từ còn thiếu để hoàn thành câu tục ngữ: 'Chớ thấy sóng cả mà ngã tay chèo'.",
       "blankAnswer": "Chớ thấy sóng cả mà ngã tay chèo",
       "answer": "Chớ thấy sóng cả mà ngã tay chèo",
-      "options": [
-        "Chớ thấy sóng cả mà ngã tay chèo",
-        "Tốt gỗ hơn tốt nước sơn",
-        "Lời nói chẳng mất tiền mua, lựa lời mà nói cho vừa lòng nhau",
-        "Một con ngựa đau, cả tàu bỏ cỏ"
-      ],
       "explanation": "Câu tục ngữ hoàn chỉnh: Chớ thấy sóng cả mà ngã tay chèo."
     },
     {
@@ -9860,12 +8804,6 @@
       "question": "Điền từ đồng nghĩa với 'vui vẻ' vào chỗ trống: Bạn Nam rất (...).",
       "blankAnswer": "hớn hở",
       "answer": "hớn hở",
-      "options": [
-        "hớn hở",
-        "chậm",
-        "lạnh lẽo",
-        "xa xôi"
-      ],
       "explanation": "'hớn hở' đồng nghĩa với 'vui vẻ'."
     },
     {
@@ -9877,12 +8815,6 @@
       "question": "Điền từ trái nghĩa với 'nhanh' vào chỗ trống.",
       "blankAnswer": "chậm",
       "answer": "chậm",
-      "options": [
-        "chậm",
-        "hớn hở",
-        "rực rỡ",
-        "êm đềm"
-      ],
       "explanation": "'chậm' trái nghĩa với 'nhanh'."
     },
     {
@@ -9894,12 +8826,6 @@
       "question": "Điền từ còn thiếu để hoàn thành câu tục ngữ: 'Tốt gỗ hơn tốt nước sơn'.",
       "blankAnswer": "Tốt gỗ hơn tốt nước sơn",
       "answer": "Tốt gỗ hơn tốt nước sơn",
-      "options": [
-        "Tốt gỗ hơn tốt nước sơn",
-        "Lời nói chẳng mất tiền mua, lựa lời mà nói cho vừa lòng nhau",
-        "Một con ngựa đau, cả tàu bỏ cỏ",
-        "Ăn trông nồi, ngồi trông hướng"
-      ],
       "explanation": "Câu tục ngữ hoàn chỉnh: Tốt gỗ hơn tốt nước sơn."
     },
     {
@@ -9911,12 +8837,6 @@
       "question": "Điền từ trái nghĩa với 'giàu' vào chỗ trống.",
       "blankAnswer": "nghèo",
       "answer": "nghèo",
-      "options": [
-        "nghèo",
-        "gìn giữ",
-        "rực rỡ",
-        "êm đềm"
-      ],
       "explanation": "'nghèo' trái nghĩa với 'giàu'."
     },
     {
@@ -9928,12 +8848,6 @@
       "question": "Điền tính từ thích hợp: 'Bầu trời sau cơn mưa trở nên (...)'.",
       "blankAnswer": "ấm áp",
       "answer": "ấm áp",
-      "options": [
-        "ấm áp",
-        "chạy nhảy",
-        "học sinh",
-        "bàn ghế"
-      ],
       "explanation": "'ấm áp' là tính từ chỉ đặc điểm; chọn từ phù hợp với câu."
     },
     {
@@ -9945,12 +8859,6 @@
       "question": "Điền từ còn thiếu để hoàn thành câu tục ngữ: 'Lời nói chẳng mất tiền mua, lựa lời mà nói cho vừa lòng nhau'.",
       "blankAnswer": "Lời nói chẳng mất tiền mua, lựa lời mà nói cho vừa lòng nhau",
       "answer": "Lời nói chẳng mất tiền mua, lựa lời mà nói cho vừa lòng nhau",
-      "options": [
-        "Lời nói chẳng mất tiền mua, lựa lời mà nói cho vừa lòng nhau",
-        "Một con ngựa đau, cả tàu bỏ cỏ",
-        "Ăn trông nồi, ngồi trông hướng",
-        "Nhiễu điều phủ lấy giá gương, người trong một nước phải thương nhau cùng"
-      ],
       "explanation": "Câu tục ngữ hoàn chỉnh: Lời nói chẳng mất tiền mua, lựa lời mà nói cho vừa lòng nhau."
     },
     {
@@ -9962,12 +8870,6 @@
       "question": "Điền động từ thích hợp vào chỗ trống: Lan thường xuyên (...) ông bà làm việc nhà.",
       "blankAnswer": "giúp đỡ",
       "answer": "giúp đỡ",
-      "options": [
-        "giúp đỡ",
-        "xanh biếc",
-        "quyển sách",
-        "mênh mông"
-      ],
       "explanation": "'giúp đỡ' là động từ phù hợp với ngữ cảnh."
     },
     {
@@ -9979,12 +8881,6 @@
       "question": "Điền từ còn thiếu để hoàn thành câu tục ngữ: 'Một con ngựa đau, cả tàu bỏ cỏ'.",
       "blankAnswer": "Một con ngựa đau, cả tàu bỏ cỏ",
       "answer": "Một con ngựa đau, cả tàu bỏ cỏ",
-      "options": [
-        "Một con ngựa đau, cả tàu bỏ cỏ",
-        "Ăn trông nồi, ngồi trông hướng",
-        "Nhiễu điều phủ lấy giá gương, người trong một nước phải thương nhau cùng",
-        "Đói cho sạch, rách cho thơm"
-      ],
       "explanation": "Câu tục ngữ hoàn chỉnh: Một con ngựa đau, cả tàu bỏ cỏ."
     },
     {
@@ -9996,12 +8892,6 @@
       "question": "Điền từ còn thiếu để hoàn thành câu tục ngữ: 'Ăn trông nồi, ngồi trông hướng'.",
       "blankAnswer": "Ăn trông nồi, ngồi trông hướng",
       "answer": "Ăn trông nồi, ngồi trông hướng",
-      "options": [
-        "Ăn trông nồi, ngồi trông hướng",
-        "Nhiễu điều phủ lấy giá gương, người trong một nước phải thương nhau cùng",
-        "Đói cho sạch, rách cho thơm",
-        "Học thầy không tày học bạn"
-      ],
       "explanation": "Câu tục ngữ hoàn chỉnh: Ăn trông nồi, ngồi trông hướng."
     },
     {
@@ -10013,12 +8903,6 @@
       "question": "Điền từ đồng nghĩa với 'đoàn kết' vào chỗ trống: Bạn Nam rất (...).",
       "blankAnswer": "đồng lòng",
       "answer": "đồng lòng",
-      "options": [
-        "đồng lòng",
-        "lười biếng",
-        "lạnh lẽo",
-        "xa xôi"
-      ],
       "explanation": "'đồng lòng' đồng nghĩa với 'đoàn kết'."
     },
     {
@@ -10030,12 +8914,6 @@
       "question": "Điền từ còn thiếu để hoàn thành câu tục ngữ: 'Nhiễu điều phủ lấy giá gương, người trong một nước phải thương nhau cùng'.",
       "blankAnswer": "Nhiễu điều phủ lấy giá gương, người trong một nước phải thương nhau cùng",
       "answer": "Nhiễu điều phủ lấy giá gương, người trong một nước phải thương nhau cùng",
-      "options": [
-        "Nhiễu điều phủ lấy giá gương, người trong một nước phải thương nhau cùng",
-        "Đói cho sạch, rách cho thơm",
-        "Học thầy không tày học bạn",
-        "Có công mài sắt, có ngày nên kim"
-      ],
       "explanation": "Câu tục ngữ hoàn chỉnh: Nhiễu điều phủ lấy giá gương, người trong một nước phải thương nhau cùng."
     },
     {
@@ -10047,12 +8925,6 @@
       "question": "Điền từ đồng nghĩa với 'cần cù' vào chỗ trống: Bạn Nam rất (...).",
       "blankAnswer": "chịu khó",
       "answer": "chịu khó",
-      "options": [
-        "chịu khó",
-        "nhút nhát",
-        "lạnh lẽo",
-        "xa xôi"
-      ],
       "explanation": "'chịu khó' đồng nghĩa với 'cần cù'."
     },
     {
@@ -10064,12 +8936,6 @@
       "question": "Điền từ còn thiếu để hoàn thành câu tục ngữ: 'Đói cho sạch, rách cho thơm'.",
       "blankAnswer": "Đói cho sạch, rách cho thơm",
       "answer": "Đói cho sạch, rách cho thơm",
-      "options": [
-        "Đói cho sạch, rách cho thơm",
-        "Học thầy không tày học bạn",
-        "Có công mài sắt, có ngày nên kim",
-        "Ăn quả nhớ kẻ trồng cây"
-      ],
       "explanation": "Câu tục ngữ hoàn chỉnh: Đói cho sạch, rách cho thơm."
     },
     {
@@ -10081,12 +8947,6 @@
       "question": "Điền từ còn thiếu để hoàn thành câu tục ngữ: 'Học thầy không tày học bạn'.",
       "blankAnswer": "Học thầy không tày học bạn",
       "answer": "Học thầy không tày học bạn",
-      "options": [
-        "Học thầy không tày học bạn",
-        "Có công mài sắt, có ngày nên kim",
-        "Ăn quả nhớ kẻ trồng cây",
-        "Lá lành đùm lá rách"
-      ],
       "explanation": "Câu tục ngữ hoàn chỉnh: Học thầy không tày học bạn."
     },
     {
@@ -18833,12 +17693,6 @@
       "question": "Điền quan hệ từ thích hợp: “Vì trời mưa (...) đường phố ướt.”",
       "blankAnswer": "nên",
       "answer": "nên",
-      "options": [
-        "nên",
-        "và",
-        "nhưng",
-        "thì"
-      ],
       "explanation": "Quan hệ từ “nên” thể hiện quan hệ nguyên nhân – kết quả.",
       "questionId": "k4_c1_dt_1046"
     },
@@ -18850,12 +17704,6 @@
       "question": "Hoàn thành câu bằng quan hệ từ phù hợp: “Vì trời mưa (...) đường phố ướt.”",
       "blankAnswer": "nên",
       "answer": "nên",
-      "options": [
-        "nên",
-        "và",
-        "nhưng",
-        "thì"
-      ],
       "explanation": "Quan hệ từ “nên” thể hiện quan hệ nguyên nhân – kết quả.",
       "questionId": "k4_c1_dt_1047"
     },
@@ -18867,12 +17715,6 @@
       "question": "Điền quan hệ từ thích hợp: “Tuy nhà xa (...) bạn Lan vẫn đến lớp đúng giờ.”",
       "blankAnswer": "nhưng",
       "answer": "nhưng",
-      "options": [
-        "nhưng",
-        "và",
-        "nên",
-        "thì"
-      ],
       "explanation": "Quan hệ từ “nhưng” thể hiện quan hệ tương phản.",
       "questionId": "k4_c1_dt_1048"
     },
@@ -18884,12 +17726,6 @@
       "question": "Hoàn thành câu bằng quan hệ từ phù hợp: “Tuy nhà xa (...) bạn Lan vẫn đến lớp đúng giờ.”",
       "blankAnswer": "nhưng",
       "answer": "nhưng",
-      "options": [
-        "nhưng",
-        "và",
-        "nên",
-        "thì"
-      ],
       "explanation": "Quan hệ từ “nhưng” thể hiện quan hệ tương phản.",
       "questionId": "k4_c1_dt_1049"
     },
@@ -18901,12 +17737,6 @@
       "question": "Điền quan hệ từ thích hợp: “Không những chăm học (...) bạn Minh còn rất lễ phép.”",
       "blankAnswer": "mà",
       "answer": "mà",
-      "options": [
-        "mà",
-        "và",
-        "nhưng",
-        "nên"
-      ],
       "explanation": "Quan hệ từ “mà” thể hiện quan hệ tăng tiến.",
       "questionId": "k4_c1_dt_1050"
     },
@@ -18918,12 +17748,6 @@
       "question": "Hoàn thành câu bằng quan hệ từ phù hợp: “Không những chăm học (...) bạn Minh còn rất lễ phép.”",
       "blankAnswer": "mà",
       "answer": "mà",
-      "options": [
-        "mà",
-        "và",
-        "nhưng",
-        "nên"
-      ],
       "explanation": "Quan hệ từ “mà” thể hiện quan hệ tăng tiến.",
       "questionId": "k4_c1_dt_1051"
     },
@@ -18935,12 +17759,6 @@
       "question": "Điền quan hệ từ thích hợp: “Nếu em chăm chỉ luyện tập (...) em sẽ tiến bộ.”",
       "blankAnswer": "thì",
       "answer": "thì",
-      "options": [
-        "thì",
-        "và",
-        "nhưng",
-        "nên"
-      ],
       "explanation": "Quan hệ từ “thì” thể hiện quan hệ điều kiện – kết quả.",
       "questionId": "k4_c1_dt_1052"
     },
@@ -18952,12 +17770,6 @@
       "question": "Hoàn thành câu bằng quan hệ từ phù hợp: “Nếu em chăm chỉ luyện tập (...) em sẽ tiến bộ.”",
       "blankAnswer": "thì",
       "answer": "thì",
-      "options": [
-        "thì",
-        "và",
-        "nhưng",
-        "nên"
-      ],
       "explanation": "Quan hệ từ “thì” thể hiện quan hệ điều kiện – kết quả.",
       "questionId": "k4_c1_dt_1053"
     },
@@ -18969,12 +17781,6 @@
       "question": "Điền quan hệ từ thích hợp: “Trời đã tối (...) các bạn vẫn tiếp tục tìm kiếm.”",
       "blankAnswer": "nhưng",
       "answer": "nhưng",
-      "options": [
-        "nhưng",
-        "và",
-        "nên",
-        "thì"
-      ],
       "explanation": "Quan hệ từ “nhưng” thể hiện quan hệ tương phản.",
       "questionId": "k4_c1_dt_1054"
     },
@@ -18986,12 +17792,6 @@
       "question": "Hoàn thành câu bằng quan hệ từ phù hợp: “Trời đã tối (...) các bạn vẫn tiếp tục tìm kiếm.”",
       "blankAnswer": "nhưng",
       "answer": "nhưng",
-      "options": [
-        "nhưng",
-        "và",
-        "nên",
-        "thì"
-      ],
       "explanation": "Quan hệ từ “nhưng” thể hiện quan hệ tương phản.",
       "questionId": "k4_c1_dt_1055"
     },
@@ -19003,12 +17803,6 @@
       "question": "Điền quan hệ từ thích hợp: “Em học bài (...) em làm bài tập.”",
       "blankAnswer": "và",
       "answer": "và",
-      "options": [
-        "và",
-        "nhưng",
-        "nên",
-        "thì"
-      ],
       "explanation": "Quan hệ từ “và” thể hiện quan hệ bổ sung.",
       "questionId": "k4_c1_dt_1056"
     },
@@ -19020,12 +17814,6 @@
       "question": "Hoàn thành câu bằng quan hệ từ phù hợp: “Em học bài (...) em làm bài tập.”",
       "blankAnswer": "và",
       "answer": "và",
-      "options": [
-        "và",
-        "nhưng",
-        "nên",
-        "thì"
-      ],
       "explanation": "Quan hệ từ “và” thể hiện quan hệ bổ sung.",
       "questionId": "k4_c1_dt_1057"
     },
@@ -25321,12 +24109,6 @@
       "question": "Điền quan hệ từ thích hợp vào chỗ trống: “Vì trời mưa (...) đường trơn.”",
       "blankAnswer": "nên",
       "answer": "nên",
-      "options": [
-        "nên",
-        "và",
-        "nhưng",
-        "thì"
-      ],
       "explanation": "“nên” nối hai vế câu phù hợp về nghĩa.",
       "questionId": "k4_c1_dt_1400"
     },
@@ -25338,12 +24120,6 @@
       "question": "Điền quan hệ từ thích hợp vào chỗ trống: “Không những học giỏi (...) bạn còn chăm ngoan.”",
       "blankAnswer": "mà",
       "answer": "mà",
-      "options": [
-        "mà",
-        "và",
-        "nhưng",
-        "nên"
-      ],
       "explanation": "“mà” nối hai vế câu phù hợp về nghĩa.",
       "questionId": "k4_c1_dt_1401"
     },
@@ -25355,12 +24131,6 @@
       "question": "Điền quan hệ từ thích hợp vào chỗ trống: “Tuy trời lạnh (...) em vẫn đi học.”",
       "blankAnswer": "nhưng",
       "answer": "nhưng",
-      "options": [
-        "nhưng",
-        "và",
-        "nên",
-        "thì"
-      ],
       "explanation": "“nhưng” nối hai vế câu phù hợp về nghĩa.",
       "questionId": "k4_c1_dt_1402"
     },
@@ -25372,12 +24142,6 @@
       "question": "Điền quan hệ từ thích hợp vào chỗ trống: “Em đọc sách (...) em ghi chép.”",
       "blankAnswer": "và",
       "answer": "và",
-      "options": [
-        "và",
-        "nhưng",
-        "nên",
-        "thì"
-      ],
       "explanation": "“và” nối hai vế câu phù hợp về nghĩa.",
       "questionId": "k4_c1_dt_1403"
     },
@@ -25389,12 +24153,6 @@
       "question": "Điền quan hệ từ thích hợp vào chỗ trống: “Nếu chăm chỉ (...) em sẽ tiến bộ.”",
       "blankAnswer": "thì",
       "answer": "thì",
-      "options": [
-        "thì",
-        "và",
-        "nhưng",
-        "nên"
-      ],
       "explanation": "“thì” nối hai vế câu phù hợp về nghĩa.",
       "questionId": "k4_c1_dt_1404"
     },

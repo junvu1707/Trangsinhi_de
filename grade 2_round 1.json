@@ -180,12 +180,6 @@
       "question": "Chọn phụ âm đầu đúng cho tiếng trong ngoặc: “(...)iếc thước”",
       "answer": "ch",
       "blankAnswer": "ch",
-      "options": [
-        "nh",
-        "ch",
-        "v",
-        "x"
-      ],
       "explanation": "Từ đúng là “chiếc thước”, viết với phụ âm đầu “ch”.",
       "questionNumber": 6,
       "questionId": "k2_c1_dt_0001"
@@ -198,12 +192,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành tiếng thứ hai: “con (...)ò”",
       "answer": "b",
       "blankAnswer": "b",
-      "options": [
-        "kh",
-        "đ",
-        "b",
-        "ng"
-      ],
       "explanation": "Cụm từ đúng là “con bò”.",
       "questionNumber": 7,
       "questionId": "k2_c1_dt_0002"
@@ -285,12 +273,6 @@
       "question": "Chọn phụ âm đầu đúng cho tiếng trong ngoặc: “(...)ăm chỉ”",
       "answer": "ch",
       "blankAnswer": "ch",
-      "options": [
-        "ch",
-        "m",
-        "n",
-        "g"
-      ],
       "explanation": "Từ đúng là “chăm chỉ”, viết với phụ âm đầu “ch”.",
       "questionNumber": 12,
       "questionId": "k2_c1_dt_0003"
@@ -383,12 +365,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành tiếng thứ hai: “con (...)à”",
       "answer": "g",
       "blankAnswer": "g",
-      "options": [
-        "n",
-        "ch",
-        "x",
-        "g"
-      ],
       "explanation": "Cụm từ đúng là “con gà”.",
       "questionNumber": 17,
       "questionId": "k2_c1_dt_0004"
@@ -470,12 +446,6 @@
       "question": "Chọn phụ âm đầu đúng cho tiếng trong ngoặc: “(...)oa sen”",
       "answer": "h",
       "blankAnswer": "h",
-      "options": [
-        "x",
-        "ngh",
-        "k",
-        "h"
-      ],
       "explanation": "Từ đúng là “hoa sen”, viết với phụ âm đầu “h”.",
       "questionNumber": 22,
       "questionId": "k2_c1_dt_0005"
@@ -505,12 +475,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)ọc sinh”",
       "answer": "h",
       "blankAnswer": "h",
-      "options": [
-        "h",
-        "k",
-        "d",
-        "m"
-      ],
       "explanation": "Từ đúng là “học sinh”, viết với phụ âm đầu “h”.",
       "questionNumber": 24,
       "questionId": "k2_c1_dt_0006"
@@ -574,12 +538,6 @@
       "question": "Chọn phụ âm đầu đúng cho tiếng trong ngoặc: “(...)úc xích”",
       "answer": "x",
       "blankAnswer": "x",
-      "options": [
-        "h",
-        "qu",
-        "x",
-        "ngh"
-      ],
       "explanation": "Từ đúng là “xúc xích”, viết với phụ âm đầu “x”.",
       "questionNumber": 28,
       "questionId": "k2_c1_dt_0007"
@@ -609,12 +567,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)ật thà”",
       "answer": "th",
       "blankAnswer": "th",
-      "options": [
-        "x",
-        "d",
-        "th",
-        "r"
-      ],
       "explanation": "Từ đúng là “thật thà”, viết với phụ âm đầu “th”.",
       "questionNumber": 30,
       "questionId": "k2_c1_dt_0008"
@@ -644,12 +596,6 @@
       "question": "Chọn phụ âm đầu đúng cho tiếng trong ngoặc: “(...)ưới cây”",
       "answer": "t",
       "blankAnswer": "t",
-      "options": [
-        "c",
-        "ngh",
-        "t",
-        "b"
-      ],
       "explanation": "Từ đúng là “tưới cây”, viết với phụ âm đầu “t”.",
       "questionNumber": 32,
       "questionId": "k2_c1_dt_0009"
@@ -795,12 +741,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành tiếng thứ hai: “bầu (...)ời”",
       "answer": "tr",
       "blankAnswer": "tr",
-      "options": [
-        "p",
-        "tr",
-        "t",
-        "n"
-      ],
       "explanation": "Cụm từ đúng là “bầu trời”.",
       "questionNumber": 39,
       "questionId": "k2_c1_dt_0010"
@@ -892,12 +832,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành tiếng thứ hai: “ngày (...)ới”",
       "answer": "m",
       "blankAnswer": "m",
-      "options": [
-        "h",
-        "nh",
-        "m",
-        "đ"
-      ],
       "explanation": "Cụm từ đúng là “ngày mới”.",
       "questionNumber": 44,
       "questionId": "k2_c1_dt_0011"
@@ -927,12 +861,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)ấn trắng”",
       "answer": "ph",
       "blankAnswer": "ph",
-      "options": [
-        "ph",
-        "d",
-        "g",
-        "qu"
-      ],
       "explanation": "Từ đúng là “phấn trắng”, viết với phụ âm đầu “ph”.",
       "questionNumber": 46,
       "questionId": "k2_c1_dt_0012"
@@ -1223,12 +1151,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành tiếng thứ hai: “nghé (...)on”",
       "answer": "c",
       "blankAnswer": "c",
-      "options": [
-        "n",
-        "s",
-        "c",
-        "th"
-      ],
       "explanation": "Cụm từ đúng là “nghé con”.",
       "questionNumber": 62,
       "questionId": "k2_c1_dt_0013"
@@ -1286,12 +1208,6 @@
       "question": "Chọn phụ âm đầu đúng cho tiếng trong ngoặc: “(...)ửa sổ”",
       "answer": "c",
       "blankAnswer": "c",
-      "options": [
-        "b",
-        "c",
-        "th",
-        "n"
-      ],
       "explanation": "Từ đúng là “cửa sổ”, viết với phụ âm đầu “c”.",
       "questionNumber": 65,
       "questionId": "k2_c1_dt_0014"
@@ -1304,12 +1220,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)ấp áo”",
       "answer": "g",
       "blankAnswer": "g",
-      "options": [
-        "ngh",
-        "g",
-        "d",
-        "th"
-      ],
       "explanation": "Từ đúng là “gấp áo”, viết với phụ âm đầu “g”.",
       "questionNumber": 66,
       "questionId": "k2_c1_dt_0015"
@@ -1473,12 +1383,6 @@
       "question": "Chọn phụ âm đầu đúng cho tiếng trong ngoặc: “(...)i bài”",
       "answer": "gh",
       "blankAnswer": "gh",
-      "options": [
-        "c",
-        "gi",
-        "g",
-        "gh"
-      ],
       "explanation": "Từ đúng là “ghi bài”, viết với phụ âm đầu “gh”.",
       "questionNumber": 74,
       "questionId": "k2_c1_dt_0016"
@@ -1840,12 +1744,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành tiếng thứ hai: “cây (...)e”",
       "answer": "tr",
       "blankAnswer": "tr",
-      "options": [
-        "nh",
-        "tr",
-        "c",
-        "l"
-      ],
       "explanation": "Cụm từ đúng là “cây tre”.",
       "questionNumber": 90,
       "questionId": "k2_c1_dt_0017"
@@ -1887,12 +1785,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)ụ cười”",
       "answer": "n",
       "explanation": "Từ đúng là “nụ cười”, viết với phụ âm đầu “n”.",
-      "options": [
-        "g",
-        "n",
-        "c",
-        "k"
-      ],
       "blankAnswer": "n",
       "questionNumber": 92
     },
@@ -1940,12 +1832,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)ăn màn”",
       "answer": "ch",
       "explanation": "Từ đúng là “chăn màn”, viết với phụ âm đầu “ch”.",
-      "options": [
-        "tr",
-        "s",
-        "x",
-        "ch"
-      ],
       "blankAnswer": "ch",
       "questionNumber": 95
     },
@@ -2062,12 +1948,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành tiếng thứ hai: “bữa (...)ơm”",
       "answer": "c",
       "blankAnswer": "c",
-      "options": [
-        "h",
-        "gi",
-        "tr",
-        "c"
-      ],
       "explanation": "Cụm từ đúng là “bữa cơm”.",
       "questionNumber": 101,
       "questionId": "k2_c1_dt_0020"
@@ -2249,12 +2129,6 @@
       "question": "Chọn phụ âm đầu đúng cho tiếng trong ngoặc: “(...)ữa cơm”",
       "answer": "b",
       "blankAnswer": "b",
-      "options": [
-        "ph",
-        "kh",
-        "b",
-        "d"
-      ],
       "explanation": "Từ đúng là “bữa cơm”, viết với phụ âm đầu “b”.",
       "questionNumber": 110,
       "questionId": "k2_c1_dt_0021"
@@ -2284,12 +2158,6 @@
       "question": "Chọn phụ âm đầu đúng cho tiếng trong ngoặc: “(...)ửa bát”",
       "answer": "r",
       "blankAnswer": "r",
-      "options": [
-        "c",
-        "gh",
-        "r",
-        "ngh"
-      ],
       "explanation": "Từ đúng là “rửa bát”, viết với phụ âm đầu “r”.",
       "questionNumber": 112,
       "questionId": "k2_c1_dt_0022"
@@ -2319,12 +2187,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành tiếng thứ hai: “ghép (...)ình”",
       "answer": "h",
       "blankAnswer": "h",
-      "options": [
-        "nh",
-        "x",
-        "ngh",
-        "h"
-      ],
       "explanation": "Cụm từ đúng là “ghép hình”.",
       "questionNumber": 114,
       "questionId": "k2_c1_dt_0023"
@@ -2371,12 +2233,6 @@
       "question": "Chọn phụ âm đầu đúng cho tiếng trong ngoặc: “(...)ọn gió”",
       "answer": "ng",
       "blankAnswer": "ng",
-      "options": [
-        "l",
-        "v",
-        "ng",
-        "ch"
-      ],
       "explanation": "Từ đúng là “ngọn gió”, viết với phụ âm đầu “ng”.",
       "questionNumber": 117,
       "questionId": "k2_c1_dt_0024"
@@ -2389,12 +2245,6 @@
       "question": "Chọn phụ âm đầu đúng cho tiếng trong ngoặc: “(...)on gà”",
       "answer": "c",
       "blankAnswer": "c",
-      "options": [
-        "c",
-        "p",
-        "b",
-        "k"
-      ],
       "explanation": "Từ đúng là “con gà”, viết với phụ âm đầu “c”.",
       "questionNumber": 118,
       "questionId": "k2_c1_dt_0025"
@@ -2407,12 +2257,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành tiếng thứ hai: “nhảy (...)ây”",
       "answer": "d",
       "blankAnswer": "d",
-      "options": [
-        "c",
-        "k",
-        "d",
-        "x"
-      ],
       "explanation": "Cụm từ đúng là “nhảy dây”.",
       "questionNumber": 119,
       "questionId": "k2_c1_dt_0026"
@@ -2506,12 +2350,6 @@
       "question": "Chọn phụ âm đầu đúng cho tiếng trong ngoặc: “(...)ây chuối”",
       "answer": "c",
       "blankAnswer": "c",
-      "options": [
-        "n",
-        "d",
-        "k",
-        "c"
-      ],
       "explanation": "Từ đúng là “cây chuối”, viết với phụ âm đầu “c”.",
       "questionNumber": 124,
       "questionId": "k2_c1_dt_0027"
@@ -2579,12 +2417,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)ôi nhà”",
       "answer": "ng",
       "explanation": "Từ đúng là “ngôi nhà”, viết với phụ âm đầu “ng”.",
-      "options": [
-        "ngh",
-        "ch",
-        "x",
-        "ng"
-      ],
       "blankAnswer": "ng",
       "questionNumber": 127
     },
@@ -2597,12 +2429,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)yển vở”",
       "answer": "qu",
       "explanation": "Từ đúng là “quyển vở”, viết với phụ âm đầu “qu”.",
-      "options": [
-        "k",
-        "qu",
-        "g",
-        "c"
-      ],
       "blankAnswer": "qu",
       "questionNumber": 128
     },
@@ -2823,12 +2649,6 @@
       "question": "Chọn phụ âm đầu đúng cho tiếng trong ngoặc: “(...)e kể”",
       "answer": "ngh",
       "blankAnswer": "ngh",
-      "options": [
-        "gh",
-        "l",
-        "m",
-        "ngh"
-      ],
       "explanation": "Từ đúng là “nghe kể”, viết với phụ âm đầu “ngh”.",
       "questionNumber": 138,
       "questionId": "k2_c1_dt_0030"
@@ -2841,12 +2661,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành tiếng thứ hai: “chạy (...)ộ”",
       "answer": "b",
       "blankAnswer": "b",
-      "options": [
-        "p",
-        "l",
-        "b",
-        "nh"
-      ],
       "explanation": "Cụm từ đúng là “chạy bộ”.",
       "questionNumber": 139,
       "questionId": "k2_c1_dt_0031"
@@ -2893,12 +2707,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)oan ngoãn”",
       "answer": "ng",
       "blankAnswer": "ng",
-      "options": [
-        "ng",
-        "qu",
-        "kh",
-        "c"
-      ],
       "explanation": "Từ đúng là “ngoan ngoãn”, viết với phụ âm đầu “ng”.",
       "questionNumber": 142,
       "questionId": "k2_c1_dt_0032"
@@ -2946,12 +2754,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)ắng vàng”",
       "answer": "n",
       "explanation": "Từ đúng là “nắng vàng”, viết với phụ âm đầu “n”.",
-      "options": [
-        "c",
-        "g",
-        "n",
-        "k"
-      ],
       "blankAnswer": "n",
       "questionNumber": 145
     },
@@ -3036,12 +2838,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành tiếng thứ hai: “đá (...)óng”",
       "answer": "b",
       "blankAnswer": "b",
-      "options": [
-        "k",
-        "ng",
-        "c",
-        "b"
-      ],
       "explanation": "Cụm từ đúng là “đá bóng”.",
       "questionNumber": 149,
       "questionId": "k2_c1_dt_0034"
@@ -3054,12 +2850,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành tiếng thứ hai: “dòng (...)uối”",
       "answer": "s",
       "blankAnswer": "s",
-      "options": [
-        "ngh",
-        "d",
-        "s",
-        "p"
-      ],
       "explanation": "Cụm từ đúng là “dòng suối”.",
       "questionNumber": 150,
       "questionId": "k2_c1_dt_0035"
@@ -3092,12 +2882,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)á bóng”",
       "answer": "đ",
       "blankAnswer": "đ",
-      "options": [
-        "d",
-        "qu",
-        "s",
-        "đ"
-      ],
       "explanation": "Từ đúng là “đá bóng”, viết với phụ âm đầu “đ”.",
       "questionNumber": 152,
       "questionId": "k2_c1_dt_0036"
@@ -3147,12 +2931,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành tiếng thứ hai: “cơn (...)ưa”",
       "answer": "m",
       "blankAnswer": "m",
-      "options": [
-        "p",
-        "m",
-        "nh",
-        "th"
-      ],
       "explanation": "Cụm từ đúng là “cơn mưa”.",
       "questionNumber": 154,
       "questionId": "k2_c1_dt_0037"
@@ -3165,12 +2943,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành tiếng thứ hai: “cá (...)ép”",
       "answer": "ch",
       "blankAnswer": "ch",
-      "options": [
-        "qu",
-        "gh",
-        "t",
-        "ch"
-      ],
       "explanation": "Cụm từ đúng là “cá chép”.",
       "questionNumber": 155,
       "questionId": "k2_c1_dt_0038"
@@ -3219,12 +2991,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)ân chơi”",
       "answer": "s",
       "blankAnswer": "s",
-      "options": [
-        "n",
-        "s",
-        "ng",
-        "th"
-      ],
       "explanation": "Từ đúng là “sân chơi”, viết với phụ âm đầu “s”.",
       "questionNumber": 158,
       "questionId": "k2_c1_dt_0039"
@@ -3306,12 +3072,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)ống trường”",
       "answer": "tr",
       "explanation": "Từ đúng là “trống trường”, viết với phụ âm đầu “tr”.",
-      "options": [
-        "tr",
-        "x",
-        "ch",
-        "s"
-      ],
       "blankAnswer": "tr",
       "questionNumber": 162
     },
@@ -3397,12 +3157,6 @@
       "question": "Chọn phụ âm đầu đúng cho tiếng trong ngoặc: “(...)ạch đẹp”",
       "answer": "s",
       "blankAnswer": "s",
-      "options": [
-        "v",
-        "b",
-        "tr",
-        "s"
-      ],
       "explanation": "Từ đúng là “sạch đẹp”, viết với phụ âm đầu “s”.",
       "questionNumber": 167,
       "questionId": "k2_c1_dt_0041"
@@ -3452,12 +3206,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành tiếng thứ hai: “dễ (...)ương”",
       "answer": "th",
       "blankAnswer": "th",
-      "options": [
-        "h",
-        "th",
-        "g",
-        "ch"
-      ],
       "explanation": "Cụm từ đúng là “dễ thương”.",
       "questionNumber": 170,
       "questionId": "k2_c1_dt_0042"
@@ -3470,12 +3218,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành tiếng thứ hai: “thật (...)à”",
       "answer": "th",
       "blankAnswer": "th",
-      "options": [
-        "th",
-        "ph",
-        "d",
-        "r"
-      ],
       "explanation": "Cụm từ đúng là “thật thà”.",
       "questionNumber": 171,
       "questionId": "k2_c1_dt_0043"
@@ -3644,12 +3386,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành tiếng thứ hai: “rừng (...)ây”",
       "answer": "c",
       "blankAnswer": "c",
-      "options": [
-        "c",
-        "th",
-        "p",
-        "g"
-      ],
       "explanation": "Cụm từ đúng là “rừng cây”.",
       "questionNumber": 181,
       "questionId": "k2_c1_dt_0044"
@@ -3679,12 +3415,6 @@
       "question": "Chọn phụ âm đầu đúng cho tiếng trong ngoặc: “(...)on chó”",
       "answer": "c",
       "blankAnswer": "c",
-      "options": [
-        "tr",
-        "d",
-        "h",
-        "c"
-      ],
       "explanation": "Từ đúng là “con chó”, viết với phụ âm đầu “c”.",
       "questionNumber": 183,
       "questionId": "k2_c1_dt_0045"
@@ -3748,12 +3478,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành tiếng thứ hai: “gà (...)ống”",
       "answer": "tr",
       "blankAnswer": "tr",
-      "options": [
-        "b",
-        "r",
-        "tr",
-        "s"
-      ],
       "explanation": "Cụm từ đúng là “gà trống”.",
       "questionNumber": 187,
       "questionId": "k2_c1_dt_0046"
@@ -3767,12 +3491,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)e đạp”",
       "answer": "x",
       "explanation": "Từ đúng là “xe đạp”, viết với phụ âm đầu “x”.",
-      "options": [
-        "x",
-        "ch",
-        "tr",
-        "s"
-      ],
       "blankAnswer": "x",
       "questionNumber": 188
     },
@@ -4014,12 +3732,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành tiếng thứ hai: “hạt (...)ưa”",
       "answer": "m",
       "blankAnswer": "m",
-      "options": [
-        "h",
-        "m",
-        "tr",
-        "b"
-      ],
       "explanation": "Cụm từ đúng là “hạt mưa”.",
       "questionNumber": 201,
       "questionId": "k2_c1_dt_0048"
@@ -4287,12 +3999,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành tiếng thứ hai: “cây (...)uối”",
       "answer": "ch",
       "blankAnswer": "ch",
-      "options": [
-        "ch",
-        "ph",
-        "m",
-        "gi"
-      ],
       "explanation": "Cụm từ đúng là “cây chuối”.",
       "questionNumber": 215,
       "questionId": "k2_c1_dt_0049"
@@ -4421,12 +4127,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)ạn bè”",
       "answer": "b",
       "explanation": "Từ đúng là “bạn bè”, viết với phụ âm đầu “b”.",
-      "options": [
-        "b",
-        "k",
-        "g",
-        "c"
-      ],
       "blankAnswer": "b",
       "questionNumber": 221
     },
@@ -4455,12 +4155,6 @@
       "question": "Chọn phụ âm đầu đúng cho tiếng trong ngoặc: “(...)iếc khăn”",
       "answer": "ch",
       "blankAnswer": "ch",
-      "options": [
-        "ch",
-        "d",
-        "p",
-        "nh"
-      ],
       "explanation": "Từ đúng là “chiếc khăn”, viết với phụ âm đầu “ch”.",
       "questionNumber": 223,
       "questionId": "k2_c1_dt_0051"
@@ -4474,12 +4168,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)ái cây”",
       "answer": "tr",
       "explanation": "Từ đúng là “trái cây”, viết với phụ âm đầu “tr”.",
-      "options": [
-        "s",
-        "x",
-        "ch",
-        "tr"
-      ],
       "blankAnswer": "tr",
       "questionNumber": 224
     },
@@ -4509,12 +4197,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)ào rau”",
       "answer": "x",
       "explanation": "Từ đúng là “xào rau”, viết với phụ âm đầu “x”.",
-      "options": [
-        "tr",
-        "s",
-        "ch",
-        "x"
-      ],
       "blankAnswer": "x",
       "questionNumber": 226
     },
@@ -5112,12 +4794,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành tiếng thứ hai: “con (...)âu”",
       "answer": "tr",
       "blankAnswer": "tr",
-      "options": [
-        "tr",
-        "v",
-        "ng",
-        "n"
-      ],
       "explanation": "Cụm từ đúng là “con trâu”.",
       "questionNumber": 256,
       "questionId": "k2_c1_dt_0054"
@@ -5299,12 +4975,6 @@
       "question": "Chọn phụ âm đầu đúng cho tiếng trong ngoặc: “(...)ắng nghe”",
       "answer": "l",
       "blankAnswer": "l",
-      "options": [
-        "ph",
-        "gh",
-        "p",
-        "l"
-      ],
       "explanation": "Từ đúng là “lắng nghe”, viết với phụ âm đầu “l”.",
       "questionNumber": 265,
       "questionId": "k2_c1_dt_0055"
@@ -5385,12 +5055,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành tiếng thứ hai: “sữa (...)ươi”",
       "answer": "t",
       "blankAnswer": "t",
-      "options": [
-        "t",
-        "x",
-        "nh",
-        "s"
-      ],
       "explanation": "Cụm từ đúng là “sữa tươi”.",
       "questionNumber": 269,
       "questionId": "k2_c1_dt_0056"
@@ -5475,12 +5139,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)on kiến”",
       "answer": "c",
       "explanation": "Từ đúng là “con kiến”, viết với phụ âm đầu “c”.",
-      "options": [
-        "s",
-        "c",
-        "k",
-        "gh"
-      ],
       "blankAnswer": "c",
       "questionNumber": 273
     },
@@ -5550,12 +5208,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)ả bưởi”",
       "answer": "qu",
       "blankAnswer": "qu",
-      "options": [
-        "qu",
-        "v",
-        "s",
-        "l"
-      ],
       "explanation": "Từ đúng là “quả bưởi”, viết với phụ âm đầu “qu”.",
       "questionNumber": 276,
       "questionId": "k2_c1_dt_0058"
@@ -5603,12 +5255,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)ái trường”",
       "answer": "m",
       "blankAnswer": "m",
-      "options": [
-        "k",
-        "h",
-        "r",
-        "m"
-      ],
       "explanation": "Từ đúng là “mái trường”, viết với phụ âm đầu “m”.",
       "questionNumber": 279,
       "questionId": "k2_c1_dt_0059"
@@ -5621,12 +5267,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)ơm ngát”",
       "answer": "th",
       "blankAnswer": "th",
-      "options": [
-        "th",
-        "m",
-        "qu",
-        "l"
-      ],
       "explanation": "Từ đúng là “thơm ngát”, viết với phụ âm đầu “th”.",
       "questionNumber": 280,
       "questionId": "k2_c1_dt_0060"
@@ -5721,12 +5361,6 @@
       "question": "Chọn phụ âm đầu đúng cho tiếng trong ngoặc: “(...)ân trời”",
       "answer": "ch",
       "blankAnswer": "ch",
-      "options": [
-        "đ",
-        "ch",
-        "ngh",
-        "t"
-      ],
       "explanation": "Từ đúng là “chân trời”, viết với phụ âm đầu “ch”.",
       "questionNumber": 285,
       "questionId": "k2_c1_dt_0061"
@@ -5818,12 +5452,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành tiếng thứ hai: “ngoan (...)oãn”",
       "answer": "ng",
       "blankAnswer": "ng",
-      "options": [
-        "l",
-        "x",
-        "ch",
-        "ng"
-      ],
       "explanation": "Cụm từ đúng là “ngoan ngoãn”.",
       "questionNumber": 290,
       "questionId": "k2_c1_dt_0062"
@@ -5836,12 +5464,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành tiếng thứ hai: “học (...)inh”",
       "answer": "s",
       "blankAnswer": "s",
-      "options": [
-        "m",
-        "s",
-        "tr",
-        "d"
-      ],
       "explanation": "Cụm từ đúng là “học sinh”.",
       "questionNumber": 291,
       "questionId": "k2_c1_dt_0063"
@@ -5872,12 +5494,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)úc xích”",
       "answer": "x",
       "explanation": "Từ đúng là “xúc xích”, viết với phụ âm đầu “x”.",
-      "options": [
-        "ch",
-        "s",
-        "tr",
-        "x"
-      ],
       "blankAnswer": "x",
       "questionNumber": 293
     },
@@ -5944,12 +5560,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành tiếng thứ hai: “viết (...)ài”",
       "answer": "b",
       "blankAnswer": "b",
-      "options": [
-        "n",
-        "d",
-        "c",
-        "b"
-      ],
       "explanation": "Cụm từ đúng là “viết bài”.",
       "questionNumber": 296,
       "questionId": "k2_c1_dt_0065"
@@ -6122,12 +5732,6 @@
       "question": "Chọn phụ âm đầu đúng cho tiếng trong ngoặc: “(...)ầu vồng”",
       "answer": "c",
       "blankAnswer": "c",
-      "options": [
-        "m",
-        "gh",
-        "p",
-        "c"
-      ],
       "explanation": "Từ đúng là “cầu vồng”, viết với phụ âm đầu “c”.",
       "questionNumber": 304,
       "questionId": "k2_c1_dt_0066"
@@ -6225,12 +5829,6 @@
       "question": "Chọn phụ âm đầu đúng cho tiếng trong ngoặc: “(...)ễ thương”",
       "answer": "d",
       "blankAnswer": "d",
-      "options": [
-        "n",
-        "d",
-        "h",
-        "gh"
-      ],
       "explanation": "Từ đúng là “dễ thương”, viết với phụ âm đầu “d”.",
       "questionNumber": 309,
       "questionId": "k2_c1_dt_0067"
@@ -6261,12 +5859,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)on chó”",
       "answer": "c",
       "explanation": "Từ đúng là “con chó”, viết với phụ âm đầu “c”.",
-      "options": [
-        "gh",
-        "s",
-        "c",
-        "k"
-      ],
       "blankAnswer": "c",
       "questionNumber": 311
     },
@@ -6306,12 +5898,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành tiếng thứ hai: “ghi (...)ài”",
       "answer": "b",
       "blankAnswer": "b",
-      "options": [
-        "gi",
-        "h",
-        "k",
-        "b"
-      ],
       "explanation": "Cụm từ đúng là “ghi bài”.",
       "questionNumber": 313,
       "questionId": "k2_c1_dt_0069"
@@ -6324,12 +5910,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành tiếng thứ hai: “xanh (...)iếc”",
       "answer": "b",
       "blankAnswer": "b",
-      "options": [
-        "r",
-        "b",
-        "qu",
-        "t"
-      ],
       "explanation": "Cụm từ đúng là “xanh biếc”.",
       "questionNumber": 314,
       "questionId": "k2_c1_dt_0070"
@@ -6359,12 +5939,6 @@
       "question": "Chọn phụ âm đầu đúng cho tiếng trong ngoặc: “(...)ổ rá”",
       "answer": "r",
       "blankAnswer": "r",
-      "options": [
-        "qu",
-        "r",
-        "s",
-        "ph"
-      ],
       "explanation": "Từ đúng là “rổ rá”, viết với phụ âm đầu “r”.",
       "questionNumber": 316,
       "questionId": "k2_c1_dt_0071"
@@ -6378,12 +5952,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)ửa sổ”",
       "answer": "c",
       "explanation": "Từ đúng là “cửa sổ”, viết với phụ âm đầu “c”.",
-      "options": [
-        "c",
-        "gh",
-        "s",
-        "k"
-      ],
       "blankAnswer": "c",
       "questionNumber": 317
     },
@@ -6535,12 +6103,6 @@
       "question": "Chọn phụ âm đầu đúng cho tiếng trong ngoặc: “(...)ỉ hè”",
       "answer": "ngh",
       "blankAnswer": "ngh",
-      "options": [
-        "qu",
-        "ngh",
-        "r",
-        "nh"
-      ],
       "explanation": "Từ đúng là “nghỉ hè”, viết với phụ âm đầu “ngh”.",
       "questionNumber": 325,
       "questionId": "k2_c1_dt_0073"
@@ -6554,12 +6116,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)âu bò”",
       "answer": "tr",
       "explanation": "Từ đúng là “trâu bò”, viết với phụ âm đầu “tr”.",
-      "options": [
-        "tr",
-        "s",
-        "x",
-        "ch"
-      ],
       "blankAnswer": "tr",
       "questionNumber": 326
     },
@@ -6636,12 +6192,6 @@
       "question": "Chọn phụ âm đầu đúng cho tiếng trong ngoặc: “(...)ui vẻ”",
       "answer": "v",
       "blankAnswer": "v",
-      "options": [
-        "v",
-        "ng",
-        "t",
-        "p"
-      ],
       "explanation": "Từ đúng là “vui vẻ”, viết với phụ âm đầu “v”.",
       "questionNumber": 329,
       "questionId": "k2_c1_dt_0075"
@@ -6671,12 +6221,6 @@
       "question": "Chọn phụ âm đầu đúng cho tiếng trong ngoặc: “(...)ếng nước”",
       "answer": "gi",
       "blankAnswer": "gi",
-      "options": [
-        "l",
-        "p",
-        "gi",
-        "m"
-      ],
       "explanation": "Từ đúng là “giếng nước”, viết với phụ âm đầu “gi”.",
       "questionNumber": 331,
       "questionId": "k2_c1_dt_0076"
@@ -6689,12 +6233,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành tiếng thứ hai: “gia (...)ình”",
       "answer": "đ",
       "blankAnswer": "đ",
-      "options": [
-        "h",
-        "th",
-        "p",
-        "đ"
-      ],
       "explanation": "Cụm từ đúng là “gia đình”.",
       "questionNumber": 332,
       "questionId": "k2_c1_dt_0077"
@@ -6728,12 +6266,6 @@
       "question": "Chọn phụ âm đầu đúng cho tiếng trong ngoặc: “(...)on kiến”",
       "answer": "c",
       "blankAnswer": "c",
-      "options": [
-        "gh",
-        "b",
-        "c",
-        "g"
-      ],
       "explanation": "Từ đúng là “con kiến”, viết với phụ âm đầu “c”.",
       "questionNumber": 334,
       "questionId": "k2_c1_dt_0078"
@@ -6798,12 +6330,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)ánh cửa”",
       "answer": "c",
       "explanation": "Từ đúng là “cánh cửa”, viết với phụ âm đầu “c”.",
-      "options": [
-        "c",
-        "s",
-        "k",
-        "gh"
-      ],
       "blankAnswer": "c",
       "questionNumber": 338
     },
@@ -7007,12 +6533,6 @@
       "question": "Chọn phụ âm đầu đúng cho tiếng trong ngoặc: “(...)òng sông”",
       "answer": "d",
       "blankAnswer": "d",
-      "options": [
-        "gh",
-        "d",
-        "th",
-        "tr"
-      ],
       "explanation": "Từ đúng là “dòng sông”, viết với phụ âm đầu “d”.",
       "questionNumber": 349,
       "questionId": "k2_c1_dt_0080"
@@ -7199,12 +6719,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)e kể”",
       "answer": "ngh",
       "explanation": "Từ đúng là “nghe kể”, viết với phụ âm đầu “ngh”.",
-      "options": [
-        "s",
-        "ngh",
-        "gh",
-        "ng"
-      ],
       "blankAnswer": "ngh",
       "questionNumber": 360
     },
@@ -7347,12 +6861,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)ái bàn”",
       "answer": "c",
       "explanation": "Từ đúng là “cái bàn”, viết với phụ âm đầu “c”.",
-      "options": [
-        "gh",
-        "k",
-        "s",
-        "c"
-      ],
       "blankAnswer": "c",
       "questionNumber": 367
     },
@@ -7364,12 +6872,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)àn ghế”",
       "answer": "b",
       "blankAnswer": "b",
-      "options": [
-        "v",
-        "ch",
-        "qu",
-        "b"
-      ],
       "explanation": "Từ đúng là “bàn ghế”, viết với phụ âm đầu “b”.",
       "questionNumber": 368,
       "questionId": "k2_c1_dt_0083"
@@ -7399,12 +6901,6 @@
       "question": "Chọn phụ âm đầu đúng cho tiếng trong ngoặc: “(...)e đạp”",
       "answer": "x",
       "blankAnswer": "x",
-      "options": [
-        "qu",
-        "x",
-        "t",
-        "đ"
-      ],
       "explanation": "Từ đúng là “xe đạp”, viết với phụ âm đầu “x”.",
       "questionNumber": 370,
       "questionId": "k2_c1_dt_0084"
@@ -7577,12 +7073,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)ặp gỡ”",
       "answer": "g",
       "explanation": "Từ đúng là “gặp gỡ”, viết với phụ âm đầu “g”.",
-      "options": [
-        "k",
-        "g",
-        "gh",
-        "d"
-      ],
       "blankAnswer": "g",
       "questionNumber": 379
     },
@@ -7594,12 +7084,6 @@
       "question": "Chọn phụ âm đầu đúng cho tiếng trong ngoặc: “(...)ấn trắng”",
       "answer": "ph",
       "blankAnswer": "ph",
-      "options": [
-        "d",
-        "g",
-        "ph",
-        "qu"
-      ],
       "explanation": "Từ đúng là “phấn trắng”, viết với phụ âm đầu “ph”.",
       "questionNumber": 380,
       "questionId": "k2_c1_dt_0086"
@@ -7695,12 +7179,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành tiếng thứ hai: “vườn (...)au”",
       "answer": "r",
       "blankAnswer": "r",
-      "options": [
-        "tr",
-        "r",
-        "nh",
-        "d"
-      ],
       "explanation": "Cụm từ đúng là “vườn rau”.",
       "questionNumber": 385,
       "questionId": "k2_c1_dt_0087"
@@ -7730,12 +7208,6 @@
       "question": "Chọn phụ âm đầu đúng cho tiếng trong ngoặc: “(...)iết bài”",
       "answer": "v",
       "blankAnswer": "v",
-      "options": [
-        "nh",
-        "th",
-        "s",
-        "v"
-      ],
       "explanation": "Từ đúng là “viết bài”, viết với phụ âm đầu “v”.",
       "questionNumber": 387,
       "questionId": "k2_c1_dt_0088"
@@ -7916,12 +7388,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)á sách”",
       "answer": "gi",
       "explanation": "Từ đúng là “giá sách”, viết với phụ âm đầu “gi”.",
-      "options": [
-        "d",
-        "x",
-        "gi",
-        "r"
-      ],
       "blankAnswer": "gi",
       "questionNumber": 397
     },
@@ -8124,12 +7590,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành tiếng thứ hai: “trồng (...)au”",
       "answer": "r",
       "blankAnswer": "r",
-      "options": [
-        "ngh",
-        "c",
-        "r",
-        "s"
-      ],
       "explanation": "Cụm từ đúng là “trồng rau”.",
       "questionNumber": 408,
       "questionId": "k2_c1_dt_0090"
@@ -8197,12 +7657,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)ăng sáng”",
       "answer": "tr",
       "explanation": "Từ đúng là “trăng sáng”, viết với phụ âm đầu “tr”.",
-      "options": [
-        "ch",
-        "s",
-        "tr",
-        "x"
-      ],
       "blankAnswer": "tr",
       "questionNumber": 411
     },
@@ -8248,12 +7702,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành tiếng thứ hai: “ghim (...)ấy”",
       "answer": "gi",
       "blankAnswer": "gi",
-      "options": [
-        "gi",
-        "đ",
-        "qu",
-        "ph"
-      ],
       "explanation": "Cụm từ đúng là “ghim giấy”.",
       "questionNumber": 414,
       "questionId": "k2_c1_dt_0092"
@@ -8266,12 +7714,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)ảy dây”",
       "answer": "nh",
       "blankAnswer": "nh",
-      "options": [
-        "nh",
-        "b",
-        "t",
-        "s"
-      ],
       "explanation": "Từ đúng là “nhảy dây”, viết với phụ âm đầu “nh”.",
       "questionNumber": 415,
       "questionId": "k2_c1_dt_0093"
@@ -8439,12 +7881,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)ín quả”",
       "answer": "ch",
       "explanation": "Từ đúng là “chín quả”, viết với phụ âm đầu “ch”.",
-      "options": [
-        "x",
-        "s",
-        "ch",
-        "tr"
-      ],
       "blankAnswer": "ch",
       "questionNumber": 425
     },
@@ -8507,12 +7943,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành tiếng thứ hai: “chiếc (...)ước”",
       "answer": "th",
       "blankAnswer": "th",
-      "options": [
-        "gh",
-        "n",
-        "th",
-        "đ"
-      ],
       "explanation": "Cụm từ đúng là “chiếc thước”.",
       "questionNumber": 428,
       "questionId": "k2_c1_dt_0095"
@@ -8576,12 +8006,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành tiếng thứ hai: “chú (...)ỏ”",
       "answer": "th",
       "blankAnswer": "th",
-      "options": [
-        "t",
-        "gh",
-        "th",
-        "h"
-      ],
       "explanation": "Cụm từ đúng là “chú thỏ”.",
       "questionNumber": 432,
       "questionId": "k2_c1_dt_0096"
@@ -8681,12 +8105,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành tiếng thứ hai: “chăm (...)óc”",
       "answer": "s",
       "blankAnswer": "s",
-      "options": [
-        "x",
-        "nh",
-        "kh",
-        "s"
-      ],
       "explanation": "Cụm từ đúng là “chăm sóc”.",
       "questionNumber": 438,
       "questionId": "k2_c1_dt_0097"
@@ -8716,12 +8134,6 @@
       "question": "Chọn phụ âm đầu đúng cho tiếng trong ngoặc: “(...)ữ gìn”",
       "answer": "gi",
       "blankAnswer": "gi",
-      "options": [
-        "ng",
-        "h",
-        "gi",
-        "m"
-      ],
       "explanation": "Từ đúng là “giữ gìn”, viết với phụ âm đầu “gi”.",
       "questionNumber": 440,
       "questionId": "k2_c1_dt_0098"
@@ -8786,12 +8198,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)àng quê”",
       "answer": "l",
       "explanation": "Từ đúng là “làng quê”, viết với phụ âm đầu “l”.",
-      "options": [
-        "g",
-        "k",
-        "c",
-        "l"
-      ],
       "blankAnswer": "l",
       "questionNumber": 444
     },
@@ -8821,12 +8227,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)é thăm”",
       "answer": "gh",
       "explanation": "Từ đúng là “ghé thăm”, viết với phụ âm đầu “gh”.",
-      "options": [
-        "k",
-        "tr",
-        "gh",
-        "g"
-      ],
       "blankAnswer": "gh",
       "questionNumber": 446
     },
@@ -9009,12 +8409,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành tiếng thứ hai: “mát (...)ẻ”",
       "answer": "m",
       "blankAnswer": "m",
-      "options": [
-        "x",
-        "m",
-        "g",
-        "ngh"
-      ],
       "explanation": "Cụm từ đúng là “mát mẻ”.",
       "questionNumber": 457,
       "questionId": "k2_c1_dt_0101"
@@ -9241,12 +8635,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành tiếng thứ hai: “kính (...)ắt”",
       "answer": "m",
       "blankAnswer": "m",
-      "options": [
-        "m",
-        "b",
-        "ch",
-        "gh"
-      ],
       "explanation": "Cụm từ đúng là “kính mắt”.",
       "questionNumber": 467,
       "questionId": "k2_c1_dt_0102"
@@ -9351,12 +8739,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành tiếng thứ hai: “con (...)ịt”",
       "answer": "v",
       "blankAnswer": "v",
-      "options": [
-        "s",
-        "k",
-        "v",
-        "đ"
-      ],
       "explanation": "Cụm từ đúng là “con vịt”.",
       "questionNumber": 473,
       "questionId": "k2_c1_dt_0103"
@@ -9777,12 +9159,6 @@
       "question": "Chọn phụ âm đầu đúng cho tiếng trong ngoặc: “(...)út chì”",
       "answer": "b",
       "blankAnswer": "b",
-      "options": [
-        "ph",
-        "c",
-        "b",
-        "tr"
-      ],
       "explanation": "Từ đúng là “bút chì”, viết với phụ âm đầu “b”.",
       "questionNumber": 492,
       "questionId": "k2_c1_dt_0104"
@@ -9840,12 +9216,6 @@
       "question": "Chọn phụ âm đầu đúng cho tiếng trong ngoặc: “(...)ọc sinh”",
       "answer": "h",
       "blankAnswer": "h",
-      "options": [
-        "h",
-        "m",
-        "k",
-        "d"
-      ],
       "explanation": "Từ đúng là “học sinh”, viết với phụ âm đầu “h”.",
       "questionNumber": 495,
       "questionId": "k2_c1_dt_0105"
@@ -9858,12 +9228,6 @@
       "question": "Chọn phụ âm đầu đúng cho tiếng trong ngoặc: “(...)ét nhà”",
       "answer": "qu",
       "blankAnswer": "qu",
-      "options": [
-        "x",
-        "b",
-        "ng",
-        "qu"
-      ],
       "explanation": "Từ đúng là “quét nhà”, viết với phụ âm đầu “qu”.",
       "questionNumber": 496,
       "questionId": "k2_c1_dt_0106"
@@ -10036,12 +9400,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành tiếng thứ hai: “con (...)ỏ”",
       "answer": "th",
       "blankAnswer": "th",
-      "options": [
-        "b",
-        "th",
-        "x",
-        "đ"
-      ],
       "explanation": "Cụm từ đúng là “con thỏ”.",
       "questionNumber": 506,
       "questionId": "k2_c1_dt_0107"
@@ -10082,12 +9440,6 @@
       "question": "Chọn phụ âm đầu đúng cho tiếng trong ngoặc: “(...)ườn rau”",
       "answer": "v",
       "blankAnswer": "v",
-      "options": [
-        "v",
-        "ngh",
-        "ng",
-        "m"
-      ],
       "explanation": "Từ đúng là “vườn rau”, viết với phụ âm đầu “v”.",
       "questionNumber": 508,
       "questionId": "k2_c1_dt_0108"
@@ -10138,12 +9490,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)ô giáo”",
       "answer": "c",
       "explanation": "Từ đúng là “cô giáo”, viết với phụ âm đầu “c”.",
-      "options": [
-        "s",
-        "gh",
-        "c",
-        "k"
-      ],
       "blankAnswer": "c",
       "questionNumber": 510
     },
@@ -10172,12 +9518,6 @@
       "question": "Chọn phụ âm đầu đúng cho tiếng trong ngoặc: “(...)ả xoài”",
       "answer": "qu",
       "blankAnswer": "qu",
-      "options": [
-        "k",
-        "d",
-        "ch",
-        "qu"
-      ],
       "explanation": "Từ đúng là “quả xoài”, viết với phụ âm đầu “qu”.",
       "questionNumber": 512,
       "questionId": "k2_c1_dt_0110"
@@ -10313,12 +9653,6 @@
       "question": "Chọn phụ âm đầu đúng cho tiếng trong ngoặc: “(...)ọn núi”",
       "answer": "ng",
       "blankAnswer": "ng",
-      "options": [
-        "nh",
-        "n",
-        "gi",
-        "ng"
-      ],
       "explanation": "Từ đúng là “ngọn núi”, viết với phụ âm đầu “ng”.",
       "questionNumber": 519,
       "questionId": "k2_c1_dt_0111"
@@ -10331,12 +9665,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)ăm ngoan”",
       "answer": "ch",
       "blankAnswer": "ch",
-      "options": [
-        "ch",
-        "nh",
-        "k",
-        "d"
-      ],
       "explanation": "Từ đúng là “chăm ngoan”, viết với phụ âm đầu “ch”.",
       "questionNumber": 520,
       "questionId": "k2_c1_dt_0112"
@@ -10349,12 +9677,6 @@
       "question": "Chọn phụ âm đầu đúng cho tiếng trong ngoặc: “(...)ép hình”",
       "answer": "gh",
       "blankAnswer": "gh",
-      "options": [
-        "kh",
-        "v",
-        "gh",
-        "x"
-      ],
       "explanation": "Từ đúng là “ghép hình”, viết với phụ âm đầu “gh”.",
       "questionNumber": 521,
       "questionId": "k2_c1_dt_0113"
@@ -10384,12 +9706,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)ồng rau”",
       "answer": "tr",
       "blankAnswer": "tr",
-      "options": [
-        "h",
-        "ng",
-        "kh",
-        "tr"
-      ],
       "explanation": "Từ đúng là “trồng rau”, viết với phụ âm đầu “tr”.",
       "questionNumber": 523,
       "questionId": "k2_c1_dt_0114"
@@ -10402,12 +9718,6 @@
       "question": "Chọn phụ âm đầu đúng cho tiếng trong ngoặc: “(...)ạn bè”",
       "answer": "b",
       "blankAnswer": "b",
-      "options": [
-        "nh",
-        "b",
-        "d",
-        "th"
-      ],
       "explanation": "Từ đúng là “bạn bè”, viết với phụ âm đầu “b”.",
       "questionNumber": 524,
       "questionId": "k2_c1_dt_0115"
@@ -10420,12 +9730,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành tiếng thứ hai: “ghế (...)ỗ”",
       "answer": "g",
       "blankAnswer": "g",
-      "options": [
-        "h",
-        "p",
-        "b",
-        "g"
-      ],
       "explanation": "Cụm từ đúng là “ghế gỗ”.",
       "questionNumber": 525,
       "questionId": "k2_c1_dt_0116"
@@ -10455,12 +9759,6 @@
       "question": "Chọn phụ âm đầu đúng cho tiếng trong ngoặc: “(...)ặt trăng”",
       "answer": "m",
       "blankAnswer": "m",
-      "options": [
-        "t",
-        "ng",
-        "kh",
-        "m"
-      ],
       "explanation": "Từ đúng là “mặt trăng”, viết với phụ âm đầu “m”.",
       "questionNumber": 527,
       "questionId": "k2_c1_dt_0117"
@@ -10536,12 +9834,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành tiếng thứ hai: “nghỉ (...)è”",
       "answer": "h",
       "blankAnswer": "h",
-      "options": [
-        "h",
-        "l",
-        "ng",
-        "nh"
-      ],
       "explanation": "Cụm từ đúng là “nghỉ hè”.",
       "questionNumber": 531,
       "questionId": "k2_c1_dt_0118"
@@ -10554,12 +9846,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)ây chuối”",
       "answer": "c",
       "blankAnswer": "c",
-      "options": [
-        "n",
-        "c",
-        "d",
-        "k"
-      ],
       "explanation": "Từ đúng là “cây chuối”, viết với phụ âm đầu “c”.",
       "questionNumber": 532,
       "questionId": "k2_c1_dt_0119"
@@ -10572,12 +9858,6 @@
       "question": "Chọn phụ âm đầu đúng cho tiếng trong ngoặc: “(...)ính mắt”",
       "answer": "k",
       "blankAnswer": "k",
-      "options": [
-        "l",
-        "ngh",
-        "gi",
-        "k"
-      ],
       "explanation": "Từ đúng là “kính mắt”, viết với phụ âm đầu “k”.",
       "questionNumber": 533,
       "questionId": "k2_c1_dt_0120"
@@ -10624,12 +9904,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành tiếng thứ hai: “bông (...)oa”",
       "answer": "h",
       "blankAnswer": "h",
-      "options": [
-        "h",
-        "g",
-        "d",
-        "gh"
-      ],
       "explanation": "Cụm từ đúng là “bông hoa”.",
       "questionNumber": 536,
       "questionId": "k2_c1_dt_0121"
@@ -10750,12 +10024,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành tiếng thứ hai: “vui (...)ẻ”",
       "answer": "v",
       "blankAnswer": "v",
-      "options": [
-        "l",
-        "t",
-        "ngh",
-        "v"
-      ],
       "explanation": "Cụm từ đúng là “vui vẻ”.",
       "questionNumber": 541,
       "questionId": "k2_c1_dt_0122"
@@ -11019,12 +10287,6 @@
       "question": "Chọn phụ âm đầu đúng cho tiếng trong ngoặc: “(...)ân chơi”",
       "answer": "s",
       "blankAnswer": "s",
-      "options": [
-        "th",
-        "n",
-        "ng",
-        "s"
-      ],
       "explanation": "Từ đúng là “sân chơi”, viết với phụ âm đầu “s”.",
       "questionNumber": 554,
       "questionId": "k2_c1_dt_0123"
@@ -11037,12 +10299,6 @@
       "question": "Chọn phụ âm đầu đúng cho tiếng trong ngoặc: “(...)uồn bã”",
       "answer": "b",
       "blankAnswer": "b",
-      "options": [
-        "p",
-        "b",
-        "ngh",
-        "qu"
-      ],
       "explanation": "Từ đúng là “buồn bã”, viết với phụ âm đầu “b”.",
       "questionNumber": 555,
       "questionId": "k2_c1_dt_0124"
@@ -11181,12 +10437,6 @@
       "question": "Chọn phụ âm đầu đúng cho tiếng trong ngoặc: “(...)át múa”",
       "answer": "h",
       "blankAnswer": "h",
-      "options": [
-        "x",
-        "h",
-        "r",
-        "qu"
-      ],
       "explanation": "Từ đúng là “hát múa”, viết với phụ âm đầu “h”.",
       "questionNumber": 562,
       "questionId": "k2_c1_dt_0125"
@@ -11199,12 +10449,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành tiếng thứ hai: “gặp (...)ỡ”",
       "answer": "g",
       "blankAnswer": "g",
-      "options": [
-        "g",
-        "ph",
-        "n",
-        "kh"
-      ],
       "explanation": "Cụm từ đúng là “gặp gỡ”.",
       "questionNumber": 563,
       "questionId": "k2_c1_dt_0126"
@@ -11305,12 +10549,6 @@
       "question": "Chọn phụ âm đầu đúng cho tiếng trong ngoặc: “(...)ầy giáo”",
       "answer": "th",
       "blankAnswer": "th",
-      "options": [
-        "th",
-        "l",
-        "m",
-        "g"
-      ],
       "explanation": "Từ đúng là “thầy giáo”, viết với phụ âm đầu “th”.",
       "questionNumber": 568,
       "questionId": "k2_c1_dt_0127"
@@ -11446,12 +10684,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)ày mới”",
       "answer": "ng",
       "explanation": "Từ đúng là “ngày mới”, viết với phụ âm đầu “ng”.",
-      "options": [
-        "ng",
-        "x",
-        "ch",
-        "ngh"
-      ],
       "blankAnswer": "ng",
       "questionNumber": 574
     },
@@ -11515,12 +10747,6 @@
       "question": "Chọn phụ âm đầu đúng cho tiếng trong ngoặc: “(...)ăm ngoan”",
       "answer": "ch",
       "blankAnswer": "ch",
-      "options": [
-        "ch",
-        "nh",
-        "k",
-        "d"
-      ],
       "explanation": "Từ đúng là “chăm ngoan”, viết với phụ âm đầu “ch”.",
       "questionNumber": 578,
       "questionId": "k2_c1_dt_0129"
@@ -11685,12 +10911,6 @@
       "question": "Chọn phụ âm đầu đúng cho tiếng trong ngoặc: “(...)é thăm”",
       "answer": "gh",
       "blankAnswer": "gh",
-      "options": [
-        "gh",
-        "gi",
-        "ng",
-        "ph"
-      ],
       "explanation": "Từ đúng là “ghé thăm”, viết với phụ âm đầu “gh”.",
       "questionNumber": 587,
       "questionId": "k2_c1_dt_0130"
@@ -11704,12 +10924,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)ỉ niệm”",
       "answer": "k",
       "explanation": "Từ đúng là “kỉ niệm”, viết với phụ âm đầu “k”.",
-      "options": [
-        "c",
-        "k",
-        "gh",
-        "x"
-      ],
       "blankAnswer": "k",
       "questionNumber": 588
     },
@@ -11808,12 +11022,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành tiếng thứ hai: “hộp (...)út”",
       "answer": "b",
       "blankAnswer": "b",
-      "options": [
-        "v",
-        "qu",
-        "d",
-        "b"
-      ],
       "explanation": "Cụm từ đúng là “hộp bút”.",
       "questionNumber": 594,
       "questionId": "k2_c1_dt_0132"
@@ -11826,12 +11034,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)oa hồng”",
       "answer": "h",
       "blankAnswer": "h",
-      "options": [
-        "đ",
-        "l",
-        "v",
-        "h"
-      ],
       "explanation": "Từ đúng là “hoa hồng”, viết với phụ âm đầu “h”.",
       "questionNumber": 595,
       "questionId": "k2_c1_dt_0133"
@@ -11861,12 +11063,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)ánh đồng”",
       "answer": "c",
       "blankAnswer": "c",
-      "options": [
-        "ng",
-        "s",
-        "ph",
-        "c"
-      ],
       "explanation": "Từ đúng là “cánh đồng”, viết với phụ âm đầu “c”.",
       "questionNumber": 597,
       "questionId": "k2_c1_dt_0134"
@@ -11879,12 +11075,6 @@
       "question": "Chọn phụ âm đầu đúng cho tiếng trong ngoặc: “(...)ây bàng”",
       "answer": "c",
       "blankAnswer": "c",
-      "options": [
-        "p",
-        "ngh",
-        "s",
-        "c"
-      ],
       "explanation": "Từ đúng là “cây bàng”, viết với phụ âm đầu “c”.",
       "questionNumber": 598,
       "questionId": "k2_c1_dt_0135"
@@ -11976,12 +11166,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)úp đỡ”",
       "answer": "gi",
       "blankAnswer": "gi",
-      "options": [
-        "k",
-        "ng",
-        "m",
-        "gi"
-      ],
       "explanation": "Từ đúng là “giúp đỡ”, viết với phụ âm đầu “gi”.",
       "questionNumber": 603,
       "questionId": "k2_c1_dt_0136"
@@ -12172,12 +11356,6 @@
       "question": "Chọn phụ âm đầu đúng cho tiếng trong ngoặc: “(...)inh xắn”",
       "answer": "x",
       "blankAnswer": "x",
-      "options": [
-        "đ",
-        "ngh",
-        "x",
-        "t"
-      ],
       "explanation": "Từ đúng là “xinh xắn”, viết với phụ âm đầu “x”.",
       "questionNumber": 613,
       "questionId": "k2_c1_dt_0137"
@@ -12326,12 +11504,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)âu vá”",
       "answer": "kh",
       "blankAnswer": "kh",
-      "options": [
-        "ng",
-        "c",
-        "h",
-        "kh"
-      ],
       "explanation": "Từ đúng là “khâu vá”, viết với phụ âm đầu “kh”.",
       "questionNumber": 622,
       "questionId": "k2_c1_dt_0138"
@@ -12361,12 +11533,6 @@
       "question": "Chọn phụ âm đầu đúng cho tiếng trong ngoặc: “(...)ao đêm”",
       "answer": "s",
       "blankAnswer": "s",
-      "options": [
-        "s",
-        "đ",
-        "ph",
-        "qu"
-      ],
       "explanation": "Từ đúng là “sao đêm”, viết với phụ âm đầu “s”.",
       "questionNumber": 624,
       "questionId": "k2_c1_dt_0139"
@@ -12413,12 +11579,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành tiếng thứ hai: “bút (...)ì”",
       "answer": "ch",
       "blankAnswer": "ch",
-      "options": [
-        "th",
-        "kh",
-        "ch",
-        "gi"
-      ],
       "explanation": "Cụm từ đúng là “bút chì”.",
       "questionNumber": 627,
       "questionId": "k2_c1_dt_0140"
@@ -12432,12 +11592,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)e xanh”",
       "answer": "tr",
       "explanation": "Từ đúng là “tre xanh”, viết với phụ âm đầu “tr”.",
-      "options": [
-        "ch",
-        "s",
-        "x",
-        "tr"
-      ],
       "blankAnswer": "tr",
       "questionNumber": 628
     },
@@ -12535,12 +11689,6 @@
       "question": "Chọn phụ âm đầu đúng cho tiếng trong ngoặc: “(...)yển vở”",
       "answer": "qu",
       "blankAnswer": "qu",
-      "options": [
-        "tr",
-        "p",
-        "m",
-        "qu"
-      ],
       "explanation": "Từ đúng là “quyển vở”, viết với phụ âm đầu “qu”.",
       "questionNumber": 633,
       "questionId": "k2_c1_dt_0142"
@@ -12609,12 +11757,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)ực rỡ”",
       "answer": "r",
       "explanation": "Từ đúng là “rực rỡ”, viết với phụ âm đầu “r”.",
-      "options": [
-        "d",
-        "tr",
-        "gi",
-        "r"
-      ],
       "blankAnswer": "r",
       "questionNumber": 637
     },
@@ -12626,12 +11768,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành tiếng thứ hai: “sâu (...)ọ”",
       "answer": "b",
       "blankAnswer": "b",
-      "options": [
-        "b",
-        "m",
-        "gi",
-        "tr"
-      ],
       "explanation": "Cụm từ đúng là “sâu bọ”.",
       "questionNumber": 638,
       "questionId": "k2_c1_dt_0144"
@@ -12729,12 +11865,6 @@
       "question": "Chọn phụ âm đầu đúng cho tiếng trong ngoặc: “(...)ây cau”",
       "answer": "c",
       "blankAnswer": "c",
-      "options": [
-        "b",
-        "c",
-        "đ",
-        "d"
-      ],
       "explanation": "Từ đúng là “cây cau”, viết với phụ âm đầu “c”.",
       "questionNumber": 644,
       "questionId": "k2_c1_dt_0145"
@@ -12747,12 +11877,6 @@
       "question": "Chọn phụ âm đầu đúng cho tiếng trong ngoặc: “(...)im giấy”",
       "answer": "gh",
       "blankAnswer": "gh",
-      "options": [
-        "h",
-        "th",
-        "v",
-        "gh"
-      ],
       "explanation": "Từ đúng là “ghim giấy”, viết với phụ âm đầu “gh”.",
       "questionNumber": 645,
       "questionId": "k2_c1_dt_0146"
@@ -12879,12 +12003,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)u vườn”",
       "answer": "kh",
       "explanation": "Từ đúng là “khu vườn”, viết với phụ âm đầu “kh”.",
-      "options": [
-        "c",
-        "kh",
-        "k",
-        "g"
-      ],
       "blankAnswer": "kh",
       "questionNumber": 651
     },
@@ -12897,12 +12015,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)au xanh”",
       "answer": "r",
       "explanation": "Từ đúng là “rau xanh”, viết với phụ âm đầu “r”.",
-      "options": [
-        "tr",
-        "r",
-        "d",
-        "gi"
-      ],
       "blankAnswer": "r",
       "questionNumber": 652
     },
@@ -12915,12 +12027,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)ớp học”",
       "answer": "l",
       "explanation": "Từ đúng là “lớp học”, viết với phụ âm đầu “l”.",
-      "options": [
-        "l",
-        "g",
-        "k",
-        "c"
-      ],
       "blankAnswer": "l",
       "questionNumber": 653
     },
@@ -12983,12 +12089,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành tiếng thứ hai: “khâu (...)á”",
       "answer": "v",
       "blankAnswer": "v",
-      "options": [
-        "l",
-        "h",
-        "c",
-        "v"
-      ],
       "explanation": "Cụm từ đúng là “khâu vá”.",
       "questionNumber": 657,
       "questionId": "k2_c1_dt_0150"
@@ -13092,12 +12192,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)ừng cây”",
       "answer": "r",
       "explanation": "Từ đúng là “rừng cây”, viết với phụ âm đầu “r”.",
-      "options": [
-        "tr",
-        "gi",
-        "d",
-        "r"
-      ],
       "blankAnswer": "r",
       "questionNumber": 663
     },
@@ -13173,12 +12267,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành tiếng thứ hai: “rau (...)anh”",
       "answer": "x",
       "blankAnswer": "x",
-      "options": [
-        "c",
-        "k",
-        "x",
-        "m"
-      ],
       "explanation": "Cụm từ đúng là “rau xanh”.",
       "questionNumber": 667,
       "questionId": "k2_c1_dt_0152"
@@ -13209,12 +12297,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)im giấy”",
       "answer": "gh",
       "explanation": "Từ đúng là “ghim giấy”, viết với phụ âm đầu “gh”.",
-      "options": [
-        "tr",
-        "g",
-        "gh",
-        "k"
-      ],
       "blankAnswer": "gh",
       "questionNumber": 669
     },
@@ -13226,12 +12308,6 @@
       "question": "Chọn phụ âm đầu đúng cho tiếng trong ngoặc: “(...)ò chơi”",
       "answer": "tr",
       "blankAnswer": "tr",
-      "options": [
-        "đ",
-        "ngh",
-        "tr",
-        "r"
-      ],
       "explanation": "Từ đúng là “trò chơi”, viết với phụ âm đầu “tr”.",
       "questionNumber": 670,
       "questionId": "k2_c1_dt_0154"
@@ -13244,12 +12320,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)ò chơi”",
       "answer": "tr",
       "blankAnswer": "tr",
-      "options": [
-        "đ",
-        "tr",
-        "r",
-        "ngh"
-      ],
       "explanation": "Từ đúng là “trò chơi”, viết với phụ âm đầu “tr”.",
       "questionNumber": 671,
       "questionId": "k2_c1_dt_0155"
@@ -13602,12 +12672,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành tiếng thứ hai: “xinh (...)ắn”",
       "answer": "x",
       "blankAnswer": "x",
-      "options": [
-        "x",
-        "v",
-        "k",
-        "g"
-      ],
       "explanation": "Cụm từ đúng là “xinh xắn”.",
       "questionNumber": 690,
       "questionId": "k2_c1_dt_0156"
@@ -13759,12 +12823,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)uồn bã”",
       "answer": "b",
       "blankAnswer": "b",
-      "options": [
-        "b",
-        "ngh",
-        "qu",
-        "p"
-      ],
       "explanation": "Từ đúng là “buồn bã”, viết với phụ âm đầu “b”.",
       "questionNumber": 698,
       "questionId": "k2_c1_dt_0157"
@@ -13831,12 +12889,6 @@
       "question": "Chọn phụ âm đầu đúng cho tiếng trong ngoặc: “(...)á bóng”",
       "answer": "đ",
       "blankAnswer": "đ",
-      "options": [
-        "qu",
-        "d",
-        "s",
-        "đ"
-      ],
       "explanation": "Từ đúng là “đá bóng”, viết với phụ âm đầu “đ”.",
       "questionNumber": 702,
       "questionId": "k2_c1_dt_0158"
@@ -13866,12 +12918,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)ặt trời”",
       "answer": "m",
       "blankAnswer": "m",
-      "options": [
-        "m",
-        "nh",
-        "tr",
-        "th"
-      ],
       "explanation": "Từ đúng là “mặt trời”, viết với phụ âm đầu “m”.",
       "questionNumber": 704,
       "questionId": "k2_c1_dt_0159"
@@ -13912,12 +12958,6 @@
       "question": "Chọn phụ âm đầu đúng cho tiếng trong ngoặc: “(...)on trâu”",
       "answer": "c",
       "blankAnswer": "c",
-      "options": [
-        "b",
-        "c",
-        "v",
-        "h"
-      ],
       "explanation": "Từ đúng là “con trâu”, viết với phụ âm đầu “c”.",
       "questionNumber": 706,
       "questionId": "k2_c1_dt_0160"
@@ -14009,12 +13049,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành tiếng thứ hai: “buồn (...)ã”",
       "answer": "b",
       "blankAnswer": "b",
-      "options": [
-        "v",
-        "b",
-        "l",
-        "m"
-      ],
       "explanation": "Cụm từ đúng là “buồn bã”.",
       "questionNumber": 711,
       "questionId": "k2_c1_dt_0161"
@@ -14027,12 +13061,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành tiếng thứ hai: “phấn (...)ắng”",
       "answer": "tr",
       "blankAnswer": "tr",
-      "options": [
-        "tr",
-        "gh",
-        "ph",
-        "gi"
-      ],
       "explanation": "Cụm từ đúng là “phấn trắng”.",
       "questionNumber": 712,
       "questionId": "k2_c1_dt_0162"
@@ -14045,12 +13073,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành tiếng thứ hai: “quả (...)oài”",
       "answer": "x",
       "blankAnswer": "x",
-      "options": [
-        "ph",
-        "x",
-        "ng",
-        "ch"
-      ],
       "explanation": "Cụm từ đúng là “quả xoài”.",
       "questionNumber": 713,
       "questionId": "k2_c1_dt_0163"
@@ -14135,12 +13157,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)ủ cải”",
       "answer": "c",
       "explanation": "Từ đúng là “củ cải”, viết với phụ âm đầu “c”.",
-      "options": [
-        "k",
-        "s",
-        "gh",
-        "c"
-      ],
       "blankAnswer": "c",
       "questionNumber": 717
     },
@@ -14328,12 +13344,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành tiếng thứ hai: “gió (...)át”",
       "answer": "m",
       "blankAnswer": "m",
-      "options": [
-        "p",
-        "m",
-        "s",
-        "th"
-      ],
       "explanation": "Cụm từ đúng là “gió mát”.",
       "questionNumber": 727,
       "questionId": "k2_c1_dt_0165"
@@ -14432,12 +13442,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành tiếng thứ hai: “con (...)èo”",
       "answer": "m",
       "blankAnswer": "m",
-      "options": [
-        "m",
-        "gi",
-        "c",
-        "r"
-      ],
       "explanation": "Cụm từ đúng là “con mèo”.",
       "questionNumber": 733,
       "questionId": "k2_c1_dt_0166"
@@ -14579,12 +13583,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)ầu trời”",
       "answer": "b",
       "explanation": "Từ đúng là “bầu trời”, viết với phụ âm đầu “b”.",
-      "options": [
-        "c",
-        "g",
-        "b",
-        "k"
-      ],
       "blankAnswer": "b",
       "questionNumber": 738
     },
@@ -14634,12 +13632,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)ạch sẽ”",
       "answer": "s",
       "explanation": "Từ đúng là “sạch sẽ”, viết với phụ âm đầu “s”.",
-      "options": [
-        "ch",
-        "s",
-        "x",
-        "tr"
-      ],
       "blankAnswer": "s",
       "questionNumber": 740
     },
@@ -14651,12 +13643,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)á xanh”",
       "answer": "l",
       "blankAnswer": "l",
-      "options": [
-        "k",
-        "đ",
-        "qu",
-        "l"
-      ],
       "explanation": "Từ đúng là “lá xanh”, viết với phụ âm đầu “l”.",
       "questionNumber": 741,
       "questionId": "k2_c1_dt_0169"
@@ -14754,12 +13740,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành tiếng thứ hai: “rửa (...)át”",
       "answer": "b",
       "blankAnswer": "b",
-      "options": [
-        "b",
-        "d",
-        "ch",
-        "h"
-      ],
       "explanation": "Cụm từ đúng là “rửa bát”.",
       "questionNumber": 747,
       "questionId": "k2_c1_dt_0170"
@@ -14841,12 +13821,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)ăm hỏi”",
       "answer": "th",
       "explanation": "Từ đúng là “thăm hỏi”, viết với phụ âm đầu “th”.",
-      "options": [
-        "c",
-        "g",
-        "k",
-        "th"
-      ],
       "blankAnswer": "th",
       "questionNumber": 751
     },
@@ -14971,12 +13945,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành tiếng thứ hai: “ngôi (...)à”",
       "answer": "nh",
       "blankAnswer": "nh",
-      "options": [
-        "nh",
-        "th",
-        "m",
-        "g"
-      ],
       "explanation": "Cụm từ đúng là “ngôi nhà”.",
       "questionNumber": 758,
       "questionId": "k2_c1_dt_0172"
@@ -15007,12 +13975,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)ả cam”",
       "answer": "qu",
       "explanation": "Từ đúng là “quả cam”, viết với phụ âm đầu “qu”.",
-      "options": [
-        "k",
-        "c",
-        "g",
-        "qu"
-      ],
       "blankAnswer": "qu",
       "questionNumber": 760
     },
@@ -15025,12 +13987,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)é con”",
       "answer": "ngh",
       "explanation": "Từ đúng là “nghé con”, viết với phụ âm đầu “ngh”.",
-      "options": [
-        "ngh",
-        "gh",
-        "s",
-        "ng"
-      ],
       "blankAnswer": "ngh",
       "questionNumber": 761
     },
@@ -15042,12 +13998,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành tiếng thứ hai: “sao (...)êm”",
       "answer": "đ",
       "blankAnswer": "đ",
-      "options": [
-        "n",
-        "k",
-        "qu",
-        "đ"
-      ],
       "explanation": "Cụm từ đúng là “sao đêm”.",
       "questionNumber": 762,
       "questionId": "k2_c1_dt_0175"
@@ -15061,12 +14011,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)àn học”",
       "answer": "b",
       "explanation": "Từ đúng là “bàn học”, viết với phụ âm đầu “b”.",
-      "options": [
-        "c",
-        "b",
-        "g",
-        "k"
-      ],
       "blankAnswer": "b",
       "questionNumber": 763
     },
@@ -15141,12 +14085,6 @@
       "question": "Chọn phụ âm đầu đúng cho tiếng trong ngoặc: “(...)á vàng”",
       "answer": "c",
       "blankAnswer": "c",
-      "options": [
-        "h",
-        "c",
-        "r",
-        "nh"
-      ],
       "explanation": "Từ đúng là “cá vàng”, viết với phụ âm đầu “c”.",
       "questionNumber": 767,
       "questionId": "k2_c1_dt_0177"
@@ -15160,12 +14098,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)ấm chớp”",
       "answer": "s",
       "explanation": "Từ đúng là “sấm chớp”, viết với phụ âm đầu “s”.",
-      "options": [
-        "x",
-        "tr",
-        "ch",
-        "s"
-      ],
       "blankAnswer": "s",
       "questionNumber": 768
     },
@@ -15234,12 +14166,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành tiếng thứ hai: “hoa (...)ồng”",
       "answer": "h",
       "blankAnswer": "h",
-      "options": [
-        "m",
-        "h",
-        "l",
-        "b"
-      ],
       "explanation": "Cụm từ đúng là “hoa hồng”.",
       "questionNumber": 772,
       "questionId": "k2_c1_dt_0179"
@@ -15445,12 +14371,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)ây cau”",
       "answer": "c",
       "explanation": "Từ đúng là “cây cau”, viết với phụ âm đầu “c”.",
-      "options": [
-        "gh",
-        "s",
-        "c",
-        "k"
-      ],
       "blankAnswer": "c",
       "questionNumber": 783
     },
@@ -15513,12 +14433,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành tiếng thứ hai: “mái (...)ường”",
       "answer": "tr",
       "blankAnswer": "tr",
-      "options": [
-        "kh",
-        "c",
-        "t",
-        "tr"
-      ],
       "explanation": "Cụm từ đúng là “mái trường”.",
       "questionNumber": 787,
       "questionId": "k2_c1_dt_0181"
@@ -15618,12 +14532,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)át múa”",
       "answer": "h",
       "blankAnswer": "h",
-      "options": [
-        "qu",
-        "r",
-        "h",
-        "x"
-      ],
       "explanation": "Từ đúng là “hát múa”, viết với phụ âm đầu “h”.",
       "questionNumber": 793,
       "questionId": "k2_c1_dt_0182"
@@ -15637,12 +14545,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)à trống”",
       "answer": "g",
       "explanation": "Từ đúng là “gà trống”, viết với phụ âm đầu “g”.",
-      "options": [
-        "gh",
-        "k",
-        "g",
-        "d"
-      ],
       "blankAnswer": "g",
       "questionNumber": 794
     },
@@ -15723,12 +14625,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành tiếng thứ hai: “sạch (...)ẽ”",
       "answer": "s",
       "blankAnswer": "s",
-      "options": [
-        "g",
-        "gh",
-        "s",
-        "m"
-      ],
       "explanation": "Cụm từ đúng là “sạch sẽ”.",
       "questionNumber": 799,
       "questionId": "k2_c1_dt_0184"
@@ -15761,12 +14657,6 @@
       "question": "Chọn phụ âm đầu đúng cho tiếng trong ngoặc: “(...)on thỏ”",
       "answer": "c",
       "blankAnswer": "c",
-      "options": [
-        "l",
-        "c",
-        "m",
-        "ch"
-      ],
       "explanation": "Từ đúng là “con thỏ”, viết với phụ âm đầu “c”.",
       "questionNumber": 801,
       "questionId": "k2_c1_dt_0185"
@@ -15859,12 +14749,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)ọn đèn”",
       "answer": "ng",
       "explanation": "Từ đúng là “ngọn đèn”, viết với phụ âm đầu “ng”.",
-      "options": [
-        "x",
-        "ngh",
-        "ch",
-        "ng"
-      ],
       "blankAnswer": "ng",
       "questionNumber": 806
     },
@@ -15893,12 +14777,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)ạt mưa”",
       "answer": "h",
       "blankAnswer": "h",
-      "options": [
-        "qu",
-        "h",
-        "d",
-        "ng"
-      ],
       "explanation": "Từ đúng là “hạt mưa”, viết với phụ âm đầu “h”.",
       "questionNumber": 808,
       "questionId": "k2_c1_dt_0187"
@@ -15930,12 +14808,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)ọn gàng”",
       "answer": "g",
       "explanation": "Từ đúng là “gọn gàng”, viết với phụ âm đầu “g”.",
-      "options": [
-        "d",
-        "k",
-        "gh",
-        "g"
-      ],
       "blankAnswer": "g",
       "questionNumber": 810
     },
@@ -16104,12 +14976,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)ọn gió”",
       "answer": "ng",
       "blankAnswer": "ng",
-      "options": [
-        "ng",
-        "ch",
-        "l",
-        "v"
-      ],
       "explanation": "Từ đúng là “ngọn gió”, viết với phụ âm đầu “ng”.",
       "questionNumber": 819,
       "questionId": "k2_c1_dt_0189"
@@ -16122,12 +14988,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)ả chuối”",
       "answer": "qu",
       "blankAnswer": "qu",
-      "options": [
-        "ngh",
-        "g",
-        "qu",
-        "b"
-      ],
       "explanation": "Từ đúng là “quả chuối”, viết với phụ âm đầu “qu”.",
       "questionNumber": 820,
       "questionId": "k2_c1_dt_0190"
@@ -16336,12 +15196,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)òng sông”",
       "answer": "d",
       "explanation": "Từ đúng là “dòng sông”, viết với phụ âm đầu “d”.",
-      "options": [
-        "ch",
-        "gi",
-        "d",
-        "r"
-      ],
       "blankAnswer": "d",
       "questionNumber": 830
     },
@@ -16381,12 +15235,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành tiếng thứ hai: “sân (...)ơi”",
       "answer": "ch",
       "blankAnswer": "ch",
-      "options": [
-        "t",
-        "qu",
-        "th",
-        "ch"
-      ],
       "explanation": "Cụm từ đúng là “sân chơi”.",
       "questionNumber": 832,
       "questionId": "k2_c1_dt_0192"
@@ -16434,12 +15282,6 @@
       "question": "Chọn phụ âm đầu đúng cho tiếng trong ngoặc: “(...)anh nhẹn”",
       "answer": "nh",
       "blankAnswer": "nh",
-      "options": [
-        "nh",
-        "kh",
-        "b",
-        "k"
-      ],
       "explanation": "Từ đúng là “nhanh nhẹn”, viết với phụ âm đầu “nh”.",
       "questionNumber": 835,
       "questionId": "k2_c1_dt_0193"
@@ -16452,12 +15294,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)ui vẻ”",
       "answer": "v",
       "blankAnswer": "v",
-      "options": [
-        "v",
-        "t",
-        "ng",
-        "p"
-      ],
       "explanation": "Từ đúng là “vui vẻ”, viết với phụ âm đầu “v”.",
       "questionNumber": 836,
       "questionId": "k2_c1_dt_0194"
@@ -16470,12 +15306,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành tiếng thứ hai: “trăng (...)áng”",
       "answer": "s",
       "blankAnswer": "s",
-      "options": [
-        "s",
-        "gh",
-        "n",
-        "qu"
-      ],
       "explanation": "Cụm từ đúng là “trăng sáng”.",
       "questionNumber": 837,
       "questionId": "k2_c1_dt_0195"
@@ -16724,12 +15554,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)ú mèo”",
       "answer": "ch",
       "explanation": "Từ đúng là “chú mèo”, viết với phụ âm đầu “ch”.",
-      "options": [
-        "tr",
-        "s",
-        "x",
-        "ch"
-      ],
       "blankAnswer": "ch",
       "questionNumber": 850
     },
@@ -16761,12 +15585,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)ặt áo”",
       "answer": "gi",
       "explanation": "Từ đúng là “giặt áo”, viết với phụ âm đầu “gi”.",
-      "options": [
-        "x",
-        "d",
-        "gi",
-        "r"
-      ],
       "blankAnswer": "gi",
       "questionNumber": 852
     },
@@ -16778,12 +15596,6 @@
       "question": "Chọn phụ âm đầu đúng cho tiếng trong ngoặc: “(...)ái cốc”",
       "answer": "c",
       "blankAnswer": "c",
-      "options": [
-        "tr",
-        "kh",
-        "c",
-        "b"
-      ],
       "explanation": "Từ đúng là “cái cốc”, viết với phụ âm đầu “c”.",
       "questionNumber": 853,
       "questionId": "k2_c1_dt_0198"
@@ -16797,12 +15609,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)anh biếc”",
       "answer": "x",
       "explanation": "Từ đúng là “xanh biếc”, viết với phụ âm đầu “x”.",
-      "options": [
-        "tr",
-        "x",
-        "ch",
-        "s"
-      ],
       "blankAnswer": "x",
       "questionNumber": 854
     },
@@ -16883,12 +15689,6 @@
       "question": "Chọn phụ âm đầu đúng cho tiếng trong ngoặc: “(...)ẹo ngọt”",
       "answer": "k",
       "blankAnswer": "k",
-      "options": [
-        "t",
-        "d",
-        "k",
-        "nh"
-      ],
       "explanation": "Từ đúng là “kẹo ngọt”, viết với phụ âm đầu “k”.",
       "questionNumber": 859,
       "questionId": "k2_c1_dt_0200"
@@ -16954,12 +15754,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành tiếng thứ hai: “rổ (...)á”",
       "answer": "r",
       "blankAnswer": "r",
-      "options": [
-        "g",
-        "r",
-        "t",
-        "m"
-      ],
       "explanation": "Cụm từ đúng là “rổ rá”.",
       "questionNumber": 862,
       "questionId": "k2_c1_dt_0201"
@@ -17006,12 +15800,6 @@
       "question": "Chọn phụ âm đầu đúng cho tiếng trong ngoặc: “(...)ồng cây”",
       "answer": "tr",
       "blankAnswer": "tr",
-      "options": [
-        "n",
-        "ng",
-        "ph",
-        "tr"
-      ],
       "explanation": "Từ đúng là “trồng cây”, viết với phụ âm đầu “tr”.",
       "questionNumber": 865,
       "questionId": "k2_c1_dt_0202"
@@ -17042,12 +15830,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)ông lớn”",
       "answer": "s",
       "explanation": "Từ đúng là “sông lớn”, viết với phụ âm đầu “s”.",
-      "options": [
-        "s",
-        "x",
-        "ch",
-        "tr"
-      ],
       "blankAnswer": "s",
       "questionNumber": 867
     },
@@ -17095,12 +15877,6 @@
       "question": "Chọn phụ âm đầu đúng cho tiếng trong ngoặc: “(...)ăm sóc”",
       "answer": "ch",
       "blankAnswer": "ch",
-      "options": [
-        "ch",
-        "ngh",
-        "nh",
-        "c"
-      ],
       "explanation": "Từ đúng là “chăm sóc”, viết với phụ âm đầu “ch”.",
       "questionNumber": 870,
       "questionId": "k2_c1_dt_0204"
@@ -17130,12 +15906,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành tiếng thứ hai: “em (...)é”",
       "answer": "b",
       "blankAnswer": "b",
-      "options": [
-        "d",
-        "tr",
-        "v",
-        "b"
-      ],
       "explanation": "Cụm từ đúng là “em bé”.",
       "questionNumber": 872,
       "questionId": "k2_c1_dt_0205"
@@ -17148,12 +15918,6 @@
       "question": "Chọn phụ âm đầu đúng cho tiếng trong ngoặc: “(...)ôi nhà”",
       "answer": "ng",
       "blankAnswer": "ng",
-      "options": [
-        "l",
-        "x",
-        "ng",
-        "h"
-      ],
       "explanation": "Từ đúng là “ngôi nhà”, viết với phụ âm đầu “ng”.",
       "questionNumber": 873,
       "questionId": "k2_c1_dt_0206"
@@ -17184,12 +15948,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành tiếng thứ hai: “bạn (...)è”",
       "answer": "b",
       "blankAnswer": "b",
-      "options": [
-        "d",
-        "b",
-        "đ",
-        "g"
-      ],
       "explanation": "Cụm từ đúng là “bạn bè”.",
       "questionNumber": 875,
       "questionId": "k2_c1_dt_0207"
@@ -17202,12 +15960,6 @@
       "question": "Chọn phụ âm đầu đúng cho tiếng trong ngoặc: “(...)au xanh”",
       "answer": "r",
       "blankAnswer": "r",
-      "options": [
-        "s",
-        "ph",
-        "nh",
-        "r"
-      ],
       "explanation": "Từ đúng là “rau xanh”, viết với phụ âm đầu “r”.",
       "questionNumber": 876,
       "questionId": "k2_c1_dt_0208"
@@ -17440,12 +16192,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành tiếng thứ hai: “lớp (...)ọc”",
       "answer": "h",
       "blankAnswer": "h",
-      "options": [
-        "gh",
-        "h",
-        "gi",
-        "tr"
-      ],
       "explanation": "Cụm từ đúng là “lớp học”.",
       "questionNumber": 888,
       "questionId": "k2_c1_dt_0209"
@@ -17458,12 +16204,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành tiếng thứ hai: “kẹo (...)ọt”",
       "answer": "ng",
       "blankAnswer": "ng",
-      "options": [
-        "l",
-        "gh",
-        "h",
-        "ng"
-      ],
       "explanation": "Cụm từ đúng là “kẹo ngọt”.",
       "questionNumber": 889,
       "questionId": "k2_c1_dt_0210"
@@ -17654,12 +16394,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành tiếng thứ hai: “chiếc (...)ăn”",
       "answer": "kh",
       "blankAnswer": "kh",
-      "options": [
-        "qu",
-        "gi",
-        "n",
-        "kh"
-      ],
       "explanation": "Cụm từ đúng là “chiếc khăn”.",
       "questionNumber": 898,
       "questionId": "k2_c1_dt_0211"
@@ -17672,12 +16406,6 @@
       "question": "Chọn phụ âm đầu đúng cho tiếng trong ngoặc: “(...)ặt áo”",
       "answer": "gi",
       "blankAnswer": "gi",
-      "options": [
-        "ng",
-        "k",
-        "gi",
-        "nh"
-      ],
       "explanation": "Từ đúng là “giặt áo”, viết với phụ âm đầu “gi”.",
       "questionNumber": 899,
       "questionId": "k2_c1_dt_0212"
@@ -17691,12 +16419,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)ép hình”",
       "answer": "gh",
       "explanation": "Từ đúng là “ghép hình”, viết với phụ âm đầu “gh”.",
-      "options": [
-        "g",
-        "gh",
-        "k",
-        "tr"
-      ],
       "blankAnswer": "gh",
       "questionNumber": 900
     },
@@ -17725,12 +16447,6 @@
       "question": "Chọn phụ âm đầu đúng cho tiếng trong ngoặc: “(...)ạp xe”",
       "answer": "đ",
       "blankAnswer": "đ",
-      "options": [
-        "m",
-        "ph",
-        "nh",
-        "đ"
-      ],
       "explanation": "Từ đúng là “đạp xe”, viết với phụ âm đầu “đ”.",
       "questionNumber": 902,
       "questionId": "k2_c1_dt_0214"
@@ -17743,12 +16459,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành tiếng thứ hai: “trường (...)ọc”",
       "answer": "h",
       "blankAnswer": "h",
-      "options": [
-        "h",
-        "th",
-        "ngh",
-        "qu"
-      ],
       "explanation": "Cụm từ đúng là “trường học”.",
       "questionNumber": 903,
       "questionId": "k2_c1_dt_0215"
@@ -17806,12 +16516,6 @@
       "question": "Chọn phụ âm đầu đúng cho tiếng trong ngoặc: “(...)ổi tre”",
       "answer": "ch",
       "blankAnswer": "ch",
-      "options": [
-        "nh",
-        "ch",
-        "ng",
-        "gh"
-      ],
       "explanation": "Từ đúng là “chổi tre”, viết với phụ âm đầu “ch”.",
       "questionNumber": 906,
       "questionId": "k2_c1_dt_0216"
@@ -17824,12 +16528,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)iếc thước”",
       "answer": "ch",
       "blankAnswer": "ch",
-      "options": [
-        "v",
-        "x",
-        "ch",
-        "nh"
-      ],
       "explanation": "Từ đúng là “chiếc thước”, viết với phụ âm đầu “ch”.",
       "questionNumber": 907,
       "questionId": "k2_c1_dt_0217"
@@ -17860,12 +16558,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)ú thỏ”",
       "answer": "ch",
       "explanation": "Từ đúng là “chú thỏ”, viết với phụ âm đầu “ch”.",
-      "options": [
-        "x",
-        "ch",
-        "tr",
-        "s"
-      ],
       "blankAnswer": "ch",
       "questionNumber": 909
     },
@@ -17962,12 +16654,6 @@
       "question": "Chọn phụ âm đầu đúng cho tiếng trong ngoặc: “(...)on bò”",
       "answer": "c",
       "blankAnswer": "c",
-      "options": [
-        "l",
-        "c",
-        "n",
-        "ng"
-      ],
       "explanation": "Từ đúng là “con bò”, viết với phụ âm đầu “c”.",
       "questionNumber": 914,
       "questionId": "k2_c1_dt_0219"
@@ -17980,12 +16666,6 @@
       "question": "Chọn phụ âm đầu đúng cho tiếng trong ngoặc: “(...)ế gỗ”",
       "answer": "gh",
       "blankAnswer": "gh",
-      "options": [
-        "tr",
-        "ngh",
-        "gh",
-        "ng"
-      ],
       "explanation": "Từ đúng là “ghế gỗ”, viết với phụ âm đầu “gh”.",
       "questionNumber": 915,
       "questionId": "k2_c1_dt_0220"
@@ -17998,12 +16678,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành tiếng thứ hai: “lễ (...)ép”",
       "answer": "ph",
       "blankAnswer": "ph",
-      "options": [
-        "v",
-        "d",
-        "ph",
-        "gi"
-      ],
       "explanation": "Cụm từ đúng là “lễ phép”.",
       "questionNumber": 916,
       "questionId": "k2_c1_dt_0221"
@@ -18016,12 +16690,6 @@
       "question": "Chọn phụ âm đầu đúng cho tiếng trong ngoặc: “(...)é con”",
       "answer": "ngh",
       "blankAnswer": "ngh",
-      "options": [
-        "p",
-        "ph",
-        "ngh",
-        "kh"
-      ],
       "explanation": "Từ đúng là “nghé con”, viết với phụ âm đầu “ngh”.",
       "questionNumber": 917,
       "questionId": "k2_c1_dt_0222"
@@ -18052,12 +16720,6 @@
       "question": "Chọn phụ âm đầu đúng cho tiếng trong ngoặc: “(...)im sẻ”",
       "answer": "ch",
       "blankAnswer": "ch",
-      "options": [
-        "tr",
-        "đ",
-        "ph",
-        "ch"
-      ],
       "explanation": "Từ đúng là “chim sẻ”, viết với phụ âm đầu “ch”.",
       "questionNumber": 919,
       "questionId": "k2_c1_dt_0223"
@@ -18161,12 +16823,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)ường học”",
       "answer": "tr",
       "blankAnswer": "tr",
-      "options": [
-        "tr",
-        "l",
-        "c",
-        "t"
-      ],
       "explanation": "Từ đúng là “trường học”, viết với phụ âm đầu “tr”.",
       "questionNumber": 925,
       "questionId": "k2_c1_dt_0224"
@@ -18224,12 +16880,6 @@
       "question": "Chọn phụ âm đầu đúng cho tiếng trong ngoặc: “(...)a trắng”",
       "answer": "d",
       "blankAnswer": "d",
-      "options": [
-        "r",
-        "ph",
-        "m",
-        "d"
-      ],
       "explanation": "Từ đúng là “da trắng”, viết với phụ âm đầu “d”.",
       "questionNumber": 928,
       "questionId": "k2_c1_dt_0225"
@@ -18481,12 +17131,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành tiếng thứ hai: “trống (...)ường”",
       "answer": "tr",
       "blankAnswer": "tr",
-      "options": [
-        "tr",
-        "qu",
-        "c",
-        "nh"
-      ],
       "explanation": "Cụm từ đúng là “trống trường”.",
       "questionNumber": 940,
       "questionId": "k2_c1_dt_0226"
@@ -18517,12 +17161,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)ể chuyện”",
       "answer": "k",
       "explanation": "Từ đúng là “kể chuyện”, viết với phụ âm đầu “k”.",
-      "options": [
-        "x",
-        "k",
-        "c",
-        "gh"
-      ],
       "blankAnswer": "k",
       "questionNumber": 942
     },
@@ -18638,12 +17276,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành tiếng thứ hai: “ghé (...)ăm”",
       "answer": "th",
       "blankAnswer": "th",
-      "options": [
-        "g",
-        "th",
-        "ch",
-        "v"
-      ],
       "explanation": "Cụm từ đúng là “ghé thăm”.",
       "questionNumber": 949,
       "questionId": "k2_c1_dt_0228"
@@ -18656,12 +17288,6 @@
       "question": "Chọn phụ âm đầu đúng cho tiếng trong ngoặc: “(...)iền lành”",
       "answer": "h",
       "blankAnswer": "h",
-      "options": [
-        "s",
-        "h",
-        "tr",
-        "ch"
-      ],
       "explanation": "Từ đúng là “hiền lành”, viết với phụ âm đầu “h”.",
       "questionNumber": 950,
       "questionId": "k2_c1_dt_0229"
@@ -18729,12 +17355,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)ẻ em”",
       "answer": "tr",
       "explanation": "Từ đúng là “trẻ em”, viết với phụ âm đầu “tr”.",
-      "options": [
-        "ch",
-        "s",
-        "tr",
-        "x"
-      ],
       "blankAnswer": "tr",
       "questionNumber": 953
     },
@@ -18791,12 +17411,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành tiếng thứ hai: “chổi (...)e”",
       "answer": "tr",
       "blankAnswer": "tr",
-      "options": [
-        "d",
-        "th",
-        "tr",
-        "c"
-      ],
       "explanation": "Cụm từ đúng là “chổi tre”.",
       "questionNumber": 956,
       "questionId": "k2_c1_dt_0231"
@@ -18810,12 +17424,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)on gấu”",
       "answer": "c",
       "explanation": "Từ đúng là “con gấu”, viết với phụ âm đầu “c”.",
-      "options": [
-        "k",
-        "gh",
-        "s",
-        "c"
-      ],
       "blankAnswer": "c",
       "questionNumber": 957
     },
@@ -18828,12 +17436,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)im khâu”",
       "answer": "k",
       "explanation": "Từ đúng là “kim khâu”, viết với phụ âm đầu “k”.",
-      "options": [
-        "gh",
-        "k",
-        "c",
-        "x"
-      ],
       "blankAnswer": "k",
       "questionNumber": 958
     },
@@ -18966,12 +17568,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)ữ gìn”",
       "answer": "gi",
       "explanation": "Từ đúng là “giữ gìn”, viết với phụ âm đầu “gi”.",
-      "options": [
-        "r",
-        "gi",
-        "d",
-        "x"
-      ],
       "blankAnswer": "gi",
       "questionNumber": 966
     },
@@ -19126,12 +17722,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành tiếng thứ hai: “cây (...)au”",
       "answer": "c",
       "blankAnswer": "c",
-      "options": [
-        "g",
-        "nh",
-        "c",
-        "l"
-      ],
       "explanation": "Cụm từ đúng là “cây cau”.",
       "questionNumber": 974,
       "questionId": "k2_c1_dt_0235"
@@ -19230,12 +17820,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)ét nhà”",
       "answer": "qu",
       "blankAnswer": "qu",
-      "options": [
-        "b",
-        "ng",
-        "x",
-        "qu"
-      ],
       "explanation": "Từ đúng là “quét nhà”, viết với phụ âm đầu “qu”.",
       "questionNumber": 980,
       "questionId": "k2_c1_dt_0236"
@@ -19249,12 +17833,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)áng sớm”",
       "answer": "s",
       "explanation": "Từ đúng là “sáng sớm”, viết với phụ âm đầu “s”.",
-      "options": [
-        "s",
-        "tr",
-        "x",
-        "ch"
-      ],
       "blankAnswer": "s",
       "questionNumber": 981
     },
@@ -19320,12 +17898,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành tiếng thứ hai: “sân (...)ường”",
       "answer": "tr",
       "blankAnswer": "tr",
-      "options": [
-        "b",
-        "tr",
-        "kh",
-        "t"
-      ],
       "explanation": "Cụm từ đúng là “sân trường”.",
       "questionNumber": 984,
       "questionId": "k2_c1_dt_0238"
@@ -19338,12 +17910,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành tiếng thứ hai: “giá (...)ách”",
       "answer": "s",
       "blankAnswer": "s",
-      "options": [
-        "gh",
-        "s",
-        "x",
-        "p"
-      ],
       "explanation": "Cụm từ đúng là “giá sách”.",
       "questionNumber": 985,
       "questionId": "k2_c1_dt_0239"
@@ -19391,12 +17957,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành tiếng thứ hai: “cái (...)éo”",
       "answer": "k",
       "blankAnswer": "k",
-      "options": [
-        "n",
-        "k",
-        "gh",
-        "đ"
-      ],
       "explanation": "Cụm từ đúng là “cái kéo”.",
       "questionNumber": 988,
       "questionId": "k2_c1_dt_0240"
@@ -19534,12 +18094,6 @@
       "question": "Chọn phụ âm đầu đúng cho tiếng trong ngoặc: “(...)oa hồng”",
       "answer": "h",
       "blankAnswer": "h",
-      "options": [
-        "đ",
-        "l",
-        "v",
-        "h"
-      ],
       "explanation": "Từ đúng là “hoa hồng”, viết với phụ âm đầu “h”.",
       "questionNumber": 995,
       "questionId": "k2_c1_dt_0241"
@@ -19666,12 +18220,6 @@
       "question": "Chọn phụ âm đầu đúng cho tiếng trong ngoặc: “(...)ừng cây”",
       "answer": "r",
       "blankAnswer": "r",
-      "options": [
-        "gi",
-        "ph",
-        "gh",
-        "r"
-      ],
       "explanation": "Từ đúng là “rừng cây”, viết với phụ âm đầu “r”.",
       "questionNumber": 1002,
       "questionId": "k2_c1_dt_0242"
@@ -19805,12 +18353,6 @@
       "question": "Chọn phụ âm đầu đúng cho tiếng trong ngoặc: “(...)ái tim”",
       "answer": "tr",
       "blankAnswer": "tr",
-      "options": [
-        "gi",
-        "ng",
-        "tr",
-        "nh"
-      ],
       "explanation": "Từ đúng là “trái tim”, viết với phụ âm đầu “tr”.",
       "questionNumber": 1010,
       "questionId": "k2_c1_dt_0243"
@@ -19840,12 +18382,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)át mẻ”",
       "answer": "m",
       "blankAnswer": "m",
-      "options": [
-        "p",
-        "b",
-        "m",
-        "n"
-      ],
       "explanation": "Từ đúng là “mát mẻ”, viết với phụ âm đầu “m”.",
       "questionNumber": 1012,
       "questionId": "k2_c1_dt_0244"
@@ -20120,12 +18656,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành tiếng thứ hai: “xếp (...)àng”",
       "answer": "h",
       "blankAnswer": "h",
-      "options": [
-        "v",
-        "th",
-        "ng",
-        "h"
-      ],
       "explanation": "Cụm từ đúng là “xếp hàng”.",
       "questionNumber": 1026,
       "questionId": "k2_c1_dt_0245"
@@ -20200,12 +18730,6 @@
       "question": "Chọn phụ âm đầu đúng cho tiếng trong ngoặc: “(...)âu vá”",
       "answer": "kh",
       "blankAnswer": "kh",
-      "options": [
-        "h",
-        "kh",
-        "c",
-        "ng"
-      ],
       "explanation": "Từ đúng là “khâu vá”, viết với phụ âm đầu “kh”.",
       "questionNumber": 1030,
       "questionId": "k2_c1_dt_0246"
@@ -20218,12 +18742,6 @@
       "question": "Chọn phụ âm đầu đúng cho tiếng trong ngoặc: “(...)ạt mưa”",
       "answer": "h",
       "blankAnswer": "h",
-      "options": [
-        "qu",
-        "d",
-        "h",
-        "ng"
-      ],
       "explanation": "Từ đúng là “hạt mưa”, viết với phụ âm đầu “h”.",
       "questionNumber": 1031,
       "questionId": "k2_c1_dt_0247"
@@ -20377,12 +18895,6 @@
       "question": "Chọn phụ âm đầu đúng cho tiếng trong ngoặc: “(...)ữa tươi”",
       "answer": "s",
       "blankAnswer": "s",
-      "options": [
-        "x",
-        "g",
-        "s",
-        "ngh"
-      ],
       "explanation": "Từ đúng là “sữa tươi”, viết với phụ âm đầu “s”.",
       "questionNumber": 1038,
       "questionId": "k2_c1_dt_0248"
@@ -20480,12 +18992,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành tiếng thứ hai: “ngọn (...)úi”",
       "answer": "n",
       "blankAnswer": "n",
-      "options": [
-        "c",
-        "n",
-        "ch",
-        "qu"
-      ],
       "explanation": "Cụm từ đúng là “ngọn núi”.",
       "questionNumber": 1044,
       "questionId": "k2_c1_dt_0249"
@@ -20533,12 +19039,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành tiếng thứ hai: “đọc (...)ách”",
       "answer": "s",
       "blankAnswer": "s",
-      "options": [
-        "s",
-        "b",
-        "qu",
-        "ngh"
-      ],
       "explanation": "Cụm từ đúng là “đọc sách”.",
       "questionNumber": 1047,
       "questionId": "k2_c1_dt_0250"
@@ -21003,12 +19503,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành tiếng thứ hai: “cá (...)àng”",
       "answer": "v",
       "blankAnswer": "v",
-      "options": [
-        "b",
-        "qu",
-        "l",
-        "v"
-      ],
       "explanation": "Cụm từ đúng là “cá vàng”.",
       "questionNumber": 1071,
       "questionId": "k2_c1_dt_0251"
@@ -21021,12 +19515,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)on vịt”",
       "answer": "c",
       "blankAnswer": "c",
-      "options": [
-        "c",
-        "g",
-        "th",
-        "r"
-      ],
       "explanation": "Từ đúng là “con vịt”, viết với phụ âm đầu “c”.",
       "questionNumber": 1072,
       "questionId": "k2_c1_dt_0252"
@@ -21158,12 +19646,6 @@
       "question": "Chọn phụ âm đầu đúng cho tiếng trong ngoặc: “(...)ấp áo”",
       "answer": "g",
       "blankAnswer": "g",
-      "options": [
-        "th",
-        "ngh",
-        "d",
-        "g"
-      ],
       "explanation": "Từ đúng là “gấp áo”, viết với phụ âm đầu “g”.",
       "questionNumber": 1078,
       "questionId": "k2_c1_dt_0253"
@@ -21211,12 +19693,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)a trắng”",
       "answer": "d",
       "explanation": "Từ đúng là “da trắng”, viết với phụ âm đầu “d”.",
-      "options": [
-        "ch",
-        "gi",
-        "r",
-        "d"
-      ],
       "blankAnswer": "d",
       "questionNumber": 1081
     },
@@ -21429,12 +19905,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)iền lành”",
       "answer": "h",
       "blankAnswer": "h",
-      "options": [
-        "ch",
-        "s",
-        "h",
-        "tr"
-      ],
       "explanation": "Từ đúng là “hiền lành”, viết với phụ âm đầu “h”.",
       "questionNumber": 1091,
       "questionId": "k2_c1_dt_0255"
@@ -21447,12 +19917,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành tiếng thứ hai: “xếp (...)ình”",
       "answer": "h",
       "blankAnswer": "h",
-      "options": [
-        "ph",
-        "kh",
-        "k",
-        "h"
-      ],
       "explanation": "Cụm từ đúng là “xếp hình”.",
       "questionNumber": 1092,
       "questionId": "k2_c1_dt_0256"
@@ -21534,12 +19998,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)ú ý”",
       "answer": "ch",
       "explanation": "Từ đúng là “chú ý”, viết với phụ âm đầu “ch”.",
-      "options": [
-        "s",
-        "tr",
-        "x",
-        "ch"
-      ],
       "blankAnswer": "ch",
       "questionNumber": 1097
     },
@@ -21571,12 +20029,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)éo co”",
       "answer": "k",
       "explanation": "Từ đúng là “kéo co”, viết với phụ âm đầu “k”.",
-      "options": [
-        "gh",
-        "k",
-        "c",
-        "x"
-      ],
       "blankAnswer": "k",
       "questionNumber": 1099
     },
@@ -21640,12 +20092,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành tiếng thứ hai: “ngọn (...)èn”",
       "answer": "đ",
       "blankAnswer": "đ",
-      "options": [
-        "ph",
-        "kh",
-        "ch",
-        "đ"
-      ],
       "explanation": "Cụm từ đúng là “ngọn đèn”.",
       "questionNumber": 1103,
       "questionId": "k2_c1_dt_0259"
@@ -21816,12 +20262,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành tiếng thứ hai: “chân (...)ời”",
       "answer": "tr",
       "blankAnswer": "tr",
-      "options": [
-        "k",
-        "v",
-        "tr",
-        "ph"
-      ],
       "explanation": "Cụm từ đúng là “chân trời”.",
       "questionNumber": 1113,
       "questionId": "k2_c1_dt_0260"
@@ -21834,12 +20274,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành tiếng thứ hai: “tưới (...)ây”",
       "answer": "c",
       "blankAnswer": "c",
-      "options": [
-        "c",
-        "đ",
-        "s",
-        "tr"
-      ],
       "explanation": "Cụm từ đúng là “tưới cây”.",
       "questionNumber": 1114,
       "questionId": "k2_c1_dt_0261"
@@ -21886,12 +20320,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành tiếng thứ hai: “trồng (...)ây”",
       "answer": "c",
       "blankAnswer": "c",
-      "options": [
-        "c",
-        "ngh",
-        "qu",
-        "r"
-      ],
       "explanation": "Cụm từ đúng là “trồng cây”.",
       "questionNumber": 1117,
       "questionId": "k2_c1_dt_0262"
@@ -21904,12 +20332,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành tiếng thứ hai: “ngọn (...)ó”",
       "answer": "gi",
       "blankAnswer": "gi",
-      "options": [
-        "kh",
-        "gi",
-        "t",
-        "x"
-      ],
       "explanation": "Cụm từ đúng là “ngọn gió”.",
       "questionNumber": 1118,
       "questionId": "k2_c1_dt_0263"
@@ -21940,12 +20362,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)ồng cây”",
       "answer": "tr",
       "explanation": "Từ đúng là “trồng cây”, viết với phụ âm đầu “tr”.",
-      "options": [
-        "tr",
-        "ch",
-        "x",
-        "s"
-      ],
       "blankAnswer": "tr",
       "questionNumber": 1120
     },
@@ -21957,12 +20373,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành tiếng thứ hai: “anh (...)ị”",
       "answer": "ch",
       "blankAnswer": "ch",
-      "options": [
-        "g",
-        "ph",
-        "đ",
-        "ch"
-      ],
       "explanation": "Cụm từ đúng là “anh chị”.",
       "questionNumber": 1121,
       "questionId": "k2_c1_dt_0265"
@@ -22055,12 +20465,6 @@
       "question": "Chọn phụ âm đầu đúng cho tiếng trong ngoặc: “(...)ả chuối”",
       "answer": "qu",
       "blankAnswer": "qu",
-      "options": [
-        "b",
-        "ngh",
-        "g",
-        "qu"
-      ],
       "explanation": "Từ đúng là “quả chuối”, viết với phụ âm đầu “qu”.",
       "questionNumber": 1126,
       "questionId": "k2_c1_dt_0266"
@@ -22351,12 +20755,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)ả khế”",
       "answer": "qu",
       "explanation": "Từ đúng là “quả khế”, viết với phụ âm đầu “qu”.",
-      "options": [
-        "qu",
-        "g",
-        "c",
-        "k"
-      ],
       "blankAnswer": "qu",
       "questionNumber": 1139
     },
@@ -22386,12 +20784,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)a đình”",
       "answer": "gi",
       "explanation": "Từ đúng là “gia đình”, viết với phụ âm đầu “gi”.",
-      "options": [
-        "r",
-        "d",
-        "gi",
-        "x"
-      ],
       "blankAnswer": "gi",
       "questionNumber": 1141
     },
@@ -22421,12 +20813,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)út chì”",
       "answer": "b",
       "blankAnswer": "b",
-      "options": [
-        "tr",
-        "ph",
-        "b",
-        "c"
-      ],
       "explanation": "Từ đúng là “bút chì”, viết với phụ âm đầu “b”.",
       "questionNumber": 1143,
       "questionId": "k2_c1_dt_0269"
@@ -22457,12 +20843,6 @@
       "question": "Chọn phụ âm đầu đúng cho tiếng trong ngoặc: “(...)ớp học”",
       "answer": "l",
       "blankAnswer": "l",
-      "options": [
-        "r",
-        "l",
-        "tr",
-        "nh"
-      ],
       "explanation": "Từ đúng là “lớp học”, viết với phụ âm đầu “l”.",
       "questionNumber": 1145,
       "questionId": "k2_c1_dt_0270"
@@ -22492,12 +20872,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành tiếng thứ hai: “chăm (...)ỉ”",
       "answer": "ch",
       "blankAnswer": "ch",
-      "options": [
-        "c",
-        "g",
-        "ph",
-        "ch"
-      ],
       "explanation": "Cụm từ đúng là “chăm chỉ”.",
       "questionNumber": 1147,
       "questionId": "k2_c1_dt_0271"
@@ -22511,12 +20885,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)on mèo”",
       "answer": "c",
       "explanation": "Từ đúng là “con mèo”, viết với phụ âm đầu “c”.",
-      "options": [
-        "gh",
-        "s",
-        "c",
-        "k"
-      ],
       "blankAnswer": "c",
       "questionNumber": 1148
     },
@@ -22529,12 +20897,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)ặp sách”",
       "answer": "c",
       "explanation": "Từ đúng là “cặp sách”, viết với phụ âm đầu “c”.",
-      "options": [
-        "c",
-        "gh",
-        "k",
-        "s"
-      ],
       "blankAnswer": "c",
       "questionNumber": 1149
     },
@@ -22564,12 +20926,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)ẹo ngọt”",
       "answer": "k",
       "explanation": "Từ đúng là “kẹo ngọt”, viết với phụ âm đầu “k”.",
-      "options": [
-        "x",
-        "c",
-        "gh",
-        "k"
-      ],
       "blankAnswer": "k",
       "questionNumber": 1151
     },
@@ -22643,12 +20999,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)ữa cơm”",
       "answer": "b",
       "blankAnswer": "b",
-      "options": [
-        "kh",
-        "b",
-        "d",
-        "ph"
-      ],
       "explanation": "Từ đúng là “bữa cơm”, viết với phụ âm đầu “b”.",
       "questionNumber": 1155,
       "questionId": "k2_c1_dt_0275"
@@ -22780,12 +21130,6 @@
       "question": "Chọn phụ âm đầu đúng cho tiếng trong ngoặc: “(...)a mẹ”",
       "answer": "ch",
       "blankAnswer": "ch",
-      "options": [
-        "p",
-        "v",
-        "ch",
-        "gi"
-      ],
       "explanation": "Từ đúng là “cha mẹ”, viết với phụ âm đầu “ch”.",
       "questionNumber": 1163,
       "questionId": "k2_c1_dt_0276"
@@ -22833,12 +21177,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành tiếng thứ hai: “quả (...)uối”",
       "answer": "ch",
       "blankAnswer": "ch",
-      "options": [
-        "ch",
-        "t",
-        "m",
-        "ngh"
-      ],
       "explanation": "Cụm từ đúng là “quả chuối”.",
       "questionNumber": 1166,
       "questionId": "k2_c1_dt_0277"
@@ -23075,12 +21413,6 @@
       "question": "Chọn phụ âm đầu đúng cho tiếng trong ngoặc: “(...)ạy bộ”",
       "answer": "ch",
       "blankAnswer": "ch",
-      "options": [
-        "ch",
-        "ng",
-        "kh",
-        "x"
-      ],
       "explanation": "Từ đúng là “chạy bộ”, viết với phụ âm đầu “ch”.",
       "questionNumber": 1179,
       "questionId": "k2_c1_dt_0278"
@@ -23110,12 +21442,6 @@
       "question": "Chọn phụ âm đầu đúng cho tiếng trong ngoặc: “(...)ầu trời”",
       "answer": "b",
       "blankAnswer": "b",
-      "options": [
-        "tr",
-        "ng",
-        "b",
-        "h"
-      ],
       "explanation": "Từ đúng là “bầu trời”, viết với phụ âm đầu “b”.",
       "questionNumber": 1181,
       "questionId": "k2_c1_dt_0279"
@@ -23145,12 +21471,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành tiếng thứ hai: “con (...)iến”",
       "answer": "k",
       "blankAnswer": "k",
-      "options": [
-        "kh",
-        "k",
-        "nh",
-        "d"
-      ],
       "explanation": "Cụm từ đúng là “con kiến”.",
       "questionNumber": 1183,
       "questionId": "k2_c1_dt_0280"
@@ -23180,12 +21500,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)ơn mưa”",
       "answer": "c",
       "blankAnswer": "c",
-      "options": [
-        "s",
-        "x",
-        "t",
-        "c"
-      ],
       "explanation": "Từ đúng là “cơn mưa”, viết với phụ âm đầu “c”.",
       "questionNumber": 1185,
       "questionId": "k2_c1_dt_0281"
@@ -23198,12 +21512,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành tiếng thứ hai: “ông (...)à”",
       "answer": "b",
       "blankAnswer": "b",
-      "options": [
-        "kh",
-        "b",
-        "ch",
-        "p"
-      ],
       "explanation": "Cụm từ đúng là “ông bà”.",
       "questionNumber": 1186,
       "questionId": "k2_c1_dt_0282"
@@ -23270,12 +21578,6 @@
       "question": "Chọn phụ âm đầu đúng cho tiếng trong ngoặc: “(...)ám mây”",
       "answer": "đ",
       "blankAnswer": "đ",
-      "options": [
-        "k",
-        "đ",
-        "v",
-        "tr"
-      ],
       "explanation": "Từ đúng là “đám mây”, viết với phụ âm đầu “đ”.",
       "questionNumber": 1190,
       "questionId": "k2_c1_dt_0283"
@@ -23505,12 +21807,6 @@
       "question": "Chọn phụ âm đầu đúng cho tiếng trong ngoặc: “(...)ặt trời”",
       "answer": "m",
       "blankAnswer": "m",
-      "options": [
-        "m",
-        "nh",
-        "tr",
-        "th"
-      ],
       "explanation": "Từ đúng là “mặt trời”, viết với phụ âm đầu “m”.",
       "questionNumber": 1203,
       "questionId": "k2_c1_dt_0284"
@@ -23697,12 +21993,6 @@
       "question": "Chọn phụ âm đầu đúng cho tiếng trong ngoặc: “(...)ăng sáng”",
       "answer": "tr",
       "blankAnswer": "tr",
-      "options": [
-        "th",
-        "tr",
-        "gi",
-        "ngh"
-      ],
       "explanation": "Từ đúng là “trăng sáng”, viết với phụ âm đầu “tr”.",
       "questionNumber": 1214,
       "questionId": "k2_c1_dt_0285"
@@ -23849,12 +22139,6 @@
       "question": "Chọn phụ âm đầu đúng cho tiếng trong ngoặc: “(...)im chóc”",
       "answer": "ch",
       "blankAnswer": "ch",
-      "options": [
-        "l",
-        "t",
-        "k",
-        "ch"
-      ],
       "explanation": "Từ đúng là “chim chóc”, viết với phụ âm đầu “ch”.",
       "questionNumber": 1221,
       "questionId": "k2_c1_dt_0286"
@@ -23867,12 +22151,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành tiếng thứ hai: “trái (...)im”",
       "answer": "t",
       "blankAnswer": "t",
-      "options": [
-        "r",
-        "t",
-        "x",
-        "ng"
-      ],
       "explanation": "Cụm từ đúng là “trái tim”.",
       "questionNumber": 1222,
       "questionId": "k2_c1_dt_0287"
@@ -23902,12 +22180,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)a mẹ”",
       "answer": "ch",
       "blankAnswer": "ch",
-      "options": [
-        "ch",
-        "p",
-        "v",
-        "gi"
-      ],
       "explanation": "Từ đúng là “cha mẹ”, viết với phụ âm đầu “ch”.",
       "questionNumber": 1224,
       "questionId": "k2_c1_dt_0288"
@@ -23975,12 +22247,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)ôi gấc”",
       "answer": "x",
       "explanation": "Từ đúng là “xôi gấc”, viết với phụ âm đầu “x”.",
-      "options": [
-        "s",
-        "ch",
-        "tr",
-        "x"
-      ],
       "blankAnswer": "x",
       "questionNumber": 1227
     },
@@ -24026,12 +22292,6 @@
       "question": "Chọn phụ âm đầu đúng cho tiếng trong ngoặc: “(...)ực rỡ”",
       "answer": "r",
       "blankAnswer": "r",
-      "options": [
-        "r",
-        "v",
-        "ch",
-        "p"
-      ],
       "explanation": "Từ đúng là “rực rỡ”, viết với phụ âm đầu “r”.",
       "questionNumber": 1230,
       "questionId": "k2_c1_dt_0290"
@@ -24179,12 +22439,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)ức tranh”",
       "answer": "b",
       "explanation": "Từ đúng là “bức tranh”, viết với phụ âm đầu “b”.",
-      "options": [
-        "b",
-        "g",
-        "k",
-        "c"
-      ],
       "blankAnswer": "b",
       "questionNumber": 1237
     },
@@ -24250,12 +22504,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)ảng đen”",
       "answer": "b",
       "blankAnswer": "b",
-      "options": [
-        "b",
-        "nh",
-        "s",
-        "x"
-      ],
       "explanation": "Từ đúng là “bảng đen”, viết với phụ âm đầu “b”.",
       "questionNumber": 1240,
       "questionId": "k2_c1_dt_0292"
@@ -24268,12 +22516,6 @@
       "question": "Chọn phụ âm đầu đúng cho tiếng trong ngoặc: “(...)á xanh”",
       "answer": "l",
       "blankAnswer": "l",
-      "options": [
-        "qu",
-        "l",
-        "đ",
-        "k"
-      ],
       "explanation": "Từ đúng là “lá xanh”, viết với phụ âm đầu “l”.",
       "questionNumber": 1241,
       "questionId": "k2_c1_dt_0293"
@@ -24391,12 +22633,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)on cò”",
       "answer": "c",
       "explanation": "Từ đúng là “con cò”, viết với phụ âm đầu “c”.",
-      "options": [
-        "gh",
-        "k",
-        "c",
-        "s"
-      ],
       "blankAnswer": "c",
       "questionNumber": 1248
     },
@@ -24447,12 +22683,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)ính mắt”",
       "answer": "k",
       "explanation": "Từ đúng là “kính mắt”, viết với phụ âm đầu “k”.",
-      "options": [
-        "gh",
-        "k",
-        "x",
-        "c"
-      ],
       "blankAnswer": "k",
       "questionNumber": 1251
     },
@@ -24518,12 +22748,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành tiếng thứ hai: “kể (...)uyện”",
       "answer": "ch",
       "blankAnswer": "ch",
-      "options": [
-        "t",
-        "x",
-        "ch",
-        "c"
-      ],
       "explanation": "Cụm từ đúng là “kể chuyện”.",
       "questionNumber": 1254,
       "questionId": "k2_c1_dt_0296"
@@ -24598,12 +22822,6 @@
       "question": "Chọn phụ âm đầu đúng cho tiếng trong ngoặc: “(...)á chép”",
       "answer": "c",
       "blankAnswer": "c",
-      "options": [
-        "c",
-        "l",
-        "b",
-        "th"
-      ],
       "explanation": "Từ đúng là “cá chép”, viết với phụ âm đầu “c”.",
       "questionNumber": 1258,
       "questionId": "k2_c1_dt_0297"
@@ -24669,12 +22887,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)ánh diều”",
       "answer": "c",
       "explanation": "Từ đúng là “cánh diều”, viết với phụ âm đầu “c”.",
-      "options": [
-        "k",
-        "s",
-        "gh",
-        "c"
-      ],
       "blankAnswer": "c",
       "questionNumber": 1262
     },
@@ -24800,12 +23012,6 @@
       "question": "Chọn phụ âm đầu đúng cho tiếng trong ngoặc: “(...)à trống”",
       "answer": "g",
       "blankAnswer": "g",
-      "options": [
-        "nh",
-        "g",
-        "x",
-        "h"
-      ],
       "explanation": "Từ đúng là “gà trống”, viết với phụ âm đầu “g”.",
       "questionNumber": 1269,
       "questionId": "k2_c1_dt_0299"
@@ -24934,12 +23140,6 @@
       "question": "Chọn phụ âm đầu đúng cho tiếng trong ngoặc: “(...)ặp sách”",
       "answer": "c",
       "blankAnswer": "c",
-      "options": [
-        "c",
-        "v",
-        "ch",
-        "l"
-      ],
       "explanation": "Từ đúng là “cặp sách”, viết với phụ âm đầu “c”.",
       "questionNumber": 1275,
       "questionId": "k2_c1_dt_0300"
@@ -25055,12 +23255,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành tiếng thứ hai: “con (...)ó”",
       "answer": "ch",
       "blankAnswer": "ch",
-      "options": [
-        "đ",
-        "t",
-        "k",
-        "ch"
-      ],
       "explanation": "Cụm từ đúng là “con chó”.",
       "questionNumber": 1282,
       "questionId": "k2_c1_dt_0301"
@@ -25178,12 +23372,6 @@
       "question": "Chọn phụ âm đầu đúng cho tiếng trong ngoặc: “(...)át mẻ”",
       "answer": "m",
       "blankAnswer": "m",
-      "options": [
-        "b",
-        "m",
-        "n",
-        "p"
-      ],
       "explanation": "Từ đúng là “mát mẻ”, viết với phụ âm đầu “m”.",
       "questionNumber": 1288,
       "questionId": "k2_c1_dt_0302"
@@ -25196,12 +23384,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)ầy giáo”",
       "answer": "th",
       "blankAnswer": "th",
-      "options": [
-        "l",
-        "m",
-        "th",
-        "g"
-      ],
       "explanation": "Từ đúng là “thầy giáo”, viết với phụ âm đầu “th”.",
       "questionNumber": 1289,
       "questionId": "k2_c1_dt_0303"
@@ -25301,12 +23483,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành tiếng thứ hai: “da (...)ắng”",
       "answer": "tr",
       "blankAnswer": "tr",
-      "options": [
-        "tr",
-        "s",
-        "đ",
-        "kh"
-      ],
       "explanation": "Cụm từ đúng là “da trắng”.",
       "questionNumber": 1295,
       "questionId": "k2_c1_dt_0304"
@@ -25336,12 +23512,6 @@
       "question": "Chọn phụ âm đầu đúng cho tiếng trong ngoặc: “(...)ống trường”",
       "answer": "tr",
       "blankAnswer": "tr",
-      "options": [
-        "tr",
-        "c",
-        "b",
-        "qu"
-      ],
       "explanation": "Từ đúng là “trống trường”, viết với phụ âm đầu “tr”.",
       "questionNumber": 1297,
       "questionId": "k2_c1_dt_0305"
@@ -25354,12 +23524,6 @@
       "question": "Chọn phụ âm đầu đúng cho tiếng trong ngoặc: “(...)a đình”",
       "answer": "gi",
       "blankAnswer": "gi",
-      "options": [
-        "ngh",
-        "ph",
-        "gi",
-        "s"
-      ],
       "explanation": "Từ đúng là “gia đình”, viết với phụ âm đầu “gi”.",
       "questionNumber": 1298,
       "questionId": "k2_c1_dt_0306"
@@ -25407,12 +23571,6 @@
       "question": "Chọn phụ âm đầu đúng cho tiếng trong ngoặc: “(...)ơn mưa”",
       "answer": "c",
       "blankAnswer": "c",
-      "options": [
-        "x",
-        "t",
-        "c",
-        "s"
-      ],
       "explanation": "Từ đúng là “cơn mưa”, viết với phụ âm đầu “c”.",
       "questionNumber": 1301,
       "questionId": "k2_c1_dt_0307"
@@ -25528,12 +23686,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)ỉ hè”",
       "answer": "ngh",
       "explanation": "Từ đúng là “nghỉ hè”, viết với phụ âm đầu “ngh”.",
-      "options": [
-        "gh",
-        "ngh",
-        "s",
-        "ng"
-      ],
       "blankAnswer": "ngh",
       "questionNumber": 1307
     },
@@ -25784,12 +23936,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)ếp lửa”",
       "answer": "b",
       "blankAnswer": "b",
-      "options": [
-        "n",
-        "b",
-        "th",
-        "l"
-      ],
       "explanation": "Từ đúng là “bếp lửa”, viết với phụ âm đầu “b”.",
       "questionNumber": 1320,
       "questionId": "k2_c1_dt_0309"
@@ -25837,12 +23983,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)ân thật”",
       "answer": "ch",
       "explanation": "Từ đúng là “chân thật”, viết với phụ âm đầu “ch”.",
-      "options": [
-        "x",
-        "s",
-        "ch",
-        "tr"
-      ],
       "blankAnswer": "ch",
       "questionNumber": 1323
     },
@@ -25871,12 +24011,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành tiếng thứ hai: “chăm (...)oan”",
       "answer": "ng",
       "blankAnswer": "ng",
-      "options": [
-        "ng",
-        "kh",
-        "x",
-        "ngh"
-      ],
       "explanation": "Cụm từ đúng là “chăm ngoan”.",
       "questionNumber": 1325,
       "questionId": "k2_c1_dt_0311"
@@ -26065,12 +24199,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)á chép”",
       "answer": "c",
       "explanation": "Từ đúng là “cá chép”, viết với phụ âm đầu “c”.",
-      "options": [
-        "gh",
-        "s",
-        "c",
-        "k"
-      ],
       "blankAnswer": "c",
       "questionNumber": 1336
     },
@@ -26181,12 +24309,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)ổi tre”",
       "answer": "ch",
       "explanation": "Từ đúng là “chổi tre”, viết với phụ âm đầu “ch”.",
-      "options": [
-        "tr",
-        "s",
-        "ch",
-        "x"
-      ],
       "blankAnswer": "ch",
       "questionNumber": 1342
     },
@@ -26366,12 +24488,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)on bò”",
       "answer": "c",
       "blankAnswer": "c",
-      "options": [
-        "n",
-        "c",
-        "ng",
-        "l"
-      ],
       "explanation": "Từ đúng là “con bò”, viết với phụ âm đầu “c”.",
       "questionNumber": 1352,
       "questionId": "k2_c1_dt_0314"
@@ -26384,12 +24500,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành tiếng thứ hai: “cây (...)ượng”",
       "answer": "ph",
       "blankAnswer": "ph",
-      "options": [
-        "t",
-        "ng",
-        "v",
-        "ph"
-      ],
       "explanation": "Cụm từ đúng là “cây phượng”.",
       "questionNumber": 1353,
       "questionId": "k2_c1_dt_0315"
@@ -26402,12 +24512,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)ộp bút”",
       "answer": "h",
       "blankAnswer": "h",
-      "options": [
-        "đ",
-        "c",
-        "h",
-        "b"
-      ],
       "explanation": "Từ đúng là “hộp bút”, viết với phụ âm đầu “h”.",
       "questionNumber": 1354,
       "questionId": "k2_c1_dt_0316"
@@ -26540,12 +24644,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành tiếng thứ hai: “cặp (...)ách”",
       "answer": "s",
       "blankAnswer": "s",
-      "options": [
-        "m",
-        "p",
-        "s",
-        "kh"
-      ],
       "explanation": "Cụm từ đúng là “cặp sách”.",
       "questionNumber": 1362,
       "questionId": "k2_c1_dt_0317"
@@ -26558,12 +24656,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)on thỏ”",
       "answer": "c",
       "blankAnswer": "c",
-      "options": [
-        "m",
-        "ch",
-        "l",
-        "c"
-      ],
       "explanation": "Từ đúng là “con thỏ”, viết với phụ âm đầu “c”.",
       "questionNumber": 1363,
       "questionId": "k2_c1_dt_0318"
@@ -26702,12 +24794,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)ếng nước”",
       "answer": "gi",
       "explanation": "Từ đúng là “giếng nước”, viết với phụ âm đầu “gi”.",
-      "options": [
-        "gi",
-        "x",
-        "r",
-        "d"
-      ],
       "blankAnswer": "gi",
       "questionNumber": 1370
     },
@@ -26788,12 +24874,6 @@
       "question": "Chọn phụ âm đầu đúng cho tiếng trong ngoặc: “(...)âu bọ”",
       "answer": "s",
       "blankAnswer": "s",
-      "options": [
-        "b",
-        "qu",
-        "s",
-        "gh"
-      ],
       "explanation": "Từ đúng là “sâu bọ”, viết với phụ âm đầu “s”.",
       "questionNumber": 1375,
       "questionId": "k2_c1_dt_0320"
@@ -26807,12 +24887,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)ó mát”",
       "answer": "gi",
       "explanation": "Từ đúng là “gió mát”, viết với phụ âm đầu “gi”.",
-      "options": [
-        "gi",
-        "r",
-        "d",
-        "x"
-      ],
       "blankAnswer": "gi",
       "questionNumber": 1376
     },
@@ -26863,12 +24937,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)ọc sách”",
       "answer": "đ",
       "blankAnswer": "đ",
-      "options": [
-        "đ",
-        "gh",
-        "m",
-        "ng"
-      ],
       "explanation": "Từ đúng là “đọc sách”, viết với phụ âm đầu “đ”.",
       "questionNumber": 1379,
       "questionId": "k2_c1_dt_0322"
@@ -26944,12 +25012,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)um họp”",
       "answer": "s",
       "explanation": "Từ đúng là “sum họp”, viết với phụ âm đầu “s”.",
-      "options": [
-        "tr",
-        "s",
-        "ch",
-        "x"
-      ],
       "blankAnswer": "s",
       "questionNumber": 1383
     },
@@ -26978,12 +25040,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)ắng nghe”",
       "answer": "l",
       "blankAnswer": "l",
-      "options": [
-        "ph",
-        "l",
-        "p",
-        "gh"
-      ],
       "explanation": "Từ đúng là “lắng nghe”, viết với phụ âm đầu “l”.",
       "questionNumber": 1385,
       "questionId": "k2_c1_dt_0324"
@@ -26996,12 +25052,6 @@
       "question": "Chọn phụ âm đầu đúng cho tiếng trong ngoặc: “(...)ếp hàng”",
       "answer": "x",
       "blankAnswer": "x",
-      "options": [
-        "x",
-        "l",
-        "m",
-        "gh"
-      ],
       "explanation": "Từ đúng là “xếp hàng”, viết với phụ âm đầu “x”.",
       "questionNumber": 1386,
       "questionId": "k2_c1_dt_0325"
@@ -27014,12 +25064,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành tiếng thứ hai: “kỉ (...)iệm”",
       "answer": "n",
       "blankAnswer": "n",
-      "options": [
-        "tr",
-        "nh",
-        "n",
-        "x"
-      ],
       "explanation": "Cụm từ đúng là “kỉ niệm”.",
       "questionNumber": 1387,
       "questionId": "k2_c1_dt_0326"
@@ -27032,12 +25076,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)ăm sóc”",
       "answer": "ch",
       "blankAnswer": "ch",
-      "options": [
-        "c",
-        "nh",
-        "ch",
-        "ngh"
-      ],
       "explanation": "Từ đúng là “chăm sóc”, viết với phụ âm đầu “ch”.",
       "questionNumber": 1388,
       "questionId": "k2_c1_dt_0327"
@@ -27135,12 +25173,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)á vàng”",
       "answer": "c",
       "blankAnswer": "c",
-      "options": [
-        "h",
-        "nh",
-        "r",
-        "c"
-      ],
       "explanation": "Từ đúng là “cá vàng”, viết với phụ âm đầu “c”.",
       "questionNumber": 1394,
       "questionId": "k2_c1_dt_0328"
@@ -27187,12 +25219,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành tiếng thứ hai: “quả (...)ưởi”",
       "answer": "b",
       "blankAnswer": "b",
-      "options": [
-        "v",
-        "b",
-        "th",
-        "tr"
-      ],
       "explanation": "Cụm từ đúng là “quả bưởi”.",
       "questionNumber": 1397,
       "questionId": "k2_c1_dt_0329"
@@ -27234,12 +25260,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)ái cốc”",
       "answer": "c",
       "explanation": "Từ đúng là “cái cốc”, viết với phụ âm đầu “c”.",
-      "options": [
-        "c",
-        "s",
-        "gh",
-        "k"
-      ],
       "blankAnswer": "c",
       "questionNumber": 1399
     },
@@ -27468,12 +25488,6 @@
       "question": "Chọn phụ âm đầu đúng cho tiếng trong ngoặc: “(...)anh biếc”",
       "answer": "x",
       "blankAnswer": "x",
-      "options": [
-        "t",
-        "g",
-        "x",
-        "qu"
-      ],
       "explanation": "Từ đúng là “xanh biếc”, viết với phụ âm đầu “x”.",
       "questionNumber": 1411,
       "questionId": "k2_c1_dt_0331"
@@ -27486,12 +25500,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành tiếng thứ hai: “hát (...)úa”",
       "answer": "m",
       "blankAnswer": "m",
-      "options": [
-        "b",
-        "m",
-        "ch",
-        "v"
-      ],
       "explanation": "Cụm từ đúng là “hát múa”.",
       "questionNumber": 1412,
       "questionId": "k2_c1_dt_0332"
@@ -27607,12 +25615,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)ú chim”",
       "answer": "ch",
       "explanation": "Từ đúng là “chú chim”, viết với phụ âm đầu “ch”.",
-      "options": [
-        "x",
-        "s",
-        "ch",
-        "tr"
-      ],
       "blankAnswer": "ch",
       "questionNumber": 1418
     },
@@ -27624,12 +25626,6 @@
       "question": "Chọn phụ âm đầu đúng cho tiếng trong ngoặc: “(...)úp đỡ”",
       "answer": "gi",
       "blankAnswer": "gi",
-      "options": [
-        "gi",
-        "k",
-        "m",
-        "ng"
-      ],
       "explanation": "Từ đúng là “giúp đỡ”, viết với phụ âm đầu “gi”.",
       "questionNumber": 1419,
       "questionId": "k2_c1_dt_0334"
@@ -27863,12 +25859,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)inh xắn”",
       "answer": "x",
       "explanation": "Từ đúng là “xinh xắn”, viết với phụ âm đầu “x”.",
-      "options": [
-        "s",
-        "tr",
-        "x",
-        "ch"
-      ],
       "blankAnswer": "x",
       "questionNumber": 1431
     },
@@ -28290,12 +26280,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)ọn núi”",
       "answer": "ng",
       "explanation": "Từ đúng là “ngọn núi”, viết với phụ âm đầu “ng”.",
-      "options": [
-        "x",
-        "ng",
-        "ngh",
-        "ch"
-      ],
       "blankAnswer": "ng",
       "questionNumber": 1452
     },
@@ -28341,12 +26325,6 @@
       "question": "Chọn phụ âm đầu đúng cho tiếng trong ngoặc: “(...)ề nghiệp”",
       "answer": "ngh",
       "blankAnswer": "ngh",
-      "options": [
-        "h",
-        "ngh",
-        "p",
-        "kh"
-      ],
       "explanation": "Từ đúng là “nghề nghiệp”, viết với phụ âm đầu “ngh”.",
       "questionNumber": 1455,
       "questionId": "k2_c1_dt_0337"
@@ -28462,12 +26440,6 @@
       "question": "Chọn phụ âm đầu đúng cho tiếng trong ngoặc: “(...)ể chuyện”",
       "answer": "k",
       "blankAnswer": "k",
-      "options": [
-        "t",
-        "b",
-        "nh",
-        "k"
-      ],
       "explanation": "Từ đúng là “kể chuyện”, viết với phụ âm đầu “k”.",
       "questionNumber": 1462,
       "questionId": "k2_c1_dt_0338"
@@ -28481,12 +26453,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)i bài”",
       "answer": "gh",
       "explanation": "Từ đúng là “ghi bài”, viết với phụ âm đầu “gh”.",
-      "options": [
-        "gh",
-        "tr",
-        "g",
-        "k"
-      ],
       "blankAnswer": "gh",
       "questionNumber": 1463
     },
@@ -28612,12 +26578,6 @@
       "question": "Chọn phụ âm đầu đúng cho tiếng trong ngoặc: “(...)ật thà”",
       "answer": "th",
       "blankAnswer": "th",
-      "options": [
-        "d",
-        "x",
-        "th",
-        "r"
-      ],
       "explanation": "Từ đúng là “thật thà”, viết với phụ âm đầu “th”.",
       "questionNumber": 1470,
       "questionId": "k2_c1_dt_0340"
@@ -28860,12 +26820,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành tiếng thứ hai: “bàn (...)ế”",
       "answer": "gh",
       "blankAnswer": "gh",
-      "options": [
-        "đ",
-        "gi",
-        "gh",
-        "g"
-      ],
       "explanation": "Cụm từ đúng là “bàn ghế”.",
       "questionNumber": 1482,
       "questionId": "k2_c1_dt_0341"
@@ -28878,12 +26832,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành tiếng thứ hai: “cha (...)ẹ”",
       "answer": "m",
       "blankAnswer": "m",
-      "options": [
-        "m",
-        "gi",
-        "c",
-        "th"
-      ],
       "explanation": "Cụm từ đúng là “cha mẹ”.",
       "questionNumber": 1483,
       "questionId": "k2_c1_dt_0342"
@@ -28897,12 +26845,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)ời mưa”",
       "answer": "tr",
       "explanation": "Từ đúng là “trời mưa”, viết với phụ âm đầu “tr”.",
-      "options": [
-        "s",
-        "tr",
-        "ch",
-        "x"
-      ],
       "blankAnswer": "tr",
       "questionNumber": 1484
     },
@@ -29113,12 +27055,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành tiếng thứ hai: “cây (...)àng”",
       "answer": "b",
       "blankAnswer": "b",
-      "options": [
-        "n",
-        "th",
-        "t",
-        "b"
-      ],
       "explanation": "Cụm từ đúng là “cây bàng”.",
       "questionNumber": 1492,
       "questionId": "k2_c1_dt_0344"
@@ -29202,12 +27138,6 @@
       "question": "Chọn phụ âm đầu đúng cho tiếng trong ngoặc: “(...)á sách”",
       "answer": "gi",
       "blankAnswer": "gi",
-      "options": [
-        "tr",
-        "ch",
-        "m",
-        "gi"
-      ],
       "explanation": "Từ đúng là “giá sách”, viết với phụ âm đầu “gi”.",
       "questionNumber": 1496,
       "questionId": "k2_c1_dt_0345"
@@ -29237,12 +27167,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành tiếng thứ hai: “mặt (...)ời”",
       "answer": "tr",
       "blankAnswer": "tr",
-      "options": [
-        "b",
-        "tr",
-        "h",
-        "ngh"
-      ],
       "explanation": "Cụm từ đúng là “mặt trời”.",
       "questionNumber": 1498,
       "questionId": "k2_c1_dt_0346"
@@ -29388,12 +27312,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)ế gỗ”",
       "answer": "gh",
       "explanation": "Từ đúng là “ghế gỗ”, viết với phụ âm đầu “gh”.",
-      "options": [
-        "tr",
-        "g",
-        "gh",
-        "k"
-      ],
       "blankAnswer": "gh",
       "questionNumber": 1506
     },
@@ -29515,12 +27433,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)ây bàng”",
       "answer": "c",
       "explanation": "Từ đúng là “cây bàng”, viết với phụ âm đầu “c”.",
-      "options": [
-        "gh",
-        "k",
-        "c",
-        "s"
-      ],
       "blankAnswer": "c",
       "questionNumber": 1512
     },
@@ -29634,12 +27546,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)ân trời”",
       "answer": "ch",
       "blankAnswer": "ch",
-      "options": [
-        "ch",
-        "đ",
-        "t",
-        "ngh"
-      ],
       "explanation": "Từ đúng là “chân trời”, viết với phụ âm đầu “ch”.",
       "questionNumber": 1518,
       "questionId": "k2_c1_dt_0349"
@@ -29669,12 +27575,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành tiếng thứ hai: “nhanh (...)ẹn”",
       "answer": "nh",
       "blankAnswer": "nh",
-      "options": [
-        "v",
-        "gi",
-        "nh",
-        "tr"
-      ],
       "explanation": "Cụm từ đúng là “nhanh nhẹn”.",
       "questionNumber": 1520,
       "questionId": "k2_c1_dt_0350"
@@ -29687,12 +27587,6 @@
       "question": "Chọn phụ âm đầu đúng cho tiếng trong ngoặc: “(...)ó mát”",
       "answer": "gi",
       "blankAnswer": "gi",
-      "options": [
-        "ng",
-        "ngh",
-        "th",
-        "gi"
-      ],
       "explanation": "Từ đúng là “gió mát”, viết với phụ âm đầu “gi”.",
       "questionNumber": 1521,
       "questionId": "k2_c1_dt_0351"
@@ -29722,12 +27616,6 @@
       "question": "Chọn phụ âm đầu đúng cho tiếng trong ngoặc: “(...)ú thỏ”",
       "answer": "ch",
       "blankAnswer": "ch",
-      "options": [
-        "ch",
-        "th",
-        "r",
-        "ng"
-      ],
       "explanation": "Từ đúng là “chú thỏ”, viết với phụ âm đầu “ch”.",
       "questionNumber": 1523,
       "questionId": "k2_c1_dt_0352"
@@ -29758,12 +27646,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)ếp hàng”",
       "answer": "x",
       "explanation": "Từ đúng là “xếp hàng”, viết với phụ âm đầu “x”.",
-      "options": [
-        "ch",
-        "tr",
-        "s",
-        "x"
-      ],
       "blankAnswer": "x",
       "questionNumber": 1525
     },
@@ -29880,12 +27762,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành tiếng thứ hai: “đạp (...)e”",
       "answer": "x",
       "blankAnswer": "x",
-      "options": [
-        "gh",
-        "x",
-        "r",
-        "p"
-      ],
       "explanation": "Cụm từ đúng là “đạp xe”.",
       "questionNumber": 1531,
       "questionId": "k2_c1_dt_0354"
@@ -30022,12 +27898,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)on nai”",
       "answer": "c",
       "explanation": "Từ đúng là “con nai”, viết với phụ âm đầu “c”.",
-      "options": [
-        "k",
-        "c",
-        "s",
-        "gh"
-      ],
       "blankAnswer": "c",
       "questionNumber": 1538
     },
@@ -30067,12 +27937,6 @@
       "question": "Chọn phụ âm đầu đúng cho tiếng trong ngoặc: “(...)ọn gàng”",
       "answer": "g",
       "blankAnswer": "g",
-      "options": [
-        "gi",
-        "ch",
-        "n",
-        "g"
-      ],
       "explanation": "Từ đúng là “gọn gàng”, viết với phụ âm đầu “g”.",
       "questionNumber": 1540,
       "questionId": "k2_c1_dt_0356"
@@ -30085,12 +27949,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)iếc khăn”",
       "answer": "ch",
       "blankAnswer": "ch",
-      "options": [
-        "d",
-        "ch",
-        "p",
-        "nh"
-      ],
       "explanation": "Từ đúng là “chiếc khăn”, viết với phụ âm đầu “ch”.",
       "questionNumber": 1541,
       "questionId": "k2_c1_dt_0357"
@@ -30296,12 +28154,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)ạp xe”",
       "answer": "đ",
       "blankAnswer": "đ",
-      "options": [
-        "đ",
-        "nh",
-        "m",
-        "ph"
-      ],
       "explanation": "Từ đúng là “đạp xe”, viết với phụ âm đầu “đ”.",
       "questionNumber": 1552,
       "questionId": "k2_c1_dt_0358"
@@ -30484,12 +28336,6 @@
       "question": "Chọn phụ âm đầu đúng cho tiếng trong ngoặc: “(...)áng sớm”",
       "answer": "s",
       "blankAnswer": "s",
-      "options": [
-        "s",
-        "h",
-        "ch",
-        "t"
-      ],
       "explanation": "Từ đúng là “sáng sớm”, viết với phụ âm đầu “s”.",
       "questionNumber": 1561,
       "questionId": "k2_c1_dt_0359"
@@ -30650,12 +28496,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)ạy bộ”",
       "answer": "ch",
       "blankAnswer": "ch",
-      "options": [
-        "kh",
-        "ng",
-        "ch",
-        "x"
-      ],
       "explanation": "Từ đúng là “chạy bộ”, viết với phụ âm đầu “ch”.",
       "questionNumber": 1570,
       "questionId": "k2_c1_dt_0360"
@@ -30877,12 +28717,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành tiếng thứ hai: “bếp (...)ửa”",
       "answer": "l",
       "blankAnswer": "l",
-      "options": [
-        "đ",
-        "l",
-        "s",
-        "b"
-      ],
       "explanation": "Cụm từ đúng là “bếp lửa”.",
       "questionNumber": 1581,
       "questionId": "k2_c1_dt_0361"
@@ -30986,12 +28820,6 @@
       "question": "Chọn phụ âm đầu đúng cho tiếng trong ngoặc: “(...)ả bưởi”",
       "answer": "qu",
       "blankAnswer": "qu",
-      "options": [
-        "s",
-        "v",
-        "l",
-        "qu"
-      ],
       "explanation": "Từ đúng là “quả bưởi”, viết với phụ âm đầu “qu”.",
       "questionNumber": 1585,
       "questionId": "k2_c1_dt_0362"
@@ -31040,12 +28868,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)âu bọ”",
       "answer": "s",
       "explanation": "Từ đúng là “sâu bọ”, viết với phụ âm đầu “s”.",
-      "options": [
-        "tr",
-        "ch",
-        "s",
-        "x"
-      ],
       "blankAnswer": "s",
       "questionNumber": 1588
     },
@@ -31125,12 +28947,6 @@
       "question": "Chọn phụ âm đầu đúng cho tiếng trong ngoặc: “(...)ây phượng”",
       "answer": "c",
       "blankAnswer": "c",
-      "options": [
-        "c",
-        "gh",
-        "gi",
-        "t"
-      ],
       "explanation": "Từ đúng là “cây phượng”, viết với phụ âm đầu “c”.",
       "questionNumber": 1593,
       "questionId": "k2_c1_dt_0364"
@@ -31189,12 +29005,6 @@
       "question": "Chọn phụ âm đầu đúng cho tiếng trong ngoặc: “(...)ộp bút”",
       "answer": "h",
       "blankAnswer": "h",
-      "options": [
-        "c",
-        "b",
-        "h",
-        "đ"
-      ],
       "explanation": "Từ đúng là “hộp bút”, viết với phụ âm đầu “h”.",
       "questionNumber": 1596,
       "questionId": "k2_c1_dt_0365"
@@ -31311,12 +29121,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)ặt trăng”",
       "answer": "m",
       "explanation": "Từ đúng là “mặt trăng”, viết với phụ âm đầu “m”.",
-      "options": [
-        "k",
-        "m",
-        "c",
-        "g"
-      ],
       "blankAnswer": "m",
       "questionNumber": 1603
     },
@@ -31345,12 +29149,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành tiếng thứ hai: “cái (...)ốc”",
       "answer": "c",
       "blankAnswer": "c",
-      "options": [
-        "p",
-        "c",
-        "g",
-        "ph"
-      ],
       "explanation": "Cụm từ đúng là “cái cốc”.",
       "questionNumber": 1605,
       "questionId": "k2_c1_dt_0367"
@@ -31380,12 +29178,6 @@
       "question": "Chọn phụ âm đầu đúng cho tiếng trong ngoặc: “(...)ấu cơm”",
       "answer": "n",
       "blankAnswer": "n",
-      "options": [
-        "n",
-        "đ",
-        "b",
-        "x"
-      ],
       "explanation": "Từ đúng là “nấu cơm”, viết với phụ âm đầu “n”.",
       "questionNumber": 1607,
       "questionId": "k2_c1_dt_0368"
@@ -31435,12 +29227,6 @@
       "question": "Chọn phụ âm đầu đúng cho tiếng trong ngoặc: “(...)ô giáo”",
       "answer": "c",
       "blankAnswer": "c",
-      "options": [
-        "d",
-        "c",
-        "l",
-        "th"
-      ],
       "explanation": "Từ đúng là “cô giáo”, viết với phụ âm đầu “c”.",
       "questionNumber": 1609,
       "questionId": "k2_c1_dt_0369"
@@ -31643,12 +29429,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)ửa bát”",
       "answer": "r",
       "blankAnswer": "r",
-      "options": [
-        "c",
-        "ngh",
-        "r",
-        "gh"
-      ],
       "explanation": "Từ đúng là “rửa bát”, viết với phụ âm đầu “r”.",
       "questionNumber": 1620,
       "questionId": "k2_c1_dt_0370"
@@ -31661,12 +29441,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)anh nhẹn”",
       "answer": "nh",
       "blankAnswer": "nh",
-      "options": [
-        "nh",
-        "kh",
-        "k",
-        "b"
-      ],
       "explanation": "Từ đúng là “nhanh nhẹn”, viết với phụ âm đầu “nh”.",
       "questionNumber": 1621,
       "questionId": "k2_c1_dt_0371"
@@ -31679,12 +29453,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)iết bài”",
       "answer": "v",
       "blankAnswer": "v",
-      "options": [
-        "nh",
-        "th",
-        "s",
-        "v"
-      ],
       "explanation": "Từ đúng là “viết bài”, viết với phụ âm đầu “v”.",
       "questionNumber": 1622,
       "questionId": "k2_c1_dt_0372"
@@ -31819,12 +29587,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành tiếng thứ hai: “cô (...)áo”",
       "answer": "gi",
       "blankAnswer": "gi",
-      "options": [
-        "t",
-        "nh",
-        "p",
-        "gi"
-      ],
       "explanation": "Cụm từ đúng là “cô giáo”.",
       "questionNumber": 1629,
       "questionId": "k2_c1_dt_0373"
@@ -31855,12 +29617,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)ái kéo”",
       "answer": "c",
       "explanation": "Từ đúng là “cái kéo”, viết với phụ âm đầu “c”.",
-      "options": [
-        "gh",
-        "k",
-        "c",
-        "s"
-      ],
       "blankAnswer": "c",
       "questionNumber": 1631
     },
@@ -31917,12 +29673,6 @@
       "question": "Chọn phụ âm đầu đúng cho tiếng trong ngoặc: “(...)òng suối”",
       "answer": "d",
       "blankAnswer": "d",
-      "options": [
-        "h",
-        "qu",
-        "d",
-        "m"
-      ],
       "explanation": "Từ đúng là “dòng suối”, viết với phụ âm đầu “d”.",
       "questionNumber": 1634,
       "questionId": "k2_c1_dt_0375"
@@ -31935,12 +29685,6 @@
       "question": "Chọn phụ âm đầu đúng cho tiếng trong ngoặc: “(...)oan ngoãn”",
       "answer": "ng",
       "blankAnswer": "ng",
-      "options": [
-        "kh",
-        "qu",
-        "c",
-        "ng"
-      ],
       "explanation": "Từ đúng là “ngoan ngoãn”, viết với phụ âm đầu “ng”.",
       "questionNumber": 1635,
       "questionId": "k2_c1_dt_0376"
@@ -31970,12 +29714,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành tiếng thứ hai: “dòng (...)ông”",
       "answer": "s",
       "blankAnswer": "s",
-      "options": [
-        "th",
-        "s",
-        "b",
-        "m"
-      ],
       "explanation": "Cụm từ đúng là “dòng sông”.",
       "questionNumber": 1637,
       "questionId": "k2_c1_dt_0377"
@@ -32050,12 +29788,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành tiếng thứ hai: “quét (...)à”",
       "answer": "nh",
       "blankAnswer": "nh",
-      "options": [
-        "k",
-        "qu",
-        "tr",
-        "nh"
-      ],
       "explanation": "Cụm từ đúng là “quét nhà”.",
       "questionNumber": 1641,
       "questionId": "k2_c1_dt_0378"
@@ -32068,12 +29800,6 @@
       "question": "Chọn phụ âm đầu đúng cho tiếng trong ngoặc: “(...)ạch sẽ”",
       "answer": "s",
       "blankAnswer": "s",
-      "options": [
-        "x",
-        "p",
-        "s",
-        "m"
-      ],
       "explanation": "Từ đúng là “sạch sẽ”, viết với phụ âm đầu “s”.",
       "questionNumber": 1642,
       "questionId": "k2_c1_dt_0379"
@@ -32086,12 +29812,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành tiếng thứ hai: “hiền (...)ành”",
       "answer": "l",
       "blankAnswer": "l",
-      "options": [
-        "l",
-        "ch",
-        "gi",
-        "t"
-      ],
       "explanation": "Cụm từ đúng là “hiền lành”.",
       "questionNumber": 1643,
       "questionId": "k2_c1_dt_0380"
@@ -32173,12 +29893,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)ây phượng”",
       "answer": "c",
       "blankAnswer": "c",
-      "options": [
-        "c",
-        "gh",
-        "gi",
-        "t"
-      ],
       "explanation": "Từ đúng là “cây phượng”, viết với phụ âm đầu “c”.",
       "questionNumber": 1648,
       "questionId": "k2_c1_dt_0381"
@@ -32260,12 +29974,6 @@
       "question": "Chọn phụ âm đầu đúng cho tiếng trong ngoặc: “(...)ái trường”",
       "answer": "m",
       "blankAnswer": "m",
-      "options": [
-        "h",
-        "k",
-        "m",
-        "r"
-      ],
       "explanation": "Từ đúng là “mái trường”, viết với phụ âm đầu “m”.",
       "questionNumber": 1653,
       "questionId": "k2_c1_dt_0382"
@@ -32295,12 +30003,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)ếp hình”",
       "answer": "x",
       "blankAnswer": "x",
-      "options": [
-        "qu",
-        "n",
-        "th",
-        "x"
-      ],
       "explanation": "Từ đúng là “xếp hình”, viết với phụ âm đầu “x”.",
       "questionNumber": 1655,
       "questionId": "k2_c1_dt_0383"
@@ -32376,12 +30078,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)ám mây”",
       "answer": "đ",
       "blankAnswer": "đ",
-      "options": [
-        "tr",
-        "k",
-        "v",
-        "đ"
-      ],
       "explanation": "Từ đúng là “đám mây”, viết với phụ âm đầu “đ”.",
       "questionNumber": 1659,
       "questionId": "k2_c1_dt_0384"
@@ -32428,12 +30124,6 @@
       "question": "Chọn phụ âm đầu đúng cho tiếng trong ngoặc: “(...)ọn đèn”",
       "answer": "ng",
       "blankAnswer": "ng",
-      "options": [
-        "ph",
-        "h",
-        "g",
-        "ng"
-      ],
       "explanation": "Từ đúng là “ngọn đèn”, viết với phụ âm đầu “ng”.",
       "questionNumber": 1662,
       "questionId": "k2_c1_dt_0385"
@@ -32446,12 +30136,6 @@
       "question": "Chọn phụ âm đầu đúng cho tiếng trong ngoặc: “(...)ếp lửa”",
       "answer": "b",
       "blankAnswer": "b",
-      "options": [
-        "n",
-        "th",
-        "b",
-        "l"
-      ],
       "explanation": "Từ đúng là “bếp lửa”, viết với phụ âm đầu “b”.",
       "questionNumber": 1663,
       "questionId": "k2_c1_dt_0386"
@@ -32645,12 +30329,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành tiếng thứ hai: “nghề (...)iệp”",
       "answer": "ngh",
       "blankAnswer": "ngh",
-      "options": [
-        "t",
-        "d",
-        "ngh",
-        "qu"
-      ],
       "explanation": "Cụm từ đúng là “nghề nghiệp”.",
       "questionNumber": 1674,
       "questionId": "k2_c1_dt_0387"
@@ -32709,12 +30387,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)ăm chỉ”",
       "answer": "ch",
       "explanation": "Từ đúng là “chăm chỉ”, viết với phụ âm đầu “ch”.",
-      "options": [
-        "tr",
-        "ch",
-        "s",
-        "x"
-      ],
       "blankAnswer": "ch",
       "questionNumber": 1677
     },
@@ -32743,12 +30415,6 @@
       "question": "Chọn phụ âm đầu đúng cho tiếng trong ngoặc: “(...)ỉ niệm”",
       "answer": "k",
       "blankAnswer": "k",
-      "options": [
-        "x",
-        "k",
-        "đ",
-        "c"
-      ],
       "explanation": "Từ đúng là “kỉ niệm”, viết với phụ âm đầu “k”.",
       "questionNumber": 1679,
       "questionId": "k2_c1_dt_0389"
@@ -32789,12 +30455,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành tiếng thứ hai: “trò (...)ơi”",
       "answer": "ch",
       "blankAnswer": "ch",
-      "options": [
-        "nh",
-        "ch",
-        "h",
-        "ph"
-      ],
       "explanation": "Cụm từ đúng là “trò chơi”.",
       "questionNumber": 1681,
       "questionId": "k2_c1_dt_0390"
@@ -32808,12 +30468,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)ân trường”",
       "answer": "s",
       "explanation": "Từ đúng là “sân trường”, viết với phụ âm đầu “s”.",
-      "options": [
-        "ch",
-        "x",
-        "s",
-        "tr"
-      ],
       "blankAnswer": "s",
       "questionNumber": 1682
     },
@@ -32826,12 +30480,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)ư viện”",
       "answer": "th",
       "explanation": "Từ đúng là “thư viện”, viết với phụ âm đầu “th”.",
-      "options": [
-        "k",
-        "c",
-        "g",
-        "th"
-      ],
       "blankAnswer": "th",
       "questionNumber": 1683
     },
@@ -32916,12 +30564,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành tiếng thứ hai: “chim (...)ẻ”",
       "answer": "s",
       "blankAnswer": "s",
-      "options": [
-        "v",
-        "tr",
-        "s",
-        "c"
-      ],
       "explanation": "Cụm từ đúng là “chim sẻ”.",
       "questionNumber": 1687,
       "questionId": "k2_c1_dt_0393"
@@ -33053,12 +30695,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành tiếng thứ hai: “bảng (...)en”",
       "answer": "đ",
       "blankAnswer": "đ",
-      "options": [
-        "g",
-        "đ",
-        "qu",
-        "k"
-      ],
       "explanation": "Cụm từ đúng là “bảng đen”.",
       "questionNumber": 1695,
       "questionId": "k2_c1_dt_0394"
@@ -33088,12 +30724,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành tiếng thứ hai: “rực (...)ỡ”",
       "answer": "r",
       "blankAnswer": "r",
-      "options": [
-        "r",
-        "qu",
-        "n",
-        "v"
-      ],
       "explanation": "Cụm từ đúng là “rực rỡ”.",
       "questionNumber": 1697,
       "questionId": "k2_c1_dt_0395"
@@ -33174,12 +30804,6 @@
       "question": "Chọn phụ âm đầu đúng cho tiếng trong ngoặc: “(...)on vịt”",
       "answer": "c",
       "blankAnswer": "c",
-      "options": [
-        "c",
-        "th",
-        "g",
-        "r"
-      ],
       "explanation": "Từ đúng là “con vịt”, viết với phụ âm đầu “c”.",
       "questionNumber": 1702,
       "questionId": "k2_c1_dt_0396"
@@ -33244,12 +30868,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành tiếng thứ hai: “thầy (...)áo”",
       "answer": "gi",
       "blankAnswer": "gi",
-      "options": [
-        "b",
-        "gi",
-        "v",
-        "nh"
-      ],
       "explanation": "Cụm từ đúng là “thầy giáo”.",
       "questionNumber": 1706,
       "questionId": "k2_c1_dt_0397"
@@ -33263,12 +30881,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)ủ ngon”",
       "answer": "ng",
       "explanation": "Từ đúng là “ngủ ngon”, viết với phụ âm đầu “ng”.",
-      "options": [
-        "ng",
-        "ngh",
-        "ch",
-        "x"
-      ],
       "blankAnswer": "ng",
       "questionNumber": 1707
     },
@@ -33372,12 +30984,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)ữa tươi”",
       "answer": "s",
       "explanation": "Từ đúng là “sữa tươi”, viết với phụ âm đầu “s”.",
-      "options": [
-        "s",
-        "tr",
-        "ch",
-        "x"
-      ],
       "blankAnswer": "s",
       "questionNumber": 1713
     },
@@ -33458,12 +31064,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành tiếng thứ hai: “ánh (...)ắng”",
       "answer": "n",
       "blankAnswer": "n",
-      "options": [
-        "n",
-        "c",
-        "h",
-        "x"
-      ],
       "explanation": "Cụm từ đúng là “ánh nắng”.",
       "questionNumber": 1718,
       "questionId": "k2_c1_dt_0400"
@@ -33510,12 +31110,6 @@
       "question": "Chọn phụ âm đầu đúng cho tiếng trong ngoặc: “(...)im sâu”",
       "answer": "ch",
       "blankAnswer": "ch",
-      "options": [
-        "r",
-        "ch",
-        "v",
-        "ph"
-      ],
       "explanation": "Từ đúng là “chim sâu”, viết với phụ âm đầu “ch”.",
       "questionNumber": 1721,
       "questionId": "k2_c1_dt_0401"
@@ -33583,12 +31177,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)á cờ”",
       "answer": "l",
       "explanation": "Từ đúng là “lá cờ”, viết với phụ âm đầu “l”.",
-      "options": [
-        "g",
-        "l",
-        "c",
-        "k"
-      ],
       "blankAnswer": "l",
       "questionNumber": 1725
     },
@@ -33706,12 +31294,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành tiếng thứ hai: “lắng (...)e”",
       "answer": "ngh",
       "blankAnswer": "ngh",
-      "options": [
-        "k",
-        "ngh",
-        "m",
-        "l"
-      ],
       "explanation": "Cụm từ đúng là “lắng nghe”.",
       "questionNumber": 1730,
       "questionId": "k2_c1_dt_0403"
@@ -33846,12 +31428,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành tiếng thứ hai: “nấu (...)ơm”",
       "answer": "c",
       "blankAnswer": "c",
-      "options": [
-        "x",
-        "gi",
-        "c",
-        "t"
-      ],
       "explanation": "Cụm từ đúng là “nấu cơm”.",
       "questionNumber": 1738,
       "questionId": "k2_c1_dt_0404"
@@ -33916,12 +31492,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành tiếng thứ hai: “đám (...)ây”",
       "answer": "m",
       "blankAnswer": "m",
-      "options": [
-        "b",
-        "qu",
-        "d",
-        "m"
-      ],
       "explanation": "Cụm từ đúng là “đám mây”.",
       "questionNumber": 1742,
       "questionId": "k2_c1_dt_0405"
@@ -33951,12 +31521,6 @@
       "question": "Chọn phụ âm đầu đúng cho tiếng trong ngoặc: “(...)àn ghế”",
       "answer": "b",
       "blankAnswer": "b",
-      "options": [
-        "v",
-        "ch",
-        "b",
-        "qu"
-      ],
       "explanation": "Từ đúng là “bàn ghế”, viết với phụ âm đầu “b”.",
       "questionNumber": 1744,
       "questionId": "k2_c1_dt_0406"
@@ -34020,12 +31584,6 @@
       "question": "Chọn phụ âm đầu đúng cho tiếng trong ngoặc: “(...)ễ phép”",
       "answer": "l",
       "blankAnswer": "l",
-      "options": [
-        "ng",
-        "l",
-        "tr",
-        "g"
-      ],
       "explanation": "Từ đúng là “lễ phép”, viết với phụ âm đầu “l”.",
       "questionNumber": 1748,
       "questionId": "k2_c1_dt_0407"
@@ -34092,12 +31650,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành tiếng thứ hai: “lá (...)anh”",
       "answer": "x",
       "blankAnswer": "x",
-      "options": [
-        "b",
-        "k",
-        "x",
-        "r"
-      ],
       "explanation": "Cụm từ đúng là “lá xanh”.",
       "questionNumber": 1751,
       "questionId": "k2_c1_dt_0408"
@@ -34178,12 +31730,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành tiếng thứ hai: “rửa (...)ay”",
       "answer": "t",
       "blankAnswer": "t",
-      "options": [
-        "đ",
-        "b",
-        "d",
-        "t"
-      ],
       "explanation": "Cụm từ đúng là “rửa tay”.",
       "questionNumber": 1756,
       "questionId": "k2_c1_dt_0409"
@@ -34248,12 +31794,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)ổ rá”",
       "answer": "r",
       "explanation": "Từ đúng là “rổ rá”, viết với phụ âm đầu “r”.",
-      "options": [
-        "r",
-        "d",
-        "gi",
-        "tr"
-      ],
       "blankAnswer": "r",
       "questionNumber": 1760
     },
@@ -34483,12 +32023,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành tiếng thứ hai: “cầu (...)ồng”",
       "answer": "v",
       "blankAnswer": "v",
-      "options": [
-        "v",
-        "p",
-        "gh",
-        "ng"
-      ],
       "explanation": "Cụm từ đúng là “cầu vồng”.",
       "questionNumber": 1771,
       "questionId": "k2_c1_dt_0411"
@@ -34537,12 +32071,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)ầu vồng”",
       "answer": "c",
       "blankAnswer": "c",
-      "options": [
-        "m",
-        "c",
-        "gh",
-        "p"
-      ],
       "explanation": "Từ đúng là “cầu vồng”, viết với phụ âm đầu “c”.",
       "questionNumber": 1774,
       "questionId": "k2_c1_dt_0412"
@@ -34555,12 +32083,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)ả xoài”",
       "answer": "qu",
       "blankAnswer": "qu",
-      "options": [
-        "k",
-        "ch",
-        "qu",
-        "d"
-      ],
       "explanation": "Từ đúng là “quả xoài”, viết với phụ âm đầu “qu”.",
       "questionNumber": 1775,
       "questionId": "k2_c1_dt_0413"
@@ -34601,12 +32123,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)im sâu”",
       "answer": "ch",
       "blankAnswer": "ch",
-      "options": [
-        "v",
-        "ph",
-        "ch",
-        "r"
-      ],
       "explanation": "Từ đúng là “chim sâu”, viết với phụ âm đầu “ch”.",
       "questionNumber": 1777,
       "questionId": "k2_c1_dt_0414"
@@ -34775,12 +32291,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)ái tim”",
       "answer": "tr",
       "blankAnswer": "tr",
-      "options": [
-        "ng",
-        "nh",
-        "gi",
-        "tr"
-      ],
       "explanation": "Từ đúng là “trái tim”, viết với phụ âm đầu “tr”.",
       "questionNumber": 1786,
       "questionId": "k2_c1_dt_0415"
@@ -34827,12 +32337,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)ây tre”",
       "answer": "c",
       "blankAnswer": "c",
-      "options": [
-        "th",
-        "c",
-        "s",
-        "l"
-      ],
       "explanation": "Từ đúng là “cây tre”, viết với phụ âm đầu “c”.",
       "questionNumber": 1789,
       "questionId": "k2_c1_dt_0416"
@@ -34865,12 +32369,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành tiếng thứ hai: “mặt (...)ăng”",
       "answer": "tr",
       "blankAnswer": "tr",
-      "options": [
-        "đ",
-        "l",
-        "n",
-        "tr"
-      ],
       "explanation": "Cụm từ đúng là “mặt trăng”.",
       "questionNumber": 1791,
       "questionId": "k2_c1_dt_0417"
@@ -34900,12 +32398,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành tiếng thứ hai: “giữ (...)ìn”",
       "answer": "g",
       "blankAnswer": "g",
-      "options": [
-        "tr",
-        "g",
-        "h",
-        "t"
-      ],
       "explanation": "Cụm từ đúng là “giữ gìn”.",
       "questionNumber": 1793,
       "questionId": "k2_c1_dt_0418"
@@ -34988,12 +32480,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)ề nghiệp”",
       "answer": "ngh",
       "explanation": "Từ đúng là “nghề nghiệp”, viết với phụ âm đầu “ngh”.",
-      "options": [
-        "ngh",
-        "ng",
-        "gh",
-        "s"
-      ],
       "blankAnswer": "ngh",
       "questionNumber": 1798
     },
@@ -35005,12 +32491,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành tiếng thứ hai: “cánh (...)ồng”",
       "answer": "đ",
       "blankAnswer": "đ",
-      "options": [
-        "ng",
-        "đ",
-        "r",
-        "m"
-      ],
       "explanation": "Cụm từ đúng là “cánh đồng”.",
       "questionNumber": 1799,
       "questionId": "k2_c1_dt_0420"
@@ -35162,12 +32642,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)ễ phép”",
       "answer": "l",
       "blankAnswer": "l",
-      "options": [
-        "ng",
-        "g",
-        "tr",
-        "l"
-      ],
       "explanation": "Từ đúng là “lễ phép”, viết với phụ âm đầu “l”.",
       "questionNumber": 1807,
       "questionId": "k2_c1_dt_0421"
@@ -35181,12 +32655,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)ung quanh”",
       "answer": "x",
       "explanation": "Từ đúng là “xung quanh”, viết với phụ âm đầu “x”.",
-      "options": [
-        "tr",
-        "s",
-        "ch",
-        "x"
-      ],
       "blankAnswer": "x",
       "questionNumber": 1808
     },
@@ -35243,12 +32711,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)ưới cây”",
       "answer": "t",
       "blankAnswer": "t",
-      "options": [
-        "ngh",
-        "b",
-        "c",
-        "t"
-      ],
       "explanation": "Từ đúng là “tưới cây”, viết với phụ âm đầu “t”.",
       "questionNumber": 1811,
       "questionId": "k2_c1_dt_0423"
@@ -35261,12 +32723,6 @@
       "question": "Chọn phụ âm đầu đúng cho tiếng trong ngoặc: “(...)ửa tay”",
       "answer": "r",
       "blankAnswer": "r",
-      "options": [
-        "c",
-        "nh",
-        "ngh",
-        "r"
-      ],
       "explanation": "Từ đúng là “rửa tay”, viết với phụ âm đầu “r”.",
       "questionNumber": 1812,
       "questionId": "k2_c1_dt_0424"
@@ -35335,12 +32791,6 @@
       "question": "Chọn phụ âm đầu đúng cho tiếng trong ngoặc: “(...)ày mới”",
       "answer": "ng",
       "blankAnswer": "ng",
-      "options": [
-        "n",
-        "ng",
-        "ch",
-        "tr"
-      ],
       "explanation": "Từ đúng là “ngày mới”, viết với phụ âm đầu “ng”.",
       "questionNumber": 1815,
       "questionId": "k2_c1_dt_0425"
@@ -35353,12 +32803,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành tiếng thứ hai: “chim (...)âu”",
       "answer": "s",
       "blankAnswer": "s",
-      "options": [
-        "th",
-        "s",
-        "d",
-        "h"
-      ],
       "explanation": "Cụm từ đúng là “chim sâu”.",
       "questionNumber": 1816,
       "questionId": "k2_c1_dt_0426"
@@ -35467,12 +32911,6 @@
       "question": "Chọn phụ âm đầu đúng cho tiếng trong ngoặc: “(...)ây tre”",
       "answer": "c",
       "blankAnswer": "c",
-      "options": [
-        "c",
-        "l",
-        "th",
-        "s"
-      ],
       "explanation": "Từ đúng là “cây tre”, viết với phụ âm đầu “c”.",
       "questionNumber": 1822,
       "questionId": "k2_c1_dt_0427"
@@ -35697,12 +33135,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành tiếng thứ hai: “gọn (...)àng”",
       "answer": "g",
       "blankAnswer": "g",
-      "options": [
-        "h",
-        "t",
-        "tr",
-        "g"
-      ],
       "explanation": "Cụm từ đúng là “gọn gàng”.",
       "questionNumber": 1834,
       "questionId": "k2_c1_dt_0428"
@@ -35732,12 +33164,6 @@
       "question": "Chọn phụ âm đầu đúng cho tiếng trong ngoặc: “(...)ường học”",
       "answer": "tr",
       "blankAnswer": "tr",
-      "options": [
-        "tr",
-        "c",
-        "t",
-        "l"
-      ],
       "explanation": "Từ đúng là “trường học”, viết với phụ âm đầu “tr”.",
       "questionNumber": 1836,
       "questionId": "k2_c1_dt_0429"
@@ -35785,12 +33211,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)òn trịa”",
       "answer": "tr",
       "explanation": "Từ đúng là “tròn trịa”, viết với phụ âm đầu “tr”.",
-      "options": [
-        "s",
-        "ch",
-        "x",
-        "tr"
-      ],
       "blankAnswer": "tr",
       "questionNumber": 1838
     },
@@ -35956,12 +33376,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành tiếng thứ hai: “hoa (...)en”",
       "answer": "s",
       "blankAnswer": "s",
-      "options": [
-        "k",
-        "r",
-        "s",
-        "th"
-      ],
       "explanation": "Cụm từ đúng là “hoa sen”.",
       "questionNumber": 1847,
       "questionId": "k2_c1_dt_0431"
@@ -35974,12 +33388,6 @@
       "question": "Chọn phụ âm đầu đúng cho tiếng trong ngoặc: “(...)ân trường”",
       "answer": "s",
       "blankAnswer": "s",
-      "options": [
-        "s",
-        "ngh",
-        "x",
-        "ph"
-      ],
       "explanation": "Từ đúng là “sân trường”, viết với phụ âm đầu “s”.",
       "questionNumber": 1848,
       "questionId": "k2_c1_dt_0432"
@@ -36105,12 +33513,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)ấu cơm”",
       "answer": "n",
       "blankAnswer": "n",
-      "options": [
-        "b",
-        "đ",
-        "x",
-        "n"
-      ],
       "explanation": "Từ đúng là “nấu cơm”, viết với phụ âm đầu “n”.",
       "questionNumber": 1855,
       "questionId": "k2_c1_dt_0433"
@@ -36175,12 +33577,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành tiếng thứ hai: “xúc (...)ích”",
       "answer": "x",
       "blankAnswer": "x",
-      "options": [
-        "ph",
-        "m",
-        "d",
-        "x"
-      ],
       "explanation": "Cụm từ đúng là “xúc xích”.",
       "questionNumber": 1859,
       "questionId": "k2_c1_dt_0434"
@@ -36193,12 +33589,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành tiếng thứ hai: “nghe (...)ể”",
       "answer": "k",
       "blankAnswer": "k",
-      "options": [
-        "gh",
-        "s",
-        "th",
-        "k"
-      ],
       "explanation": "Cụm từ đúng là “nghe kể”.",
       "questionNumber": 1860,
       "questionId": "k2_c1_dt_0435"
@@ -36262,12 +33652,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành tiếng thứ hai: “sạch (...)ẹp”",
       "answer": "đ",
       "blankAnswer": "đ",
-      "options": [
-        "đ",
-        "ph",
-        "s",
-        "r"
-      ],
       "explanation": "Cụm từ đúng là “sạch đẹp”.",
       "questionNumber": 1864,
       "questionId": "k2_c1_dt_0436"
@@ -36384,12 +33768,6 @@
       "question": "Chọn phụ âm đầu đúng cho tiếng trong ngoặc: “(...)ánh đồng”",
       "answer": "c",
       "blankAnswer": "c",
-      "options": [
-        "ph",
-        "ng",
-        "s",
-        "c"
-      ],
       "explanation": "Từ đúng là “cánh đồng”, viết với phụ âm đầu “c”.",
       "questionNumber": 1871,
       "questionId": "k2_c1_dt_0437"
@@ -36498,12 +33876,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)im chóc”",
       "answer": "ch",
       "blankAnswer": "ch",
-      "options": [
-        "t",
-        "ch",
-        "l",
-        "k"
-      ],
       "explanation": "Từ đúng là “chim chóc”, viết với phụ âm đầu “ch”.",
       "questionNumber": 1877,
       "questionId": "k2_c1_dt_0438"
@@ -36516,12 +33888,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành tiếng thứ hai: “xe (...)ạp”",
       "answer": "đ",
       "blankAnswer": "đ",
-      "options": [
-        "k",
-        "d",
-        "đ",
-        "g"
-      ],
       "explanation": "Cụm từ đúng là “xe đạp”.",
       "questionNumber": 1878,
       "questionId": "k2_c1_dt_0439"
@@ -36551,12 +33917,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)oa sen”",
       "answer": "h",
       "blankAnswer": "h",
-      "options": [
-        "h",
-        "x",
-        "ngh",
-        "k"
-      ],
       "explanation": "Từ đúng là “hoa sen”, viết với phụ âm đầu “h”.",
       "questionNumber": 1880,
       "questionId": "k2_c1_dt_0440"
@@ -36569,12 +33929,6 @@
       "question": "Chọn phụ âm đầu đúng cho tiếng trong ngoặc: “(...)on mèo”",
       "answer": "c",
       "blankAnswer": "c",
-      "options": [
-        "t",
-        "c",
-        "qu",
-        "nh"
-      ],
       "explanation": "Từ đúng là “con mèo”, viết với phụ âm đầu “c”.",
       "questionNumber": 1881,
       "questionId": "k2_c1_dt_0441"
@@ -36701,12 +34055,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)ao đêm”",
       "answer": "s",
       "blankAnswer": "s",
-      "options": [
-        "s",
-        "đ",
-        "qu",
-        "ph"
-      ],
       "explanation": "Từ đúng là “sao đêm”, viết với phụ âm đầu “s”.",
       "questionNumber": 1888,
       "questionId": "k2_c1_dt_0442"
@@ -36798,12 +34146,6 @@
       "question": "Chọn phụ âm đầu đúng cho tiếng trong ngoặc: “(...)ọc sách”",
       "answer": "đ",
       "blankAnswer": "đ",
-      "options": [
-        "gh",
-        "ng",
-        "m",
-        "đ"
-      ],
       "explanation": "Từ đúng là “đọc sách”, viết với phụ âm đầu “đ”.",
       "questionNumber": 1893,
       "questionId": "k2_c1_dt_0443"
@@ -36884,12 +34226,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)on trâu”",
       "answer": "c",
       "blankAnswer": "c",
-      "options": [
-        "c",
-        "v",
-        "b",
-        "h"
-      ],
       "explanation": "Từ đúng là “con trâu”, viết với phụ âm đầu “c”.",
       "questionNumber": 1898,
       "questionId": "k2_c1_dt_0444"
@@ -36998,12 +34334,6 @@
       "question": "Chọn phụ âm đầu đúng cho tiếng trong ngoặc: “(...)ồng rau”",
       "answer": "tr",
       "blankAnswer": "tr",
-      "options": [
-        "tr",
-        "h",
-        "ng",
-        "kh"
-      ],
       "explanation": "Từ đúng là “trồng rau”, viết với phụ âm đầu “tr”.",
       "questionNumber": 1903,
       "questionId": "k2_c1_dt_0445"
@@ -37034,12 +34364,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)òng suối”",
       "answer": "d",
       "explanation": "Từ đúng là “dòng suối”, viết với phụ âm đầu “d”.",
-      "options": [
-        "r",
-        "ch",
-        "d",
-        "gi"
-      ],
       "blankAnswer": "d",
       "questionNumber": 1905
     },
@@ -37070,12 +34394,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)ửa tay”",
       "answer": "r",
       "explanation": "Từ đúng là “rửa tay”, viết với phụ âm đầu “r”.",
-      "options": [
-        "tr",
-        "gi",
-        "r",
-        "d"
-      ],
       "blankAnswer": "r",
       "questionNumber": 1907
     },
@@ -37087,12 +34405,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành tiếng thứ hai: “giếng (...)ước”",
       "answer": "n",
       "blankAnswer": "n",
-      "options": [
-        "g",
-        "d",
-        "th",
-        "n"
-      ],
       "explanation": "Cụm từ đúng là “giếng nước”.",
       "questionNumber": 1908,
       "questionId": "k2_c1_dt_0448"
@@ -37105,12 +34417,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành tiếng thứ hai: “sáng (...)ớm”",
       "answer": "s",
       "blankAnswer": "s",
-      "options": [
-        "s",
-        "kh",
-        "x",
-        "r"
-      ],
       "explanation": "Cụm từ đúng là “sáng sớm”.",
       "questionNumber": 1909,
       "questionId": "k2_c1_dt_0449"
@@ -37192,12 +34498,6 @@
       "question": "Chọn phụ âm đầu đúng cho tiếng trong ngoặc: “(...)ảy dây”",
       "answer": "nh",
       "blankAnswer": "nh",
-      "options": [
-        "b",
-        "s",
-        "t",
-        "nh"
-      ],
       "explanation": "Từ đúng là “nhảy dây”, viết với phụ âm đầu “nh”.",
       "questionNumber": 1914,
       "questionId": "k2_c1_dt_0450"
@@ -37210,12 +34510,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)ạch đẹp”",
       "answer": "s",
       "blankAnswer": "s",
-      "options": [
-        "v",
-        "tr",
-        "s",
-        "b"
-      ],
       "explanation": "Từ đúng là “sạch đẹp”, viết với phụ âm đầu “s”.",
       "questionNumber": 1915,
       "questionId": "k2_c1_dt_0451"
@@ -37345,12 +34639,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)èn lồng”",
       "answer": "đ",
       "explanation": "Từ đúng là “đèn lồng”, viết với phụ âm đầu “đ”.",
-      "options": [
-        "c",
-        "g",
-        "k",
-        "đ"
-      ],
       "blankAnswer": "đ",
       "questionNumber": 1921
     },
@@ -37363,12 +34651,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)ợ quê”",
       "answer": "ch",
       "explanation": "Từ đúng là “chợ quê”, viết với phụ âm đầu “ch”.",
-      "options": [
-        "tr",
-        "x",
-        "ch",
-        "s"
-      ],
       "blankAnswer": "ch",
       "questionNumber": 1922
     },
@@ -37534,12 +34816,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành tiếng thứ hai: “giúp (...)ỡ”",
       "answer": "đ",
       "blankAnswer": "đ",
-      "options": [
-        "đ",
-        "m",
-        "tr",
-        "v"
-      ],
       "explanation": "Cụm từ đúng là “giúp đỡ”.",
       "questionNumber": 1930,
       "questionId": "k2_c1_dt_0454"
@@ -37552,12 +34828,6 @@
       "question": "Chọn phụ âm đầu đúng cho tiếng trong ngoặc: “(...)ái kéo”",
       "answer": "c",
       "blankAnswer": "c",
-      "options": [
-        "tr",
-        "ngh",
-        "th",
-        "c"
-      ],
       "explanation": "Từ đúng là “cái kéo”, viết với phụ âm đầu “c”.",
       "questionNumber": 1931,
       "questionId": "k2_c1_dt_0455"
@@ -37570,12 +34840,6 @@
       "question": "Chọn phụ âm đầu đúng cho tiếng trong ngoặc: “(...)ông hoa”",
       "answer": "b",
       "blankAnswer": "b",
-      "options": [
-        "gi",
-        "gh",
-        "t",
-        "b"
-      ],
       "explanation": "Từ đúng là “bông hoa”, viết với phụ âm đầu “b”.",
       "questionNumber": 1932,
       "questionId": "k2_c1_dt_0456"
@@ -37588,12 +34852,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)ườn rau”",
       "answer": "v",
       "blankAnswer": "v",
-      "options": [
-        "v",
-        "ng",
-        "m",
-        "ngh"
-      ],
       "explanation": "Từ đúng là “vườn rau”, viết với phụ âm đầu “v”.",
       "questionNumber": 1933,
       "questionId": "k2_c1_dt_0457"
@@ -38036,12 +35294,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)im sẻ”",
       "answer": "ch",
       "explanation": "Từ đúng là “chim sẻ”, viết với phụ âm đầu “ch”.",
-      "options": [
-        "s",
-        "ch",
-        "x",
-        "tr"
-      ],
       "blankAnswer": "ch",
       "questionNumber": 1954
     },
@@ -38053,12 +35305,6 @@
       "question": "Chọn phụ âm đầu đúng cho tiếng trong ngoặc: “(...)ếp hình”",
       "answer": "x",
       "blankAnswer": "x",
-      "options": [
-        "x",
-        "th",
-        "n",
-        "qu"
-      ],
       "explanation": "Từ đúng là “xếp hình”, viết với phụ âm đầu “x”.",
       "questionNumber": 1955,
       "questionId": "k2_c1_dt_0459"
@@ -38105,12 +35351,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành tiếng thứ hai: “cửa (...)ổ”",
       "answer": "s",
       "blankAnswer": "s",
-      "options": [
-        "t",
-        "qu",
-        "s",
-        "m"
-      ],
       "explanation": "Cụm từ đúng là “cửa sổ”.",
       "questionNumber": 1958,
       "questionId": "k2_c1_dt_0460"
@@ -38233,12 +35473,6 @@
       "question": "Chọn phụ âm đầu đúng cho tiếng trong ngoặc: “(...)ảng đen”",
       "answer": "b",
       "blankAnswer": "b",
-      "options": [
-        "x",
-        "nh",
-        "s",
-        "b"
-      ],
       "explanation": "Từ đúng là “bảng đen”, viết với phụ âm đầu “b”.",
       "questionNumber": 1964,
       "questionId": "k2_c1_dt_0461"
@@ -38269,12 +35503,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)ông hoa”",
       "answer": "b",
       "explanation": "Từ đúng là “bông hoa”, viết với phụ âm đầu “b”.",
-      "options": [
-        "c",
-        "g",
-        "b",
-        "k"
-      ],
       "blankAnswer": "b",
       "questionNumber": 1966
     },
@@ -38338,12 +35566,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành tiếng thứ hai: “quyển (...)ở”",
       "answer": "v",
       "blankAnswer": "v",
-      "options": [
-        "nh",
-        "m",
-        "x",
-        "v"
-      ],
       "explanation": "Cụm từ đúng là “quyển vở”.",
       "questionNumber": 1970,
       "questionId": "k2_c1_dt_0463"
@@ -38557,12 +35779,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)on gà”",
       "answer": "c",
       "blankAnswer": "c",
-      "options": [
-        "p",
-        "b",
-        "k",
-        "c"
-      ],
       "explanation": "Từ đúng là “con gà”, viết với phụ âm đầu “c”.",
       "questionNumber": 1981,
       "questionId": "k2_c1_dt_0464"
@@ -38630,12 +35846,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành từ: “(...)ễ thương”",
       "answer": "d",
       "explanation": "Từ đúng là “dễ thương”, viết với phụ âm đầu “d”.",
-      "options": [
-        "r",
-        "d",
-        "gi",
-        "ch"
-      ],
       "blankAnswer": "d",
       "questionNumber": 1984
     },
@@ -38718,12 +35928,6 @@
       "question": "Chọn phụ âm đầu đúng cho tiếng trong ngoặc: “(...)ặp gỡ”",
       "answer": "g",
       "blankAnswer": "g",
-      "options": [
-        "nh",
-        "x",
-        "g",
-        "k"
-      ],
       "explanation": "Từ đúng là “gặp gỡ”, viết với phụ âm đầu “g”.",
       "questionNumber": 1988,
       "questionId": "k2_c1_dt_0466"
@@ -38781,12 +35985,6 @@
       "question": "Điền phụ âm đầu thích hợp để hoàn thành tiếng thứ hai: “chim (...)óc”",
       "answer": "ch",
       "blankAnswer": "ch",
-      "options": [
-        "ngh",
-        "ch",
-        "v",
-        "k"
-      ],
       "explanation": "Cụm từ đúng là “chim chóc”.",
       "questionNumber": 1991,
       "questionId": "k2_c1_dt_0467"

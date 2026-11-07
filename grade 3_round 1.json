@@ -17252,12 +17252,6 @@
       "question": "Điền âm đầu thích hợp: “...ường học”",
       "blankAnswer": "tr",
       "answer": "tr",
-      "options": [
-        "tr",
-        "x",
-        "ch",
-        "s"
-      ],
       "explanation": "Từ đúng là “trường học”, viết với tr.",
       "questionNumber": 1012
     },
@@ -17270,12 +17264,6 @@
       "question": "Điền âm đầu thích hợp: “...ăm sóc”",
       "blankAnswer": "ch",
       "answer": "ch",
-      "options": [
-        "tr",
-        "ch",
-        "s",
-        "x"
-      ],
       "explanation": "Từ đúng là “chăm sóc”, viết với ch.",
       "questionNumber": 1013
     },
@@ -17288,12 +17276,6 @@
       "question": "Điền âm đầu thích hợp: “...ân thật”",
       "blankAnswer": "ch",
       "answer": "ch",
-      "options": [
-        "tr",
-        "x",
-        "ch",
-        "s"
-      ],
       "explanation": "Từ đúng là “chân thật”, viết với ch.",
       "questionNumber": 1014
     },
@@ -17306,12 +17288,6 @@
       "question": "Điền âm đầu thích hợp: “...ạch sẽ”",
       "blankAnswer": "s",
       "answer": "s",
-      "options": [
-        "ch",
-        "tr",
-        "x",
-        "s"
-      ],
       "explanation": "Từ đúng là “sạch sẽ”, viết với s.",
       "questionNumber": 1015
     },
@@ -17324,12 +17300,6 @@
       "question": "Điền âm đầu thích hợp: “...ôn xao”",
       "blankAnswer": "x",
       "answer": "x",
-      "options": [
-        "ch",
-        "tr",
-        "x",
-        "s"
-      ],
       "explanation": "Từ đúng là “xôn xao”, viết với x.",
       "questionNumber": 1016
     },
@@ -17342,12 +17312,6 @@
       "question": "Điền âm đầu thích hợp: “...ộn ràng”",
       "blankAnswer": "r",
       "answer": "r",
-      "options": [
-        "gi",
-        "l",
-        "d",
-        "r"
-      ],
       "explanation": "Từ đúng là “rộn ràng”, viết với r.",
       "questionNumber": 1017
     },
@@ -17360,12 +17324,6 @@
       "question": "Điền âm đầu thích hợp: “...ữ gìn”",
       "blankAnswer": "gi",
       "answer": "gi",
-      "options": [
-        "l",
-        "gi",
-        "d",
-        "r"
-      ],
       "explanation": "Từ đúng là “giữ gìn”, viết với gi.",
       "questionNumber": 1018
     },
@@ -17378,12 +17336,6 @@
       "question": "Điền âm đầu thích hợp: “...á non”",
       "blankAnswer": "l",
       "answer": "l",
-      "options": [
-        "d",
-        "r",
-        "n",
-        "l"
-      ],
       "explanation": "Từ đúng là “lá non”, viết với l.",
       "questionNumber": 1019
     },
@@ -17396,12 +17348,6 @@
       "question": "Điền từ chỉ hoạt động vào chỗ trống: “Bạn nhỏ đang ... bài.”",
       "blankAnswer": "đọc",
       "answer": "đọc",
-      "options": [
-        "đọc",
-        "hiền",
-        "bàn",
-        "xanh"
-      ],
       "explanation": "“Đọc” là từ chỉ hoạt động.",
       "questionNumber": 1020
     },
@@ -17414,12 +17360,6 @@
       "question": "Điền từ chỉ đặc điểm: “Bông hoa có màu ...”",
       "blankAnswer": "đỏ thắm",
       "answer": "đỏ thắm",
-      "options": [
-        "cái bàn",
-        "chạy nhảy",
-        "đọc sách",
-        "đỏ thắm"
-      ],
       "explanation": "“Đỏ thắm” nêu đặc điểm màu sắc.",
       "questionNumber": 1021
     },
@@ -17432,12 +17372,6 @@
       "question": "Điền từ chỉ sự vật: “... đang tỏa bóng mát.”",
       "blankAnswer": "Cây bàng",
       "answer": "Cây bàng",
-      "options": [
-        "Cây bàng",
-        "Đang hát",
-        "Chạy nhanh",
-        "Rất đẹp"
-      ],
       "explanation": "“Cây bàng” gọi tên sự vật.",
       "questionNumber": 1022
     },
@@ -17450,12 +17384,6 @@
       "question": "Điền từ chỉ trạng thái: “Sau chuyến đi, em cảm thấy ...”",
       "blankAnswer": "mệt mỏi",
       "answer": "mệt mỏi",
-      "options": [
-        "xanh biếc",
-        "quyển vở",
-        "mệt mỏi",
-        "đá bóng"
-      ],
       "explanation": "“Mệt mỏi” chỉ trạng thái.",
       "questionNumber": 1023
     },
@@ -17468,12 +17396,6 @@
       "question": "Điền dấu câu thích hợp: “Buổi chiều, em giúp mẹ nấu cơm___”",
       "blankAnswer": ".",
       "answer": ".",
-      "options": [
-        "!",
-        "?",
-        ".",
-        ","
-      ],
       "explanation": "Đây là câu kể hoàn chỉnh nên kết thúc bằng dấu chấm.",
       "questionNumber": 1024
     },
@@ -17486,12 +17408,6 @@
       "question": "Điền dấu phẩy thích hợp: “Em thích đọc sách___ vẽ tranh và đá cầu.”",
       "blankAnswer": ",",
       "answer": ",",
-      "options": [
-        "!",
-        ".",
-        "?",
-        ","
-      ],
       "explanation": "Dấu phẩy ngăn cách các hoạt động được liệt kê.",
       "questionNumber": 1025
     },
@@ -17504,12 +17420,6 @@
       "question": "Điền dấu phẩy thích hợp: “Trong sân___ các bạn đang chơi kéo co.”",
       "blankAnswer": ",",
       "answer": ",",
-      "options": [
-        ",",
-        "?",
-        "!",
-        "."
-      ],
       "explanation": "Dấu phẩy ngăn cách cụm từ chỉ nơi chốn ở đầu câu.",
       "questionNumber": 1026
     },
@@ -17522,12 +17432,6 @@
       "question": "Điền phần còn thiếu để hoàn thành từ: “...ường làng”",
       "blankAnswer": "tr",
       "answer": "tr",
-      "options": [
-        "tr",
-        "ch",
-        "s",
-        "l"
-      ],
       "explanation": "Điền “tr” để tạo thành từ “trường”.",
       "questionNumber": 1027
     },
@@ -17540,12 +17444,6 @@
       "question": "Điền bộ phận thích hợp vào chỗ trống: “... rất nhộn nhịp.”",
       "blankAnswer": "Sân trường hôm nay",
       "answer": "Sân trường hôm nay",
-      "options": [
-        "Sân trường hôm nay",
-        "cánh đồng",
-        "thả diều",
-        "nhanh nhẹn"
-      ],
       "explanation": "“Sân trường hôm nay” giúp câu hoàn chỉnh và đúng nghĩa.",
       "questionNumber": 1028
     },
@@ -17558,12 +17456,6 @@
       "question": "Điền từ còn thiếu trong câu tục ngữ: “Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao”",
       "blankAnswer": "Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao",
       "answer": "Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao",
-      "options": [
-        "Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao",
-        "Không thầy đố mày làm nên",
-        "Thương người như thể thương thân",
-        "Lá lành đùm lá rách"
-      ],
       "explanation": "Câu tục ngữ đầy đủ là “Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao”.",
       "questionNumber": 1029
     },
@@ -17576,12 +17468,6 @@
       "question": "Điền dấu câu cuối câu: “Trên cành, chim hót líu lo ___”",
       "blankAnswer": ".",
       "answer": ".",
-      "options": [
-        ".",
-        ",",
-        "?",
-        "!"
-      ],
       "explanation": "Câu này kết thúc bằng dấu “.”.",
       "questionNumber": 1030
     },
@@ -17594,12 +17480,6 @@
       "question": "Điền phần còn thiếu để hoàn thành từ: “...uối nguồn”",
       "blankAnswer": "s",
       "answer": "s",
-      "options": [
-        "s",
-        "ch",
-        "l",
-        "r"
-      ],
       "explanation": "Điền “s” để tạo thành từ “suối”.",
       "questionNumber": 1031
     },
@@ -17612,12 +17492,6 @@
       "question": "Điền vị ngữ còn thiếu: “Lan ... .”",
       "blankAnswer": "là lớp trưởng lớp em",
       "answer": "là lớp trưởng lớp em",
-      "options": [
-        "là lớp trưởng lớp em",
-        "chú mèo",
-        "đàn hát",
-        "kiên trì"
-      ],
       "explanation": "“là lớp trưởng lớp em” giúp câu hoàn chỉnh và đúng nghĩa.",
       "questionNumber": 1032
     },
@@ -17630,12 +17504,6 @@
       "question": "Điền từ còn thiếu trong câu tục ngữ: “Học thầy không tày học bạn”",
       "blankAnswer": "Học thầy không tày học bạn",
       "answer": "Học thầy không tày học bạn",
-      "options": [
-        "Học thầy không tày học bạn",
-        "Công cha như núi Thái Sơn, nghĩa mẹ như nước trong nguồn chảy ra",
-        "Uống nước nhớ nguồn",
-        "Ăn quả nhớ kẻ trồng cây"
-      ],
       "explanation": "Câu tục ngữ đầy đủ là “Học thầy không tày học bạn”.",
       "questionNumber": 1033
     },
@@ -17648,12 +17516,6 @@
       "question": "Điền dấu câu cuối câu: “Ôi, bông hoa đẹp quá ___”",
       "blankAnswer": "!",
       "answer": "!",
-      "options": [
-        ".",
-        ",",
-        "?",
-        "!"
-      ],
       "explanation": "Câu này kết thúc bằng dấu “!”.",
       "questionNumber": 1034
     },
@@ -17666,12 +17528,6 @@
       "question": "Điền phần còn thiếu để hoàn thành từ: “...àng quê”",
       "blankAnswer": "l",
       "answer": "l",
-      "options": [
-        "l",
-        "ch",
-        "s",
-        "r"
-      ],
       "explanation": "Điền “l” để tạo thành từ “làng”.",
       "questionNumber": 1035
     },
@@ -17684,12 +17540,6 @@
       "question": "Điền bộ phận thích hợp vào chỗ trống: “... chao liệng trên bầu trời.”",
       "blankAnswer": "Đàn chim én",
       "answer": "Đàn chim én",
-      "options": [
-        "Đàn chim én",
-        "con đường",
-        "thu hoạch lúa",
-        "ngăn nắp"
-      ],
       "explanation": "“Đàn chim én” giúp câu hoàn chỉnh và đúng nghĩa.",
       "questionNumber": 1036
     },
@@ -17702,12 +17552,6 @@
       "question": "Điền từ còn thiếu trong câu tục ngữ: “Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao”",
       "blankAnswer": "Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao",
       "answer": "Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao",
-      "options": [
-        "Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao",
-        "Không thầy đố mày làm nên",
-        "Thương người như thể thương thân",
-        "Lá lành đùm lá rách"
-      ],
       "explanation": "Câu tục ngữ đầy đủ là “Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao”.",
       "questionNumber": 1037
     },
@@ -17720,12 +17564,6 @@
       "question": "Điền dấu câu cuối câu: “Bạn đã làm bài tập chưa ___”",
       "blankAnswer": "?",
       "answer": "?",
-      "options": [
-        ".",
-        ",",
-        "?",
-        "!"
-      ],
       "explanation": "Câu này kết thúc bằng dấu “?”.",
       "questionNumber": 1038
     },
@@ -17738,12 +17576,6 @@
       "question": "Điền phần còn thiếu để hoàn thành từ: “b...n bè”",
       "blankAnswer": "ạ",
       "answer": "ạ",
-      "options": [
-        "ạ",
-        "ch",
-        "s",
-        "l"
-      ],
       "explanation": "Điền “ạ” để tạo thành từ “bạn”.",
       "questionNumber": 1039
     },
@@ -17756,12 +17588,6 @@
       "question": "Điền vị ngữ còn thiếu: “Sân trường hôm nay ... .”",
       "blankAnswer": "rất nhộn nhịp",
       "answer": "rất nhộn nhịp",
-      "options": [
-        "rất nhộn nhịp",
-        "dòng sông",
-        "đưa thư",
-        "yên bình"
-      ],
       "explanation": "“rất nhộn nhịp” giúp câu hoàn chỉnh và đúng nghĩa.",
       "questionNumber": 1040
     },
@@ -17774,12 +17600,6 @@
       "question": "Điền từ còn thiếu trong câu tục ngữ: “Học thầy không tày học bạn”",
       "blankAnswer": "Học thầy không tày học bạn",
       "answer": "Học thầy không tày học bạn",
-      "options": [
-        "Học thầy không tày học bạn",
-        "Công cha như núi Thái Sơn, nghĩa mẹ như nước trong nguồn chảy ra",
-        "Uống nước nhớ nguồn",
-        "Ăn quả nhớ kẻ trồng cây"
-      ],
       "explanation": "Câu tục ngữ đầy đủ là “Học thầy không tày học bạn”.",
       "questionNumber": 1041
     },
@@ -17792,12 +17612,6 @@
       "question": "Điền dấu câu cuối câu: “Em yêu mái trường của mình ___”",
       "blankAnswer": ".",
       "answer": ".",
-      "options": [
-        ".",
-        ",",
-        "?",
-        "!"
-      ],
       "explanation": "Câu này kết thúc bằng dấu “.”.",
       "questionNumber": 1042
     },
@@ -17810,12 +17624,6 @@
       "question": "Điền phần còn thiếu để hoàn thành từ: “dòng n...c”",
       "blankAnswer": "ướ",
       "answer": "ướ",
-      "options": [
-        "ướ",
-        "ch",
-        "s",
-        "l"
-      ],
       "explanation": "Điền “ướ” để tạo thành từ “nước”.",
       "questionNumber": 1043
     },
@@ -17828,12 +17636,6 @@
       "question": "Điền bộ phận thích hợp vào chỗ trống: “... là lớp trưởng lớp em.”",
       "blankAnswer": "Lan",
       "answer": "Lan",
-      "options": [
-        "Lan",
-        "chiếc thước",
-        "xếp hàng",
-        "rực rỡ"
-      ],
       "explanation": "“Lan” giúp câu hoàn chỉnh và đúng nghĩa.",
       "questionNumber": 1044
     },
@@ -17846,12 +17648,6 @@
       "question": "Điền từ còn thiếu trong câu tục ngữ: “Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao”",
       "blankAnswer": "Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao",
       "answer": "Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao",
-      "options": [
-        "Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao",
-        "Không thầy đố mày làm nên",
-        "Thương người như thể thương thân",
-        "Lá lành đùm lá rách"
-      ],
       "explanation": "Câu tục ngữ đầy đủ là “Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao”.",
       "questionNumber": 1045
     },
@@ -17864,12 +17660,6 @@
       "question": "Điền dấu câu cuối câu: “Mẹ mua cam, táo và lê ___”",
       "blankAnswer": ".",
       "answer": ".",
-      "options": [
-        ".",
-        ",",
-        "?",
-        "!"
-      ],
       "explanation": "Câu này kết thúc bằng dấu “.”.",
       "questionNumber": 1046
     },
@@ -17882,12 +17672,6 @@
       "question": "Điền phần còn thiếu để hoàn thành từ: “x...nh đẹp”",
       "blankAnswer": "i",
       "answer": "i",
-      "options": [
-        "i",
-        "ch",
-        "s",
-        "l"
-      ],
       "explanation": "Điền “i” để tạo thành từ “xinh”.",
       "questionNumber": 1047
     },
@@ -17900,12 +17684,6 @@
       "question": "Điền vị ngữ còn thiếu: “Đàn chim én ... .”",
       "blankAnswer": "chao liệng trên bầu trời",
       "answer": "chao liệng trên bầu trời",
-      "options": [
-        "chao liệng trên bầu trời",
-        "cây bàng",
-        "thả diều",
-        "thân thiện"
-      ],
       "explanation": "“chao liệng trên bầu trời” giúp câu hoàn chỉnh và đúng nghĩa.",
       "questionNumber": 1048
     },
@@ -17918,12 +17696,6 @@
       "question": "Điền từ còn thiếu trong câu tục ngữ: “Học thầy không tày học bạn”",
       "blankAnswer": "Học thầy không tày học bạn",
       "answer": "Học thầy không tày học bạn",
-      "options": [
-        "Học thầy không tày học bạn",
-        "Công cha như núi Thái Sơn, nghĩa mẹ như nước trong nguồn chảy ra",
-        "Uống nước nhớ nguồn",
-        "Ăn quả nhớ kẻ trồng cây"
-      ],
       "explanation": "Câu tục ngữ đầy đủ là “Học thầy không tày học bạn”.",
       "questionNumber": 1049
     },
@@ -17936,12 +17708,6 @@
       "question": "Điền dấu câu cuối câu: “Trên cành, chim hót líu lo ___”",
       "blankAnswer": ".",
       "answer": ".",
-      "options": [
-        ".",
-        ",",
-        "?",
-        "!"
-      ],
       "explanation": "Câu này kết thúc bằng dấu “.”.",
       "questionNumber": 1050
     },
@@ -17954,12 +17720,6 @@
       "question": "Điền phần còn thiếu để hoàn thành từ: “...ạch sẽ”",
       "blankAnswer": "s",
       "answer": "s",
-      "options": [
-        "s",
-        "ch",
-        "l",
-        "r"
-      ],
       "explanation": "Điền “s” để tạo thành từ “sạch”.",
       "questionNumber": 1051
     },
@@ -17972,12 +17732,6 @@
       "question": "Điền bộ phận thích hợp vào chỗ trống: “... rất nhộn nhịp.”",
       "blankAnswer": "Sân trường hôm nay",
       "answer": "Sân trường hôm nay",
-      "options": [
-        "Sân trường hôm nay",
-        "bà ngoại",
-        "chăm sóc vườn rau",
-        "hiền hậu"
-      ],
       "explanation": "“Sân trường hôm nay” giúp câu hoàn chỉnh và đúng nghĩa.",
       "questionNumber": 1052
     },
@@ -17990,12 +17744,6 @@
       "question": "Điền từ còn thiếu trong câu tục ngữ: “Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao”",
       "blankAnswer": "Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao",
       "answer": "Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao",
-      "options": [
-        "Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao",
-        "Không thầy đố mày làm nên",
-        "Thương người như thể thương thân",
-        "Lá lành đùm lá rách"
-      ],
       "explanation": "Câu tục ngữ đầy đủ là “Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao”.",
       "questionNumber": 1053
     },
@@ -18008,12 +17756,6 @@
       "question": "Điền dấu câu cuối câu: “Ôi, bông hoa đẹp quá ___”",
       "blankAnswer": "!",
       "answer": "!",
-      "options": [
-        ".",
-        ",",
-        "?",
-        "!"
-      ],
       "explanation": "Câu này kết thúc bằng dấu “!”.",
       "questionNumber": 1054
     },
@@ -18026,12 +17768,6 @@
       "question": "Điền phần còn thiếu để hoàn thành từ: “...úa chín”",
       "blankAnswer": "l",
       "answer": "l",
-      "options": [
-        "l",
-        "ch",
-        "s",
-        "r"
-      ],
       "explanation": "Điền “l” để tạo thành từ “lúa”.",
       "questionNumber": 1055
     },
@@ -18044,12 +17780,6 @@
       "question": "Điền vị ngữ còn thiếu: “Lan ... .”",
       "blankAnswer": "là lớp trưởng lớp em",
       "answer": "là lớp trưởng lớp em",
-      "options": [
-        "là lớp trưởng lớp em",
-        "đàn cá",
-        "chăm sóc vườn rau",
-        "thân thiện"
-      ],
       "explanation": "“là lớp trưởng lớp em” giúp câu hoàn chỉnh và đúng nghĩa.",
       "questionNumber": 1056
     },
@@ -18062,12 +17792,6 @@
       "question": "Điền từ còn thiếu trong câu tục ngữ: “Học thầy không tày học bạn”",
       "blankAnswer": "Học thầy không tày học bạn",
       "answer": "Học thầy không tày học bạn",
-      "options": [
-        "Học thầy không tày học bạn",
-        "Công cha như núi Thái Sơn, nghĩa mẹ như nước trong nguồn chảy ra",
-        "Uống nước nhớ nguồn",
-        "Ăn quả nhớ kẻ trồng cây"
-      ],
       "explanation": "Câu tục ngữ đầy đủ là “Học thầy không tày học bạn”.",
       "questionNumber": 1057
     },
@@ -18080,12 +17804,6 @@
       "question": "Điền dấu câu cuối câu: “Bạn đã làm bài tập chưa ___”",
       "blankAnswer": "?",
       "answer": "?",
-      "options": [
-        ".",
-        ",",
-        "?",
-        "!"
-      ],
       "explanation": "Câu này kết thúc bằng dấu “?”.",
       "questionNumber": 1058
     },
@@ -18098,12 +17816,6 @@
       "question": "Điền phần còn thiếu để hoàn thành từ: “...òng sông”",
       "blankAnswer": "d",
       "answer": "d",
-      "options": [
-        "d",
-        "ch",
-        "s",
-        "l"
-      ],
       "explanation": "Điền “d” để tạo thành từ “dòng”.",
       "questionNumber": 1059
     },
@@ -18116,12 +17828,6 @@
       "question": "Điền bộ phận thích hợp vào chỗ trống: “... chao liệng trên bầu trời.”",
       "blankAnswer": "Đàn chim én",
       "answer": "Đàn chim én",
-      "options": [
-        "Đàn chim én",
-        "bông hoa",
-        "luyện chữ",
-        "rực rỡ"
-      ],
       "explanation": "“Đàn chim én” giúp câu hoàn chỉnh và đúng nghĩa.",
       "questionNumber": 1060
     },
@@ -18134,12 +17840,6 @@
       "question": "Điền từ còn thiếu trong câu tục ngữ: “Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao”",
       "blankAnswer": "Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao",
       "answer": "Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao",
-      "options": [
-        "Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao",
-        "Không thầy đố mày làm nên",
-        "Thương người như thể thương thân",
-        "Lá lành đùm lá rách"
-      ],
       "explanation": "Câu tục ngữ đầy đủ là “Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao”.",
       "questionNumber": 1061
     },
@@ -18152,12 +17852,6 @@
       "question": "Điền dấu câu cuối câu: “Em yêu mái trường của mình ___”",
       "blankAnswer": ".",
       "answer": ".",
-      "options": [
-        ".",
-        ",",
-        "?",
-        "!"
-      ],
       "explanation": "Câu này kết thúc bằng dấu “.”.",
       "questionNumber": 1062
     },
@@ -18170,12 +17864,6 @@
       "question": "Điền phần còn thiếu để hoàn thành từ: “b...c chân”",
       "blankAnswer": "ước",
       "answer": "ước",
-      "options": [
-        "ước",
-        "ch",
-        "s",
-        "l"
-      ],
       "explanation": "Điền “ước” để tạo thành từ “bước”.",
       "questionNumber": 1063
     },
@@ -18188,12 +17876,6 @@
       "question": "Điền vị ngữ còn thiếu: “Sân trường hôm nay ... .”",
       "blankAnswer": "rất nhộn nhịp",
       "answer": "rất nhộn nhịp",
-      "options": [
-        "rất nhộn nhịp",
-        "cô giáo",
-        "đàn hát",
-        "nhanh nhẹn"
-      ],
       "explanation": "“rất nhộn nhịp” giúp câu hoàn chỉnh và đúng nghĩa.",
       "questionNumber": 1064
     },
@@ -18206,12 +17888,6 @@
       "question": "Điền từ còn thiếu trong câu tục ngữ: “Học thầy không tày học bạn”",
       "blankAnswer": "Học thầy không tày học bạn",
       "answer": "Học thầy không tày học bạn",
-      "options": [
-        "Học thầy không tày học bạn",
-        "Công cha như núi Thái Sơn, nghĩa mẹ như nước trong nguồn chảy ra",
-        "Uống nước nhớ nguồn",
-        "Ăn quả nhớ kẻ trồng cây"
-      ],
       "explanation": "Câu tục ngữ đầy đủ là “Học thầy không tày học bạn”.",
       "questionNumber": 1065
     },
@@ -18224,12 +17900,6 @@
       "question": "Điền dấu câu cuối câu: “Mẹ mua cam, táo và lê ___”",
       "blankAnswer": ".",
       "answer": ".",
-      "options": [
-        ".",
-        ",",
-        "?",
-        "!"
-      ],
       "explanation": "Câu này kết thúc bằng dấu “.”.",
       "questionNumber": 1066
     },
@@ -18242,12 +17912,6 @@
       "question": "Điền phần còn thiếu để hoàn thành từ: “b...nh minh”",
       "blankAnswer": "ì",
       "answer": "ì",
-      "options": [
-        "ì",
-        "ch",
-        "s",
-        "l"
-      ],
       "explanation": "Điền “ì” để tạo thành từ “bình”.",
       "questionNumber": 1067
     },
@@ -18260,12 +17924,6 @@
       "question": "Điền bộ phận thích hợp vào chỗ trống: “... là lớp trưởng lớp em.”",
       "blankAnswer": "Lan",
       "answer": "Lan",
-      "options": [
-        "Lan",
-        "chiếc thước",
-        "gieo hạt",
-        "xanh biếc"
-      ],
       "explanation": "“Lan” giúp câu hoàn chỉnh và đúng nghĩa.",
       "questionNumber": 1068
     },
@@ -18278,12 +17936,6 @@
       "question": "Điền từ còn thiếu trong câu tục ngữ: “Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao”",
       "blankAnswer": "Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao",
       "answer": "Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao",
-      "options": [
-        "Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao",
-        "Không thầy đố mày làm nên",
-        "Thương người như thể thương thân",
-        "Lá lành đùm lá rách"
-      ],
       "explanation": "Câu tục ngữ đầy đủ là “Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao”.",
       "questionNumber": 1069
     },
@@ -18296,12 +17948,6 @@
       "question": "Điền dấu câu cuối câu: “Trên cành, chim hót líu lo ___”",
       "blankAnswer": ".",
       "answer": ".",
-      "options": [
-        ".",
-        ",",
-        "?",
-        "!"
-      ],
       "explanation": "Câu này kết thúc bằng dấu “.”.",
       "questionNumber": 1070
     },
@@ -18314,12 +17960,6 @@
       "question": "Điền phần còn thiếu để hoàn thành từ: “...ân trời”",
       "blankAnswer": "ch",
       "answer": "ch",
-      "options": [
-        "ch",
-        "s",
-        "l",
-        "r"
-      ],
       "explanation": "Điền “ch” để tạo thành từ “chân”.",
       "questionNumber": 1071
     },
@@ -18332,12 +17972,6 @@
       "question": "Điền vị ngữ còn thiếu: “Đàn chim én ... .”",
       "blankAnswer": "chao liệng trên bầu trời",
       "answer": "chao liệng trên bầu trời",
-      "options": [
-        "chao liệng trên bầu trời",
-        "chiếc thước",
-        "đón khách",
-        "kiên trì"
-      ],
       "explanation": "“chao liệng trên bầu trời” giúp câu hoàn chỉnh và đúng nghĩa.",
       "questionNumber": 1072
     },
@@ -18350,12 +17984,6 @@
       "question": "Điền từ còn thiếu trong câu tục ngữ: “Học thầy không tày học bạn”",
       "blankAnswer": "Học thầy không tày học bạn",
       "answer": "Học thầy không tày học bạn",
-      "options": [
-        "Học thầy không tày học bạn",
-        "Công cha như núi Thái Sơn, nghĩa mẹ như nước trong nguồn chảy ra",
-        "Uống nước nhớ nguồn",
-        "Ăn quả nhớ kẻ trồng cây"
-      ],
       "explanation": "Câu tục ngữ đầy đủ là “Học thầy không tày học bạn”.",
       "questionNumber": 1073
     },
@@ -18368,12 +17996,6 @@
       "question": "Điền dấu câu cuối câu: “Ôi, bông hoa đẹp quá ___”",
       "blankAnswer": "!",
       "answer": "!",
-      "options": [
-        ".",
-        ",",
-        "?",
-        "!"
-      ],
       "explanation": "Câu này kết thúc bằng dấu “!”.",
       "questionNumber": 1074
     },
@@ -18386,12 +18008,6 @@
       "question": "Điền phần còn thiếu để hoàn thành từ: “...á cây”",
       "blankAnswer": "l",
       "answer": "l",
-      "options": [
-        "l",
-        "ch",
-        "s",
-        "r"
-      ],
       "explanation": "Điền “l” để tạo thành từ “lá”.",
       "questionNumber": 1075
     },
@@ -18404,12 +18020,6 @@
       "question": "Điền bộ phận thích hợp vào chỗ trống: “... rất nhộn nhịp.”",
       "blankAnswer": "Sân trường hôm nay",
       "answer": "Sân trường hôm nay",
-      "options": [
-        "Sân trường hôm nay",
-        "cánh đồng",
-        "đàn hát",
-        "dịu dàng"
-      ],
       "explanation": "“Sân trường hôm nay” giúp câu hoàn chỉnh và đúng nghĩa.",
       "questionNumber": 1076
     },
@@ -18422,12 +18032,6 @@
       "question": "Điền từ còn thiếu trong câu tục ngữ: “Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao”",
       "blankAnswer": "Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao",
       "answer": "Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao",
-      "options": [
-        "Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao",
-        "Không thầy đố mày làm nên",
-        "Thương người như thể thương thân",
-        "Lá lành đùm lá rách"
-      ],
       "explanation": "Câu tục ngữ đầy đủ là “Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao”.",
       "questionNumber": 1077
     },
@@ -18440,12 +18044,6 @@
       "question": "Điền dấu câu cuối câu: “Bạn đã làm bài tập chưa ___”",
       "blankAnswer": "?",
       "answer": "?",
-      "options": [
-        ".",
-        ",",
-        "?",
-        "!"
-      ],
       "explanation": "Câu này kết thúc bằng dấu “?”.",
       "questionNumber": 1078
     },
@@ -18458,12 +18056,6 @@
       "question": "Điền phần còn thiếu để hoàn thành từ: “...au xanh”",
       "blankAnswer": "r",
       "answer": "r",
-      "options": [
-        "r",
-        "ch",
-        "s",
-        "l"
-      ],
       "explanation": "Điền “r” để tạo thành từ “rau”.",
       "questionNumber": 1079
     },
@@ -18476,12 +18068,6 @@
       "question": "Điền vị ngữ còn thiếu: “Lan ... .”",
       "blankAnswer": "là lớp trưởng lớp em",
       "answer": "là lớp trưởng lớp em",
-      "options": [
-        "là lớp trưởng lớp em",
-        "chiếc trống",
-        "gieo hạt",
-        "thân thiện"
-      ],
       "explanation": "“là lớp trưởng lớp em” giúp câu hoàn chỉnh và đúng nghĩa.",
       "questionNumber": 1080
     },
@@ -18494,12 +18080,6 @@
       "question": "Điền từ còn thiếu trong câu tục ngữ: “Học thầy không tày học bạn”",
       "blankAnswer": "Học thầy không tày học bạn",
       "answer": "Học thầy không tày học bạn",
-      "options": [
-        "Học thầy không tày học bạn",
-        "Công cha như núi Thái Sơn, nghĩa mẹ như nước trong nguồn chảy ra",
-        "Uống nước nhớ nguồn",
-        "Ăn quả nhớ kẻ trồng cây"
-      ],
       "explanation": "Câu tục ngữ đầy đủ là “Học thầy không tày học bạn”.",
       "questionNumber": 1081
     },
@@ -18512,12 +18092,6 @@
       "question": "Điền dấu câu cuối câu: “Em yêu mái trường của mình ___”",
       "blankAnswer": ".",
       "answer": ".",
-      "options": [
-        ".",
-        ",",
-        "?",
-        "!"
-      ],
       "explanation": "Câu này kết thúc bằng dấu “.”.",
       "questionNumber": 1082
     },
@@ -18530,12 +18104,6 @@
       "question": "Điền phần còn thiếu để hoàn thành từ: “tiếng tr...ng”",
       "blankAnswer": "ống",
       "answer": "ống",
-      "options": [
-        "ống",
-        "ch",
-        "s",
-        "l"
-      ],
       "explanation": "Điền “ống” để tạo thành từ “trống”.",
       "questionNumber": 1083
     },
@@ -18548,12 +18116,6 @@
       "question": "Điền bộ phận thích hợp vào chỗ trống: “... chao liệng trên bầu trời.”",
       "blankAnswer": "Đàn chim én",
       "answer": "Đàn chim én",
-      "options": [
-        "Đàn chim én",
-        "mái trường",
-        "chèo thuyền",
-        "chăm chỉ"
-      ],
       "explanation": "“Đàn chim én” giúp câu hoàn chỉnh và đúng nghĩa.",
       "questionNumber": 1084
     },
@@ -18566,12 +18128,6 @@
       "question": "Điền từ còn thiếu trong câu tục ngữ: “Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao”",
       "blankAnswer": "Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao",
       "answer": "Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao",
-      "options": [
-        "Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao",
-        "Không thầy đố mày làm nên",
-        "Thương người như thể thương thân",
-        "Lá lành đùm lá rách"
-      ],
       "explanation": "Câu tục ngữ đầy đủ là “Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao”.",
       "questionNumber": 1085
     },
@@ -18584,12 +18140,6 @@
       "question": "Điền dấu câu cuối câu: “Mẹ mua cam, táo và lê ___”",
       "blankAnswer": ".",
       "answer": ".",
-      "options": [
-        ".",
-        ",",
-        "?",
-        "!"
-      ],
       "explanation": "Câu này kết thúc bằng dấu “.”.",
       "questionNumber": 1086
     },
@@ -18602,12 +18152,6 @@
       "question": "Điền phần còn thiếu để hoàn thành từ: “chim y...ng”",
       "blankAnswer": "ế",
       "answer": "ế",
-      "options": [
-        "ế",
-        "ch",
-        "s",
-        "l"
-      ],
       "explanation": "Điền “ế” để tạo thành từ “yến”.",
       "questionNumber": 1087
     },
@@ -18620,12 +18164,6 @@
       "question": "Điền vị ngữ còn thiếu: “Sân trường hôm nay ... .”",
       "blankAnswer": "rất nhộn nhịp",
       "answer": "rất nhộn nhịp",
-      "options": [
-        "rất nhộn nhịp",
-        "bạn Lan",
-        "thả diều",
-        "trong trẻo"
-      ],
       "explanation": "“rất nhộn nhịp” giúp câu hoàn chỉnh và đúng nghĩa.",
       "questionNumber": 1088
     },
@@ -18638,12 +18176,6 @@
       "question": "Điền từ còn thiếu trong câu tục ngữ: “Học thầy không tày học bạn”",
       "blankAnswer": "Học thầy không tày học bạn",
       "answer": "Học thầy không tày học bạn",
-      "options": [
-        "Học thầy không tày học bạn",
-        "Công cha như núi Thái Sơn, nghĩa mẹ như nước trong nguồn chảy ra",
-        "Uống nước nhớ nguồn",
-        "Ăn quả nhớ kẻ trồng cây"
-      ],
       "explanation": "Câu tục ngữ đầy đủ là “Học thầy không tày học bạn”.",
       "questionNumber": 1089
     },
@@ -18656,12 +18188,6 @@
       "question": "Điền dấu câu cuối câu: “Trên cành, chim hót líu lo ___”",
       "blankAnswer": ".",
       "answer": ".",
-      "options": [
-        ".",
-        ",",
-        "?",
-        "!"
-      ],
       "explanation": "Câu này kết thúc bằng dấu “.”.",
       "questionNumber": 1090
     },
@@ -18674,12 +18200,6 @@
       "question": "Điền phần còn thiếu để hoàn thành từ: “...im én”",
       "blankAnswer": "ch",
       "answer": "ch",
-      "options": [
-        "ch",
-        "s",
-        "l",
-        "r"
-      ],
       "explanation": "Điền “ch” để tạo thành từ “chim”.",
       "questionNumber": 1091
     },
@@ -18692,12 +18212,6 @@
       "question": "Điền bộ phận thích hợp vào chỗ trống: “... là lớp trưởng lớp em.”",
       "blankAnswer": "Lan",
       "answer": "Lan",
-      "options": [
-        "Lan",
-        "chú mèo",
-        "vẽ tranh",
-        "xanh biếc"
-      ],
       "explanation": "“Lan” giúp câu hoàn chỉnh và đúng nghĩa.",
       "questionNumber": 1092
     },
@@ -18710,12 +18224,6 @@
       "question": "Điền từ còn thiếu trong câu tục ngữ: “Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao”",
       "blankAnswer": "Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao",
       "answer": "Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao",
-      "options": [
-        "Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao",
-        "Không thầy đố mày làm nên",
-        "Thương người như thể thương thân",
-        "Lá lành đùm lá rách"
-      ],
       "explanation": "Câu tục ngữ đầy đủ là “Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao”.",
       "questionNumber": 1093
     },
@@ -18728,12 +18236,6 @@
       "question": "Điền dấu câu cuối câu: “Ôi, bông hoa đẹp quá ___”",
       "blankAnswer": "!",
       "answer": "!",
-      "options": [
-        ".",
-        ",",
-        "?",
-        "!"
-      ],
       "explanation": "Câu này kết thúc bằng dấu “!”.",
       "questionNumber": 1094
     },
@@ -18746,12 +18248,6 @@
       "question": "Điền phần còn thiếu để hoàn thành từ: “...anh biếc”",
       "blankAnswer": "x",
       "answer": "x",
-      "options": [
-        "x",
-        "ch",
-        "s",
-        "l"
-      ],
       "explanation": "Điền “x” để tạo thành từ “xanh”.",
       "questionNumber": 1095
     },
@@ -18764,12 +18260,6 @@
       "question": "Điền vị ngữ còn thiếu: “Đàn chim én ... .”",
       "blankAnswer": "chao liệng trên bầu trời",
       "answer": "chao liệng trên bầu trời",
-      "options": [
-        "chao liệng trên bầu trời",
-        "bà ngoại",
-        "kể chuyện",
-        "lễ phép"
-      ],
       "explanation": "“chao liệng trên bầu trời” giúp câu hoàn chỉnh và đúng nghĩa.",
       "questionNumber": 1096
     },
@@ -18782,12 +18272,6 @@
       "question": "Điền từ còn thiếu trong câu tục ngữ: “Học thầy không tày học bạn”",
       "blankAnswer": "Học thầy không tày học bạn",
       "answer": "Học thầy không tày học bạn",
-      "options": [
-        "Học thầy không tày học bạn",
-        "Công cha như núi Thái Sơn, nghĩa mẹ như nước trong nguồn chảy ra",
-        "Uống nước nhớ nguồn",
-        "Ăn quả nhớ kẻ trồng cây"
-      ],
       "explanation": "Câu tục ngữ đầy đủ là “Học thầy không tày học bạn”.",
       "questionNumber": 1097
     },
@@ -18800,12 +18284,6 @@
       "question": "Điền dấu câu cuối câu: “Bạn đã làm bài tập chưa ___”",
       "blankAnswer": "?",
       "answer": "?",
-      "options": [
-        ".",
-        ",",
-        "?",
-        "!"
-      ],
       "explanation": "Câu này kết thúc bằng dấu “?”.",
       "questionNumber": 1098
     },
@@ -18818,12 +18296,6 @@
       "question": "Điền phần còn thiếu để hoàn thành từ: “...ừng cây”",
       "blankAnswer": "r",
       "answer": "r",
-      "options": [
-        "r",
-        "ch",
-        "s",
-        "l"
-      ],
       "explanation": "Điền “r” để tạo thành từ “rừng”.",
       "questionNumber": 1099
     },
@@ -18836,12 +18308,6 @@
       "question": "Điền bộ phận thích hợp vào chỗ trống: “... rất nhộn nhịp.”",
       "blankAnswer": "Sân trường hôm nay",
       "answer": "Sân trường hôm nay",
-      "options": [
-        "Sân trường hôm nay",
-        "cây bàng",
-        "quét lớp",
-        "thân thiện"
-      ],
       "explanation": "“Sân trường hôm nay” giúp câu hoàn chỉnh và đúng nghĩa.",
       "questionNumber": 1100
     },
@@ -18854,12 +18320,6 @@
       "question": "Điền từ còn thiếu trong câu tục ngữ: “Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao”",
       "blankAnswer": "Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao",
       "answer": "Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao",
-      "options": [
-        "Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao",
-        "Không thầy đố mày làm nên",
-        "Thương người như thể thương thân",
-        "Lá lành đùm lá rách"
-      ],
       "explanation": "Câu tục ngữ đầy đủ là “Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao”.",
       "questionNumber": 1101
     },
@@ -18872,12 +18332,6 @@
       "question": "Điền dấu câu cuối câu: “Em yêu mái trường của mình ___”",
       "blankAnswer": ".",
       "answer": ".",
-      "options": [
-        ".",
-        ",",
-        "?",
-        "!"
-      ],
       "explanation": "Câu này kết thúc bằng dấu “.”.",
       "questionNumber": 1102
     },
@@ -18890,12 +18344,6 @@
       "question": "Điền phần còn thiếu để hoàn thành từ: “ánh tr...ng”",
       "blankAnswer": "ăng",
       "answer": "ăng",
-      "options": [
-        "ăng",
-        "ch",
-        "s",
-        "l"
-      ],
       "explanation": "Điền “ăng” để tạo thành từ “trăng”.",
       "questionNumber": 1103
     },
@@ -18908,12 +18356,6 @@
       "question": "Điền vị ngữ còn thiếu: “Lan ... .”",
       "blankAnswer": "là lớp trưởng lớp em",
       "answer": "là lớp trưởng lớp em",
-      "options": [
-        "là lớp trưởng lớp em",
-        "chim én",
-        "giúp đỡ bạn",
-        "vui vẻ"
-      ],
       "explanation": "“là lớp trưởng lớp em” giúp câu hoàn chỉnh và đúng nghĩa.",
       "questionNumber": 1104
     },
@@ -18926,12 +18368,6 @@
       "question": "Điền từ còn thiếu trong câu tục ngữ: “Học thầy không tày học bạn”",
       "blankAnswer": "Học thầy không tày học bạn",
       "answer": "Học thầy không tày học bạn",
-      "options": [
-        "Học thầy không tày học bạn",
-        "Công cha như núi Thái Sơn, nghĩa mẹ như nước trong nguồn chảy ra",
-        "Uống nước nhớ nguồn",
-        "Ăn quả nhớ kẻ trồng cây"
-      ],
       "explanation": "Câu tục ngữ đầy đủ là “Học thầy không tày học bạn”.",
       "questionNumber": 1105
     },
@@ -18944,12 +18380,6 @@
       "question": "Điền dấu câu cuối câu: “Mẹ mua cam, táo và lê ___”",
       "blankAnswer": ".",
       "answer": ".",
-      "options": [
-        ".",
-        ",",
-        "?",
-        "!"
-      ],
       "explanation": "Câu này kết thúc bằng dấu “.”.",
       "questionNumber": 1106
     },
@@ -18962,12 +18392,6 @@
       "question": "Điền phần còn thiếu để hoàn thành từ: “đôi b...t”",
       "blankAnswer": "ướ",
       "answer": "ướ",
-      "options": [
-        "ướ",
-        "ch",
-        "s",
-        "l"
-      ],
       "explanation": "Điền “ướ” để tạo thành từ “buốt”.",
       "questionNumber": 1107
     },
@@ -18980,12 +18404,6 @@
       "question": "Điền bộ phận thích hợp vào chỗ trống: “... chao liệng trên bầu trời.”",
       "blankAnswer": "Đàn chim én",
       "answer": "Đàn chim én",
-      "options": [
-        "Đàn chim én",
-        "dòng sông",
-        "đọc sách",
-        "vui vẻ"
-      ],
       "explanation": "“Đàn chim én” giúp câu hoàn chỉnh và đúng nghĩa.",
       "questionNumber": 1108
     },
@@ -18998,12 +18416,6 @@
       "question": "Điền từ còn thiếu trong câu tục ngữ: “Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao”",
       "blankAnswer": "Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao",
       "answer": "Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao",
-      "options": [
-        "Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao",
-        "Không thầy đố mày làm nên",
-        "Thương người như thể thương thân",
-        "Lá lành đùm lá rách"
-      ],
       "explanation": "Câu tục ngữ đầy đủ là “Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao”.",
       "questionNumber": 1109
     },
@@ -19016,12 +18428,6 @@
       "question": "Điền dấu câu cuối câu: “Trên cành, chim hót líu lo ___”",
       "blankAnswer": ".",
       "answer": ".",
-      "options": [
-        ".",
-        ",",
-        "?",
-        "!"
-      ],
       "explanation": "Câu này kết thúc bằng dấu “.”.",
       "questionNumber": 1110
     },
@@ -19034,12 +18440,6 @@
       "question": "Điền phần còn thiếu để hoàn thành từ: “...ường làng”",
       "blankAnswer": "tr",
       "answer": "tr",
-      "options": [
-        "tr",
-        "ch",
-        "s",
-        "l"
-      ],
       "explanation": "Điền “tr” để tạo thành từ “trường”.",
       "questionNumber": 1111
     },
@@ -19052,12 +18452,6 @@
       "question": "Điền vị ngữ còn thiếu: “Sân trường hôm nay ... .”",
       "blankAnswer": "rất nhộn nhịp",
       "answer": "rất nhộn nhịp",
-      "options": [
-        "rất nhộn nhịp",
-        "cánh đồng",
-        "đưa thư",
-        "rực rỡ"
-      ],
       "explanation": "“rất nhộn nhịp” giúp câu hoàn chỉnh và đúng nghĩa.",
       "questionNumber": 1112
     },
@@ -19070,12 +18464,6 @@
       "question": "Điền từ còn thiếu trong câu tục ngữ: “Học thầy không tày học bạn”",
       "blankAnswer": "Học thầy không tày học bạn",
       "answer": "Học thầy không tày học bạn",
-      "options": [
-        "Học thầy không tày học bạn",
-        "Công cha như núi Thái Sơn, nghĩa mẹ như nước trong nguồn chảy ra",
-        "Uống nước nhớ nguồn",
-        "Ăn quả nhớ kẻ trồng cây"
-      ],
       "explanation": "Câu tục ngữ đầy đủ là “Học thầy không tày học bạn”.",
       "questionNumber": 1113
     },
@@ -19088,12 +18476,6 @@
       "question": "Điền dấu câu cuối câu: “Ôi, bông hoa đẹp quá ___”",
       "blankAnswer": "!",
       "answer": "!",
-      "options": [
-        ".",
-        ",",
-        "?",
-        "!"
-      ],
       "explanation": "Câu này kết thúc bằng dấu “!”.",
       "questionNumber": 1114
     },
@@ -19106,12 +18488,6 @@
       "question": "Điền phần còn thiếu để hoàn thành từ: “...uối nguồn”",
       "blankAnswer": "s",
       "answer": "s",
-      "options": [
-        "s",
-        "ch",
-        "l",
-        "r"
-      ],
       "explanation": "Điền “s” để tạo thành từ “suối”.",
       "questionNumber": 1115
     },
@@ -19124,12 +18500,6 @@
       "question": "Điền bộ phận thích hợp vào chỗ trống: “... là lớp trưởng lớp em.”",
       "blankAnswer": "Lan",
       "answer": "Lan",
-      "options": [
-        "Lan",
-        "cánh đồng",
-        "đọc sách",
-        "lễ phép"
-      ],
       "explanation": "“Lan” giúp câu hoàn chỉnh và đúng nghĩa.",
       "questionNumber": 1116
     },
@@ -19142,12 +18512,6 @@
       "question": "Điền từ còn thiếu trong câu tục ngữ: “Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao”",
       "blankAnswer": "Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao",
       "answer": "Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao",
-      "options": [
-        "Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao",
-        "Không thầy đố mày làm nên",
-        "Thương người như thể thương thân",
-        "Lá lành đùm lá rách"
-      ],
       "explanation": "Câu tục ngữ đầy đủ là “Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao”.",
       "questionNumber": 1117
     },
@@ -19160,12 +18524,6 @@
       "question": "Điền dấu câu cuối câu: “Bạn đã làm bài tập chưa ___”",
       "blankAnswer": "?",
       "answer": "?",
-      "options": [
-        ".",
-        ",",
-        "?",
-        "!"
-      ],
       "explanation": "Câu này kết thúc bằng dấu “?”.",
       "questionNumber": 1118
     },
@@ -19178,12 +18536,6 @@
       "question": "Điền phần còn thiếu để hoàn thành từ: “...àng quê”",
       "blankAnswer": "l",
       "answer": "l",
-      "options": [
-        "l",
-        "ch",
-        "s",
-        "r"
-      ],
       "explanation": "Điền “l” để tạo thành từ “làng”.",
       "questionNumber": 1119
     },
@@ -19196,12 +18548,6 @@
       "question": "Điền vị ngữ còn thiếu: “Đàn chim én ... .”",
       "blankAnswer": "chao liệng trên bầu trời",
       "answer": "chao liệng trên bầu trời",
-      "options": [
-        "chao liệng trên bầu trời",
-        "cô giáo",
-        "đọc sách",
-        "đoàn kết"
-      ],
       "explanation": "“chao liệng trên bầu trời” giúp câu hoàn chỉnh và đúng nghĩa.",
       "questionNumber": 1120
     },
@@ -19214,12 +18560,6 @@
       "question": "Điền từ còn thiếu trong câu tục ngữ: “Học thầy không tày học bạn”",
       "blankAnswer": "Học thầy không tày học bạn",
       "answer": "Học thầy không tày học bạn",
-      "options": [
-        "Học thầy không tày học bạn",
-        "Công cha như núi Thái Sơn, nghĩa mẹ như nước trong nguồn chảy ra",
-        "Uống nước nhớ nguồn",
-        "Ăn quả nhớ kẻ trồng cây"
-      ],
       "explanation": "Câu tục ngữ đầy đủ là “Học thầy không tày học bạn”.",
       "questionNumber": 1121
     },
@@ -19232,12 +18572,6 @@
       "question": "Điền dấu câu cuối câu: “Em yêu mái trường của mình ___”",
       "blankAnswer": ".",
       "answer": ".",
-      "options": [
-        ".",
-        ",",
-        "?",
-        "!"
-      ],
       "explanation": "Câu này kết thúc bằng dấu “.”.",
       "questionNumber": 1122
     },
@@ -19250,12 +18584,6 @@
       "question": "Điền phần còn thiếu để hoàn thành từ: “b...n bè”",
       "blankAnswer": "ạ",
       "answer": "ạ",
-      "options": [
-        "ạ",
-        "ch",
-        "s",
-        "l"
-      ],
       "explanation": "Điền “ạ” để tạo thành từ “bạn”.",
       "questionNumber": 1123
     },
@@ -19268,12 +18596,6 @@
       "question": "Điền bộ phận thích hợp vào chỗ trống: “... rất nhộn nhịp.”",
       "blankAnswer": "Sân trường hôm nay",
       "answer": "Sân trường hôm nay",
-      "options": [
-        "Sân trường hôm nay",
-        "bà ngoại",
-        "gieo hạt",
-        "xanh biếc"
-      ],
       "explanation": "“Sân trường hôm nay” giúp câu hoàn chỉnh và đúng nghĩa.",
       "questionNumber": 1124
     },
@@ -19286,12 +18608,6 @@
       "question": "Điền từ còn thiếu trong câu tục ngữ: “Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao”",
       "blankAnswer": "Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao",
       "answer": "Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao",
-      "options": [
-        "Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao",
-        "Không thầy đố mày làm nên",
-        "Thương người như thể thương thân",
-        "Lá lành đùm lá rách"
-      ],
       "explanation": "Câu tục ngữ đầy đủ là “Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao”.",
       "questionNumber": 1125
     },
@@ -19304,12 +18620,6 @@
       "question": "Điền dấu câu cuối câu: “Mẹ mua cam, táo và lê ___”",
       "blankAnswer": ".",
       "answer": ".",
-      "options": [
-        ".",
-        ",",
-        "?",
-        "!"
-      ],
       "explanation": "Câu này kết thúc bằng dấu “.”.",
       "questionNumber": 1126
     },
@@ -19322,12 +18632,6 @@
       "question": "Điền phần còn thiếu để hoàn thành từ: “dòng n...c”",
       "blankAnswer": "ướ",
       "answer": "ướ",
-      "options": [
-        "ướ",
-        "ch",
-        "s",
-        "l"
-      ],
       "explanation": "Điền “ướ” để tạo thành từ “nước”.",
       "questionNumber": 1127
     },
@@ -19340,12 +18644,6 @@
       "question": "Điền vị ngữ còn thiếu: “Lan ... .”",
       "blankAnswer": "là lớp trưởng lớp em",
       "answer": "là lớp trưởng lớp em",
-      "options": [
-        "là lớp trưởng lớp em",
-        "bà ngoại",
-        "viết bài",
-        "đoàn kết"
-      ],
       "explanation": "“là lớp trưởng lớp em” giúp câu hoàn chỉnh và đúng nghĩa.",
       "questionNumber": 1128
     },
@@ -19358,12 +18656,6 @@
       "question": "Điền từ còn thiếu trong câu tục ngữ: “Học thầy không tày học bạn”",
       "blankAnswer": "Học thầy không tày học bạn",
       "answer": "Học thầy không tày học bạn",
-      "options": [
-        "Học thầy không tày học bạn",
-        "Công cha như núi Thái Sơn, nghĩa mẹ như nước trong nguồn chảy ra",
-        "Uống nước nhớ nguồn",
-        "Ăn quả nhớ kẻ trồng cây"
-      ],
       "explanation": "Câu tục ngữ đầy đủ là “Học thầy không tày học bạn”.",
       "questionNumber": 1129
     },
@@ -19376,12 +18668,6 @@
       "question": "Điền dấu câu cuối câu: “Trên cành, chim hót líu lo ___”",
       "blankAnswer": ".",
       "answer": ".",
-      "options": [
-        ".",
-        ",",
-        "?",
-        "!"
-      ],
       "explanation": "Câu này kết thúc bằng dấu “.”.",
       "questionNumber": 1130
     },
@@ -19394,12 +18680,6 @@
       "question": "Điền phần còn thiếu để hoàn thành từ: “x...nh đẹp”",
       "blankAnswer": "i",
       "answer": "i",
-      "options": [
-        "i",
-        "ch",
-        "s",
-        "l"
-      ],
       "explanation": "Điền “i” để tạo thành từ “xinh”.",
       "questionNumber": 1131
     },
@@ -19412,12 +18692,6 @@
       "question": "Điền bộ phận thích hợp vào chỗ trống: “... chao liệng trên bầu trời.”",
       "blankAnswer": "Đàn chim én",
       "answer": "Đàn chim én",
-      "options": [
-        "Đàn chim én",
-        "ngọn núi",
-        "đọc sách",
-        "rộng rãi"
-      ],
       "explanation": "“Đàn chim én” giúp câu hoàn chỉnh và đúng nghĩa.",
       "questionNumber": 1132
     },
@@ -19430,12 +18704,6 @@
       "question": "Điền từ còn thiếu trong câu tục ngữ: “Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao”",
       "blankAnswer": "Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao",
       "answer": "Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao",
-      "options": [
-        "Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao",
-        "Không thầy đố mày làm nên",
-        "Thương người như thể thương thân",
-        "Lá lành đùm lá rách"
-      ],
       "explanation": "Câu tục ngữ đầy đủ là “Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao”.",
       "questionNumber": 1133
     },
@@ -19448,12 +18716,6 @@
       "question": "Điền dấu câu cuối câu: “Ôi, bông hoa đẹp quá ___”",
       "blankAnswer": "!",
       "answer": "!",
-      "options": [
-        ".",
-        ",",
-        "?",
-        "!"
-      ],
       "explanation": "Câu này kết thúc bằng dấu “!”.",
       "questionNumber": 1134
     },
@@ -19466,12 +18728,6 @@
       "question": "Điền phần còn thiếu để hoàn thành từ: “...ạch sẽ”",
       "blankAnswer": "s",
       "answer": "s",
-      "options": [
-        "s",
-        "ch",
-        "l",
-        "r"
-      ],
       "explanation": "Điền “s” để tạo thành từ “sạch”.",
       "questionNumber": 1135
     },
@@ -19484,12 +18740,6 @@
       "question": "Điền vị ngữ còn thiếu: “Sân trường hôm nay ... .”",
       "blankAnswer": "rất nhộn nhịp",
       "answer": "rất nhộn nhịp",
-      "options": [
-        "rất nhộn nhịp",
-        "quyển sách",
-        "chăm sóc vườn rau",
-        "ngăn nắp"
-      ],
       "explanation": "“rất nhộn nhịp” giúp câu hoàn chỉnh và đúng nghĩa.",
       "questionNumber": 1136
     },
@@ -19502,12 +18752,6 @@
       "question": "Điền từ còn thiếu trong câu tục ngữ: “Học thầy không tày học bạn”",
       "blankAnswer": "Học thầy không tày học bạn",
       "answer": "Học thầy không tày học bạn",
-      "options": [
-        "Học thầy không tày học bạn",
-        "Công cha như núi Thái Sơn, nghĩa mẹ như nước trong nguồn chảy ra",
-        "Uống nước nhớ nguồn",
-        "Ăn quả nhớ kẻ trồng cây"
-      ],
       "explanation": "Câu tục ngữ đầy đủ là “Học thầy không tày học bạn”.",
       "questionNumber": 1137
     },
@@ -19520,12 +18764,6 @@
       "question": "Điền dấu câu cuối câu: “Bạn đã làm bài tập chưa ___”",
       "blankAnswer": "?",
       "answer": "?",
-      "options": [
-        ".",
-        ",",
-        "?",
-        "!"
-      ],
       "explanation": "Câu này kết thúc bằng dấu “?”.",
       "questionNumber": 1138
     },
@@ -19538,12 +18776,6 @@
       "question": "Điền phần còn thiếu để hoàn thành từ: “...úa chín”",
       "blankAnswer": "l",
       "answer": "l",
-      "options": [
-        "l",
-        "ch",
-        "s",
-        "r"
-      ],
       "explanation": "Điền “l” để tạo thành từ “lúa”.",
       "questionNumber": 1139
     },
@@ -19556,12 +18788,6 @@
       "question": "Điền bộ phận thích hợp vào chỗ trống: “... là lớp trưởng lớp em.”",
       "blankAnswer": "Lan",
       "answer": "Lan",
-      "options": [
-        "Lan",
-        "bà ngoại",
-        "đón khách",
-        "nhanh nhẹn"
-      ],
       "explanation": "“Lan” giúp câu hoàn chỉnh và đúng nghĩa.",
       "questionNumber": 1140
     },
@@ -19574,12 +18800,6 @@
       "question": "Điền từ còn thiếu trong câu tục ngữ: “Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao”",
       "blankAnswer": "Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao",
       "answer": "Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao",
-      "options": [
-        "Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao",
-        "Không thầy đố mày làm nên",
-        "Thương người như thể thương thân",
-        "Lá lành đùm lá rách"
-      ],
       "explanation": "Câu tục ngữ đầy đủ là “Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao”.",
       "questionNumber": 1141
     },
@@ -19592,12 +18812,6 @@
       "question": "Điền dấu câu cuối câu: “Em yêu mái trường của mình ___”",
       "blankAnswer": ".",
       "answer": ".",
-      "options": [
-        ".",
-        ",",
-        "?",
-        "!"
-      ],
       "explanation": "Câu này kết thúc bằng dấu “.”.",
       "questionNumber": 1142
     },
@@ -19610,12 +18824,6 @@
       "question": "Điền phần còn thiếu để hoàn thành từ: “...òng sông”",
       "blankAnswer": "d",
       "answer": "d",
-      "options": [
-        "d",
-        "ch",
-        "s",
-        "l"
-      ],
       "explanation": "Điền “d” để tạo thành từ “dòng”.",
       "questionNumber": 1143
     },
@@ -19628,12 +18836,6 @@
       "question": "Điền vị ngữ còn thiếu: “Đàn chim én ... .”",
       "blankAnswer": "chao liệng trên bầu trời",
       "answer": "chao liệng trên bầu trời",
-      "options": [
-        "chao liệng trên bầu trời",
-        "người thợ",
-        "thu hoạch lúa",
-        "rộng rãi"
-      ],
       "explanation": "“chao liệng trên bầu trời” giúp câu hoàn chỉnh và đúng nghĩa.",
       "questionNumber": 1144
     },
@@ -19646,12 +18848,6 @@
       "question": "Điền từ còn thiếu trong câu tục ngữ: “Học thầy không tày học bạn”",
       "blankAnswer": "Học thầy không tày học bạn",
       "answer": "Học thầy không tày học bạn",
-      "options": [
-        "Học thầy không tày học bạn",
-        "Công cha như núi Thái Sơn, nghĩa mẹ như nước trong nguồn chảy ra",
-        "Uống nước nhớ nguồn",
-        "Ăn quả nhớ kẻ trồng cây"
-      ],
       "explanation": "Câu tục ngữ đầy đủ là “Học thầy không tày học bạn”.",
       "questionNumber": 1145
     },
@@ -19664,12 +18860,6 @@
       "question": "Điền dấu câu cuối câu: “Mẹ mua cam, táo và lê ___”",
       "blankAnswer": ".",
       "answer": ".",
-      "options": [
-        ".",
-        ",",
-        "?",
-        "!"
-      ],
       "explanation": "Câu này kết thúc bằng dấu “.”.",
       "questionNumber": 1146
     },
@@ -19682,12 +18872,6 @@
       "question": "Điền phần còn thiếu để hoàn thành từ: “b...c chân”",
       "blankAnswer": "ước",
       "answer": "ước",
-      "options": [
-        "ước",
-        "ch",
-        "s",
-        "l"
-      ],
       "explanation": "Điền “ước” để tạo thành từ “bước”.",
       "questionNumber": 1147
     },
@@ -19700,12 +18884,6 @@
       "question": "Điền bộ phận thích hợp vào chỗ trống: “... rất nhộn nhịp.”",
       "blankAnswer": "Sân trường hôm nay",
       "answer": "Sân trường hôm nay",
-      "options": [
-        "Sân trường hôm nay",
-        "bác nông dân",
-        "quét lớp",
-        "nhanh nhẹn"
-      ],
       "explanation": "“Sân trường hôm nay” giúp câu hoàn chỉnh và đúng nghĩa.",
       "questionNumber": 1148
     },
@@ -19718,12 +18896,6 @@
       "question": "Điền từ còn thiếu trong câu tục ngữ: “Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao”",
       "blankAnswer": "Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao",
       "answer": "Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao",
-      "options": [
-        "Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao",
-        "Không thầy đố mày làm nên",
-        "Thương người như thể thương thân",
-        "Lá lành đùm lá rách"
-      ],
       "explanation": "Câu tục ngữ đầy đủ là “Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao”.",
       "questionNumber": 1149
     },
@@ -19736,12 +18908,6 @@
       "question": "Điền dấu câu cuối câu: “Trên cành, chim hót líu lo ___”",
       "blankAnswer": ".",
       "answer": ".",
-      "options": [
-        ".",
-        ",",
-        "?",
-        "!"
-      ],
       "explanation": "Câu này kết thúc bằng dấu “.”.",
       "questionNumber": 1150
     },
@@ -19754,12 +18920,6 @@
       "question": "Điền phần còn thiếu để hoàn thành từ: “b...nh minh”",
       "blankAnswer": "ì",
       "answer": "ì",
-      "options": [
-        "ì",
-        "ch",
-        "s",
-        "l"
-      ],
       "explanation": "Điền “ì” để tạo thành từ “bình”.",
       "questionNumber": 1151
     },
@@ -19772,12 +18932,6 @@
       "question": "Điền vị ngữ còn thiếu: “Lan ... .”",
       "blankAnswer": "là lớp trưởng lớp em",
       "answer": "là lớp trưởng lớp em",
-      "options": [
-        "là lớp trưởng lớp em",
-        "học sinh",
-        "kể chuyện",
-        "rực rỡ"
-      ],
       "explanation": "“là lớp trưởng lớp em” giúp câu hoàn chỉnh và đúng nghĩa.",
       "questionNumber": 1152
     },
@@ -19790,12 +18944,6 @@
       "question": "Điền từ còn thiếu trong câu tục ngữ: “Học thầy không tày học bạn”",
       "blankAnswer": "Học thầy không tày học bạn",
       "answer": "Học thầy không tày học bạn",
-      "options": [
-        "Học thầy không tày học bạn",
-        "Công cha như núi Thái Sơn, nghĩa mẹ như nước trong nguồn chảy ra",
-        "Uống nước nhớ nguồn",
-        "Ăn quả nhớ kẻ trồng cây"
-      ],
       "explanation": "Câu tục ngữ đầy đủ là “Học thầy không tày học bạn”.",
       "questionNumber": 1153
     },
@@ -19808,12 +18956,6 @@
       "question": "Điền dấu câu cuối câu: “Ôi, bông hoa đẹp quá ___”",
       "blankAnswer": "!",
       "answer": "!",
-      "options": [
-        ".",
-        ",",
-        "?",
-        "!"
-      ],
       "explanation": "Câu này kết thúc bằng dấu “!”.",
       "questionNumber": 1154
     },
@@ -19826,12 +18968,6 @@
       "question": "Điền phần còn thiếu để hoàn thành từ: “...ân trời”",
       "blankAnswer": "ch",
       "answer": "ch",
-      "options": [
-        "ch",
-        "s",
-        "l",
-        "r"
-      ],
       "explanation": "Điền “ch” để tạo thành từ “chân”.",
       "questionNumber": 1155
     },
@@ -19844,12 +18980,6 @@
       "question": "Điền bộ phận thích hợp vào chỗ trống: “... chao liệng trên bầu trời.”",
       "blankAnswer": "Đàn chim én",
       "answer": "Đàn chim én",
-      "options": [
-        "Đàn chim én",
-        "cây bàng",
-        "thả diều",
-        "cao lớn"
-      ],
       "explanation": "“Đàn chim én” giúp câu hoàn chỉnh và đúng nghĩa.",
       "questionNumber": 1156
     },
@@ -19862,12 +18992,6 @@
       "question": "Điền từ còn thiếu trong câu tục ngữ: “Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao”",
       "blankAnswer": "Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao",
       "answer": "Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao",
-      "options": [
-        "Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao",
-        "Không thầy đố mày làm nên",
-        "Thương người như thể thương thân",
-        "Lá lành đùm lá rách"
-      ],
       "explanation": "Câu tục ngữ đầy đủ là “Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao”.",
       "questionNumber": 1157
     },
@@ -19880,12 +19004,6 @@
       "question": "Điền dấu câu cuối câu: “Bạn đã làm bài tập chưa ___”",
       "blankAnswer": "?",
       "answer": "?",
-      "options": [
-        ".",
-        ",",
-        "?",
-        "!"
-      ],
       "explanation": "Câu này kết thúc bằng dấu “?”.",
       "questionNumber": 1158
     },
@@ -19898,12 +19016,6 @@
       "question": "Điền phần còn thiếu để hoàn thành từ: “...á cây”",
       "blankAnswer": "l",
       "answer": "l",
-      "options": [
-        "l",
-        "ch",
-        "s",
-        "r"
-      ],
       "explanation": "Điền “l” để tạo thành từ “lá”.",
       "questionNumber": 1159
     },
@@ -19916,12 +19028,6 @@
       "question": "Điền vị ngữ còn thiếu: “Sân trường hôm nay ... .”",
       "blankAnswer": "rất nhộn nhịp",
       "answer": "rất nhộn nhịp",
-      "options": [
-        "rất nhộn nhịp",
-        "cánh đồng",
-        "vẽ tranh",
-        "trong trẻo"
-      ],
       "explanation": "“rất nhộn nhịp” giúp câu hoàn chỉnh và đúng nghĩa.",
       "questionNumber": 1160
     },
@@ -19934,12 +19040,6 @@
       "question": "Điền từ còn thiếu trong câu tục ngữ: “Học thầy không tày học bạn”",
       "blankAnswer": "Học thầy không tày học bạn",
       "answer": "Học thầy không tày học bạn",
-      "options": [
-        "Học thầy không tày học bạn",
-        "Công cha như núi Thái Sơn, nghĩa mẹ như nước trong nguồn chảy ra",
-        "Uống nước nhớ nguồn",
-        "Ăn quả nhớ kẻ trồng cây"
-      ],
       "explanation": "Câu tục ngữ đầy đủ là “Học thầy không tày học bạn”.",
       "questionNumber": 1161
     },
@@ -19952,12 +19052,6 @@
       "question": "Điền dấu câu cuối câu: “Em yêu mái trường của mình ___”",
       "blankAnswer": ".",
       "answer": ".",
-      "options": [
-        ".",
-        ",",
-        "?",
-        "!"
-      ],
       "explanation": "Câu này kết thúc bằng dấu “.”.",
       "questionNumber": 1162
     },
@@ -19970,12 +19064,6 @@
       "question": "Điền phần còn thiếu để hoàn thành từ: “...au xanh”",
       "blankAnswer": "r",
       "answer": "r",
-      "options": [
-        "r",
-        "ch",
-        "s",
-        "l"
-      ],
       "explanation": "Điền “r” để tạo thành từ “rau”.",
       "questionNumber": 1163
     },
@@ -19988,12 +19076,6 @@
       "question": "Điền bộ phận thích hợp vào chỗ trống: “... là lớp trưởng lớp em.”",
       "blankAnswer": "Lan",
       "answer": "Lan",
-      "options": [
-        "Lan",
-        "học sinh",
-        "thu hoạch lúa",
-        "rực rỡ"
-      ],
       "explanation": "“Lan” giúp câu hoàn chỉnh và đúng nghĩa.",
       "questionNumber": 1164
     },
@@ -20006,12 +19088,6 @@
       "question": "Điền từ còn thiếu trong câu tục ngữ: “Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao”",
       "blankAnswer": "Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao",
       "answer": "Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao",
-      "options": [
-        "Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao",
-        "Không thầy đố mày làm nên",
-        "Thương người như thể thương thân",
-        "Lá lành đùm lá rách"
-      ],
       "explanation": "Câu tục ngữ đầy đủ là “Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao”.",
       "questionNumber": 1165
     },
@@ -20024,12 +19100,6 @@
       "question": "Điền dấu câu cuối câu: “Mẹ mua cam, táo và lê ___”",
       "blankAnswer": ".",
       "answer": ".",
-      "options": [
-        ".",
-        ",",
-        "?",
-        "!"
-      ],
       "explanation": "Câu này kết thúc bằng dấu “.”.",
       "questionNumber": 1166
     },
@@ -20042,12 +19112,6 @@
       "question": "Điền phần còn thiếu để hoàn thành từ: “tiếng tr...ng”",
       "blankAnswer": "ống",
       "answer": "ống",
-      "options": [
-        "ống",
-        "ch",
-        "s",
-        "l"
-      ],
       "explanation": "Điền “ống” để tạo thành từ “trống”.",
       "questionNumber": 1167
     },
@@ -20060,12 +19124,6 @@
       "question": "Điền vị ngữ còn thiếu: “Đàn chim én ... .”",
       "blankAnswer": "chao liệng trên bầu trời",
       "answer": "chao liệng trên bầu trời",
-      "options": [
-        "chao liệng trên bầu trời",
-        "chú mèo",
-        "tập thể dục",
-        "dịu dàng"
-      ],
       "explanation": "“chao liệng trên bầu trời” giúp câu hoàn chỉnh và đúng nghĩa.",
       "questionNumber": 1168
     },
@@ -20078,12 +19136,6 @@
       "question": "Điền từ còn thiếu trong câu tục ngữ: “Học thầy không tày học bạn”",
       "blankAnswer": "Học thầy không tày học bạn",
       "answer": "Học thầy không tày học bạn",
-      "options": [
-        "Học thầy không tày học bạn",
-        "Công cha như núi Thái Sơn, nghĩa mẹ như nước trong nguồn chảy ra",
-        "Uống nước nhớ nguồn",
-        "Ăn quả nhớ kẻ trồng cây"
-      ],
       "explanation": "Câu tục ngữ đầy đủ là “Học thầy không tày học bạn”.",
       "questionNumber": 1169
     },
@@ -20096,12 +19148,6 @@
       "question": "Điền dấu câu cuối câu: “Trên cành, chim hót líu lo ___”",
       "blankAnswer": ".",
       "answer": ".",
-      "options": [
-        ".",
-        ",",
-        "?",
-        "!"
-      ],
       "explanation": "Câu này kết thúc bằng dấu “.”.",
       "questionNumber": 1170
     },
@@ -20114,12 +19160,6 @@
       "question": "Điền phần còn thiếu để hoàn thành từ: “chim y...ng”",
       "blankAnswer": "ế",
       "answer": "ế",
-      "options": [
-        "ế",
-        "ch",
-        "s",
-        "l"
-      ],
       "explanation": "Điền “ế” để tạo thành từ “yến”.",
       "questionNumber": 1171
     },
@@ -20132,12 +19172,6 @@
       "question": "Điền bộ phận thích hợp vào chỗ trống: “... rất nhộn nhịp.”",
       "blankAnswer": "Sân trường hôm nay",
       "answer": "Sân trường hôm nay",
-      "options": [
-        "Sân trường hôm nay",
-        "chim én",
-        "trồng cây",
-        "cao lớn"
-      ],
       "explanation": "“Sân trường hôm nay” giúp câu hoàn chỉnh và đúng nghĩa.",
       "questionNumber": 1172
     },
@@ -20150,12 +19184,6 @@
       "question": "Điền từ còn thiếu trong câu tục ngữ: “Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao”",
       "blankAnswer": "Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao",
       "answer": "Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao",
-      "options": [
-        "Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao",
-        "Không thầy đố mày làm nên",
-        "Thương người như thể thương thân",
-        "Lá lành đùm lá rách"
-      ],
       "explanation": "Câu tục ngữ đầy đủ là “Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao”.",
       "questionNumber": 1173
     },
@@ -20168,12 +19196,6 @@
       "question": "Điền dấu câu cuối câu: “Ôi, bông hoa đẹp quá ___”",
       "blankAnswer": "!",
       "answer": "!",
-      "options": [
-        ".",
-        ",",
-        "?",
-        "!"
-      ],
       "explanation": "Câu này kết thúc bằng dấu “!”.",
       "questionNumber": 1174
     },
@@ -20186,12 +19208,6 @@
       "question": "Điền phần còn thiếu để hoàn thành từ: “...im én”",
       "blankAnswer": "ch",
       "answer": "ch",
-      "options": [
-        "ch",
-        "s",
-        "l",
-        "r"
-      ],
       "explanation": "Điền “ch” để tạo thành từ “chim”.",
       "questionNumber": 1175
     },
@@ -20204,12 +19220,6 @@
       "question": "Điền vị ngữ còn thiếu: “Lan ... .”",
       "blankAnswer": "là lớp trưởng lớp em",
       "answer": "là lớp trưởng lớp em",
-      "options": [
-        "là lớp trưởng lớp em",
-        "con đường",
-        "giúp đỡ bạn",
-        "rực rỡ"
-      ],
       "explanation": "“là lớp trưởng lớp em” giúp câu hoàn chỉnh và đúng nghĩa.",
       "questionNumber": 1176
     },
@@ -20222,12 +19232,6 @@
       "question": "Điền từ còn thiếu trong câu tục ngữ: “Học thầy không tày học bạn”",
       "blankAnswer": "Học thầy không tày học bạn",
       "answer": "Học thầy không tày học bạn",
-      "options": [
-        "Học thầy không tày học bạn",
-        "Công cha như núi Thái Sơn, nghĩa mẹ như nước trong nguồn chảy ra",
-        "Uống nước nhớ nguồn",
-        "Ăn quả nhớ kẻ trồng cây"
-      ],
       "explanation": "Câu tục ngữ đầy đủ là “Học thầy không tày học bạn”.",
       "questionNumber": 1177
     },
@@ -20240,12 +19244,6 @@
       "question": "Điền dấu câu cuối câu: “Bạn đã làm bài tập chưa ___”",
       "blankAnswer": "?",
       "answer": "?",
-      "options": [
-        ".",
-        ",",
-        "?",
-        "!"
-      ],
       "explanation": "Câu này kết thúc bằng dấu “?”.",
       "questionNumber": 1178
     },
@@ -20258,12 +19256,6 @@
       "question": "Điền phần còn thiếu để hoàn thành từ: “...anh biếc”",
       "blankAnswer": "x",
       "answer": "x",
-      "options": [
-        "x",
-        "ch",
-        "s",
-        "l"
-      ],
       "explanation": "Điền “x” để tạo thành từ “xanh”.",
       "questionNumber": 1179
     },
@@ -20276,12 +19268,6 @@
       "question": "Điền bộ phận thích hợp vào chỗ trống: “... chao liệng trên bầu trời.”",
       "blankAnswer": "Đàn chim én",
       "answer": "Đàn chim én",
-      "options": [
-        "Đàn chim én",
-        "ông nội",
-        "kể chuyện",
-        "dịu dàng"
-      ],
       "explanation": "“Đàn chim én” giúp câu hoàn chỉnh và đúng nghĩa.",
       "questionNumber": 1180
     },
@@ -20294,12 +19280,6 @@
       "question": "Điền từ còn thiếu trong câu tục ngữ: “Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao”",
       "blankAnswer": "Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao",
       "answer": "Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao",
-      "options": [
-        "Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao",
-        "Không thầy đố mày làm nên",
-        "Thương người như thể thương thân",
-        "Lá lành đùm lá rách"
-      ],
       "explanation": "Câu tục ngữ đầy đủ là “Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao”.",
       "questionNumber": 1181
     },
@@ -20312,12 +19292,6 @@
       "question": "Điền dấu câu cuối câu: “Em yêu mái trường của mình ___”",
       "blankAnswer": ".",
       "answer": ".",
-      "options": [
-        ".",
-        ",",
-        "?",
-        "!"
-      ],
       "explanation": "Câu này kết thúc bằng dấu “.”.",
       "questionNumber": 1182
     },
@@ -20330,12 +19304,6 @@
       "question": "Điền phần còn thiếu để hoàn thành từ: “...ừng cây”",
       "blankAnswer": "r",
       "answer": "r",
-      "options": [
-        "r",
-        "ch",
-        "s",
-        "l"
-      ],
       "explanation": "Điền “r” để tạo thành từ “rừng”.",
       "questionNumber": 1183
     },
@@ -20348,12 +19316,6 @@
       "question": "Điền vị ngữ còn thiếu: “Sân trường hôm nay ... .”",
       "blankAnswer": "rất nhộn nhịp",
       "answer": "rất nhộn nhịp",
-      "options": [
-        "rất nhộn nhịp",
-        "cánh đồng",
-        "viết bài",
-        "kiên trì"
-      ],
       "explanation": "“rất nhộn nhịp” giúp câu hoàn chỉnh và đúng nghĩa.",
       "questionNumber": 1184
     },
@@ -20366,12 +19328,6 @@
       "question": "Điền từ còn thiếu trong câu tục ngữ: “Học thầy không tày học bạn”",
       "blankAnswer": "Học thầy không tày học bạn",
       "answer": "Học thầy không tày học bạn",
-      "options": [
-        "Học thầy không tày học bạn",
-        "Công cha như núi Thái Sơn, nghĩa mẹ như nước trong nguồn chảy ra",
-        "Uống nước nhớ nguồn",
-        "Ăn quả nhớ kẻ trồng cây"
-      ],
       "explanation": "Câu tục ngữ đầy đủ là “Học thầy không tày học bạn”.",
       "questionNumber": 1185
     },
@@ -20384,12 +19340,6 @@
       "question": "Điền dấu câu cuối câu: “Mẹ mua cam, táo và lê ___”",
       "blankAnswer": ".",
       "answer": ".",
-      "options": [
-        ".",
-        ",",
-        "?",
-        "!"
-      ],
       "explanation": "Câu này kết thúc bằng dấu “.”.",
       "questionNumber": 1186
     },
@@ -20402,12 +19352,6 @@
       "question": "Điền phần còn thiếu để hoàn thành từ: “ánh tr...ng”",
       "blankAnswer": "ăng",
       "answer": "ăng",
-      "options": [
-        "ăng",
-        "ch",
-        "s",
-        "l"
-      ],
       "explanation": "Điền “ăng” để tạo thành từ “trăng”.",
       "questionNumber": 1187
     },
@@ -20420,12 +19364,6 @@
       "question": "Điền bộ phận thích hợp vào chỗ trống: “... là lớp trưởng lớp em.”",
       "blankAnswer": "Lan",
       "answer": "Lan",
-      "options": [
-        "Lan",
-        "bà ngoại",
-        "nhặt lá",
-        "kiên trì"
-      ],
       "explanation": "“Lan” giúp câu hoàn chỉnh và đúng nghĩa.",
       "questionNumber": 1188
     },
@@ -20438,12 +19376,6 @@
       "question": "Điền từ còn thiếu trong câu tục ngữ: “Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao”",
       "blankAnswer": "Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao",
       "answer": "Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao",
-      "options": [
-        "Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao",
-        "Không thầy đố mày làm nên",
-        "Thương người như thể thương thân",
-        "Lá lành đùm lá rách"
-      ],
       "explanation": "Câu tục ngữ đầy đủ là “Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao”.",
       "questionNumber": 1189
     },
@@ -20456,12 +19388,6 @@
       "question": "Điền dấu câu cuối câu: “Trên cành, chim hót líu lo ___”",
       "blankAnswer": ".",
       "answer": ".",
-      "options": [
-        ".",
-        ",",
-        "?",
-        "!"
-      ],
       "explanation": "Câu này kết thúc bằng dấu “.”.",
       "questionNumber": 1190
     },
@@ -20474,12 +19400,6 @@
       "question": "Điền phần còn thiếu để hoàn thành từ: “đôi b...t”",
       "blankAnswer": "ướ",
       "answer": "ướ",
-      "options": [
-        "ướ",
-        "ch",
-        "s",
-        "l"
-      ],
       "explanation": "Điền “ướ” để tạo thành từ “buốt”.",
       "questionNumber": 1191
     },
@@ -20492,12 +19412,6 @@
       "question": "Điền vị ngữ còn thiếu: “Đàn chim én ... .”",
       "blankAnswer": "chao liệng trên bầu trời",
       "answer": "chao liệng trên bầu trời",
-      "options": [
-        "chao liệng trên bầu trời",
-        "chiếc thước",
-        "chăm sóc vườn rau",
-        "cao lớn"
-      ],
       "explanation": "“chao liệng trên bầu trời” giúp câu hoàn chỉnh và đúng nghĩa.",
       "questionNumber": 1192
     },
@@ -20510,12 +19424,6 @@
       "question": "Điền từ còn thiếu trong câu tục ngữ: “Học thầy không tày học bạn”",
       "blankAnswer": "Học thầy không tày học bạn",
       "answer": "Học thầy không tày học bạn",
-      "options": [
-        "Học thầy không tày học bạn",
-        "Công cha như núi Thái Sơn, nghĩa mẹ như nước trong nguồn chảy ra",
-        "Uống nước nhớ nguồn",
-        "Ăn quả nhớ kẻ trồng cây"
-      ],
       "explanation": "Câu tục ngữ đầy đủ là “Học thầy không tày học bạn”.",
       "questionNumber": 1193
     },
@@ -20528,12 +19436,6 @@
       "question": "Điền dấu câu cuối câu: “Ôi, bông hoa đẹp quá ___”",
       "blankAnswer": "!",
       "answer": "!",
-      "options": [
-        ".",
-        ",",
-        "?",
-        "!"
-      ],
       "explanation": "Câu này kết thúc bằng dấu “!”.",
       "questionNumber": 1194
     },
@@ -20546,12 +19448,6 @@
       "question": "Điền phần còn thiếu để hoàn thành từ: “...ường làng”",
       "blankAnswer": "tr",
       "answer": "tr",
-      "options": [
-        "tr",
-        "ch",
-        "s",
-        "l"
-      ],
       "explanation": "Điền “tr” để tạo thành từ “trường”.",
       "questionNumber": 1195
     },
@@ -20564,12 +19460,6 @@
       "question": "Điền bộ phận thích hợp vào chỗ trống: “... rất nhộn nhịp.”",
       "blankAnswer": "Sân trường hôm nay",
       "answer": "Sân trường hôm nay",
-      "options": [
-        "Sân trường hôm nay",
-        "học sinh",
-        "chèo thuyền",
-        "sạch sẽ"
-      ],
       "explanation": "“Sân trường hôm nay” giúp câu hoàn chỉnh và đúng nghĩa.",
       "questionNumber": 1196
     },
@@ -20582,12 +19472,6 @@
       "question": "Điền từ còn thiếu trong câu tục ngữ: “Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao”",
       "blankAnswer": "Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao",
       "answer": "Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao",
-      "options": [
-        "Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao",
-        "Không thầy đố mày làm nên",
-        "Thương người như thể thương thân",
-        "Lá lành đùm lá rách"
-      ],
       "explanation": "Câu tục ngữ đầy đủ là “Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao”.",
       "questionNumber": 1197
     },
@@ -20600,12 +19484,6 @@
       "question": "Điền dấu câu cuối câu: “Bạn đã làm bài tập chưa ___”",
       "blankAnswer": "?",
       "answer": "?",
-      "options": [
-        ".",
-        ",",
-        "?",
-        "!"
-      ],
       "explanation": "Câu này kết thúc bằng dấu “?”.",
       "questionNumber": 1198
     },
@@ -20618,12 +19496,6 @@
       "question": "Điền phần còn thiếu để hoàn thành từ: “...uối nguồn”",
       "blankAnswer": "s",
       "answer": "s",
-      "options": [
-        "s",
-        "ch",
-        "l",
-        "r"
-      ],
       "explanation": "Điền “s” để tạo thành từ “suối”.",
       "questionNumber": 1199
     },
@@ -20636,12 +19508,6 @@
       "question": "Điền vị ngữ còn thiếu: “Lan ... .”",
       "blankAnswer": "là lớp trưởng lớp em",
       "answer": "là lớp trưởng lớp em",
-      "options": [
-        "là lớp trưởng lớp em",
-        "ngọn núi",
-        "đưa thư",
-        "nhộn nhịp"
-      ],
       "explanation": "“là lớp trưởng lớp em” giúp câu hoàn chỉnh và đúng nghĩa.",
       "questionNumber": 1200
     },
@@ -20654,12 +19520,6 @@
       "question": "Điền từ còn thiếu trong câu tục ngữ: “Học thầy không tày học bạn”",
       "blankAnswer": "Học thầy không tày học bạn",
       "answer": "Học thầy không tày học bạn",
-      "options": [
-        "Học thầy không tày học bạn",
-        "Công cha như núi Thái Sơn, nghĩa mẹ như nước trong nguồn chảy ra",
-        "Uống nước nhớ nguồn",
-        "Ăn quả nhớ kẻ trồng cây"
-      ],
       "explanation": "Câu tục ngữ đầy đủ là “Học thầy không tày học bạn”.",
       "questionNumber": 1201
     },
@@ -20672,12 +19532,6 @@
       "question": "Điền dấu câu cuối câu: “Em yêu mái trường của mình ___”",
       "blankAnswer": ".",
       "answer": ".",
-      "options": [
-        ".",
-        ",",
-        "?",
-        "!"
-      ],
       "explanation": "Câu này kết thúc bằng dấu “.”.",
       "questionNumber": 1202
     },
@@ -20690,12 +19544,6 @@
       "question": "Điền phần còn thiếu để hoàn thành từ: “...àng quê”",
       "blankAnswer": "l",
       "answer": "l",
-      "options": [
-        "l",
-        "ch",
-        "s",
-        "r"
-      ],
       "explanation": "Điền “l” để tạo thành từ “làng”.",
       "questionNumber": 1203
     },
@@ -20708,12 +19556,6 @@
       "question": "Điền bộ phận thích hợp vào chỗ trống: “... chao liệng trên bầu trời.”",
       "blankAnswer": "Đàn chim én",
       "answer": "Đàn chim én",
-      "options": [
-        "Đàn chim én",
-        "ngọn núi",
-        "viết bài",
-        "cao lớn"
-      ],
       "explanation": "“Đàn chim én” giúp câu hoàn chỉnh và đúng nghĩa.",
       "questionNumber": 1204
     },
@@ -20726,12 +19568,6 @@
       "question": "Điền từ còn thiếu trong câu tục ngữ: “Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao”",
       "blankAnswer": "Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao",
       "answer": "Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao",
-      "options": [
-        "Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao",
-        "Không thầy đố mày làm nên",
-        "Thương người như thể thương thân",
-        "Lá lành đùm lá rách"
-      ],
       "explanation": "Câu tục ngữ đầy đủ là “Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao”.",
       "questionNumber": 1205
     },
@@ -20744,12 +19580,6 @@
       "question": "Điền dấu câu cuối câu: “Mẹ mua cam, táo và lê ___”",
       "blankAnswer": ".",
       "answer": ".",
-      "options": [
-        ".",
-        ",",
-        "?",
-        "!"
-      ],
       "explanation": "Câu này kết thúc bằng dấu “.”.",
       "questionNumber": 1206
     },
@@ -20762,12 +19592,6 @@
       "question": "Điền phần còn thiếu để hoàn thành từ: “b...n bè”",
       "blankAnswer": "ạ",
       "answer": "ạ",
-      "options": [
-        "ạ",
-        "ch",
-        "s",
-        "l"
-      ],
       "explanation": "Điền “ạ” để tạo thành từ “bạn”.",
       "questionNumber": 1207
     },
@@ -20780,12 +19604,6 @@
       "question": "Điền vị ngữ còn thiếu: “Sân trường hôm nay ... .”",
       "blankAnswer": "rất nhộn nhịp",
       "answer": "rất nhộn nhịp",
-      "options": [
-        "rất nhộn nhịp",
-        "ông nội",
-        "tập thể dục",
-        "ấm áp"
-      ],
       "explanation": "“rất nhộn nhịp” giúp câu hoàn chỉnh và đúng nghĩa.",
       "questionNumber": 1208
     },
@@ -20798,12 +19616,6 @@
       "question": "Điền từ còn thiếu trong câu tục ngữ: “Học thầy không tày học bạn”",
       "blankAnswer": "Học thầy không tày học bạn",
       "answer": "Học thầy không tày học bạn",
-      "options": [
-        "Học thầy không tày học bạn",
-        "Công cha như núi Thái Sơn, nghĩa mẹ như nước trong nguồn chảy ra",
-        "Uống nước nhớ nguồn",
-        "Ăn quả nhớ kẻ trồng cây"
-      ],
       "explanation": "Câu tục ngữ đầy đủ là “Học thầy không tày học bạn”.",
       "questionNumber": 1209
     },
@@ -20816,12 +19628,6 @@
       "question": "Điền dấu câu cuối câu: “Trên cành, chim hót líu lo ___”",
       "blankAnswer": ".",
       "answer": ".",
-      "options": [
-        ".",
-        ",",
-        "?",
-        "!"
-      ],
       "explanation": "Câu này kết thúc bằng dấu “.”.",
       "questionNumber": 1210
     },
@@ -20834,12 +19640,6 @@
       "question": "Điền phần còn thiếu để hoàn thành từ: “dòng n...c”",
       "blankAnswer": "ướ",
       "answer": "ướ",
-      "options": [
-        "ướ",
-        "ch",
-        "s",
-        "l"
-      ],
       "explanation": "Điền “ướ” để tạo thành từ “nước”.",
       "questionNumber": 1211
     },
@@ -20852,12 +19652,6 @@
       "question": "Điền bộ phận thích hợp vào chỗ trống: “... là lớp trưởng lớp em.”",
       "blankAnswer": "Lan",
       "answer": "Lan",
-      "options": [
-        "Lan",
-        "chiếc trống",
-        "trồng cây",
-        "yên bình"
-      ],
       "explanation": "“Lan” giúp câu hoàn chỉnh và đúng nghĩa.",
       "questionNumber": 1212
     },
@@ -20870,12 +19664,6 @@
       "question": "Điền từ còn thiếu trong câu tục ngữ: “Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao”",
       "blankAnswer": "Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao",
       "answer": "Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao",
-      "options": [
-        "Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao",
-        "Không thầy đố mày làm nên",
-        "Thương người như thể thương thân",
-        "Lá lành đùm lá rách"
-      ],
       "explanation": "Câu tục ngữ đầy đủ là “Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao”.",
       "questionNumber": 1213
     },
@@ -20888,12 +19676,6 @@
       "question": "Điền dấu câu cuối câu: “Ôi, bông hoa đẹp quá ___”",
       "blankAnswer": "!",
       "answer": "!",
-      "options": [
-        ".",
-        ",",
-        "?",
-        "!"
-      ],
       "explanation": "Câu này kết thúc bằng dấu “!”.",
       "questionNumber": 1214
     },
@@ -20906,12 +19688,6 @@
       "question": "Điền phần còn thiếu để hoàn thành từ: “x...nh đẹp”",
       "blankAnswer": "i",
       "answer": "i",
-      "options": [
-        "i",
-        "ch",
-        "s",
-        "l"
-      ],
       "explanation": "Điền “i” để tạo thành từ “xinh”.",
       "questionNumber": 1215
     },
@@ -20924,12 +19700,6 @@
       "question": "Điền vị ngữ còn thiếu: “Đàn chim én ... .”",
       "blankAnswer": "chao liệng trên bầu trời",
       "answer": "chao liệng trên bầu trời",
-      "options": [
-        "chao liệng trên bầu trời",
-        "cây bàng",
-        "đưa thư",
-        "nhộn nhịp"
-      ],
       "explanation": "“chao liệng trên bầu trời” giúp câu hoàn chỉnh và đúng nghĩa.",
       "questionNumber": 1216
     },
@@ -20942,12 +19712,6 @@
       "question": "Điền từ còn thiếu trong câu tục ngữ: “Học thầy không tày học bạn”",
       "blankAnswer": "Học thầy không tày học bạn",
       "answer": "Học thầy không tày học bạn",
-      "options": [
-        "Học thầy không tày học bạn",
-        "Công cha như núi Thái Sơn, nghĩa mẹ như nước trong nguồn chảy ra",
-        "Uống nước nhớ nguồn",
-        "Ăn quả nhớ kẻ trồng cây"
-      ],
       "explanation": "Câu tục ngữ đầy đủ là “Học thầy không tày học bạn”.",
       "questionNumber": 1217
     },
@@ -20960,12 +19724,6 @@
       "question": "Điền dấu câu cuối câu: “Bạn đã làm bài tập chưa ___”",
       "blankAnswer": "?",
       "answer": "?",
-      "options": [
-        ".",
-        ",",
-        "?",
-        "!"
-      ],
       "explanation": "Câu này kết thúc bằng dấu “?”.",
       "questionNumber": 1218
     },
@@ -20978,12 +19736,6 @@
       "question": "Điền phần còn thiếu để hoàn thành từ: “...ạch sẽ”",
       "blankAnswer": "s",
       "answer": "s",
-      "options": [
-        "s",
-        "ch",
-        "l",
-        "r"
-      ],
       "explanation": "Điền “s” để tạo thành từ “sạch”.",
       "questionNumber": 1219
     },
@@ -20996,12 +19748,6 @@
       "question": "Điền bộ phận thích hợp vào chỗ trống: “... rất nhộn nhịp.”",
       "blankAnswer": "Sân trường hôm nay",
       "answer": "Sân trường hôm nay",
-      "options": [
-        "Sân trường hôm nay",
-        "chiếc trống",
-        "vẽ tranh",
-        "ngăn nắp"
-      ],
       "explanation": "“Sân trường hôm nay” giúp câu hoàn chỉnh và đúng nghĩa.",
       "questionNumber": 1220
     },
@@ -21014,12 +19760,6 @@
       "question": "Điền từ còn thiếu trong câu tục ngữ: “Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao”",
       "blankAnswer": "Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao",
       "answer": "Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao",
-      "options": [
-        "Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao",
-        "Không thầy đố mày làm nên",
-        "Thương người như thể thương thân",
-        "Lá lành đùm lá rách"
-      ],
       "explanation": "Câu tục ngữ đầy đủ là “Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao”.",
       "questionNumber": 1221
     },
@@ -21032,12 +19772,6 @@
       "question": "Điền dấu câu cuối câu: “Em yêu mái trường của mình ___”",
       "blankAnswer": ".",
       "answer": ".",
-      "options": [
-        ".",
-        ",",
-        "?",
-        "!"
-      ],
       "explanation": "Câu này kết thúc bằng dấu “.”.",
       "questionNumber": 1222
     },
@@ -21050,12 +19784,6 @@
       "question": "Điền phần còn thiếu để hoàn thành từ: “...úa chín”",
       "blankAnswer": "l",
       "answer": "l",
-      "options": [
-        "l",
-        "ch",
-        "s",
-        "r"
-      ],
       "explanation": "Điền “l” để tạo thành từ “lúa”.",
       "questionNumber": 1223
     },
@@ -21068,12 +19796,6 @@
       "question": "Điền vị ngữ còn thiếu: “Lan ... .”",
       "blankAnswer": "là lớp trưởng lớp em",
       "answer": "là lớp trưởng lớp em",
-      "options": [
-        "là lớp trưởng lớp em",
-        "ngọn núi",
-        "luyện chữ",
-        "đoàn kết"
-      ],
       "explanation": "“là lớp trưởng lớp em” giúp câu hoàn chỉnh và đúng nghĩa.",
       "questionNumber": 1224
     },
@@ -21086,12 +19808,6 @@
       "question": "Điền từ còn thiếu trong câu tục ngữ: “Học thầy không tày học bạn”",
       "blankAnswer": "Học thầy không tày học bạn",
       "answer": "Học thầy không tày học bạn",
-      "options": [
-        "Học thầy không tày học bạn",
-        "Công cha như núi Thái Sơn, nghĩa mẹ như nước trong nguồn chảy ra",
-        "Uống nước nhớ nguồn",
-        "Ăn quả nhớ kẻ trồng cây"
-      ],
       "explanation": "Câu tục ngữ đầy đủ là “Học thầy không tày học bạn”.",
       "questionNumber": 1225
     },
@@ -21104,12 +19820,6 @@
       "question": "Điền dấu câu cuối câu: “Mẹ mua cam, táo và lê ___”",
       "blankAnswer": ".",
       "answer": ".",
-      "options": [
-        ".",
-        ",",
-        "?",
-        "!"
-      ],
       "explanation": "Câu này kết thúc bằng dấu “.”.",
       "questionNumber": 1226
     },
@@ -21122,12 +19832,6 @@
       "question": "Điền phần còn thiếu để hoàn thành từ: “...òng sông”",
       "blankAnswer": "d",
       "answer": "d",
-      "options": [
-        "d",
-        "ch",
-        "s",
-        "l"
-      ],
       "explanation": "Điền “d” để tạo thành từ “dòng”.",
       "questionNumber": 1227
     },
@@ -21140,12 +19844,6 @@
       "question": "Điền bộ phận thích hợp vào chỗ trống: “... chao liệng trên bầu trời.”",
       "blankAnswer": "Đàn chim én",
       "answer": "Đàn chim én",
-      "options": [
-        "Đàn chim én",
-        "bạn Lan",
-        "giúp đỡ bạn",
-        "rực rỡ"
-      ],
       "explanation": "“Đàn chim én” giúp câu hoàn chỉnh và đúng nghĩa.",
       "questionNumber": 1228
     },
@@ -21158,12 +19856,6 @@
       "question": "Điền từ còn thiếu trong câu tục ngữ: “Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao”",
       "blankAnswer": "Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao",
       "answer": "Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao",
-      "options": [
-        "Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao",
-        "Không thầy đố mày làm nên",
-        "Thương người như thể thương thân",
-        "Lá lành đùm lá rách"
-      ],
       "explanation": "Câu tục ngữ đầy đủ là “Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao”.",
       "questionNumber": 1229
     },
@@ -21176,12 +19868,6 @@
       "question": "Điền dấu câu cuối câu: “Trên cành, chim hót líu lo ___”",
       "blankAnswer": ".",
       "answer": ".",
-      "options": [
-        ".",
-        ",",
-        "?",
-        "!"
-      ],
       "explanation": "Câu này kết thúc bằng dấu “.”.",
       "questionNumber": 1230
     },
@@ -21194,12 +19880,6 @@
       "question": "Điền phần còn thiếu để hoàn thành từ: “b...c chân”",
       "blankAnswer": "ước",
       "answer": "ước",
-      "options": [
-        "ước",
-        "ch",
-        "s",
-        "l"
-      ],
       "explanation": "Điền “ước” để tạo thành từ “bước”.",
       "questionNumber": 1231
     },
@@ -21212,12 +19892,6 @@
       "question": "Điền vị ngữ còn thiếu: “Sân trường hôm nay ... .”",
       "blankAnswer": "rất nhộn nhịp",
       "answer": "rất nhộn nhịp",
-      "options": [
-        "rất nhộn nhịp",
-        "người thợ",
-        "quét lớp",
-        "yên bình"
-      ],
       "explanation": "“rất nhộn nhịp” giúp câu hoàn chỉnh và đúng nghĩa.",
       "questionNumber": 1232
     },
@@ -21230,12 +19904,6 @@
       "question": "Điền từ còn thiếu trong câu tục ngữ: “Học thầy không tày học bạn”",
       "blankAnswer": "Học thầy không tày học bạn",
       "answer": "Học thầy không tày học bạn",
-      "options": [
-        "Học thầy không tày học bạn",
-        "Công cha như núi Thái Sơn, nghĩa mẹ như nước trong nguồn chảy ra",
-        "Uống nước nhớ nguồn",
-        "Ăn quả nhớ kẻ trồng cây"
-      ],
       "explanation": "Câu tục ngữ đầy đủ là “Học thầy không tày học bạn”.",
       "questionNumber": 1233
     },
@@ -21248,12 +19916,6 @@
       "question": "Điền dấu câu cuối câu: “Ôi, bông hoa đẹp quá ___”",
       "blankAnswer": "!",
       "answer": "!",
-      "options": [
-        ".",
-        ",",
-        "?",
-        "!"
-      ],
       "explanation": "Câu này kết thúc bằng dấu “!”.",
       "questionNumber": 1234
     },
@@ -21266,12 +19928,6 @@
       "question": "Điền phần còn thiếu để hoàn thành từ: “b...nh minh”",
       "blankAnswer": "ì",
       "answer": "ì",
-      "options": [
-        "ì",
-        "ch",
-        "s",
-        "l"
-      ],
       "explanation": "Điền “ì” để tạo thành từ “bình”.",
       "questionNumber": 1235
     },
@@ -21284,12 +19940,6 @@
       "question": "Điền bộ phận thích hợp vào chỗ trống: “... là lớp trưởng lớp em.”",
       "blankAnswer": "Lan",
       "answer": "Lan",
-      "options": [
-        "Lan",
-        "cánh đồng",
-        "thả diều",
-        "vui vẻ"
-      ],
       "explanation": "“Lan” giúp câu hoàn chỉnh và đúng nghĩa.",
       "questionNumber": 1236
     },
@@ -21302,12 +19952,6 @@
       "question": "Điền từ còn thiếu trong câu tục ngữ: “Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao”",
       "blankAnswer": "Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao",
       "answer": "Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao",
-      "options": [
-        "Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao",
-        "Không thầy đố mày làm nên",
-        "Thương người như thể thương thân",
-        "Lá lành đùm lá rách"
-      ],
       "explanation": "Câu tục ngữ đầy đủ là “Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao”.",
       "questionNumber": 1237
     },
@@ -21320,12 +19964,6 @@
       "question": "Điền dấu câu cuối câu: “Bạn đã làm bài tập chưa ___”",
       "blankAnswer": "?",
       "answer": "?",
-      "options": [
-        ".",
-        ",",
-        "?",
-        "!"
-      ],
       "explanation": "Câu này kết thúc bằng dấu “?”.",
       "questionNumber": 1238
     },
@@ -21338,12 +19976,6 @@
       "question": "Điền phần còn thiếu để hoàn thành từ: “...ân trời”",
       "blankAnswer": "ch",
       "answer": "ch",
-      "options": [
-        "ch",
-        "s",
-        "l",
-        "r"
-      ],
       "explanation": "Điền “ch” để tạo thành từ “chân”.",
       "questionNumber": 1239
     },
@@ -21356,12 +19988,6 @@
       "question": "Điền vị ngữ còn thiếu: “Đàn chim én ... .”",
       "blankAnswer": "chao liệng trên bầu trời",
       "answer": "chao liệng trên bầu trời",
-      "options": [
-        "chao liệng trên bầu trời",
-        "cô giáo",
-        "chăm sóc vườn rau",
-        "hiền hậu"
-      ],
       "explanation": "“chao liệng trên bầu trời” giúp câu hoàn chỉnh và đúng nghĩa.",
       "questionNumber": 1240
     },
@@ -21374,12 +20000,6 @@
       "question": "Điền từ còn thiếu trong câu tục ngữ: “Học thầy không tày học bạn”",
       "blankAnswer": "Học thầy không tày học bạn",
       "answer": "Học thầy không tày học bạn",
-      "options": [
-        "Học thầy không tày học bạn",
-        "Công cha như núi Thái Sơn, nghĩa mẹ như nước trong nguồn chảy ra",
-        "Uống nước nhớ nguồn",
-        "Ăn quả nhớ kẻ trồng cây"
-      ],
       "explanation": "Câu tục ngữ đầy đủ là “Học thầy không tày học bạn”.",
       "questionNumber": 1241
     },
@@ -21392,12 +20012,6 @@
       "question": "Điền dấu câu cuối câu: “Em yêu mái trường của mình ___”",
       "blankAnswer": ".",
       "answer": ".",
-      "options": [
-        ".",
-        ",",
-        "?",
-        "!"
-      ],
       "explanation": "Câu này kết thúc bằng dấu “.”.",
       "questionNumber": 1242
     },
@@ -21410,12 +20024,6 @@
       "question": "Điền phần còn thiếu để hoàn thành từ: “...á cây”",
       "blankAnswer": "l",
       "answer": "l",
-      "options": [
-        "l",
-        "ch",
-        "s",
-        "r"
-      ],
       "explanation": "Điền “l” để tạo thành từ “lá”.",
       "questionNumber": 1243
     },
@@ -21428,12 +20036,6 @@
       "question": "Điền bộ phận thích hợp vào chỗ trống: “... rất nhộn nhịp.”",
       "blankAnswer": "Sân trường hôm nay",
       "answer": "Sân trường hôm nay",
-      "options": [
-        "Sân trường hôm nay",
-        "cánh đồng",
-        "kể chuyện",
-        "thân thiện"
-      ],
       "explanation": "“Sân trường hôm nay” giúp câu hoàn chỉnh và đúng nghĩa.",
       "questionNumber": 1244
     },
@@ -21446,12 +20048,6 @@
       "question": "Điền từ còn thiếu trong câu tục ngữ: “Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao”",
       "blankAnswer": "Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao",
       "answer": "Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao",
-      "options": [
-        "Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao",
-        "Không thầy đố mày làm nên",
-        "Thương người như thể thương thân",
-        "Lá lành đùm lá rách"
-      ],
       "explanation": "Câu tục ngữ đầy đủ là “Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao”.",
       "questionNumber": 1245
     },
@@ -21464,12 +20060,6 @@
       "question": "Điền dấu câu cuối câu: “Mẹ mua cam, táo và lê ___”",
       "blankAnswer": ".",
       "answer": ".",
-      "options": [
-        ".",
-        ",",
-        "?",
-        "!"
-      ],
       "explanation": "Câu này kết thúc bằng dấu “.”.",
       "questionNumber": 1246
     },
@@ -21482,12 +20072,6 @@
       "question": "Điền phần còn thiếu để hoàn thành từ: “...au xanh”",
       "blankAnswer": "r",
       "answer": "r",
-      "options": [
-        "r",
-        "ch",
-        "s",
-        "l"
-      ],
       "explanation": "Điền “r” để tạo thành từ “rau”.",
       "questionNumber": 1247
     },
@@ -21500,12 +20084,6 @@
       "question": "Điền vị ngữ còn thiếu: “Lan ... .”",
       "blankAnswer": "là lớp trưởng lớp em",
       "answer": "là lớp trưởng lớp em",
-      "options": [
-        "là lớp trưởng lớp em",
-        "ông nội",
-        "đàn hát",
-        "sạch sẽ"
-      ],
       "explanation": "“là lớp trưởng lớp em” giúp câu hoàn chỉnh và đúng nghĩa.",
       "questionNumber": 1248
     },
@@ -21518,12 +20096,6 @@
       "question": "Điền từ còn thiếu trong câu tục ngữ: “Học thầy không tày học bạn”",
       "blankAnswer": "Học thầy không tày học bạn",
       "answer": "Học thầy không tày học bạn",
-      "options": [
-        "Học thầy không tày học bạn",
-        "Công cha như núi Thái Sơn, nghĩa mẹ như nước trong nguồn chảy ra",
-        "Uống nước nhớ nguồn",
-        "Ăn quả nhớ kẻ trồng cây"
-      ],
       "explanation": "Câu tục ngữ đầy đủ là “Học thầy không tày học bạn”.",
       "questionNumber": 1249
     },
@@ -21536,12 +20108,6 @@
       "question": "Điền dấu câu cuối câu: “Trên cành, chim hót líu lo ___”",
       "blankAnswer": ".",
       "answer": ".",
-      "options": [
-        ".",
-        ",",
-        "?",
-        "!"
-      ],
       "explanation": "Câu này kết thúc bằng dấu “.”.",
       "questionNumber": 1250
     },
@@ -21554,12 +20120,6 @@
       "question": "Điền phần còn thiếu để hoàn thành từ: “tiếng tr...ng”",
       "blankAnswer": "ống",
       "answer": "ống",
-      "options": [
-        "ống",
-        "ch",
-        "s",
-        "l"
-      ],
       "explanation": "Điền “ống” để tạo thành từ “trống”.",
       "questionNumber": 1251
     },
@@ -21572,12 +20132,6 @@
       "question": "Điền bộ phận thích hợp vào chỗ trống: “... chao liệng trên bầu trời.”",
       "blankAnswer": "Đàn chim én",
       "answer": "Đàn chim én",
-      "options": [
-        "Đàn chim én",
-        "con đường",
-        "xếp hàng",
-        "xanh biếc"
-      ],
       "explanation": "“Đàn chim én” giúp câu hoàn chỉnh và đúng nghĩa.",
       "questionNumber": 1252
     },
@@ -21590,12 +20144,6 @@
       "question": "Điền từ còn thiếu trong câu tục ngữ: “Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao”",
       "blankAnswer": "Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao",
       "answer": "Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao",
-      "options": [
-        "Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao",
-        "Không thầy đố mày làm nên",
-        "Thương người như thể thương thân",
-        "Lá lành đùm lá rách"
-      ],
       "explanation": "Câu tục ngữ đầy đủ là “Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao”.",
       "questionNumber": 1253
     },
@@ -21608,12 +20156,6 @@
       "question": "Điền dấu câu cuối câu: “Ôi, bông hoa đẹp quá ___”",
       "blankAnswer": "!",
       "answer": "!",
-      "options": [
-        ".",
-        ",",
-        "?",
-        "!"
-      ],
       "explanation": "Câu này kết thúc bằng dấu “!”.",
       "questionNumber": 1254
     },
@@ -21626,12 +20168,6 @@
       "question": "Điền phần còn thiếu để hoàn thành từ: “chim y...ng”",
       "blankAnswer": "ế",
       "answer": "ế",
-      "options": [
-        "ế",
-        "ch",
-        "s",
-        "l"
-      ],
       "explanation": "Điền “ế” để tạo thành từ “yến”.",
       "questionNumber": 1255
     },
@@ -21644,12 +20180,6 @@
       "question": "Điền vị ngữ còn thiếu: “Sân trường hôm nay ... .”",
       "blankAnswer": "rất nhộn nhịp",
       "answer": "rất nhộn nhịp",
-      "options": [
-        "rất nhộn nhịp",
-        "bác nông dân",
-        "đọc sách",
-        "lễ phép"
-      ],
       "explanation": "“rất nhộn nhịp” giúp câu hoàn chỉnh và đúng nghĩa.",
       "questionNumber": 1256
     },
@@ -21662,12 +20192,6 @@
       "question": "Điền từ còn thiếu trong câu tục ngữ: “Học thầy không tày học bạn”",
       "blankAnswer": "Học thầy không tày học bạn",
       "answer": "Học thầy không tày học bạn",
-      "options": [
-        "Học thầy không tày học bạn",
-        "Công cha như núi Thái Sơn, nghĩa mẹ như nước trong nguồn chảy ra",
-        "Uống nước nhớ nguồn",
-        "Ăn quả nhớ kẻ trồng cây"
-      ],
       "explanation": "Câu tục ngữ đầy đủ là “Học thầy không tày học bạn”.",
       "questionNumber": 1257
     },
@@ -21680,12 +20204,6 @@
       "question": "Điền dấu câu cuối câu: “Bạn đã làm bài tập chưa ___”",
       "blankAnswer": "?",
       "answer": "?",
-      "options": [
-        ".",
-        ",",
-        "?",
-        "!"
-      ],
       "explanation": "Câu này kết thúc bằng dấu “?”.",
       "questionNumber": 1258
     },
@@ -21698,12 +20216,6 @@
       "question": "Điền phần còn thiếu để hoàn thành từ: “...im én”",
       "blankAnswer": "ch",
       "answer": "ch",
-      "options": [
-        "ch",
-        "s",
-        "l",
-        "r"
-      ],
       "explanation": "Điền “ch” để tạo thành từ “chim”.",
       "questionNumber": 1259
     },
@@ -21716,12 +20228,6 @@
       "question": "Điền bộ phận thích hợp vào chỗ trống: “... là lớp trưởng lớp em.”",
       "blankAnswer": "Lan",
       "answer": "Lan",
-      "options": [
-        "Lan",
-        "dòng sông",
-        "luyện chữ",
-        "thân thiện"
-      ],
       "explanation": "“Lan” giúp câu hoàn chỉnh và đúng nghĩa.",
       "questionNumber": 1260
     },
@@ -21734,12 +20240,6 @@
       "question": "Điền từ còn thiếu trong câu tục ngữ: “Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao”",
       "blankAnswer": "Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao",
       "answer": "Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao",
-      "options": [
-        "Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao",
-        "Không thầy đố mày làm nên",
-        "Thương người như thể thương thân",
-        "Lá lành đùm lá rách"
-      ],
       "explanation": "Câu tục ngữ đầy đủ là “Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao”.",
       "questionNumber": 1261
     },
@@ -21752,12 +20252,6 @@
       "question": "Điền dấu câu cuối câu: “Em yêu mái trường của mình ___”",
       "blankAnswer": ".",
       "answer": ".",
-      "options": [
-        ".",
-        ",",
-        "?",
-        "!"
-      ],
       "explanation": "Câu này kết thúc bằng dấu “.”.",
       "questionNumber": 1262
     },
@@ -21770,12 +20264,6 @@
       "question": "Điền phần còn thiếu để hoàn thành từ: “...anh biếc”",
       "blankAnswer": "x",
       "answer": "x",
-      "options": [
-        "x",
-        "ch",
-        "s",
-        "l"
-      ],
       "explanation": "Điền “x” để tạo thành từ “xanh”.",
       "questionNumber": 1263
     },
@@ -21788,12 +20276,6 @@
       "question": "Điền vị ngữ còn thiếu: “Đàn chim én ... .”",
       "blankAnswer": "chao liệng trên bầu trời",
       "answer": "chao liệng trên bầu trời",
-      "options": [
-        "chao liệng trên bầu trời",
-        "cánh đồng",
-        "trồng cây",
-        "thân thiện"
-      ],
       "explanation": "“chao liệng trên bầu trời” giúp câu hoàn chỉnh và đúng nghĩa.",
       "questionNumber": 1264
     },
@@ -21806,12 +20288,6 @@
       "question": "Điền từ còn thiếu trong câu tục ngữ: “Học thầy không tày học bạn”",
       "blankAnswer": "Học thầy không tày học bạn",
       "answer": "Học thầy không tày học bạn",
-      "options": [
-        "Học thầy không tày học bạn",
-        "Công cha như núi Thái Sơn, nghĩa mẹ như nước trong nguồn chảy ra",
-        "Uống nước nhớ nguồn",
-        "Ăn quả nhớ kẻ trồng cây"
-      ],
       "explanation": "Câu tục ngữ đầy đủ là “Học thầy không tày học bạn”.",
       "questionNumber": 1265
     },
@@ -21824,12 +20300,6 @@
       "question": "Điền dấu câu cuối câu: “Mẹ mua cam, táo và lê ___”",
       "blankAnswer": ".",
       "answer": ".",
-      "options": [
-        ".",
-        ",",
-        "?",
-        "!"
-      ],
       "explanation": "Câu này kết thúc bằng dấu “.”.",
       "questionNumber": 1266
     },
@@ -21842,12 +20312,6 @@
       "question": "Điền phần còn thiếu để hoàn thành từ: “...ừng cây”",
       "blankAnswer": "r",
       "answer": "r",
-      "options": [
-        "r",
-        "ch",
-        "s",
-        "l"
-      ],
       "explanation": "Điền “r” để tạo thành từ “rừng”.",
       "questionNumber": 1267
     },
@@ -21860,12 +20324,6 @@
       "question": "Điền bộ phận thích hợp vào chỗ trống: “... rất nhộn nhịp.”",
       "blankAnswer": "Sân trường hôm nay",
       "answer": "Sân trường hôm nay",
-      "options": [
-        "Sân trường hôm nay",
-        "con đường",
-        "thả diều",
-        "đoàn kết"
-      ],
       "explanation": "“Sân trường hôm nay” giúp câu hoàn chỉnh và đúng nghĩa.",
       "questionNumber": 1268
     },
@@ -21878,12 +20336,6 @@
       "question": "Điền từ còn thiếu trong câu tục ngữ: “Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao”",
       "blankAnswer": "Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao",
       "answer": "Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao",
-      "options": [
-        "Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao",
-        "Không thầy đố mày làm nên",
-        "Thương người như thể thương thân",
-        "Lá lành đùm lá rách"
-      ],
       "explanation": "Câu tục ngữ đầy đủ là “Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao”.",
       "questionNumber": 1269
     },
@@ -21896,12 +20348,6 @@
       "question": "Điền dấu câu cuối câu: “Trên cành, chim hót líu lo ___”",
       "blankAnswer": ".",
       "answer": ".",
-      "options": [
-        ".",
-        ",",
-        "?",
-        "!"
-      ],
       "explanation": "Câu này kết thúc bằng dấu “.”.",
       "questionNumber": 1270
     },
@@ -21914,12 +20360,6 @@
       "question": "Điền phần còn thiếu để hoàn thành từ: “ánh tr...ng”",
       "blankAnswer": "ăng",
       "answer": "ăng",
-      "options": [
-        "ăng",
-        "ch",
-        "s",
-        "l"
-      ],
       "explanation": "Điền “ăng” để tạo thành từ “trăng”.",
       "questionNumber": 1271
     },
@@ -21932,12 +20372,6 @@
       "question": "Điền vị ngữ còn thiếu: “Lan ... .”",
       "blankAnswer": "là lớp trưởng lớp em",
       "answer": "là lớp trưởng lớp em",
-      "options": [
-        "là lớp trưởng lớp em",
-        "dòng sông",
-        "đàn hát",
-        "cao lớn"
-      ],
       "explanation": "“là lớp trưởng lớp em” giúp câu hoàn chỉnh và đúng nghĩa.",
       "questionNumber": 1272
     },
@@ -21950,12 +20384,6 @@
       "question": "Điền từ còn thiếu trong câu tục ngữ: “Học thầy không tày học bạn”",
       "blankAnswer": "Học thầy không tày học bạn",
       "answer": "Học thầy không tày học bạn",
-      "options": [
-        "Học thầy không tày học bạn",
-        "Công cha như núi Thái Sơn, nghĩa mẹ như nước trong nguồn chảy ra",
-        "Uống nước nhớ nguồn",
-        "Ăn quả nhớ kẻ trồng cây"
-      ],
       "explanation": "Câu tục ngữ đầy đủ là “Học thầy không tày học bạn”.",
       "questionNumber": 1273
     },
@@ -21968,12 +20396,6 @@
       "question": "Điền dấu câu cuối câu: “Ôi, bông hoa đẹp quá ___”",
       "blankAnswer": "!",
       "answer": "!",
-      "options": [
-        ".",
-        ",",
-        "?",
-        "!"
-      ],
       "explanation": "Câu này kết thúc bằng dấu “!”.",
       "questionNumber": 1274
     },
@@ -21986,12 +20408,6 @@
       "question": "Điền phần còn thiếu để hoàn thành từ: “đôi b...t”",
       "blankAnswer": "ướ",
       "answer": "ướ",
-      "options": [
-        "ướ",
-        "ch",
-        "s",
-        "l"
-      ],
       "explanation": "Điền “ướ” để tạo thành từ “buốt”.",
       "questionNumber": 1275
     },
@@ -22004,12 +20420,6 @@
       "question": "Điền bộ phận thích hợp vào chỗ trống: “... chao liệng trên bầu trời.”",
       "blankAnswer": "Đàn chim én",
       "answer": "Đàn chim én",
-      "options": [
-        "Đàn chim én",
-        "chiếc thước",
-        "nhặt lá",
-        "dịu dàng"
-      ],
       "explanation": "“Đàn chim én” giúp câu hoàn chỉnh và đúng nghĩa.",
       "questionNumber": 1276
     },
@@ -22022,12 +20432,6 @@
       "question": "Điền từ còn thiếu trong câu tục ngữ: “Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao”",
       "blankAnswer": "Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao",
       "answer": "Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao",
-      "options": [
-        "Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao",
-        "Không thầy đố mày làm nên",
-        "Thương người như thể thương thân",
-        "Lá lành đùm lá rách"
-      ],
       "explanation": "Câu tục ngữ đầy đủ là “Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao”.",
       "questionNumber": 1277
     },
@@ -22040,12 +20444,6 @@
       "question": "Điền dấu câu cuối câu: “Bạn đã làm bài tập chưa ___”",
       "blankAnswer": "?",
       "answer": "?",
-      "options": [
-        ".",
-        ",",
-        "?",
-        "!"
-      ],
       "explanation": "Câu này kết thúc bằng dấu “?”.",
       "questionNumber": 1278
     },
@@ -22058,12 +20456,6 @@
       "question": "Điền phần còn thiếu để hoàn thành từ: “...ường làng”",
       "blankAnswer": "tr",
       "answer": "tr",
-      "options": [
-        "tr",
-        "ch",
-        "s",
-        "l"
-      ],
       "explanation": "Điền “tr” để tạo thành từ “trường”.",
       "questionNumber": 1279
     },
@@ -22076,12 +20468,6 @@
       "question": "Điền vị ngữ còn thiếu: “Sân trường hôm nay ... .”",
       "blankAnswer": "rất nhộn nhịp",
       "answer": "rất nhộn nhịp",
-      "options": [
-        "rất nhộn nhịp",
-        "cô giáo",
-        "gieo hạt",
-        "hiền hậu"
-      ],
       "explanation": "“rất nhộn nhịp” giúp câu hoàn chỉnh và đúng nghĩa.",
       "questionNumber": 1280
     },
@@ -22094,12 +20480,6 @@
       "question": "Điền từ còn thiếu trong câu tục ngữ: “Học thầy không tày học bạn”",
       "blankAnswer": "Học thầy không tày học bạn",
       "answer": "Học thầy không tày học bạn",
-      "options": [
-        "Học thầy không tày học bạn",
-        "Công cha như núi Thái Sơn, nghĩa mẹ như nước trong nguồn chảy ra",
-        "Uống nước nhớ nguồn",
-        "Ăn quả nhớ kẻ trồng cây"
-      ],
       "explanation": "Câu tục ngữ đầy đủ là “Học thầy không tày học bạn”.",
       "questionNumber": 1281
     },
@@ -22112,12 +20492,6 @@
       "question": "Điền dấu câu cuối câu: “Em yêu mái trường của mình ___”",
       "blankAnswer": ".",
       "answer": ".",
-      "options": [
-        ".",
-        ",",
-        "?",
-        "!"
-      ],
       "explanation": "Câu này kết thúc bằng dấu “.”.",
       "questionNumber": 1282
     },
@@ -22130,12 +20504,6 @@
       "question": "Điền phần còn thiếu để hoàn thành từ: “...uối nguồn”",
       "blankAnswer": "s",
       "answer": "s",
-      "options": [
-        "s",
-        "ch",
-        "l",
-        "r"
-      ],
       "explanation": "Điền “s” để tạo thành từ “suối”.",
       "questionNumber": 1283
     },
@@ -22148,12 +20516,6 @@
       "question": "Điền bộ phận thích hợp vào chỗ trống: “... là lớp trưởng lớp em.”",
       "blankAnswer": "Lan",
       "answer": "Lan",
-      "options": [
-        "Lan",
-        "bạn Lan",
-        "tập thể dục",
-        "cao lớn"
-      ],
       "explanation": "“Lan” giúp câu hoàn chỉnh và đúng nghĩa.",
       "questionNumber": 1284
     },
@@ -22166,12 +20528,6 @@
       "question": "Điền từ còn thiếu trong câu tục ngữ: “Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao”",
       "blankAnswer": "Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao",
       "answer": "Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao",
-      "options": [
-        "Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao",
-        "Không thầy đố mày làm nên",
-        "Thương người như thể thương thân",
-        "Lá lành đùm lá rách"
-      ],
       "explanation": "Câu tục ngữ đầy đủ là “Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao”.",
       "questionNumber": 1285
     },
@@ -22184,12 +20540,6 @@
       "question": "Điền dấu câu cuối câu: “Mẹ mua cam, táo và lê ___”",
       "blankAnswer": ".",
       "answer": ".",
-      "options": [
-        ".",
-        ",",
-        "?",
-        "!"
-      ],
       "explanation": "Câu này kết thúc bằng dấu “.”.",
       "questionNumber": 1286
     },
@@ -22202,12 +20552,6 @@
       "question": "Điền phần còn thiếu để hoàn thành từ: “...àng quê”",
       "blankAnswer": "l",
       "answer": "l",
-      "options": [
-        "l",
-        "ch",
-        "s",
-        "r"
-      ],
       "explanation": "Điền “l” để tạo thành từ “làng”.",
       "questionNumber": 1287
     },
@@ -22220,12 +20564,6 @@
       "question": "Điền vị ngữ còn thiếu: “Đàn chim én ... .”",
       "blankAnswer": "chao liệng trên bầu trời",
       "answer": "chao liệng trên bầu trời",
-      "options": [
-        "chao liệng trên bầu trời",
-        "dòng sông",
-        "kể chuyện",
-        "rộng rãi"
-      ],
       "explanation": "“chao liệng trên bầu trời” giúp câu hoàn chỉnh và đúng nghĩa.",
       "questionNumber": 1288
     },
@@ -22238,12 +20576,6 @@
       "question": "Điền từ còn thiếu trong câu tục ngữ: “Học thầy không tày học bạn”",
       "blankAnswer": "Học thầy không tày học bạn",
       "answer": "Học thầy không tày học bạn",
-      "options": [
-        "Học thầy không tày học bạn",
-        "Công cha như núi Thái Sơn, nghĩa mẹ như nước trong nguồn chảy ra",
-        "Uống nước nhớ nguồn",
-        "Ăn quả nhớ kẻ trồng cây"
-      ],
       "explanation": "Câu tục ngữ đầy đủ là “Học thầy không tày học bạn”.",
       "questionNumber": 1289
     },
@@ -22256,12 +20588,6 @@
       "question": "Điền dấu câu cuối câu: “Trên cành, chim hót líu lo ___”",
       "blankAnswer": ".",
       "answer": ".",
-      "options": [
-        ".",
-        ",",
-        "?",
-        "!"
-      ],
       "explanation": "Câu này kết thúc bằng dấu “.”.",
       "questionNumber": 1290
     },
@@ -22274,12 +20600,6 @@
       "question": "Điền phần còn thiếu để hoàn thành từ: “b...n bè”",
       "blankAnswer": "ạ",
       "answer": "ạ",
-      "options": [
-        "ạ",
-        "ch",
-        "s",
-        "l"
-      ],
       "explanation": "Điền “ạ” để tạo thành từ “bạn”.",
       "questionNumber": 1291
     },
@@ -22292,12 +20612,6 @@
       "question": "Điền bộ phận thích hợp vào chỗ trống: “... rất nhộn nhịp.”",
       "blankAnswer": "Sân trường hôm nay",
       "answer": "Sân trường hôm nay",
-      "options": [
-        "Sân trường hôm nay",
-        "bạn Lan",
-        "đưa thư",
-        "chăm chỉ"
-      ],
       "explanation": "“Sân trường hôm nay” giúp câu hoàn chỉnh và đúng nghĩa.",
       "questionNumber": 1292
     },
@@ -22310,12 +20624,6 @@
       "question": "Điền từ còn thiếu trong câu tục ngữ: “Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao”",
       "blankAnswer": "Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao",
       "answer": "Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao",
-      "options": [
-        "Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao",
-        "Không thầy đố mày làm nên",
-        "Thương người như thể thương thân",
-        "Lá lành đùm lá rách"
-      ],
       "explanation": "Câu tục ngữ đầy đủ là “Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao”.",
       "questionNumber": 1293
     },
@@ -22328,12 +20636,6 @@
       "question": "Điền dấu câu cuối câu: “Ôi, bông hoa đẹp quá ___”",
       "blankAnswer": "!",
       "answer": "!",
-      "options": [
-        ".",
-        ",",
-        "?",
-        "!"
-      ],
       "explanation": "Câu này kết thúc bằng dấu “!”.",
       "questionNumber": 1294
     },
@@ -22346,12 +20648,6 @@
       "question": "Điền phần còn thiếu để hoàn thành từ: “dòng n...c”",
       "blankAnswer": "ướ",
       "answer": "ướ",
-      "options": [
-        "ướ",
-        "ch",
-        "s",
-        "l"
-      ],
       "explanation": "Điền “ướ” để tạo thành từ “nước”.",
       "questionNumber": 1295
     },
@@ -22364,12 +20660,6 @@
       "question": "Điền vị ngữ còn thiếu: “Lan ... .”",
       "blankAnswer": "là lớp trưởng lớp em",
       "answer": "là lớp trưởng lớp em",
-      "options": [
-        "là lớp trưởng lớp em",
-        "dòng sông",
-        "đọc sách",
-        "rộng rãi"
-      ],
       "explanation": "“là lớp trưởng lớp em” giúp câu hoàn chỉnh và đúng nghĩa.",
       "questionNumber": 1296
     },
@@ -22382,12 +20672,6 @@
       "question": "Điền từ còn thiếu trong câu tục ngữ: “Học thầy không tày học bạn”",
       "blankAnswer": "Học thầy không tày học bạn",
       "answer": "Học thầy không tày học bạn",
-      "options": [
-        "Học thầy không tày học bạn",
-        "Công cha như núi Thái Sơn, nghĩa mẹ như nước trong nguồn chảy ra",
-        "Uống nước nhớ nguồn",
-        "Ăn quả nhớ kẻ trồng cây"
-      ],
       "explanation": "Câu tục ngữ đầy đủ là “Học thầy không tày học bạn”.",
       "questionNumber": 1297
     },
@@ -22400,12 +20684,6 @@
       "question": "Điền dấu câu cuối câu: “Bạn đã làm bài tập chưa ___”",
       "blankAnswer": "?",
       "answer": "?",
-      "options": [
-        ".",
-        ",",
-        "?",
-        "!"
-      ],
       "explanation": "Câu này kết thúc bằng dấu “?”.",
       "questionNumber": 1298
     },
@@ -22418,12 +20696,6 @@
       "question": "Điền phần còn thiếu để hoàn thành từ: “x...nh đẹp”",
       "blankAnswer": "i",
       "answer": "i",
-      "options": [
-        "i",
-        "ch",
-        "s",
-        "l"
-      ],
       "explanation": "Điền “i” để tạo thành từ “xinh”.",
       "questionNumber": 1299
     },
@@ -22436,12 +20708,6 @@
       "question": "Điền bộ phận thích hợp vào chỗ trống: “... chao liệng trên bầu trời.”",
       "blankAnswer": "Đàn chim én",
       "answer": "Đàn chim én",
-      "options": [
-        "Đàn chim én",
-        "chim én",
-        "nhặt lá",
-        "mát mẻ"
-      ],
       "explanation": "“Đàn chim én” giúp câu hoàn chỉnh và đúng nghĩa.",
       "questionNumber": 1300
     },
@@ -22454,12 +20720,6 @@
       "question": "Điền từ còn thiếu trong câu tục ngữ: “Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao”",
       "blankAnswer": "Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao",
       "answer": "Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao",
-      "options": [
-        "Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao",
-        "Không thầy đố mày làm nên",
-        "Thương người như thể thương thân",
-        "Lá lành đùm lá rách"
-      ],
       "explanation": "Câu tục ngữ đầy đủ là “Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao”.",
       "questionNumber": 1301
     },
@@ -22472,12 +20732,6 @@
       "question": "Điền dấu câu cuối câu: “Em yêu mái trường của mình ___”",
       "blankAnswer": ".",
       "answer": ".",
-      "options": [
-        ".",
-        ",",
-        "?",
-        "!"
-      ],
       "explanation": "Câu này kết thúc bằng dấu “.”.",
       "questionNumber": 1302
     },
@@ -22490,12 +20744,6 @@
       "question": "Điền phần còn thiếu để hoàn thành từ: “...ạch sẽ”",
       "blankAnswer": "s",
       "answer": "s",
-      "options": [
-        "s",
-        "ch",
-        "l",
-        "r"
-      ],
       "explanation": "Điền “s” để tạo thành từ “sạch”.",
       "questionNumber": 1303
     },
@@ -22508,12 +20756,6 @@
       "question": "Điền vị ngữ còn thiếu: “Sân trường hôm nay ... .”",
       "blankAnswer": "rất nhộn nhịp",
       "answer": "rất nhộn nhịp",
-      "options": [
-        "rất nhộn nhịp",
-        "chiếc trống",
-        "đọc sách",
-        "trong trẻo"
-      ],
       "explanation": "“rất nhộn nhịp” giúp câu hoàn chỉnh và đúng nghĩa.",
       "questionNumber": 1304
     },
@@ -22526,12 +20768,6 @@
       "question": "Điền từ còn thiếu trong câu tục ngữ: “Học thầy không tày học bạn”",
       "blankAnswer": "Học thầy không tày học bạn",
       "answer": "Học thầy không tày học bạn",
-      "options": [
-        "Học thầy không tày học bạn",
-        "Công cha như núi Thái Sơn, nghĩa mẹ như nước trong nguồn chảy ra",
-        "Uống nước nhớ nguồn",
-        "Ăn quả nhớ kẻ trồng cây"
-      ],
       "explanation": "Câu tục ngữ đầy đủ là “Học thầy không tày học bạn”.",
       "questionNumber": 1305
     },
@@ -22544,12 +20780,6 @@
       "question": "Điền dấu câu cuối câu: “Mẹ mua cam, táo và lê ___”",
       "blankAnswer": ".",
       "answer": ".",
-      "options": [
-        ".",
-        ",",
-        "?",
-        "!"
-      ],
       "explanation": "Câu này kết thúc bằng dấu “.”.",
       "questionNumber": 1306
     },
@@ -22562,12 +20792,6 @@
       "question": "Điền phần còn thiếu để hoàn thành từ: “...úa chín”",
       "blankAnswer": "l",
       "answer": "l",
-      "options": [
-        "l",
-        "ch",
-        "s",
-        "r"
-      ],
       "explanation": "Điền “l” để tạo thành từ “lúa”.",
       "questionNumber": 1307
     },
@@ -22580,12 +20804,6 @@
       "question": "Điền bộ phận thích hợp vào chỗ trống: “... là lớp trưởng lớp em.”",
       "blankAnswer": "Lan",
       "answer": "Lan",
-      "options": [
-        "Lan",
-        "chú mèo",
-        "luyện chữ",
-        "lễ phép"
-      ],
       "explanation": "“Lan” giúp câu hoàn chỉnh và đúng nghĩa.",
       "questionNumber": 1308
     },
@@ -22598,12 +20816,6 @@
       "question": "Điền từ còn thiếu trong câu tục ngữ: “Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao”",
       "blankAnswer": "Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao",
       "answer": "Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao",
-      "options": [
-        "Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao",
-        "Không thầy đố mày làm nên",
-        "Thương người như thể thương thân",
-        "Lá lành đùm lá rách"
-      ],
       "explanation": "Câu tục ngữ đầy đủ là “Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao”.",
       "questionNumber": 1309
     },
@@ -22616,12 +20828,6 @@
       "question": "Điền dấu câu cuối câu: “Trên cành, chim hót líu lo ___”",
       "blankAnswer": ".",
       "answer": ".",
-      "options": [
-        ".",
-        ",",
-        "?",
-        "!"
-      ],
       "explanation": "Câu này kết thúc bằng dấu “.”.",
       "questionNumber": 1310
     },
@@ -22634,12 +20840,6 @@
       "question": "Điền phần còn thiếu để hoàn thành từ: “...òng sông”",
       "blankAnswer": "d",
       "answer": "d",
-      "options": [
-        "d",
-        "ch",
-        "s",
-        "l"
-      ],
       "explanation": "Điền “d” để tạo thành từ “dòng”.",
       "questionNumber": 1311
     },
@@ -22652,12 +20852,6 @@
       "question": "Điền vị ngữ còn thiếu: “Đàn chim én ... .”",
       "blankAnswer": "chao liệng trên bầu trời",
       "answer": "chao liệng trên bầu trời",
-      "options": [
-        "chao liệng trên bầu trời",
-        "cô giáo",
-        "viết bài",
-        "ấm áp"
-      ],
       "explanation": "“chao liệng trên bầu trời” giúp câu hoàn chỉnh và đúng nghĩa.",
       "questionNumber": 1312
     },
@@ -22670,12 +20864,6 @@
       "question": "Điền từ còn thiếu trong câu tục ngữ: “Học thầy không tày học bạn”",
       "blankAnswer": "Học thầy không tày học bạn",
       "answer": "Học thầy không tày học bạn",
-      "options": [
-        "Học thầy không tày học bạn",
-        "Công cha như núi Thái Sơn, nghĩa mẹ như nước trong nguồn chảy ra",
-        "Uống nước nhớ nguồn",
-        "Ăn quả nhớ kẻ trồng cây"
-      ],
       "explanation": "Câu tục ngữ đầy đủ là “Học thầy không tày học bạn”.",
       "questionNumber": 1313
     },
@@ -22688,12 +20876,6 @@
       "question": "Điền dấu câu cuối câu: “Ôi, bông hoa đẹp quá ___”",
       "blankAnswer": "!",
       "answer": "!",
-      "options": [
-        ".",
-        ",",
-        "?",
-        "!"
-      ],
       "explanation": "Câu này kết thúc bằng dấu “!”.",
       "questionNumber": 1314
     },
@@ -22706,12 +20888,6 @@
       "question": "Điền phần còn thiếu để hoàn thành từ: “b...c chân”",
       "blankAnswer": "ước",
       "answer": "ước",
-      "options": [
-        "ước",
-        "ch",
-        "s",
-        "l"
-      ],
       "explanation": "Điền “ước” để tạo thành từ “bước”.",
       "questionNumber": 1315
     },
@@ -22724,12 +20900,6 @@
       "question": "Điền bộ phận thích hợp vào chỗ trống: “... rất nhộn nhịp.”",
       "blankAnswer": "Sân trường hôm nay",
       "answer": "Sân trường hôm nay",
-      "options": [
-        "Sân trường hôm nay",
-        "bà ngoại",
-        "đón khách",
-        "thân thiện"
-      ],
       "explanation": "“Sân trường hôm nay” giúp câu hoàn chỉnh và đúng nghĩa.",
       "questionNumber": 1316
     },
@@ -22742,12 +20912,6 @@
       "question": "Điền từ còn thiếu trong câu tục ngữ: “Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao”",
       "blankAnswer": "Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao",
       "answer": "Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao",
-      "options": [
-        "Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao",
-        "Không thầy đố mày làm nên",
-        "Thương người như thể thương thân",
-        "Lá lành đùm lá rách"
-      ],
       "explanation": "Câu tục ngữ đầy đủ là “Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao”.",
       "questionNumber": 1317
     },
@@ -22760,12 +20924,6 @@
       "question": "Điền dấu câu cuối câu: “Bạn đã làm bài tập chưa ___”",
       "blankAnswer": "?",
       "answer": "?",
-      "options": [
-        ".",
-        ",",
-        "?",
-        "!"
-      ],
       "explanation": "Câu này kết thúc bằng dấu “?”.",
       "questionNumber": 1318
     },
@@ -22778,12 +20936,6 @@
       "question": "Điền phần còn thiếu để hoàn thành từ: “b...nh minh”",
       "blankAnswer": "ì",
       "answer": "ì",
-      "options": [
-        "ì",
-        "ch",
-        "s",
-        "l"
-      ],
       "explanation": "Điền “ì” để tạo thành từ “bình”.",
       "questionNumber": 1319
     },
@@ -22796,12 +20948,6 @@
       "question": "Điền vị ngữ còn thiếu: “Lan ... .”",
       "blankAnswer": "là lớp trưởng lớp em",
       "answer": "là lớp trưởng lớp em",
-      "options": [
-        "là lớp trưởng lớp em",
-        "chú mèo",
-        "kể chuyện",
-        "lễ phép"
-      ],
       "explanation": "“là lớp trưởng lớp em” giúp câu hoàn chỉnh và đúng nghĩa.",
       "questionNumber": 1320
     },
@@ -22814,12 +20960,6 @@
       "question": "Điền từ còn thiếu trong câu tục ngữ: “Học thầy không tày học bạn”",
       "blankAnswer": "Học thầy không tày học bạn",
       "answer": "Học thầy không tày học bạn",
-      "options": [
-        "Học thầy không tày học bạn",
-        "Công cha như núi Thái Sơn, nghĩa mẹ như nước trong nguồn chảy ra",
-        "Uống nước nhớ nguồn",
-        "Ăn quả nhớ kẻ trồng cây"
-      ],
       "explanation": "Câu tục ngữ đầy đủ là “Học thầy không tày học bạn”.",
       "questionNumber": 1321
     },
@@ -22832,12 +20972,6 @@
       "question": "Điền dấu câu cuối câu: “Em yêu mái trường của mình ___”",
       "blankAnswer": ".",
       "answer": ".",
-      "options": [
-        ".",
-        ",",
-        "?",
-        "!"
-      ],
       "explanation": "Câu này kết thúc bằng dấu “.”.",
       "questionNumber": 1322
     },
@@ -22850,12 +20984,6 @@
       "question": "Điền phần còn thiếu để hoàn thành từ: “...ân trời”",
       "blankAnswer": "ch",
       "answer": "ch",
-      "options": [
-        "ch",
-        "s",
-        "l",
-        "r"
-      ],
       "explanation": "Điền “ch” để tạo thành từ “chân”.",
       "questionNumber": 1323
     },
@@ -22868,12 +20996,6 @@
       "question": "Điền bộ phận thích hợp vào chỗ trống: “... chao liệng trên bầu trời.”",
       "blankAnswer": "Đàn chim én",
       "answer": "Đàn chim én",
-      "options": [
-        "Đàn chim én",
-        "bông hoa",
-        "vẽ tranh",
-        "thân thiện"
-      ],
       "explanation": "“Đàn chim én” giúp câu hoàn chỉnh và đúng nghĩa.",
       "questionNumber": 1324
     },
@@ -22886,12 +21008,6 @@
       "question": "Điền từ còn thiếu trong câu tục ngữ: “Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao”",
       "blankAnswer": "Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao",
       "answer": "Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao",
-      "options": [
-        "Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao",
-        "Không thầy đố mày làm nên",
-        "Thương người như thể thương thân",
-        "Lá lành đùm lá rách"
-      ],
       "explanation": "Câu tục ngữ đầy đủ là “Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao”.",
       "questionNumber": 1325
     },
@@ -22904,12 +21020,6 @@
       "question": "Điền dấu câu cuối câu: “Mẹ mua cam, táo và lê ___”",
       "blankAnswer": ".",
       "answer": ".",
-      "options": [
-        ".",
-        ",",
-        "?",
-        "!"
-      ],
       "explanation": "Câu này kết thúc bằng dấu “.”.",
       "questionNumber": 1326
     },
@@ -22922,12 +21032,6 @@
       "question": "Điền phần còn thiếu để hoàn thành từ: “...á cây”",
       "blankAnswer": "l",
       "answer": "l",
-      "options": [
-        "l",
-        "ch",
-        "s",
-        "r"
-      ],
       "explanation": "Điền “l” để tạo thành từ “lá”.",
       "questionNumber": 1327
     },
