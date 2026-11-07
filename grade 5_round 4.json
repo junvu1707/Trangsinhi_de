@@ -191,22 +191,7 @@
       "answer": "D",
       "explanation": "Ở đây 'mắt' được dùng theo nghĩa chuyển dựa trên sự tương đồng về hình thức: Nghĩa chuyển của 'mắt' gợi hình dạng lồi tròn nhỏ giống như mắt sinh học."
     },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_5",
-      "level": "CAP_4_VONG_TINH",
-      "type": "TN",
-      "questionId": "k5_c4_tn_010",
-      "question": "Giải câu đố dân gian sau:\n\"Con gì mào đỏ gáy vang / Đánh thức trời sáng gọi đàn dậy mau?\"",
-      "options": {
-        "A": "con chim sẻ",
-        "B": "con chim bồ câu",
-        "C": "con vịt bầu",
-        "D": "con gà trống"
-      },
-      "answer": "D",
-      "explanation": "Gà trống có mào đỏ tươi và cất tiếng gáy 'ò ó o' đánh thức bình minh."
-    },
+   
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_5",
@@ -407,13 +392,13 @@
       "questionId": "k5_c4_tn_024",
       "question": "Câu tục ngữ, thành ngữ nào dưới đây thể hiện phẩm chất hoặc bài học về 'Biết ơn'?",
       "options": {
-        "A": "Uống nước nhớ người đào giếng",
+        "A": "Uống nước nhớ nguồn",
         "B": "Người ta là hoa đất",
         "C": "Chị ngã em nâng",
         "D": "Chim có tổ người có tông"
       },
       "answer": "A",
-      "explanation": "'Uống nước nhớ người đào giếng': Hưởng trái ngọt nhớ công người trồng cây, uống nước mát nhớ ơn người đào giếng."
+      "explanation": "'Uống nước nhớ nguồn': Hưởng trái ngọt nhớ công người trồng cây, uống nước mát nhớ ơn nguồn."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -1145,7 +1130,7 @@
       "options": {
         "A": "Bầu ơi thương lấy bí cùng, tuy rằng khác giống nhưng chung một giàn",
         "B": "Thương người như thể thương thân",
-        "C": "Uống nước nhớ người đào giếng",
+        "C": "Uống nước nhớ nguồn",
         "D": "Cây ngay không sợ chết đứng"
       },
       "answer": "D",
@@ -1273,7 +1258,7 @@
       "options": {
         "A": "Một con ngựa đau cả tàu bỏ cỏ",
         "B": "Chị ngã em nâng",
-        "C": "Uống nước nhớ người đào giếng",
+        "C": "Uống nước nhớ nguồn",
         "D": "Ăn quả nhớ kẻ trồng cây"
       },
       "answer": "A",
@@ -1408,54 +1393,9 @@
       "answer": "Vì thời tiết thuận lợi nên vụ mùa năm nay bội thu.",
       "explanation": "Câu hoàn chỉnh đúng trật tự ngữ pháp (Chủ ngữ - Vị ngữ): \"Vì thời tiết thuận lợi nên vụ mùa năm nay bội thu.\""
     },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_5",
-      "level": "CAP_4_VONG_TINH",
-      "type": "SX",
-      "questionId": "k5_c4_sx_187",
-      "question": "Hãy sắp xếp các từ/cụm từ sau để tạo thành một câu tục ngữ, thành ngữ hoàn chỉnh và có nghĩa:",
-      "elements": [
-        "chết đứng",
-        "Cây ngay",
-        "không sợ"
-      ],
-      "answer": "Cây ngay không sợ chết đứng",
-      "explanation": "Câu thành ngữ/tục ngữ đúng là: 'Cây ngay không sợ chết đứng'. Người sống ngay thẳng, thật thà thì không sợ bất kì lời vu khống hay thử thách nào."
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_5",
-      "level": "CAP_4_VONG_TINH",
-      "type": "SX",
-      "questionId": "k5_c4_sx_188",
-      "question": "Hãy sắp xếp các từ/cụm từ sau để tạo thành một câu tục ngữ, thành ngữ hoàn chỉnh và có nghĩa:",
-      "elements": [
-        "khởi",
-        "nan",
-        "đầu",
-        "Vạn",
-        "sự"
-      ],
-      "answer": "Vạn sự khởi đầu nan",
-      "explanation": "Câu thành ngữ, tục ngữ chuẩn trong tài liệu ôn tập: 'Vạn sự khởi đầu nan'."
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_5",
-      "level": "CAP_4_VONG_TINH",
-      "type": "SX",
-      "questionId": "k5_c4_sx_189",
-      "question": "Hãy sắp xếp các từ/cụm từ sau để tạo thành một câu tục ngữ, thành ngữ hoàn chỉnh và có nghĩa:",
-      "elements": [
-        "Đắt hay hèn cũng",
-        "tiền trao tay /",
-        "người mua kẻ bán",
-        "Rẻ hay đắt cũng"
-      ],
-      "answer": "Đắt hay hèn cũng tiền trao tay / Rẻ hay đắt cũng người mua kẻ bán",
-      "explanation": "Câu thành ngữ, tục ngữ chuẩn trong tài liệu ôn tập: 'Đắt hay hèn cũng tiền trao tay / Rẻ hay đắt cũng người mua kẻ bán'."
-    },
+    
+    
+    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_5",
@@ -1578,12 +1518,12 @@
       "questionId": "k5_c4_sx_197",
       "question": "Hãy sắp xếp các từ/cụm từ sau để tạo thành một câu tục ngữ, thành ngữ hoàn chỉnh và có nghĩa:",
       "elements": [
-        "nhớ người",
-        "đào giếng",
-        "Uống nước"
+        "đầy tổ",
+        "Kiến tha lâu",
+        "cũng"
       ],
-      "answer": "Uống nước nhớ người đào giếng",
-      "explanation": "Câu thành ngữ/tục ngữ đúng là: 'Uống nước nhớ người đào giếng'. Hưởng trái ngọt nhớ công người trồng cây, uống nước mát nhớ ơn người đào giếng."
+      "answer": "Kiến tha lâu cũng đầy tổ",
+      "explanation": "Câu thành ngữ/tục ngữ đúng là: 'Kiến tha lâu cũng đầy tổ'. Nói tới việc kiên trì cuối cùng sẽ có kết quả."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -1990,7 +1930,7 @@
         "4": "Gần mực thì đen"
       },
       "columnB": {
-        "A": "nhớ người đào giếng",
+        "A": "nhớ nguồn",
         "B": "có ngày nên kim",
         "C": "mà ngã tay chèo",
         "D": "gần đèn thì sáng"
@@ -2001,7 +1941,7 @@
         "3": "C",
         "4": "D"
       },
-      "explanation": "Nối đúng các cặp tương ứng: 1-B: Có công mài sắt ~ có ngày nên kim; 2-A: Uống nước ~ nhớ người đào giếng; 3-C: Chớ thấy sóng cả ~ mà ngã tay chèo; 4-D: Gần mực thì đen ~ gần đèn thì sáng."
+      "explanation": "Nối đúng các cặp tương ứng: 1-B: Có công mài sắt ~ có ngày nên kim; 2-A: Uống nước ~ nhớ nguồn; 3-C: Chớ thấy sóng cả ~ mà ngã tay chèo; 4-D: Gần mực thì đen ~ gần đèn thì sáng."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -4575,23 +4515,7 @@
       ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Lá lành đùm lá rách\". Khuyên con người phải biết đùm bọc, giúp đỡ lẫn nhau khi gặp hoạn nạn, khó khăn."
     },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_5",
-      "level": "CAP_4_VONG_TINH",
-      "type": "DT",
-      "questionId": "k5_c4_dt_330__dup2",
-      "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Cây ngay (...) sợ chết đứng\"",
-      "blankAnswer": "không",
-      "answer": "không",
-      "options": [
-        "thật",
-        "bạn",
-        "không",
-        "ngay"
-      ],
-      "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Cây ngay không sợ chết đứng\". Người sống ngay thẳng, thật thà thì không sợ bất kì lời vu khống hay thử thách nào."
-    },
+    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_5",
@@ -4607,7 +4531,7 @@
         "vàng",
         "khôn"
       ],
-      "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Uống nước nhớ người đào giếng\". Hưởng trái ngọt nhớ công người trồng cây, uống nước mát nhớ ơn người đào giếng."
+      "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Uống nước nhớ nguồn\". Hưởng trái ngọt nhớ công người trồng cây, uống nước mát nhớ ơn nguồn."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -5255,23 +5179,7 @@
       ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Thuận vợ thuận chồng tát biển Đông cũng cạn\". Sự đồng lòng, hòa thuận trong gia đình giúp vượt qua mọi gian khó."
     },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_5",
-      "level": "CAP_4_VONG_TINH",
-      "type": "DT",
-      "questionId": "k5_c4_dt_370",
-      "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Chị ngã (...) nâng\"",
-      "blankAnswer": "em",
-      "answer": "em",
-      "options": [
-        "em",
-        "vàng",
-        "ngày",
-        "trồng"
-      ],
-      "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Chị ngã em nâng\". Anh chị em trong một nhà phải biết nâng đỡ, thương yêu, che chở cho nhau."
-    },
+    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_5",
@@ -5389,7 +5297,7 @@
         "nâng",
         "đào"
       ],
-      "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Uống nước nhớ người đào giếng\". Hưởng trái ngọt nhớ công người trồng cây, uống nước mát nhớ ơn người đào giếng."
+      "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Uống nước nhớ nguồn\". Hưởng trái ngọt nhớ công người trồng cây, uống nước mát nhớ ơn nguồn."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -5423,7 +5331,7 @@
         "ngày",
         "người"
       ],
-      "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Uống nước nhớ người đào giếng\". Hưởng trái ngọt nhớ công người trồng cây, uống nước mát nhớ ơn người đào giếng."
+      "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Uống nước nhớ nguồn\". Hưởng trái ngọt nhớ công người trồng cây, uống nước mát nhớ ơn nguồn."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -5797,7 +5705,7 @@
         "giếng",
         "núi"
       ],
-      "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Uống nước nhớ người đào giếng\". Hưởng trái ngọt nhớ công người trồng cây, uống nước mát nhớ ơn người đào giếng."
+      "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Uống nước nhớ nguồn\". Hưởng trái ngọt nhớ công người trồng cây, uống nước mát nhớ ơn nguồn."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -5958,7 +5866,7 @@
       "level": "CAP_4_VONG_TINH",
       "type": "DT",
       "questionId": "k5_c4_dt_412",
-      "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Uống nước (...) người đào giếng\"",
+      "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Uống nước (...) nguồn\"",
       "blankAnswer": "nhớ",
       "answer": "nhớ",
       "options": [
@@ -5967,7 +5875,7 @@
         "sạch",
         "khôn"
       ],
-      "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Uống nước nhớ người đào giếng\". Hưởng trái ngọt nhớ công người trồng cây, uống nước mát nhớ ơn người đào giếng."
+      "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Uống nước nhớ nguồn\". Hưởng trái ngọt nhớ công người trồng cây, uống nước mát nhớ ơn nguồn."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -6009,7 +5917,7 @@
       "level": "CAP_4_VONG_TINH",
       "type": "DT",
       "questionId": "k5_c4_dt_413",
-      "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"(...) nước nhớ người đào giếng\"",
+      "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"(...) nước nhớ nguồn\"",
       "blankAnswer": "Uống",
       "answer": "Uống",
       "options": [
@@ -6018,7 +5926,7 @@
         "Uống",
         "khôn"
       ],
-      "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Uống nước nhớ người đào giếng\". Hưởng trái ngọt nhớ công người trồng cây, uống nước mát nhớ ơn người đào giếng."
+      "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Uống nước nhớ nguồn\". Hưởng trái ngọt nhớ công người trồng cây, uống nước mát nhớ ơn nguồn."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -6105,23 +6013,7 @@
       ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Ăn quả nhớ kẻ trồng cây\". Khuyên nhủ con người khi được hưởng thành quả phải luôn biết ơn công lao người tạo dựng."
     },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_5",
-      "level": "CAP_4_VONG_TINH",
-      "type": "DT",
-      "questionId": "k5_c4_dt_421",
-      "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Cây ngay không (...) chết đứng\"",
-      "blankAnswer": "sợ",
-      "answer": "sợ",
-      "options": [
-        "sợ",
-        "sắt",
-        "trồng",
-        "mực"
-      ],
-      "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Cây ngay không sợ chết đứng\". Người sống ngay thẳng, thật thà thì không sợ bất kì lời vu khống hay thử thách nào."
-    },
+    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_5",
@@ -6315,7 +6207,7 @@
       "level": "CAP_4_VONG_TINH",
       "type": "DT",
       "questionId": "k5_c4_dt_432",
-      "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Uống (...) nhớ người đào giếng\"",
+      "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Uống (...) nhớ nguồn\"",
       "blankAnswer": "nước",
       "answer": "nước",
       "options": [
@@ -6324,7 +6216,7 @@
         "nước",
         "công"
       ],
-      "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Uống nước nhớ người đào giếng\". Hưởng trái ngọt nhớ công người trồng cây, uống nước mát nhớ ơn người đào giếng."
+      "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Uống nước nhớ nguồn\". Hưởng trái ngọt nhớ công người trồng cây, uống nước mát nhớ ơn nguồn."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -6496,40 +6388,7 @@
       ],
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Gần mực thì đen gần đèn thì sáng\". Ở gần người tốt sẽ học được điều hay, ở gần người xấu dễ bị lây thói hư tật xấu."
     },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_5",
-      "level": "CAP_4_VONG_TINH",
-      "type": "DT",
-      "questionId": "k5_c4_dt_446",
-      "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Cây ngay không sợ chết (...)\"",
-      "blankAnswer": "đứng",
-      "answer": "đứng",
-      "options": [
-        "công",
-        "nguồn",
-        "đứng",
-        "đèn"
-      ],
-      "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Cây ngay không sợ chết đứng\". Người sống ngay thẳng, thật thà thì không sợ bất kì lời vu khống hay thử thách nào."
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_5",
-      "level": "CAP_4_VONG_TINH",
-      "type": "DT",
-      "questionId": "k5_c4_dt_442__dup2",
-      "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"(...) quả nhớ kẻ trồng cây\"",
-      "blankAnswer": "Ăn",
-      "answer": "Ăn",
-      "options": [
-        "núi",
-        "ngay",
-        "Ăn",
-        "nguồn"
-      ],
-      "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Ăn quả nhớ kẻ trồng cây\". Khuyên nhủ con người khi được hưởng thành quả phải luôn biết ơn công lao người tạo dựng."
-    },
+    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_5",
@@ -9479,23 +9338,7 @@
       "explanation": "Các cặp được nối theo đúng quan hệ nội dung giữa hai cột.",
       "questionId": "k5_c4_noi_1312"
     },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_5",
-      "level": "CAP_4_VONG_TINH",
-      "type": "DT",
-      "question": "Điền đáp án còn thiếu vào câu dưới đây: Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Cây ngay (...) sợ chết đứng\"",
-      "blankAnswer": "không",
-      "answer": "không",
-      "options": [
-        "thật",
-        "bạn",
-        "không",
-        "ngay"
-      ],
-      "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Cây ngay không sợ chết đứng\". Người sống ngay thẳng, thật thà thì không sợ bất kì lời vu khống hay thử thách nào.",
-      "questionId": "k5_c4_dt_1320"
-    },
+    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_5",
@@ -9630,16 +9473,16 @@
       "grade": "KHOI_5",
       "level": "CAP_4_VONG_TINH",
       "type": "DT",
-      "question": "Hoàn thiện ngữ liệu sau bằng từ hoặc cụm từ thích hợp: Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Cây ngay (...) sợ chết đứng\"",
-      "blankAnswer": "không",
-      "answer": "không",
+      "question": "Hoàn thiện ngữ liệu sau bằng từ hoặc cụm từ thích hợp: Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Đi (...) về xuôi\"",
+      "blankAnswer": "xuôi",
+      "answer": "xuôi",
       "options": [
         "thật",
         "bạn",
-        "không",
+        "xuôi",
         "ngay"
       ],
-      "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Cây ngay không sợ chết đứng\". Người sống ngay thẳng, thật thà thì không sợ bất kì lời vu khống hay thử thách nào.",
+      "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Đi ngược về xuôi\". Chỉ sự việc đi lại, di chuyển từ nơi này đến nơi khác.",
       "questionId": "k5_c4_dt_1355"
     },
     {
@@ -10162,16 +10005,16 @@
       "grade": "KHOI_5",
       "level": "CAP_4_VONG_TINH",
       "type": "DT",
-      "question": "Em hãy chọn từ ngữ phù hợp để câu văn được trọn nghĩa: Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Cây ngay (...) sợ chết đứng\"",
-      "blankAnswer": "không",
-      "answer": "không",
+      "question": "Em hãy chọn từ ngữ phù hợp để câu văn được trọn nghĩa: Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Dục tốc (...) đạt\"",
+      "blankAnswer": "bất",
+      "answer": "bất",
       "options": [
         "thật",
         "bạn",
-        "không",
+        "bất",
         "ngay"
       ],
-      "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Cây ngay không sợ chết đứng\". Người sống ngay thẳng, thật thà thì không sợ bất kì lời vu khống hay thử thách nào.",
+      "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Dục tốc bất đạt\".Chỉ việc vì quá vội vàng, hấp tấp mà làm hỏng việc, không đạt được kết quả mong muốn.",
       "questionId": "k5_c4_dt_1435"
     },
     {
@@ -11020,7 +10863,7 @@
         "vàng",
         "khôn"
       ],
-      "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Uống nước nhớ người đào giếng\". Hưởng trái ngọt nhớ công người trồng cây, uống nước mát nhớ ơn người đào giếng.",
+      "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Uống nước nhớ nguồn\". Hưởng trái ngọt nhớ công người trồng cây, uống nước mát nhớ ơn nguồn.",
       "questionId": "k5_c4_dt_1587"
     },
     {
@@ -11234,7 +11077,7 @@
         "vàng",
         "khôn"
       ],
-      "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Uống nước nhớ người đào giếng\". Hưởng trái ngọt nhớ công người trồng cây, uống nước mát nhớ ơn người đào giếng.",
+      "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Uống nước nhớ nguồn\". Hưởng trái ngọt nhớ công người trồng cây, uống nước mát nhớ ơn nguồn.",
       "questionId": "k5_c4_dt_1624"
     },
     {
@@ -11242,16 +11085,16 @@
       "grade": "KHOI_5",
       "level": "CAP_4_VONG_TINH",
       "type": "DT",
-      "question": "Đọc câu sau và xác định từ cần điền: Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"(...) ngay không sợ chết đứng\"",
-      "blankAnswer": "Cây",
-      "answer": "Cây",
+      "question": "Đọc câu sau và xác định từ cần điền: Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"(...) ti trật tự\"",
+      "blankAnswer": "Tôn",
+      "answer": "Tôn",
       "options": [
-        "Cây",
+        "Tôn",
         "ngày",
         "ngay",
         "non"
       ],
-      "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Cây ngay không sợ chết đứng\". Người sống ngay thẳng, thật thà thì không sợ bất kì lời vu khống hay thử thách nào.",
+      "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Tôn ti trật tự\". Chỉ sự sắp xếp theo đúng thứ bậc, kỷ cương và phép tắc nghiêm ngặt trong quan hệ ứng xử giữa người trên kẻ dưới hoặc trong một tập thể, xã hội.",
       "questionId": "k5_c4_dt_1627"
     },
     {
@@ -11861,16 +11704,16 @@
       "grade": "KHOI_5",
       "level": "CAP_4_VONG_TINH",
       "type": "DT",
-      "question": "Điền từ thích hợp vào vị trí (…) trong ngữ liệu: Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Cây ngay (...) sợ chết đứng\"",
-      "blankAnswer": "không",
-      "answer": "không",
+      "question": "Điền từ thích hợp vào vị trí (…) trong ngữ liệu: Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Thiên binh ( ... ) mã\"",
+      "blankAnswer": "Vạn",
+      "answer": "Vạn",
       "options": [
         "thật",
         "bạn",
-        "không",
+        "Vạn",
         "ngay"
       ],
-      "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Cây ngay không sợ chết đứng\". Người sống ngay thẳng, thật thà thì không sợ bất kì lời vu khống hay thử thách nào.",
+      "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Thiên binh vạn mã\". Lực lượng quân đội hùng mạnh, đông đảo.",
       "questionId": "k5_c4_dt_1733"
     },
     {
@@ -12251,7 +12094,7 @@
         "vàng",
         "khôn"
       ],
-      "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Uống nước nhớ người đào giếng\". Hưởng trái ngọt nhớ công người trồng cây, uống nước mát nhớ ơn người đào giếng.",
+      "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Uống nước nhớ nguồn\". Hưởng trái ngọt nhớ công người trồng cây, uống nước mát nhớ ơn nguồn.",
       "questionId": "k5_c4_dt_1793"
     },
     {
@@ -12629,23 +12472,7 @@
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Tấc đất tấc vàng\". Mỗi tấc đất đều vô cùng quý giá như vàng vì đem lại nguồn sống cho con người.",
       "questionId": "k5_c4_dt_1838"
     },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_5",
-      "level": "CAP_4_VONG_TINH",
-      "type": "DT",
-      "question": "Vận dụng kiến thức về từ và câu, hãy điền vào chỗ trống: Chọn từ thích hợp điền vào chỗ trống: \"Vạn sự khởi đầu (...)\"",
-      "options": [
-        "thân",
-        "lá",
-        "đùm",
-        "nan"
-      ],
-      "answer": "nan",
-      "blankAnswer": "nan",
-      "explanation": "Thành ngữ, tục ngữ chuẩn trong tài liệu ôn tập: 'Vạn sự khởi đầu nan'.",
-      "questionId": "k5_c4_dt_1839"
-    },
+   
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_5",
@@ -12707,23 +12534,7 @@
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Lửa thử vàng gian nan thử sức\". Khó khăn thử thách là thước đo lòng kiên định và bản lĩnh con người.",
       "questionId": "k5_c4_dt_1844"
     },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_5",
-      "level": "CAP_4_VONG_TINH",
-      "type": "DT",
-      "question": "Điền từ thích hợp vào vị trí (…) trong ngữ liệu: Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Vạn (...) khởi đầu nan\"",
-      "blankAnswer": "sự",
-      "answer": "sự",
-      "options": [
-        "ngày",
-        "trồng",
-        "khôn",
-        "sự"
-      ],
-      "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Vạn sự khởi đầu nan\". Thành ngữ, tục ngữ chuẩn: 'Vạn sự khởi đầu nan'.",
-      "questionId": "k5_c4_dt_1847"
-    },
+    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_5",
@@ -13116,57 +12927,8 @@
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Cây ngay không sợ chết đứng\". Người sống ngay thẳng, thật thà thì không sợ bất kì lời vu khống hay thử thách nào.",
       "questionId": "k5_c4_dt_1913"
     },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_5",
-      "level": "CAP_4_VONG_TINH",
-      "type": "DT",
-      "question": "Em hãy chọn từ ngữ phù hợp để câu văn được trọn nghĩa: Chọn từ thích hợp điền vào chỗ trống: \"Vạn sự khởi đầu (...)\"",
-      "options": [
-        "thân",
-        "lá",
-        "đùm",
-        "nan"
-      ],
-      "answer": "nan",
-      "blankAnswer": "nan",
-      "explanation": "Thành ngữ, tục ngữ chuẩn trong tài liệu ôn tập: 'Vạn sự khởi đầu nan'.",
-      "questionId": "k5_c4_dt_1920"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_5",
-      "level": "CAP_4_VONG_TINH",
-      "type": "DT",
-      "question": "Vận dụng kiến thức về từ và câu, hãy điền vào chỗ trống: Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"(...) sự khởi đầu nan\"",
-      "blankAnswer": "Vạn",
-      "answer": "Vạn",
-      "options": [
-        "nguồn",
-        "Vạn",
-        "cây",
-        "đùm"
-      ],
-      "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Vạn sự khởi đầu nan\". Thành ngữ, tục ngữ chuẩn: 'Vạn sự khởi đầu nan'.",
-      "questionId": "k5_c4_dt_1922"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_5",
-      "level": "CAP_4_VONG_TINH",
-      "type": "DT",
-      "question": "Em hãy chọn từ ngữ phù hợp để câu văn được trọn nghĩa: Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Cây (...) không sợ chết đứng\"",
-      "blankAnswer": "ngay",
-      "answer": "ngay",
-      "options": [
-        "vàng",
-        "ngay",
-        "sạch",
-        "kim"
-      ],
-      "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Cây ngay không sợ chết đứng\". Người sống ngay thẳng, thật thà thì không sợ bất kì lời vu khống hay thử thách nào.",
-      "questionId": "k5_c4_dt_1925"
-    },
+    
+    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_5",
@@ -13294,7 +13056,7 @@
       "grade": "KHOI_5",
       "level": "CAP_4_VONG_TINH",
       "type": "NOI",
-      "question": "Tìm các cặp tương ứng chính xác giữa hai cột sau: Hãy nối từ ở Cột A với từ đồng nghĩa tương ứng ở Cột B: (Bài luyện tập 1952).",
+      "question": "Tìm các cặp tương ứng chính xác giữa hai cột sau: Hãy nối từ ở Cột A với từ đồng nghĩa tương ứng ở Cột B: .",
       "columnA": {
         "1": "chăm chỉ",
         "2": "tổ quốc",
@@ -13422,7 +13184,7 @@
       "grade": "KHOI_5",
       "level": "CAP_4_VONG_TINH",
       "type": "NOI",
-      "question": "Tìm các cặp tương ứng chính xác giữa hai cột sau: Hãy nối từ ở Cột A với từ trái nghĩa tương ứng ở Cột B: (Bài luyện tập 1981).",
+      "question": "Tìm các cặp tương ứng chính xác giữa hai cột sau: Hãy nối từ ở Cột A với từ trái nghĩa tương ứng ở Cột B: (1).",
       "columnA": {
         "1": "yêu thương",
         "2": "chăm chỉ",
@@ -13449,7 +13211,7 @@
       "grade": "KHOI_5",
       "level": "CAP_4_VONG_TINH",
       "type": "NOI",
-      "question": "Tìm các cặp tương ứng chính xác giữa hai cột sau: Hãy nối từ ở Cột A với từ trái nghĩa tương ứng ở Cột B: (Bài luyện tập 1984).",
+      "question": "Tìm các cặp tương ứng chính xác giữa hai cột sau: Hãy nối từ ở Cột A với từ trái nghĩa tương ứng ở Cột B: (4).",
       "columnA": {
         "1": "hòa bình",
         "2": "thành công",
@@ -13578,7 +13340,7 @@
       "grade": "KHOI_5",
       "level": "CAP_4_VONG_TINH",
       "type": "NOI",
-      "question": "Tìm các cặp tương ứng chính xác giữa hai cột sau: Hãy nối vế ở Cột A với vế tương ứng ở Cột B để tạo thành câu thành ngữ, tục ngữ hoàn chỉnh: (Bài luyện tập 2021).",
+      "question": "Tìm các cặp tương ứng chính xác giữa hai cột sau: Hãy nối vế ở Cột A với vế tương ứng ở Cột B để tạo thành câu thành ngữ, tục ngữ hoàn chỉnh: ().",
       "columnA": {
         "1": "Có công mài sắt",
         "2": "Uống nước",
@@ -13586,7 +13348,7 @@
         "4": "Gần mực thì đen"
       },
       "columnB": {
-        "A": "nhớ người đào giếng",
+        "A": "nhớ nguồn",
         "B": "gần đèn thì sáng",
         "C": "mà ngã tay chèo",
         "D": "có ngày nên kim"
@@ -13605,7 +13367,7 @@
       "grade": "KHOI_5",
       "level": "CAP_4_VONG_TINH",
       "type": "NOI",
-      "question": "Hãy ghép mỗi nội dung ở Cột A với mô tả tương ứng tại Cột B: Hãy nối từ ở Cột A với từ trái nghĩa tương ứng ở Cột B: (Bài luyện tập 2025).",
+      "question": "Hãy ghép mỗi nội dung ở Cột A với mô tả tương ứng tại Cột B: Hãy nối từ ở Cột A với từ trái nghĩa tương ứng ở Cột B: (25).",
       "columnA": {
         "1": "khỏe mạnh",
         "2": "nhân hậu",
@@ -13644,23 +13406,7 @@
       "explanation": "Từ 'chăm chỉ' diễn tả ý thức học tập và rèn luyện nghiêm túc.",
       "questionId": "k5_c4_dt_2033"
     },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_5",
-      "level": "CAP_4_VONG_TINH",
-      "type": "DT",
-      "question": "Điền đáp án còn thiếu vào câu dưới đây: Chọn từ thích hợp điền vào chỗ trống: \"Chúng em quyết tâm (...) rèn luyện để đạt danh hiệu cháu ngoan Bác Hồ.\"",
-      "blankAnswer": "chăm chỉ",
-      "answer": "chăm chỉ",
-      "options": [
-        "chăm chỉ",
-        "hời hợt",
-        "lơ đãng",
-        "chậm trễ"
-      ],
-      "explanation": "Từ 'chăm chỉ' diễn tả ý thức học tập và rèn luyện nghiêm túc.",
-      "questionId": "k5_c4_dt_2037"
-    },
+   
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_5",
@@ -13694,23 +13440,7 @@
       "explanation": "Thành ngữ, tục ngữ chuẩn trong tài liệu ôn tập: 'Đời người có cố mới nên / Cây có gốc mới nở cành xanh lá'.",
       "questionId": "k5_c4_dt_2041"
     },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_5",
-      "level": "CAP_4_VONG_TINH",
-      "type": "DT",
-      "question": "Điền đáp án còn thiếu vào câu dưới đây: Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Người (...) là hoa đất\"",
-      "blankAnswer": "ta",
-      "answer": "ta",
-      "options": [
-        "sắt",
-        "ta",
-        "đùm",
-        "cây"
-      ],
-      "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Người ta là hoa đất\". Ca ngợi con người là tinh hoa quý báu nhất của vũ trụ và mặt đất.",
-      "questionId": "k5_c4_dt_2044"
-    },
+    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_5",
@@ -13762,23 +13492,7 @@
       "explanation": "Câu văn sử dụng cặp quan hệ từ 'Chẳng những... mà còn...' biểu thị quan hệ Tăng tiến.",
       "questionId": "k5_c4_dt_2054"
     },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_5",
-      "level": "CAP_4_VONG_TINH",
-      "type": "DT",
-      "question": "Điền từ thích hợp vào vị trí (…) trong ngữ liệu: Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Lá lành (...) lá rách\"",
-      "blankAnswer": "đùm",
-      "answer": "đùm",
-      "options": [
-        "đèn",
-        "vàng",
-        "nguồn",
-        "đùm"
-      ],
-      "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Lá lành đùm lá rách\". Khuyên con người phải biết đùm bọc, giúp đỡ lẫn nhau khi gặp hoạn nạn, khó khăn.",
-      "questionId": "k5_c4_dt_2066"
-    },
+    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_5",
@@ -13801,7 +13515,7 @@
       "grade": "KHOI_5",
       "level": "CAP_4_VONG_TINH",
       "type": "NOI",
-      "question": "Tìm các cặp tương ứng chính xác giữa hai cột sau: Em hãy nối từ Hán Việt ở cột bên trái với phần giải nghĩa tương ứng ở cột bên phải: (Bài luyện tập 2069).",
+      "question": "Tìm các cặp tương ứng chính xác giữa hai cột sau: Em hãy nối từ Hán Việt ở cột bên trái với phần giải nghĩa tương ứng ở cột bên phải: (69).",
       "columnA": {
         "1": "Bảo tồn",
         "2": "Phát triển",
@@ -13961,7 +13675,7 @@
       "grade": "KHOI_5",
       "level": "CAP_4_VONG_TINH",
       "type": "NOI",
-      "question": "Tìm các cặp tương ứng chính xác giữa hai cột sau: Hãy nối tên vị anh hùng/danh nhân ở Cột A với chiến công, sự kiện lịch sử ở Cột B: (Bài luyện tập 2093).",
+      "question": "Tìm các cặp tương ứng chính xác giữa hai cột sau: Hãy nối tên vị anh hùng/danh nhân ở Cột A với chiến công, sự kiện lịch sử ở Cột B: (93).",
       "columnA": {
         "1": "Trần Hưng Đạo",
         "2": "Chủ tịch Hồ Chí Minh",
@@ -14685,7 +14399,7 @@
         "vàng",
         "khôn"
       ],
-      "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Uống nước nhớ người đào giếng\". Hưởng trái ngọt nhớ công người trồng cây, uống nước mát nhớ ơn người đào giếng.",
+      "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Uống nước nhớ nguồn\". Hưởng trái ngọt nhớ công người trồng cây, uống nước mát nhớ ơn nguồn.",
       "questionId": "k5_c4_dt_2207"
     },
     {
@@ -15711,7 +15425,7 @@
         "vàng",
         "khôn"
       ],
-      "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Uống nước nhớ người đào giếng\". Hưởng trái ngọt nhớ công người trồng cây, uống nước mát nhớ ơn người đào giếng.",
+      "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Uống nước nhớ nguồn\". Hưởng trái ngọt nhớ công người trồng cây, uống nước mát nhớ ơn nguồn.",
       "questionId": "k5_c4_dt_2386"
     },
     {
@@ -16045,7 +15759,7 @@
         "vàng",
         "khôn"
       ],
-      "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Uống nước nhớ người đào giếng\". Hưởng trái ngọt nhớ công người trồng cây, uống nước mát nhớ ơn người đào giếng.",
+      "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Uống nước nhớ nguồn\". Hưởng trái ngọt nhớ công người trồng cây, uống nước mát nhớ ơn nguồn.",
       "questionId": "k5_c4_dt_2427"
     },
     {
@@ -16201,7 +15915,7 @@
         "vàng",
         "khôn"
       ],
-      "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Uống nước nhớ người đào giếng\". Hưởng trái ngọt nhớ công người trồng cây, uống nước mát nhớ ơn người đào giếng.",
+      "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Uống nước nhớ nguồn\". Hưởng trái ngọt nhớ công người trồng cây, uống nước mát nhớ ơn nguồn.",
       "questionId": "k5_c4_dt_2457"
     },
     {
@@ -17759,7 +17473,7 @@
         "vàng",
         "khôn"
       ],
-      "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Uống nước nhớ người đào giếng\". Hưởng trái ngọt nhớ công người trồng cây, uống nước mát nhớ ơn người đào giếng.",
+      "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Uống nước nhớ nguồn\". Hưởng trái ngọt nhớ công người trồng cây, uống nước mát nhớ ơn nguồn.",
       "questionId": "k5_c4_dt_2722"
     },
     {
@@ -17808,7 +17522,7 @@
         "4": "Gần mực thì đen"
       },
       "columnB": {
-        "A": "nhớ người đào giếng",
+        "A": "nhớ nguồn",
         "B": "có ngày nên kim",
         "C": "mà ngã tay chèo",
         "D": "gần đèn thì sáng"
@@ -18920,16 +18634,16 @@
       "grade": "KHOI_5",
       "level": "CAP_4_VONG_TINH",
       "type": "DT",
-      "question": "Hãy tìm thành phần còn khuyết trong câu: Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Lá lành (...) lá rách\"",
-      "blankAnswer": "đùm",
-      "answer": "đùm",
+      "question": "Hãy tìm thành phần còn khuyết trong câu: Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Một công đôi (...) .\"",
+      "blankAnswer": "việc",
+      "answer": "việc",
       "options": [
         "đèn",
         "vàng",
         "nguồn",
-        "đùm"
+        "việc"
       ],
-      "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Lá lành đùm lá rách\". Khuyên con người phải biết đùm bọc, giúp đỡ lẫn nhau khi gặp hoạn nạn, khó khăn.",
+      "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Một công đôi việc\". Khi làm một việc có thể đạt được hai kết quả, hai lợi ích.",
       "questionId": "k5_c4_dt_2925"
     },
     {
@@ -18980,16 +18694,16 @@
       "grade": "KHOI_5",
       "level": "CAP_4_VONG_TINH",
       "type": "DT",
-      "question": "Điền từ thích hợp vào vị trí (…) trong ngữ liệu: Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Tấc đất tấc (...)\"",
-      "blankAnswer": "vàng",
-      "answer": "vàng",
+      "question": "Điền từ thích hợp vào vị trí (…) trong ngữ liệu: Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Ăn ngay nói (...)\"",
+      "blankAnswer": "thẳng",
+      "answer": "thẳng",
       "options": [
         "sạch",
-        "ngay",
+        "thẳng",
         "vàng",
         "khôn"
       ],
-      "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Tấc đất tấc vàng\". Mỗi tấc đất đều vô cùng quý giá như vàng vì đem lại nguồn sống cho con người.",
+      "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Ăn ngay nói thẳng\". Chỉ cách sống trung thực, thẳng thắn trong giao tiếp.",
       "questionId": "k5_c4_dt_2929"
     },
     {
@@ -18997,16 +18711,16 @@
       "grade": "KHOI_5",
       "level": "CAP_4_VONG_TINH",
       "type": "DT",
-      "question": "Vận dụng kiến thức về từ và câu, hãy điền vào chỗ trống: Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"(...) đất tấc vàng\"",
-      "blankAnswer": "Tấc",
-      "answer": "Tấc",
+      "question": "Vận dụng kiến thức về từ và câu, hãy điền vào chỗ trống: Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"(...) hay không bằng tay quen\"",
+      "blankAnswer": "Trăm",
+      "answer": "Trăm",
       "options": [
         "đèn",
-        "Tấc",
+        "Trăm",
         "núi",
         "ngày"
       ],
-      "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Tấc đất tấc vàng\". Mỗi tấc đất đều vô cùng quý giá như vàng vì đem lại nguồn sống cho con người.",
+      "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Trăm hay không bằng tay quen\". Đề cao tầm quan trọng của việc thực hành và rèn luyện thường xuyên, khẳng định kỹ năng thực tế có được qua tay nghề luôn vượt trội hơn hẳn việc chỉ nắm lý thuyết suông.",
       "questionId": "k5_c4_dt_2933"
     },
     {
@@ -19119,16 +18833,16 @@
       "grade": "KHOI_5",
       "level": "CAP_4_VONG_TINH",
       "type": "DT",
-      "question": "Hãy tìm thành phần còn khuyết trong câu: Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Học thầy không tày học (...)\"",
-      "blankAnswer": "bạn",
-      "answer": "bạn",
+      "question": "Hãy tìm thành phần còn khuyết trong câu: Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Công tư phân (...)\"",
+      "blankAnswer": "minh",
+      "answer": "minh",
       "options": [
         "sạch",
-        "bạn",
+        "minh",
         "nguồn",
         "trồng"
       ],
-      "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Học thầy không tày học bạn\". Nhấn mạnh vai trò to lớn của việc học hỏi từ bạn bè xung quanh.",
+      "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Công tư phân minh\". Chỉ sự rạch ròi, minh bạch và sòng phẳng, tuyệt đối không trộn lẫn hoặc lợi dụng việc công để mưu cầu lợi ích riêng tư.",
       "questionId": "k5_c4_dt_2952"
     },
     {
@@ -19153,16 +18867,16 @@
       "grade": "KHOI_5",
       "level": "CAP_4_VONG_TINH",
       "type": "DT",
-      "question": "Đọc câu sau và xác định từ cần điền: Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Cây (...) không sợ chết đứng\"",
-      "blankAnswer": "ngay",
-      "answer": "ngay",
+      "question": "Đọc câu sau và xác định từ cần điền: Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \" Cải (...) hoàn sinh\"",
+      "blankAnswer": "tử",
+      "answer": "tử",
       "options": [
         "vàng",
-        "ngay",
+        "tử",
         "sạch",
         "kim"
       ],
-      "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Cây ngay không sợ chết đứng\". Người sống ngay thẳng, thật thà thì không sợ bất kì lời vu khống hay thử thách nào.",
+      "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Cải tử hoàn sinh\". Chỉ việc cứu sống người bệnh nặng sắp chết hoặc đã chết đi sống lại.",
       "questionId": "k5_c4_dt_2956"
     },
     {
@@ -19170,16 +18884,16 @@
       "grade": "KHOI_5",
       "level": "CAP_4_VONG_TINH",
       "type": "DT",
-      "question": "Chọn phương án đúng để hoàn chỉnh nội dung sau: Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Vạn (...) khởi đầu nan\"",
-      "blankAnswer": "sự",
-      "answer": "sự",
+      "question": "Chọn phương án đúng để hoàn chỉnh nội dung sau: Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Bán (...) bán nghi\"",
+      "blankAnswer": "tín",
+      "answer": "tín",
       "options": [
         "ngày",
-        "trồng",
+        "tín",
         "khôn",
         "sự"
       ],
-      "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Vạn sự khởi đầu nan\". Thành ngữ, tục ngữ chuẩn: 'Vạn sự khởi đầu nan'.",
+      "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Bán tín bán nghi\". Có nghĩa là nửa tin nửa ngờ.",
       "questionId": "k5_c4_dt_2957"
     },
     {
@@ -19187,16 +18901,16 @@
       "grade": "KHOI_5",
       "level": "CAP_4_VONG_TINH",
       "type": "DT",
-      "question": "Hãy tìm thành phần còn khuyết trong câu: Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Uống nước nhớ (...)\"",
-      "blankAnswer": "nguồn",
-      "answer": "nguồn",
+      "question": "Hãy tìm thành phần còn khuyết trong câu: Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Cải lão hoàn (...)\"",
+      "blankAnswer": "đồng",
+      "answer": "đồng",
       "options": [
         "nguồn",
-        "nâng",
+        "đồng",
         "kim",
         "đùm"
       ],
-      "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Uống nước nhớ nguồn\". Nhắc nhở con cháu phải ghi nhớ cội nguồn, tổ tiên và những người đã giúp đỡ mình.",
+      "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Cải lão hoàn đồng\". Có nghĩa trẻ hóa, khôi phục lại tuổi trẻ, sức khỏe và nét thanh xuân tươi tắn như thuở ban đầu..",
       "questionId": "k5_c4_dt_2958"
     },
     {
@@ -19231,16 +18945,16 @@
       "grade": "KHOI_5",
       "level": "CAP_4_VONG_TINH",
       "type": "DT",
-      "question": "Hãy tìm thành phần còn khuyết trong câu: Chọn từ thích hợp điền vào chỗ trống: \"Đắt hay hèn cũng tiền trao tay / Rẻ hay đắt cũng người mua kẻ (...)\"",
+      "question": "Hãy tìm thành phần còn khuyết trong câu: Chọn từ thích hợp điền vào chỗ trống: \"Tự lực cánh (...)\"",
       "options": [
         "lúa",
-        "bán",
+        "sinh",
         "lá",
         "sơn"
       ],
-      "answer": "bán",
-      "blankAnswer": "bán",
-      "explanation": "Thành ngữ, tục ngữ chuẩn trong tài liệu ôn tập: 'Đắt hay hèn cũng tiền trao tay / Rẻ hay đắt cũng người mua kẻ bán'.",
+      "answer": "sinh",
+      "blankAnswer": "sinh",
+      "explanation": "Thành ngữ, tục ngữ chuẩn trong tài liệu ôn tập: 'Tự lực cánh sinh'. Chỉ việc tự dựa vào sức lực và khả năng của bản thân để làm việc, sinh sống và vượt qua mọi khó khăn mà không trông chờ, ỷ lại vào người khác.",
       "questionId": "k5_c4_dt_2972"
     },
     {
@@ -19265,16 +18979,16 @@
       "grade": "KHOI_5",
       "level": "CAP_4_VONG_TINH",
       "type": "DT",
-      "question": "Hoàn thiện ngữ liệu sau bằng từ hoặc cụm từ thích hợp: Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Bầu ơi (...) lấy bí cùng, tuy rằng khác giống nhưng chung một giàn\"",
+      "question": "Hoàn thiện ngữ liệu sau bằng từ hoặc cụm từ thích hợp: Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Thiên la (...) võng\"",
       "blankAnswer": "thương",
       "answer": "thương",
       "options": [
         "ngay",
-        "vàng",
+        "địa",
         "sạch",
         "thương"
       ],
-      "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Bầu ơi thương lấy bí cùng, tuy rằng khác giống nhưng chung một giàn\". Dù xuất thân khác nhau nhưng cùng chung sống một đất nước thì phải thương yêu nhau.",
+      "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Thiên la địa võng\". Chỉ sự bao vây kín mít, chặt chẽ tứ phía khiến đối phương tuyệt nhiên không còn đường trốn thoát. .",
       "questionId": "k5_c4_dt_2984"
     },
     {
@@ -19309,16 +19023,16 @@
       "grade": "KHOI_5",
       "level": "CAP_4_VONG_TINH",
       "type": "DT",
-      "question": "Điền từ thích hợp vào vị trí (…) trong ngữ liệu: Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Cây (...) không sợ chết đứng\"",
-      "blankAnswer": "ngay",
-      "answer": "ngay",
+      "question": "Điền từ thích hợp vào vị trí (…) trong ngữ liệu: Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Người đẹp vì (...) lúa tốt vì phân\"",
+      "blankAnswer": "lụa",
+      "answer": "lụa",
       "options": [
         "vàng",
-        "ngay",
+        "lụa",
         "sạch",
         "kim"
       ],
-      "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Cây ngay không sợ chết đứng\". Người sống ngay thẳng, thật thà thì không sợ bất kì lời vu khống hay thử thách nào.",
+      "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Người đẹp vì lụa, lúa tốt vì phân\" ",
       "questionId": "k5_c4_dt_2999"
     }
   ],
