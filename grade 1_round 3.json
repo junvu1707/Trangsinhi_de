@@ -983,7 +983,7 @@
         "D": "Ăn ngay nói thật mọi tật mọi lành"
       },
       "answer": "C",
-      "explanation": "'Uống nước nhớ nguồn': Hưởng trái ngọt nhớ công người trồng cây, uống nước mát nhớ ơn người đào giếng.",
+      "explanation": "'Uống nước nhớ nguồn': Hưởng trái ngọt nhớ công người trồng cây, uống nước mát nhớ ơn nguồn.",
       "questionNumber": 55
     },
     {
@@ -1691,13 +1691,13 @@
       "questionId": "k1_c3_tn_097",
       "question": "Câu tục ngữ, thành ngữ nào dưới đây thể hiện phẩm chất hoặc bài học về 'Biết ơn'?",
       "options": {
-        "A": "Uống nước nhớ người đào giếng",
+        "A": "Uống nước nhớ nguồn",
         "B": "Chị ngã em nâng",
         "C": "Công cha như núi Thái Sơn, nghĩa mẹ như nước trong nguồn chảy ra",
         "D": "Lửa thử vàng gian nan thử sức"
       },
       "answer": "A",
-      "explanation": "'Uống nước nhớ người đào giếng': Hưởng trái ngọt nhớ công người trồng cây, uống nước mát nhớ ơn người đào giếng.",
+      "explanation": "'Uống nước nhớ nguồn': Hưởng trái ngọt nhớ công người trồng cây, uống nước mát nhớ ơn nguồn.",
       "questionNumber": 97
     },
     {
@@ -19493,7 +19493,7 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Uống nước nhớ người (...)\"",
       "blankAnswer": "đào giếng",
       "answer": "đào giếng",
-      "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Uống nước nhớ nguồn\". Hưởng trái ngọt nhớ công người trồng cây, uống nước mát nhớ ơn người đào giếng.",
+      "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Uống nước nhớ nguồn\". Hưởng trái ngọt nhớ công người trồng cây, uống nước mát nhớ ơn nguồn.",
       "questionNumber": 1150
     },
     {

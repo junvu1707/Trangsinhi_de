@@ -4,9 +4,9 @@
   "level": "CAP_2_VONG_TRUONG",
   "startSeq": 1,
   "seqMode": "CONTINUOUS",
-  "totalQuestions": 2000,
+  "totalQuestions": 2050,
   "typeDistribution": {
-    "TN": 1134,
+    "TN": 1184,
     "DT": 467,
     "NOI": 133,
     "CHON": 133,
@@ -1293,7 +1293,7 @@
       "questionId": "k2_c2_tn_0046",
       "question": "Câu tục ngữ, thành ngữ nào dưới đây thể hiện phẩm chất hoặc bài học về 'Trung thực'?",
       "options": {
-        "A": "Uống nước nhớ người đào giếng",
+        "A": "Uống nước nhớ nguồn",
         "B": "Học thầy không tày học bạn",
         "C": "Nhiễu điều phủ lấy giá gương, người trong một nước phải thương nhau cùng",
         "D": "Ăn ngay nói thật mọi tật mọi lành"
@@ -1771,23 +1771,6 @@
       "answer": "B",
       "explanation": "“giảng bài” là từ chỉ hoạt động, phù hợp với nhóm từ được hỏi.",
       "questionNumber": 98
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_2",
-      "level": "CAP_2_VONG_TRUONG",
-      "type": "TN",
-      "questionId": "k2_c2_tn_0062",
-      "question": "Giải câu đố dân gian sau: \"Quả gì nhiều mắt xung quanh / Khi chín nứt nở thơm lành khắp nơi / Cơm trắng thơm ngọt bùi bùi / Em đem dâng biếu ông bà kính yêu?\"",
-      "options": {
-        "A": "quả chuối",
-        "B": "quả mít",
-        "C": "quả na",
-        "D": "quả bưởi"
-      },
-      "answer": "C",
-      "explanation": "Quả na (mãng cầu ta) vỏ có nhiều mắt mở to khi chín, thịt màu trắng ngọt ngào.",
-      "questionNumber": 99
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -2517,23 +2500,7 @@
       "explanation": "Câu hoàn chỉnh: “Bạn Lan quét nhà giúp mẹ cùng các bạn.”.",
       "questionNumber": 140
     },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_2",
-      "level": "CAP_2_VONG_TRUONG",
-      "type": "TN",
-      "questionId": "k2_c2_tn_0083",
-      "question": "Giải câu đố dân gian sau: \"Mình tròn lưng nở phập phồng / Đứng ngoài cửa lớp trông nom học trò / Hễ ai đi học đúng giờ / Nghe em thúc giục: Tùng... tùng... vào mau! - Là cái gì?\"",
-      "options": {
-        "A": "chiếc chuông",
-        "B": "cái trống trường",
-        "C": "cái bảng",
-        "D": "cái kẻng"
-      },
-      "answer": "B",
-      "explanation": "Trống trường hình trụ tròn, phát ra tiếng 'tùng... tùng...' báo hiệu giờ học.",
-      "questionNumber": 141
-    },
+   
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_2",
@@ -2672,7 +2639,7 @@
       "level": "CAP_2_VONG_TRUONG",
       "type": "TN",
       "questionId": "k2_c2_tn_0087",
-      "question": "Giải câu đố dân gian sau: \"Để nguyên lấp lánh trên trời / Bớt đầu thành chỗ cho đàn cá bơi - Là chữ gì?\"",
+      "question": "Giải câu đố dân gian sau: \"Để nguyên lấp lánh trên trời \n Bớt đầu thành chỗ cho đàn cá bơi \n Để nguyên là chữ gì?\"",
       "options": {
         "A": "mây",
         "B": "sao",
@@ -2680,7 +2647,7 @@
         "D": "trăng"
       },
       "answer": "B",
-      "explanation": "Chữ 'sao', bỏ chữ cái đầu 's' được chữ 'ao' (hoặc sao -> ao cá, táo -> áo).",
+      "explanation": "Chữ 'sao', bỏ chữ cái đầu 's' được chữ 'ao' .",
       "questionNumber": 148
     },
     {
@@ -5564,7 +5531,7 @@
         "A": "Nhiễu điều phủ lấy giá gương, người trong một nước phải thương nhau cùng",
         "B": "Tấc đất tấc vàng",
         "C": "Người ta là hoa đất",
-        "D": "Uống nước nhớ người đào giếng"
+        "D": "Uống nước nhớ nguồn"
       },
       "answer": "B",
       "explanation": "'Tấc đất tấc vàng': Mỗi tấc đất đều vô cùng quý giá như vàng vì đem lại nguồn sống cho con người.",
@@ -8844,23 +8811,7 @@
       "explanation": "Nối theo đúng quan hệ nghĩa giữa từng mục ở cột A và cột B.",
       "questionNumber": 493
     },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_2",
-      "level": "CAP_2_VONG_TRUONG",
-      "type": "TN",
-      "questionId": "k2_c2_tn_0283",
-      "question": "Giải câu đố dân gian sau: \"Hoa gì chỉ nở mùa hè / Rực màu đỏ thắm rung rinh trên cành / Gọi ve ca hát rộn ràng / Tuổi thơ cắp sách ngập tràn niềm vui?\"",
-      "options": {
-        "A": "hoa phượng",
-        "B": "hoa cúc",
-        "C": "hoa đào",
-        "D": "hoa mai"
-      },
-      "answer": "A",
-      "explanation": "Hoa phượng vĩ đỏ rực gắn liền với mùa hè và mùa chia tay của tuổi học trò.",
-      "questionNumber": 494
-    },
+    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_2",
@@ -10387,23 +10338,7 @@
       "explanation": "Nối theo đúng quan hệ nghĩa giữa từng mục ở cột A và cột B.",
       "questionNumber": 578
     },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_2",
-      "level": "CAP_2_VONG_TRUONG",
-      "type": "TN",
-      "questionId": "k2_c2_tn_0335",
-      "question": "Giải câu đố dân gian sau: \"Ruột dài từ mũi đến chân / Mũi mòn ruột cũng dần dần mòn theo - Là cái gì?\"",
-      "options": {
-        "A": "cục tẩy",
-        "B": "cái thước",
-        "C": "quyển vở",
-        "D": "bút chì"
-      },
-      "answer": "D",
-      "explanation": "Bút chì có ruột chì than kéo dài từ đầu đến đuôi bút, gọt mũi mòn ruột mòn theo.",
-      "questionNumber": 579
-    },
+  
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_2",
@@ -14937,7 +14872,7 @@
         "4": "Nhiễu điều phủ lấy giá gương"
       },
       "columnB": {
-        "A": "nhớ người đào giếng",
+        "A": "nhớ nguồn",
         "B": "nhớ kẻ trồng cây",
         "C": "người trong một nước phải thương nhau cùng",
         "D": "gian nan thử sức"
@@ -14948,7 +14883,7 @@
         "3": "B",
         "4": "C"
       },
-      "explanation": "Nối đúng các cặp tương ứng: 1-A: Uống nước ~ nhớ người đào giếng; 2-D: Lửa thử vàng ~ gian nan thử sức; 3-B: Ăn quả ~ nhớ kẻ trồng cây; 4-C: Nhiễu điều phủ lấy giá gương ~ người trong một nước phải thương nhau cùng.",
+      "explanation": "Nối đúng các cặp tương ứng: 1-A: Uống nước ~ nhớ nguồn; 2-D: Lửa thử vàng ~ gian nan thử sức; 3-B: Ăn quả ~ nhớ kẻ trồng cây; 4-C: Nhiễu điều phủ lấy giá gương ~ người trong một nước phải thương nhau cùng.",
       "questionNumber": 843
     },
     {
@@ -14968,23 +14903,7 @@
       "explanation": "Từ đúng là “ghế gỗ”; âm đầu gh đứng trước ê.",
       "questionNumber": 844
     },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_2",
-      "level": "CAP_2_VONG_TRUONG",
-      "type": "TN",
-      "questionId": "k2_c2_tn_0479",
-      "question": "Giải câu đố dân gian sau: \"Cây gì cho quả têm trầu / Để cho câu chuyện mở đầu nên duyên?\"",
-      "options": {
-        "A": "cây trầu",
-        "B": "cây vôi",
-        "C": "cây cau",
-        "D": "cây bưởi"
-      },
-      "answer": "C",
-      "explanation": "Cây cau cho quả cau, kết hợp với lá trầu và vôi tạo thành miếng trầu mở đầu câu chuyện.",
-      "questionNumber": 845
-    },
+    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_2",
@@ -14997,8 +14916,8 @@
         "đào giếng",
         "Uống nước"
       ],
-      "answer": "Uống nước nhớ người đào giếng",
-      "explanation": "Câu thành ngữ/tục ngữ đúng là: 'Uống nước nhớ người đào giếng'. Hưởng trái ngọt nhớ công người trồng cây, uống nước mát nhớ ơn người đào giếng.",
+      "answer": "Uống nước nhớ nguồn",
+      "explanation": "Câu thành ngữ/tục ngữ đúng là: 'Uống nước nhớ nguồn'. Hưởng trái ngọt nhớ công người trồng cây, uống nước mát nhớ ơn nguồn.",
       "questionNumber": 846
     },
     {
@@ -17283,11 +17202,11 @@
       "options": {
         "A": "Lá lành đùm lá rách",
         "B": "Đi một ngày đàng học một sàng khôn",
-        "C": "Uống nước nhớ người đào giếng",
+        "C": "Uống nước nhớ nguồn",
         "D": "Lửa thử vàng gian nan thử sức"
       },
       "answer": "C",
-      "explanation": "'Uống nước nhớ người đào giếng': Hưởng trái ngọt nhớ công người trồng cây, uống nước mát nhớ ơn người đào giếng.",
+      "explanation": "'Uống nước nhớ nguồn': Hưởng trái ngọt nhớ công người trồng cây, uống nước mát nhớ ơn nguồn.",
       "questionNumber": 970
     },
     {
@@ -22046,7 +21965,7 @@
         "A": "Uống nước nhớ nguồn",
         "B": "Một con ngựa đau cả tàu bỏ cỏ",
         "C": "Thương người như thể thương thân",
-        "D": "Uống nước nhớ người đào giếng"
+        "D": "Uống nước nhớ nguồn"
       },
       "answer": "B",
       "explanation": "'Một con ngựa đau cả tàu bỏ cỏ': Khi một cá nhân gặp nạn, toàn thể tập thể đều chia sẻ nỗi buồn và tương trợ.",
@@ -23566,7 +23485,7 @@
         "4": "Ăn quả"
       },
       "columnB": {
-        "A": "nhớ người đào giếng",
+        "A": "nhớ nguồn",
         "B": "nhớ kẻ trồng cây",
         "C": "nhớ nguồn",
         "D": "như thể thương thân"
@@ -23577,7 +23496,7 @@
         "3": "A",
         "4": "B"
       },
-      "explanation": "Nối đúng các cặp tương ứng: 1-D: Thương người ~ như thể thương thân; 2-C: Uống nước ~ nhớ nguồn; 3-A: Uống nước ~ nhớ người đào giếng; 4-B: Ăn quả ~ nhớ kẻ trồng cây.",
+      "explanation": "Nối đúng các cặp tương ứng: 1-D: Thương người ~ như thể thương thân; 2-C: Uống nước ~ nhớ nguồn; 3-A: Uống nước ~ nhớ nguồn; 4-B: Ăn quả ~ nhớ kẻ trồng cây.",
       "questionNumber": 1322
     },
     {
@@ -28083,23 +28002,7 @@
       "explanation": "“thấp” trái nghĩa với “cao”.",
       "questionNumber": 1573
     },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_2",
-      "level": "CAP_2_VONG_TRUONG",
-      "type": "TN",
-      "questionId": "k2_c2_tn_0886",
-      "question": "Giải câu đố dân gian sau: \"Con gì mào đỏ gáy vang / Đánh thức trời sáng gọi đàn dậy mau?\"",
-      "options": {
-        "A": "con gà trống",
-        "B": "con chim sẻ",
-        "C": "con vịt bầu",
-        "D": "con chim bồ câu"
-      },
-      "answer": "A",
-      "explanation": "Gà trống có mào đỏ tươi và cất tiếng gáy 'ò ó o' đánh thức bình minh.",
-      "questionNumber": 1574
-    },
+    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_2",
@@ -28234,23 +28137,7 @@
       "explanation": "G1 là từ chỉ sự vật; G2 là từ chỉ hoạt động; G3 là từ chỉ đặc điểm.",
       "questionNumber": 1581
     },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_2",
-      "level": "CAP_2_VONG_TRUONG",
-      "type": "TN",
-      "questionId": "k2_c2_tn_0892",
-      "question": "Giải câu đố dân gian sau: \"Để nguyên lấp lánh trời đêm / Bỏ đầu thành chỗ cho đàn cá bơi - Là chữ gì?\"",
-      "options": {
-        "A": "trăng",
-        "B": "bút",
-        "C": "sao",
-        "D": "mây"
-      },
-      "answer": "C",
-      "explanation": "Chữ 'sao' lấp lánh trời đêm, bỏ đầu thành 'ao' .",
-      "questionNumber": 1582
-    },
+    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_2",
@@ -28413,7 +28300,7 @@
       "options": {
         "A": "Lửa thử vàng gian nan thử sức",
         "B": "Đói cho sạch rách cho thơm",
-        "C": "Uống nước nhớ người đào giếng",
+        "C": "Uống nước nhớ nguồn",
         "D": "Người ta là hoa đất"
       },
       "answer": "D",
@@ -30423,7 +30310,7 @@
       "columnB": {
         "A": "ba cây chụm lại nên hòn núi cao",
         "B": "rách cho thơm",
-        "C": "nhớ người đào giếng",
+        "C": "nhớ nguồn",
         "D": "người có tông"
       },
       "answer": {
@@ -30432,7 +30319,7 @@
         "3": "B",
         "4": "A"
       },
-      "explanation": "Nối đúng các cặp tương ứng: 1-C: Uống nước ~ nhớ người đào giếng; 2-D: Chim có tổ ~ người có tông; 3-B: Đói cho sạch ~ rách cho thơm; 4-A: Một cây làm chẳng nên non ~ ba cây chụm lại nên hòn núi cao.",
+      "explanation": "Nối đúng các cặp tương ứng: 1-C: Uống nước ~ nhớ nguồn; 2-D: Chim có tổ ~ người có tông; 3-B: Đói cho sạch ~ rách cho thơm; 4-A: Một cây làm chẳng nên non ~ ba cây chụm lại nên hòn núi cao.",
       "questionNumber": 1703
     },
     {
@@ -32515,23 +32402,7 @@
       "explanation": "Bộ phận “Cô giáo” trả lời cho câu hỏi “Ai?” trong câu đã cho.",
       "questionNumber": 1819
     },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_2",
-      "level": "CAP_2_VONG_TRUONG",
-      "type": "TN",
-      "questionId": "k2_c2_tn_1018",
-      "question": "Giải câu đố dân gian sau: \"Cày trên đồng ruộng trắng phau / Khát xuống uống nước giếng sâu đen ngòm - Là hành động gì?\"",
-      "options": {
-        "A": "cày ruộng thật",
-        "B": "đóng dấu đỏ",
-        "C": "viết bút mực trên giấy",
-        "D": "vẽ tranh sơn dầu"
-      },
-      "answer": "C",
-      "explanation": "Ngòi bút cày trên trang giấy trắng phau, chấm mực trong lọ mực đen ngòm.",
-      "questionNumber": 1820
-    },
+    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_2",
@@ -34001,7 +33872,7 @@
       "questionId": "k2_c2_tn_1074",
       "question": "Câu tục ngữ, thành ngữ nào dưới đây thể hiện phẩm chất hoặc bài học về 'Ý chí, bản lĩnh'?",
       "options": {
-        "A": "Uống nước nhớ người đào giếng",
+        "A": "Uống nước nhớ nguồn",
         "B": "Ăn quả nhớ kẻ trồng cây",
         "C": "Chớ thấy sóng cả mà ngã tay chèo",
         "D": "Đói cho sạch rách cho thơm"
@@ -35725,6 +35596,856 @@
       "answer": "D",
       "explanation": "“Rực rỡ” viết với r.",
       "questionNumber": 2000
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_2",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k2_c2_tn_1135",
+      "question": "Giải câu đố về nghề nghiệp sau:\n\"Ai người may áo mới tinh\nCho em diện đẹp rạng ngời đến trường?\nLà ai?\"",
+      "options": {
+        "A": "Cô thợ may",
+        "B": "Cô giáo",
+        "C": "Bác nông dân",
+        "D": "Bác sĩ"
+      },
+      "answer": "A",
+      "explanation": "Cô thợ may cắt vải, khâu chỉ tạo nên những bộ quần áo mới đẹp đẽ cho em.",
+      "questionNumber": 2001
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_2",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k2_c2_tn_1136",
+      "question": "Giải câu đố chữ sau:\n\"Để nguyên đồ chơi lăn tròn\nThêm huyền gửi thư tới tận phương xa.\nĐó là các chữ nào?\"",
+      "options": {
+        "A": "Ti - tì",
+        "B": "Bi - bì",
+        "C": "Di - dì",
+        "D": "Mi - mì"
+      },
+      "answer": "B",
+      "explanation": "Viên 'bi' tròn; thêm huyền 'bì' thư gửi bưu điện.",
+      "questionNumber": 2002
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_2",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k2_c2_tn_1137",
+      "question": "Giải câu đố đồ dùng học tập sau:\n\"Thân gỗ ruột chì thẳng ngay\nGiúp em nắn nót viết bài trang thơ?\nLà cái gì?\"",
+      "options": {
+        "A": "Cục tẩy",
+        "B": "Cây kéo",
+        "C": "Cây bút chì",
+        "D": "Cái thước"
+      },
+      "answer": "C",
+      "explanation": "Cây bút chì vỏ gỗ ruột chì giúp em tập viết và vẽ hình ban đầu.",
+      "questionNumber": 2003
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_2",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k2_c2_tn_1138",
+      "question": "Giải câu đố cơ thể sau:\n\"Hai cửa sổ nhỏ trên mặt\nKhép lại ngủ say mở ra ngắm trời?\nĐó là bộ phận nào của em?\"",
+      "options": {
+        "A": "Đôi tai",
+        "B": "Cái mũi",
+        "C": "Cái miệng",
+        "D": "Đôi mắt"
+      },
+      "answer": "D",
+      "explanation": "Đôi mắt giúp em nhìn ngắm vạn vật và khép lại khi ngủ.",
+      "questionNumber": 2004
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_2",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k2_c2_tn_1139",
+      "question": "Giải câu đố về nghề nghiệp sau:\n\"Ai người cặm cụi ngoài vườn\nTưới hoa bắt sâu cho cây xanh tươi?\nLà ai?\"",
+      "options": {
+        "A": "Chú thợ xây",
+        "B": "Bác làm vườn",
+        "C": "Bác tài xế",
+        "D": "Chú thợ điện"
+      },
+      "answer": "B",
+      "explanation": "Bác làm vườn chăm sóc hoa, tưới cây và bắt sâu giúp khu vườn luôn xanh tốt.",
+      "questionNumber": 2005
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_2",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k2_c2_tn_1140",
+      "question": "Giải câu đố chữ sau:\n\"Để nguyên cài tóc bé xinh\nThêm hỏi hoa thắm rạng ngời đón xuân.\nĐó là các chữ nào?\"",
+      "options": {
+        "A": "Bơ - bở",
+        "B": "Mơ - mở",
+        "C": "Nơ - nở",
+        "D": "Tơ - tở"
+      },
+      "answer": "C",
+      "explanation": "Chiếc 'nơ' cài tóc; thêm hỏi hoa 'nở' đón chào mùa xuân.",
+      "questionNumber": 2006
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_2",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k2_c2_tn_1141",
+      "question": "Giải câu đố đồ dùng học tập sau:\n\"Bằng nhựa kẻ nét thẳng băng\nGiúp em gạch dưới bài làm điểm mười?\nLà cái gì?\"",
+      "options": {
+        "A": "Cục tẩy",
+        "B": "Cái compa",
+        "C": "Hộp bút",
+        "D": "Cây thước kẻ"
+      },
+      "answer": "D",
+      "explanation": "Cây thước kẻ thẳng giúp học sinh kẻ nét thẳng tắp trong vở.",
+      "questionNumber": 2007
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_2",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k2_c2_tn_1142",
+      "question": "Giải câu đố cơ thể sau:\n\"Hai chiếc lá nhỏ bên đầu\nLắng nghe cô giáo giảng bài từng câu?\nĐó là bộ phận nào của em?\"",
+      "options": {
+        "A": "Đôi tai",
+        "B": "Đôi mắt",
+        "C": "Cái cằm",
+        "D": "Cái mũi"
+      },
+      "answer": "A",
+      "explanation": "Đôi tai ở hai bên đầu giúp em lắng nghe âm thanh và lời cô giảng.",
+      "questionNumber": 2008
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_2",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k2_c2_tn_1143",
+      "question": "Giải câu đố về nghề nghiệp sau:\n\"Ai lái xe buýt sớm chiều\nĐón đưa hành khách an toàn muôn nơi?\nLà ai?\"",
+      "options": {
+        "A": "Chú thợ mộc",
+        "B": "Bác bảo vệ",
+        "C": "Bác tài xế (người lái xe)",
+        "D": "Cô bán hàng"
+      },
+      "answer": "C",
+      "explanation": "Bác tài xế điều khiển xe buýt an toàn để đưa đón hành khách đi lại.",
+      "questionNumber": 2009
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_2",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k2_c2_tn_1144",
+      "question": "Giải câu đố chữ sau:\n\"Để nguyên bước chân ra đường\nThêm huyền rà soát kiểm tra bài làm.\nĐó là các chữ nào?\"",
+      "options": {
+        "A": "Ba - bà",
+        "B": "Ca - cà",
+        "C": "La - là",
+        "D": "Ra - rà"
+      },
+      "answer": "D",
+      "explanation": "Bước 'ra' đường; thêm huyền 'rà' soát bài vở.",
+      "questionNumber": 2010
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_2",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k2_c2_tn_1145",
+      "question": "Giải câu đố đồ dùng học tập sau:\n\"Cao su mềm dẻo trắng ngần\nXóa tan nét vẽ gạch sai trên tờ?\nLà cái gì?\"",
+      "options": {
+        "A": "Cục tẩy (gôm tẩy)",
+        "B": "Cây thước",
+        "C": "Cái compa",
+        "D": "Chiếc kéo"
+      },
+      "answer": "A",
+      "explanation": "Cục tẩy cao su giúp tẩy sạch nét chì vẽ nhầm.",
+      "questionNumber": 2011
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_2",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k2_c2_tn_1146",
+      "question": "Giải câu đố cơ thể sau:\n\"Mười ngón xinh xắn mười hoa\nGiúp em cầm bút viết bài điểm mười?\nĐó là bộ phận nào của bé?\"",
+      "options": {
+        "A": "Hai bàn chân",
+        "B": "Hai bàn tay",
+        "C": "Đôi vai",
+        "D": "Khuỷu tay"
+      },
+      "answer": "B",
+      "explanation": "Đôi bàn tay có mười ngón tay khéo léo cầm bút viết bài và làm việc.",
+      "questionNumber": 2012
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_2",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k2_c2_tn_1147",
+      "question": "Giải câu đố về nghề nghiệp sau:\n\"Ai xây trường lớp khang trang\nNgôi nhà mái đỏ thẳng hàng đẹp tươi?\nLà ai?\"",
+      "options": {
+        "A": "Bác thợ rèn",
+        "B": "Chú thợ may",
+        "C": "Bác nông dân",
+        "D": "Chú thợ xây"
+      },
+      "answer": "D",
+      "explanation": "Chú thợ xây xây gạch, trát vữa dựng nên những ngôi nhà và trường học đẹp đẽ.",
+      "questionNumber": 2013
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_2",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k2_c2_tn_1148",
+      "question": "Giải câu đố chữ sau:\n\"Để nguyên chân bước nhẹ nhàng\nThêm huyền đầm nước bùn lầy đồng quê.\nĐó là các chữ nào?\"",
+      "options": {
+        "A": "Đi - đì",
+        "B": "Ti - tì",
+        "C": "Bi - bì",
+        "D": "Chi - chì"
+      },
+      "answer": "A",
+      "explanation": "'Đi' dạo; thêm huyền 'đì' bõm bước dưới bùn.",
+      "questionNumber": 2014
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_2",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k2_c2_tn_1149",
+      "question": "Giải câu đố đồ chơi sau:\n\"Hình tròn bằng da căng tròn\nCùng bạn chuyền bóng đá trên sân trường?\nLà gì?\"",
+      "options": {
+        "A": "Cây vợt",
+        "B": "Quả bóng đá",
+        "C": "Viên bi",
+        "D": "Chiếc diều"
+      },
+      "answer": "B",
+      "explanation": "Quả bóng đá để các bạn nhỏ cùng chơi đá bóng rèn luyện sức khỏe.",
+      "questionNumber": 2015
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_2",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k2_c2_tn_1150",
+      "question": "Giải câu đố mẹo sau:\n\"Em bước nó cũng bước theo\nEm dừng nó cũng dừng chân bên mình?\nĐó là cái gì?\"",
+      "options": {
+        "A": "Đôi dép",
+        "B": "Chiếc cặp sách",
+        "C": "Cái bóng của em",
+        "D": "Cơn gió"
+      },
+      "answer": "C",
+      "explanation": "Cái bóng in trên mặt đất đi theo từng bước chân của em.",
+      "questionNumber": 2016
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_2",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k2_c2_tn_1151",
+      "question": "Giải câu đố về nghề nghiệp sau:\n\"Ai cất tiếng hát ngọt ngào\nTrên sân khấu lớn đón chào em thơ?\nLà ai?\"",
+      "options": {
+        "A": "Cô ca sĩ",
+        "B": "Cô giáo",
+        "C": "Bác làm vườn",
+        "D": "Cô y tá"
+      },
+      "answer": "A",
+      "explanation": "Ca sĩ biểu diễn các bài hát hay đem lại niềm vui và giai điệu ngọt ngào cho mọi người.",
+      "questionNumber": 2017
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_2",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k2_c2_tn_1152",
+      "question": "Giải câu đố chữ sau:\n\"Để nguyên hạt đỗ nấu xôi\nThêm sắc câu hỏi bạn bè cùng vui.\nĐó là các chữ nào?\"",
+      "options": {
+        "A": "Bố - bổ",
+        "B": "Đỗ - đố",
+        "C": "Gỗ - gố",
+        "D": "Mỗ - mố"
+      },
+      "answer": "B",
+      "explanation": "Hạt 'đỗ' nấu xôi; thêm sắc câu 'đố' vui.",
+      "questionNumber": 2018
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_2",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k2_c2_tn_1153",
+      "question": "Giải câu đố sân chơi sau:\n\"Hai sợi dây xích đu bay\nBé ngồi lên ngắm mây trời đung đưa?\nLà gì?\"",
+      "options": {
+        "A": "Cầu trượt",
+        "B": "Bập bênh",
+        "C": "Chiếc xích đu",
+        "D": "Cột cờ"
+      },
+      "answer": "C",
+      "explanation": "Xích đu đung đưa nhịp nhàng là trò chơi rất vui ở sân trường.",
+      "questionNumber": 2019
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_2",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k2_c2_tn_1154",
+      "question": "Giải câu đố đồ vật sau:\n\"Mặt tròn có hai kim chạy\nNhắc em thức dậy đón ngày mới sang?\nLà cái gì?\"",
+      "options": {
+        "A": "Chiếc gương",
+        "B": "Cái quạt",
+        "C": "Cái bàn",
+        "D": "Chiếc đồng hồ"
+      },
+      "answer": "D",
+      "explanation": "Đồng hồ có kim chạy chỉ giờ giấc giúp em sinh hoạt đúng giờ.",
+      "questionNumber": 2020
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_2",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k2_c2_tn_1155",
+      "question": "Giải câu đố về nghề nghiệp sau:\n\"Ai vẽ tranh đẹp muôn màu\nBức tranh phong cảnh sắc màu lung linh?\nLà ai?\"",
+      "options": {
+        "A": "Chú thợ điện",
+        "B": "Chú họa sĩ",
+        "C": "Bác bảo vệ",
+        "D": "Bác tài xế"
+      },
+      "answer": "B",
+      "explanation": "Họa sĩ dùng cọ và màu vẽ để vẽ nên những bức tranh phong cảnh rực rỡ.",
+      "questionNumber": 2021
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_2",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k2_c2_tn_1156",
+      "question": "Giải câu đố chữ sau:\n\"Để nguyên cất áo vào trong\nBỏ hỏi giam giữ kẻ gian hại người.\nĐó là các chữ nào?\"",
+      "options": {
+        "A": "Củ - cù",
+        "B": "Lủ - lù",
+        "C": "Tủ - tù",
+        "D": "Mủ - mù"
+      },
+      "answer": "C",
+      "explanation": "Chiếc 'tủ' đựng áo; bỏ hỏi nhà 'tù'.",
+      "questionNumber": 2022
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_2",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k2_c2_tn_1157",
+      "question": "Giải câu đố đồ dùng vệ sinh sau:\n\"Lông mềm kem đánh trắng tinh\nSớm tối chải răng sạch thơm nụ cười?\nLà cái gì?\"",
+      "options": {
+        "A": "Cái lược",
+        "B": "Khăn mặt",
+        "C": "Bánh xà phòng",
+        "D": "Bàn chải đánh răng"
+      },
+      "answer": "D",
+      "explanation": "Bàn chải đánh răng giúp chải sạch răng miệng trắng bóng thơm tho.",
+      "questionNumber": 2023
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_2",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k2_c2_tn_1158",
+      "question": "Giải câu đố đồ vật sau:\n\"Thân em trắng muốt thẳng ngay\nCàng cháy ngọn lửa càng lùn ngắn đi?\nĐó là đồ vật gì?\"",
+      "options": {
+        "A": "Cây nến",
+        "B": "Cây thước kẻ",
+        "C": "Cây bút chì",
+        "D": "Cái đèn pin"
+      },
+      "answer": "A",
+      "explanation": "Cây nến khi cháy sáp tan chảy làm nến ngắn dần lại.",
+      "questionNumber": 2024
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_2",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k2_c2_tn_1159",
+      "question": "Giải câu đố về nghề nghiệp sau:\n\"Ai làm ra chiếc bánh ngon\nBánh mì nóng hổi giòn tan thơm lừng?\nLà ai?\"",
+      "options": {
+        "A": "Bác thợ mộc",
+        "B": "Cô thợ may",
+        "C": "Bác thợ làm bánh",
+        "D": "Chú công an"
+      },
+      "answer": "C",
+      "explanation": "Bác thợ làm bánh nhào bột nướng bánh mì thơm ngon phục vụ bữa ăn.",
+      "questionNumber": 2025
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_2",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k2_c2_tn_1160",
+      "question": "Giải câu đố chữ sau:\n\"Để nguyên bay bổng trời cao\nThêm huyền học tập bao điều điều hay.\nĐó là các chữ nào?\"",
+      "options": {
+        "A": "Chiếu - chiều",
+        "B": "Kiệu - kiều",
+        "C": "Niêu - niều",
+        "D": "Diều - điều"
+      },
+      "answer": "D",
+      "explanation": "Cánh 'diều' bay cao; thêm huyền bao 'điều' hay.",
+      "questionNumber": 2026
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_2",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k2_c2_tn_1161",
+      "question": "Giải câu đố loài quả sau:\n\"Vỏ xanh ruột đỏ hạt đen\nĂn vào ngọt mát xua tan nắng hè?\nLà quả gì?\"",
+      "options": {
+        "A": "Quả dưa hấu",
+        "B": "Quả cam",
+        "C": "Quả xoài",
+        "D": "Quả chuối"
+      },
+      "answer": "A",
+      "explanation": "Quả dưa hấu ruột đỏ mọng nước giải nhiệt ngày hè rất ngon.",
+      "questionNumber": 2027
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_2",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k2_c2_tn_1162",
+      "question": "Giải câu đố đồ vật sau:\n\"Soi vào thấy mặt của mình\nCười tươi một cái bạn cười lại ngay?\nLà cái gì?\"",
+      "options": {
+        "A": "Mặt nước ao",
+        "B": "Chiếc gương soi",
+        "C": "Màn hình ti vi",
+        "D": "Cánh cửa"
+      },
+      "answer": "B",
+      "explanation": "Chiếc gương phẳng phản chiếu hình ảnh khuôn mặt tươi cười của em.",
+      "questionNumber": 2028
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_2",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k2_c2_tn_1163",
+      "question": "Giải câu đố về nghề nghiệp sau:\n\"Ai chải tóc cắt tóc êm\nCho đầu em đẹp gọn gàng sáng trưng?\nLà ai?\"",
+      "options": {
+        "A": "Bác nông dân",
+        "B": "Chú thợ xây",
+        "C": "Bác tài xế",
+        "D": "Chú thợ cắt tóc"
+      },
+      "answer": "D",
+      "explanation": "Thợ cắt tóc giúp em cắt tỉa mái tóc gọn gàng và sạch đẹp.",
+      "questionNumber": 2029
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_2",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k2_c2_tn_1164",
+      "question": "Giải câu đố chữ sau:\n\"Để nguyên quả cam mọng lành\nThêm sắc hạt cám nuôi bầy lợn con.\nĐó là các chữ nào?\"",
+      "options": {
+        "A": "Cam - cám",
+        "B": "Lam - lám",
+        "C": "Tam - tám",
+        "D": "Nam - nám"
+      },
+      "answer": "A",
+      "explanation": "Quả 'cam' mọng nước; thêm sắc hạt 'cám' nuôi lợn con.",
+      "questionNumber": 2030
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_2",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k2_c2_tn_1165",
+      "question": "Giải câu đố loài quả sau:\n\"Quả cong vàng óng ngọt ngào\nBóc vỏ thơm lừng bé ăn ngon lành?\nLà quả gì?\"",
+      "options": {
+        "A": "Quả chanh",
+        "B": "Quả chuối chín",
+        "C": "Quả ổi",
+        "D": "Quả na"
+      },
+      "answer": "B",
+      "explanation": "Quả chuối chín vàng ngọt bùi và rất giàu dinh dưỡng.",
+      "questionNumber": 2031
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_2",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k2_c2_tn_1166",
+      "question": "Giải câu đố đồ gia dụng sau:\n\"Chạy bằng điện mát cả phòng\nBa cánh quay tít gió lùa trưa hè?\nLà đồ vật gì?\"",
+      "options": {
+        "A": "Nồi cơm điện",
+        "B": "Chiếc ti vi",
+        "C": "Cái quạt điện",
+        "D": "Cái tủ lạnh"
+      },
+      "answer": "C",
+      "explanation": "Quạt điện có cánh quạt quay tạo gió mát xua tan cái nóng mùa hè.",
+      "questionNumber": 2032
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_2",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k2_c2_tn_1167",
+      "question": "Giải câu đố về người thân sau:\n\"Ai giúp mẹ trông nom em\nCho em ăn ngủ ấm êm mỗi ngày?\nLà ai trong gia đình?\"",
+      "options": {
+        "A": "Người chị (hoặc người anh)",
+        "B": "Cô hàng xóm",
+        "C": "Bác bảo vệ",
+        "D": "Chú tài xế"
+      },
+      "answer": "A",
+      "explanation": "Anh chị trong nhà luôn yêu thương, trông nom và dỗ dành em nhỏ giúp bố mẹ.",
+      "questionNumber": 2033
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_2",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k2_c2_tn_1168",
+      "question": "Giải câu đố chữ sau:\n\"Để nguyên bông hoa ngát hương\nThêm sắc biến thành phép lạ thần tiên.\nĐó là các chữ nào?\"",
+      "options": {
+        "A": "Cây - cấy",
+        "B": "Hoa - hóa",
+        "C": "Lá - lả",
+        "D": "Cành - cánh"
+      },
+      "answer": "B",
+      "explanation": "Bông 'hoa' thơm ngát; thêm sắc biến 'hóa' kỳ diệu.",
+      "questionNumber": 2034
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_2",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k2_c2_tn_1169",
+      "question": "Giải câu đố loài củ sau:\n\"Củ gì màu cam nhọn đầu\nThỏ trắng thích gặm suốt ngày chẳng ngơi?\nLà củ gì?\"",
+      "options": {
+        "A": "Củ khoai lang",
+        "B": "Củ sắn",
+        "C": "Củ cà rốt",
+        "D": "Củ su hào"
+      },
+      "answer": "C",
+      "explanation": "Củ cà rốt màu cam tươi là món ăn yêu thích của chú thỏ.",
+      "questionNumber": 2035
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_2",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k2_c2_tn_1170",
+      "question": "Giải câu đố đồ dùng mùa đông sau:\n\"Mùa đông mẹ đắp ấm lòng\nGiúp em ngon giấc mơ màng giấc mơ?\nLà đồ vật gì?\"",
+      "options": {
+        "A": "Chiếc chiếu cói",
+        "B": "Cái gối ôm",
+        "C": "Tấm rèm cửa",
+        "D": "Chiếc chăn bông"
+      },
+      "answer": "D",
+      "explanation": "Chiếc chăn bông giữ ấm cho em giấc ngủ ngon trong mùa đông.",
+      "questionNumber": 2036
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_2",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k2_c2_tn_1171",
+      "question": "Giải câu đố thể thao sau:\n\"Ai tập thể thao sớm ngày\nSút bóng vào lưới bạn bè reo vang?\nLà ai?\"",
+      "options": {
+        "A": "Bác thợ mộc",
+        "B": "Cầu thủ bóng đá",
+        "C": "Chú thợ xây",
+        "D": "Bác tài xế"
+      },
+      "answer": "B",
+      "explanation": "Cầu thủ bóng đá thi đấu trên sân cỏ, sút bóng vào khung thành đem lại chiến thắng.",
+      "questionNumber": 2037
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_2",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k2_c2_tn_1172",
+      "question": "Giải câu đố chữ sau:\n\"Để nguyên quả thơm béo ngậy\nThêm huyền bờ đất ngăn dòng nước dâng.\nĐó là các chữ nào?\"",
+      "options": {
+        "A": "Cơ - cờ",
+        "B": "Mơ - mờ",
+        "C": "Bơ - bờ",
+        "D": "Tơ - tờ"
+      },
+      "answer": "C",
+      "explanation": "Quả 'bơ' bổ dưỡng; thêm huyền 'bờ' đê ngăn nước.",
+      "questionNumber": 2038
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_2",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k2_c2_tn_1173",
+      "question": "Giải câu đố con vật sau:\n\"Mào đỏ gáy sáng vang rền\nĐánh thức mọi người thức dậy ban mai?\nLà con gì?\"",
+      "options": {
+        "A": "Con vịt",
+        "B": "Con chim sẻ",
+        "C": "Con ngỗng",
+        "D": "Con gà trống"
+      },
+      "answer": "D",
+      "explanation": "Con gà trống gáy vang đánh thức mọi người thức dậy đón ngày mới.",
+      "questionNumber": 2039
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_2",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k2_c2_tn_1174",
+      "question": "Giải câu đố thiên nhiên sau:\n\"Sáng sớm mọc ở hướng đông\nChiều tà lặn xuống phương tây nghỉ ngơi?\nĐó là gì?\"",
+      "options": {
+        "A": "Mặt trời",
+        "B": "Mặt trăng",
+        "C": "Đám mây",
+        "D": "Ngôi sao"
+      },
+      "answer": "A",
+      "explanation": "Mặt trời mọc ở hướng đông sưởi ấm ban ngày và lặn ở hướng tây.",
+      "questionNumber": 2040
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_2",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k2_c2_tn_1175",
+      "question": "Giải câu đố về nghề nghiệp sau:\n\"Ai thổi còi giữ trật tự\nBắt kẻ gian tà bảo vệ bình yên?\nLà ai?\"",
+      "options": {
+        "A": "Bác nông dân",
+        "B": "Chú thợ may",
+        "C": "Chú công an",
+        "D": "Bác làm vườn"
+      },
+      "answer": "C",
+      "explanation": "Chú công an giữ gìn an ninh trật tự và bảo vệ sự bình yên cho nhân dân.",
+      "questionNumber": 2041
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_2",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k2_c2_tn_1176",
+      "question": "Giải câu đố chữ sau:\n\"Để nguyên chú bò ăn cỏ\nThêm hỏi cất dọn đồ chơi vào ngăn.\nĐó là các chữ nào?\"",
+      "options": {
+        "A": "Cò - cỏ",
+        "B": "Vò - vỏ",
+        "C": "Gò - gỏ",
+        "D": "Bò - bỏ"
+      },
+      "answer": "D",
+      "explanation": "Con 'bò' gặm cỏ; thêm hỏi 'bỏ' đồ chơi vào giỏ.",
+      "questionNumber": 2042
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_2",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k2_c2_tn_1177",
+      "question": "Giải câu đố con vật sau:\n\"Kêu tiếng meo meo nũng nịu\nBắt chuột cực tài mắt sáng trong đêm?\nLà con gì?\"",
+      "options": {
+        "A": "Con mèo",
+        "B": "Con thỏ",
+        "C": "Con chó",
+        "D": "Con lợn"
+      },
+      "answer": "A",
+      "explanation": "Con mèo kêu meo meo, mắt sáng tinh tường bắt chuột rất giỏi.",
+      "questionNumber": 2043
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_2",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k2_c2_tn_1178",
+      "question": "Giải câu đố thiên nhiên sau:\n\"Đêm rằm tròn tựa cái mâm\nTỏa ánh sáng vàng soi sáng sân chơi?\nĐó là vầng gì?\"",
+      "options": {
+        "A": "Mặt trời",
+        "B": "Vầng trăng rằm",
+        "C": "Đèn đường",
+        "D": "Ngôi sao"
+      },
+      "answer": "B",
+      "explanation": "Trăng rằm tròn vành vạnh tỏa ánh sáng dịu mát trong đêm Trung thu.",
+      "questionNumber": 2044
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_2",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k2_c2_tn_1179",
+      "question": "Giải câu đố về nghề nghiệp sau:\n\"Ai khám và nhổ răng sâu\nDạy em đánh răng sớm chiều sạch thơm?\nLà ai?\"",
+      "options": {
+        "A": "Bác thợ may",
+        "B": "Chú thợ mộc",
+        "C": "Bác bảo vệ",
+        "D": "Bác sĩ nha khoa (bác sĩ răng)"
+      },
+      "answer": "D",
+      "explanation": "Bác sĩ nha khoa khám chữa răng và hướng dẫn bé chăm sóc răng miệng đúng cách.",
+      "questionNumber": 2045
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_2",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k2_c2_tn_1180",
+      "question": "Giải câu đố chữ sau:\n\"Để nguyên hòn đá xây nhà\nBỏ sắc thêm huyền đà tiến nhảy xa.\nĐó là các chữ nào?\"",
+      "options": {
+        "A": "Đá - đà",
+        "B": "Lá - là",
+        "C": "Cá - cà",
+        "D": "Má - mà"
+      },
+      "answer": "A",
+      "explanation": "Hòn 'đá' xây nhà; thêm huyền tạo 'đà' nhảy xa.",
+      "questionNumber": 2046
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_2",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k2_c2_tn_1181",
+      "question": "Giải câu đố con vật sau:\n\"Vẫy đuôi mừng rỡ đón em\nĐêm ngày chăm chỉ giữ nhà bình yên?\nLà con gì?\"",
+      "options": {
+        "A": "Con mèo",
+        "B": "Con chó",
+        "C": "Con gà",
+        "D": "Con trâu"
+      },
+      "answer": "B",
+      "explanation": "Con chó trung thành trông nhà bảo vệ gia đình.",
+      "questionNumber": 2047
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_2",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k2_c2_tn_1182",
+      "question": "Giải câu đố thiên nhiên sau:\n\"Sau cơn mưa rào hiện lên\nBảy màu rực rỡ uốn cong lưng trời?\nĐó là gì?\"",
+      "options": {
+        "A": "Cầu tre",
+        "B": "Cầu sắt",
+        "C": "Cầu vồng",
+        "D": "Cầu phao"
+      },
+      "answer": "C",
+      "explanation": "Cầu vồng bảy sắc xuất hiện rực rỡ trên bầu trời sau cơn mưa.",
+      "questionNumber": 2048
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_2",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k2_c2_tn_1183",
+      "question": "Giải câu đố sau:\n\"Ai dạy các bé múa ca\nKể chuyện cổ tích như người mẹ hiền?\nLà ai?\"",
+      "options": {
+        "A": "Cô giáo mầm non",
+        "B": "Bác làm vườn",
+        "C": "Chú thợ điện",
+        "D": "Bác tài xế"
+      },
+      "answer": "A",
+      "explanation": "Cô giáo mầm non chăm sóc và dạy các bé múa hát, vui chơi ngoan ngoãn.",
+      "questionNumber": 2049
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_2",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k2_c2_tn_1184",
+      "question": "Giải câu đố chữ sau:\n\"Để nguyên lấp lánh trời đêm\nThêm huyền phơi áo trước thềm gió bay.\nĐó là các chữ nào?\"",
+      "options": {
+        "A": "Mây - mầy",
+        "B": "Sao - sào",
+        "C": "Trăng - trằng",
+        "D": "Nắng - nằng"
+      },
+      "answer": "B",
+      "explanation": "Để nguyên là ngôi sao lấp lánh trên bầu trời đêm; thêm dấu huyền thành cây sào dùng phơi quần áo.",
+      "questionNumber": 2050
     }
   ]
 }

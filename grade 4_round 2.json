@@ -4,13 +4,13 @@
   "level": "CAP_2_VONG_TRUONG",
   "startSeq": 1,
   "seqMode": "CONTINUOUS",
-  "totalQuestions": 467,
+  "totalQuestions": 2578,
   "typeDistribution": {
-    "TN": 174,
-    "SX": 33,
-    "NOI": 65,
-    "DT": 150,
-    "CHON": 45
+    "TN": 1485,
+    "SX": 183,
+    "NOI": 215,
+    "DT": 550,
+    "CHON": 145
   },
   "knowledgeSource": "kien thuc gioi han.md + Nội dung nhập trực tiếp",
   "knowledgeReport": {
@@ -331,23 +331,6 @@
       "grade": "KHOI_4",
       "level": "CAP_2_VONG_TRUONG",
       "type": "TN",
-      "questionId": "k4_c2_tn_017",
-      "question": "Giải câu đố dân gian sau:\n\"Để nguyên lấp lánh trên trời / Bớt đầu thành quả ngọt bùi thơm ngon - Là chữ gì?\"",
-      "options": {
-        "A": "mây",
-        "B": "sao",
-        "C": "trăng",
-        "D": "ngôi"
-      },
-      "answer": "B",
-      "explanation": "Chữ 'sao', bỏ chữ cái đầu 's' được chữ 'ao' (hoặc sao -> ao cá, táo -> áo).",
-      "questionNumber": 17
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_2_VONG_TRUONG",
-      "type": "TN",
       "questionId": "k4_c2_tn_018",
       "question": "Từ ngữ nào dưới đây viết đúng quy tắc chính tả tiếng Việt?",
       "options": {
@@ -359,23 +342,6 @@
       "answer": "A",
       "explanation": "'trong xanh' là từ viết đúng chính tả. Các phương án còn lại bị viết sai phụ âm đầu hoặc dấu thanh.",
       "questionNumber": 18
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_2_VONG_TRUONG",
-      "type": "TN",
-      "questionId": "k4_c2_tn_019",
-      "question": "Giải câu đố dân gian sau:\n\"Cây gì cho quả têm trầu / Để cho câu chuyện mở đầu nên duyên?\"",
-      "options": {
-        "A": "cây bưởi",
-        "B": "cây cau",
-        "C": "cây vôi",
-        "D": "cây trầu"
-      },
-      "answer": "B",
-      "explanation": "Cây cau cho quả cau, kết hợp với lá trầu và vôi tạo thành miếng trầu mở đầu câu chuyện.",
-      "questionNumber": 19
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -569,23 +535,6 @@
       "grade": "KHOI_4",
       "level": "CAP_2_VONG_TRUONG",
       "type": "TN",
-      "questionId": "k4_c2_tn_031",
-      "question": "Giải câu đố dân gian sau:\n\"Quả gì nhiều mắt xung quanh / Khi chín nứt nở thơm lành khắp nơi / Cơm trắng thơm ngọt bùi bùi / Em đem dâng biếu ông bà kính yêu?\"",
-      "options": {
-        "A": "quả na",
-        "B": "quả chuối",
-        "C": "quả mít",
-        "D": "quả bưởi"
-      },
-      "answer": "A",
-      "explanation": "Quả na (mãng cầu ta) vỏ có nhiều mắt mở to khi chín, thịt màu trắng ngọt ngào.",
-      "questionNumber": 31
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_2_VONG_TRUONG",
-      "type": "TN",
       "questionId": "k4_c2_tn_032",
       "question": "Điền từ còn thiếu để hoàn thiện câu thành ngữ/tục ngữ sau: \"Lên thác xuống (...)\"",
       "options": {
@@ -597,23 +546,6 @@
       "answer": "B",
       "explanation": "Thành ngữ, tục ngữ chuẩn trong tài liệu ôn tập: 'Lên thác xuống gềnh'.",
       "questionNumber": 32
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_2_VONG_TRUONG",
-      "type": "TN",
-      "questionId": "k4_c2_tn_033",
-      "question": "Giải câu đố dân gian sau:\n\"Mình tròn lưng nở phập phồng / Đứng ngoài cửa lớp trông nom học trò / Hễ ai đi học đúng giờ / Nghe em thúc giục: Tùng... tùng... vào mau! - Là cái gì?\"",
-      "options": {
-        "A": "cái bảng",
-        "B": "cái trống trường",
-        "C": "cái kẻng",
-        "D": "chiếc chuông"
-      },
-      "answer": "B",
-      "explanation": "Trống trường hình trụ tròn, phát ra tiếng 'tùng... tùng...' báo hiệu giờ học.",
-      "questionNumber": 33
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -760,7 +692,7 @@
       "question": "Câu tục ngữ, thành ngữ nào dưới đây thể hiện phẩm chất hoặc bài học về 'Tương thân tương ái'?",
       "options": {
         "A": "Một con ngựa đau cả tàu bỏ cỏ",
-        "B": "Uống nước nhớ người đào giếng",
+        "B": "Uống nước nhớ nguồn",
         "C": "Chớ thấy sóng cả mà ngã tay chèo",
         "D": "Lá lành đùm lá rách"
       },
@@ -1062,23 +994,6 @@
       "grade": "KHOI_4",
       "level": "CAP_2_VONG_TRUONG",
       "type": "TN",
-      "questionId": "k4_c2_tn_060",
-      "question": "Giải câu đố dân gian sau:\n\"Cày trên đồng ruộng trắng phau / Khát xuống uống nước giếng sâu đen ngòm - Là hành động gì?\"",
-      "options": {
-        "A": "đóng dấu đỏ",
-        "B": "viết bút mực trên giấy",
-        "C": "cày ruộng thật",
-        "D": "vẽ tranh sơn dầu"
-      },
-      "answer": "B",
-      "explanation": "Ngòi bút cày trên trang giấy trắng phau, chấm mực trong lọ mực đen ngòm.",
-      "questionNumber": 60
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_2_VONG_TRUONG",
-      "type": "TN",
       "questionId": "k4_c2_tn_061",
       "question": "Từ nào dưới đây thuộc từ loại động từ?",
       "options": {
@@ -1124,23 +1039,6 @@
       "answer": "A",
       "explanation": "'khéo léo' là từ láy vần. Các từ còn lại thuộc các kiểu cấu tạo từ khác.",
       "questionNumber": 63
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_2_VONG_TRUONG",
-      "type": "TN",
-      "questionId": "k4_c2_tn_064",
-      "question": "Giải câu đố dân gian sau:\n\"Để nguyên lấp lánh trời đêm / Thêm sắc thành bạn cùng em đến trường - Là chữ gì?\"",
-      "options": {
-        "A": "trăng",
-        "B": "sao",
-        "C": "bút",
-        "D": "mây"
-      },
-      "answer": "B",
-      "explanation": "Chữ 'sao' lấp lánh trời đêm, thêm dấu sắc được chữ 'sách' (hoặc 'sáo'). Ở đây 'sao' thêm sắc thành 'sáo' hoặc 'sao' -> 'sách'.",
-      "questionNumber": 64
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -1303,7 +1201,7 @@
       "questionId": "k4_c2_tn_074",
       "question": "Câu tục ngữ, thành ngữ nào dưới đây thể hiện phẩm chất hoặc bài học về 'Ý chí, thử thách'?",
       "options": {
-        "A": "Uống nước nhớ người đào giếng",
+        "A": "Uống nước nhớ nguồn",
         "B": "Học thầy không tày học bạn",
         "C": "Lửa thử vàng gian nan thử sức",
         "D": "Tấc đất tấc vàng"
@@ -1340,7 +1238,7 @@
         "A": "Uống nước nhớ nguồn",
         "B": "Lửa thử vàng gian nan thử sức",
         "C": "Vạn sự khởi đầu nan",
-        "D": "Uống nước nhớ người đào giếng"
+        "D": "Uống nước nhớ nguồn"
       },
       "answer": "B",
       "explanation": "'Lửa thử vàng gian nan thử sức': Khó khăn thử thách là thước đo lòng kiên định và bản lĩnh con người.",
@@ -1357,10 +1255,10 @@
         "A": "Uống nước nhớ nguồn",
         "B": "Thương người như thể thương thân",
         "C": "Thuận vợ thuận chồng tát biển Đông cũng cạn",
-        "D": "Uống nước nhớ người đào giếng"
+        "D": "Uống nước nhớ nguồn"
       },
       "answer": "D",
-      "explanation": "'Uống nước nhớ người đào giếng': Hưởng trái ngọt nhớ công người trồng cây, uống nước mát nhớ ơn người đào giếng.",
+      "explanation": "'Uống nước nhớ nguồn': Hưởng trái ngọt nhớ công người trồng cây, uống nước mát nhớ ơn nguồn.",
       "questionNumber": 77
     },
     {
@@ -1419,23 +1317,6 @@
       "grade": "KHOI_4",
       "level": "CAP_2_VONG_TRUONG",
       "type": "TN",
-      "questionId": "k4_c2_tn_081",
-      "question": "Giải câu đố dân gian sau:\n\"Ruột dài từ mũi đến chân / Mũi mòn ruột cũng dần dần mòn theo - Là cái gì?\"",
-      "options": {
-        "A": "bút chì",
-        "B": "cái thước",
-        "C": "cục tẩy",
-        "D": "quyển vở"
-      },
-      "answer": "A",
-      "explanation": "Bút chì có ruột chì than kéo dài từ đầu đến đuôi bút, gọt mũi mòn ruột mòn theo.",
-      "questionNumber": 81
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_2_VONG_TRUONG",
-      "type": "TN",
       "questionId": "k4_c2_tn_082",
       "question": "Câu tục ngữ, thành ngữ nào dưới đây thể hiện phẩm chất hoặc bài học về 'Lòng biết ơn'?",
       "options": {
@@ -1447,23 +1328,6 @@
       "answer": "B",
       "explanation": "'Ăn quả nhớ kẻ trồng cây': Khuyên nhủ con người khi được hưởng thành quả phải luôn biết ơn công lao người tạo dựng.",
       "questionNumber": 82
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_2_VONG_TRUONG",
-      "type": "TN",
-      "questionId": "k4_c2_tn_083",
-      "question": "Giải câu đố dân gian sau:\n\"Hoa gì chỉ nở mùa hè / Rực màu đỏ thắm rung rinh trên cành / Gọi ve ca hát rộn ràng / Tuổi thơ cắp sách ngập tràn niềm vui?\"",
-      "options": {
-        "A": "hoa đào",
-        "B": "hoa mai",
-        "C": "hoa phượng",
-        "D": "hoa cúc"
-      },
-      "answer": "C",
-      "explanation": "Hoa phượng vĩ đỏ rực gắn liền với mùa hè và mùa chia tay của tuổi học trò.",
-      "questionNumber": 83
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -1575,7 +1439,7 @@
       "questionId": "k4_c2_tn_090",
       "question": "Câu tục ngữ, thành ngữ nào dưới đây thể hiện phẩm chất hoặc bài học về 'Lòng biết ơn'?",
       "options": {
-        "A": "Uống nước nhớ người đào giếng",
+        "A": "Uống nước nhớ nguồn",
         "B": "Lửa thử vàng gian nan thử sức",
         "C": "Đi một ngày đàng học một sàng khôn",
         "D": "Uống nước nhớ nguồn"
@@ -1627,12 +1491,12 @@
       "question": "Câu tục ngữ, thành ngữ nào dưới đây thể hiện phẩm chất hoặc bài học về 'Biết ơn'?",
       "options": {
         "A": "Cây ngay không sợ chết đứng",
-        "B": "Uống nước nhớ người đào giếng",
+        "B": "Uống nước nhớ nguồn",
         "C": "Tấc đất tấc vàng",
         "D": "Gần mực thì đen gần đèn thì sáng"
       },
       "answer": "B",
-      "explanation": "'Uống nước nhớ người đào giếng': Hưởng trái ngọt nhớ công người trồng cây, uống nước mát nhớ ơn người đào giếng.",
+      "explanation": "'Uống nước nhớ nguồn': Hưởng trái ngọt nhớ công người trồng cây, uống nước mát nhớ ơn nguồn.",
       "questionNumber": 93
     },
     {
@@ -1651,23 +1515,6 @@
       "answer": "C",
       "explanation": "'Uống nước nhớ nguồn': Nhắc nhở con cháu phải ghi nhớ cội nguồn, tổ tiên và những người đã giúp đỡ mình.",
       "questionNumber": 94
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_2_VONG_TRUONG",
-      "type": "TN",
-      "questionId": "k4_c2_tn_095",
-      "question": "Giải câu đố dân gian sau:\n\"Con gì mào đỏ gáy vang / Đánh thức trời sáng gọi đàn dậy mau?\"",
-      "options": {
-        "A": "con vịt bầu",
-        "B": "con chim sẻ",
-        "C": "con gà trống",
-        "D": "con chim bồ câu"
-      },
-      "answer": "C",
-      "explanation": "Gà trống có mào đỏ tươi và cất tiếng gáy 'ò ó o' đánh thức bình minh.",
-      "questionNumber": 95
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -1729,7 +1576,7 @@
       "question": "Câu tục ngữ, thành ngữ nào dưới đây thể hiện phẩm chất hoặc bài học về 'Kiên trì, nghị lực'?",
       "options": {
         "A": "Đói cho sạch rách cho thơm",
-        "B": "Uống nước nhớ người đào giếng",
+        "B": "Uống nước nhớ nguồn",
         "C": "Có công mài sắt có ngày nên kim",
         "D": "Chớ thấy sóng cả mà ngã tay chèo"
       },
@@ -1847,13 +1694,13 @@
       "questionId": "k4_c2_tn_106",
       "question": "Câu tục ngữ, thành ngữ nào dưới đây thể hiện phẩm chất hoặc bài học về 'Biết ơn'?",
       "options": {
-        "A": "Uống nước nhớ người đào giếng",
+        "A": "Uống nước nhớ nguồn",
         "B": "Ăn ngay nói thật mọi tật mọi lành",
         "C": "Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao",
         "D": "Lời nói chẳng mất tiền mua, lựa lời mà nói cho vừa lòng nhau"
       },
       "answer": "A",
-      "explanation": "'Uống nước nhớ người đào giếng': Hưởng trái ngọt nhớ công người trồng cây, uống nước mát nhớ ơn người đào giếng.",
+      "explanation": "'Uống nước nhớ nguồn': Hưởng trái ngọt nhớ công người trồng cây, uống nước mát nhớ ơn nguồn.",
       "questionNumber": 106
     },
     {
@@ -2105,7 +1952,7 @@
         "A": "Có công mài sắt có ngày nên kim",
         "B": "Tấc đất tấc vàng",
         "C": "Ăn quả nhớ kẻ trồng cây",
-        "D": "Uống nước nhớ người đào giếng"
+        "D": "Uống nước nhớ nguồn"
       },
       "answer": "A",
       "explanation": "'Có công mài sắt có ngày nên kim': Chỉ cần kiên trì, nỗ lực và nhẫn nại thì việc khó khăn đến mấy cũng sẽ thành công.",
@@ -2257,7 +2104,7 @@
       "options": {
         "A": "Ăn ngay nói thật mọi tật mọi lành",
         "B": "Thương người như thể thương thân",
-        "C": "Uống nước nhớ người đào giếng",
+        "C": "Uống nước nhớ nguồn",
         "D": "Học thầy không tày học bạn"
       },
       "answer": "B",
@@ -2358,7 +2205,7 @@
       "question": "Câu tục ngữ, thành ngữ nào dưới đây thể hiện phẩm chất hoặc bài học về 'Học hỏi, trải nghiệm'?",
       "options": {
         "A": "Lời nói chẳng mất tiền mua, lựa lời mà nói cho vừa lòng nhau",
-        "B": "Uống nước nhớ người đào giếng",
+        "B": "Uống nước nhớ nguồn",
         "C": "Thuận vợ thuận chồng tát biển Đông cũng cạn",
         "D": "Đi một ngày đàng học một sàng khôn"
       },
@@ -2427,11 +2274,11 @@
       "options": {
         "A": "Đói cho sạch rách cho thơm",
         "B": "Thương người như thể thương thân",
-        "C": "Uống nước nhớ người đào giếng",
+        "C": "Uống nước nhớ nguồn",
         "D": "Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao"
       },
       "answer": "C",
-      "explanation": "'Uống nước nhớ người đào giếng': Hưởng trái ngọt nhớ công người trồng cây, uống nước mát nhớ ơn người đào giếng.",
+      "explanation": "'Uống nước nhớ nguồn': Hưởng trái ngọt nhớ công người trồng cây, uống nước mát nhớ ơn nguồn.",
       "questionNumber": 140
     },
     {
@@ -2530,7 +2377,7 @@
         "A": "Ăn ngay nói thật mọi tật mọi lành",
         "B": "Chớ thấy sóng cả mà ngã tay chèo",
         "C": "Uống nước nhớ nguồn",
-        "D": "Uống nước nhớ người đào giếng"
+        "D": "Uống nước nhớ nguồn"
       },
       "answer": "B",
       "explanation": "'Chớ thấy sóng cả mà ngã tay chèo': Đừng vì thấy khó khăn, nguy nan mà nản lòng, buông xuôi ý chí.",
@@ -2750,7 +2597,7 @@
       "options": {
         "A": "Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao",
         "B": "Có công mài sắt có ngày nên kim",
-        "C": "Uống nước nhớ người đào giếng",
+        "C": "Uống nước nhớ nguồn",
         "D": "Lời nói chẳng mất tiền mua, lựa lời mà nói cho vừa lòng nhau"
       },
       "answer": "B",
@@ -2782,7 +2629,7 @@
       "questionId": "k4_c2_tn_161",
       "question": "Câu tục ngữ, thành ngữ nào dưới đây thể hiện phẩm chất hoặc bài học về 'Hiếu thảo'?",
       "options": {
-        "A": "Uống nước nhớ người đào giếng",
+        "A": "Uống nước nhớ nguồn",
         "B": "Chim có tổ người có tông",
         "C": "Công cha như núi Thái Sơn, nghĩa mẹ như nước trong nguồn chảy ra",
         "D": "Ăn ngay nói thật mọi tật mọi lành"
@@ -2834,7 +2681,7 @@
       "question": "Câu tục ngữ, thành ngữ nào dưới đây thể hiện phẩm chất hoặc bài học về 'Kiên trì, nghị lực'?",
       "options": {
         "A": "Lửa thử vàng gian nan thử sức",
-        "B": "Uống nước nhớ người đào giếng",
+        "B": "Uống nước nhớ nguồn",
         "C": "Ăn quả nhớ kẻ trồng cây",
         "D": "Có công mài sắt có ngày nên kim"
       },
@@ -2851,7 +2698,7 @@
       "question": "Câu tục ngữ, thành ngữ nào dưới đây thể hiện phẩm chất hoặc bài học về 'Tình cảm anh em'?",
       "options": {
         "A": "Chị ngã em nâng",
-        "B": "Uống nước nhớ người đào giếng",
+        "B": "Uống nước nhớ nguồn",
         "C": "Tấc đất tấc vàng",
         "D": "Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao"
       },
@@ -2884,7 +2731,7 @@
       "questionId": "k4_c2_tn_167",
       "question": "Câu tục ngữ, thành ngữ nào dưới đây thể hiện phẩm chất hoặc bài học về 'Ý chí, bản lĩnh'?",
       "options": {
-        "A": "Uống nước nhớ người đào giếng",
+        "A": "Uống nước nhớ nguồn",
         "B": "Công cha như núi Thái Sơn, nghĩa mẹ như nước trong nguồn chảy ra",
         "C": "Tấc đất tấc vàng",
         "D": "Chớ thấy sóng cả mà ngã tay chèo"
@@ -3281,8 +3128,8 @@
         "Uống nước",
         "nhớ người"
       ],
-      "answer": "Uống nước nhớ người đào giếng",
-      "explanation": "Câu thành ngữ/tục ngữ đúng là: 'Uống nước nhớ người đào giếng'. Hưởng trái ngọt nhớ công người trồng cây, uống nước mát nhớ ơn người đào giếng.",
+      "answer": "Uống nước nhớ nguồn",
+      "explanation": "Câu thành ngữ/tục ngữ đúng là: 'Uống nước nhớ nguồn'. Hưởng trái ngọt nhớ công người trồng cây, uống nước mát nhớ ơn nguồn.",
       "questionNumber": 190
     },
     {
@@ -6037,7 +5884,7 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Uống nước nhớ người (...)\"",
       "blankAnswer": "đào giếng",
       "answer": "đào giếng",
-      "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Uống nước nhớ người đào giếng\". Hưởng trái ngọt nhớ công người trồng cây, uống nước mát nhớ ơn người đào giếng.",
+      "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Uống nước nhớ nguồn\". Hưởng trái ngọt nhớ công người trồng cây, uống nước mát nhớ ơn nguồn.",
       "questionNumber": 326
     },
     {
@@ -6118,10 +5965,10 @@
       "level": "CAP_2_VONG_TRUONG",
       "type": "DT",
       "questionId": "k4_c2_dt_334",
-      "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"(...) nước nhớ người đào giếng\"",
+      "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"(...) nước nhớ nguồn\"",
       "blankAnswer": "Uống",
       "answer": "Uống",
-      "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Uống nước nhớ người đào giếng\". Hưởng trái ngọt nhớ công người trồng cây, uống nước mát nhớ ơn người đào giếng.",
+      "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Uống nước nhớ nguồn\". Hưởng trái ngọt nhớ công người trồng cây, uống nước mát nhớ ơn nguồn.",
       "questionNumber": 333
     },
     {
@@ -6157,7 +6004,7 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Uống nước nhớ người (...) giếng\"",
       "blankAnswer": "đào",
       "answer": "đào",
-      "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Uống nước nhớ người đào giếng\". Hưởng trái ngọt nhớ công người trồng cây, uống nước mát nhớ ơn người đào giếng.",
+      "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Uống nước nhớ nguồn\". Hưởng trái ngọt nhớ công người trồng cây, uống nước mát nhớ ơn nguồn.",
       "questionNumber": 336
     },
     {
@@ -6346,10 +6193,10 @@
       "level": "CAP_2_VONG_TRUONG",
       "type": "DT",
       "questionId": "k4_c2_dt_354",
-      "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Uống (...) nhớ người đào giếng\"",
+      "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Uống (...) nhớ nguồn\"",
       "blankAnswer": "nước",
       "answer": "nước",
-      "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Uống nước nhớ người đào giếng\". Hưởng trái ngọt nhớ công người trồng cây, uống nước mát nhớ ơn người đào giếng.",
+      "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Uống nước nhớ nguồn\". Hưởng trái ngọt nhớ công người trồng cây, uống nước mát nhớ ơn nguồn.",
       "questionNumber": 352
     },
     {
@@ -6433,7 +6280,7 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Uống nước nhớ người đào (...)\"",
       "blankAnswer": "giếng",
       "answer": "giếng",
-      "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Uống nước nhớ người đào giếng\". Hưởng trái ngọt nhớ công người trồng cây, uống nước mát nhớ ơn người đào giếng.",
+      "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Uống nước nhớ nguồn\". Hưởng trái ngọt nhớ công người trồng cây, uống nước mát nhớ ơn nguồn.",
       "questionNumber": 359
     },
     {
@@ -6454,10 +6301,10 @@
       "level": "CAP_2_VONG_TRUONG",
       "type": "DT",
       "questionId": "k4_c2_dt_364",
-      "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Uống nước (...) người đào giếng\"",
+      "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Uống nước (...) nguồn\"",
       "blankAnswer": "nhớ",
       "answer": "nhớ",
-      "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Uống nước nhớ người đào giếng\". Hưởng trái ngọt nhớ công người trồng cây, uống nước mát nhớ ơn người đào giếng.",
+      "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Uống nước nhớ nguồn\". Hưởng trái ngọt nhớ công người trồng cây, uống nước mát nhớ ơn nguồn.",
       "questionNumber": 361
     },
     {
@@ -6829,7 +6676,7 @@
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Uống nước nhớ (...) đào giếng\"",
       "blankAnswer": "người",
       "answer": "người",
-      "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Uống nước nhớ người đào giếng\". Hưởng trái ngọt nhớ công người trồng cây, uống nước mát nhớ ơn người đào giếng.",
+      "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Uống nước nhớ nguồn\". Hưởng trái ngọt nhớ công người trồng cây, uống nước mát nhớ ơn nguồn.",
       "questionNumber": 392
     },
     {
@@ -8766,9 +8613,7 @@
       },
       "explanation": "Danh từ: thủ đô, lòng dũng cảm; Động từ: khám phá, cống hiến; Tính từ: bao dung, khiêm tốn.",
       "questionNumber": 467
-    }
-
-    
+    },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_4",
@@ -42268,8 +42113,1910 @@
         ]
       },
       "explanation": "Từ đơn: sách, trăng. Từ ghép: sách vở, đường ray. Từ láy: rón rén, bâng khuâng."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k4_c2_tn_2201",
+      "question": "Giải câu đố chữ sau:\n\"Để nguyên là số đầu tiên\nThêm huyền kính cẩn người sinh mẹ hiền\nThêm sắc tước vị quan sang\nThêm hỏi dụ dỗ hại lừa chẳng nên.\nĐó là các chữ nào?\"",
+      "options": {
+        "A": "Ba - bà - bá - bả",
+        "B": "Ma - mà - má - mả",
+        "C": "Ca - cà - cá - cả",
+        "D": "La - là - lá - lả"
+      },
+      "answer": "A",
+      "explanation": "Số 'ba'; thêm huyền người 'bà' kính yêu; thêm sắc 'bá' tước; thêm hỏi 'bả' bẫy hại lừa."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k4_c2_tn_2202",
+      "question": "Giải câu đố chữ sau:\n\"Để nguyên cất tiếng kêu to\nThêm huyền phẳng phiu nếp áo mẹ may\nThêm sắc xanh ngát trên cây\nThêm nặng ngơ ngác người chưa quen tường.\nĐó là các chữ nào?\"",
+      "options": {
+        "A": "La - là - lá - lạ",
+        "B": "Ba - bà - bá - bạ",
+        "C": "Đa - đà - đá - đạ",
+        "D": "Ca - cà - cá - cạ"
+      },
+      "answer": "A",
+      "explanation": "'La' hét kêu to; thêm huyền bàn 'là' quần áo; thêm sắc chiếc 'lá' xanh; thêm nặng người xa 'lạ'."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k4_c2_tn_2203",
+      "question": "Giải câu đố chữ sau:\n\"Để nguyên cây cổ thụ làng\nTỏa bóng râm mát sân đình ngàn năm\nThêm huyền sức đẩy tiến nhanh\nThêm sắc cứng rắn xây tường xây cầu.\nĐó là các chữ nào?\"",
+      "options": {
+        "A": "Đa - đà - đá",
+        "B": "Ba - bà - bá",
+        "C": "Ca - cà - cá",
+        "D": "Ma - mà - má"
+      },
+      "answer": "A",
+      "explanation": "Cây 'đa' cổ thụ; thêm huyền tạo 'đà' tiến bước; thêm sắc hòn 'đá' xây dựng."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k4_c2_tn_2204",
+      "question": "Giải câu đố chữ sau:\n\"Để nguyên huyết thống họ hàng\nSum vầy tổ ấm sớm hôm chan hòa\nThêm huyền tuổi tác về già\nThêm sắc mua bán hỏi thăm bao tiền.\nĐó là các chữ nào?\"",
+      "options": {
+        "A": "Gia - già - giá",
+        "B": "Ba - bà - bá",
+        "C": "Xa - xà - xá",
+        "D": "Hoa - hoà - hoá"
+      },
+      "answer": "A",
+      "explanation": "'Gia' đình dòng tộc; thêm huyền người 'già' tóc bạc; thêm sắc 'giá' cả hàng hóa."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k4_c2_tn_2205",
+      "question": "Giải câu đố chữ sau:\n\"Để nguyên quả mọng trên cành\nNước ngọt giải khát thơm lành mát thanh\nThêm huyền cằn nhằn chẳng thôi\nThêm hỏi rung động cõi lòng sâu xa.\nĐó là các chữ nào?\"",
+      "options": {
+        "A": "Cam - càm - cảm",
+        "B": "Lam - làm - lảm",
+        "C": "Tam - tàm - tảm",
+        "D": "Nam - nàm - nảm"
+      },
+      "answer": "A",
+      "explanation": "Quả 'cam' ngọt lành; thêm huyền 'càm' ràm cằn nhằn; thêm hỏi tình 'cảm', cảm xúc."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k4_c2_tn_2206",
+      "question": "Giải câu đố chữ sau:\n\"Để nguyên quả bóng tròn xoe\nSút vào lưới trắng cầu trường reo vui\nThêm huyền kiệu ngự lưng voi\nThêm sắc nướng dẻo ngát lừng hương thơm.\nĐó là các chữ nào?\"",
+      "options": {
+        "A": "Banh - bành - bánh",
+        "B": "Canh - cành - cánh",
+        "C": "Tanh - tành - tánh",
+        "D": "Nhanh - nhành - nhánh"
+      },
+      "answer": "A",
+      "explanation": "Quả 'banh' (bóng đá); thêm huyền 'bành' voi cưỡi ra trận; thêm sắc chiếc 'bánh' thơm ngon."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k4_c2_tn_2207",
+      "question": "Giải câu đố chữ sau:\n\"Để nguyên bát mát trưa hè\nNấu cùng tôm tép cua đồng ngọt thơm\nThêm huyền nhánh nhỏ đâm chồi\nThêm sắc rập rờn chim liệng tầng không.\nĐó là các chữ nào?\"",
+      "options": {
+        "A": "Canh - cành - cánh",
+        "B": "Banh - bành - bánh",
+        "C": "Manh - mành - mánh",
+        "D": "Lanh - lành - lánh"
+      },
+      "answer": "A",
+      "explanation": "Bát 'canh' ngọt mát; thêm huyền 'cành' cây đâm chồi; thêm sắc đôi 'cánh' chim bay."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k4_c2_tn_2208",
+      "question": "Giải câu đố chữ sau:\n\"Để nguyên bằng sắt nhọn đầu\nGiúp bác thợ mộc đóng bàn đóng ngai\nThêm huyền mái ngói làng quê\nThêm hỏi chót vót núi cao mây vờn.\nĐó là các chữ nào?\"",
+      "options": {
+        "A": "Đinh - đình - đỉnh",
+        "B": "Tinh - tình - tỉnh",
+        "C": "Binh - bình - bỉnh",
+        "D": "Linh - lình - lỉnh"
+      },
+      "answer": "A",
+      "explanation": "Cái 'đinh' sắt; thêm huyền mái 'đình' làng cổ kính; thêm hỏi 'đỉnh' núi cao."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k4_c2_tn_2209",
+      "question": "Giải câu đố chữ sau:\n\"Để nguyên cắm đóa hoa tươi\nTrang hoàng góc học ngát hương mỗi ngày\nBỏ huyền chú lính sa trường\nThêm sắc thứ bậc can chi tuần hoàn.\nĐó là các chữ nào?\"",
+      "options": {
+        "A": "Tình - tinh - tính",
+        "B": "Bình - binh - Bính",
+        "C": "Mình - minh - mính",
+        "D": "Kình - kinh - kính"
+      },
+      "answer": "B",
+      "explanation": "'Bình' hoa cắm tươi; bỏ huyền người 'binh' sĩ dũng cảm; thêm sắc can 'Bính' (trong thiên can lịch cổ)."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k4_c2_tn_2210",
+      "question": "Giải câu đố chữ sau:\n\"Để nguyên khiêm tốn xưng mình\nTiếng dân Nam Bộ thân tình chứa chan\nThêm sắc đựng bút đựng đồ\nThêm nặng bạn bè tụ họp chung vui.\nĐó là các chữ nào?\"",
+      "options": {
+        "A": "Vui - vúi - vụi",
+        "B": "Tui - túi - tụi",
+        "C": "Mui - múi - mụi",
+        "D": "Bui - búi - bụi"
+      },
+      "answer": "B",
+      "explanation": "Đại từ 'tui' thân mật; thêm sắc cái 'túi' xách; thêm nặng 'tụi' bạn bè cùng trang lứa."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k4_c2_tn_2211",
+      "question": "Giải câu đố chữ sau:\n\"Để nguyên trĩu hạt vàng tươi\nNuôi sống bao người hạt ngọc làng quê\nThay dấu sắc bằng nặng mượt mà\nDệt thành tà áo thướt tha đón mừng.\nĐó là các chữ nào?\"",
+      "options": {
+        "A": "Ngô - ngộ",
+        "B": "Lúa - lụa",
+        "C": "Khoai - khoại",
+        "D": "Gạo - gạt"
+      },
+      "answer": "B",
+      "explanation": "Cây 'lúa' vàng hạt ngọc; thay sắc bằng nặng thành tấm vải 'lụa' tơ tằm óng ả."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k4_c2_tn_2212",
+      "question": "Giải câu đố chữ sau:\n\"Để nguyên nướng chín thơm bùi\nVùi trong than đỏ ấm lòng mùa đông\nThêm sắc sung sướng cười vang\nThỏa lòng mong ước rộn ràng niềm vui.\nĐó là các chữ nào?\"",
+      "options": {
+        "A": "Sắn - sắn",
+        "B": "Khoai - khoái",
+        "C": "Bắp - bắp",
+        "D": "Đậu - đẩu"
+      },
+      "answer": "B",
+      "explanation": "Củ 'khoai' vùi tro bếp; thêm sắc cảm giác sảng 'khoái' vui tươi."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k4_c2_tn_2213",
+      "question": "Giải câu đố chữ sau:\n\"Để nguyên hạt ngô ngọt bùi\nLuộc chín thơm ngát người người thích mê\nThay dấu sắc bằng dấu nặng em chơi\nTrò chơi nhấp nhô hai đầu lên xuống.\nĐó là các chữ nào?\"",
+      "options": {
+        "A": "Ngô - ngộ",
+        "B": "Bắp - bập",
+        "C": "Thóc - thọc",
+        "D": "Khoai - thoại"
+      },
+      "answer": "B",
+      "explanation": "'Bắp' ngô thơm bùi; thay sắc bằng nặng thành trò chơi 'bập' bênh quen thuộc."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k4_c2_tn_2214",
+      "question": "Giải câu đố chữ sau:\n\"Để nguyên nấu bát cơm dẻo\nNuôi người khôn lớn tháng ngày chăm ngoan\nThay dấu nặng bằng dấu sắc đựng nước\nMúc nước rửa chân làm bằng vỏ dừa.\nĐó là các chữ nào?\"",
+      "options": {
+        "A": "Cơm - cớm",
+        "B": "Gạo - gáo",
+        "C": "Nếp - nếp",
+        "D": "Đỗ - đố"
+      },
+      "answer": "B",
+      "explanation": "Hạt 'gạo' nấu cơm; thay dấu nặng bằng sắc thành cái 'gáo' dừa múc nước."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k4_c2_tn_2215",
+      "question": "Giải câu đố chữ sau:\n\"Để nguyên chồi non bụi tre\nMọc nhọn như chông giữa bờ lũy xanh\nThêm dấu sắc cô răn đe\nNhắc nhở học sinh sửa đổi lỗi lầm.\nĐó là các chữ nào?\"",
+      "options": {
+        "A": "Tre - tré",
+        "B": "Măng - mắng",
+        "C": "Trúc - trút",
+        "D": "Cây - cấy"
+      },
+      "answer": "B",
+      "explanation": "Búp 'măng' non của tre; thêm sắc tiếng la 'mắng' răn đe bài học."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k4_c2_tn_2216",
+      "question": "Giải câu đố chữ sau:\n\"Để nguyên múc cháo múc canh\nBằng kim loại sáng bé cầm trên tay\nBỏ dấu ngã thành thú trong rừng\nChạy nhảy tung tăng muôn loài hoang dã.\nĐó là các chữ nào?\"",
+      "options": {
+        "A": "Thìa - thia",
+        "B": "Muỗng - muông",
+        "C": "Muôi - muoi",
+        "D": "Nĩa - nia"
+      },
+      "answer": "B",
+      "explanation": "Cái 'muỗng' xúc cơm; bỏ ngã thành 'muông' thú trong rừng sâu."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k4_c2_tn_2217",
+      "question": "Giải câu đố chữ sau:\n\"Để nguyên chậu rửa mặt rau\nĐựng đầy nước mát sáng mai thức dậy\nThêm dấu sắc hiểu tỏ lòng người\nBao điều khúc mắc sáng soi tỏ tường.\nĐó là các chữ nào?\"",
+      "options": {
+        "A": "Chậu - chấu",
+        "B": "Xô - xố",
+        "C": "Thau - thấu",
+        "D": "Bát - bát"
+      },
+      "answer": "C",
+      "explanation": "Cái 'thau' rửa mặt; thêm sắc 'thấu' hiểu, thấu suốt tâm can."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k4_c2_tn_2218",
+      "question": "Giải câu đố chữ sau:\n\"Để nguyên nâng giấc ngủ êm\nSau ngày học tập miệt mài chăm ngoan\nBớt chữ 'i' mặt kính sáng trong\nSoi vào thấy nụ cười xinh rạng ngời.\nĐó là các chữ nào?\"",
+      "options": {
+        "A": "Chiếu - chiều",
+        "B": "Gối - gối",
+        "C": "Giường - gương",
+        "D": "Mùng - mùng"
+      },
+      "answer": "C",
+      "explanation": "Chiếc 'giường' nằm ngủ; bớt chữ 'i' thành chiếc 'gương' soi mặt phẳng bóng."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k4_c2_tn_2219",
+      "question": "Giải câu đố chữ sau:\n\"Để nguyên bức họa rực rỡ\nSắc màu phong cảnh quê hương ngút ngàn\nThêm dấu sắc né tránh bên lề\nNhường đường an toàn cho người qua lại.\nĐó là các chữ nào?\"",
+      "options": {
+        "A": "Ảnh - ánh",
+        "B": "Hình - hính",
+        "C": "Tranh - tránh",
+        "D": "Vẽ - vé"
+      },
+      "answer": "C",
+      "explanation": "Bức 'tranh' vẽ phong cảnh; thêm sắc thành né 'tránh' nguy hiểm."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k4_c2_tn_2220",
+      "question": "Giải câu đố chữ sau:\n\"Để nguyên viết phấn trắng tinh\nTreo trên vách lớp học trò dõi trông\nBỏ dấu hỏi cây rợp bóng mát\nBỏ dấu huyền đất nước một vùng xa xôi.\nĐó là các chữ nào?\"",
+      "options": {
+        "A": "Trang - tràng - trang",
+        "B": "Phấn - phần - phân",
+        "C": "Bảng - bàng - bang",
+        "D": "Sách - sạch - sach"
+      },
+      "answer": "C",
+      "explanation": "Cái 'bảng' lớp; bỏ hỏi cây 'bàng' sân trường; bỏ huyền tiểu 'bang', nước bang giao."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k4_c2_tn_2221",
+      "question": "Giải câu đố chữ sau:\n\"Để nguyên vũ khí giữ nhà\nBộ đội cầm chắc canh giữ trời quê\nBỏ dấu sắc quả tròn từng chùm\nTrưng mâm ngũ quả cầu mong đủ đầy.\nĐó là các chữ nào?\"",
+      "options": {
+        "A": "Đạn - đan",
+        "B": "Gươm - gươm",
+        "C": "Súng - sung",
+        "D": "Kiếm - kiêm"
+      },
+      "answer": "C",
+      "explanation": "Cây 'súng' bảo vệ Tổ quốc; bỏ sắc chùm quả 'sung' tượng trưng cho sự sung túc."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k4_c2_tn_2222",
+      "question": "Giải câu đố chữ sau:\n\"Để nguyên may áo may quần\nTơ tằm thoáng mát bé mặc xinh tươi\nThay dấu hỏi bằng dấu huyền nhỏ nhoi\nChỉ một lượng ít đếm trên ngón tay.\nĐó là các chữ nào?\"",
+      "options": {
+        "A": "Chỉ - chì",
+        "B": "Len - lèn",
+        "C": "Vải - vài",
+        "D": "Tơ - tờ"
+      },
+      "answer": "C",
+      "explanation": "Tấm 'vải' may quần áo; thay hỏi bằng huyền thành số lượng 'vài' ba cái."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k4_c2_tn_2223",
+      "question": "Giải câu đố chữ sau:\n\"Để nguyên vững bước dặm trường\nĐưa em tới lớp tung tăng tiếng cười\nThay 'â' bằng 'ă' ấm áp đêm đông\nMẹ đắp êm ái cho tròn giấc mơ.\nĐó là các chữ nào?\"",
+      "options": {
+        "A": "Tay - tày",
+        "B": "Mũi - mùi",
+        "C": "Chân - chăn",
+        "D": "Vai - vài"
+      },
+      "answer": "C",
+      "explanation": "Đôi bàn 'chân' bước đi; thay â bằng ă thành cái 'chăn' bông đắp ấm."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k4_c2_tn_2224",
+      "question": "Giải câu đố chữ sau:\n\"Để nguyên nắn nót từng dòng\nCầm bút viết chữ điểm mười cô khen\nThêm dấu huyền đồng bào núi cao\nSống nơi bản vắng đậm đà tình thân.\nĐó là các chữ nào?\"",
+      "options": {
+        "A": "Mắt - Mạt",
+        "B": "Tai - Tái",
+        "C": "Vai - Vài",
+        "D": "Tay - Tày"
+      },
+      "answer": "D",
+      "explanation": "Bàn 'tay' khéo léo; thêm huyền người dân tộc 'Tày' ở vùng núi phía Bắc."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k4_c2_tn_2225",
+      "question": "Giải câu đố chữ sau:\n\"Để nguyên lắng nghe cô giảng\nBao lời tha thiết ngấm sâu vào lòng\nThêm dấu sắc nhợt nhạt mặt mày\nKhi gặp gió lạnh bất ngờ tái tê.\nĐó là các chữ nào?\"",
+      "options": {
+        "A": "Mắt - mát",
+        "B": "Môi - mối",
+        "C": "Miệng - miếng",
+        "D": "Tai - tái"
+      },
+      "answer": "D",
+      "explanation": "Cái 'tai' để nghe; thêm sắc 'tái' mặt khi lạnh hoặc sợ hãi."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k4_c2_tn_2226",
+      "question": "Giải câu đố chữ sau:\n\"Để nguyên ngắm cảnh non sông\nNhìn trời xanh ngắt ngắm đồng lúa tươi\nThay sắc bằng nặng trăng rằm sáng soi\nKhuôn mặt rạng rỡ nụ cười hồn nhiên.\nĐó là các chữ nào?\"",
+      "options": {
+        "A": "Tai - tại",
+        "B": "Môi - một",
+        "C": "Má - mạ",
+        "D": "Mắt - mặt"
+      },
+      "answer": "D",
+      "explanation": "Đôi 'mắt' nhìn ngắm; thay sắc bằng nặng thành gương 'mặt' tươi xinh."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k4_c2_tn_2227",
+      "question": "Giải câu đố chữ sau:\n\"Để nguyên ngửi ngát hương hoa\nHít hà không khí sớm mai trong lành\nThay ngã bằng huyền ngan ngát tỏa bay\nHương thơm nức nở khắp gian bếp nhà.\nĐó là các chữ nào?\"",
+      "options": {
+        "A": "Lưỡi - lười",
+        "B": "Miệng - miền",
+        "C": "Má - mà",
+        "D": "Mũi - mùi"
+      },
+      "answer": "D",
+      "explanation": "Chiếc 'mũi' hít thở ngửi hương; thay ngã bằng huyền thành 'mùi' hương thơm."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k4_c2_tn_2228",
+      "question": "Giải câu đố chữ sau:\n\"Để nguyên nhai thức ngọt bùi\nGiữ gìn trắng bóng cười duyên rạng ngời\nThêm dấu huyền mở đầu câu thơ\n'Rằng nghe cho tỏ bao lời mẹ ru'.\nĐó là các chữ nào?\"",
+      "options": {
+        "A": "Má - mà",
+        "B": "Môi - mồi",
+        "C": "Lưỡi - lười",
+        "D": "Răng - rằng"
+      },
+      "answer": "D",
+      "explanation": "Hàm 'răng' nhai thức ăn; thêm huyền từ ngữ 'rằng' mở đầu câu chuyện, lời nói."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k4_c2_tn_2229",
+      "question": "Giải câu đố chữ sau:\n\"Để nguyên nếm đủ ngọt bùi\nChua cay mặn ngọt nếm qua tỏ tường\nBỏ dấu ngã thêm huyền thói xấu\nLười biếng trốn học chẳng chịu làm bài.\nĐó là các chữ nào?\"",
+      "options": {
+        "A": "Mũi - mùi",
+        "B": "Mắt - mạt",
+        "C": "Miệng - miềng",
+        "D": "Lưỡi - lười"
+      },
+      "answer": "D",
+      "explanation": "Cái 'lưỡi' nếm vị giác; bỏ ngã thêm huyền tính 'lười' nhác cần phải bỏ."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k4_c2_tn_2230",
+      "question": "Giải câu đố chữ sau:\n\"Để nguyên bao bọc thân mình\nGiữ ấm cơ thể mùa đông gió lùa\nThêm dấu nặng tiếng thưa kính cẩn\nLời chào lễ phép con ngoan trong nhà.\nĐó là các chữ nào?\"",
+      "options": {
+        "A": "Ca - cạ",
+        "B": "La - lạ",
+        "C": "Ta - tạ",
+        "D": "Da - dạ"
+      },
+      "answer": "D",
+      "explanation": "Làn 'da' bảo vệ cơ thể; thêm nặng tiếng thưa 'dạ' vâng kính cẩn với thầy cô cha mẹ."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k4_c2_tn_2231",
+      "question": "Giải câu đố lịch sử sau:\n\"Thái sư dựng nghiệp triều Trần\nMột tay chèo lái vững vàng non sông\nKhảng khái tâu cùng nhà vua một câu:\n'Đầu thần chưa rơi xuống đất, xin bệ hạ đừng lo'.\nÔng là ai?\"",
+      "options": {
+        "A": "Trần Thủ Độ",
+        "B": "Trần Quốc Tuấn",
+        "C": "Trần Quang Khải",
+        "D": "Trần Nhật Duật"
+      },
+      "answer": "A",
+      "explanation": "Thái sư Trần Thủ Độ là người có công lập nên triều đại nhà Trần và nổi tiếng với câu nói khảng khái động viên vua Trần Thái Tông khi giặc Mông Cổ xâm lược năm 1258."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k4_c2_tn_2232",
+      "question": "Giải câu đố lịch sử sau:\n\"Vua lập nên vương triều Tiền Lê\nĐược nhân dân tôn là Lê Đại Hành\nNăm 981 chỉ huy đại phá quân Tống trên sông Bạch Đằng\nĐem lại hòa bình vững bền cho Đại Cồ Việt.\nÔng là ai?\"",
+      "options": {
+        "A": "Lê Hoàn",
+        "B": "Lê Lợi",
+        "C": "Lê Thánh Tông",
+        "D": "Lê Thái Tông"
+      },
+      "answer": "A",
+      "explanation": "Lê Hoàn (Lê Đại Hành) là vị hoàng đế sáng lập triều Tiền Lê, lãnh đạo quân dân đánh tan quân xâm lược nhà Tống năm 981."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k4_c2_tn_2233",
+      "question": "Giải câu đố lịch sử sau:\n\"Vị tướng thủy tài ba đời Trần\nChỉ huy trận tập kích Vân Đồn vang dội\nĐánh chìm và bắt gọn toàn bộ đoàn thuyền lương của Trương Văn Hổ\nLàm phá sản hoàn toàn kế hoạch xâm lược của giặc Nguyên.\nÔng là ai?\"",
+      "options": {
+        "A": "Trần Khánh Dư",
+        "B": "Yết Kiêu",
+        "C": "Phạm Ngũ Lão",
+        "D": "Trần Nhật Duật"
+      },
+      "answer": "A",
+      "explanation": "Nhân Huệ Vương Trần Khánh Dư chỉ huy quân dân đánh tan đoàn thuyền vận lương của tướng giặc Trương Văn Hổ tại Vân Đồn cuối năm 1287."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k4_c2_tn_2234",
+      "question": "Giải câu đố lịch sử sau:\n\"Nữ tướng kiệt xuất của phong trào Tây Sơn\nChỉ huy đội tượng binh voi chiến bách chiến bách thắng\nCùng chồng là danh tướng Trần Quang Diệu tận trung với nghĩa quân.\nBà là ai?\"",
+      "options": {
+        "A": "Bùi Thị Xuân",
+        "B": "Triệu Thị Trinh",
+        "C": "Trưng Trắc",
+        "D": "Lê Chân"
+      },
+      "answer": "A",
+      "explanation": "Đô đốc Bùi Thị Xuân là nữ danh tướng lừng danh thời Tây Sơn, người trực tiếp huấn luyện và chỉ huy đội voi chiến dũng mãnh."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k4_c2_tn_2235",
+      "question": "Giải câu đố danh nhân sau:\n\"Anh hùng áo vải đất Tây Sơn\nHành quân thần tốc ra Thăng Long diệt giặc\nĐại phá hai mươi chín vạn quân Thanh vào mùa xuân Kỷ Dậu một bảy tám chín\nLập nên chiến công Ngọc Hồi - Đống Đa rực rỡ.\nÔng là vị vua nào?\"",
+      "options": {
+        "A": "Quang Trung (Nguyễn Huệ)",
+        "B": "Nguyễn Nhạc",
+        "C": "Nguyễn Lữ",
+        "D": "Gia Long"
+      },
+      "answer": "A",
+      "explanation": "Hoàng đế Quang Trung (Nguyễn Huệ) là vị thiên tài quân sự bách chiến bách thắng của dân tộc ta với chiến thắng Ngọc Hồi - Đống Đa mùa xuân 1789."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k4_c2_tn_2236",
+      "question": "Giải câu đố lịch sử sau:\n\"Chủ tướng cuộc khởi nghĩa Lam Sơn rực rỡ\nMười năm nếm mật nằm gai đánh tan quân Minh xâm lược\nLập nên vương triều Hậu Lê kéo dài thịnh trị.\nÔng là ai?\"",
+      "options": {
+        "A": "Lê Lợi (Lê Thái Tổ)",
+        "B": "Lê Hoàn",
+        "C": "Lê Thánh Tông",
+        "D": "Nguyễn Trãi"
+      },
+      "answer": "A",
+      "explanation": "Lê Lợi dấy binh khởi nghĩa tại Lam Sơn (Thanh Hóa) năm 1418, lãnh đạo cuộc kháng chiến chống quân Minh thắng lợi hoàn toàn năm 1427."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k4_c2_tn_2237",
+      "question": "Giải câu đố danh nhân sau:\n\"Danh nhân văn hóa thế giới được UNESCO vinh danh\nQuân sư tài ba của cuộc khởi nghĩa Lam Sơn\nTác giả bản thiên cổ hùng văn 'Bình Ngô đại cáo' bất hủ.\nÔng là ai?\"",
+      "options": {
+        "A": "Nguyễn Trãi",
+        "B": "Nguyễn Du",
+        "C": "Chu Văn An",
+        "D": "Lê Quý Đôn"
+      },
+      "answer": "A",
+      "explanation": "Nguyễn Trãi (hiệu Ức Trai) là nhà chính trị, quân sự, đại thi hào dân tộc và là Danh nhân văn hóa thế giới."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k4_c2_tn_2238",
+      "question": "Giải câu đố danh nhân sau:\n\"Đại thi hào của dân tộc Việt Nam\nDanh nhân văn hóa thế giới quê hương Hà Tĩnh\nTác giả của kiệt tác văn học chữ Nôm 'Đoạn trường tân thanh' (Truyện Kiều).\nÔng là ai?\"",
+      "options": {
+        "A": "Nguyễn Trãi",
+        "B": "Nguyễn Du",
+        "C": "Hồ Xuân Hương",
+        "D": "Đoàn Thị Điểm"
+      },
+      "answer": "B",
+      "explanation": "Đại thi hào Nguyễn Du (1765 - 1820) là tác giả của Truyện Kiều, tác phẩm văn học kiệt xuất nhất của nền văn học trung đại Việt Nam."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k4_c2_tn_2239",
+      "question": "Giải câu đố lịch sử sau:\n\"Thủ lĩnh cuộc khởi nghĩa Hương Khê kiên cường\nLinh hồn của phong trào Cần Vương cứu nước ở Trung Kỳ cuối thế kỷ 19\nChế tạo súng trường theo mẫu của Pháp đánh giặc anh dũng.\nÔng là ai?\"",
+      "options": {
+        "A": "Hoàng Hoa Thám",
+        "B": "Phan Đình Phùng",
+        "C": "Nguyễn Thiện Thuật",
+        "D": "Đinh Công Tráng"
+      },
+      "answer": "B",
+      "explanation": "Phan Đình Phùng lãnh đạo nghĩa quân Hương Khê (Hà Tĩnh) ròng rã suốt mười năm (1885 - 1896) chống thực dân Pháp xâm lược."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k4_c2_tn_2240",
+      "question": "Giải câu đố lịch sử sau:\n\"Chí sĩ yêu nước đầu thế kỷ hai mươi\nKhởi xướng phong trào Đông Du đưa du học sinh sang Nhật Bản\nThành lập Hội Duy Tân và Việt Nam Quang phục Hội.\nÔng là ai?\"",
+      "options": {
+        "A": "Phan Châu Trinh",
+        "B": "Phan Bội Châu",
+        "C": "Huỳnh Thúc Kháng",
+        "D": "Nguyễn Thái Học"
+      },
+      "answer": "B",
+      "explanation": "Cụ Phan Bội Châu (1867 - 1940) là nhà cách mạng tiêu biểu khởi xướng phong trào Đông Du nhằm đào tạo nhân tài cứu nước."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k4_c2_tn_2241",
+      "question": "Giải câu đố lịch sử sau:\n\"Nhà cải cách yêu nước đầu thế kỷ hai mươi\nKhởi xướng phong trào Duy Tân với chủ trương nổi tiếng:\n'Khai dân trí, chấn dân khí, hậu dân sinh'.\nÔng là ai?\"",
+      "options": {
+        "A": "Phan Bội Châu",
+        "B": "Phan Châu Trinh",
+        "C": "Lương Văn Can",
+        "D": "Nguyễn Quyền"
+      },
+      "answer": "B",
+      "explanation": "Cụ Phan Châu Trinh (1872 - 1926) là nhà yêu nước chủ trương canh tân đất nước, nâng cao dân trí và dân quyền."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k4_c2_tn_2242",
+      "question": "Giải câu đố lịch sử sau:\n\"Người đoàn viên thanh niên cộng sản đầu tiên\nTrước tòa án kẻ thù đã dõng dạc tuyên bố:\n'Con đường của thanh niên chỉ là con đường cách mạng chứ không thể có con đường nào khác'.\nAnh là ai?\"",
+      "options": {
+        "A": "Nguyễn Văn Trỗi",
+        "B": "Lý Tự Trọng",
+        "C": "Trần Văn Ơn",
+        "D": "Võ Thị Sáu"
+      },
+      "answer": "B",
+      "explanation": "Anh Lý Tự Trọng (1914 - 1931) là người đoàn viên thanh niên cộng sản kiên trung đầu tiên của Đoàn TNCS Hồ Chí Minh."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k4_c2_tn_2243",
+      "question": "Giải câu đố lịch sử sau:\n\"Người con gái vùng Đất Đỏ kiên cường\nTham gia kháng chiến từ năm mười bốn tuổi\nHiên ngang ngẩng cao đầu trước họng súng kẻ thù tại Côn Đảo\nĐược ca ngợi qua hình tượng đóa hoa lê-ki-ma.\nChị là ai?\"",
+      "options": {
+        "A": "Chị Út Tịch",
+        "B": "Chị Võ Thị Sáu",
+        "C": "Bà Nguyễn Thị Định",
+        "D": "Chị Đặng Thùy Trâm"
+      },
+      "answer": "B",
+      "explanation": "Chị Võ Thị Sáu (1933 - 1952) là nữ anh hùng liệt sĩ trẻ tuổi quê ở Bà Rịa - Vũng Tàu, anh dũng hy sinh tại nhà tù Côn Đảo."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k4_c2_tn_2244",
+      "question": "Giải câu đố lịch sử sau:\n\"Anh hùng quân đội trong chiến dịch Điện Biên Phủ năm một chín năm tư\nDũng cảm lấy thân mình chèn bánh pháo trên dốc núi cao\nCứu khẩu pháo an toàn không bị lăn xuống vực sâu.\nAnh là ai?\"",
+      "options": {
+        "A": "Bế Văn Đàn",
+        "B": "Tô Vĩnh Diện",
+        "C": "Phan Đình Giót",
+        "D": "Trần Can"
+      },
+      "answer": "B",
+      "explanation": "Anh hùng Tô Vĩnh Diện đã anh dũng hy sinh thân mình chèn bánh khẩu pháo cao xạ trên dốc Chuối trong chiến dịch Điện Biên Phủ."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k4_c2_tn_2245",
+      "question": "Giải câu đố lịch sử sau:\n\"Chiến sĩ liên lạc dũng cảm trong chiến dịch Điện Biên Phủ\nĐã lấy hai vai của mình làm giá súng cho đồng đội bắn tỉa tiêu diệt quân thù\nGóp phần vào thắng lợi trận Mường Pồn oanh liệt.\nAnh là ai?\"",
+      "options": {
+        "A": "Tô Vĩnh Diện",
+        "B": "Bế Văn Đàn",
+        "C": "Cù Chính Lan",
+        "D": "La Văn Cầu"
+      },
+      "answer": "B",
+      "explanation": "Anh hùng Bế Văn Đàn (dân tộc Tày) đã lấy thân mình làm giá súng trong trận đánh ác liệt tại Mường Pồn năm 1953."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k4_c2_tn_2246",
+      "question": "Giải câu đố lịch sử sau:\n\"Người chiến sĩ pháo cao xạ anh dũng trong kháng chiến chống Mỹ\nBị thương nặng vẫn quyết tâm chỉ huy và hô vang khẩu hiệu:\n'Nhằm thẳng quân thù mà bắn!'.\nAnh là ai?\"",
+      "options": {
+        "A": "Lê Mã Lương",
+        "B": "Phạm Tuân",
+        "C": "Nguyễn Viết Xuân",
+        "D": "Nguyễn Văn Bảy"
+      },
+      "answer": "C",
+      "explanation": "Anh hùng Nguyễn Viết Xuân là chính trị viên đại đội pháo cao xạ kiên cường với lời hô hiệu 'Nhằm thẳng quân thù mà bắn!' vang dội khắp chiến trường."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k4_c2_tn_2247",
+      "question": "Giải câu đố di tích sau:\n\"Di sản Văn hóa Thế giới tại huyện Vĩnh Lộc, tỉnh Thanh Hóa\nĐược xây dựng bằng các khối đá xanh vĩ đại không dùng vữa kết dính vào năm một ba chín bảy\nLà công trình thành đá cổ độc nhất vô nhị ở Đông Nam Á.\nĐó là di tích nào?\"",
+      "options": {
+        "A": "Thành Cổ Loa",
+        "B": "Thành Lam Kinh",
+        "C": "Thành nhà Hồ",
+        "D": "Thành Diên Khánh"
+      },
+      "answer": "C",
+      "explanation": "Thành nhà Hồ (Tây Đô) do Hồ Quý Ly xây dựng năm 1397 bằng đá khối kiên cố, được UNESCO công nhận là Di sản Thế giới năm 2011."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k4_c2_tn_2248",
+      "question": "Giải câu đố di tích sau:\n\"Khu di tích lịch sử tại huyện Can Lộc, tỉnh Hà Tĩnh\nNơi ghi dấu sự hy sinh anh dũng của mười cô gái thanh niên xung phong vào ngày hai tư tháng bảy năm một chín sáu tám\nĐể giữ vững mạch máu giao thông chi viện cho tiền tuyến miền Nam.\nĐó là địa danh nào?\"",
+      "options": {
+        "A": "Truông Bồn",
+        "B": "Hang Tám Cô",
+        "C": "Ngã ba Đồng Lộc",
+        "D": "Cồn Cỏ"
+      },
+      "answer": "C",
+      "explanation": "Ngã ba Đồng Lộc (Hà Tĩnh) là khúc ruột giao thông ác liệt trong kháng chiến chống Mỹ, nơi 10 nữ thanh niên xung phong Tiểu đội 4 đã anh dũng hy sinh."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k4_c2_tn_2249",
+      "question": "Giải câu đố di tích sau:\n\"Di tích lịch sử nằm bên dòng sông Thạch Hãn thuộc tỉnh Quảng Trị\nNơi diễn ra cuộc chiến đấu ác liệt suốt tám mươi mốt ngày đêm bảo vệ thành vào mùa hè đỏ lửa một chín bảy hai.\nĐó là di tích nào?\"",
+      "options": {
+        "A": "Thành Cổ Loa",
+        "B": "Cố đô Huế",
+        "C": "Thành cổ Quảng Trị",
+        "D": "Địa đạo Vịnh Mốc"
+      },
+      "answer": "C",
+      "explanation": "Thành cổ Quảng Trị là di tích lịch sử quốc gia đặc biệt ghi dấu trang sử vàng kiên cường của quân giải phóng trong 81 ngày đêm năm 1972."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k4_c2_tn_2250",
+      "question": "Giải câu đố địa danh sau:\n\"Dòng sông lịch sử tại vĩ tuyến mười bảy thuộc tỉnh Quảng Trị\nTừng là giới tuyến quân sự tạm thời chia cắt hai miền Nam - Bắc của đất nước suốt hơn hai mươi năm kháng chiến chống Mỹ.\nĐó là con sông nào?\"",
+      "options": {
+        "A": "Sông Thạch Hãn",
+        "B": "Sông Gianh",
+        "C": "Sông Bến Hải",
+        "D": "Sông Hương"
+      },
+      "answer": "C",
+      "explanation": "Sông Bến Hải (chảy qua huyện Vĩnh Linh và Gio Linh, Quảng Trị) nằm ở vĩ tuyến 17 từng là giới tuyến chia cắt đất nước từ 1954 đến 1975."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k4_c2_tn_2251",
+      "question": "Giải câu đố di tích sau:\n\"Cây cầu lịch sử sơn hai màu xanh - vàng bắc qua sông Bến Hải\nBiểu tượng cho nỗi đau chia cắt và khát vọng thống nhất non sông của toàn dân tộc Việt Nam.\nĐó là cây cầu nào?\"",
+      "options": {
+        "A": "Cầu Long Biên",
+        "B": "Cầu Tràng Tiền",
+        "C": "Cầu Hiền Lương",
+        "D": "Cầu Đò Lèn"
+      },
+      "answer": "C",
+      "explanation": "Cầu Hiền Lương bắc qua sông Bến Hải tại vĩ tuyến 17 là di tích lịch sử gắn liền với khát vọng thống nhất Tổ quốc."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k4_c2_tn_2252",
+      "question": "Giải câu đố di tích sau:\n\"Di tích lịch sử bên sông Sài Gòn tại Thành phố Hồ Chí Minh\nNơi người thanh niên yêu nước Nguyễn Tất Thành bước lên con tàu Đô đốc La-tu-sơ Tơ-rê-vin ra đi tìm đường cứu nước ngày năm tháng sáu năm một chín mười một.\nĐó là địa danh nào?\"",
+      "options": {
+        "A": "Bến Bạch Đằng",
+        "B": "Bến Bình Đông",
+        "C": "Bến Nhà Rồng",
+        "D": "Bến Ninh Kiều"
+      },
+      "answer": "C",
+      "explanation": "Bến Nhà Rồng (nay là Bảo tàng Hồ Chí Minh - Chi nhánh TP.HCM) là nơi Bác Hồ bắt đầu hành trình bôn ba cứu nước."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k4_c2_tn_2253",
+      "question": "Giải câu đố địa danh sau:\n\"Vùng đất ngập nước mênh mông thuộc ba tỉnh Đồng Tháp, Tiền Giang và Long An\nNổi tiếng với câu thơ:\n'Tháp Mười đẹp nhất bông sen\nViệt Nam đẹp nhất có tên Bác Hồ'.\nĐó là địa danh nào?\"",
+      "options": {
+        "A": "Bán đảo Cà Mau",
+        "B": "Tứ giác Long Xuyên",
+        "C": "Đồng Tháp Mười",
+        "D": "Vùng U Minh"
+      },
+      "answer": "C",
+      "explanation": "Đồng Tháp Mười là vùng đất ngập nước trũng rộng lớn của vùng đồng bằng sông Cửu Long, nổi tiếng với những cánh đồng sen bát ngát."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k4_c2_tn_2254",
+      "question": "Giải câu đố địa danh sau:\n\"Địa danh thiêng liêng ở chót cùng phía nam của dải đất hình chữ S\nThuộc huyện Ngọc Hiển, tỉnh Cà Mau\nNơi có mốc tọa độ quốc gia và biểu tượng con tàu căng buồm hướng ra biển lớn.\nĐó là địa danh nào?\"",
+      "options": {
+        "A": "Mũi Đôi",
+        "B": "Mũi Điện",
+        "C": "Mũi Kê Gà",
+        "D": "Mũi Cà Mau"
+      },
+      "answer": "D",
+      "explanation": "Mũi Cà Mau là điểm cực Nam trên đất liền của Tổ quốc Việt Nam, thuộc tỉnh Cà Mau."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k4_c2_tn_2255",
+      "question": "Giải câu đố địa danh sau:\n\"Đỉnh núi cao nhất của dải Trường Sơn Nam và toàn miền Trung nước ta\nNằm giữa hai tỉnh Kon Tum và Quảng Nam, cao hai nghìn năm trăm chín mươi tám mét\nLà quê hương của loài sâm quý mang tên loài núi này.\nĐó là đỉnh núi nào?\"",
+      "options": {
+        "A": "Đỉnh Phan Xi Păng",
+        "B": "Đỉnh Bạch Mã",
+        "C": "Đỉnh Bà Nà",
+        "D": "Đỉnh Ngọc Linh"
+      },
+      "answer": "D",
+      "explanation": "Đỉnh Ngọc Linh (2598m) thuộc khối núi Ngọc Linh là đỉnh núi cao nhất miền Trung, nổi danh với sâm Ngọc Linh quý hiếm."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k4_c2_tn_2256",
+      "question": "Giải câu đố địa danh sau:\n\"Hồ nước ngọt nhân tạo lớn nhất Đông Nam Á\nNằm trên địa bàn ba tỉnh Tây Ninh, Bình Dương và Bình Phước\nCung cấp nước tưới tiêu và sinh hoạt cho cả vùng hạ lưu sông Sài Gòn.\nĐó là hồ nước nào?\"",
+      "options": {
+        "A": "Hồ Trị An",
+        "B": "Hồ Thác Bà",
+        "C": "Hồ Hòa Bình",
+        "D": "Hồ Dầu Tiếng"
+      },
+      "answer": "D",
+      "explanation": "Hồ Dầu Tiếng là công trình thủy lợi nhân tạo có diện tích mặt nước rộng lớn nhất Việt Nam và khu vực."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k4_c2_tn_2257",
+      "question": "Giải câu đố di sản sau:\n\"Di sản Thiên nhiên Thế giới tại tỉnh Quảng Bình\nĐược UNESCO hai lần vinh danh nhờ giá trị địa chất và đa dạng sinh học\nCó động Thiên Đường nguy nga và sông ngầm dài nhất thế giới.\nĐó là vườn quốc gia nào?\"",
+      "options": {
+        "A": "Vườn quốc gia Cúc Phương",
+        "B": "Vườn quốc gia Ba Vì",
+        "C": "Vườn quốc gia Cát Tiên",
+        "D": "Vườn quốc gia Phong Nha - Kẻ Bàng"
+      },
+      "answer": "D",
+      "explanation": "Vườn quốc gia Phong Nha - Kẻ Bàng (Quảng Bình) được ví như vương quốc hang động kỳ vĩ của thế giới."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k4_c2_tn_2258",
+      "question": "Giải câu đố địa danh sau:\n\"Kinh đô của vương triều nhà Nguyễn suốt hơn một trăm bốn mươi năm\nNằm êm đềm bên dòng sông Hương và núi Ngự Bình\nNổi tiếng với Ngọ Môn, Tử Cấm Thành và nhã nhạc cung đình.\nĐó là địa danh nào?\"",
+      "options": {
+        "A": "Cố đô Hoa Lư",
+        "B": "Hoàng thành Thăng Long",
+        "C": "Thành nhà Hồ",
+        "D": "Cố đô Huế"
+      },
+      "answer": "D",
+      "explanation": "Quần thể di tích Cố đô Huế (tỉnh Thừa Thiên Huế) là kinh đô của triều Nguyễn từ 1802 đến 1945."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k4_c2_tn_2259",
+      "question": "Giải câu đố địa danh sau:\n\"Thác nước tự nhiên hùng vĩ trên sông Quây Sơn thuộc huyện Trùng Khánh, tỉnh Cao Bằng\nLà một trong những thác nước xuyên biên giới lớn thứ tư trên thế giới\nNước đổ tung bọt trắng xóa tựa như dải lụa tiên giữa núi rừng.\nĐó là con thác nào?\"",
+      "options": {
+        "A": "Thác Cam Ly",
+        "B": "Thác Dambri",
+        "C": "Thác Dray Nur",
+        "D": "Thác Bản Giốc"
+      },
+      "answer": "D",
+      "explanation": "Thác Bản Giốc (Cao Bằng) là thắng cảnh thiên nhiên biên giới tráng lệ bậc nhất của Việt Nam."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k4_c2_tn_2260",
+      "question": "Giải câu đố di tích sau:\n\"Cột cờ quốc gia sừng sững trên đỉnh núi Rồng thuộc huyện Đồng Văn, tỉnh Hà Giang\nĐánh dấu điểm cực Bắc thiêng liêng của dải đất Tổ quốc\nLá cờ đỏ sao vàng rộng năm mươi tư mét vuông tượng trưng cho năm mươi tư dân tộc anh em.\nĐó là công trình nào?\"",
+      "options": {
+        "A": "Cột cờ Hà Nội",
+        "B": "Cột cờ Nam Định",
+        "C": "Cột cờ Hiền Lương",
+        "D": "Cột cờ Lũng Cú"
+      },
+      "answer": "D",
+      "explanation": "Cột cờ Lũng Cú (Hà Giang) là biểu tượng thiêng liêng khẳng định chủ quyền lãnh thổ cực Bắc của Tổ quốc."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k4_c2_tn_2261",
+      "question": "Giải câu đố đồ dùng học tập sau:\n\"Thân dài gầy guộc thẳng ngay\nBên trong ruột xám vẽ hay vẽ tài\nHọc sinh gọt nhọn mỗi ngày\nVẽ tranh nắn nót điểm mười nở hoa.\nLà đồ vật gì?\"",
+      "options": {
+        "A": "Bút chì",
+        "B": "Cục tẩy",
+        "C": "Cái thước",
+        "D": "Cây compa"
+      },
+      "answer": "A",
+      "explanation": "Chiếc bút chì vỏ bằng gỗ bọc ruột chì than bên trong, dùng để viết nét chì và vẽ tranh."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k4_c2_tn_2262",
+      "question": "Giải câu đố đồ dùng học tập sau:\n\"Hộp nhựa vuông vắn nhỏ xinh\nĐủ mười hai sắc lung linh rạng ngời\nBé cầm pha nước tô mau\nBức tranh phong cảnh thắm tươi sắc màu.\nLà đồ dùng nào?\"",
+      "options": {
+        "A": "Hộp màu nước (bút sáp màu)",
+        "B": "Hộp phấn viết",
+        "C": "Túi bút",
+        "D": "Giấy thủ công"
+      },
+      "answer": "A",
+      "explanation": "Hộp màu nước hoặc sáp màu gồm nhiều thỏi màu đa dạng dùng trong các tiết học Mỹ thuật của học sinh."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k4_c2_tn_2263",
+      "question": "Giải câu đố lớp học sau:\n\"Mặt phẳng bóng mịn một màu\nTreo trên tường lớp em theo dõi bài\nThầy cô nắn nót từng dòng\nChữ xinh hiện rõ soi vào mắt thơ.\nLà đồ vật gì?\"",
+      "options": {
+        "A": "Chiếc bảng đen (bảng lớp học)",
+        "B": "Bức tranh tường",
+        "C": "Tấm rèm cửa",
+        "D": "Bản đồ thế giới"
+      },
+      "answer": "A",
+      "explanation": "Chiếc bảng đen (hoặc bảng xanh) trong lớp học dùng cho thầy cô giảng dạy và viết bài bằng phấn trắng."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k4_c2_tn_2264",
+      "question": "Giải câu đố đồ gia dụng sau:\n\"Có cánh mà chẳng biết bay\nQuay tròn tít mù xua nóng trưa hè\nĐứng yên một góc trong phòng\nGió mát thổi tới lòng người thảnh thơi.\nLà đồ vật gì?\"",
+      "options": {
+        "A": "Chiếc quạt máy (quạt điện)",
+        "B": "Cối xay gió",
+        "C": "Máy bay trực thăng",
+        "D": "Cánh diều"
+      },
+      "answer": "A",
+      "explanation": "Quạt máy cắm điện có cánh quạt quay tít tạo ra luồng gió làm mát không gian phòng học và gia đình."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k4_c2_tn_2265",
+      "question": "Giải câu đố đồ gia dụng sau:\n\"Ruột rỗng mình bằng inox sáng choang\nNước sôi réo gọi còi kêu vang lừng\nRót ra nước ấm ngọt lành\nPha trà tiếp khách đậm đà tình thân.\nLà cái gì?\"",
+      "options": {
+        "A": "Cái ấm đun nước",
+        "B": "Cái nồi cơm",
+        "C": "Chiếc xô nhôm",
+        "D": "Chiếc chảo rán"
+      },
+      "answer": "A",
+      "explanation": "Ấm đun nước có vòi reo khi nước sôi sục, dùng để đun nước nóng an toàn."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k4_c2_tn_2266",
+      "question": "Giải câu đố đồ gia dụng sau:\n\"Bốn chân đứng thẳng một nơi\nNâng niu giấc ngủ êm đềm em thơ\nTrải chiếu đặt gối êm ái\nGiúp người khỏe khoắn đón chào bình minh.\nLà đồ vật nào?\"",
+      "options": {
+        "A": "Chiếc giường ngủ",
+        "B": "Cái ghế sofa",
+        "C": "Chiếc bàn ăn",
+        "D": "Cái tủ áo"
+      },
+      "answer": "A",
+      "explanation": "Chiếc giường ngủ nâng đỡ cơ thể sau ngày học tập và làm việc, giúp có giấc ngủ ngon."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k4_c2_tn_2267",
+      "question": "Giải câu đố đồ vật sau:\n\"Mặt kính phẳng bóng sáng trong\nAi soi cũng thấy bóng hình của mình\nChải tóc sửa áo chỉnh tề\nNụ cười chúm chím rạng ngời đến trường.\nLà đồ vật gì?\"",
+      "options": {
+        "A": "Chiếc gương soi",
+        "B": "Mặt nước ao",
+        "C": "Màn hình ti vi",
+        "D": "Cửa kính"
+      },
+      "answer": "A",
+      "explanation": "Chiếc gương soi tráng thủy ngân phẳng bóng phản chiếu rõ nét hình ảnh của người đứng trước nó."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k4_c2_tn_2268",
+      "question": "Giải câu đố ngôi nhà sau:\n\"Khung chữ nhật mở vào ra\nĐón ánh nắng sớm ngập tràn gian phòng\nLắp kính trong vắt ngắm nhìn\nSân trường rợp bóng cây xanh nắng vàng.\nLà bộ phận nào?\"",
+      "options": {
+        "A": "Mái ngói",
+        "B": "Cửa sổ",
+        "C": "Bức tường",
+        "D": "Cột nhà"
+      },
+      "answer": "B",
+      "explanation": "Cửa sổ giúp căn phòng thông thoáng, đón nhận ánh sáng tự nhiên và gió mát."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k4_c2_tn_2269",
+      "question": "Giải câu đố đồ điện tử sau:\n\"Cắm điện chạy mát cả ngày\nGiữ thức ăn tươi thơm lành cả tuần\nLàm kem làm đá mát thanh\nĐồ dùng tiện ích nhà nào cũng mê.\nLà thiết bị gì?\"",
+      "options": {
+        "A": "Máy giặt",
+        "B": "Chiếc tủ lạnh",
+        "C": "Lò vi sóng",
+        "D": "Nồi chiên không dầu"
+      },
+      "answer": "B",
+      "explanation": "Tủ lạnh có ngăn đông và ngăn mát để bảo quản thực phẩm tươi ngon mỗi ngày."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k4_c2_tn_2270",
+      "question": "Giải câu đố đồ điện tử sau:\n\"Màn hình phẳng sáng lung linh\nPhát bao tin tức hoạt hình vui tươi\nCả nhà quây quần bên nhau\nXem phim ca nhạc rộn ràng niềm vui.\nLà thiết bị nào?\"",
+      "options": {
+        "A": "Cái đài radio",
+        "B": "Chiếc ti vi (máy truyền hình)",
+        "C": "Máy in",
+        "D": "Cái loa thùng"
+      },
+      "answer": "B",
+      "explanation": "Ti vi (truyền hình) truyền tải hình ảnh và âm thanh các chương trình giải trí, thông tin thời sự."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k4_c2_tn_2271",
+      "question": "Giải câu đố loài cây sau:\n\"Cây gì quả ruột chứa nhiều hạt con\nVỏ xanh cùi trắng giòn tan thơm lừng\nChấm muối ớt nhai ngọt bùi\nHọc trò tíu tít ai ai cũng thèm?\nLà cây gì?\"",
+      "options": {
+        "A": "Cây xoài",
+        "B": "Cây ổi",
+        "C": "Cây mận",
+        "D": "Cây táo"
+      },
+      "answer": "B",
+      "explanation": "Quả ổi giòn xốp, cùi dày hạt nhỏ li ti ở giữa, ăn kèm muối ớt là món quà quê rất được học sinh yêu thích."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k4_c2_tn_2272",
+      "question": "Giải câu đố loài cây sau:\n\"Quả kết thành buồng trĩu cong\nVỏ xanh khi chín chuyển sang màu vàng\nVừa thơm vừa ngọt mát lành\nBổ dưỡng sức khỏe trẻ già đều khen.\nLà cây gì?\"",
+      "options": {
+        "A": "Cây cau",
+        "B": "Cây chuối",
+        "C": "Cây ngô",
+        "D": "Cây dừa"
+      },
+      "answer": "B",
+      "explanation": "Cây chuối cho buồng quả trĩu trịt với nhiều nải chuối chín vàng thơm ngọt, giàu vitamin."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k4_c2_tn_2273",
+      "question": "Giải câu đố loài cây sau:\n\"Lá xòe như chiếc quạt to\nCho quả thơm lừng nước ngọt mát trong\nMọc theo bờ bãi kênh rạch\nBóng che râm mát miền Tây hữu tình.\nLà cây gì?\"",
+      "options": {
+        "A": "Cây cọ",
+        "B": "Cây dừa nước",
+        "C": "Cây thốt nốt",
+        "D": "Cây tràm"
+      },
+      "answer": "B",
+      "explanation": "Cây dừa nước mọc nhiều ven sông rạch đồng bằng sông Cửu Long, cho cơm dừa dẻo ngọt và nước mát thanh."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k4_c2_tn_2274",
+      "question": "Giải câu đố loài cây sau:\n\"Rễ mọc chằng chịt giữa dòng phù sa\nĐứng vững trước sóng gió biển khơi\nRừng ngập mặn xanh bạt ngàn\nGiữ đất giữ bờ cho đàn cá sinh.\nLà cây gì?\"",
+      "options": {
+        "A": "Cây bàng",
+        "B": "Cây đước",
+        "C": "Cây keo",
+        "D": "Cây thông"
+      },
+      "answer": "B",
+      "explanation": "Cây đước có bộ rễ chống (rễ nơm) chằng chịt cắm sâu vào bùn lầy, là loài cây đặc trưng của rừng ngập mặn ven biển Cà Mau."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k4_c2_tn_2275",
+      "question": "Giải câu đố loài cây sau:\n\"Thân đầy gai góc nhọn hoắt\nSống nơi khô hạn cát nóng nắng nôi\nThân mọng nước trữ tháng ngày\nHoa nở rực rỡ kiên cường vươn cao.\nLà cây gì?\"",
+      "options": {
+        "A": "Cây hoa hồng",
+        "B": "Cây nha đam",
+        "C": "Cây xương rồng",
+        "D": "Cây lưỡi hổ"
+      },
+      "answer": "C",
+      "explanation": "Cây xương rồng có lá biến thành gai để hạn chế thoát hơi nước, thích nghi hoàn hảo với môi trường khô cằn nắng gắt."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k4_c2_tn_2276",
+      "question": "Giải câu đố loài hoa sau:\n\"Nở giữa đầm lầy mênh mông\nGần bùn mà chẳng hôi tanh mùi bùn\nCánh hồng nhụy vàng ngát hương\nQuốc hoa tươi thắm lòng người nước Nam.\nLà hoa gì?\"",
+      "options": {
+        "A": "Hoa súng",
+        "B": "Hoa cúc",
+        "C": "Hoa sen",
+        "D": "Hoa huệ"
+      },
+      "answer": "C",
+      "explanation": "Hoa sen thanh khiết vươn lên từ đầm bùn, là biểu tượng cho nét đẹp tâm hồn cao đẹp của dân tộc Việt Nam."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k4_c2_tn_2277",
+      "question": "Giải câu đố loài hoa sau:\n\"Sắc vàng rực rỡ đón xuân\nNăm cánh tươi thắm đón chào Tết sang\nNhà nhà miền Nam chưng bày\nĐem may mắn đến đón chào năm mới.\nLà hoa gì?\"",
+      "options": {
+        "A": "Hoa cúc vạn thọ",
+        "B": "Hoa vạn thọ",
+        "C": "Hoa mai vàng",
+        "D": "Hoa hướng dương"
+      },
+      "answer": "C",
+      "explanation": "Hoa mai vàng năm cánh là loài hoa biểu trưng cho mùa xuân và ngày Tết Nguyên đán của nhân dân miền Nam."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k4_c2_tn_2278",
+      "question": "Giải câu đố loài hoa sau:\n\"Cánh hồng mỏng manh thắm tươi\nĐón gió đông buốt miền Bắc reo vui\nRung rinh trước cửa đón Tết\nSắc hoa tươi thắm cả nhà sum vầy.\nLà hoa gì?\"",
+      "options": {
+        "A": "Hoa mai",
+        "B": "Hoa hồng",
+        "C": "Hoa đào",
+        "D": "Hoa cẩm chướng"
+      },
+      "answer": "C",
+      "explanation": "Hoa đào bích, đào phai nở rộ đón gió xuân là loài hoa biểu tượng cho Tết cổ truyền của đồng bào miền Bắc."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k4_c2_tn_2279",
+      "question": "Giải câu đố loài quả sau:\n\"Vỏ xanh ruột đỏ ngọt lành\nHạt đen nhánh rải quanh thân quả tròn\nCắn miếng mát ngọt xua tan oi nồng\nNgày hè giải nhiệt cả nhà khen ngon.\nLà quả gì?\"",
+      "options": {
+        "A": "Quả thanh long",
+        "B": "Quả xoài",
+        "C": "Quả dưa hấu",
+        "D": "Quả lựu"
+      },
+      "answer": "C",
+      "explanation": "Quả dưa hấu có vỏ xanh ruột đỏ tươi, nhiều nước và ngọt mát, gắn liền với sự tích Mai An Tiêm."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k4_c2_tn_2280",
+      "question": "Giải câu đố loài quả sau:\n\"Tròn trĩnh như quả bóng da\nVỏ xanh cùi trắng tép mọng nước thơm\nNổi tiếng Đoan Hùng, Năm Roi\nMúi ngọt thơm lành khắp miền gần xa.\nLà quả gì?\"",
+      "options": {
+        "A": "Quả cam",
+        "B": "Quả quýt",
+        "C": "Quả bưởi",
+        "D": "Quả dừa"
+      },
+      "answer": "C",
+      "explanation": "Quả bưởi tròn to mọng nước, tép bưởi ngọt thanh có nhiều ở các vùng đặc sản như bưởi Đoan Hùng, bưởi Năm Roi."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k4_c2_tn_2281",
+      "question": "Giải câu đố con vật sau:\n\"Bộ lông vằn vện đen vàng\nChúa sơn lâm bước oai phong rừng già\nTiếng gầm rung chuyển núi non\nCòn gọi tên khác là ông ba mươi.\nLà con gì?\"",
+      "options": {
+        "A": "Con báo",
+        "B": "Con sư tử",
+        "C": "Con hổ (con cọp)",
+        "D": "Con chó sói"
+      },
+      "answer": "C",
+      "explanation": "Con hổ (cọp) có bộ lông vằn vện, sức mạnh phi thường, dân gian tôn kính gọi là chúa sơn lâm hay ông ba mươi."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k4_c2_tn_2282",
+      "question": "Giải câu đố con vật sau:\n\"Đôi tai dài ngoắt vểnh cao\nĐôi mắt màu đỏ tựa ngọc hồng đào\nThích ăn cà rốt, bắp cải non\nChạy nhảy thoăn thoắt đáng yêu vô cùng.\nLà con gì?\"",
+      "options": {
+        "A": "Con sóc",
+        "B": "Con chuột bạch",
+        "C": "Con thỏ",
+        "D": "Con mèo"
+      },
+      "answer": "C",
+      "explanation": "Con thỏ có đôi tai dài tinh tường, mắt tròn đỏ như ngọc và rất thích gặm cà rốt non."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k4_c2_tn_2283",
+      "question": "Giải câu đố con vật sau:\n\"Đẻ trứng ấp nở thành đàn\nCục ta cục tác gọi con kiếm mồi\nMào đỏ tươi tắn trên đầu\nChăm chỉ kiếm thóc nuôi đàn con ngoan.\nLà con gì?\"",
+      "options": {
+        "A": "Con chim sẻ",
+        "B": "Con vịt",
+        "C": "Con ngỗng",
+        "D": "Con gà mái"
+      },
+      "answer": "D",
+      "explanation": "Con gà mái kêu cục ta cục tác sau khi đẻ trứng và cần mẫn kiếm giun thóc nuôi đàn gà con."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k4_c2_tn_2284",
+      "question": "Giải câu đố loài côn trùng sau:\n\"Chăm chỉ sớm tối không ngừng\nBay khắp vườn hoa tìm mật ngọt lành\nXây tổ lục giác kỳ công\nDâng cho nhân thế giọt vàng thơm tho.\nLà con gì?\"",
+      "options": {
+        "A": "Con bươm bướm",
+        "B": "Con chuồn chuồn",
+        "C": "Con ve sầu",
+        "D": "Con ong mật"
+      },
+      "answer": "D",
+      "explanation": "Con ong mật chăm chỉ hút mật hoa và tạo ra những giọt mật ong ngọt thơm bổ dưỡng cho con người."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k4_c2_tn_2285",
+      "question": "Giải câu đố loài côn trùng sau:\n\"Bốn cánh mỏng mảnh như tơ\nBay thấp trời mưa, bay cao trời nắng\nBay vừa trời râm mát lành\nLà nhà dự báo thời tiết đồng quê.\nLà con gì?\"",
+      "options": {
+        "A": "Con bọ gậy",
+        "B": "Con dế mèn",
+        "C": "Con cào cào",
+        "D": "Con chuồn chuồn"
+      },
+      "answer": "D",
+      "explanation": "Chuồn chuồn bay lượn theo áp suất không khí và độ ẩm, dân gian có câu ca dao đúc kết kinh nghiệm thời tiết từ tầm bay của chúng."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k4_c2_tn_2286",
+      "question": "Giải câu đố con vật sau:\n\"Lưng mang tấm mai nặng nề\nRụt đầu rụt cẳng khi gặp hiểm nguy\nChậm chạp từng bước bước đi\nSống lâu trăm tuổi hiền từ an nhiên.\nLà con gì?\"",
+      "options": {
+        "A": "Con ốc sên",
+        "B": "Con cua",
+        "C": "Con ba ba",
+        "D": "Con rùa"
+      },
+      "answer": "D",
+      "explanation": "Con rùa có mai cứng chắc chắn bảo vệ cơ thể, di chuyển chậm chạp và nổi tiếng với tuổi thọ rất cao."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k4_c2_tn_2287",
+      "question": "Giải câu đố loài vật nhỏ sau:\n\"Thân mềm uốn lượn dưới bùn\nĐào xới đất xốp cho ruộng vườn tươi\nLà thợ cày nhỏ cần cù\nGiúp cây đâm rễ mùa màng tốt tươi.\nLà con gì?\"",
+      "options": {
+        "A": "Con đỉa",
+        "B": "Con sâu róm",
+        "C": "Con rết",
+        "D": "Con giun đất"
+      },
+      "answer": "D",
+      "explanation": "Con giun đất làm tơi xốp đất đai và thải ra mùn hữu cơ màu mỡ cho cây cối phát triển."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k4_c2_tn_2288",
+      "question": "Giải câu đố loài chim sau:\n\"Mỏ dài nhọn hoắt như đinh\nCứ gõ cộc cộc trên thân cây cao\nBắt sâu đục khoét gỗ rừng\nBảo vệ cây cối chữa lành vết đau.\nLà con chim gì?\"",
+      "options": {
+        "A": "Con chim bói cá",
+        "B": "Con chim chích bông",
+        "C": "Con chim cu gáy",
+        "D": "Con chim gõ kiến"
+      },
+      "answer": "D",
+      "explanation": "Chim gõ kiến dùng chiếc mỏ cứng cáp gõ vào thân cây để tìm bắt sâu bệnh phá hoại gỗ rừng."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k4_c2_tn_2289",
+      "question": "Giải câu đố loài chim sau:\n\"Lông xanh mỏ đỏ xinh tươi\nHọc nói tiếng người rất nhanh rất tài\nCất giọng líu lo đón chào\nKhách vừa bước tới chào mừng niềm vui.\nLà con chim nào?\"",
+      "options": {
+        "A": "Con chim yến phụng",
+        "B": "Con chim khướu",
+        "C": "Con chim sơn ca",
+        "D": "Con chim vẹt"
+      },
+      "answer": "D",
+      "explanation": "Chim vẹt có khả năng bắt chước tiếng người và các âm thanh xung quanh rất giỏi."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k4_c2_tn_2290",
+      "question": "Giải câu đố loài vật biển sau:\n\"Bơi lội giữa đại dương sâu\nPhun cột nước mát vút lên tận trời\nThân hình khổng lồ nhất hành tinh\nHiền lành thông minh bầu bạn cùng ngư dân.\nLà con gì?\"",
+      "options": {
+        "A": "Con cá mập",
+        "B": "Con cá heo",
+        "C": "Con hải mã",
+        "D": "Con cá voi"
+      },
+      "answer": "D",
+      "explanation": "Cá voi xanh là loài động vật lớn nhất hành tinh, có lỗ thở trên đỉnh đầu phun vòi nước khi trồi lên mặt biển."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k4_c2_tn_2291",
+      "question": "Giải câu đố dân gian sau:\n\"Cái gì chặt không đứt, bứt không rời, phơi không khô, đốt không cháy?\"",
+      "options": {
+        "A": "Dòng nước",
+        "B": "Tảng đá",
+        "C": "Sợi xích",
+        "D": "Cây sắt"
+      },
+      "answer": "A",
+      "explanation": "Dòng nước mềm mại chặt dao xuống lại liền, phơi không khô cả dòng sông và đốt không thể cháy."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k4_c2_tn_2292",
+      "question": "Giải câu đố mẹo sau:\n\"Bộ phận nào của bản thân mà người ngoài nhìn vào thì thấy rất rõ ràng, nhưng chính mình lại khó lòng tự nhìn thấy nếu không dùng gương soi?\"",
+      "options": {
+        "A": "Khuôn mặt (hoặc đôi mắt của mình)",
+        "B": "Bàn tay",
+        "C": "Đầu gối",
+        "D": "Bàn chân"
+      },
+      "answer": "A",
+      "explanation": "Khuôn mặt và đôi mắt của chính mình thì người đối diện nhìn thấy trực tiếp, còn bản thân ta chỉ nhìn thấy khi soi gương hoặc qua ảnh chụp."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k4_c2_tn_2293",
+      "question": "Giải câu đố mẹo sau:\n\"Một người đàn ông đi bộ dưới cơn mưa rào tầm tã mà không hề che ô hay đội mũ, quần áo ướt sũng nhưng không hề có sợi tóc nào bị ướt. Vì sao lại như vậy?\"",
+      "options": {
+        "A": "Vì người đàn ông đó bị hói đầu (không có tóc)",
+        "B": "Vì nước mưa không rơi trúng đầu",
+        "C": "Vì ông ấy chạy quá nhanh",
+        "D": "Vì trời không có mưa"
+      },
+      "answer": "A",
+      "explanation": "Người đàn ông bị hói đầu hoàn toàn nên không có sợi tóc nào để bị ướt."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k4_c2_tn_2294",
+      "question": "Giải câu đố mẹo sau:\n\"Loài hoa nào không bao giờ nở thành cánh hoa, cũng không có nhụy nhưng trên đầu các ngón tay ai có nó đều được khen là khéo léo?\"",
+      "options": {
+        "A": "Hoa tay",
+        "B": "Hoa hồng",
+        "C": "Hoa cúc",
+        "D": "Hoa mai"
+      },
+      "answer": "A",
+      "explanation": "'Hoa tay' là những đường vân xoắn tròn ở đầu ngón tay, dân gian thường cho rằng người có nhiều hoa tay thì vẽ đẹp và khéo tay."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k4_c2_tn_2295",
+      "question": "Giải câu đố mẹo vui sau:\n\"Vật gì ngày nào cũng 'đánh' cha, 'đánh' mẹ, 'đánh' anh chị em và 'đánh' cả bản thân mình mà chẳng ai tức giận hay trách phạt?\"",
+      "options": {
+        "A": "Cái bàn chải đánh răng",
+        "B": "Chiếc roi mây",
+        "C": "Cái gậy tập thể dục",
+        "D": "Cái lược chải đầu"
+      },
+      "answer": "A",
+      "explanation": "Cái bàn chải đánh răng dùng để 'đánh răng' vệ sinh miệng mỗi ngày sạch sẽ thơm tho."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k4_c2_tn_2296",
+      "question": "Giải câu đố mẹo sau:\n\"Cái gì mà khi ta càng lấy bớt đất đá đi nhiều thì bản thân nó lại càng trở nên to lớn hơn?\"",
+      "options": {
+        "A": "Cái hố đất (cái lỗ)",
+        "B": "Đống cát",
+        "C": "Ngọn đồi",
+        "D": "Cái bánh xe"
+      },
+      "answer": "A",
+      "explanation": "Khi đào lấy đất đi thì cái hố ngày càng rộng và sâu hơn, tức là nó to ra."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k4_c2_tn_2297",
+      "question": "Giải câu đố chữ vui sau:\n\"Ở đâu hay trong cuốn sách nào mà từ 'hôm nay' lại luôn luôn xuất hiện trước từ 'hôm qua'?\"",
+      "options": {
+        "A": "Trong cuốn từ điển tiếng Việt",
+        "B": "Trên tờ lịch treo tường",
+        "C": "Trong đồng hồ báo thức",
+        "D": "Trên màn hình ti vi"
+      },
+      "answer": "A",
+      "explanation": "Trong từ điển xếp theo thứ tự bảng chữ cái: âm 'n' trong 'hôm nay' đứng trước âm 'q' trong 'hôm qua'."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k4_c2_tn_2298",
+      "question": "Giải câu đố đồ vật sau:\n\"Cái gì có hai hoặc ba cây kim dài ngắn nhưng không dùng để khâu vá, chạy suốt đêm ngày chẳng biết mỏi mệt?\"",
+      "options": {
+        "A": "Chiếc đồng hồ",
+        "B": "Cây la bàn",
+        "C": "Cái cân đồng hồ",
+        "D": "Máy may"
+      },
+      "answer": "A",
+      "explanation": "Chiếc đồng hồ có kim giờ, kim phút, kim giây quay tròn đều đặn để chỉ thời gian."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k4_c2_tn_2299",
+      "question": "Giải câu đố tư duy sau:\n\"Một chú rùa bò từ điểm A đến điểm B mất 1 tiếng 20 phút, nhưng khi bò quay ngược lại từ B về A với cùng vận tốc đó thì lại chỉ mất đúng 80 phút. Tại sao?\"",
+      "options": {
+        "A": "Vì đường về dốc hơn",
+        "B": "Vì 1 tiếng 20 phút chính bằng đúng 80 phút",
+        "C": "Vì rùa đi nhanh hơn",
+        "D": "Vì đồng hồ chạy sai"
+      },
+      "answer": "B",
+      "explanation": "1 giờ có 60 phút, nên 1 giờ 20 phút = 60 + 20 = 80 phút. Thời gian đi và về là hoàn toàn bằng nhau."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k4_c2_tn_2300",
+      "question": "Giải câu đố khoa học vui sau:\n\"Có hai cốc nước giống nhau: cốc thứ nhất nước ở 25 độ C, cốc thứ hai nước ở 0 độ C đã đóng băng hoàn toàn thành đá. Thả hai viên bi sắt vào hai cốc, viên bi ở cốc nào sẽ chìm xuống đáy cốc trước?\"",
+      "options": {
+        "A": "Cốc nước ở 0 độ C",
+        "B": "Cốc nước ở 25 độ C",
+        "C": "Cả hai viên bi chìm cùng lúc",
+        "D": "Không viên bi nào chìm"
+      },
+      "answer": "B",
+      "explanation": "Cốc ở 0 độ C nước đã đông cứng thành khối đá nên viên bi nằm trên mặt đá; cốc 25 độ C là nước lỏng nên viên bi chìm ngay xuống đáy."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k4_c2_tn_2301",
+      "question": "Giải câu đố mẹo sau:\n\"Trên cành cây cao có 10 con chim đang đậu hót líu lo. Bác thợ săn giương súng bắn 'đoàng' một phát trúng chết 1 con chim rơi xuống. Hỏi trên cành cây lúc đó còn lại mấy con chim?\"",
+      "options": {
+        "A": "Còn lại 9 con chim",
+        "B": "Không còn con chim nào (vì tiếng súng nổ làm 9 con còn lại hoảng sợ bay mất)",
+        "C": "Còn lại 1 con chim",
+        "D": "Còn lại 10 con chim"
+      },
+      "answer": "B",
+      "explanation": "Tiếng súng nổ vang dội làm cho tất cả những con chim còn lại giật mình sợ hãi và bay đi hết."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k4_c2_tn_2302",
+      "question": "Giải câu đố mẹo sau:\n\"Loại bánh nào tròn xoe bằng cao su, không dùng bột đường để nướng hay rán nhưng xe máy, xe đạp muốn lăn bánh đều bắt buộc phải có?\"",
+      "options": {
+        "A": "Bánh mì",
+        "B": "Bánh xe",
+        "C": "Bánh bao",
+        "D": "Bánh quy"
+      },
+      "answer": "B",
+      "explanation": "'Bánh xe' là bộ phận chuyển động hình tròn của các phương tiện giao thông."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k4_c2_tn_2303",
+      "question": "Giải câu đố loài vật sau:\n\"Con vật nhỏ bé nào có thể bò leo lên tận ngọn cây cau cao vút mà không bao giờ bị rơi ngã?\"",
+      "options": {
+        "A": "Con trâu",
+        "B": "Con kiến",
+        "C": "Con voi",
+        "D": "Con bò"
+      },
+      "answer": "B",
+      "explanation": "Con kiến nhỏ bé có móc bám ở chân leo trèo rất giỏi trên các thân cây cao mà không sợ ngã."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k4_c2_tn_2304",
+      "question": "Giải câu đố lịch sau:\n\"Trong một năm dương lịch, có 7 tháng có 31 ngày và 4 tháng có 30 ngày. Hỏi trong năm đó có tất cả bao nhiêu tháng có 28 ngày?\"",
+      "options": {
+        "A": "Chỉ có 1 tháng (tháng Hai)",
+        "B": "Tất cả 12 tháng",
+        "C": "Có 4 tháng",
+        "D": "Có 7 tháng"
+      },
+      "answer": "B",
+      "explanation": "Tháng nào trong năm cũng có từ 28 ngày trở lên (28, 29, 30 hoặc 31 ngày), do đó cả 12 tháng đều có ngày thứ 28."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k4_c2_tn_2305",
+      "question": "Giải câu đố giao thông vui sau:\n\"Một đoàn tàu điện hiện đại chạy từ hướng Bắc về hướng Nam với vận tốc 80 km/h, gió thổi ngược lại về hướng Bắc với vận tốc 30 km/h. Hỏi làn khói của tàu điện sẽ bay về hướng nào?\"",
+      "options": {
+        "A": "Bay về hướng Bắc",
+        "B": "Tàu điện chạy bằng điện nên không xả khói",
+        "C": "Bay về hướng Nam",
+        "D": "Bay tản sang hai bên"
+      },
+      "answer": "B",
+      "explanation": "Tàu điện sử dụng năng lượng điện để vận hành, hoàn toàn không có ống khói và không thải khói."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k4_c2_tn_2306",
+      "question": "Giải câu đố cơ thể sau:\n\"Khi em nhắm chặt cả hai mắt lại thì em sẽ nhìn thấy màu sắc gì rõ nhất?\"",
+      "options": {
+        "A": "Màu trắng tinh",
+        "B": "Màu xanh dương",
+        "C": "Màu tối đen",
+        "D": "Màu vàng óng"
+      },
+      "answer": "C",
+      "explanation": "Khi mí mắt khép kín, ánh sáng không lọt vào võng mạc nên ta chỉ thấy một màn tối màu đen."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k4_c2_tn_2307",
+      "question": "Giải câu đố đồ vật sau:\n\"Cái gì có thể đi du lịch chu du khắp thế giới nhưng suốt hành trình nó chỉ nằm yên ở một góc của chiếc phong bì thư?\"",
+      "options": {
+        "A": "Tờ giấy viết thư",
+        "B": "Dòng địa chỉ",
+        "C": "Con tem thư",
+        "D": "Dấu bưu điện"
+      },
+      "answer": "C",
+      "explanation": "Con tem thư được dán cố định ở góc trên bên phải của phong bì thư và theo thư đi khắp mọi miền."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k4_c2_tn_2308",
+      "question": "Giải câu đố đồ gia dụng sau:\n\"Cái gì có bốn chân nhưng không biết đi, có mặt phẳng phiu nhưng không biết nói, đứng một chỗ trong lớp đợi học sinh ngồi học?\"",
+      "options": {
+        "A": "Cái bảng đen",
+        "B": "Cái cặp sách",
+        "C": "Cái bàn học (hoặc cái ghế)",
+        "D": "Cây thước kẻ"
+      },
+      "answer": "C",
+      "explanation": "Cái bàn có 4 chân và mặt bàn phẳng phiu nâng niu sách vở của học sinh."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k4_c2_tn_2309",
+      "question": "Giải câu đố tiết kiệm sau:\n\"Con gì bụng to bằng sứ, chỉ biết ăn tiền xu tiền giấy mà không bao giờ ăn cơm canh, giúp bé gom góp tiết kiệm quà ngoan?\"",
+      "options": {
+        "A": "Con voi rừng",
+        "B": "Con mèo mướp",
+        "C": "Con lợn đất (heo đất)",
+        "D": "Con gà trống"
+      },
+      "answer": "C",
+      "explanation": "Con heo đất (lợn đất tiết kiệm) giúp các bạn nhỏ tích lũy tiền mừng tuổi hoặc tiền thưởng để làm việc có ích."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k4_c2_tn_2310",
+      "question": "Giải câu đố logic sau:\n\"Có 3 quả cam ngọt chia đều cho hai người cha và hai người con, mỗi người đều được ăn trọn vẹn đúng một quả cam mà không cần phải cắt gọt chia nhỏ. Vì sao lại như vậy?\"",
+      "options": {
+        "A": "Vì một người nhường không ăn",
+        "B": "Vì có một quả cam thần kỳ",
+        "C": "Vì trong nhóm chỉ có đúng 3 người: Ông nội, người cha và người con trai",
+        "D": "Vì người con ăn hai quả"
+      },
+      "answer": "C",
+      "explanation": "Ba người gồm: Ông nội (cha của bố), bố (vừa là con của ông, vừa là cha của con trai), và người con trai. Như vậy có 2 người cha và 2 người con, tổng số người chỉ là 3."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k4_c2_tn_2311",
+      "question": "Giải câu đố mẹo sau:\n\"Cái gì luôn hiện hữu khi ta không lên tiếng, nhưng hễ ta vừa mở miệng cất lời thì nó lập tức tan biến ngay?\"",
+      "options": {
+        "A": "Cơn gió thoảng",
+        "B": "Bóng tối",
+        "C": "Sự im lặng",
+        "D": "Giấc mơ"
+      },
+      "answer": "C",
+      "explanation": "Khi ta cất tiếng nói thì âm thanh vang lên, sự im lặng biến mất."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k4_c2_tn_2312",
+      "question": "Giải câu đố thiên nhiên sau:\n\"Không có cánh mà bay tít trên cao, không có chân mà chạy khắp muôn nẻo, không có miệng mà gầm rít từng cơn làm nghiêng ngả cây rừng. Đó là hiện tượng gì?\"",
+      "options": {
+        "A": "Dòng sông",
+        "B": "Đám mây",
+        "C": "Cơn gió (cơn dông bão)",
+        "D": "Ánh trăng"
+      },
+      "answer": "C",
+      "explanation": "Gió là luồng không khí chuyển động, tạo ra tiếng rít khi thổi mạnh qua cành cây kẽ lá."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k4_c2_tn_2313",
+      "question": "Giải câu đố bản đồ sau:\n\"Con sông nào trải dài hàng nghìn ki-lô-mét trên trang giấy nhưng không hề chứa một giọt nước nào bên trong?\"",
+      "options": {
+        "A": "Sông Hồng",
+        "B": "Sông Cửu Long",
+        "C": "Sông Đồng Nai",
+        "D": "Con sông vẽ trên bản đồ"
+      },
+      "answer": "D",
+      "explanation": "Đó là hình vẽ tượng trưng cho dòng sông trên tấm bản đồ địa lý."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k4_c2_tn_2314",
+      "question": "Giải câu đố toán vui sau:\n\"Bạn Lan mang một chiếc làn đi chợ mua một quả dưa hấu nặng 3 kg và một quả dưa lưới nặng 2 kg. Hỏi trên đường về nhà, bạn Lan phải xách tổng cộng bao nhiêu ki-lô-gam quả?\"",
+      "options": {
+        "A": "6 ki-lô-gam (kg)",
+        "B": "1 ki-lô-gam (kg)",
+        "C": "3 ki-lô-gam (kg)",
+        "D": "5 ki-lô-gam (kg)"
+      },
+      "answer": "D",
+      "explanation": "Tổng khối lượng quả Lan phải xách là: 3 + 2 = 5 kg."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k4_c2_tn_2315",
+      "question": "Giải câu đố chữ vui sau:\n\"Từ nào trong tiếng Việt chỉ một con số mà khi ta viết bằng chữ có bốn chữ cái, nhưng khi bớt đi ba chữ cái thì nó vẫn đọc là số đó?\"",
+      "options": {
+        "A": "Từ 'Mười'",
+        "B": "Từ 'Tám'",
+        "C": "Từ 'Bảy'",
+        "D": "Từ 'Chín' (bớt chữ thành số 9)"
+      },
+      "answer": "D",
+      "explanation": "Chữ 'Chín' (vừa chỉ số 9, vừa chỉ trái cây chín ngọt)."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k4_c2_tn_2316",
+      "question": "Giải câu đố đồ vật sau:\n\"Cái gì ban ngày nằm gấp gọn gàng ở góc giường, ban đêm xòe rộng ôm ấp giữ ấm cho cơ thể bé suốt mùa đông giá rét?\"",
+      "options": {
+        "A": "Chiếc chiếu cói",
+        "B": "Cái gối ôm",
+        "C": "Màn ngủ",
+        "D": "Chiếc chăn bông"
+      },
+      "answer": "D",
+      "explanation": "Chiếc chăn bông giữ nhiệt êm ái giúp cơ thể ấm áp khi ngủ trong mùa đông."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k4_c2_tn_2317",
+      "question": "Giải câu đố đếm chữ sau:\n\"Có bao nhiêu chữ cái 'c' (kể cả chữ in hoa và chữ in thường) xuất hiện trong câu nói vui sau:\n'Cơm canh cá cua cái gì cô cũng thích'?\"",
+      "options": {
+        "A": "6 chữ cái c",
+        "B": "8 chữ cái c",
+        "C": "5 chữ cái c",
+        "D": "7 chữ cái c"
+      },
+      "answer": "D",
+      "explanation": "Các chữ có chứa chữ cái c: Cơm (1), canh (1), cá (1), cua (1), cái (1), cô (1), cũng (1). Tổng cộng có đúng 7 chữ cái c."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k4_c2_tn_2318",
+      "question": "Giải câu đố đồ dùng sau:\n\"Vật gì khi khô ráo thì nhẹ xốp, nhưng càng nhúng vào nước thì lại càng hút được nhiều nước và trở nên nặng trĩu?\"",
+      "options": {
+        "A": "Viên gạch",
+        "B": "Cục sắt",
+        "C": "Tấm kính",
+        "D": "Miếng bọt biển (khăn bông)"
+      },
+      "answer": "D",
+      "explanation": "Miếng bọt biển có nhiều lỗ xốp li ti có khả năng ngậm và giữ nước rất tốt."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "TN",
+      "questionId": "k4_c2_tn_2319",
+      "question": "Giải câu đố ánh sáng sau:\n\"Vào buổi trưa hè nắng gắt, cái gì luôn đi theo bước chân em trên mặt đường, em chạy nó chạy, em dừng nó dừng nhưng em không bao giờ bắt được nó?\"",
+      "options": {
+        "A": "Chiếc dép",
+        "B": "Cơn gió",
+        "C": "Hạt bụi",
+        "D": "Cái bóng của chính em"
+      },
+      "answer": "D",
+      "explanation": "Cái bóng in trên mặt đất do ánh sáng mặt trời chiếu vào cơ thể ta tạo nên."
     }
-  ]
-}
   ]
 }
