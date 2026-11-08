@@ -4,20 +4,20 @@
   "level": "CAP_1_VONG_LOAI",
   "startSeq": 1,
   "seqMode": "CONTINUOUS",
-  "totalQuestions": 2000,
+  "totalQuestions": 1986,
   "typeDistribution": {
     "TN": 1055,
-    "SX": 177,
+    "SX": 171,
     "NOI": 171,
-    "DT": 466,
+    "DT": 458,
     "CHON": 131
   },
   "typeDistributionPercent": {
-    "TN": 52.75,
-    "SX": 8.85,
-    "NOI": 8.55,
-    "DT": 23.3,
-    "CHON": 6.55
+    "TN": "53.12%",
+    "SX": "8.61%",
+    "NOI": "8.61%",
+    "DT": "23.06%",
+    "CHON": "6.60%"
   },
   "knowledgeSource": "kien thuc gioi han.md + Nội dung nhập trực tiếp",
   "questions": [
@@ -1434,21 +1434,6 @@
       ],
       "answer": "Chim có tổ người có tông",
       "explanation": "Câu thành ngữ/tục ngữ đúng là: 'Chim có tổ người có tông'. Mỗi con người đều có tổ tiên, cội nguồn giống như loài chim có tổ để về."
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_5",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "SX",
-      "questionId": "k5_c1_sx_0089",
-      "question": "Hãy sắp xếp các từ/cụm từ sau để tạo thành một câu tục ngữ, thành ngữ hoàn chỉnh và có nghĩa:",
-      "elements": [
-        "đào giếng",
-        "nhớ người",
-        "Uống nước"
-      ],
-      "answer": "Uống nước nhớ nguồn",
-      "explanation": "Câu thành ngữ/tục ngữ đúng là: 'Uống nước nhớ nguồn'. Hưởng trái ngọt nhớ công người trồng cây, uống nước mát nhớ ơn nguồn."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -3740,17 +3725,6 @@
       "grade": "KHOI_5",
       "level": "CAP_1_VONG_LOAI",
       "type": "DT",
-      "questionId": "k5_c1_dt_0197",
-      "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"(...) cha như núi Thái Sơn, nghĩa mẹ như nước trong nguồn chảy ra\"",
-      "blankAnswer": "Công",
-      "answer": "Công",
-      "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Công cha như núi Thái Sơn, nghĩa mẹ như nước trong nguồn chảy ra\". Công ơn sinh thành dưỡng dục của cha mẹ to lớn vô bờ bến không gì sánh bằng."
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_5",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "DT",
       "questionId": "k5_c1_dt_0198",
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Tấc đất tấc (...)\"",
       "blankAnswer": "vàng",
@@ -3877,39 +3851,6 @@
       "blankAnswer": "thương thân",
       "answer": "thương thân",
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Thương người như thể thương thân\". Yêu thương người khác như yêu quý chính bản thân mình."
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_5",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "DT",
-      "questionId": "k5_c1_dt_0210",
-      "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Một cây làm chẳng nên (...), ba cây chụm lại nên hòn núi cao\"",
-      "blankAnswer": "non",
-      "answer": "non",
-      "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao\". Một người lẻ loi khó làm việc lớn, nhưng khi đoàn kết lại sẽ tạo nên sức mạnh vô địch."
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_5",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "DT",
-      "questionId": "k5_c1_dt_0211",
-      "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Nhiễu điều phủ lấy giá (...), người trong một nước phải thương nhau cùng\"",
-      "blankAnswer": "gương",
-      "answer": "gương",
-      "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Nhiễu điều phủ lấy giá gương, người trong một nước phải thương nhau cùng\". Đồng bào cùng một giang sơn phải luôn đùm bọc, giúp đỡ lẫn nhau."
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_5",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "DT",
-      "questionId": "k5_c1_dt_0212",
-      "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Bầu ơi thương lấy bí (...), tuy rằng khác giống nhưng chung một giàn\"",
-      "blankAnswer": "cùng",
-      "answer": "cùng",
-      "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Bầu ơi thương lấy bí cùng, tuy rằng khác giống nhưng chung một giàn\". Dù xuất thân khác nhau nhưng cùng chung sống một đất nước thì phải thương yêu nhau."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -21213,36 +21154,6 @@
       "grade": "KHOI_5",
       "level": "CAP_1_VONG_LOAI",
       "type": "SX",
-      "questionId": "k5_c1_sx_1374",
-      "question": "Sắp xếp các cụm từ sau để khôi phục câu tục ngữ: một sàng khôn | Đi một ngày | đàng, học",
-      "elements": [
-        "một sàng khôn",
-        "Đi một ngày",
-        "đàng, học"
-      ],
-      "answer": "Đi một ngày đàng, học một sàng khôn",
-      "explanation": "Câu tục ngữ đúng là “Đi một ngày đàng, học một sàng khôn”. Trải nghiệm thực tế giúp mở mang hiểu biết."
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_5",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "SX",
-      "questionId": "k5_c1_sx_1375",
-      "question": "Sắp xếp các cụm từ sau để khôi phục câu tục ngữ: Chim có | có tông | tổ, người",
-      "elements": [
-        "Chim có",
-        "có tông",
-        "tổ, người"
-      ],
-      "answer": "Chim có tổ, người có tông",
-      "explanation": "Câu tục ngữ đúng là “Chim có tổ, người có tông”. Con người cần nhớ nguồn cội."
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_5",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "SX",
       "questionId": "k5_c1_sx_1376",
       "question": "Sắp xếp các cụm từ sau để khôi phục câu tục ngữ: Lá rụng | về cội",
       "elements": [
@@ -21294,21 +21205,6 @@
       ],
       "answer": "Kính già yêu trẻ",
       "explanation": "Câu tục ngữ đúng là “Kính già yêu trẻ”. Tôn trọng người cao tuổi, yêu thương trẻ nhỏ."
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_5",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "SX",
-      "questionId": "k5_c1_sx_1380",
-      "question": "Sắp xếp các cụm từ sau để khôi phục câu tục ngữ: Một con ngựa | đau, cả | tàu bỏ cỏ",
-      "elements": [
-        "Một con ngựa",
-        "đau, cả",
-        "tàu bỏ cỏ"
-      ],
-      "answer": "Một con ngựa đau, cả tàu bỏ cỏ",
-      "explanation": "Câu tục ngữ đúng là “Một con ngựa đau, cả tàu bỏ cỏ”. Tinh thần quan tâm, chia sẻ trong tập thể."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -21385,21 +21281,6 @@
       "grade": "KHOI_5",
       "level": "CAP_1_VONG_LOAI",
       "type": "SX",
-      "questionId": "k5_c1_sx_1386",
-      "question": "Sắp xếp các cụm từ sau để khôi phục câu tục ngữ: ngày nên kim | Có công mài | sắt, có",
-      "elements": [
-        "ngày nên kim",
-        "Có công mài",
-        "sắt, có"
-      ],
-      "answer": "Có công mài sắt, có ngày nên kim",
-      "explanation": "Câu tục ngữ đúng là “Có công mài sắt, có ngày nên kim”. Kiên trì sẽ đạt kết quả."
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_5",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "SX",
       "questionId": "k5_c1_sx_1387",
       "question": "Sắp xếp các cụm từ sau để khôi phục câu tục ngữ: Thất bại | thành công | là mẹ",
       "elements": [
@@ -21438,21 +21319,6 @@
       ],
       "answer": "Tre già măng mọc",
       "explanation": "Câu tục ngữ đúng là “Tre già măng mọc”. Thế hệ sau tiếp nối thế hệ trước."
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_5",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "SX",
-      "questionId": "k5_c1_sx_1390",
-      "question": "Sắp xếp các cụm từ sau để khôi phục câu tục ngữ: sạch, rách | cho thơm | Đói cho",
-      "elements": [
-        "sạch, rách",
-        "cho thơm",
-        "Đói cho"
-      ],
-      "answer": "Đói cho sạch, rách cho thơm",
-      "explanation": "Câu tục ngữ đúng là “Đói cho sạch, rách cho thơm”. Giữ nhân cách trong sạch dù khó khăn."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -29732,17 +29598,6 @@
       "grade": "KHOI_5",
       "level": "CAP_1_VONG_LOAI",
       "type": "DT",
-      "questionId": "k5_c1_dt_1726",
-      "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu tục ngữ sau: \"Lửa thử vàng, gian nan thử (...).\"",
-      "blankAnswer": "sức",
-      "answer": "sức",
-      "explanation": "Tục ngữ: \"Lửa thử vàng, gian nan thử sức\", nghĩa là khó khăn gian nan sẽ tôi luyện và thử thách ý chí con người."
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_5",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "DT",
       "questionId": "k5_c1_dt_1727",
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu tục ngữ sau: \"Gần mực thì đen, gần đèn thì (...).\"",
       "blankAnswer": "rạng",
@@ -29792,17 +29647,6 @@
       "blankAnswer": "mở",
       "answer": "mở",
       "explanation": "Tục ngữ: \"Học ăn, học nói, học gói, học mở\", khuyên con người cần học hỏi mọi điều từ cách ăn ở đến ứng xử khéo léo."
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_5",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "DT",
-      "questionId": "k5_c1_dt_1732",
-      "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ sau: \"Tấc đất tấc (...).\"",
-      "blankAnswer": "vàng",
-      "answer": "vàng",
-      "explanation": "Thành ngữ: \"Tấc đất tấc vàng\", ca ngợi giá trị quý báu của ruộng đất đối với người nông dân."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -29902,17 +29746,6 @@
       "blankAnswer": "lòng",
       "answer": "lòng",
       "explanation": "Tục ngữ ca ngợi sự chân thực, ngay thẳng, không ngại làm mếch lòng kẻ xấu."
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_5",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "DT",
-      "questionId": "k5_c1_dt_1742",
-      "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu tục ngữ sau: \"Cây ngay không sợ chết (...).\"",
-      "blankAnswer": "đứng",
-      "answer": "đứng",
-      "explanation": "Tục ngữ: \"Cây ngay không sợ chết đứng\", khẳng định người ngay thẳng, trong sạch thì không sợ lời vu khống."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -30254,17 +30087,6 @@
       "blankAnswer": "xuân",
       "answer": "xuân",
       "explanation": "Tục ngữ nhấn mạnh một cá nhân riêng lẻ không thể làm nên sự nghiệp lớn nếu thiếu tập thể."
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_5",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "DT",
-      "questionId": "k5_c1_dt_1774",
-      "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu tục ngữ sau: \"Chớ thấy sóng cả mà ngã tay (...).\"",
-      "blankAnswer": "chèo",
-      "answer": "chèo",
-      "explanation": "Tục ngữ khuyên không nên nản lòng, buông xuôi khi gặp khó khăn, thử thách lớn."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -33827,5 +33649,17 @@
       "answer": "B",
       "explanation": "Đàn chim én chao lượn trên bầu trời báo hiệu mùa xuân ấm áp đã về."
     }
-  ]
+  ],
+  "deduplicationReport": {
+    "uniqueQuestions": 1986,
+    "uniquenessRate": "100%",
+    "rejectedStats": {
+      "duplicate_hash": 14,
+      "high_jaccard_similarity": 0,
+      "template_overuse": 0,
+      "failed_sanity_check": 0,
+      "excluded_by_user": 0,
+      "distractor_variant_overuse": 0
+    }
+  }
 }
