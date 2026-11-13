@@ -2,12 +2,12 @@
   "contest": "Trạng Nguyên Tiếng Việt",
   "grade": "KHOI_1",
   "level": "CAP_2_VONG_TRUONG",
-  "totalQuestions": 1500,
+  "totalQuestions": 1408,
   "typeDistribution": {
     "NOI": 100,
     "CHON": 100,
-    "TN": 850,
-    "DT": 350,
+    "TN": 771,
+    "DT": 337,
     "SX": 100
   },
   "questions": [
@@ -22,7 +22,7 @@
         "1": "tưới cây",
         "2": "phấn trắng",
         "3": "cây dừa",
-        "4": "em bé"
+        "4": "bố mẹ"
       },
       "columnB": {
         "A": "Hoạt động",
@@ -36,7 +36,7 @@
         "3": "B",
         "4": "C"
       },
-      "explanation": "Nối đúng: 1-A: tưới cây thuộc nhóm hoạt động; 2-D: phấn trắng thuộc nhóm đồ dùng học tập; 3-B: cây dừa thuộc nhóm thiên nhiên; 4-C: em bé thuộc nhóm người thân."
+      "explanation": "Nối đúng: 1-A: tưới cây thuộc nhóm hoạt động; 2-D: phấn trắng thuộc nhóm đồ dùng học tập; 3-B: cây dừa thuộc nhóm thiên nhiên; 4-C: bố mẹ thuộc nhóm người thân."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -695,7 +695,7 @@
       "question": "Nối từ ở Cột A với nhóm từ phù hợp ở Cột B:",
       "columnA": {
         "1": "chú mèo",
-        "2": "em bé",
+        "2": "chị gái",
         "3": "bạn Lan",
         "4": "quét nhà"
       },
@@ -711,7 +711,7 @@
         "3": "C",
         "4": "B"
       },
-      "explanation": "Nối đúng: 1-A: chú mèo thuộc nhóm con vật; 2-D: em bé thuộc nhóm người thân; 3-C: bạn Lan thuộc nhóm người ở trường; 4-B: quét nhà thuộc nhóm hoạt động."
+      "explanation": "Nối đúng: 1-A: chú mèo thuộc nhóm con vật; 2-D: chị gái thuộc nhóm người thân; 3-C: bạn Lan thuộc nhóm người ở trường; 4-B: quét nhà thuộc nhóm hoạt động."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -1532,7 +1532,7 @@
       "question": "Nối từ ở Cột A với nhóm từ phù hợp ở Cột B:",
       "columnA": {
         "1": "con chó",
-        "2": "em bé",
+        "2": "anh trai",
         "3": "quyển vở",
         "4": "bạn bè"
       },
@@ -1548,7 +1548,7 @@
         "3": "A",
         "4": "C"
       },
-      "explanation": "Nối đúng: 1-D: con chó thuộc nhóm con vật; 2-B: em bé thuộc nhóm người thân; 3-A: quyển vở thuộc nhóm đồ dùng học tập; 4-C: bạn bè thuộc nhóm người ở trường."
+      "explanation": "Nối đúng: 1-D: con chó thuộc nhóm con vật; 2-B: anh traithuộc nhóm người thân; 3-A: quyển vở thuộc nhóm đồ dùng học tập; 4-C: bạn bè thuộc nhóm người ở trường."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -1666,7 +1666,7 @@
       "questionId": "k1_c2_noi_0062",
       "question": "Nối từ ở Cột A với nhóm từ phù hợp ở Cột B:",
       "columnA": {
-        "1": "em bé",
+        "1": "cậu mợ",
         "2": "con chó",
         "3": "thầy cô",
         "4": "đọc sách"
@@ -1683,7 +1683,7 @@
         "3": "A",
         "4": "C"
       },
-      "explanation": "Nối đúng: 1-D: em bé thuộc nhóm người thân; 2-B: con chó thuộc nhóm con vật; 3-A: thầy cô thuộc nhóm người ở trường; 4-C: đọc sách thuộc nhóm hoạt động."
+      "explanation": "Nối đúng: 1-D: cậu mợ thuộc nhóm người thân; 2-B: con chó thuộc nhóm con vật; 3-A: thầy cô thuộc nhóm người ở trường; 4-C: đọc sách thuộc nhóm hoạt động."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -2234,7 +2234,7 @@
       "question": "Nối từ ở Cột A với nhóm từ phù hợp ở Cột B:",
       "columnA": {
         "1": "phấn trắng",
-        "2": "em bé",
+        "2": "ông ngoại",
         "3": "bạn bè",
         "4": "xanh rờn"
       },
@@ -2250,7 +2250,7 @@
         "3": "D",
         "4": "A"
       },
-      "explanation": "Nối đúng: 1-B: phấn trắng thuộc nhóm đồ dùng học tập; 2-C: em bé thuộc nhóm người thân; 3-D: bạn bè thuộc nhóm người ở trường; 4-A: xanh rờn thuộc nhóm màu sắc."
+      "explanation": "Nối đúng: 1-B: phấn trắng thuộc nhóm đồ dùng học tập; 2-C: ông ngoại thuộc nhóm người thân; 3-D: bạn bè thuộc nhóm người ở trường; 4-A: xanh rờn thuộc nhóm màu sắc."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -2263,7 +2263,7 @@
         "1": "quét nhà",
         "2": "con thỏ",
         "3": "cặp sách",
-        "4": "em bé"
+        "4": "em gái"
       },
       "columnB": {
         "A": "Người thân",
@@ -2277,7 +2277,7 @@
         "3": "B",
         "4": "A"
       },
-      "explanation": "Nối đúng: 1-D: quét nhà thuộc nhóm hoạt động; 2-C: con thỏ thuộc nhóm con vật; 3-B: cặp sách thuộc nhóm đồ dùng học tập; 4-A: em bé thuộc nhóm người thân."
+      "explanation": "Nối đúng: 1-D: quét nhà thuộc nhóm hoạt động; 2-C: con thỏ thuộc nhóm con vật; 3-B: cặp sách thuộc nhóm đồ dùng học tập; 4-A: em gái thuộc nhóm người thân."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -2288,7 +2288,7 @@
       "question": "Nối từ ở Cột A với nhóm từ phù hợp ở Cột B:",
       "columnA": {
         "1": "con vịt",
-        "2": "em bé",
+        "2": "em trai",
         "3": "thầy cô",
         "4": "đỏ rực"
       },
@@ -2304,7 +2304,7 @@
         "3": "C",
         "4": "D"
       },
-      "explanation": "Nối đúng: 1-B: con vịt thuộc nhóm con vật; 2-A: em bé thuộc nhóm người thân; 3-C: thầy cô thuộc nhóm người ở trường; 4-D: đỏ rực thuộc nhóm màu sắc."
+      "explanation": "Nối đúng: 1-B: con vịt thuộc nhóm con vật; 2-A: em trai thuộc nhóm người thân; 3-C: thầy cô thuộc nhóm người ở trường; 4-D: đỏ rực thuộc nhóm màu sắc."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -2586,7 +2586,7 @@
       "columnA": {
         "1": "chăm chỉ",
         "2": "con chó",
-        "3": "em bé",
+        "3": "ông nội",
         "4": "dòng sông"
       },
       "columnB": {
@@ -2601,7 +2601,7 @@
         "3": "A",
         "4": "D"
       },
-      "explanation": "Nối đúng: 1-B: chăm chỉ thuộc nhóm đặc điểm; 2-C: con chó thuộc nhóm con vật; 3-A: em bé thuộc nhóm người thân; 4-D: dòng sông thuộc nhóm thiên nhiên."
+      "explanation": "Nối đúng: 1-B: chăm chỉ thuộc nhóm đặc điểm; 2-C: con chó thuộc nhóm con vật; 3-A: ông nội thuộc nhóm người thân; 4-D: dòng sông thuộc nhóm thiên nhiên."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -2614,7 +2614,7 @@
         "1": "thầy cô",
         "2": "quyển vở",
         "3": "hiền lành",
-        "4": "em bé"
+        "4": "em gái"
       },
       "columnB": {
         "A": "Đặc điểm",
@@ -2628,7 +2628,7 @@
         "3": "A",
         "4": "C"
       },
-      "explanation": "Nối đúng: 1-D: thầy cô thuộc nhóm người ở trường; 2-B: quyển vở thuộc nhóm đồ dùng học tập; 3-A: hiền lành thuộc nhóm đặc điểm; 4-C: em bé thuộc nhóm người thân."
+      "explanation": "Nối đúng: 1-D: thầy cô thuộc nhóm người ở trường; 2-B: quyển vở thuộc nhóm đồ dùng học tập; 3-A: hiền lành thuộc nhóm đặc điểm; 4-C: em gái thuộc nhóm người thân."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -2727,7 +2727,7 @@
         "con mèo"
       ],
       "groups": {
-        "G1": "Từ chỉ đồ vật (đồ dùng học tập)",
+        "G1": "Từ chỉ đồ vật",
         "G2": "Từ chỉ con vật"
       },
       "answer": {
@@ -2742,7 +2742,7 @@
           "con mèo"
         ]
       },
-      "explanation": "Nhóm G1 (đồ vật): quyển vở, bút chì, cái bàn. Nhóm G2 (con vật): con chó, chú thỏ, con mèo."
+      "explanation": "Nhóm G1 ( đồ vật): quyển vở, bút chì, cái bàn. Nhóm G2 (con vật): con chó, chú thỏ, con mèo."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -2760,7 +2760,7 @@
         "chú thỏ"
       ],
       "groups": {
-        "G1": "Từ chỉ đồ vật (đồ dùng học tập)",
+        "G1": "Từ chỉ đồ vật",
         "G2": "Từ chỉ con vật"
       },
       "answer": {
@@ -2775,7 +2775,7 @@
           "con vịt"
         ]
       },
-      "explanation": "Nhóm G1 (đồ vật): cái bàn, thước kẻ, bút chì. Nhóm G2 (con vật): con mèo, chú thỏ, con vịt."
+      "explanation": "Nhóm G1 ( đồ vật): cái bàn, thước kẻ, bút chì. Nhóm G2 (con vật): con mèo, chú thỏ, con vịt."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -2793,7 +2793,7 @@
         "con chó"
       ],
       "groups": {
-        "G1": "Từ chỉ đồ vật (đồ dùng học tập)",
+        "G1": "Từ chỉ đồ vật",
         "G2": "Từ chỉ con vật"
       },
       "answer": {
@@ -2808,7 +2808,7 @@
           "con chó"
         ]
       },
-      "explanation": "Nhóm G1 (đồ vật): bút chì, bảng đen, hộp bút. Nhóm G2 (con vật): con vịt, con mèo, con chó."
+      "explanation": "Nhóm G1 ( đồ vật): bút chì, bảng đen, hộp bút. Nhóm G2 (con vật): con vịt, con mèo, con chó."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -2818,30 +2818,30 @@
       "questionId": "k1_c2_chon_0004",
       "question": "Hãy xếp các từ dưới đây vào 2 nhóm thích hợp:",
       "words": [
-        "ông bà",
+        "bút chì",
         "cặp sách",
         "con mèo",
-        "chạy bộ",
-        "bút chì",
+        "con thỏ",
+        "thước kẻ",
         "gà trống"
       ],
       "groups": {
-        "G1": "Người thân và đồ vật",
-        "G2": "Con vật và hoạt động"
+        "G1": "Đồ vật",
+        "G2": "Con vật"
       },
       "answer": {
         "G1": [
-          "ông bà",
+          "bút chì",
           "cặp sách",
-          "bút chì"
+          "thước kẻ"
         ],
         "G2": [
           "con mèo",
-          "chạy bộ",
+          "con thỏ",
           "gà trống"
         ]
       },
-      "explanation": "Nhóm Người thân và đồ vật: ông bà, cặp sách, bút chì; Con vật và hoạt động: con mèo, chạy bộ, gà trống."
+      "explanation": "Nhóm Đồ vật: bút chì, cặp sách, thước kẻ; Nhóm Con vật: con mèo, con thỏ, gà trống."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -2859,7 +2859,7 @@
         "cái bàn"
       ],
       "groups": {
-        "G1": "Từ chỉ đồ vật (đồ dùng học tập)",
+        "G1": "Từ chỉ đồ vật",
         "G2": "Từ chỉ con vật"
       },
       "answer": {
@@ -2874,7 +2874,7 @@
           "chú thỏ"
         ]
       },
-      "explanation": "Nhóm G1 (đồ vật): cặp sách, cái bàn, hộp bút. Nhóm G2 (con vật): con vịt, con trâu, chú thỏ."
+      "explanation": "Nhóm G1 ( đồ vật): cặp sách, cái bàn, hộp bút. Nhóm G2 (con vật): con vịt, con trâu, chú thỏ."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -2892,7 +2892,7 @@
         "bảng đen"
       ],
       "groups": {
-        "G1": "Từ chỉ đồ vật (đồ dùng học tập)",
+        "G1": "Từ chỉ đồ vật",
         "G2": "Từ chỉ con vật"
       },
       "answer": {
@@ -2907,7 +2907,7 @@
           "con vịt"
         ]
       },
-      "explanation": "Nhóm G1 (đồ vật): cặp sách, cái bàn, bảng đen. Nhóm G2 (con vật): chú thỏ, con mèo, con vịt."
+      "explanation": "Nhóm G1 ( đồ vật): cặp sách, cái bàn, bảng đen. Nhóm G2 (con vật): chú thỏ, con mèo, con vịt."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -2925,7 +2925,7 @@
         "cặp sách"
       ],
       "groups": {
-        "G1": "Từ chỉ đồ vật (đồ dùng học tập)",
+        "G1": "Từ chỉ đồ vật",
         "G2": "Từ chỉ con vật"
       },
       "answer": {
@@ -2940,7 +2940,7 @@
           "con trâu"
         ]
       },
-      "explanation": "Nhóm G1 (đồ vật): hộp bút, cặp sách, bút chì. Nhóm G2 (con vật): con vịt, chú thỏ, con trâu."
+      "explanation": "Nhóm G1 ( đồ vật): hộp bút, cặp sách, bút chì. Nhóm G2 (con vật): con vịt, chú thỏ, con trâu."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -2958,7 +2958,7 @@
         "cái bàn"
       ],
       "groups": {
-        "G1": "Từ chỉ đồ vật (đồ dùng học tập)",
+        "G1": "Từ chỉ đồ vật",
         "G2": "Từ chỉ con vật"
       },
       "answer": {
@@ -2973,7 +2973,7 @@
           "con chó"
         ]
       },
-      "explanation": "Nhóm G1 (đồ vật): cái bàn, cặp sách, bảng đen. Nhóm G2 (con vật): con vịt, con mèo, con chó."
+      "explanation": "Nhóm G1 ( đồ vật): cái bàn, cặp sách, bảng đen. Nhóm G2 (con vật): con vịt, con mèo, con chó."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -2991,7 +2991,7 @@
         "quyển vở"
       ],
       "groups": {
-        "G1": "Từ chỉ đồ vật (đồ dùng học tập)",
+        "G1": "Từ chỉ đồ vật",
         "G2": "Từ chỉ con vật"
       },
       "answer": {
@@ -3006,7 +3006,7 @@
           "chú thỏ"
         ]
       },
-      "explanation": "Nhóm G1 (đồ vật): bút chì, cái bàn, quyển vở. Nhóm G2 (con vật): con trâu, con mèo, chú thỏ."
+      "explanation": "Nhóm G1 ( đồ vật): bút chì, cái bàn, quyển vở. Nhóm G2 (con vật): con trâu, con mèo, chú thỏ."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -3024,7 +3024,7 @@
         "cặp sách"
       ],
       "groups": {
-        "G1": "Từ chỉ đồ vật (đồ dùng học tập)",
+        "G1": "Từ chỉ đồ vật",
         "G2": "Từ chỉ con vật"
       },
       "answer": {
@@ -3039,7 +3039,7 @@
           "con mèo"
         ]
       },
-      "explanation": "Nhóm G1 (đồ vật): cái bàn, cặp sách, thước kẻ. Nhóm G2 (con vật): chú thỏ, con chó, con mèo."
+      "explanation": "Nhóm G1 ( đồ vật): cái bàn, cặp sách, thước kẻ. Nhóm G2 (con vật): chú thỏ, con chó, con mèo."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -3057,7 +3057,7 @@
         "hộp bút"
       ],
       "groups": {
-        "G1": "Từ chỉ đồ vật (đồ dùng học tập)",
+        "G1": "Từ chỉ đồ vật",
         "G2": "Từ chỉ con vật"
       },
       "answer": {
@@ -3072,7 +3072,7 @@
           "con vịt"
         ]
       },
-      "explanation": "Nhóm G1 (đồ vật): thước kẻ, hộp bút, bút chì. Nhóm G2 (con vật): con trâu, chú thỏ, con vịt."
+      "explanation": "Nhóm G1 ( đồ vật): thước kẻ, hộp bút, bút chì. Nhóm G2 (con vật): con trâu, chú thỏ, con vịt."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -3090,7 +3090,7 @@
         "cặp sách"
       ],
       "groups": {
-        "G1": "Từ chỉ đồ vật (đồ dùng học tập)",
+        "G1": "Từ chỉ đồ vật",
         "G2": "Từ chỉ con vật"
       },
       "answer": {
@@ -3105,7 +3105,7 @@
           "chú thỏ"
         ]
       },
-      "explanation": "Nhóm G1 (đồ vật): cặp sách, quyển vở, cái bàn. Nhóm G2 (con vật): con vịt, con mèo, chú thỏ."
+      "explanation": "Nhóm G1 ( đồ vật): cặp sách, quyển vở, cái bàn. Nhóm G2 (con vật): con vịt, con mèo, chú thỏ."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -3123,7 +3123,7 @@
         "con chó"
       ],
       "groups": {
-        "G1": "Từ chỉ đồ vật (đồ dùng học tập)",
+        "G1": "Từ chỉ đồ vật",
         "G2": "Từ chỉ con vật"
       },
       "answer": {
@@ -3138,7 +3138,7 @@
           "con chó"
         ]
       },
-      "explanation": "Nhóm G1 (đồ vật): bảng đen, cái bàn, hộp bút. Nhóm G2 (con vật): chú thỏ, con trâu, con chó."
+      "explanation": "Nhóm G1 ( đồ vật): bảng đen, cái bàn, hộp bút. Nhóm G2 (con vật): chú thỏ, con trâu, con chó."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -3156,7 +3156,7 @@
         "cặp sách"
       ],
       "groups": {
-        "G1": "Từ chỉ đồ vật (đồ dùng học tập)",
+        "G1": "Từ chỉ đồ vật",
         "G2": "Từ chỉ con vật"
       },
       "answer": {
@@ -3171,7 +3171,7 @@
           "con trâu"
         ]
       },
-      "explanation": "Nhóm G1 (đồ vật): bút chì, hộp bút, cặp sách. Nhóm G2 (con vật): con vịt, con mèo, con trâu."
+      "explanation": "Nhóm G1 ( đồ vật): bút chì, hộp bút, cặp sách. Nhóm G2 (con vật): con vịt, con mèo, con trâu."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -3189,7 +3189,7 @@
         "con chó"
       ],
       "groups": {
-        "G1": "Từ chỉ đồ vật (đồ dùng học tập)",
+        "G1": "Từ chỉ đồ vật",
         "G2": "Từ chỉ con vật"
       },
       "answer": {
@@ -3204,7 +3204,7 @@
           "con chó"
         ]
       },
-      "explanation": "Nhóm G1 (đồ vật): cái bàn, cặp sách, quyển vở. Nhóm G2 (con vật): chú thỏ, con trâu, con chó."
+      "explanation": "Nhóm G1 ( đồ vật): cái bàn, cặp sách, quyển vở. Nhóm G2 (con vật): chú thỏ, con trâu, con chó."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -3222,7 +3222,7 @@
         "thước kẻ"
       ],
       "groups": {
-        "G1": "Từ chỉ đồ vật (đồ dùng học tập)",
+        "G1": "Từ chỉ đồ vật",
         "G2": "Từ chỉ con vật"
       },
       "answer": {
@@ -3237,7 +3237,7 @@
           "con chó"
         ]
       },
-      "explanation": "Nhóm G1 (đồ vật): bảng đen, cặp sách, thước kẻ. Nhóm G2 (con vật): chú thỏ, con mèo, con chó."
+      "explanation": "Nhóm G1 ( đồ vật): bảng đen, cặp sách, thước kẻ. Nhóm G2 (con vật): chú thỏ, con mèo, con chó."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -3255,7 +3255,7 @@
         "con trâu"
       ],
       "groups": {
-        "G1": "Từ chỉ đồ vật (đồ dùng học tập)",
+        "G1": "Từ chỉ đồ vật",
         "G2": "Từ chỉ con vật"
       },
       "answer": {
@@ -3270,7 +3270,7 @@
           "con vịt"
         ]
       },
-      "explanation": "Nhóm G1 (đồ vật): cặp sách, quyển vở, hộp bút. Nhóm G2 (con vật): con chó, con trâu, con vịt."
+      "explanation": "Nhóm G1 ( đồ vật): cặp sách, quyển vở, hộp bút. Nhóm G2 (con vật): con chó, con trâu, con vịt."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -3288,7 +3288,7 @@
         "chú thỏ"
       ],
       "groups": {
-        "G1": "Từ chỉ đồ vật (đồ dùng học tập)",
+        "G1": "Từ chỉ đồ vật",
         "G2": "Từ chỉ con vật"
       },
       "answer": {
@@ -3303,7 +3303,7 @@
           "con trâu"
         ]
       },
-      "explanation": "Nhóm G1 (đồ vật): thước kẻ, cái bàn, bảng đen. Nhóm G2 (con vật): chú thỏ, con vịt, con trâu."
+      "explanation": "Nhóm G1 ( đồ vật): thước kẻ, cái bàn, bảng đen. Nhóm G2 (con vật): chú thỏ, con vịt, con trâu."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -3321,7 +3321,7 @@
         "con vịt"
       ],
       "groups": {
-        "G1": "Từ chỉ đồ vật (đồ dùng học tập)",
+        "G1": "Từ chỉ đồ vật",
         "G2": "Từ chỉ con vật"
       },
       "answer": {
@@ -3336,7 +3336,7 @@
           "con mèo"
         ]
       },
-      "explanation": "Nhóm G1 (đồ vật): quyển vở, bảng đen, thước kẻ. Nhóm G2 (con vật): con chó, con vịt, con mèo."
+      "explanation": "Nhóm G1 ( đồ vật): quyển vở, bảng đen, thước kẻ. Nhóm G2 (con vật): con chó, con vịt, con mèo."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -3354,7 +3354,7 @@
         "cặp sách"
       ],
       "groups": {
-        "G1": "Từ chỉ đồ vật (đồ dùng học tập)",
+        "G1": "Từ chỉ đồ vật",
         "G2": "Từ chỉ con vật"
       },
       "answer": {
@@ -3369,7 +3369,7 @@
           "con vịt"
         ]
       },
-      "explanation": "Nhóm G1 (đồ vật): cặp sách, thước kẻ, hộp bút. Nhóm G2 (con vật): chú thỏ, con trâu, con vịt."
+      "explanation": "Nhóm G1 ( đồ vật): cặp sách, thước kẻ, hộp bút. Nhóm G2 (con vật): chú thỏ, con trâu, con vịt."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -3387,7 +3387,7 @@
         "thước kẻ"
       ],
       "groups": {
-        "G1": "Từ chỉ đồ vật (đồ dùng học tập)",
+        "G1": "Từ chỉ đồ vật",
         "G2": "Từ chỉ con vật"
       },
       "answer": {
@@ -3402,7 +3402,7 @@
           "con vịt"
         ]
       },
-      "explanation": "Nhóm G1 (đồ vật): thước kẻ, cặp sách, cái bàn. Nhóm G2 (con vật): con trâu, con chó, con vịt."
+      "explanation": "Nhóm G1 ( đồ vật): thước kẻ, cặp sách, cái bàn. Nhóm G2 (con vật): con trâu, con chó, con vịt."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -3420,7 +3420,7 @@
         "quyển vở"
       ],
       "groups": {
-        "G1": "Từ chỉ đồ vật (đồ dùng học tập)",
+        "G1": "Từ chỉ đồ vật",
         "G2": "Từ chỉ con vật"
       },
       "answer": {
@@ -3435,7 +3435,7 @@
           "con vịt"
         ]
       },
-      "explanation": "Nhóm G1 (đồ vật): quyển vở, hộp bút, bảng đen. Nhóm G2 (con vật): chú thỏ, con trâu, con vịt."
+      "explanation": "Nhóm G1 ( đồ vật): quyển vở, hộp bút, bảng đen. Nhóm G2 (con vật): chú thỏ, con trâu, con vịt."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -3453,7 +3453,7 @@
         "cặp sách"
       ],
       "groups": {
-        "G1": "Từ chỉ đồ vật (đồ dùng học tập)",
+        "G1": "Từ chỉ đồ vật",
         "G2": "Từ chỉ con vật"
       },
       "answer": {
@@ -3468,7 +3468,7 @@
           "chú thỏ"
         ]
       },
-      "explanation": "Nhóm G1 (đồ vật): cặp sách, bảng đen, bút chì. Nhóm G2 (con vật): con trâu, con vịt, chú thỏ."
+      "explanation": "Nhóm G1 ( đồ vật): cặp sách, bảng đen, bút chì. Nhóm G2 (con vật): con trâu, con vịt, chú thỏ."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -3486,7 +3486,7 @@
         "cái bàn"
       ],
       "groups": {
-        "G1": "Từ chỉ đồ vật (đồ dùng học tập)",
+        "G1": "Từ chỉ đồ vật",
         "G2": "Từ chỉ con vật"
       },
       "answer": {
@@ -3501,7 +3501,7 @@
           "con mèo"
         ]
       },
-      "explanation": "Nhóm G1 (đồ vật): thước kẻ, cái bàn, cặp sách. Nhóm G2 (con vật): con chó, con trâu, con mèo."
+      "explanation": "Nhóm G1 ( đồ vật): thước kẻ, cái bàn, cặp sách. Nhóm G2 (con vật): con chó, con trâu, con mèo."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -3514,13 +3514,13 @@
         "mặt trời",
         "hoa hồng",
         "múa hát",
-        "siêng năng",
+        "chạy nhảy",
         "dòng sông",
-        "chăm chỉ"
+        "bơi lội"
       ],
       "groups": {
         "G1": "Thiên nhiên",
-        "G2": "Hoạt động và đặc điểm"
+        "G2": "Hoạt động"
       },
       "answer": {
         "G1": [
@@ -3530,11 +3530,11 @@
         ],
         "G2": [
           "múa hát",
-          "siêng năng",
-          "chăm chỉ"
+          "chạy nhảy",
+          "bơi lội"
         ]
       },
-      "explanation": "Nhóm Thiên nhiên: mặt trời, hoa hồng, dòng sông; Hoạt động và đặc điểm: múa hát, siêng năng, chăm chỉ."
+      "explanation": "Nhóm Thiên nhiên: mặt trời, hoa hồng, dòng sông; Hoạt động và đặc điểm: múa hát, chạy nhảy, bơi lội."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -3545,29 +3545,29 @@
       "question": "Hãy xếp các từ dưới đây vào 2 nhóm thích hợp:",
       "words": [
         "bảng đen",
-        "thầy cô",
+        "bàn học",
         "con công",
-        "đỏ rực",
+        "con quạ",
         "phấn trắng",
-        "ngoan ngoãn"
+        "con báo"
       ],
       "groups": {
-        "G1": "Gia đình và nhà trường",
-        "G2": "Con vật và đặc điểm"
+        "G1": "Nhà trường",
+        "G2": "Con vật"
       },
       "answer": {
         "G1": [
           "bảng đen",
-          "thầy cô",
+          "bàn học",
           "phấn trắng"
         ],
         "G2": [
           "con công",
-          "đỏ rực",
-          "ngoan ngoãn"
+          "con quạ",
+          "con báo"
         ]
       },
-      "explanation": "Nhóm Gia đình và nhà trường: bảng đen, thầy cô, phấn trắng; Con vật và đặc điểm: con công, đỏ rực, ngoan ngoãn."
+      "explanation": "Nhóm Nhà trường: bảng đen, bàn học, phấn trắng; Con vật và đặc điểm: con công, con quạ, con báo."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -3585,7 +3585,7 @@
         "con chó"
       ],
       "groups": {
-        "G1": "Từ chỉ đồ vật (đồ dùng học tập)",
+        "G1": "Từ chỉ đồ vật",
         "G2": "Từ chỉ con vật"
       },
       "answer": {
@@ -3600,7 +3600,7 @@
           "chú chim sẻ"
         ]
       },
-      "explanation": "Nhóm G1 (đồ vật): hộp bút, bút chì, cái bàn. Nhóm G2 (con vật): chú thỏ, con chó, chú chim sẻ."
+      "explanation": "Nhóm G1 ( đồ vật): hộp bút, bút chì, cái bàn. Nhóm G2 (con vật): chú thỏ, con chó, chú chim sẻ."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -3618,7 +3618,7 @@
         "con trâu"
       ],
       "groups": {
-        "G1": "Từ chỉ đồ vật (đồ dùng học tập)",
+        "G1": "Từ chỉ đồ vật",
         "G2": "Từ chỉ con vật"
       },
       "answer": {
@@ -3633,7 +3633,7 @@
           "con trâu"
         ]
       },
-      "explanation": "Nhóm G1 (đồ vật): thước kẻ, bảng đen, cặp sách. Nhóm G2 (con vật): chú thỏ, con mèo, con trâu."
+      "explanation": "Nhóm G1 ( đồ vật): thước kẻ, bảng đen, cặp sách. Nhóm G2 (con vật): chú thỏ, con mèo, con trâu."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -3651,7 +3651,7 @@
         "cái bàn"
       ],
       "groups": {
-        "G1": "Từ chỉ đồ vật (đồ dùng học tập)",
+        "G1": "Từ chỉ đồ vật",
         "G2": "Từ chỉ con vật"
       },
       "answer": {
@@ -3666,7 +3666,7 @@
           "con vịt"
         ]
       },
-      "explanation": "Nhóm G1 (đồ vật): cái bàn, cặp sách, hộp bút. Nhóm G2 (con vật): chú chim sẻ, chú thỏ, con vịt."
+      "explanation": "Nhóm G1 ( đồ vật): cái bàn, cặp sách, hộp bút. Nhóm G2 (con vật): chú chim sẻ, chú thỏ, con vịt."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -3684,7 +3684,7 @@
         "chú thỏ"
       ],
       "groups": {
-        "G1": "Từ chỉ đồ vật (đồ dùng học tập)",
+        "G1": "Từ chỉ đồ vật",
         "G2": "Từ chỉ con vật"
       },
       "answer": {
@@ -3699,7 +3699,7 @@
           "chú chim sẻ"
         ]
       },
-      "explanation": "Nhóm G1 (đồ vật): quyển vở, hộp bút, bút chì. Nhóm G2 (con vật): chú thỏ, con chó, chú chim sẻ."
+      "explanation": "Nhóm G1 ( đồ vật): quyển vở, hộp bút, bút chì. Nhóm G2 (con vật): chú thỏ, con chó, chú chim sẻ."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -3717,7 +3717,7 @@
         "chú thỏ"
       ],
       "groups": {
-        "G1": "Từ chỉ đồ vật (đồ dùng học tập)",
+        "G1": "Từ chỉ đồ vật",
         "G2": "Từ chỉ con vật"
       },
       "answer": {
@@ -3732,7 +3732,7 @@
           "con mèo"
         ]
       },
-      "explanation": "Nhóm G1 (đồ vật): quyển vở, cái bàn, thước kẻ. Nhóm G2 (con vật): chú thỏ, chú chim sẻ, con mèo."
+      "explanation": "Nhóm G1 ( đồ vật): quyển vở, cái bàn, thước kẻ. Nhóm G2 (con vật): chú thỏ, chú chim sẻ, con mèo."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -3750,7 +3750,7 @@
         "chú thỏ"
       ],
       "groups": {
-        "G1": "Từ chỉ đồ vật (đồ dùng học tập)",
+        "G1": "Từ chỉ  đồ vật",
         "G2": "Từ chỉ con vật"
       },
       "answer": {
@@ -3765,7 +3765,7 @@
           "chú chim sẻ"
         ]
       },
-      "explanation": "Nhóm G1 (đồ vật): cái bàn, quyển vở, cặp sách. Nhóm G2 (con vật): chú thỏ, con vịt, chú chim sẻ."
+      "explanation": "Nhóm G1 ( đồ vật): cái bàn, quyển vở, cặp sách. Nhóm G2 (con vật): chú thỏ, con vịt, chú chim sẻ."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -3783,7 +3783,7 @@
         "chú chim sẻ"
       ],
       "groups": {
-        "G1": "Từ chỉ đồ vật (đồ dùng học tập)",
+        "G1": "Từ chỉ đồ vật",
         "G2": "Từ chỉ con vật"
       },
       "answer": {
@@ -3798,7 +3798,7 @@
           "con mèo"
         ]
       },
-      "explanation": "Nhóm G1 (đồ vật): quyển vở, thước kẻ, hộp bút. Nhóm G2 (con vật): con vịt, chú chim sẻ, con mèo."
+      "explanation": "Nhóm G1 ( đồ vật): quyển vở, thước kẻ, hộp bút. Nhóm G2 (con vật): con vịt, chú chim sẻ, con mèo."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -3816,7 +3816,7 @@
         "cái bàn"
       ],
       "groups": {
-        "G1": "Từ chỉ đồ vật (đồ dùng học tập)",
+        "G1": "Từ chỉ đồ vật",
         "G2": "Từ chỉ con vật"
       },
       "answer": {
@@ -3831,7 +3831,7 @@
           "con mèo"
         ]
       },
-      "explanation": "Nhóm G1 (đồ vật): cặp sách, cái bàn, hộp bút. Nhóm G2 (con vật): con trâu, chú chim sẻ, con mèo."
+      "explanation": "Nhóm G1 ( đồ vật): cặp sách, cái bàn, hộp bút. Nhóm G2 (con vật): con trâu, chú chim sẻ, con mèo."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -3849,7 +3849,7 @@
         "hộp bút"
       ],
       "groups": {
-        "G1": "Từ chỉ đồ vật (đồ dùng học tập)",
+        "G1": "Từ chỉ đồ vật",
         "G2": "Từ chỉ con vật"
       },
       "answer": {
@@ -3864,7 +3864,7 @@
           "con trâu"
         ]
       },
-      "explanation": "Nhóm G1 (đồ vật): cái bàn, hộp bút, bút chì. Nhóm G2 (con vật): chú gà trống, con vịt, con trâu."
+      "explanation": "Nhóm G1 ( đồ vật): cái bàn, hộp bút, bút chì. Nhóm G2 (con vật): chú gà trống, con vịt, con trâu."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -3882,7 +3882,7 @@
         "chú thỏ"
       ],
       "groups": {
-        "G1": "Từ chỉ đồ vật (đồ dùng học tập)",
+        "G1": "Từ chỉ đồ vật",
         "G2": "Từ chỉ con vật"
       },
       "answer": {
@@ -3897,7 +3897,7 @@
           "chú gà trống"
         ]
       },
-      "explanation": "Nhóm G1 (đồ vật): cái bàn, bảng đen, bút chì. Nhóm G2 (con vật): con chó, chú thỏ, chú gà trống."
+      "explanation": "Nhóm G1 ( đồ vật): cái bàn, bảng đen, bút chì. Nhóm G2 (con vật): con chó, chú thỏ, chú gà trống."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -3915,7 +3915,7 @@
         "chú chim sẻ"
       ],
       "groups": {
-        "G1": "Từ chỉ đồ vật (đồ dùng học tập)",
+        "G1": "Từ chỉ đồ vật",
         "G2": "Từ chỉ con vật"
       },
       "answer": {
@@ -3930,7 +3930,7 @@
           "con mèo"
         ]
       },
-      "explanation": "Nhóm G1 (đồ vật): bảng đen, cái bàn, thước kẻ. Nhóm G2 (con vật): chú chim sẻ, con chó, con mèo."
+      "explanation": "Nhóm G1 ( đồ vật): bảng đen, cái bàn, thước kẻ. Nhóm G2 (con vật): chú chim sẻ, con chó, con mèo."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -3948,7 +3948,7 @@
         "con vịt"
       ],
       "groups": {
-        "G1": "Từ chỉ đồ vật (đồ dùng học tập)",
+        "G1": "Từ chỉ đồ vật",
         "G2": "Từ chỉ con vật"
       },
       "answer": {
@@ -3963,7 +3963,7 @@
           "chú gà trống"
         ]
       },
-      "explanation": "Nhóm G1 (đồ vật): bút chì, cái bàn, quyển vở. Nhóm G2 (con vật): con vịt, con chó, chú gà trống."
+      "explanation": "Nhóm G1 ( đồ vật): bút chì, cái bàn, quyển vở. Nhóm G2 (con vật): con vịt, con chó, chú gà trống."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -3981,7 +3981,7 @@
         "cái bàn"
       ],
       "groups": {
-        "G1": "Từ chỉ đồ vật (đồ dùng học tập)",
+        "G1": "Từ chỉ đồ vật",
         "G2": "Từ chỉ con vật"
       },
       "answer": {
@@ -3996,7 +3996,7 @@
           "chú thỏ"
         ]
       },
-      "explanation": "Nhóm G1 (đồ vật): cặp sách, bảng đen, cái bàn. Nhóm G2 (con vật): chú chim sẻ, con chó, chú thỏ."
+      "explanation": "Nhóm G1 ( đồ vật): cặp sách, bảng đen, cái bàn. Nhóm G2 (con vật): chú chim sẻ, con chó, chú thỏ."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -4014,7 +4014,7 @@
         "chú chim sẻ"
       ],
       "groups": {
-        "G1": "Từ chỉ đồ vật (đồ dùng học tập)",
+        "G1": "Từ chỉ đồ vật",
         "G2": "Từ chỉ con vật"
       },
       "answer": {
@@ -4029,7 +4029,7 @@
           "chú chim sẻ"
         ]
       },
-      "explanation": "Nhóm G1 (đồ vật): hộp bút, bút chì, thước kẻ. Nhóm G2 (con vật): chú thỏ, con trâu, chú chim sẻ."
+      "explanation": "Nhóm G1 ( đồ vật): hộp bút, bút chì, thước kẻ. Nhóm G2 (con vật): chú thỏ, con trâu, chú chim sẻ."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -4047,7 +4047,7 @@
         "con mèo"
       ],
       "groups": {
-        "G1": "Từ chỉ đồ vật (đồ dùng học tập)",
+        "G1": "Từ chỉ đồ vật",
         "G2": "Từ chỉ con vật"
       },
       "answer": {
@@ -4062,7 +4062,7 @@
           "con mèo"
         ]
       },
-      "explanation": "Nhóm G1 (đồ vật): bảng đen, cặp sách, bút chì. Nhóm G2 (con vật): con vịt, chú chim sẻ, con mèo."
+      "explanation": "Nhóm G1 ( đồ vật): bảng đen, cặp sách, bút chì. Nhóm G2 (con vật): con vịt, chú chim sẻ, con mèo."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -4080,7 +4080,7 @@
         "quyển vở"
       ],
       "groups": {
-        "G1": "Từ chỉ đồ vật (đồ dùng học tập)",
+        "G1": "Từ chỉ đồ vật",
         "G2": "Từ chỉ con vật"
       },
       "answer": {
@@ -4095,7 +4095,7 @@
           "chú gà trống"
         ]
       },
-      "explanation": "Nhóm G1 (đồ vật): bảng đen, hộp bút, quyển vở. Nhóm G2 (con vật): con mèo, con vịt, chú gà trống."
+      "explanation": "Nhóm G1 ( đồ vật): bảng đen, hộp bút, quyển vở. Nhóm G2 (con vật): con mèo, con vịt, chú gà trống."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -4113,7 +4113,7 @@
         "chú thỏ"
       ],
       "groups": {
-        "G1": "Từ chỉ đồ vật (đồ dùng học tập)",
+        "G1": "Từ chỉ đồ vật",
         "G2": "Từ chỉ con vật"
       },
       "answer": {
@@ -4128,7 +4128,7 @@
           "chú gà trống"
         ]
       },
-      "explanation": "Nhóm G1 (đồ vật): hộp bút, quyển vở, thước kẻ. Nhóm G2 (con vật): con mèo, chú thỏ, chú gà trống."
+      "explanation": "Nhóm G1 ( đồ vật): hộp bút, quyển vở, thước kẻ. Nhóm G2 (con vật): con mèo, chú thỏ, chú gà trống."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -4146,7 +4146,7 @@
         "cái bàn"
       ],
       "groups": {
-        "G1": "Từ chỉ đồ vật (đồ dùng học tập)",
+        "G1": "Từ chỉ đồ vật",
         "G2": "Từ chỉ con vật"
       },
       "answer": {
@@ -4161,7 +4161,7 @@
           "con trâu"
         ]
       },
-      "explanation": "Nhóm G1 (đồ vật): cái bàn, bảng đen, cặp sách. Nhóm G2 (con vật): chú chim sẻ, con mèo, con trâu."
+      "explanation": "Nhóm G1 ( đồ vật): cái bàn, bảng đen, cặp sách. Nhóm G2 (con vật): chú chim sẻ, con mèo, con trâu."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -4179,7 +4179,7 @@
         "quyển vở"
       ],
       "groups": {
-        "G1": "Từ chỉ đồ vật (đồ dùng học tập)",
+        "G1": "Từ chỉ đồ vật",
         "G2": "Từ chỉ con vật"
       },
       "answer": {
@@ -4194,7 +4194,7 @@
           "chú gà trống"
         ]
       },
-      "explanation": "Nhóm G1 (đồ vật): hộp bút, cặp sách, quyển vở. Nhóm G2 (con vật): chú thỏ, con chó, chú gà trống."
+      "explanation": "Nhóm G1 ( đồ vật): hộp bút, cặp sách, quyển vở. Nhóm G2 (con vật): chú thỏ, con chó, chú gà trống."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -4212,7 +4212,7 @@
         "con mèo"
       ],
       "groups": {
-        "G1": "Từ chỉ đồ vật (đồ dùng học tập)",
+        "G1": "Từ chỉ đồ vật",
         "G2": "Từ chỉ con vật"
       },
       "answer": {
@@ -4227,7 +4227,7 @@
           "chú thỏ"
         ]
       },
-      "explanation": "Nhóm G1 (đồ vật): bút chì, bảng đen, quyển vở. Nhóm G2 (con vật): con mèo, chú gà trống, chú thỏ."
+      "explanation": "Nhóm G1 ( đồ vật): bút chì, bảng đen, quyển vở. Nhóm G2 (con vật): con mèo, chú gà trống, chú thỏ."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -4245,7 +4245,7 @@
         "bút chì"
       ],
       "groups": {
-        "G1": "Từ chỉ đồ vật (đồ dùng học tập)",
+        "G1": "Từ chỉ đồ vật",
         "G2": "Từ chỉ con vật"
       },
       "answer": {
@@ -4260,7 +4260,7 @@
           "con vịt"
         ]
       },
-      "explanation": "Nhóm G1 (đồ vật): cặp sách, bút chì, bảng đen. Nhóm G2 (con vật): chú gà trống, chú thỏ, con vịt."
+      "explanation": "Nhóm G1 ( đồ vật): cặp sách, bút chì, bảng đen. Nhóm G2 (con vật): chú gà trống, chú thỏ, con vịt."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -4278,7 +4278,7 @@
         "cặp sách"
       ],
       "groups": {
-        "G1": "Từ chỉ đồ vật (đồ dùng học tập)",
+        "G1": "Từ chỉ đồ vật",
         "G2": "Từ chỉ con vật"
       },
       "answer": {
@@ -4293,7 +4293,7 @@
           "chú thỏ"
         ]
       },
-      "explanation": "Nhóm G1 (đồ vật): cặp sách, quyển vở, bút chì. Nhóm G2 (con vật): chú gà trống, con vịt, chú thỏ."
+      "explanation": "Nhóm G1 ( đồ vật): cặp sách, quyển vở, bút chì. Nhóm G2 (con vật): chú gà trống, con vịt, chú thỏ."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -4311,7 +4311,7 @@
         "bảng đen"
       ],
       "groups": {
-        "G1": "Từ chỉ đồ vật (đồ dùng học tập)",
+        "G1": "Từ chỉ đồ vật",
         "G2": "Từ chỉ con vật"
       },
       "answer": {
@@ -4326,7 +4326,7 @@
           "con vịt"
         ]
       },
-      "explanation": "Nhóm G1 (đồ vật): bảng đen, quyển vở, bút chì. Nhóm G2 (con vật): con trâu, chú chim sẻ, con vịt."
+      "explanation": "Nhóm G1 ( đồ vật): bảng đen, quyển vở, bút chì. Nhóm G2 (con vật): con trâu, chú chim sẻ, con vịt."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -4344,7 +4344,7 @@
         "cặp sách"
       ],
       "groups": {
-        "G1": "Từ chỉ đồ vật (đồ dùng học tập)",
+        "G1": "Từ chỉ đồ vật",
         "G2": "Từ chỉ con vật"
       },
       "answer": {
@@ -4359,7 +4359,7 @@
           "con vịt"
         ]
       },
-      "explanation": "Nhóm G1 (đồ vật): bảng đen, cặp sách, quyển vở. Nhóm G2 (con vật): con mèo, chú chim sẻ, con vịt."
+      "explanation": "Nhóm G1 ( đồ vật): bảng đen, cặp sách, quyển vở. Nhóm G2 (con vật): con mèo, chú chim sẻ, con vịt."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -4377,7 +4377,7 @@
         "thước kẻ"
       ],
       "groups": {
-        "G1": "Từ chỉ đồ vật (đồ dùng học tập)",
+        "G1": "Từ chỉ đồ vật",
         "G2": "Từ chỉ con vật"
       },
       "answer": {
@@ -4392,7 +4392,7 @@
           "con chó"
         ]
       },
-      "explanation": "Nhóm G1 (đồ vật): bảng đen, thước kẻ, hộp bút. Nhóm G2 (con vật): con trâu, chú chim sẻ, con chó."
+      "explanation": "Nhóm G1 ( đồ vật): bảng đen, thước kẻ, hộp bút. Nhóm G2 (con vật): con trâu, chú chim sẻ, con chó."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -4410,7 +4410,7 @@
         "con chó"
       ],
       "groups": {
-        "G1": "Từ chỉ đồ vật (đồ dùng học tập)",
+        "G1": "Từ chỉ đồ vật",
         "G2": "Từ chỉ con vật"
       },
       "answer": {
@@ -4425,7 +4425,7 @@
           "chú gà trống"
         ]
       },
-      "explanation": "Nhóm G1 (đồ vật): bảng đen, quyển vở, bút chì. Nhóm G2 (con vật): con chó, chú thỏ, chú gà trống."
+      "explanation": "Nhóm G1 ( đồ vật): bảng đen, quyển vở, bút chì. Nhóm G2 (con vật): con chó, chú thỏ, chú gà trống."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -4443,7 +4443,7 @@
         "quyển vở"
       ],
       "groups": {
-        "G1": "Từ chỉ đồ vật (đồ dùng học tập)",
+        "G1": "Từ chỉ đồ vật",
         "G2": "Từ chỉ con vật"
       },
       "answer": {
@@ -4458,7 +4458,7 @@
           "chú gà trống"
         ]
       },
-      "explanation": "Nhóm G1 (đồ vật): quyển vở, cặp sách, bút chì. Nhóm G2 (con vật): con mèo, con chó, chú gà trống."
+      "explanation": "Nhóm G1 ( đồ vật): quyển vở, cặp sách, bút chì. Nhóm G2 (con vật): con mèo, con chó, chú gà trống."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -4476,7 +4476,7 @@
         "chú thỏ"
       ],
       "groups": {
-        "G1": "Từ chỉ đồ vật (đồ dùng học tập)",
+        "G1": "Từ chỉ đồ vật",
         "G2": "Từ chỉ con vật"
       },
       "answer": {
@@ -4491,7 +4491,7 @@
           "chú gà trống"
         ]
       },
-      "explanation": "Nhóm G1 (đồ vật): bút chì, quyển vở, cặp sách. Nhóm G2 (con vật): con chó, chú thỏ, chú gà trống."
+      "explanation": "Nhóm G1 ( đồ vật): bút chì, quyển vở, cặp sách. Nhóm G2 (con vật): con chó, chú thỏ, chú gà trống."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -4509,7 +4509,7 @@
         "con mèo"
       ],
       "groups": {
-        "G1": "Từ chỉ đồ vật (đồ dùng học tập)",
+        "G1": "Từ chỉ đồ vật",
         "G2": "Từ chỉ con vật"
       },
       "answer": {
@@ -4524,7 +4524,7 @@
           "con mèo"
         ]
       },
-      "explanation": "Nhóm G1 (đồ vật): thước kẻ, quyển vở, hộp bút. Nhóm G2 (con vật): con vịt, chú gà trống, con mèo."
+      "explanation": "Nhóm G1 ( đồ vật): thước kẻ, quyển vở, hộp bút. Nhóm G2 (con vật): con vịt, chú gà trống, con mèo."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -4542,7 +4542,7 @@
         "cặp sách"
       ],
       "groups": {
-        "G1": "Từ chỉ đồ vật (đồ dùng học tập)",
+        "G1": "Từ chỉ đồ vật",
         "G2": "Từ chỉ con vật"
       },
       "answer": {
@@ -4557,7 +4557,7 @@
           "con mèo"
         ]
       },
-      "explanation": "Nhóm G1 (đồ vật): thước kẻ, hộp bút, cặp sách. Nhóm G2 (con vật): chú thỏ, chú gà trống, con mèo."
+      "explanation": "Nhóm G1 ( đồ vật): thước kẻ, hộp bút, cặp sách. Nhóm G2 (con vật): chú thỏ, chú gà trống, con mèo."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -4575,7 +4575,7 @@
         "chú chim sẻ"
       ],
       "groups": {
-        "G1": "Từ chỉ đồ vật (đồ dùng học tập)",
+        "G1": "Từ chỉ đồ vật",
         "G2": "Từ chỉ con vật"
       },
       "answer": {
@@ -4590,7 +4590,7 @@
           "con mèo"
         ]
       },
-      "explanation": "Nhóm G1 (đồ vật): quyển vở, thước kẻ, bảng đen. Nhóm G2 (con vật): chú chim sẻ, chú thỏ, con mèo."
+      "explanation": "Nhóm G1 ( đồ vật): quyển vở, thước kẻ, bảng đen. Nhóm G2 (con vật): chú chim sẻ, chú thỏ, con mèo."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -4608,7 +4608,7 @@
         "chú thỏ"
       ],
       "groups": {
-        "G1": "Từ chỉ đồ vật (đồ dùng học tập)",
+        "G1": "Từ chỉ đồ vật",
         "G2": "Từ chỉ con vật"
       },
       "answer": {
@@ -4623,7 +4623,7 @@
           "chú thỏ"
         ]
       },
-      "explanation": "Nhóm G1 (đồ vật): thước kẻ, cặp sách, quyển vở. Nhóm G2 (con vật): chú gà trống, con chó, chú thỏ."
+      "explanation": "Nhóm G1 ( đồ vật): thước kẻ, cặp sách, quyển vở. Nhóm G2 (con vật): chú gà trống, con chó, chú thỏ."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -4641,7 +4641,7 @@
         "con chó"
       ],
       "groups": {
-        "G1": "Từ chỉ đồ vật (đồ dùng học tập)",
+        "G1": "Từ chỉ đồ vật",
         "G2": "Từ chỉ con vật"
       },
       "answer": {
@@ -4656,7 +4656,7 @@
           "con chó"
         ]
       },
-      "explanation": "Nhóm G1 (đồ vật): thước kẻ, bảng đen, quyển vở. Nhóm G2 (con vật): chú gà trống, con mèo, con chó."
+      "explanation": "Nhóm G1 ( đồ vật): thước kẻ, bảng đen, quyển vở. Nhóm G2 (con vật): chú gà trống, con mèo, con chó."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -4839,7 +4839,7 @@
         "hộp bút"
       ],
       "groups": {
-        "G1": "Từ chỉ đồ vật (đồ dùng học tập)",
+        "G1": "Từ chỉ đồ vật",
         "G2": "Từ chỉ con vật"
       },
       "answer": {
@@ -4854,7 +4854,7 @@
           "chú chim sẻ"
         ]
       },
-      "explanation": "Nhóm G1 (đồ vật): quyển vở, hộp bút, bút chì. Nhóm G2 (con vật): chú gà trống, con vịt, chú chim sẻ."
+      "explanation": "Nhóm G1 ( đồ vật): quyển vở, hộp bút, bút chì. Nhóm G2 (con vật): chú gà trống, con vịt, chú chim sẻ."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -4971,7 +4971,7 @@
         "chú chim sẻ"
       ],
       "groups": {
-        "G1": "Từ chỉ đồ vật (đồ dùng học tập)",
+        "G1": "Từ chỉ đồ vật",
         "G2": "Từ chỉ con vật"
       },
       "answer": {
@@ -4986,7 +4986,7 @@
           "chú chim sẻ"
         ]
       },
-      "explanation": "Nhóm G1 (đồ vật): hộp bút, cặp sách, thước kẻ. Nhóm G2 (con vật): chú gà trống, con mèo, chú chim sẻ."
+      "explanation": "Nhóm G1 ( đồ vật): hộp bút, cặp sách, thước kẻ. Nhóm G2 (con vật): chú gà trống, con mèo, chú chim sẻ."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -5004,7 +5004,7 @@
         "chú chim sẻ"
       ],
       "groups": {
-        "G1": "Từ chỉ đồ vật (đồ dùng học tập)",
+        "G1": "Từ chỉ đồ vật",
         "G2": "Từ chỉ con vật"
       },
       "answer": {
@@ -5019,7 +5019,7 @@
           "con chó"
         ]
       },
-      "explanation": "Nhóm G1 (đồ vật): thước kẻ, cái bàn, bảng đen. Nhóm G2 (con vật): chú chim sẻ, chú gà trống, con chó."
+      "explanation": "Nhóm G1 ( đồ vật): thước kẻ, cái bàn, bảng đen. Nhóm G2 (con vật): chú chim sẻ, chú gà trống, con chó."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -5037,7 +5037,7 @@
         "chú gà trống"
       ],
       "groups": {
-        "G1": "Từ chỉ đồ vật (đồ dùng học tập)",
+        "G1": "Từ chỉ đồ vật",
         "G2": "Từ chỉ con vật"
       },
       "answer": {
@@ -5052,7 +5052,7 @@
           "chú gà trống"
         ]
       },
-      "explanation": "Nhóm G1 (đồ vật): bảng đen, hộp bút, thước kẻ. Nhóm G2 (con vật): chú thỏ, chú chim sẻ, chú gà trống."
+      "explanation": "Nhóm G1 ( đồ vật): bảng đen, hộp bút, thước kẻ. Nhóm G2 (con vật): chú thỏ, chú chim sẻ, chú gà trống."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -5070,7 +5070,7 @@
         "chú thỏ"
       ],
       "groups": {
-        "G1": "Từ chỉ đồ vật (đồ dùng học tập)",
+        "G1": "Từ chỉ đồ vật",
         "G2": "Từ chỉ con vật"
       },
       "answer": {
@@ -5085,7 +5085,7 @@
           "chú gà trống"
         ]
       },
-      "explanation": "Nhóm G1 (đồ vật): cặp sách, bảng đen, hộp bút. Nhóm G2 (con vật): chú thỏ, chú chim sẻ, chú gà trống."
+      "explanation": "Nhóm G1 ( đồ vật): cặp sách, bảng đen, hộp bút. Nhóm G2 (con vật): chú thỏ, chú chim sẻ, chú gà trống."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -5103,7 +5103,7 @@
         "chú chim sẻ"
       ],
       "groups": {
-        "G1": "Từ chỉ đồ vật (đồ dùng học tập)",
+        "G1": "Từ chỉ đồ vật",
         "G2": "Từ chỉ con vật"
       },
       "answer": {
@@ -5118,7 +5118,7 @@
           "con mèo"
         ]
       },
-      "explanation": "Nhóm G1 (đồ vật): hộp bút, cặp sách, bảng đen. Nhóm G2 (con vật): chú gà trống, chú chim sẻ, con mèo."
+      "explanation": "Nhóm G1 ( đồ vật): hộp bút, cặp sách, bảng đen. Nhóm G2 (con vật): chú gà trống, chú chim sẻ, con mèo."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -5136,7 +5136,7 @@
         "chú gà trống"
       ],
       "groups": {
-        "G1": "Từ chỉ đồ vật (đồ dùng học tập)",
+        "G1": "Từ chỉ đồ vật",
         "G2": "Từ chỉ con vật"
       },
       "answer": {
@@ -5151,7 +5151,7 @@
           "chú chim sẻ"
         ]
       },
-      "explanation": "Nhóm G1 (đồ vật): cặp sách, cái bàn, bảng đen. Nhóm G2 (con vật): chú gà trống, con mèo, chú chim sẻ."
+      "explanation": "Nhóm G1 ( đồ vật): cặp sách, cái bàn, bảng đen. Nhóm G2 (con vật): chú gà trống, con mèo, chú chim sẻ."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -5169,7 +5169,7 @@
         "thước kẻ"
       ],
       "groups": {
-        "G1": "Từ chỉ đồ vật (đồ dùng học tập)",
+        "G1": "Từ chỉ đồ vật",
         "G2": "Từ chỉ con vật"
       },
       "answer": {
@@ -5184,7 +5184,7 @@
           "chú gà trống"
         ]
       },
-      "explanation": "Nhóm G1 (đồ vật): cặp sách, thước kẻ, hộp bút. Nhóm G2 (con vật): chú thỏ, chú chim sẻ, chú gà trống."
+      "explanation": "Nhóm G1 ( đồ vật): cặp sách, thước kẻ, hộp bút. Nhóm G2 (con vật): chú thỏ, chú chim sẻ, chú gà trống."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -5730,7 +5730,7 @@
         "con trâu"
       ],
       "groups": {
-        "G1": "Từ chỉ đồ vật (đồ dùng học tập)",
+        "G1": "Từ chỉ đồ vật",
         "G2": "Từ chỉ con vật"
       },
       "answer": {
@@ -5745,7 +5745,7 @@
           "chú chim sẻ"
         ]
       },
-      "explanation": "Nhóm G1 (đồ vật): cặp sách, bút chì, thước kẻ. Nhóm G2 (con vật): con trâu, chú gà trống, chú chim sẻ."
+      "explanation": "Nhóm G1 ( đồ vật): cặp sách, bút chì, thước kẻ. Nhóm G2 (con vật): con trâu, chú gà trống, chú chim sẻ."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -5994,7 +5994,7 @@
         "cặp sách"
       ],
       "groups": {
-        "G1": "Từ chỉ đồ vật (đồ dùng học tập)",
+        "G1": "Từ chỉ đồ vật",
         "G2": "Từ chỉ con vật"
       },
       "answer": {
@@ -6009,7 +6009,7 @@
           "chú chim sẻ"
         ]
       },
-      "explanation": "Nhóm G1 (đồ vật): quyển vở, bảng đen, cặp sách. Nhóm G2 (con vật): chú gà trống, con trâu, chú chim sẻ."
+      "explanation": "Nhóm G1 ( đồ vật): quyển vở, bảng đen, cặp sách. Nhóm G2 (con vật): chú gà trống, con trâu, chú chim sẻ."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -6613,11 +6613,11 @@
       "options": {
         "A": "chú gà",
         "B": "quả dưa",
-        "C": "bông sen",
+        "C": "con ong",
         "D": "cái bàn"
       },
       "answer": "C",
-      "explanation": "Trong từ 'bông sen', tiếng 'bông' có chứa vần 'ong'."
+      "explanation": "Trong từ 'con ong', tiếng 'ong' có chứa vần 'ong'."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -6659,13 +6659,13 @@
       "questionId": "k1_c2_tn_0041",
       "question": "Tiếng hoặc từ nào dưới đây có âm đầu là 'c'?",
       "options": {
-        "A": "con vịt",
-        "B": "con cá",
-        "C": "hộp bút",
-        "D": "bông sen"
+        "A": "vịt",
+        "B": "cá",
+        "C": "bút",
+        "D": "sen"
       },
       "answer": "B",
-      "explanation": "Tiếng 'cá' trong từ 'con cá' có âm đầu là 'c'."
+      "explanation": "Tiếng 'cá' có âm đầu là 'c'."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -6707,13 +6707,13 @@
       "questionId": "k1_c2_tn_0044",
       "question": "Tiếng hoặc từ nào dưới đây có âm đầu là 'c'?",
       "options": {
-        "A": "con gà",
-        "B": "quả táo",
-        "C": "quả cam",
-        "D": "bông sen"
+        "A": "gà",
+        "B": "táo",
+        "C": "cam",
+        "D": "bông"
       },
       "answer": "C",
-      "explanation": "Tiếng 'cam' trong từ 'quả cam' có âm đầu là 'c'."
+      "explanation": "Tiếng 'cam' có âm đầu là 'c'."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -6931,7 +6931,7 @@
       "questionId": "k1_c2_tn_0058",
       "question": "Tiếng hoặc từ nào dưới đây có âm đầu là 'b'?",
       "options": {
-        "A": "bút chì",
+        "A": "con công",
         "B": "thước kẻ",
         "C": "con mèo",
         "D": "con bướm"
@@ -7369,7 +7369,7 @@
         "D": "gế gỗ"
       },
       "answer": "C",
-      "explanation": "Theo quy tắc chính tả: Âm /g/ viết là 'gh' khi đứng trước e, ê, i; viết là 'g' trước các nguyên âm còn lại.. Từ đúng là 'ghế gỗ'."
+      "explanation": "Theo quy tắc chính tả: Âm /g/ viết là 'gh' khi đứng trước e, ê, i; viết là 'g' trước các nguyên âm còn lại. Từ đúng là 'ghế gỗ'."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -7417,7 +7417,7 @@
         "D": "gế gỗ"
       },
       "answer": "A",
-      "explanation": "Theo quy tắc chính tả: Âm /g/ viết là 'gh' khi đứng trước e, ê, i; viết là 'g' trước các nguyên âm còn lại.. Từ đúng là 'ghen tị'."
+      "explanation": "Theo quy tắc chính tả: Âm /g/ viết là 'gh' khi đứng trước e, ê, i; viết là 'g' trước các nguyên âm còn lại. Từ đúng là 'ghen tị'."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -7433,7 +7433,7 @@
         "D": "gi chép"
       },
       "answer": "A",
-      "explanation": "Theo quy tắc chính tả: Âm /g/ viết là 'gh' khi đứng trước e, ê, i; viết là 'g' trước các nguyên âm còn lại.. Từ đúng là 'ghẹ xanh'."
+      "explanation": "Theo quy tắc chính tả: Âm /g/ viết là 'gh' khi đứng trước e, ê, i; viết là 'g' trước các nguyên âm còn lại. Từ đúng là 'ghẹ xanh'."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -7449,7 +7449,7 @@
         "D": "gẹ xanh"
       },
       "answer": "B",
-      "explanation": "Theo quy tắc chính tả: Âm /g/ viết là 'gh' khi đứng trước e, ê, i; viết là 'g' trước các nguyên âm còn lại.. Từ đúng là 'ghi chép'."
+      "explanation": "Theo quy tắc chính tả: Âm /g/ viết là 'gh' khi đứng trước e, ê, i; viết là 'g' trước các nguyên âm còn lại. Từ đúng là 'ghi chép'."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -7529,7 +7529,7 @@
         "D": "ghé thăm"
       },
       "answer": "D",
-      "explanation": "Theo quy tắc chính tả: Âm /g/ viết là 'gh' khi đứng trước e, ê, i; viết là 'g' trước các nguyên âm còn lại.. Từ đúng là 'ghé thăm'."
+      "explanation": "Theo quy tắc chính tả: Âm /g/ viết là 'gh' khi đứng trước e, ê, i; viết là 'g' trước các nguyên âm còn lại. Từ đúng là 'ghé thăm'."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -7577,7 +7577,7 @@
         "D": "ngỉ ngơi"
       },
       "answer": "A",
-      "explanation": "Theo quy tắc chính tả: Âm /ng/ viết là 'ngh' khi đứng trước e, ê, i; viết là 'ng' trước các nguyên âm còn lại.. Từ đúng là 'nghỉ ngơi'."
+      "explanation": "Theo quy tắc chính tả: Âm /ng/ viết là 'ngh' khi đứng trước e, ê, i; viết là 'ng' trước các nguyên âm còn lại. Từ đúng là 'nghỉ ngơi'."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -7593,7 +7593,7 @@
         "D": "gẹ xanh"
       },
       "answer": "A",
-      "explanation": "Theo quy tắc chính tả: Âm /g/ viết là 'gh' khi đứng trước e, ê, i; viết là 'g' trước các nguyên âm còn lại.. Từ đúng là 'ghềnh thác'."
+      "explanation": "Theo quy tắc chính tả: Âm /g/ viết là 'gh' khi đứng trước e, ê, i; viết là 'g' trước các nguyên âm còn lại. Từ đúng là 'ghềnh thác'."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -7609,7 +7609,7 @@
         "D": "nghèo khó"
       },
       "answer": "D",
-      "explanation": "Theo quy tắc chính tả: Âm /ng/ viết là 'ngh' khi đứng trước e, ê, i; viết là 'ng' trước các nguyên âm còn lại.. Từ đúng là 'nghèo khó'."
+      "explanation": "Theo quy tắc chính tả: Âm /ng/ viết là 'ngh' khi đứng trước e, ê, i; viết là 'ng' trước các nguyên âm còn lại. Từ đúng là 'nghèo khó'."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -7625,7 +7625,7 @@
         "D": "ngỉ ngơi"
       },
       "answer": "C",
-      "explanation": "Theo quy tắc chính tả: Âm /ng/ viết là 'ngh' khi đứng trước e, ê, i; viết là 'ng' trước các nguyên âm còn lại.. Từ đúng là 'nghe ngóng'."
+      "explanation": "Theo quy tắc chính tả: Âm /ng/ viết là 'ngh' khi đứng trước e, ê, i; viết là 'ng' trước các nguyên âm còn lại. Từ đúng là 'nghe ngóng'."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -7657,7 +7657,7 @@
         "D": "ngệ thuật"
       },
       "answer": "A",
-      "explanation": "Theo quy tắc chính tả: Âm /ng/ viết là 'ngh' khi đứng trước e, ê, i; viết là 'ng' trước các nguyên âm còn lại.. Từ đúng là 'nghĩ ngợi'."
+      "explanation": "Theo quy tắc chính tả: Âm /ng/ viết là 'ngh' khi đứng trước e, ê, i; viết là 'ng' trước các nguyên âm còn lại. Từ đúng là 'nghĩ ngợi'."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -7753,7 +7753,7 @@
         "D": "ngĩ ngợi"
       },
       "answer": "C",
-      "explanation": "Theo quy tắc chính tả: Âm /ng/ viết là 'ngh' khi đứng trước e, ê, i; viết là 'ng' trước các nguyên âm còn lại.. Từ đúng là 'nghệ thuật'."
+      "explanation": "Theo quy tắc chính tả: Âm /ng/ viết là 'ngh' khi đứng trước e, ê, i; viết là 'ng' trước các nguyên âm còn lại. Từ đúng là 'nghệ thuật'."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -7945,7 +7945,7 @@
         "D": "nghiêng nghiêng"
       },
       "answer": "D",
-      "explanation": "Theo quy tắc chính tả: Âm /ng/ viết là 'ngh' khi đứng trước e, ê, i; viết là 'ng' trước các nguyên âm còn lại.. Từ đúng là 'nghiêng nghiêng'."
+      "explanation": "Theo quy tắc chính tả: Âm /ng/ viết là 'ngh' khi đứng trước e, ê, i; viết là 'ng' trước các nguyên âm còn lại. Từ đúng là 'nghiêng nghiêng'."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -9588,7 +9588,7 @@
       "options": {
         "A": "kéo",
         "B": "dao",
-        "C": "kìm",
+        "C": "cúc",
         "D": "búa"
       },
       "answer": "A",
@@ -9733,7 +9733,7 @@
         "A": "nắng",
         "B": "mưa",
         "C": "gió",
-        "D": "mây"
+        "D": "cây"
       },
       "answer": "B",
       "explanation": "Tiếng 'mưa' bắt đầu bằng âm 'm'.",
@@ -9760,15 +9760,15 @@
       "grade": "KHOI_1",
       "level": "CAP_2_VONG_TRUONG",
       "type": "TN",
-      "question": "Tiếng nào dưới đây có âm đầu là 'm'?",
+      "question": "Tiếng nào dưới đây có âm đầu là 't'?",
       "options": {
         "A": "mũi",
         "B": "tai",
         "C": "miệng",
         "D": "mắt"
       },
-      "answer": "D",
-      "explanation": "Tiếng 'mắt' bắt đầu bằng âm 'm'.",
+      "answer": "B",
+      "explanation": "Tiếng 'tai' bắt đầu bằng âm 't'.",
       "questionId": "k1_c2_tn_0235"
     },
     {
@@ -9858,7 +9858,7 @@
       "type": "TN",
       "question": "Tiếng nào dưới đây có âm đầu là 's'?",
       "options": {
-        "A": "suối",
+        "A": "muối",
         "B": "sông",
         "C": "hồ",
         "D": "ao"
@@ -9940,11 +9940,11 @@
       "options": {
         "A": "bút",
         "B": "sách",
-        "C": "thước",
+        "C": "túi",
         "D": "vở"
       },
       "answer": "C",
-      "explanation": "Tiếng 'thước' bắt đầu bằng âm 't'.",
+      "explanation": "Tiếng 'túi' bắt đầu bằng âm 't'.",
       "questionId": "k1_c2_tn_0246"
     },
     {
@@ -10084,7 +10084,7 @@
       "options": {
         "A": "làng",
         "B": "phố",
-        "C": "xã",
+        "C": "bản",
         "D": "xóm"
       },
       "answer": "D",
@@ -10101,7 +10101,7 @@
         "A": "chó",
         "B": "mèo",
         "C": "thỏ",
-        "D": "chuột"
+        "D": "gấu"
       },
       "answer": "A",
       "explanation": "Tiếng 'chó' bắt đầu bằng âm 'ch'.",
@@ -10163,7 +10163,7 @@
       "question": "Tiếng nào dưới đây có âm đầu là 'tr'?",
       "options": {
         "A": "tre",
-        "B": "trúc",
+        "B": "cúc",
         "C": "nứa",
         "D": "mây"
       },
@@ -10581,7 +10581,7 @@
         "A": "việc",
         "B": "công",
         "C": "nghề",
-        "D": "nghệ"
+        "D": "làm"
       },
       "answer": "C",
       "explanation": "Tiếng 'nghề' bắt đầu bằng âm 'ngh'.",
@@ -10914,7 +10914,7 @@
       "type": "TN",
       "question": "Tiếng nào dưới đây có âm đầu là 'đ'?",
       "options": {
-        "A": "đỗ",
+        "A": "sắn",
         "B": "ngô",
         "C": "khoai",
         "D": "đậu"
@@ -10963,7 +10963,7 @@
       "question": "Tiếng nào dưới đây có âm đầu là 'k'?",
       "options": {
         "A": "bánh",
-        "B": "kem",
+        "B": "trà",
         "C": "kẹo",
         "D": "chè"
       },
@@ -10995,7 +10995,7 @@
       "question": "Tiếng nào dưới đây có âm đầu là 'm'?",
       "options": {
         "A": "mận",
-        "B": "mơ",
+        "B": "lê",
         "C": "đào",
         "D": "khế"
       },
@@ -11042,7 +11042,7 @@
       "type": "TN",
       "question": "Tiếng nào dưới đây có âm đầu là 's'?",
       "options": {
-        "A": "súng",
+        "A": "lan",
         "B": "hồng",
         "C": "cúc",
         "D": "sen"
@@ -11524,7 +11524,7 @@
       "options": {
         "A": "bơi",
         "B": "bay",
-        "C": "chạy",
+        "C": "chơi",
         "D": "bò"
       },
       "answer": "B",
@@ -11588,7 +11588,7 @@
       "options": {
         "A": "que",
         "B": "dây",
-        "C": "gậy",
+        "C": "bát",
         "D": "đũa"
       },
       "answer": "B",
@@ -12064,7 +12064,7 @@
       "grade": "KHOI_1",
       "level": "CAP_2_VONG_TRUONG",
       "type": "TN",
-      "question": "Tiếng nào dưới đây có vần 'ong'?",
+      "question": "Tiếng nào dưới đây có vần 'ông'?",
       "options": {
         "A": "suối",
         "B": "hồ",
@@ -12072,7 +12072,7 @@
         "D": "sông"
       },
       "answer": "D",
-      "explanation": "Tiếng 'sông' có chứa vần 'ong'.",
+      "explanation": "Tiếng 'sông' có chứa vần 'ông'.",
       "questionId": "k1_c2_tn_0379"
     },
     {
@@ -12370,13 +12370,13 @@
       "type": "TN",
       "question": "Tiếng nào dưới đây có vần 'eng'?",
       "options": {
-        "A": "leng",
-        "B": "coong",
-        "C": "keng",
+        "A": "róc rách",
+        "B": "lao xao",
+        "C": "cái xẻng",
         "D": "tùng"
       },
       "answer": "C",
-      "explanation": "Tiếng 'keng' có chứa vần 'eng'.",
+      "explanation": "Tiếng 'cái xẻng' có chứa vần 'eng'.",
       "questionId": "k1_c2_tn_0398"
     },
     {
@@ -12627,7 +12627,7 @@
       "question": "Tiếng nào dưới đây có vần 'uông'?",
       "options": {
         "A": "vườn",
-        "B": "ruộng",
+        "B": "nương",
         "C": "luống",
         "D": "rẫy"
       },
@@ -12752,7 +12752,7 @@
       "grade": "KHOI_1",
       "level": "CAP_2_VONG_TRUONG",
       "type": "TN",
-      "question": "Tiếng nào dưới đây có vần 'yên'?",
+      "question": "Tiếng nào dưới đây có vần 'uyên'?",
       "options": {
         "A": "tàu",
         "B": "đò",
@@ -12760,7 +12760,7 @@
         "D": "ghe"
       },
       "answer": "C",
-      "explanation": "Tiếng 'thuyền' có chứa vần 'yên'.",
+      "explanation": "Tiếng 'thuyền' có chứa vần 'uyên'.",
       "questionId": "k1_c2_tn_0422"
     },
     {
@@ -13251,7 +13251,7 @@
       "question": "Tiếng nào dưới đây mang thanh sắc?",
       "options": {
         "A": "bút",
-        "B": "thước",
+        "B": "vở",
         "C": "bảng",
         "D": "mực"
       },
@@ -13299,7 +13299,7 @@
       "question": "Tiếng nào dưới đây mang thanh sắc?",
       "options": {
         "A": "mưa",
-        "B": "gió",
+        "B": "cây",
         "C": "mây",
         "D": "nắng"
       },
@@ -13316,7 +13316,7 @@
       "options": {
         "A": "hát",
         "B": "ca",
-        "C": "múa",
+        "C": "nhảy",
         "D": "đàn"
       },
       "answer": "A",
@@ -13332,7 +13332,7 @@
       "options": {
         "A": "cô",
         "B": "chú",
-        "C": "bác",
+        "C": "cậu",
         "D": "ông"
       },
       "answer": "B",
@@ -13394,7 +13394,7 @@
       "type": "TN",
       "question": "Tiếng nào dưới đây mang thanh sắc?",
       "options": {
-        "A": "tối",
+        "A": "đêm",
         "B": "sáng",
         "C": "trưa",
         "D": "chiều"
@@ -13412,11 +13412,11 @@
       "options": {
         "A": "xanh",
         "B": "vàng",
-        "C": "đỏ",
+        "C": "tím",
         "D": "đen"
       },
       "answer": "C",
-      "explanation": "Tiếng 'đỏ' mang thanh sắc.",
+      "explanation": "Tiếng 'tím' mang thanh sắc.",
       "questionId": "k1_c2_tn_0463"
     },
     {
@@ -13428,7 +13428,7 @@
       "options": {
         "A": "tre",
         "B": "mây",
-        "C": "nứa",
+        "C": "vầu",
         "D": "trúc"
       },
       "answer": "D",
@@ -13445,7 +13445,7 @@
         "A": "bàn",
         "B": "ghế",
         "C": "tủ",
-        "D": "giường"
+        "D": "cây"
       },
       "answer": "A",
       "explanation": "Tiếng 'bàn' mang thanh huyền.",
@@ -13556,7 +13556,7 @@
       "options": {
         "A": "sao",
         "B": "hoa",
-        "C": "đèn",
+        "C": "mây",
         "D": "cờ"
       },
       "answer": "D",
@@ -13571,7 +13571,7 @@
       "question": "Tiếng nào dưới đây mang thanh huyền?",
       "options": {
         "A": "cầu",
-        "B": "đường",
+        "B": "hoa",
         "C": "ngõ",
         "D": "phố"
       },
@@ -13620,7 +13620,7 @@
       "options": {
         "A": "quạt",
         "B": "bếp",
-        "C": "nồi",
+        "C": "cốc",
         "D": "đèn"
       },
       "answer": "D",
@@ -13733,7 +13733,7 @@
         "A": "vượn",
         "B": "gấu",
         "C": "khỉ",
-        "D": "hổ"
+        "D": "cáo"
       },
       "answer": "C",
       "explanation": "Tiếng 'khỉ' mang thanh hỏi.",
@@ -13815,8 +13815,8 @@
         "C": "tủ",
         "D": "quạt"
       },
-      "answer": "D",
-      "explanation": "Tiếng 'quạt' mang thanh hỏi.",
+      "answer": "C",
+      "explanation": "Tiếng 'tủ' mang thanh hỏi.",
       "questionId": "k1_c2_tn_0488"
     },
     {
@@ -13859,7 +13859,7 @@
       "question": "Tiếng nào dưới đây mang thanh hỏi?",
       "options": {
         "A": "thúng",
-        "B": "mủng",
+        "B": "chậu",
         "C": "giỏ",
         "D": "rá"
       },
@@ -13904,15 +13904,15 @@
       "grade": "KHOI_1",
       "level": "CAP_2_VONG_TRUONG",
       "type": "TN",
-      "question": "Tiếng nào dưới đây mang thanh hỏi?",
+      "question": "Tiếng nào dưới đây mang thanh nặng?",
       "options": {
-        "A": "hỏa",
+        "A": "mộc",
         "B": "thủy",
         "C": "thổ",
         "D": "kim"
       },
-      "answer": "B",
-      "explanation": "Tiếng 'thủy' mang thanh hỏi.",
+      "answer": "A",
+      "explanation": "Tiếng 'mộc' mang thanh nặng.",
       "questionId": "k1_c2_tn_0494"
     },
     {
@@ -14101,7 +14101,7 @@
         "A": "bát",
         "B": "đĩa",
         "C": "thìa",
-        "D": "đũa"
+        "D": "nồi"
       },
       "answer": "B",
       "explanation": "Tiếng 'đĩa' mang thanh ngã.",
@@ -14116,11 +14116,11 @@
       "options": {
         "A": "xinh",
         "B": "ngoan",
-        "C": "dẹp",
+        "C": "vẽ",
         "D": "chăm"
       },
       "answer": "C",
-      "explanation": "Tiếng 'dẹp' mang thanh ngã.",
+      "explanation": "Tiếng 'vẽ' mang thanh ngã.",
       "questionId": "k1_c2_tn_0507"
     },
     {
@@ -14132,7 +14132,7 @@
       "options": {
         "A": "răng",
         "B": "mắt",
-        "C": "mũi",
+        "C": "mặt",
         "D": "lưỡi"
       },
       "answer": "D",
@@ -14245,7 +14245,7 @@
         "A": "em",
         "B": "anh",
         "C": "bạn",
-        "D": "chị"
+        "D": "chú"
       },
       "answer": "C",
       "explanation": "Tiếng 'bạn' mang thanh nặng.",
@@ -14434,7 +14434,7 @@
       "type": "TN",
       "question": "Tiếng nào dưới đây mang thanh nặng?",
       "options": {
-        "A": "gạo",
+        "A": "thóc",
         "B": "nếp",
         "C": "bột",
         "D": "ngô"
@@ -14580,7 +14580,7 @@
       "options": {
         "A": "bò",
         "B": "ngựa",
-        "C": "dê",
+        "C": "cáo",
         "D": "trâu"
       },
       "answer": "D",
@@ -14596,7 +14596,7 @@
       "options": {
         "A": "ong",
         "B": "bướm",
-        "C": "ve",
+        "C": "hổ",
         "D": "kiến"
       },
       "answer": "A",
@@ -14612,7 +14612,7 @@
       "options": {
         "A": "gió",
         "B": "mây",
-        "C": "mưa",
+        "C": "bão",
         "D": "nắng"
       },
       "answer": "B",
@@ -14626,10 +14626,10 @@
       "type": "TN",
       "question": "Tiếng nào dưới đây mang thanh ngang (không dấu)?",
       "options": {
-        "A": "sao",
-        "B": "mặt",
+        "A": "đất",
+        "B": "trời",
         "C": "trăng",
-        "D": "trời"
+        "D": "gió"
       },
       "answer": "C",
       "explanation": "Tiếng 'trăng' mang thanh ngang (không dấu).",
@@ -14644,7 +14644,7 @@
       "options": {
         "A": "hồng",
         "B": "cúc",
-        "C": "mai",
+        "C": "trúc",
         "D": "sen"
       },
       "answer": "D",
@@ -14659,7 +14659,7 @@
       "question": "Tiếng nào dưới đây mang thanh ngang (không dấu)?",
       "options": {
         "A": "măng",
-        "B": "tre",
+        "B": "nắng",
         "C": "trúc",
         "D": "nứa"
       },
@@ -14677,7 +14677,7 @@
         "A": "suối",
         "B": "sông",
         "C": "hồ",
-        "D": "ao"
+        "D": "thác"
       },
       "answer": "B",
       "explanation": "Tiếng 'sông' mang thanh ngang (không dấu).",
@@ -14704,15 +14704,15 @@
       "grade": "KHOI_1",
       "level": "CAP_2_VONG_TRUONG",
       "type": "TN",
-      "question": "Tiếng nào dưới đây mang thanh ngang (không dấu)?",
+      "question": "Tiếng nào dưới đây mang thanh sắc",
       "options": {
         "A": "trăng",
         "B": "mây",
         "C": "gió",
         "D": "sao"
       },
-      "answer": "D",
-      "explanation": "Tiếng 'sao' mang thanh ngang (không dấu).",
+      "answer": "C",
+      "explanation": "Tiếng 'gió' mang thanh sắc.",
       "questionId": "k1_c2_tn_0544"
     },
     {
@@ -14738,7 +14738,7 @@
       "type": "TN",
       "question": "Tiếng nào dưới đây mang thanh ngang (không dấu)?",
       "options": {
-        "A": "em",
+        "A": "bố",
         "B": "anh",
         "C": "chị",
         "D": "mẹ"
@@ -17874,102 +17874,6 @@
       "type": "TN",
       "question": "Từ ngữ nào dưới đây viết đúng chính tả?",
       "options": {
-        "A": "con cá",
-        "B": "con ká",
-        "C": "con cà",
-        "D": "con cạ"
-      },
-      "answer": "A",
-      "explanation": "'con cá' là từ ngữ viết đúng chính tả tiếng Việt.",
-      "questionId": "k1_c2_tn_0742"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_2_VONG_TRUONG",
-      "type": "TN",
-      "question": "Từ ngữ nào dưới đây viết đúng chính tả?",
-      "options": {
-        "A": "cái céo",
-        "B": "cái kéo",
-        "C": "cái kẻo",
-        "D": "cái khéo"
-      },
-      "answer": "B",
-      "explanation": "'cái kéo' là từ ngữ viết đúng chính tả tiếng Việt.",
-      "questionId": "k1_c2_tn_0743"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_2_VONG_TRUONG",
-      "type": "TN",
-      "question": "Từ ngữ nào dưới đây viết đúng chính tả?",
-      "options": {
-        "A": "kây cau",
-        "B": "cây kau",
-        "C": "cây cau",
-        "D": "cây cậu"
-      },
-      "answer": "C",
-      "explanation": "'cây cau' là từ ngữ viết đúng chính tả tiếng Việt.",
-      "questionId": "k1_c2_tn_0744"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_2_VONG_TRUONG",
-      "type": "TN",
-      "question": "Từ ngữ nào dưới đây viết đúng chính tả?",
-      "options": {
-        "A": "kủ cải",
-        "B": "củ kải",
-        "C": "củ cãi",
-        "D": "củ cải"
-      },
-      "answer": "D",
-      "explanation": "'củ cải' là từ ngữ viết đúng chính tả tiếng Việt.",
-      "questionId": "k1_c2_tn_0745"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_2_VONG_TRUONG",
-      "type": "TN",
-      "question": "Từ ngữ nào dưới đây viết đúng chính tả?",
-      "options": {
-        "A": "cái kìm",
-        "B": "cái cìm",
-        "C": "cái kỉm",
-        "D": "cái khìm"
-      },
-      "answer": "A",
-      "explanation": "'cái kìm' là từ ngữ viết đúng chính tả tiếng Việt.",
-      "questionId": "k1_c2_tn_0746"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_2_VONG_TRUONG",
-      "type": "TN",
-      "question": "Từ ngữ nào dưới đây viết đúng chính tả?",
-      "options": {
-        "A": "con ciến",
-        "B": "con kiến",
-        "C": "con kiếng",
-        "D": "con kiền"
-      },
-      "answer": "B",
-      "explanation": "'con kiến' là từ ngữ viết đúng chính tả tiếng Việt.",
-      "questionId": "k1_c2_tn_0747"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_2_VONG_TRUONG",
-      "type": "TN",
-      "question": "Từ ngữ nào dưới đây viết đúng chính tả?",
-      "options": {
         "A": "cẹo ngọt",
         "B": "kẹo ngọc",
         "C": "kẹo ngọt",
@@ -18005,27 +17909,11 @@
         "A": "ghế gỗ",
         "B": "gế gỗ",
         "C": "ghế gổ",
-        "D": "ghế gộ"
+        "D": "ghế ghỗ"
       },
       "answer": "A",
       "explanation": "'ghế gỗ' là từ ngữ viết đúng chính tả tiếng Việt.",
       "questionId": "k1_c2_tn_0750"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_2_VONG_TRUONG",
-      "type": "TN",
-      "question": "Từ ngữ nào dưới đây viết đúng chính tả?",
-      "options": {
-        "A": "con gẹ",
-        "B": "con ghẹ",
-        "C": "con ghẻ",
-        "D": "con ghen"
-      },
-      "answer": "B",
-      "explanation": "'con ghẹ' là từ ngữ viết đúng chính tả tiếng Việt.",
-      "questionId": "k1_c2_tn_0751"
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -18050,22 +17938,6 @@
       "type": "TN",
       "question": "Từ ngữ nào dưới đây viết đúng chính tả?",
       "options": {
-        "A": "con ghà",
-        "B": "con gả",
-        "C": "con gạ",
-        "D": "con gà"
-      },
-      "answer": "D",
-      "explanation": "'con gà' là từ ngữ viết đúng chính tả tiếng Việt.",
-      "questionId": "k1_c2_tn_0753"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_2_VONG_TRUONG",
-      "type": "TN",
-      "question": "Từ ngữ nào dưới đây viết đúng chính tả?",
-      "options": {
         "A": "gỗ mục",
         "B": "ghỗ mục",
         "C": "gỗ mụt",
@@ -18074,22 +17946,6 @@
       "answer": "A",
       "explanation": "'gỗ mục' là từ ngữ viết đúng chính tả tiếng Việt.",
       "questionId": "k1_c2_tn_0754"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_2_VONG_TRUONG",
-      "type": "TN",
-      "question": "Từ ngữ nào dưới đây viết đúng chính tả?",
-      "options": {
-        "A": "ghõ cửa",
-        "B": "gõ cửa",
-        "C": "gõ cựa",
-        "D": "gõ cữa"
-      },
-      "answer": "B",
-      "explanation": "'gõ cửa' là từ ngữ viết đúng chính tả tiếng Việt.",
-      "questionId": "k1_c2_tn_0755"
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -18130,22 +17986,6 @@
       "type": "TN",
       "question": "Từ ngữ nào dưới đây viết đúng chính tả?",
       "options": {
-        "A": "nghe hát",
-        "B": "nge hát",
-        "C": "nghe hác",
-        "D": "nge hác"
-      },
-      "answer": "A",
-      "explanation": "'nghe hát' là từ ngữ viết đúng chính tả tiếng Việt.",
-      "questionId": "k1_c2_tn_0758"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_2_VONG_TRUONG",
-      "type": "TN",
-      "question": "Từ ngữ nào dưới đây viết đúng chính tả?",
-      "options": {
         "A": "ngỉ hè",
         "B": "nghỉ hè",
         "C": "ngĩ hè",
@@ -18162,13 +18002,13 @@
       "type": "TN",
       "question": "Từ ngữ nào dưới đây viết đúng chính tả?",
       "options": {
-        "A": "ngĩ bài",
-        "B": "nghỉ bài",
-        "C": "nghĩ bài",
-        "D": "ngỉ bài"
+        "A": "ngĩ ngợi",
+        "B": "nghỉ ngợi",
+        "C": "nghĩ ngợi",
+        "D": "ngỉ ngợi"
       },
       "answer": "C",
-      "explanation": "'nghĩ bài' là từ ngữ viết đúng chính tả tiếng Việt.",
+      "explanation": "'nghĩ ngợi' là từ ngữ viết đúng chính tả tiếng Việt.",
       "questionId": "k1_c2_tn_0760"
     },
     {
@@ -18194,22 +18034,6 @@
       "type": "TN",
       "question": "Từ ngữ nào dưới đây viết đúng chính tả?",
       "options": {
-        "A": "xe đạp",
-        "B": "se đạp",
-        "C": "xe đặp",
-        "D": "se đạc"
-      },
-      "answer": "A",
-      "explanation": "'xe đạp' là từ ngữ viết đúng chính tả tiếng Việt.",
-      "questionId": "k1_c2_tn_0762"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_2_VONG_TRUONG",
-      "type": "TN",
-      "question": "Từ ngữ nào dưới đây viết đúng chính tả?",
-      "options": {
         "A": "ná cờ",
         "B": "lá cờ",
         "C": "lá kờ",
@@ -18218,22 +18042,6 @@
       "answer": "B",
       "explanation": "'lá cờ' là từ ngữ viết đúng chính tả tiếng Việt.",
       "questionId": "k1_c2_tn_0763"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_2_VONG_TRUONG",
-      "type": "TN",
-      "question": "Từ ngữ nào dưới đây viết đúng chính tả?",
-      "options": {
-        "A": "xách vở",
-        "B": "sách vỡ",
-        "C": "sách vở",
-        "D": "xách vỡ"
-      },
-      "answer": "C",
-      "explanation": "'sách vở' là từ ngữ viết đúng chính tả tiếng Việt.",
-      "questionId": "k1_c2_tn_0764"
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -18258,702 +18066,14 @@
       "type": "TN",
       "question": "Từ ngữ nào dưới đây viết đúng chính tả?",
       "options": {
-        "A": "xanh tươi",
-        "B": "sanh tươi",
-        "C": "xanh tưới",
-        "D": "sanh tưới"
-      },
-      "answer": "A",
-      "explanation": "'xanh tươi' là từ ngữ viết đúng chính tả tiếng Việt.",
-      "questionId": "k1_c2_tn_0766"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_2_VONG_TRUONG",
-      "type": "TN",
-      "question": "Từ ngữ nào dưới đây viết đúng chính tả?",
-      "options": {
         "A": "lón lá",
         "B": "nón lá",
         "C": "nón là",
-        "D": "lón nà"
+        "D": "lón ná"
       },
       "answer": "B",
       "explanation": "'nón lá' là từ ngữ viết đúng chính tả tiếng Việt.",
       "questionId": "k1_c2_tn_0767"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_2_VONG_TRUONG",
-      "type": "TN",
-      "question": "Từ ngữ nào dưới đây viết đúng chính tả?",
-      "options": {
-        "A": "nàng xóm",
-        "B": "làng sóm",
-        "C": "làng xóm",
-        "D": "nàng sóm"
-      },
-      "answer": "C",
-      "explanation": "'làng xóm' là từ ngữ viết đúng chính tả tiếng Việt.",
-      "questionId": "k1_c2_tn_0768"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_2_VONG_TRUONG",
-      "type": "TN",
-      "question": "Từ ngữ nào dưới đây viết đúng chính tả?",
-      "options": {
-        "A": "lước sạch",
-        "B": "nước sạc",
-        "C": "lước sạc",
-        "D": "nước sạch"
-      },
-      "answer": "D",
-      "explanation": "'nước sạch' là từ ngữ viết đúng chính tả tiếng Việt.",
-      "questionId": "k1_c2_tn_0769"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_2_VONG_TRUONG",
-      "type": "TN",
-      "question": "Từ ngữ nào dưới đây viết đúng chính tả?",
-      "options": {
-        "A": "bàn học",
-        "B": "bàng học",
-        "C": "bàn hộc",
-        "D": "bàng hộc"
-      },
-      "answer": "A",
-      "explanation": "'bàn học' là từ ngữ viết đúng chính tả tiếng Việt.",
-      "questionId": "k1_c2_tn_0770"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_2_VONG_TRUONG",
-      "type": "TN",
-      "question": "Từ ngữ nào dưới đây viết đúng chính tả?",
-      "options": {
-        "A": "bút trì",
-        "B": "bút chì",
-        "C": "bút chĩ",
-        "D": "bút trỉ"
-      },
-      "answer": "B",
-      "explanation": "'bút chì' là từ ngữ viết đúng chính tả tiếng Việt.",
-      "questionId": "k1_c2_tn_0771"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_2_VONG_TRUONG",
-      "type": "TN",
-      "question": "Từ ngữ nào dưới đây viết đúng chính tả?",
-      "options": {
-        "A": "kặp sách",
-        "B": "cặp xách",
-        "C": "cặp sách",
-        "D": "kặp xách"
-      },
-      "answer": "C",
-      "explanation": "'cặp sách' là từ ngữ viết đúng chính tả tiếng Việt.",
-      "questionId": "k1_c2_tn_0772"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_2_VONG_TRUONG",
-      "type": "TN",
-      "question": "Từ ngữ nào dưới đây viết đúng chính tả?",
-      "options": {
-        "A": "quyển nở",
-        "B": "quyển vỡ",
-        "C": "quyển lở",
-        "D": "quyển vở"
-      },
-      "answer": "D",
-      "explanation": "'quyển vở' là từ ngữ viết đúng chính tả tiếng Việt.",
-      "questionId": "k1_c2_tn_0773"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_2_VONG_TRUONG",
-      "type": "TN",
-      "question": "Từ ngữ nào dưới đây viết đúng chính tả?",
-      "options": {
-        "A": "cây tre",
-        "B": "cây che",
-        "C": "cây chê",
-        "D": "cây trê"
-      },
-      "answer": "A",
-      "explanation": "'cây tre' là từ ngữ viết đúng chính tả tiếng Việt.",
-      "questionId": "k1_c2_tn_0774"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_2_VONG_TRUONG",
-      "type": "TN",
-      "question": "Từ ngữ nào dưới đây viết đúng chính tả?",
-      "options": {
-        "A": "chái táo",
-        "B": "trái táo",
-        "C": "trái tảo",
-        "D": "chái tảo"
-      },
-      "answer": "B",
-      "explanation": "'trái táo' là từ ngữ viết đúng chính tả tiếng Việt.",
-      "questionId": "k1_c2_tn_0775"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_2_VONG_TRUONG",
-      "type": "TN",
-      "question": "Từ ngữ nào dưới đây viết đúng chính tả?",
-      "options": {
-        "A": "trú chó",
-        "B": "chú chố",
-        "C": "chú chó",
-        "D": "trú chố"
-      },
-      "answer": "C",
-      "explanation": "'chú chó' là từ ngữ viết đúng chính tả tiếng Việt.",
-      "questionId": "k1_c2_tn_0776"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_2_VONG_TRUONG",
-      "type": "TN",
-      "question": "Từ ngữ nào dưới đây viết đúng chính tả?",
-      "options": {
-        "A": "trú chim",
-        "B": "chú chìm",
-        "C": "trú chìm",
-        "D": "chú chim"
-      },
-      "answer": "D",
-      "explanation": "'chú chim' là từ ngữ viết đúng chính tả tiếng Việt.",
-      "questionId": "k1_c2_tn_0777"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_2_VONG_TRUONG",
-      "type": "TN",
-      "question": "Từ ngữ nào dưới đây viết đúng chính tả?",
-      "options": {
-        "A": "quả chuối",
-        "B": "quả truối",
-        "C": "quả chúi",
-        "D": "quả trối"
-      },
-      "answer": "A",
-      "explanation": "'quả chuối' là từ ngữ viết đúng chính tả tiếng Việt.",
-      "questionId": "k1_c2_tn_0778"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_2_VONG_TRUONG",
-      "type": "TN",
-      "question": "Từ ngữ nào dưới đây viết đúng chính tả?",
-      "options": {
-        "A": "con châu",
-        "B": "con trâu",
-        "C": "con trầu",
-        "D": "con trấu"
-      },
-      "answer": "B",
-      "explanation": "'con trâu' là từ ngữ viết đúng chính tả tiếng Việt.",
-      "questionId": "k1_c2_tn_0779"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_2_VONG_TRUONG",
-      "type": "TN",
-      "question": "Từ ngữ nào dưới đây viết đúng chính tả?",
-      "options": {
-        "A": "buổi xáng",
-        "B": "buổi sảng",
-        "C": "buổi sáng",
-        "D": "buổi xảng"
-      },
-      "answer": "C",
-      "explanation": "'buổi sáng' là từ ngữ viết đúng chính tả tiếng Việt.",
-      "questionId": "k1_c2_tn_0780"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_2_VONG_TRUONG",
-      "type": "TN",
-      "question": "Từ ngữ nào dưới đây viết đúng chính tả?",
-      "options": {
-        "A": "sinh đẹp",
-        "B": "xinh đặp",
-        "C": "sinh đặp",
-        "D": "xinh đẹp"
-      },
-      "answer": "D",
-      "explanation": "'xinh đẹp' là từ ngữ viết đúng chính tả tiếng Việt.",
-      "questionId": "k1_c2_tn_0781"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_2_VONG_TRUONG",
-      "type": "TN",
-      "question": "Từ ngữ nào dưới đây viết đúng chính tả?",
-      "options": {
-        "A": "hoa sen",
-        "B": "hoa xen",
-        "C": "hoa sèn",
-        "D": "hoa xèn"
-      },
-      "answer": "A",
-      "explanation": "'hoa sen' là từ ngữ viết đúng chính tả tiếng Việt.",
-      "questionId": "k1_c2_tn_0782"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_2_VONG_TRUONG",
-      "type": "TN",
-      "question": "Từ ngữ nào dưới đây viết đúng chính tả?",
-      "options": {
-        "A": "hoa kúc",
-        "B": "hoa cúc",
-        "C": "hoa cúk",
-        "D": "hoa cụt"
-      },
-      "answer": "B",
-      "explanation": "'hoa cúc' là từ ngữ viết đúng chính tả tiếng Việt.",
-      "questionId": "k1_c2_tn_0783"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_2_VONG_TRUONG",
-      "type": "TN",
-      "question": "Từ ngữ nào dưới đây viết đúng chính tả?",
-      "options": {
-        "A": "hoa đàu",
-        "B": "hoa đảo",
-        "C": "hoa đào",
-        "D": "hoa đao"
-      },
-      "answer": "C",
-      "explanation": "'hoa đào' là từ ngữ viết đúng chính tả tiếng Việt.",
-      "questionId": "k1_c2_tn_0784"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_2_VONG_TRUONG",
-      "type": "TN",
-      "question": "Từ ngữ nào dưới đây viết đúng chính tả?",
-      "options": {
-        "A": "con mẻo",
-        "B": "con meo",
-        "C": "con mèu",
-        "D": "con mèo"
-      },
-      "answer": "D",
-      "explanation": "'con mèo' là từ ngữ viết đúng chính tả tiếng Việt.",
-      "questionId": "k1_c2_tn_0785"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_2_VONG_TRUONG",
-      "type": "TN",
-      "question": "Từ ngữ nào dưới đây viết đúng chính tả?",
-      "options": {
-        "A": "con lợn",
-        "B": "con nợn",
-        "C": "con lờn",
-        "D": "con nờn"
-      },
-      "answer": "A",
-      "explanation": "'con lợn' là từ ngữ viết đúng chính tả tiếng Việt.",
-      "questionId": "k1_c2_tn_0786"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_2_VONG_TRUONG",
-      "type": "TN",
-      "question": "Từ ngữ nào dưới đây viết đúng chính tả?",
-      "options": {
-        "A": "quả la",
-        "B": "quả na",
-        "C": "quả nà",
-        "D": "quả là"
-      },
-      "answer": "B",
-      "explanation": "'quả na' là từ ngữ viết đúng chính tả tiếng Việt.",
-      "questionId": "k1_c2_tn_0787"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_2_VONG_TRUONG",
-      "type": "TN",
-      "question": "Từ ngữ nào dưới đây viết đúng chính tả?",
-      "options": {
-        "A": "quả nít",
-        "B": "quả mích",
-        "C": "quả mít",
-        "D": "quả ních"
-      },
-      "answer": "C",
-      "explanation": "'quả mít' là từ ngữ viết đúng chính tả tiếng Việt.",
-      "questionId": "k1_c2_tn_0788"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_2_VONG_TRUONG",
-      "type": "TN",
-      "question": "Từ ngữ nào dưới đây viết đúng chính tả?",
-      "options": {
-        "A": "dòng xông",
-        "B": "dòng sổng",
-        "C": "dòng xổng",
-        "D": "dòng sông"
-      },
-      "answer": "D",
-      "explanation": "'dòng sông' là từ ngữ viết đúng chính tả tiếng Việt.",
-      "questionId": "k1_c2_tn_0789"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_2_VONG_TRUONG",
-      "type": "TN",
-      "question": "Từ ngữ nào dưới đây viết đúng chính tả?",
-      "options": {
-        "A": "ngôi sao",
-        "B": "ngôi xao",
-        "C": "ngôi sảo",
-        "D": "ngôi xảo"
-      },
-      "answer": "A",
-      "explanation": "'ngôi sao' là từ ngữ viết đúng chính tả tiếng Việt.",
-      "questionId": "k1_c2_tn_0790"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_2_VONG_TRUONG",
-      "type": "TN",
-      "question": "Từ ngữ nào dưới đây viết đúng chính tả?",
-      "options": {
-        "A": "lúi cao",
-        "B": "núi cao",
-        "C": "núi khao",
-        "D": "lúi khao"
-      },
-      "answer": "B",
-      "explanation": "'núi cao' là từ ngữ viết đúng chính tả tiếng Việt.",
-      "questionId": "k1_c2_tn_0791"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_2_VONG_TRUONG",
-      "type": "TN",
-      "question": "Từ ngữ nào dưới đây viết đúng chính tả?",
-      "options": {
-        "A": "bàng tay",
-        "B": "bàn tai",
-        "C": "bàn tay",
-        "D": "bàng tai"
-      },
-      "answer": "C",
-      "explanation": "'bàn tay' là từ ngữ viết đúng chính tả tiếng Việt.",
-      "questionId": "k1_c2_tn_0792"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_2_VONG_TRUONG",
-      "type": "TN",
-      "question": "Từ ngữ nào dưới đây viết đúng chính tả?",
-      "options": {
-        "A": "bàng chân",
-        "B": "bàn trân",
-        "C": "bàng trân",
-        "D": "bàn chân"
-      },
-      "answer": "D",
-      "explanation": "'bàn chân' là từ ngữ viết đúng chính tả tiếng Việt.",
-      "questionId": "k1_c2_tn_0793"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_2_VONG_TRUONG",
-      "type": "TN",
-      "question": "Từ ngữ nào dưới đây viết đúng chính tả?",
-      "options": {
-        "A": "đôi mắt",
-        "B": "đôi mắc",
-        "C": "đôi mặt",
-        "D": "đôi mác"
-      },
-      "answer": "A",
-      "explanation": "'đôi mắt' là từ ngữ viết đúng chính tả tiếng Việt.",
-      "questionId": "k1_c2_tn_0794"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_2_VONG_TRUONG",
-      "type": "TN",
-      "question": "Từ ngữ nào dưới đây viết đúng chính tả?",
-      "options": {
-        "A": "cái mũ",
-        "B": "cái mũi",
-        "C": "cái mủi",
-        "D": "cái mụi"
-      },
-      "answer": "B",
-      "explanation": "'cái mũi' là từ ngữ viết đúng chính tả tiếng Việt.",
-      "questionId": "k1_c2_tn_0795"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_2_VONG_TRUONG",
-      "type": "TN",
-      "question": "Từ ngữ nào dưới đây viết đúng chính tả?",
-      "options": {
-        "A": "học xinh",
-        "B": "hộc sinh",
-        "C": "học sinh",
-        "D": "hộc xinh"
-      },
-      "answer": "C",
-      "explanation": "'học sinh' là từ ngữ viết đúng chính tả tiếng Việt.",
-      "questionId": "k1_c2_tn_0796"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_2_VONG_TRUONG",
-      "type": "TN",
-      "question": "Từ ngữ nào dưới đây viết đúng chính tả?",
-      "options": {
-        "A": "cô dáo",
-        "B": "cô ráo",
-        "C": "cô giảo",
-        "D": "cô giáo"
-      },
-      "answer": "D",
-      "explanation": "'cô giáo' là từ ngữ viết đúng chính tả tiếng Việt.",
-      "questionId": "k1_c2_tn_0797"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_2_VONG_TRUONG",
-      "type": "TN",
-      "question": "Từ ngữ nào dưới đây viết đúng chính tả?",
-      "options": {
-        "A": "thầy giáo",
-        "B": "thầy dáo",
-        "C": "thầy ráo",
-        "D": "thầy giảo"
-      },
-      "answer": "A",
-      "explanation": "'thầy giáo' là từ ngữ viết đúng chính tả tiếng Việt.",
-      "questionId": "k1_c2_tn_0798"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_2_VONG_TRUONG",
-      "type": "TN",
-      "question": "Từ ngữ nào dưới đây viết đúng chính tả?",
-      "options": {
-        "A": "bạng bè",
-        "B": "bạn bè",
-        "C": "bạn bẽ",
-        "D": "bạng bẽ"
-      },
-      "answer": "B",
-      "explanation": "'bạn bè' là từ ngữ viết đúng chính tả tiếng Việt.",
-      "questionId": "k1_c2_tn_0799"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_2_VONG_TRUONG",
-      "type": "TN",
-      "question": "Từ ngữ nào dưới đây viết đúng chính tả?",
-      "options": {
-        "A": "chường học",
-        "B": "trường hộc",
-        "C": "trường học",
-        "D": "chường hộc"
-      },
-      "answer": "C",
-      "explanation": "'trường học' là từ ngữ viết đúng chính tả tiếng Việt.",
-      "questionId": "k1_c2_tn_0800"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_2_VONG_TRUONG",
-      "type": "TN",
-      "question": "Từ ngữ nào dưới đây viết đúng chính tả?",
-      "options": {
-        "A": "nớp học",
-        "B": "lớp hộc",
-        "C": "nớp hộc",
-        "D": "lớp học"
-      },
-      "answer": "D",
-      "explanation": "'lớp học' là từ ngữ viết đúng chính tả tiếng Việt.",
-      "questionId": "k1_c2_tn_0801"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_2_VONG_TRUONG",
-      "type": "TN",
-      "question": "Từ ngữ nào dưới đây viết đúng chính tả?",
-      "options": {
-        "A": "tập đọc",
-        "B": "tập đục",
-        "C": "tập đọt",
-        "D": "tập đụt"
-      },
-      "answer": "A",
-      "explanation": "'tập đọc' là từ ngữ viết đúng chính tả tiếng Việt.",
-      "questionId": "k1_c2_tn_0802"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_2_VONG_TRUONG",
-      "type": "TN",
-      "question": "Từ ngữ nào dưới đây viết đúng chính tả?",
-      "options": {
-        "A": "viếc chữ",
-        "B": "viết chữ",
-        "C": "viết chử",
-        "D": "viếc chử"
-      },
-      "answer": "B",
-      "explanation": "'viết chữ' là từ ngữ viết đúng chính tả tiếng Việt.",
-      "questionId": "k1_c2_tn_0803"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_2_VONG_TRUONG",
-      "type": "TN",
-      "question": "Từ ngữ nào dưới đây viết đúng chính tả?",
-      "options": {
-        "A": "nàm tính",
-        "B": "làm tíng",
-        "C": "làm tính",
-        "D": "nàm tíng"
-      },
-      "answer": "C",
-      "explanation": "'làm tính' là từ ngữ viết đúng chính tả tiếng Việt.",
-      "questionId": "k1_c2_tn_0804"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_2_VONG_TRUONG",
-      "type": "TN",
-      "question": "Từ ngữ nào dưới đây viết đúng chính tả?",
-      "options": {
-        "A": "vẽ chanh",
-        "B": "vẽ trạnh",
-        "C": "vẽ chạnh",
-        "D": "vẽ tranh"
-      },
-      "answer": "D",
-      "explanation": "'vẽ tranh' là từ ngữ viết đúng chính tả tiếng Việt.",
-      "questionId": "k1_c2_tn_0805"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_2_VONG_TRUONG",
-      "type": "TN",
-      "question": "Từ ngữ nào dưới đây viết đúng chính tả?",
-      "options": {
-        "A": "hát múa",
-        "B": "hác múa",
-        "C": "hát núa",
-        "D": "hác núa"
-      },
-      "answer": "A",
-      "explanation": "'hát múa' là từ ngữ viết đúng chính tả tiếng Việt.",
-      "questionId": "k1_c2_tn_0806"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_2_VONG_TRUONG",
-      "type": "TN",
-      "question": "Từ ngữ nào dưới đây viết đúng chính tả?",
-      "options": {
-        "A": "trăm chỉ",
-        "B": "chăm chỉ",
-        "C": "chăm trỉ",
-        "D": "trăm trỉ"
-      },
-      "answer": "B",
-      "explanation": "'chăm chỉ' là từ ngữ viết đúng chính tả tiếng Việt.",
-      "questionId": "k1_c2_tn_0807"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_2_VONG_TRUONG",
-      "type": "TN",
-      "question": "Từ ngữ nào dưới đây viết đúng chính tả?",
-      "options": {
-        "A": "ngoan ngoản",
-        "B": "nguan ngoãn",
-        "C": "ngoan ngoãn",
-        "D": "nguan ngoản"
-      },
-      "answer": "C",
-      "explanation": "'ngoan ngoãn' là từ ngữ viết đúng chính tả tiếng Việt.",
-      "questionId": "k1_c2_tn_0808"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_2_VONG_TRUONG",
-      "type": "TN",
-      "question": "Từ ngữ nào dưới đây viết đúng chính tả?",
-      "options": {
-        "A": "thặc thà",
-        "B": "thật trà",
-        "C": "thặc trà",
-        "D": "thật thà"
-      },
-      "answer": "D",
-      "explanation": "'thật thà' là từ ngữ viết đúng chính tả tiếng Việt.",
-      "questionId": "k1_c2_tn_0809"
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -19010,22 +18130,6 @@
       "type": "TN",
       "question": "Từ ngữ nào dưới đây viết đúng chính tả?",
       "options": {
-        "A": "quéc nhà",
-        "B": "quét già",
-        "C": "quéc già",
-        "D": "quét nhà"
-      },
-      "answer": "D",
-      "explanation": "'quét nhà' là từ ngữ viết đúng chính tả tiếng Việt.",
-      "questionId": "k1_c2_tn_0813"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_2_VONG_TRUONG",
-      "type": "TN",
-      "question": "Từ ngữ nào dưới đây viết đúng chính tả?",
-      "options": {
         "A": "tưới cây",
         "B": "tưới kây",
         "C": "tưới cấy",
@@ -19034,118 +18138,6 @@
       "answer": "A",
       "explanation": "'tưới cây' là từ ngữ viết đúng chính tả tiếng Việt.",
       "questionId": "k1_c2_tn_0814"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_2_VONG_TRUONG",
-      "type": "TN",
-      "question": "Từ ngữ nào dưới đây viết đúng chính tả?",
-      "options": {
-        "A": "rửa bác",
-        "B": "rửa bát",
-        "C": "dửa bát",
-        "D": "rửa bạt"
-      },
-      "answer": "B",
-      "explanation": "'rửa bát' là từ ngữ viết đúng chính tả tiếng Việt.",
-      "questionId": "k1_c2_tn_0815"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_2_VONG_TRUONG",
-      "type": "TN",
-      "question": "Từ ngữ nào dưới đây viết đúng chính tả?",
-      "options": {
-        "A": "uống nướt",
-        "B": "uống lước",
-        "C": "uống nước",
-        "D": "uống nướt "
-      },
-      "answer": "C",
-      "explanation": "'uống nước' là từ ngữ viết đúng chính tả tiếng Việt.",
-      "questionId": "k1_c2_tn_0816"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_2_VONG_TRUONG",
-      "type": "TN",
-      "question": "Từ ngữ nào dưới đây viết đúng chính tả?",
-      "options": {
-        "A": "ăn côm",
-        "B": "ăn kơm",
-        "C": "ăn cờm",
-        "D": "ăn cơm"
-      },
-      "answer": "D",
-      "explanation": "'ăn cơm' là từ ngữ viết đúng chính tả tiếng Việt.",
-      "questionId": "k1_c2_tn_0817"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_2_VONG_TRUONG",
-      "type": "TN",
-      "question": "Từ ngữ nào dưới đây viết đúng chính tả?",
-      "options": {
-        "A": "đi học",
-        "B": "đi hộc",
-        "C": "đi họng",
-        "D": "đi hót"
-      },
-      "answer": "A",
-      "explanation": "'đi học' là từ ngữ viết đúng chính tả tiếng Việt.",
-      "questionId": "k1_c2_tn_0818"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_2_VONG_TRUONG",
-      "type": "TN",
-      "question": "Từ ngữ nào dưới đây viết đúng chính tả?",
-      "options": {
-        "A": "về già",
-        "B": "về nhà",
-        "C": "dề nhà",
-        "D": "dề già"
-      },
-      "answer": "B",
-      "explanation": "'về nhà' là từ ngữ viết đúng chính tả tiếng Việt.",
-      "questionId": "k1_c2_tn_0819"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_2_VONG_TRUONG",
-      "type": "TN",
-      "question": "Từ ngữ nào dưới đây viết đúng chính tả?",
-      "options": {
-        "A": "bình ming",
-        "B": "bìn minh",
-        "C": "bình minh",
-        "D": "bìn ming"
-      },
-      "answer": "C",
-      "explanation": "'bình minh' là từ ngữ viết đúng chính tả tiếng Việt.",
-      "questionId": "k1_c2_tn_0820"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_2_VONG_TRUONG",
-      "type": "TN",
-      "question": "Từ ngữ nào dưới đây viết đúng chính tả?",
-      "options": {
-        "A": "hoàng hông",
-        "B": "hoàn hôn",
-        "C": "hoàn hông",
-        "D": "hoàng hôn"
-      },
-      "answer": "D",
-      "explanation": "'hoàng hôn' là từ ngữ viết đúng chính tả tiếng Việt.",
-      "questionId": "k1_c2_tn_0821"
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -19186,230 +18178,6 @@
       "type": "TN",
       "question": "Từ ngữ nào dưới đây viết đúng chính tả?",
       "options": {
-        "A": "cơn ngưa",
-        "B": "kơn mưa",
-        "C": "cơn mưa",
-        "D": "kơn ngưa"
-      },
-      "answer": "C",
-      "explanation": "'cơn mưa' là từ ngữ viết đúng chính tả tiếng Việt.",
-      "questionId": "k1_c2_tn_0824"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_2_VONG_TRUONG",
-      "type": "TN",
-      "question": "Từ ngữ nào dưới đây viết đúng chính tả?",
-      "options": {
-        "A": "ánh lắng",
-        "B": "ánh nắn",
-        "C": "ánh lắn",
-        "D": "ánh nắng"
-      },
-      "answer": "D",
-      "explanation": "'ánh nắng' là từ ngữ viết đúng chính tả tiếng Việt.",
-      "questionId": "k1_c2_tn_0825"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_2_VONG_TRUONG",
-      "type": "TN",
-      "question": "Từ ngữ nào dưới đây viết đúng chính tả?",
-      "options": {
-        "A": "ngọn gió",
-        "B": "ngọn dố",
-        "C": "ngọn giố",
-        "D": "ngọn dó"
-      },
-      "answer": "A",
-      "explanation": "'ngọn gió' là từ ngữ viết đúng chính tả tiếng Việt.",
-      "questionId": "k1_c2_tn_0826"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_2_VONG_TRUONG",
-      "type": "TN",
-      "question": "Từ ngữ nào dưới đây viết đúng chính tả?",
-      "options": {
-        "A": "đáng mây",
-        "B": "đám mây",
-        "C": "đám mai",
-        "D": "đáng mai"
-      },
-      "answer": "B",
-      "explanation": "'đám mây' là từ ngữ viết đúng chính tả tiếng Việt.",
-      "questionId": "k1_c2_tn_0827"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_2_VONG_TRUONG",
-      "type": "TN",
-      "question": "Từ ngữ nào dưới đây viết đúng chính tả?",
-      "options": {
-        "A": "dòng xuối",
-        "B": "dòng sủi",
-        "C": "dòng suối",
-        "D": "dòng xủi"
-      },
-      "answer": "C",
-      "explanation": "'dòng suối' là từ ngữ viết đúng chính tả tiếng Việt.",
-      "questionId": "k1_c2_tn_0828"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_2_VONG_TRUONG",
-      "type": "TN",
-      "question": "Từ ngữ nào dưới đây viết đúng chính tả?",
-      "options": {
-        "A": "con xuối",
-        "B": "con sủi",
-        "C": "con xủi",
-        "D": "con suối"
-      },
-      "answer": "D",
-      "explanation": "'con suối' là từ ngữ viết đúng chính tả tiếng Việt.",
-      "questionId": "k1_c2_tn_0829"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_2_VONG_TRUONG",
-      "type": "TN",
-      "question": "Từ ngữ nào dưới đây viết đúng chính tả?",
-      "options": {
-        "A": "con đường",
-        "B": "con dường",
-        "C": "con giườn",
-        "D": "con gường"
-      },
-      "answer": "A",
-      "explanation": "'con đường' là từ ngữ viết đúng chính tả tiếng Việt.",
-      "questionId": "k1_c2_tn_0830"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_2_VONG_TRUONG",
-      "type": "TN",
-      "question": "Từ ngữ nào dưới đây viết đúng chính tả?",
-      "options": {
-        "A": "góp phố",
-        "B": "góc phố",
-        "C": "góc hố",
-        "D": "góp hố"
-      },
-      "answer": "B",
-      "explanation": "'góc phố' là từ ngữ viết đúng chính tả tiếng Việt.",
-      "questionId": "k1_c2_tn_0831"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_2_VONG_TRUONG",
-      "type": "TN",
-      "question": "Từ ngữ nào dưới đây viết đúng chính tả?",
-      "options": {
-        "A": "bến se",
-        "B": "bến xè",
-        "C": "bến xe",
-        "D": "bến sè"
-      },
-      "answer": "C",
-      "explanation": "'bến xe' là từ ngữ viết đúng chính tả tiếng Việt.",
-      "questionId": "k1_c2_tn_0832"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_2_VONG_TRUONG",
-      "type": "TN",
-      "question": "Từ ngữ nào dưới đây viết đúng chính tả?",
-      "options": {
-        "A": "nhà gha",
-        "B": "nhà ca",
-        "C": "nhà ka",
-        "D": "nhà ga"
-      },
-      "answer": "D",
-      "explanation": "'nhà ga' là từ ngữ viết đúng chính tả tiếng Việt.",
-      "questionId": "k1_c2_tn_0833"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_2_VONG_TRUONG",
-      "type": "TN",
-      "question": "Từ ngữ nào dưới đây viết đúng chính tả?",
-      "options": {
-        "A": "sân bay",
-        "B": "xân bay",
-        "C": "sân bai",
-        "D": "xân bai"
-      },
-      "answer": "A",
-      "explanation": "'sân bay' là từ ngữ viết đúng chính tả tiếng Việt.",
-      "questionId": "k1_c2_tn_0834"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_2_VONG_TRUONG",
-      "type": "TN",
-      "question": "Từ ngữ nào dưới đây viết đúng chính tả?",
-      "options": {
-        "A": "đoàn màu",
-        "B": "đoàn tàu",
-        "C": "đoàn tào",
-        "D": "đoàn thàu"
-      },
-      "answer": "B",
-      "explanation": "'đoàn tàu' là từ ngữ viết đúng chính tả tiếng Việt.",
-      "questionId": "k1_c2_tn_0835"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_2_VONG_TRUONG",
-      "type": "TN",
-      "question": "Từ ngữ nào dưới đây viết đúng chính tả?",
-      "options": {
-        "A": "chuyền buồm",
-        "B": "thuyền bồm",
-        "C": "thuyền buồm",
-        "D": "chuyền bồm"
-      },
-      "answer": "C",
-      "explanation": "'thuyền buồm' là từ ngữ viết đúng chính tả tiếng Việt.",
-      "questionId": "k1_c2_tn_0836"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_2_VONG_TRUONG",
-      "type": "TN",
-      "question": "Từ ngữ nào dưới đây viết đúng chính tả?",
-      "options": {
-        "A": "con trò",
-        "B": "con chò",
-        "C": "con gò",
-        "D": "con đò"
-      },
-      "answer": "D",
-      "explanation": "'con đò' là từ ngữ viết đúng chính tả tiếng Việt.",
-      "questionId": "k1_c2_tn_0837"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_2_VONG_TRUONG",
-      "type": "TN",
-      "question": "Từ ngữ nào dưới đây viết đúng chính tả?",
-      "options": {
         "A": "cầu treo",
         "B": "cầu cheo",
         "C": "cầu trèo",
@@ -19442,46 +18210,14 @@
       "type": "TN",
       "question": "Từ ngữ nào dưới đây viết đúng chính tả?",
       "options": {
-        "A": "bờ au",
-        "B": "bờ eo",
-        "C": "bờ ao",
-        "D": "bờ ai"
-      },
-      "answer": "C",
-      "explanation": "'bờ ao' là từ ngữ viết đúng chính tả tiếng Việt.",
-      "questionId": "k1_c2_tn_0840"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_2_VONG_TRUONG",
-      "type": "TN",
-      "question": "Từ ngữ nào dưới đây viết đúng chính tả?",
-      "options": {
         "A": "khóm ha",
-        "B": "khóng hoa",
+        "B": "khón hoa",
         "C": "khóng ha",
         "D": "khóm hoa"
       },
       "answer": "D",
       "explanation": "'khóm hoa' là từ ngữ viết đúng chính tả tiếng Việt.",
       "questionId": "k1_c2_tn_0841"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_2_VONG_TRUONG",
-      "type": "TN",
-      "question": "Từ ngữ nào dưới đây viết đúng chính tả?",
-      "options": {
-        "A": "vườn rau",
-        "B": "dườn rau",
-        "C": "vườn lau",
-        "D": "giườn rau"
-      },
-      "answer": "A",
-      "explanation": "'vườn rau' là từ ngữ viết đúng chính tả tiếng Việt.",
-      "questionId": "k1_c2_tn_0842"
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -19506,7 +18242,7 @@
       "type": "TN",
       "question": "Tiếng nào dưới đây mang thanh ngã?",
       "options": {
-        "A": "bữa",
+        "A": "bàn",
         "B": "cỗ",
         "C": "tiệc",
         "D": "mâm"
@@ -19683,7 +18419,7 @@
       "level": "CAP_2_VONG_TRUONG",
       "type": "DT",
       "questionId": "k1_c2_dt_0007",
-      "question": "Điền chữ cái hoặc âm thích hợp vào chỗ trống: \"(...)àng xóm\"",
+      "question": "Điền chữ cái hoặc âm thích hợp vào chỗ trống: \"Những người sống gần nhà em được gọi là (...)àng xóm\"",
       "blankAnswer": "l",
       "answer": "l",
       "explanation": "Từ đúng chính tả là 'làng xóm', do đó âm cần điền là 'l'."
@@ -19705,7 +18441,7 @@
       "level": "CAP_2_VONG_TRUONG",
       "type": "DT",
       "questionId": "k1_c2_dt_0009",
-      "question": "Điền chữ cái hoặc âm thích hợp vào chỗ trống: \"cây (...)e\"",
+      "question": "Điền 'tr' hoặc 'ch' vào chỗ trống: \"cây (...)e\"",
       "blankAnswer": "tr",
       "answer": "tr",
       "explanation": "Từ đúng chính tả là 'cây tre', do đó âm cần điền là 'tr'."
@@ -20035,7 +18771,7 @@
       "level": "CAP_2_VONG_TRUONG",
       "type": "DT",
       "questionId": "k1_c2_dt_0039",
-      "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)ưới cây\"",
+      "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"bé thường xuyên (...)ưới nước cho cây\"",
       "blankAnswer": "t",
       "answer": "t",
       "explanation": "Điền phụ âm đầu 't' để tạo thành từ 'tưới cây'."
@@ -20046,10 +18782,10 @@
       "level": "CAP_2_VONG_TRUONG",
       "type": "DT",
       "questionId": "k1_c2_dt_0040",
-      "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)áy xoay\"",
+      "question": "Điền phụ âm đầu thích hợp vào chỗ trống: \"(...)áy xay sinh tố\"",
       "blankAnswer": "m",
       "answer": "m",
-      "explanation": "Điền phụ âm đầu 'm' để tạo thành từ 'máy xoay'."
+      "explanation": "Điền phụ âm đầu 'm' để tạo thành từ 'máy xay sinh tố'."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -20100,7 +18836,7 @@
       "grade": "KHOI_1",
       "level": "CAP_2_VONG_TRUONG",
       "type": "DT",
-      "question": "Giải câu đố sau và điền từ thích hợp vào chỗ trống:\n\"Mặt đen bóng loáng phẳng phiu\nPhấn hoa rơi nhẹ bao điều trò vui.\"\nĐáp án: cái (...)",
+      "question": "Giải câu đố sau và điền từ thích hợp vào chỗ trống:\n\"Mặt đen bóng loáng phẳng phiu\nPhấn trắng viết nhiều bao bài học hay.\"\nĐáp án: cái (...)",
       "blankAnswer": "bảng con",
       "answer": "bảng con",
       "explanation": "Cái bảng con màu đen giúp học sinh lớp 1 tập viết chữ bằng phấn.",
@@ -20111,7 +18847,7 @@
       "grade": "KHOI_1",
       "level": "CAP_2_VONG_TRUONG",
       "type": "DT",
-      "question": "Giải câu đố sau và điền từ thích hợp vào chỗ trống:\n\"Mình trắng như tuyết, tròn thon\nThầy cô nắn nót, nét son luyện rèn.\"\nĐáp án: viên (...)",
+      "question": "Giải câu đố sau và điền từ thích hợp vào chỗ trống:\n\"Thân em trắng muốt, nhỏ xinh\nTheo tay cô viết chữ xinh trên bảng.\"\nĐáp án: viên (...)",
       "blankAnswer": "phấn",
       "answer": "phấn",
       "explanation": "Viên phấn trắng dùng để viết chữ lên bảng lớp học.",
@@ -20144,10 +18880,10 @@
       "grade": "KHOI_1",
       "level": "CAP_2_VONG_TRUONG",
       "type": "DT",
-      "question": "Giải câu đố sau và điền từ thích hợp vào chỗ trống:\n\"Có ba kim chạy vòng quanh\nNhắc em đi học sớm lành đúng giờ.\"\nĐáp án: cái (...)",
+      "question": "Giải câu đố sau và điền từ thích hợp vào chỗ trống:\n\"Mặt tròn có những con số\nKim quay chỉ phút, chỉ giờ cho em.\"\nĐáp án: cái (...)",
       "blankAnswer": "đồng hồ",
       "answer": "đồng hồ",
-      "explanation": "Cái đồng hồ có các kim chạy tròn đều để báo giờ giấc cho mọi người.",
+      "explanation": "Cái đồng hồ có các kim chạy để mọi người có thể biết thời gian.",
       "questionId": "k1_c2_dt_0049"
     },
     {
@@ -20183,7 +18919,6 @@
       "explanation": "Cái chổi dùng để quét sạch bụi rác trên nền nhà và sân trường.",
       "questionId": "k1_c2_dt_0052"
     },
-    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_1",
@@ -20905,8 +19640,8 @@
       "level": "CAP_2_VONG_TRUONG",
       "type": "DT",
       "question": "Điền chữ cái hoặc âm thích hợp vào chỗ trống: \"con (...)hỉ\"",
-      "blankAnswer": "kh",
-      "answer": "kh",
+      "blankAnswer": "k",
+      "answer": "k",
       "explanation": "Từ đúng là 'con khỉ'.",
       "questionId": "k1_c2_dt_0119"
     },
@@ -20926,7 +19661,7 @@
       "grade": "KHOI_1",
       "level": "CAP_2_VONG_TRUONG",
       "type": "DT",
-      "question": "Điền chữ cái hoặc âm thích hợp vào chỗ trống: \"con (...)hổ\"",
+      "question": "Điền chữ cái hoặc âm thích hợp vào chỗ trống: \"con (...)ổ\"",
       "blankAnswer": "h",
       "answer": "h",
       "explanation": "Từ đúng là 'con hổ'.",
@@ -20937,9 +19672,9 @@
       "grade": "KHOI_1",
       "level": "CAP_2_VONG_TRUONG",
       "type": "DT",
-      "question": "Điền chữ cái thích hợp vào chỗ trống: \"nhà s(...)n\"",
-      "blankAnswer": "àn",
-      "answer": "àn",
+      "question": "Điền chữ cái thích hợp vào chỗ trống: \"nhà sà(...)\"",
+      "blankAnswer": "n",
+      "answer": "n",
       "explanation": "Từ đúng là 'nhà sàn' (chứa vần an).",
       "questionId": "k1_c2_dt_0122"
     },
@@ -20948,20 +19683,9 @@
       "grade": "KHOI_1",
       "level": "CAP_2_VONG_TRUONG",
       "type": "DT",
-      "question": "Điền chữ cái thích hợp vào chỗ trống: \"con nh(...)n\"",
-      "blankAnswer": "ạn",
-      "answer": "ạn",
-      "explanation": "Từ đúng là 'con nhạn' (chứa vần an).",
-      "questionId": "k1_c2_dt_0123"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_2_VONG_TRUONG",
-      "type": "DT",
       "question": "Điền chữ cái thích hợp vào chỗ trống: \"bát c(...)m\"",
-      "blankAnswer": "ơm",
-      "answer": "ơm",
+      "blankAnswer": "ơ",
+      "answer": "ơ",
       "explanation": "Từ đúng là 'bát cơm' (chứa vần cơm).",
       "questionId": "k1_c2_dt_0124"
     },
@@ -20982,8 +19706,8 @@
       "level": "CAP_2_VONG_TRUONG",
       "type": "DT",
       "question": "Điền chữ cái thích hợp vào chỗ trống: \"quả b(...)ng\"",
-      "blankAnswer": "ón",
-      "answer": "ón",
+      "blankAnswer": "ó",
+      "answer": "ó",
       "explanation": "Từ đúng là 'quả bóng'.",
       "questionId": "k1_c2_dt_0126"
     },
@@ -20992,9 +19716,9 @@
       "grade": "KHOI_1",
       "level": "CAP_2_VONG_TRUONG",
       "type": "DT",
-      "question": "Điền chữ cái thích hợp vào chỗ trống: \"cánh b(...)m\"",
-      "blankAnswer": "ướ",
-      "answer": "ướ",
+      "question": "Điền chữ cái thích hợp vào chỗ trống: \"cánh bư(...)m\"",
+      "blankAnswer": "ớ",
+      "answer": "ớ",
       "explanation": "Từ đúng là 'cánh bướm'.",
       "questionId": "k1_c2_dt_0127"
     },
@@ -21014,9 +19738,9 @@
       "grade": "KHOI_1",
       "level": "CAP_2_VONG_TRUONG",
       "type": "DT",
-      "question": "Điền chữ cái thích hợp vào chỗ trống: \"cây ch(...)nh\"",
-      "blankAnswer": "anh",
-      "answer": "anh",
+      "question": "Điền chữ cái thích hợp vào chỗ trống: \"cây gì có quả rất chua: cây ch(...)nh\"",
+      "blankAnswer": "a",
+      "answer": "a",
       "explanation": "Từ đúng là 'cây chanh'.",
       "questionId": "k1_c2_dt_0129"
     },
@@ -21025,7 +19749,7 @@
       "grade": "KHOI_1",
       "level": "CAP_2_VONG_TRUONG",
       "type": "DT",
-      "question": "Điền chữ cái thích hợp vào chỗ trống: \"màu đ(...)n\"",
+      "question": "Điền chữ cái thích hợp vào chỗ trống: \"màu gì nghe là đã tối: màu đ(...)n\"",
       "blankAnswer": "e",
       "answer": "e",
       "explanation": "Từ đúng là 'màu đen'.",
@@ -21036,9 +19760,9 @@
       "grade": "KHOI_1",
       "level": "CAP_2_VONG_TRUONG",
       "type": "DT",
-      "question": "Điền chữ cái thích hợp vào chỗ trống: \"màu đ(...)ng\"",
-      "blankAnswer": "ỏ",
-      "answer": "ỏ",
+      "question": "Điền chữ cái thích hợp vào chỗ trống: \"màu lá cờ Việt Nam: màu (...)ỏ\"",
+      "blankAnswer": "đ",
+      "answer": "đ",
       "explanation": "Từ đúng là 'màu đỏ'.",
       "questionId": "k1_c2_dt_0131"
     },
@@ -21047,9 +19771,9 @@
       "grade": "KHOI_1",
       "level": "CAP_2_VONG_TRUONG",
       "type": "DT",
-      "question": "Điền chữ cái thích hợp vào chỗ trống: \"màu v(...)ng\"",
-      "blankAnswer": "àn",
-      "answer": "àn",
+      "question": "Điền chữ cái thích hợp vào chỗ trống: \"màu ngôi sao trên lá cờ Việt Nam: màu vàn(...)\"",
+      "blankAnswer": "g",
+      "answer": "g",
       "explanation": "Từ đúng là 'màu vàng'.",
       "questionId": "k1_c2_dt_0132"
     },
@@ -21058,18 +19782,7 @@
       "grade": "KHOI_1",
       "level": "CAP_2_VONG_TRUONG",
       "type": "DT",
-      "question": "Điền chữ cái thích hợp vào chỗ trống: \"hoa h(...)ng\"",
-      "blankAnswer": "ồn",
-      "answer": "ồn",
-      "explanation": "Từ đúng là 'hoa hồng'.",
-      "questionId": "k1_c2_dt_0133"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_2_VONG_TRUONG",
-      "type": "DT",
-      "question": "Điền chữ cái thích hợp vào chỗ trống: \"hoa m(...)i\"",
+      "question": "Điền chữ cái thích hợp vào chỗ trống: \"Tết đến miền Nam có hoa m(...)i\"",
       "blankAnswer": "a",
       "answer": "a",
       "explanation": "Từ đúng là 'hoa mai'.",
@@ -21080,9 +19793,9 @@
       "grade": "KHOI_1",
       "level": "CAP_2_VONG_TRUONG",
       "type": "DT",
-      "question": "Điền chữ cái thích hợp vào chỗ trống: \"hoa đ(...)o\"",
-      "blankAnswer": "à",
-      "answer": "à",
+      "question": "Điền chữ cái thích hợp vào chỗ trống: \"Xuân về miền Bắc có hoa đà(...)\"",
+      "blankAnswer": "o",
+      "answer": "o",
       "explanation": "Từ đúng là 'hoa đào'.",
       "questionId": "k1_c2_dt_0135"
     },
@@ -21179,9 +19892,9 @@
       "grade": "KHOI_1",
       "level": "CAP_2_VONG_TRUONG",
       "type": "DT",
-      "question": "Điền chữ cái thích hợp vào chỗ trống: \"bạn b(...)è\"",
-      "blankAnswer": "e",
-      "answer": "e",
+      "question": "Điền chữ cái thích hợp vào chỗ trống: \"bạn (...)è\"",
+      "blankAnswer": "b",
+      "answer": "b",
       "explanation": "Từ đúng là 'bạn bè'.",
       "questionId": "k1_c2_dt_0144"
     },
@@ -21300,9 +20013,9 @@
       "grade": "KHOI_1",
       "level": "CAP_2_VONG_TRUONG",
       "type": "DT",
-      "question": "Điền chữ cái thích hợp vào chỗ trống: \"con b(...)m\"",
-      "blankAnswer": "ướ",
-      "answer": "ướ",
+      "question": "Điền chữ cái thích hợp vào chỗ trống: \"con bư(...)m\"",
+      "blankAnswer": "ớ",
+      "answer": "ớ",
       "explanation": "Từ đúng là 'con bướm'.",
       "questionId": "k1_c2_dt_0155"
     },
@@ -21355,9 +20068,9 @@
       "grade": "KHOI_1",
       "level": "CAP_2_VONG_TRUONG",
       "type": "DT",
-      "question": "Điền chữ cái thích hợp vào chỗ trống: \"quả l(...)ê\"",
-      "blankAnswer": "e",
-      "answer": "e",
+      "question": "Điền chữ cái 'n' hoặc 'l' vào chỗ trống: \"quả (...)ê\"",
+      "blankAnswer": "l",
+      "answer": "l",
       "explanation": "Từ đúng là 'quả lê'.",
       "questionId": "k1_c2_dt_0160"
     },
@@ -21366,9 +20079,9 @@
       "grade": "KHOI_1",
       "level": "CAP_2_VONG_TRUONG",
       "type": "DT",
-      "question": "Điền chữ cái thích hợp vào chỗ trống: \"quả n(...)a\"",
-      "blankAnswer": "a",
-      "answer": "a",
+      "question": "Điền chữ cái 'n' hoặc 'l' vào chỗ trống: \"quả (...)a\"",
+      "blankAnswer": "n",
+      "answer": "n",
       "explanation": "Từ đúng là 'quả na'.",
       "questionId": "k1_c2_dt_0161"
     },
@@ -21454,31 +20167,9 @@
       "grade": "KHOI_1",
       "level": "CAP_2_VONG_TRUONG",
       "type": "DT",
-      "question": "Điền chữ cái thích hợp vào chỗ trống: \"đĩa c(...)a\"",
-      "blankAnswer": "á",
-      "answer": "á",
-      "explanation": "Từ đúng là 'đĩa cá'.",
-      "questionId": "k1_c2_dt_0169"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_2_VONG_TRUONG",
-      "type": "DT",
-      "question": "Điền chữ cái thích hợp vào chỗ trống: \"miếng th(...)t\"",
-      "blankAnswer": "ị",
-      "answer": "ị",
-      "explanation": "Từ đúng là 'miếng thịt'.",
-      "questionId": "k1_c2_dt_0170"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_2_VONG_TRUONG",
-      "type": "DT",
-      "question": "Điền chữ cái thích hợp vào chỗ trống: \"cốc s(...)a\"",
-      "blankAnswer": "ữ",
-      "answer": "ữ",
+      "question": "Điền chữ cái thích hợp vào chỗ trống: \"cốc sữ(...)\"",
+      "blankAnswer": "a",
+      "answer": "a",
       "explanation": "Từ đúng là 'cốc sữa'.",
       "questionId": "k1_c2_dt_0171"
     },
@@ -21509,9 +20200,9 @@
       "grade": "KHOI_1",
       "level": "CAP_2_VONG_TRUONG",
       "type": "DT",
-      "question": "Điền chữ cái thích hợp vào chỗ trống: \"chiếc m(...)ũ\"",
-      "blankAnswer": "u",
-      "answer": "u",
+      "question": "Điền chữ cái thích hợp vào chỗ trống: \"chiếc (...)ũ dùng để che nắng\"",
+      "blankAnswer": "m",
+      "answer": "m",
       "explanation": "Từ đúng là 'chiếc mũ'.",
       "questionId": "k1_c2_dt_0174"
     },
@@ -21520,9 +20211,9 @@
       "grade": "KHOI_1",
       "level": "CAP_2_VONG_TRUONG",
       "type": "DT",
-      "question": "Điền chữ cái thích hợp vào chỗ trống: \"chiếc k(...)n\"",
-      "blankAnswer": "hă",
-      "answer": "hă",
+      "question": "Điền chữ cái thích hợp vào chỗ trống: \"chiếc kh(...)n\"",
+      "blankAnswer": "ă",
+      "answer": "ă",
       "explanation": "Từ đúng là 'chiếc khăn'.",
       "questionId": "k1_c2_dt_0175"
     },
@@ -21542,9 +20233,9 @@
       "grade": "KHOI_1",
       "level": "CAP_2_VONG_TRUONG",
       "type": "DT",
-      "question": "Điền chữ cái thích hợp vào chỗ trống: \"cái g(...)ối\"",
-      "blankAnswer": "ô",
-      "answer": "ô",
+      "question": "Điền chữ cái thích hợp vào chỗ trống: \"cái (...)ối nâng niu giấc ngủ em mỗi tối\"",
+      "blankAnswer": "g",
+      "answer": "g",
       "explanation": "Từ đúng là 'cái gối'.",
       "questionId": "k1_c2_dt_0177"
     },
@@ -21564,9 +20255,9 @@
       "grade": "KHOI_1",
       "level": "CAP_2_VONG_TRUONG",
       "type": "DT",
-      "question": "Điền chữ cái thích hợp vào chỗ trống: \"cái n(...)ồi\"",
-      "blankAnswer": "ồ",
-      "answer": "ồ",
+      "question": "Điền chữ 'n' hoặc 'l' vào chỗ trống: \"cái (...)ồi\"",
+      "blankAnswer": "n",
+      "answer": "n",
       "explanation": "Từ đúng là 'cái nồi'.",
       "questionId": "k1_c2_dt_0179"
     },
@@ -21586,22 +20277,11 @@
       "grade": "KHOI_1",
       "level": "CAP_2_VONG_TRUONG",
       "type": "DT",
-      "question": "Điền chữ cái thích hợp vào chỗ trống: \"cái b(...)ếp\"",
-      "blankAnswer": "ế",
-      "answer": "ế",
+      "question": "Điền chữ cái thích hợp vào chỗ trống: \"cái (...)ếp nấu đồ ăn ngon mỗi ngày\"",
+      "blankAnswer": "b",
+      "answer": "b",
       "explanation": "Từ đúng là 'cái bếp'.",
       "questionId": "k1_c2_dt_0181"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_2_VONG_TRUONG",
-      "type": "DT",
-      "question": "Điền chữ cái thích hợp vào chỗ trống: \"cái c(...)a\"",
-      "blankAnswer": "ử",
-      "answer": "ử",
-      "explanation": "Từ đúng là 'cái cửa'.",
-      "questionId": "k1_c2_dt_0182"
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -21641,20 +20321,9 @@
       "grade": "KHOI_1",
       "level": "CAP_2_VONG_TRUONG",
       "type": "DT",
-      "question": "Điền chữ cái thích hợp vào chỗ trống: \"bài c(...)a\"",
-      "blankAnswer": "a",
-      "answer": "a",
-      "explanation": "Từ đúng là 'bài ca'.",
-      "questionId": "k1_c2_dt_0186"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_2_VONG_TRUONG",
-      "type": "DT",
-      "question": "Điền chữ cái thích hợp vào chỗ trống: \"tiếng h(...)t\"",
-      "blankAnswer": "á",
-      "answer": "á",
+      "question": "Điền chữ cái thích hợp vào chỗ trống: \"tiếng há(...)\"",
+      "blankAnswer": "t",
+      "answer": "t",
       "explanation": "Từ đúng là 'tiếng hát'.",
       "questionId": "k1_c2_dt_0187"
     },
@@ -21685,9 +20354,9 @@
       "grade": "KHOI_1",
       "level": "CAP_2_VONG_TRUONG",
       "type": "DT",
-      "question": "Điền chữ cái thích hợp vào chỗ trống: \"chiếc l(...)á\"",
-      "blankAnswer": "a",
-      "answer": "a",
+      "question": "Điền chữ cái thích hợp vào chỗ trống: \"chiếc (...)á trên cành cây\"",
+      "blankAnswer": "l",
+      "answer": "l",
       "explanation": "Từ đúng là 'chiếc lá'.",
       "questionId": "k1_c2_dt_0190"
     },
@@ -21707,10 +20376,10 @@
       "grade": "KHOI_1",
       "level": "CAP_2_VONG_TRUONG",
       "type": "DT",
-      "question": "Điền từ thích hợp vào chỗ trống: \"Điền tên đồ dùng học tập thích hợp: \"cây bút (...)\"\"",
-      "blankAnswer": "chì",
-      "answer": "chì",
-      "explanation": "Cây bút chì là đồ dùng quen thuộc của học sinh.",
+      "question": "Điền tên đồ dùng học tập thích hợp: \"cây (...) em dùng viết bài\"",
+      "blankAnswer": "bút",
+      "answer": "bút",
+      "explanation": "Cây bút là đồ dùng quen thuộc của học sinh.",
       "questionId": "k1_c2_dt_0192"
     },
     {
@@ -21718,10 +20387,10 @@
       "grade": "KHOI_1",
       "level": "CAP_2_VONG_TRUONG",
       "type": "DT",
-      "question": "Điền từ thích hợp vào chỗ trống: \"Điền tên đồ dùng học tập thích hợp: \"cây thước (...)\"\"",
-      "blankAnswer": "kẻ",
-      "answer": "kẻ",
-      "explanation": "Cây thước kẻ dùng để kẻ đường thẳng.",
+      "question": "Điền tên đồ dùng học tập thích hợp: \"cây (...) để kẻ đường thẳng\"",
+      "blankAnswer": "thước",
+      "answer": "thước",
+      "explanation": "Cây thước dùng để kẻ đường thẳng.",
       "questionId": "k1_c2_dt_0193"
     },
     {
@@ -21729,10 +20398,10 @@
       "grade": "KHOI_1",
       "level": "CAP_2_VONG_TRUONG",
       "type": "DT",
-      "question": "Điền từ thích hợp vào chỗ trống: \"Điền tên đồ dùng học tập thích hợp: \"cục (...) tẩy\"\"",
-      "blankAnswer": "gôm",
-      "answer": "gôm",
-      "explanation": "Cục gôm tẩy (hoặc cục tẩy) dùng để xóa nét bút chì.",
+      "question": "Điền tên đồ dùng học tập thích hợp: \"cục (...) để xóa nét bút chì\"",
+      "blankAnswer": "tẩy",
+      "answer": "tẩy",
+      "explanation": "Cục tẩy dùng để xóa nét bút chì.",
       "questionId": "k1_c2_dt_0194"
     },
     {
@@ -21740,18 +20409,7 @@
       "grade": "KHOI_1",
       "level": "CAP_2_VONG_TRUONG",
       "type": "DT",
-      "question": "Điền từ thích hợp vào chỗ trống: \"Điền tên đồ dùng học tập thích hợp: \"hộp (...) bút\"\"",
-      "blankAnswer": "đựng",
-      "answer": "đựng",
-      "explanation": "Hộp đựng bút để cất giữ đồ dùng học tập.",
-      "questionId": "k1_c2_dt_0195"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_2_VONG_TRUONG",
-      "type": "DT",
-      "question": "Điền từ thích hợp vào chỗ trống: \"Điền tên đồ dùng học tập thích hợp: \"viên (...) trắng\"\"",
+      "question": "Điền tên đồ dùng học tập thích hợp: \"viên (...) trắng\"",
       "blankAnswer": "phấn",
       "answer": "phấn",
       "explanation": "Viên phấn trắng dùng để viết bảng.",
@@ -21762,18 +20420,7 @@
       "grade": "KHOI_1",
       "level": "CAP_2_VONG_TRUONG",
       "type": "DT",
-      "question": "Điền từ thích hợp vào chỗ trống: \"Điền tên đồ dùng học tập thích hợp: \"tấm bảng (...)\"\"",
-      "blankAnswer": "con",
-      "answer": "con",
-      "explanation": "Tấm bảng con dùng để luyện viết chữ.",
-      "questionId": "k1_c2_dt_0197"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_2_VONG_TRUONG",
-      "type": "DT",
-      "question": "Điền từ thích hợp vào chỗ trống: \"Điền tên đồ dùng học tập thích hợp: \"quyển sách (...) Khoa\"\"",
+      "question": "Điền tên đồ dùng học tập thích hợp: \"quyển sách (...) khoa\"",
       "blankAnswer": "Giáo",
       "answer": "Giáo",
       "explanation": "Sách Giáo khoa là sách học của học sinh.",
@@ -21784,7 +20431,7 @@
       "grade": "KHOI_1",
       "level": "CAP_2_VONG_TRUONG",
       "type": "DT",
-      "question": "Điền từ thích hợp vào chỗ trống: \"Điền tên đồ dùng học tập thích hợp: \"quyển (...) viết\"\"",
+      "question": "Điền tên đồ dùng học tập thích hợp: \"quyển (...) viết\"",
       "blankAnswer": "vở",
       "answer": "vở",
       "explanation": "Quyển vở viết có dòng kẻ ô li.",
@@ -21795,7 +20442,7 @@
       "grade": "KHOI_1",
       "level": "CAP_2_VONG_TRUONG",
       "type": "DT",
-      "question": "Điền từ thích hợp vào chỗ trống: \"Điền tên đồ dùng học tập thích hợp: \"cặp (...) đi học\"\"",
+      "question": "Điền tên đồ dùng học tập thích hợp: \"cặp (...) đi học\"",
       "blankAnswer": "sách",
       "answer": "sách",
       "explanation": "Cặp sách dùng để đựng đồ tới trường.",
@@ -21806,7 +20453,7 @@
       "grade": "KHOI_1",
       "level": "CAP_2_VONG_TRUONG",
       "type": "DT",
-      "question": "Điền từ thích hợp vào chỗ trống: \"Điền tên loài hoa thích hợp: \"hoa (...) đỏ rực\"\"",
+      "question": "Điền tên loài hoa thích hợp: \"hoa (...) đỏ rực\"",
       "blankAnswer": "hồng",
       "answer": "hồng",
       "explanation": "Hoa hồng có màu đỏ rực rỡ và hương thơm ngát.",
@@ -21817,7 +20464,7 @@
       "grade": "KHOI_1",
       "level": "CAP_2_VONG_TRUONG",
       "type": "DT",
-      "question": "Điền từ thích hợp vào chỗ trống: \"Điền tên loài hoa thích hợp: \"hoa (...) vàng tươi\"\"",
+      "question": "Điền tên loài hoa thích hợp: \"hoa (...) vàng tươi\"",
       "blankAnswer": "cúc",
       "answer": "cúc",
       "explanation": "Hoa cúc nở vàng tươi vào mùa thu.",
@@ -21828,7 +20475,7 @@
       "grade": "KHOI_1",
       "level": "CAP_2_VONG_TRUONG",
       "type": "DT",
-      "question": "Điền từ thích hợp vào chỗ trống: \"Điền tên loài hoa thích hợp: \"hoa (...) trong đầm\"\"",
+      "question": "Điền tên loài hoa thích hợp: \"hoa (...) trong đầm\"",
       "blankAnswer": "sen",
       "answer": "sen",
       "explanation": "Hoa sen nở trong đầm ngát hương.",
@@ -21839,7 +20486,7 @@
       "grade": "KHOI_1",
       "level": "CAP_2_VONG_TRUONG",
       "type": "DT",
-      "question": "Điền từ thích hợp vào chỗ trống: \"Điền tên loài hoa thích hợp: \"hoa (...) ngày Tết\"\"",
+      "question": "Điền tên loài hoa thích hợp: \"hoa (...) ngày Tết\"",
       "blankAnswer": "mai",
       "answer": "mai",
       "explanation": "Hoa mai vàng nở rực rỡ đón Tết.",
@@ -21850,7 +20497,7 @@
       "grade": "KHOI_1",
       "level": "CAP_2_VONG_TRUONG",
       "type": "DT",
-      "question": "Điền từ thích hợp vào chỗ trống: \"Điền tên loài hoa thích hợp: \"hoa (...) đón xuân\"\"",
+      "question": "Điền tên loài hoa thích hợp: \"hoa (...) đón xuân\"",
       "blankAnswer": "đào",
       "answer": "đào",
       "explanation": "Hoa đào hồng tươi khoe sắc đón xuân.",
@@ -21861,7 +20508,7 @@
       "grade": "KHOI_1",
       "level": "CAP_2_VONG_TRUONG",
       "type": "DT",
-      "question": "Điền từ thích hợp vào chỗ trống: \"Điền tên quả thích hợp: \"nải (...) chín vàng\"\"",
+      "question": "Điền tên quả thích hợp: \"nải (...) chín vàng\"",
       "blankAnswer": "chuối",
       "answer": "chuối",
       "explanation": "Nải chuối chín vàng ngọt lịm.",
@@ -21872,7 +20519,7 @@
       "grade": "KHOI_1",
       "level": "CAP_2_VONG_TRUONG",
       "type": "DT",
-      "question": "Điền từ thích hợp vào chỗ trống: \"Điền tên quả thích hợp: \"quả (...) mọng nước\"\"",
+      "question": "Điền tên quả thích hợp: \"quả (...) mọng nước\"",
       "blankAnswer": "cam",
       "answer": "cam",
       "explanation": "Quả cam mọng nước giàu vitamin.",
@@ -21883,7 +20530,7 @@
       "grade": "KHOI_1",
       "level": "CAP_2_VONG_TRUONG",
       "type": "DT",
-      "question": "Điền từ thích hợp vào chỗ trống: \"Điền tên quả thích hợp: \"quả (...) da xanh\"\"",
+      "question": "Điền tên quả thích hợp: \"quả (...) da xanh\"",
       "blankAnswer": "bưởi",
       "answer": "bưởi",
       "explanation": "Quả bưởi da xanh tép mọng ngọt.",
@@ -21894,7 +20541,7 @@
       "grade": "KHOI_1",
       "level": "CAP_2_VONG_TRUONG",
       "type": "DT",
-      "question": "Điền từ thích hợp vào chỗ trống: \"Điền tên quả thích hợp: \"quả (...) mở mắt\"\"",
+      "question": "Điền tên quả thích hợp: \"quả (...) mở mắt\"",
       "blankAnswer": "na",
       "answer": "na",
       "explanation": "Quả na chín mở mắt thơm lừng.",
@@ -21905,7 +20552,7 @@
       "grade": "KHOI_1",
       "level": "CAP_2_VONG_TRUONG",
       "type": "DT",
-      "question": "Điền từ thích hợp vào chỗ trống: \"Điền tên con vật thích hợp: \"chú (...) bắt chuột\"\"",
+      "question": "Điền tên con vật thích hợp: \"chú (...) bắt chuột\"",
       "blankAnswer": "mèo",
       "answer": "mèo",
       "explanation": "Chú mèo bắt chuột rất tài.",
@@ -21916,7 +20563,7 @@
       "grade": "KHOI_1",
       "level": "CAP_2_VONG_TRUONG",
       "type": "DT",
-      "question": "Điền từ thích hợp vào chỗ trống: \"Điền tên con vật thích hợp: \"chú (...) trông nhà\"\"",
+      "question": "Điền tên con vật thích hợp: \"chú (...) trông nhà\"",
       "blankAnswer": "chó",
       "answer": "chó",
       "explanation": "Chú chó trung thành trông giữ nhà cửa.",
@@ -21927,7 +20574,7 @@
       "grade": "KHOI_1",
       "level": "CAP_2_VONG_TRUONG",
       "type": "DT",
-      "question": "Điền từ thích hợp vào chỗ trống: \"Điền tên con vật thích hợp: \"chú (...) gáy sáng\"\"",
+      "question": "Điền tên con vật thích hợp: \"chú (...) gáy sáng\"",
       "blankAnswer": "gà",
       "answer": "gà",
       "explanation": "Chú gà trống gáy vang đánh thức bình minh.",
@@ -21938,7 +20585,7 @@
       "grade": "KHOI_1",
       "level": "CAP_2_VONG_TRUONG",
       "type": "DT",
-      "question": "Điền từ thích hợp vào chỗ trống: \"Điền tên con vật thích hợp: \"đàn (...) bơi lội\"\"",
+      "question": "Điền tên con vật thích hợp: \"đàn (...) bơi lội\"",
       "blankAnswer": "vịt",
       "answer": "vịt",
       "explanation": "Đàn vịt bơi lội tung tăng dưới ao.",
@@ -21949,7 +20596,7 @@
       "grade": "KHOI_1",
       "level": "CAP_2_VONG_TRUONG",
       "type": "DT",
-      "question": "Điền từ thích hợp vào chỗ trống: \"Điền tên con vật thích hợp: \"con (...) kéo cày\"\"",
+      "question": "Điền tên con vật thích hợp: \"con (...) kéo cày\"",
       "blankAnswer": "trâu",
       "answer": "trâu",
       "explanation": "Con trâu chăm chỉ giúp nhà nông kéo cày.",
@@ -21960,7 +20607,7 @@
       "grade": "KHOI_1",
       "level": "CAP_2_VONG_TRUONG",
       "type": "DT",
-      "question": "Điền từ thích hợp vào chỗ trống: \"Điền tên con vật thích hợp: \"con (...) cho sữa\"\"",
+      "question": "Điền tên con vật thích hợp: \"con (...) cho sữa\"",
       "blankAnswer": "bò",
       "answer": "bò",
       "explanation": "Con bò sữa cho dòng sữa ngọt lành.",
@@ -21971,7 +20618,7 @@
       "grade": "KHOI_1",
       "level": "CAP_2_VONG_TRUONG",
       "type": "DT",
-      "question": "Điền từ thích hợp vào chỗ trống: \"Điền tên con vật thích hợp: \"chú (...) chạy nhanh\"\"",
+      "question": "Điền tên con vật thích hợp: \"chú (...) chạy nhanh\"",
       "blankAnswer": "ngựa",
       "answer": "ngựa",
       "explanation": "Chú ngựa phi rất nhanh trên thảo nguyên.",
@@ -21982,7 +20629,7 @@
       "grade": "KHOI_1",
       "level": "CAP_2_VONG_TRUONG",
       "type": "DT",
-      "question": "Điền từ thích hợp vào chỗ trống: \"Điền tên con vật thích hợp: \"chú (...) thích ăn cà rốt\"\"",
+      "question": "Điền tên con vật thích hợp: \"chú (...) thích ăn cà rốt\"",
       "blankAnswer": "thỏ",
       "answer": "thỏ",
       "explanation": "Chú thỏ trắng rất thích ăn cà rốt.",
@@ -21993,7 +20640,7 @@
       "grade": "KHOI_1",
       "level": "CAP_2_VONG_TRUONG",
       "type": "DT",
-      "question": "Điền từ thích hợp vào chỗ trống: \"Điền tên con vật thích hợp: \"chú (...) có vòi dài\"\"",
+      "question": "Điền tên con vật thích hợp: \"chú (...) có vòi dài\"",
       "blankAnswer": "voi",
       "answer": "voi",
       "explanation": "Chú voi có chiếc vòi dài khéo léo.",
@@ -22004,7 +20651,7 @@
       "grade": "KHOI_1",
       "level": "CAP_2_VONG_TRUONG",
       "type": "DT",
-      "question": "Điền từ thích hợp vào chỗ trống: \"Điền tên con vật thích hợp: \"bác (...) thích ăn mật ong\"\"",
+      "question": "Điền tên con vật thích hợp: \"bác (...) thích ăn mật ong\"",
       "blankAnswer": "gấu",
       "answer": "gấu",
       "explanation": "Bác gấu to lớn rất thích ăn mật ong.",
@@ -22015,7 +20662,7 @@
       "grade": "KHOI_1",
       "level": "CAP_2_VONG_TRUONG",
       "type": "DT",
-      "question": "Điền từ thích hợp vào chỗ trống: \"Điền tên con vật thích hợp: \"chú (...) leo cây giỏi\"\"",
+      "question": "Điền tên con vật thích hợp: \"chú (...) leo cây giỏi\"",
       "blankAnswer": "khỉ",
       "answer": "khỉ",
       "explanation": "Chú khỉ leo trèo trên cây rất nhanh nhẹn.",
@@ -22026,7 +20673,7 @@
       "grade": "KHOI_1",
       "level": "CAP_2_VONG_TRUONG",
       "type": "DT",
-      "question": "Điền từ thích hợp vào chỗ trống: \"Điền tên người thân thích hợp: \"bố và (...) sinh ra em\"\"",
+      "question": "Điền tên người thân thích hợp: \"bố và (...) sinh ra em\"",
       "blankAnswer": "mẹ",
       "answer": "mẹ",
       "explanation": "Bố và mẹ là đấng sinh thành dưỡng dục.",
@@ -22037,7 +20684,7 @@
       "grade": "KHOI_1",
       "level": "CAP_2_VONG_TRUONG",
       "type": "DT",
-      "question": "Điền từ thích hợp vào chỗ trống: \"Điền tên người thân thích hợp: \"ông và (...) yêu thương cháu\"\"",
+      "question": "Điền tên người thân thích hợp: \"ông và (...) yêu thương cháu\"",
       "blankAnswer": "bà",
       "answer": "bà",
       "explanation": "Ông và bà luôn yêu thương các cháu.",
@@ -22048,7 +20695,7 @@
       "grade": "KHOI_1",
       "level": "CAP_2_VONG_TRUONG",
       "type": "DT",
-      "question": "Điền từ thích hợp vào chỗ trống: \"Điền tên người thân thích hợp: \"anh và (...) cùng học tập\"\"",
+      "question": "Điền tên người thân thích hợp: \"anh và (...) cùng học tập\"",
       "blankAnswer": "chị",
       "answer": "chị",
       "explanation": "Anh và chị cùng bảo ban các em học tập.",
@@ -22059,18 +20706,7 @@
       "grade": "KHOI_1",
       "level": "CAP_2_VONG_TRUONG",
       "type": "DT",
-      "question": "Điền từ thích hợp vào chỗ trống: \"Điền từ thích hợp: \"em (...) ngoan ngoãn\"\"",
-      "blankAnswer": "bé",
-      "answer": "bé",
-      "explanation": "Em bé ngoan ngoãn được cả nhà yêu quý.",
-      "questionId": "k1_c2_dt_0224"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_2_VONG_TRUONG",
-      "type": "DT",
-      "question": "Điền từ thích hợp vào chỗ trống: \"Điền từ chỉ màu sắc thích hợp: \"lá cây có màu (...)\"\"",
+      "question": "Điền từ chỉ màu sắc thích hợp: \"lá cây có màu (...)\"",
       "blankAnswer": "xanh",
       "answer": "xanh",
       "explanation": "Lá cây tươi tốt có màu xanh.",
@@ -22081,7 +20717,7 @@
       "grade": "KHOI_1",
       "level": "CAP_2_VONG_TRUONG",
       "type": "DT",
-      "question": "Điền từ thích hợp vào chỗ trống: \"Điền từ chỉ màu sắc thích hợp: \"mặt trời có màu (...)\"\"",
+      "question": "Điền từ chỉ màu sắc thích hợp: \"mặt trời có màu (...)\"",
       "blankAnswer": "đỏ",
       "answer": "đỏ",
       "explanation": "Mặt trời tỏa ánh nắng rực đỏ.",
@@ -22092,7 +20728,7 @@
       "grade": "KHOI_1",
       "level": "CAP_2_VONG_TRUONG",
       "type": "DT",
-      "question": "Điền từ thích hợp vào chỗ trống: \"Điền từ chỉ màu sắc thích hợp: \"hoa cúc có màu (...)\"\"",
+      "question": "Điền từ chỉ màu sắc thích hợp: \"hoa cúc có màu (...)\"",
       "blankAnswer": "vàng",
       "answer": "vàng",
       "explanation": "Hoa cúc mùa thu nở màu vàng tươi.",
@@ -22103,7 +20739,7 @@
       "grade": "KHOI_1",
       "level": "CAP_2_VONG_TRUONG",
       "type": "DT",
-      "question": "Điền từ thích hợp vào chỗ trống: \"Điền từ chỉ màu sắc thích hợp: \"mây mùa đông có màu (...)\"\"",
+      "question": "Điền từ chỉ màu sắc thích hợp: \"mây mùa đông có màu (...)\"",
       "blankAnswer": "trắng",
       "answer": "trắng",
       "explanation": "Đám mây trắng xốp bay trên bầu trời.",
@@ -22114,7 +20750,7 @@
       "grade": "KHOI_1",
       "level": "CAP_2_VONG_TRUONG",
       "type": "DT",
-      "question": "Điền từ thích hợp vào chỗ trống: \"Điền từ chỉ màu sắc thích hợp: \"bảng lớp em có màu (...)\"\"",
+      "question": "Điền từ chỉ màu sắc thích hợp: \"bảng lớp em có màu (...)\"",
       "blankAnswer": "đen",
       "answer": "đen",
       "explanation": "Tấm bảng đen trong lớp học.",
@@ -22125,7 +20761,7 @@
       "grade": "KHOI_1",
       "level": "CAP_2_VONG_TRUONG",
       "type": "DT",
-      "question": "Điền từ thích hợp vào chỗ trống: \"Điền từ chỉ bộ phận cơ thể: \"đôi (...) để nhìn\"\"",
+      "question": "Điền từ chỉ bộ phận cơ thể: \"đôi (...) để nhìn\"",
       "blankAnswer": "mắt",
       "answer": "mắt",
       "explanation": "Đôi mắt giúp em quan sát mọi vật xung quanh.",
@@ -22136,7 +20772,7 @@
       "grade": "KHOI_1",
       "level": "CAP_2_VONG_TRUONG",
       "type": "DT",
-      "question": "Điền từ thích hợp vào chỗ trống: \"Điền từ chỉ bộ phận cơ thể: \"đôi (...) để nghe\"\"",
+      "question": "Điền từ chỉ bộ phận cơ thể: \"đôi (...) để nghe\"",
       "blankAnswer": "tai",
       "answer": "tai",
       "explanation": "Đôi tai giúp em lắng nghe âm thanh.",
@@ -22147,7 +20783,7 @@
       "grade": "KHOI_1",
       "level": "CAP_2_VONG_TRUONG",
       "type": "DT",
-      "question": "Điền từ thích hợp vào chỗ trống: \"Điền từ chỉ bộ phận cơ thể: \"cái (...) để thở và ngửi\"\"",
+      "question": "Điền từ chỉ bộ phận cơ thể: \"cái (...) để thở và ngửi\"",
       "blankAnswer": "mũi",
       "answer": "mũi",
       "explanation": "Cái mũi giúp hít thở và nhận biết mùi hương.",
@@ -22158,7 +20794,7 @@
       "grade": "KHOI_1",
       "level": "CAP_2_VONG_TRUONG",
       "type": "DT",
-      "question": "Điền từ thích hợp vào chỗ trống: \"Điền từ chỉ bộ phận cơ thể: \"cái (...) để nói và ăn\"\"",
+      "question": "Điền từ chỉ bộ phận cơ thể: \"cái (...) để nói và ăn\"",
       "blankAnswer": "miệng",
       "answer": "miệng",
       "explanation": "Cái miệng xinh xắn để nói lời hay.",
@@ -22169,7 +20805,7 @@
       "grade": "KHOI_1",
       "level": "CAP_2_VONG_TRUONG",
       "type": "DT",
-      "question": "Điền từ thích hợp vào chỗ trống: \"Điền từ chỉ bộ phận cơ thể: \"đôi (...) để viết bài\"\"",
+      "question": "Điền từ chỉ bộ phận cơ thể: \"đôi (...) để viết bài\"",
       "blankAnswer": "tay",
       "answer": "tay",
       "explanation": "Đôi bàn tay khéo léo giúp em cầm bút viết chữ.",
@@ -22180,7 +20816,7 @@
       "grade": "KHOI_1",
       "level": "CAP_2_VONG_TRUONG",
       "type": "DT",
-      "question": "Điền từ thích hợp vào chỗ trống: \"Điền từ chỉ bộ phận cơ thể: \"đôi (...) giúp em bước đi\"\"",
+      "question": "Điền từ chỉ bộ phận cơ thể: \"đôi (...) giúp em bước đi\"",
       "blankAnswer": "chân",
       "answer": "chân",
       "explanation": "Đôi bàn chân nâng bước em đến trường.",
@@ -22191,7 +20827,7 @@
       "grade": "KHOI_1",
       "level": "CAP_2_VONG_TRUONG",
       "type": "DT",
-      "question": "Điền từ thích hợp vào chỗ trống: \"Điền từ chỉ đồ vật: \"cái (...) che nắng che mưa\"\"",
+      "question": "Điền từ chỉ đồ vật: \"cái (...) che nắng che mưa\"",
       "blankAnswer": "ô",
       "answer": "ô",
       "explanation": "Cái ô (cái dù) giúp che mưa che nắng.",
@@ -22202,7 +20838,7 @@
       "grade": "KHOI_1",
       "level": "CAP_2_VONG_TRUONG",
       "type": "DT",
-      "question": "Điền từ thích hợp vào chỗ trống: \"Điền từ chỉ đồ vật: \"đôi (...) nâng bước chân em\"\"",
+      "question": "Điền từ chỉ đồ vật: \"đôi (...) nâng bước chân em\"",
       "blankAnswer": "dép",
       "answer": "dép",
       "explanation": "Đôi dép đi ở chân bảo vệ bàn chân.",
@@ -22213,7 +20849,7 @@
       "grade": "KHOI_1",
       "level": "CAP_2_VONG_TRUONG",
       "type": "DT",
-      "question": "Điền từ thích hợp vào chỗ trống: \"Điền từ chỉ đồ vật: \"cái (...) để quét sân\"\"",
+      "question": "Điền từ chỉ đồ vật: \"cái (...) để quét sân\"",
       "blankAnswer": "chổi",
       "answer": "chổi",
       "explanation": "Cái chổi giúp quét sạch sân trường và nhà cửa.",
@@ -22224,7 +20860,7 @@
       "grade": "KHOI_1",
       "level": "CAP_2_VONG_TRUONG",
       "type": "DT",
-      "question": "Điền từ thích hợp vào chỗ trống: \"Điền từ chỉ đồ vật: \"cái (...) thổi mát ngày hè\"\"",
+      "question": "Điền từ chỉ đồ vật: \"cái (...) thổi mát ngày hè\"",
       "blankAnswer": "quạt",
       "answer": "quạt",
       "explanation": "Cái quạt mang lại làn gió mát dịu.",
@@ -22235,7 +20871,7 @@
       "grade": "KHOI_1",
       "level": "CAP_2_VONG_TRUONG",
       "type": "DT",
-      "question": "Điền từ thích hợp vào chỗ trống: \"Điền từ chỉ đồ vật: \"cái (...) báo giờ đi học\"\"",
+      "question": "Điền từ chỉ đồ vật: \"cái (...) báo giờ đi học\"",
       "blankAnswer": "đồng hồ",
       "answer": "đồng hồ",
       "explanation": "Chiếc đồng hồ nhắc nhở em đúng giờ.",
@@ -22246,7 +20882,7 @@
       "grade": "KHOI_1",
       "level": "CAP_2_VONG_TRUONG",
       "type": "DT",
-      "question": "Điền từ thích hợp vào chỗ trống: \"Điền từ chỉ đồ vật: \"cái (...) để ăn cơm\"\"",
+      "question": "Điền từ chỉ đồ vật: \"cái (...) để ăn cơm\"",
       "blankAnswer": "bát",
       "answer": "bát",
       "explanation": "Cái bát đựng cơm ngon lành.",
@@ -22257,7 +20893,7 @@
       "grade": "KHOI_1",
       "level": "CAP_2_VONG_TRUONG",
       "type": "DT",
-      "question": "Điền từ thích hợp vào chỗ trống: \"Điền từ chỉ đồ vật: \"cái (...) để múc canh\"\"",
+      "question": "Điền từ chỉ đồ vật: \"cái (...) để múc canh\"",
       "blankAnswer": "thìa",
       "answer": "thìa",
       "explanation": "Cái thìa giúp em múc canh ăn cơm.",
@@ -22268,7 +20904,7 @@
       "grade": "KHOI_1",
       "level": "CAP_2_VONG_TRUONG",
       "type": "DT",
-      "question": "Điền từ thích hợp vào chỗ trống: \"Điền từ chỉ đồ vật: \"cái (...) rót nước uống\"\"",
+      "question": "Điền từ chỉ đồ vật: \"cái (...) rót nước uống\"",
       "blankAnswer": "cốc",
       "answer": "cốc",
       "explanation": "Cái cốc (cái ly) dùng để uống nước sạch.",
@@ -22279,7 +20915,7 @@
       "grade": "KHOI_1",
       "level": "CAP_2_VONG_TRUONG",
       "type": "DT",
-      "question": "Điền từ thích hợp vào chỗ trống: \"Điền từ chỉ cảnh vật: \"bầu (...) trong xanh\"\"",
+      "question": "Điền từ chỉ cảnh vật: \"bầu (...) trong xanh\"",
       "blankAnswer": "trời",
       "answer": "trời",
       "explanation": "Bầu trời mùa thu cao xanh vời vợi.",
@@ -22290,7 +20926,7 @@
       "grade": "KHOI_1",
       "level": "CAP_2_VONG_TRUONG",
       "type": "DT",
-      "question": "Điền từ thích hợp vào chỗ trống: \"Điền từ chỉ cảnh vật: \"dòng (...) êm đềm\"\"",
+      "question": "Điền từ chỉ cảnh vật: \"dòng (...) êm đềm\"",
       "blankAnswer": "sông",
       "answer": "sông",
       "explanation": "Dòng sông uốn lượn quanh làng quê.",
@@ -22301,7 +20937,7 @@
       "grade": "KHOI_1",
       "level": "CAP_2_VONG_TRUONG",
       "type": "DT",
-      "question": "Điền từ thích hợp vào chỗ trống: \"Điền từ chỉ cảnh vật: \"ngôi (...) mọc trên trời đêm\"\"",
+      "question": "Điền từ chỉ cảnh vật: \"ngôi (...) mọc trên trời đêm\"",
       "blankAnswer": "sao",
       "answer": "sao",
       "explanation": "Những ngôi sao lấp lánh trên bầu trời đêm.",
@@ -22312,7 +20948,7 @@
       "grade": "KHOI_1",
       "level": "CAP_2_VONG_TRUONG",
       "type": "DT",
-      "question": "Điền từ thích hợp vào chỗ trống: \"Điền từ chỉ cảnh vật: \"mặt (...) tròn vành vạnh đêm rằm\"\"",
+      "question": "Điền từ chỉ cảnh vật: \"mặt (...) tròn vành vạnh đêm rằm\"",
       "blankAnswer": "trăng",
       "answer": "trăng",
       "explanation": "Mặt trăng rằm tỏa sáng dịu hiền.",
@@ -22323,7 +20959,7 @@
       "grade": "KHOI_1",
       "level": "CAP_2_VONG_TRUONG",
       "type": "DT",
-      "question": "Điền từ thích hợp vào chỗ trống: \"Điền từ chỉ cảnh vật: \"cánh (...) lúa chín vàng\"\"",
+      "question": "Điền từ chỉ cảnh vật: \"cánh (...) lúa chín vàng\"",
       "blankAnswer": "đồng",
       "answer": "đồng",
       "explanation": "Cánh đồng lúa chín vàng trĩu hạt.",
@@ -22334,7 +20970,7 @@
       "grade": "KHOI_1",
       "level": "CAP_2_VONG_TRUONG",
       "type": "DT",
-      "question": "Điền từ thích hợp vào chỗ trống: \"Điền từ chỉ cảnh vật: \"ngôi (...) thân thương của em\"\"",
+      "question": "Điền từ chỉ cảnh vật: \"ngôi (...) thân thương của em\"",
       "blankAnswer": "trường",
       "answer": "trường",
       "explanation": "Ngôi trường mến yêu nơi em học tập.",
@@ -22345,18 +20981,7 @@
       "grade": "KHOI_1",
       "level": "CAP_2_VONG_TRUONG",
       "type": "DT",
-      "question": "Điền từ thích hợp vào chỗ trống: \"Điền từ chỉ hoạt động: \"bé (...) bài chăm chỉ\"\"",
-      "blankAnswer": "học",
-      "answer": "học",
-      "explanation": "Bé học bài chăm chỉ mỗi ngày.",
-      "questionId": "k1_c2_dt_0250"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_2_VONG_TRUONG",
-      "type": "DT",
-      "question": "Điền từ thích hợp vào chỗ trống: \"Điền từ chỉ hoạt động: \"em (...) chữ nắn nót\"\"",
+      "question": "Điền từ chỉ hoạt động: \"em (...) chữ nắn nót\"",
       "blankAnswer": "viết",
       "answer": "viết",
       "explanation": "Em viết chữ nắn nót từng trang.",
@@ -23192,20 +21817,9 @@
       "grade": "KHOI_1",
       "level": "CAP_2_VONG_TRUONG",
       "type": "DT",
-      "question": "Điền từ thích hợp vào chỗ trống: \"Từ trái nghĩa với 'béo' là: (...)\"",
-      "blankAnswer": "gầy",
-      "answer": "gầy",
-      "explanation": "'béo' trái nghĩa với 'gầy'.",
-      "questionId": "k1_c2_dt_0327"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_2_VONG_TRUONG",
-      "type": "DT",
-      "question": "Điền từ thích hợp vào chỗ trống: \"Từ trái nghĩa với 'sạch' là: (...)\"",
-      "blankAnswer": "bẩn",
-      "answer": "bẩn",
+      "question": "Điền từ thích hợp vào chỗ trống: \"Từ trái nghĩa với 'sạch' là: b(...)\"",
+      "blankAnswer": "ẩn",
+      "answer": "ẩn",
       "explanation": "'sạch' trái nghĩa với 'bẩn'.",
       "questionId": "k1_c2_dt_0328"
     },
@@ -23280,9 +21894,9 @@
       "grade": "KHOI_1",
       "level": "CAP_2_VONG_TRUONG",
       "type": "DT",
-      "question": "Điền từ thích hợp vào chỗ trống: \"Từ trái nghĩa với 'đầy' là: (...)\"",
-      "blankAnswer": "vơi",
-      "answer": "vơi",
+      "question": "Điền từ thích hợp vào chỗ trống: \"Từ trái nghĩa với 'đầy' là: (...)ơi\"",
+      "blankAnswer": "v",
+      "answer": "v",
       "explanation": "'đầy' trái nghĩa với 'vơi'.",
       "questionId": "k1_c2_dt_0335"
     },
@@ -23406,17 +22020,6 @@
       "answer": "mềm",
       "explanation": "'cứng' trái nghĩa với 'mềm'.",
       "questionId": "k1_c2_dt_0346"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_2_VONG_TRUONG",
-      "type": "DT",
-      "question": "Điền từ thích hợp vào chỗ trống: \"Từ trái nghĩa với 'ngọt' là: (...)\"",
-      "blankAnswer": "đắng",
-      "answer": "đắng",
-      "explanation": "'ngọt' trái nghĩa với 'đắng'.",
-      "questionId": "k1_c2_dt_0347"
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -23973,7 +22576,7 @@
         "Bé"
       ],
       "answer": "Bé giúp mẹ nhặt rau.",
-      "explanation": "Sắp xếp đúng: 'Bé giúp mẹ nhặt rau.'. Đây là câu kể hoàn chỉnh có nghĩa."
+      "explanation": "Sắp xếp đúng: 'Bé giúp mẹ nhặt rau.' Đây là câu kể hoàn chỉnh có nghĩa."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -23988,7 +22591,7 @@
         "Mẹ"
       ],
       "answer": "Mẹ đi chợ mua cam tươi.",
-      "explanation": "Sắp xếp đúng: 'Mẹ đi chợ mua cam tươi.'. Đây là câu kể hoàn chỉnh có nghĩa."
+      "explanation": "Sắp xếp đúng: 'Mẹ đi chợ mua cam tươi.' Đây là câu kể hoàn chỉnh có nghĩa."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -24003,7 +22606,7 @@
         "Bố"
       ],
       "answer": "Bố sửa xe đạp ngoài sân.",
-      "explanation": "Sắp xếp đúng: 'Bố sửa xe đạp ngoài sân.'. Đây là câu kể hoàn chỉnh có nghĩa."
+      "explanation": "Sắp xếp đúng: 'Bố sửa xe đạp ngoài sân.' Đây là câu kể hoàn chỉnh có nghĩa."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -24018,7 +22621,7 @@
         "Bà"
       ],
       "answer": "Bà kể chuyện cổ tích cho em nghe.",
-      "explanation": "Sắp xếp đúng: 'Bà kể chuyện cổ tích cho em nghe.'. Đây là câu kể hoàn chỉnh có nghĩa."
+      "explanation": "Sắp xếp đúng: 'Bà kể chuyện cổ tích cho em nghe.' Đây là câu kể hoàn chỉnh có nghĩa."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -24033,7 +22636,7 @@
         "Ông"
       ],
       "answer": "Ông tưới cây cảnh buổi sớm.",
-      "explanation": "Sắp xếp đúng: 'Ông tưới cây cảnh buổi sớm.'. Đây là câu kể hoàn chỉnh có nghĩa."
+      "explanation": "Sắp xếp đúng: 'Ông tưới cây cảnh buổi sớm.' Đây là câu kể hoàn chỉnh có nghĩa."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -24048,7 +22651,7 @@
         "Bé"
       ],
       "answer": "Bé chăm chỉ luyện viết chữ.",
-      "explanation": "Sắp xếp đúng: 'Bé chăm chỉ luyện viết chữ.'. Đây là câu kể hoàn chỉnh có nghĩa."
+      "explanation": "Sắp xếp đúng: 'Bé chăm chỉ luyện viết chữ.' Đây là câu kể hoàn chỉnh có nghĩa."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -24063,7 +22666,7 @@
         "Chúng em"
       ],
       "answer": "Chúng em xếp hàng vào lớp.",
-      "explanation": "Sắp xếp đúng: 'Chúng em xếp hàng vào lớp.'. Đây là câu kể hoàn chỉnh có nghĩa."
+      "explanation": "Sắp xếp đúng: 'Chúng em xếp hàng vào lớp.' Đây là câu kể hoàn chỉnh có nghĩa."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -24078,7 +22681,7 @@
         "Cô giáo"
       ],
       "answer": "Cô giáo dạy em tập đọc.",
-      "explanation": "Sắp xếp đúng: 'Cô giáo dạy em tập đọc.'. Đây là câu kể hoàn chỉnh có nghĩa."
+      "explanation": "Sắp xếp đúng: 'Cô giáo dạy em tập đọc.' Đây là câu kể hoàn chỉnh có nghĩa."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -24093,7 +22696,7 @@
         "Tiếng chuông trường"
       ],
       "answer": "Tiếng chuông trường vang lên rộn rã.",
-      "explanation": "Sắp xếp đúng: 'Tiếng chuông trường vang lên rộn rã.'. Đây là câu kể hoàn chỉnh có nghĩa."
+      "explanation": "Sắp xếp đúng: 'Tiếng chuông trường vang lên rộn rã.' Đây là câu kể hoàn chỉnh có nghĩa."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -24108,7 +22711,7 @@
         "Các bạn"
       ],
       "answer": "Các bạn vui vẻ chơi nhảy dây.",
-      "explanation": "Sắp xếp đúng: 'Các bạn vui vẻ chơi nhảy dây.'. Đây là câu kể hoàn chỉnh có nghĩa."
+      "explanation": "Sắp xếp đúng: 'Các bạn vui vẻ chơi nhảy dây.' Đây là câu kể hoàn chỉnh có nghĩa."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -24123,7 +22726,7 @@
         "Chú mèo mướp"
       ],
       "answer": "Chú mèo mướp sưởi nắng bên hiên nhà.",
-      "explanation": "Sắp xếp đúng: 'Chú mèo mướp sưởi nắng bên hiên nhà.'. Đây là câu kể hoàn chỉnh có nghĩa."
+      "explanation": "Sắp xếp đúng: 'Chú mèo mướp sưởi nắng bên hiên nhà.' Đây là câu kể hoàn chỉnh có nghĩa."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -24138,7 +22741,7 @@
         "Chú cún con"
       ],
       "answer": "Chú cún con vẫy đuôi mừng em về.",
-      "explanation": "Sắp xếp đúng: 'Chú cún con vẫy đuôi mừng em về.'. Đây là câu kể hoàn chỉnh có nghĩa."
+      "explanation": "Sắp xếp đúng: 'Chú cún con vẫy đuôi mừng em về.' Đây là câu kể hoàn chỉnh có nghĩa."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -24153,7 +22756,7 @@
         "Đàn gà con"
       ],
       "answer": "Đàn gà con theo mẹ kiếm mồi.",
-      "explanation": "Sắp xếp đúng: 'Đàn gà con theo mẹ kiếm mồi.'. Đây là câu kể hoàn chỉnh có nghĩa."
+      "explanation": "Sắp xếp đúng: 'Đàn gà con theo mẹ kiếm mồi.' Đây là câu kể hoàn chỉnh có nghĩa."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -24168,7 +22771,7 @@
         "Gà trống"
       ],
       "answer": "Gà trống cất tiếng gáy đánh thức bình minh.",
-      "explanation": "Sắp xếp đúng: 'Gà trống cất tiếng gáy đánh thức bình minh.'. Đây là câu kể hoàn chỉnh có nghĩa."
+      "explanation": "Sắp xếp đúng: 'Gà trống cất tiếng gáy đánh thức bình minh.' Đây là câu kể hoàn chỉnh có nghĩa."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -24183,7 +22786,7 @@
         "Đàn chim sẻ"
       ],
       "answer": "Đàn chim sẻ hót líu lo trên cành.",
-      "explanation": "Sắp xếp đúng: 'Đàn chim sẻ hót líu lo trên cành.'. Đây là câu kể hoàn chỉnh có nghĩa."
+      "explanation": "Sắp xếp đúng: 'Đàn chim sẻ hót líu lo trên cành.' Đây là câu kể hoàn chỉnh có nghĩa."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -24198,7 +22801,7 @@
         "Chú vịt bầu"
       ],
       "answer": "Chú vịt bầu bơi lội dưới ao.",
-      "explanation": "Sắp xếp đúng: 'Chú vịt bầu bơi lội dưới ao.'. Đây là câu kể hoàn chỉnh có nghĩa."
+      "explanation": "Sắp xếp đúng: 'Chú vịt bầu bơi lội dưới ao.' Đây là câu kể hoàn chỉnh có nghĩa."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -24213,7 +22816,7 @@
         "Mặt trời"
       ],
       "answer": "Mặt trời tỏa ánh nắng ấm áp.",
-      "explanation": "Sắp xếp đúng: 'Mặt trời tỏa ánh nắng ấm áp.'. Đây là câu kể hoàn chỉnh có nghĩa."
+      "explanation": "Sắp xếp đúng: 'Mặt trời tỏa ánh nắng ấm áp.' Đây là câu kể hoàn chỉnh có nghĩa."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -24228,7 +22831,7 @@
         "Gió mùa thu"
       ],
       "answer": "Gió mùa thu thổi mát rượi.",
-      "explanation": "Sắp xếp đúng: 'Gió mùa thu thổi mát rượi.'. Đây là câu kể hoàn chỉnh có nghĩa."
+      "explanation": "Sắp xếp đúng: 'Gió mùa thu thổi mát rượi.' Đây là câu kể hoàn chỉnh có nghĩa."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -24243,7 +22846,7 @@
         "Những đám mây trắng"
       ],
       "answer": "Những đám mây trắng trôi nhẹ trên bầu trời.",
-      "explanation": "Sắp xếp đúng: 'Những đám mây trắng trôi nhẹ trên bầu trời.'. Đây là câu kể hoàn chỉnh có nghĩa."
+      "explanation": "Sắp xếp đúng: 'Những đám mây trắng trôi nhẹ trên bầu trời.' Đây là câu kể hoàn chỉnh có nghĩa."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -24258,7 +22861,7 @@
         "Dòng suối"
       ],
       "answer": "Dòng suối chảy róc rách trong rừng.",
-      "explanation": "Sắp xếp đúng: 'Dòng suối chảy róc rách trong rừng.'. Đây là câu kể hoàn chỉnh có nghĩa."
+      "explanation": "Sắp xếp đúng: 'Dòng suối chảy róc rách trong rừng.' Đây là câu kể hoàn chỉnh có nghĩa."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -24273,7 +22876,7 @@
         "Bông hoa cúc"
       ],
       "answer": "Bông hoa cúc nở vàng rực rỡ.",
-      "explanation": "Sắp xếp đúng: 'Bông hoa cúc nở vàng rực rỡ.'. Đây là câu kể hoàn chỉnh có nghĩa."
+      "explanation": "Sắp xếp đúng: 'Bông hoa cúc nở vàng rực rỡ.' Đây là câu kể hoàn chỉnh có nghĩa."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -24288,7 +22891,7 @@
         "Vườn rau của bà"
       ],
       "answer": "Vườn rau của bà xanh mướt sau cơn mưa.",
-      "explanation": "Sắp xếp đúng: 'Vườn rau của bà xanh mướt sau cơn mưa.'. Đây là câu kể hoàn chỉnh có nghĩa."
+      "explanation": "Sắp xếp đúng: 'Vườn rau của bà xanh mướt sau cơn mưa.' Đây là câu kể hoàn chỉnh có nghĩa."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -24303,7 +22906,7 @@
         "Cây bàng"
       ],
       "answer": "Cây bàng xòe tán lá che mát sân trường.",
-      "explanation": "Sắp xếp đúng: 'Cây bàng xòe tán lá che mát sân trường.'. Đây là câu kể hoàn chỉnh có nghĩa."
+      "explanation": "Sắp xếp đúng: 'Cây bàng xòe tán lá che mát sân trường.' Đây là câu kể hoàn chỉnh có nghĩa."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -24318,7 +22921,7 @@
         "Quả chuối chín"
       ],
       "answer": "Quả chuối chín tỏa hương thơm ngọt.",
-      "explanation": "Sắp xếp đúng: 'Quả chuối chín tỏa hương thơm ngọt.'. Đây là câu kể hoàn chỉnh có nghĩa."
+      "explanation": "Sắp xếp đúng: 'Quả chuối chín tỏa hương thơm ngọt.' Đây là câu kể hoàn chỉnh có nghĩa."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -24333,7 +22936,7 @@
         "Bé"
       ],
       "answer": "Bé rửa tay sạch sẽ trước khi ăn.",
-      "explanation": "Sắp xếp đúng: 'Bé rửa tay sạch sẽ trước khi ăn.'. Đây là câu kể hoàn chỉnh có nghĩa."
+      "explanation": "Sắp xếp đúng: 'Bé rửa tay sạch sẽ trước khi ăn.' Đây là câu kể hoàn chỉnh có nghĩa."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -24348,7 +22951,7 @@
         "Em"
       ],
       "answer": "Em đánh răng mỗi buổi sáng.",
-      "explanation": "Sắp xếp đúng: 'Em đánh răng mỗi buổi sáng.'. Đây là câu kể hoàn chỉnh có nghĩa."
+      "explanation": "Sắp xếp đúng: 'Em đánh răng mỗi buổi sáng.' Đây là câu kể hoàn chỉnh có nghĩa."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -24363,7 +22966,7 @@
         "Bé"
       ],
       "answer": "Bé gấp quần áo gọn gàng.",
-      "explanation": "Sắp xếp đúng: 'Bé gấp quần áo gọn gàng.'. Đây là câu kể hoàn chỉnh có nghĩa."
+      "explanation": "Sắp xếp đúng: 'Bé gấp quần áo gọn gàng.' Đây là câu kể hoàn chỉnh có nghĩa."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -24378,7 +22981,7 @@
         "Nam"
       ],
       "answer": "Nam xếp sách vở vào ngăn bàn.",
-      "explanation": "Sắp xếp đúng: 'Nam xếp sách vở vào ngăn bàn.'. Đây là câu kể hoàn chỉnh có nghĩa."
+      "explanation": "Sắp xếp đúng: 'Nam xếp sách vở vào ngăn bàn.' Đây là câu kể hoàn chỉnh có nghĩa."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -24393,7 +22996,7 @@
         "Mai"
       ],
       "answer": "Mai vẽ bức tranh ngôi nhà em.",
-      "explanation": "Sắp xếp đúng: 'Mai vẽ bức tranh ngôi nhà em.'. Đây là câu kể hoàn chỉnh có nghĩa."
+      "explanation": "Sắp xếp đúng: 'Mai vẽ bức tranh ngôi nhà em.' Đây là câu kể hoàn chỉnh có nghĩa."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -24408,7 +23011,7 @@
         "Bé"
       ],
       "answer": "Bé uống sữa vào buổi tối.",
-      "explanation": "Sắp xếp đúng: 'Bé uống sữa vào buổi tối.'. Đây là câu kể hoàn chỉnh có nghĩa."
+      "explanation": "Sắp xếp đúng: 'Bé uống sữa vào buổi tối.' Đây là câu kể hoàn chỉnh có nghĩa."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -24423,7 +23026,7 @@
         "Em"
       ],
       "answer": "Em chúc ông bà mạnh khỏe.",
-      "explanation": "Sắp xếp đúng: 'Em chúc ông bà mạnh khỏe.'. Đây là câu kể hoàn chỉnh có nghĩa."
+      "explanation": "Sắp xếp đúng: 'Em chúc ông bà mạnh khỏe.' Đây là câu kể hoàn chỉnh có nghĩa."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -24438,7 +23041,7 @@
         "Cả nhà"
       ],
       "answer": "Cả nhà quây quần bên mâm cơm.",
-      "explanation": "Sắp xếp đúng: 'Cả nhà quây quần bên mâm cơm.'. Đây là câu kể hoàn chỉnh có nghĩa."
+      "explanation": "Sắp xếp đúng: 'Cả nhà quây quần bên mâm cơm.' Đây là câu kể hoàn chỉnh có nghĩa."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -24453,7 +23056,7 @@
         "Bé"
       ],
       "answer": "Bé chào bố mẹ để đi học.",
-      "explanation": "Sắp xếp đúng: 'Bé chào bố mẹ để đi học.'. Đây là câu kể hoàn chỉnh có nghĩa."
+      "explanation": "Sắp xếp đúng: 'Bé chào bố mẹ để đi học.' Đây là câu kể hoàn chỉnh có nghĩa."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -24468,7 +23071,7 @@
         "Chị"
       ],
       "answer": "Chị dạy em hát bài ca mới.",
-      "explanation": "Sắp xếp đúng: 'Chị dạy em hát bài ca mới.'. Đây là câu kể hoàn chỉnh có nghĩa."
+      "explanation": "Sắp xếp đúng: 'Chị dạy em hát bài ca mới.' Đây là câu kể hoàn chỉnh có nghĩa."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -24483,7 +23086,7 @@
         "Bé"
       ],
       "answer": "Bé cho mèo con ăn cá.",
-      "explanation": "Sắp xếp đúng: 'Bé cho mèo con ăn cá.'. Đây là câu kể hoàn chỉnh có nghĩa."
+      "explanation": "Sắp xếp đúng: 'Bé cho mèo con ăn cá.' Đây là câu kể hoàn chỉnh có nghĩa."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -24498,7 +23101,7 @@
         "Mẹ"
       ],
       "answer": "Mẹ may cho em chiếc áo mới.",
-      "explanation": "Sắp xếp đúng: 'Mẹ may cho em chiếc áo mới.'. Đây là câu kể hoàn chỉnh có nghĩa."
+      "explanation": "Sắp xếp đúng: 'Mẹ may cho em chiếc áo mới.' Đây là câu kể hoàn chỉnh có nghĩa."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -24513,7 +23116,7 @@
         "Bố"
       ],
       "answer": "Bố đưa em đến trường học.",
-      "explanation": "Sắp xếp đúng: 'Bố đưa em đến trường học.'. Đây là câu kể hoàn chỉnh có nghĩa."
+      "explanation": "Sắp xếp đúng: 'Bố đưa em đến trường học.' Đây là câu kể hoàn chỉnh có nghĩa."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -24528,7 +23131,7 @@
         "Cây ổi sau nhà"
       ],
       "answer": "Cây ổi sau nhà sai trĩu quả ngọt.",
-      "explanation": "Sắp xếp đúng: 'Cây ổi sau nhà sai trĩu quả ngọt.'. Đây là câu kể hoàn chỉnh có nghĩa."
+      "explanation": "Sắp xếp đúng: 'Cây ổi sau nhà sai trĩu quả ngọt.' Đây là câu kể hoàn chỉnh có nghĩa."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -24543,7 +23146,7 @@
         "Bầu trời"
       ],
       "answer": "Bầu trời xanh ngắt không một gợn mây.",
-      "explanation": "Sắp xếp đúng: 'Bầu trời xanh ngắt không một gợn mây.'. Đây là câu kể hoàn chỉnh có nghĩa."
+      "explanation": "Sắp xếp đúng: 'Bầu trời xanh ngắt không một gợn mây.' Đây là câu kể hoàn chỉnh có nghĩa."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -24558,7 +23161,7 @@
         "Mặt hồ"
       ],
       "answer": "Mặt hồ phẳng lặng như một tấm gương.",
-      "explanation": "Sắp xếp đúng: 'Mặt hồ phẳng lặng như một tấm gương.'. Đây là câu kể hoàn chỉnh có nghĩa."
+      "explanation": "Sắp xếp đúng: 'Mặt hồ phẳng lặng như một tấm gương.' Đây là câu kể hoàn chỉnh có nghĩa."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -24573,7 +23176,7 @@
         "Đàn cá vàng"
       ],
       "answer": "Đàn cá vàng tung tăng bơi lội.",
-      "explanation": "Sắp xếp đúng: 'Đàn cá vàng tung tăng bơi lội.'. Đây là câu kể hoàn chỉnh có nghĩa."
+      "explanation": "Sắp xếp đúng: 'Đàn cá vàng tung tăng bơi lội.' Đây là câu kể hoàn chỉnh có nghĩa."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -24588,7 +23191,7 @@
         "Chú ong nâu"
       ],
       "answer": "Chú ong nâu chăm chỉ tìm hoa hút mật.",
-      "explanation": "Sắp xếp đúng: 'Chú ong nâu chăm chỉ tìm hoa hút mật.'. Đây là câu kể hoàn chỉnh có nghĩa."
+      "explanation": "Sắp xếp đúng: 'Chú ong nâu chăm chỉ tìm hoa hút mật.' Đây là câu kể hoàn chỉnh có nghĩa."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -24603,7 +23206,7 @@
         "Cánh bướm xinh"
       ],
       "answer": "Cánh bướm xinh dập dờn bên khóm hồng.",
-      "explanation": "Sắp xếp đúng: 'Cánh bướm xinh dập dờn bên khóm hồng.'. Đây là câu kể hoàn chỉnh có nghĩa."
+      "explanation": "Sắp xếp đúng: 'Cánh bướm xinh dập dờn bên khóm hồng.' Đây là câu kể hoàn chỉnh có nghĩa."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -24618,7 +23221,7 @@
         "Mầm cây non"
       ],
       "answer": "Mầm cây non nhú lên sau cơn mưa.",
-      "explanation": "Sắp xếp đúng: 'Mầm cây non nhú lên sau cơn mưa.'. Đây là câu kể hoàn chỉnh có nghĩa."
+      "explanation": "Sắp xếp đúng: 'Mầm cây non nhú lên sau cơn mưa.' Đây là câu kể hoàn chỉnh có nghĩa."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -24633,7 +23236,7 @@
         "Hạt mưa xuân"
       ],
       "answer": "Hạt mưa xuân rơi nhẹ trên lá non.",
-      "explanation": "Sắp xếp đúng: 'Hạt mưa xuân rơi nhẹ trên lá non.'. Đây là câu kể hoàn chỉnh có nghĩa."
+      "explanation": "Sắp xếp đúng: 'Hạt mưa xuân rơi nhẹ trên lá non.' Đây là câu kể hoàn chỉnh có nghĩa."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -24648,7 +23251,7 @@
         "Bé"
       ],
       "answer": "Bé đọc thơ cho cả nhà nghe.",
-      "explanation": "Sắp xếp đúng: 'Bé đọc thơ cho cả nhà nghe.'. Đây là câu kể hoàn chỉnh có nghĩa."
+      "explanation": "Sắp xếp đúng: 'Bé đọc thơ cho cả nhà nghe.' Đây là câu kể hoàn chỉnh có nghĩa."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -24663,7 +23266,7 @@
         "Lá cờ đỏ sao vàng"
       ],
       "answer": "Lá cờ đỏ sao vàng tung bay trong gió.",
-      "explanation": "Sắp xếp đúng: 'Lá cờ đỏ sao vàng tung bay trong gió.'. Đây là câu kể hoàn chỉnh có nghĩa."
+      "explanation": "Sắp xếp đúng: 'Lá cờ đỏ sao vàng tung bay trong gió.' Đây là câu kể hoàn chỉnh có nghĩa."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -24678,7 +23281,7 @@
         "Học sinh"
       ],
       "answer": "Học sinh nghiêm trang chào cờ.",
-      "explanation": "Sắp xếp đúng: 'Học sinh nghiêm trang chào cờ.'. Đây là câu kể hoàn chỉnh có nghĩa."
+      "explanation": "Sắp xếp đúng: 'Học sinh nghiêm trang chào cờ.' Đây là câu kể hoàn chỉnh có nghĩa."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -24693,7 +23296,7 @@
         "Tiếng ve"
       ],
       "answer": "Tiếng ve kêu râm ran trong vòm lá.",
-      "explanation": "Sắp xếp đúng: 'Tiếng ve kêu râm ran trong vòm lá.'. Đây là câu kể hoàn chỉnh có nghĩa."
+      "explanation": "Sắp xếp đúng: 'Tiếng ve kêu râm ran trong vòm lá.' Đây là câu kể hoàn chỉnh có nghĩa."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -24708,7 +23311,7 @@
         "Cây phượng vĩ"
       ],
       "answer": "Cây phượng vĩ nở hoa đỏ rực mỗi độ hè về.",
-      "explanation": "Sắp xếp đúng: 'Cây phượng vĩ nở hoa đỏ rực mỗi độ hè về.'. Đây là câu kể hoàn chỉnh có nghĩa."
+      "explanation": "Sắp xếp đúng: 'Cây phượng vĩ nở hoa đỏ rực mỗi độ hè về.' Đây là câu kể hoàn chỉnh có nghĩa."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -24723,7 +23326,7 @@
         "Mẹ"
       ],
       "answer": "Mẹ ru em bé ngủ say nồng.",
-      "explanation": "Sắp xếp đúng: 'Mẹ ru em bé ngủ say nồng.'. Đây là câu kể hoàn chỉnh có nghĩa."
+      "explanation": "Sắp xếp đúng: 'Mẹ ru em bé ngủ say nồng.' Đây là câu kể hoàn chỉnh có nghĩa."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -24738,7 +23341,7 @@
         "Bé"
       ],
       "answer": "Bé quét sân giúp bà ngoại.",
-      "explanation": "Sắp xếp đúng: 'Bé quét sân giúp bà ngoại.'. Đây là câu kể hoàn chỉnh có nghĩa."
+      "explanation": "Sắp xếp đúng: 'Bé quét sân giúp bà ngoại.' Đây là câu kể hoàn chỉnh có nghĩa."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -24753,7 +23356,7 @@
         "Lan"
       ],
       "answer": "Lan cùng bạn tưới hoa ngoài vườn.",
-      "explanation": "Sắp xếp đúng: 'Lan cùng bạn tưới hoa ngoài vườn.'. Đây là câu kể hoàn chỉnh có nghĩa."
+      "explanation": "Sắp xếp đúng: 'Lan cùng bạn tưới hoa ngoài vườn.' Đây là câu kể hoàn chỉnh có nghĩa."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -24768,7 +23371,7 @@
         "Hùng"
       ],
       "answer": "Hùng mượn bạn chiếc bút chì.",
-      "explanation": "Sắp xếp đúng: 'Hùng mượn bạn chiếc bút chì.'. Đây là câu kể hoàn chỉnh có nghĩa."
+      "explanation": "Sắp xếp đúng: 'Hùng mượn bạn chiếc bút chì.' Đây là câu kể hoàn chỉnh có nghĩa."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -24783,7 +23386,7 @@
         "Em"
       ],
       "answer": "Em giữ gìn sách vở cẩn thận.",
-      "explanation": "Sắp xếp đúng: 'Em giữ gìn sách vở cẩn thận.'. Đây là câu kể hoàn chỉnh có nghĩa."
+      "explanation": "Sắp xếp đúng: 'Em giữ gìn sách vở cẩn thận.' Đây là câu kể hoàn chỉnh có nghĩa."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -24798,7 +23401,7 @@
         "Chiếc đồng hồ"
       ],
       "answer": "Chiếc đồng hồ tích tắc báo giờ.",
-      "explanation": "Sắp xếp đúng: 'Chiếc đồng hồ tích tắc báo giờ.'. Đây là câu kể hoàn chỉnh có nghĩa."
+      "explanation": "Sắp xếp đúng: 'Chiếc đồng hồ tích tắc báo giờ.' Đây là câu kể hoàn chỉnh có nghĩa."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -24813,7 +23416,7 @@
         "Bàn tay em"
       ],
       "answer": "Bàn tay em nắn nót từng chữ tròn xoe.",
-      "explanation": "Sắp xếp đúng: 'Bàn tay em nắn nót từng chữ tròn xoe.'. Đây là câu kể hoàn chỉnh có nghĩa."
+      "explanation": "Sắp xếp đúng: 'Bàn tay em nắn nót từng chữ tròn xoe.' Đây là câu kể hoàn chỉnh có nghĩa."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -24828,7 +23431,7 @@
         "Cơn gió nhẹ"
       ],
       "answer": "Cơn gió nhẹ lướt qua mặt nước.",
-      "explanation": "Sắp xếp đúng: 'Cơn gió nhẹ lướt qua mặt nước.'. Đây là câu kể hoàn chỉnh có nghĩa."
+      "explanation": "Sắp xếp đúng: 'Cơn gió nhẹ lướt qua mặt nước.' Đây là câu kể hoàn chỉnh có nghĩa."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -24843,7 +23446,7 @@
         "Đàn trâu"
       ],
       "answer": "Đàn trâu thong thả gặm cỏ trên đê.",
-      "explanation": "Sắp xếp đúng: 'Đàn trâu thong thả gặm cỏ trên đê.'. Đây là câu kể hoàn chỉnh có nghĩa."
+      "explanation": "Sắp xếp đúng: 'Đàn trâu thong thả gặm cỏ trên đê.' Đây là câu kể hoàn chỉnh có nghĩa."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -24858,7 +23461,7 @@
         "Ánh trăng rằm"
       ],
       "answer": "Ánh trăng rằm chiếu sáng khắp sân nhà.",
-      "explanation": "Sắp xếp đúng: 'Ánh trăng rằm chiếu sáng khắp sân nhà.'. Đây là câu kể hoàn chỉnh có nghĩa."
+      "explanation": "Sắp xếp đúng: 'Ánh trăng rằm chiếu sáng khắp sân nhà.' Đây là câu kể hoàn chỉnh có nghĩa."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -24873,7 +23476,7 @@
         "Bé"
       ],
       "answer": "Bé lễ phép khoanh tay chào cô.",
-      "explanation": "Sắp xếp đúng: 'Bé lễ phép khoanh tay chào cô.'. Đây là câu kể hoàn chỉnh có nghĩa."
+      "explanation": "Sắp xếp đúng: 'Bé lễ phép khoanh tay chào cô.' Đây là câu kể hoàn chỉnh có nghĩa."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -24888,7 +23491,7 @@
         "Thầy giáo"
       ],
       "answer": "Thầy giáo khen em học tập tiến bộ.",
-      "explanation": "Sắp xếp đúng: 'Thầy giáo khen em học tập tiến bộ.'. Đây là câu kể hoàn chỉnh có nghĩa."
+      "explanation": "Sắp xếp đúng: 'Thầy giáo khen em học tập tiến bộ.' Đây là câu kể hoàn chỉnh có nghĩa."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -24903,7 +23506,7 @@
         "Bé"
       ],
       "answer": "Bé vâng lời cha mẹ và thầy cô.",
-      "explanation": "Sắp xếp đúng: 'Bé vâng lời cha mẹ và thầy cô.'. Đây là câu kể hoàn chỉnh có nghĩa."
+      "explanation": "Sắp xếp đúng: 'Bé vâng lời cha mẹ và thầy cô.' Đây là câu kể hoàn chỉnh có nghĩa."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -24918,7 +23521,7 @@
         "Cánh đồng lúa"
       ],
       "answer": "Cánh đồng lúa chín vàng thơm ngát.",
-      "explanation": "Sắp xếp đúng: 'Cánh đồng lúa chín vàng thơm ngát.'. Đây là câu kể hoàn chỉnh có nghĩa."
+      "explanation": "Sắp xếp đúng: 'Cánh đồng lúa chín vàng thơm ngát.' Đây là câu kể hoàn chỉnh có nghĩa."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -24933,7 +23536,7 @@
         "Dòng sông quê hương"
       ],
       "answer": "Dòng sông quê hương êm đềm trôi xuôi.",
-      "explanation": "Sắp xếp đúng: 'Dòng sông quê hương êm đềm trôi xuôi.'. Đây là câu kể hoàn chỉnh có nghĩa."
+      "explanation": "Sắp xếp đúng: 'Dòng sông quê hương êm đềm trôi xuôi.' Đây là câu kể hoàn chỉnh có nghĩa."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -24948,7 +23551,7 @@
         "Mùa xuân"
       ],
       "answer": "Mùa xuân về mang theo bao niềm vui.",
-      "explanation": "Sắp xếp đúng: 'Mùa xuân về mang theo bao niềm vui.'. Đây là câu kể hoàn chỉnh có nghĩa."
+      "explanation": "Sắp xếp đúng: 'Mùa xuân về mang theo bao niềm vui.' Đây là câu kể hoàn chỉnh có nghĩa."
     }
   ],
   "contentReviewReport": {
