@@ -4,9 +4,9 @@
   "level": "CAP_3_VONG_HUONG",
   "startSeq": 1000,
   "seqMode": "CONTINUOUS",
-  "totalQuestions": 802,
+  "totalQuestions": 754,
   "typeDistribution": {
-    "TN": 674,
+    "TN": 626,
     "SX": 32,
     "NOI": 32,
     "DT": 64,
@@ -27,7 +27,7 @@
   },
   "exclusionReport": null,
   "deduplicationReport": {
-    "uniqueQuestions": 802,
+    "uniqueQuestions": 786,
     "uniquenessRate": "100%",
     "rejectedStats": {
       "duplicate_hash": 531,
@@ -1462,22 +1462,6 @@
       },
       "answer": "D",
       "explanation": "Quả na (mãng cầu ta) vỏ có nhiều mắt mở to khi chín, thịt màu trắng ngọt ngào."
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_3",
-      "level": "CAP_3_VONG_HUONG",
-      "type": "TN",
-      "questionId": "k3_c3_tn_1089",
-      "question": "Câu tục ngữ, thành ngữ nào dưới đây thể hiện phẩm chất hoặc bài học về 'Biết ơn'?",
-      "options": {
-        "A": "Bầu ơi thương lấy bí cùng, tuy rằng khác giống nhưng chung một giàn",
-        "B": "Uống nước nhớ nguồn",
-        "C": "Công cha như núi Thái Sơn, nghĩa mẹ như nước trong nguồn chảy ra",
-        "D": "Chim có tổ người có tông"
-      },
-      "answer": "B",
-      "explanation": "'Uống nước nhớ nguồn': Hưởng trái ngọt nhớ công người trồng cây, uống nước mát nhớ ơn nguồn."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -6706,12 +6690,12 @@
       "question": "Câu nào dưới đây là câu kể?",
       "options": {
         "A": "Bạn Mai đang đọc sách à?",
-        "B": "Bạn Mai đang đọc sách.",
-        "C": "Ôi, bạn mai đang đọc sách!",
-        "D": "Hãy đang đọc sách!"
+        "B": "Bạn Mai đang đọc sách trong thư viện.",
+        "C": "Ôi, bạn Mai đọc sách chăm chỉ quá!",
+        "D": "Bạn Mai hãy mở sách ra nào!"
       },
       "answer": "B",
-      "explanation": "Câu kể dùng để kể, tả hoặc giới thiệu.",
+      "explanation": "Câu B dùng để kể, thông báo về hoạt động của bạn Mai và kết thúc bằng dấu chấm, đây là câu kể.",
       "questionId": "k3_c3_tn_1420"
     },
     {
@@ -6748,13 +6732,13 @@
       "type": "TN",
       "question": "Câu nào dưới đây là câu kể?",
       "options": {
-        "A": "Các bác nông dân uốn quanh xóm nhỏ à?",
-        "B": "Ôi, các bác nông dân uốn quanh xóm nhỏ!",
-        "C": "Các bác nông dân uốn quanh xóm nhỏ.",
-        "D": "Hãy uốn quanh xóm nhỏ!"
+        "A": "Con đường uốn quanh xóm nhỏ à?",
+        "B": "Ôi, con đường uốn quanh xóm nhỏ đẹp quá!",
+        "C": "Con đường làng uốn quanh xóm nhỏ.",
+        "D": "Hãy giữ cho con đường xóm nhỏ luôn sạch đẹp!"
       },
       "answer": "C",
-      "explanation": "Câu kể dùng để kể, tả hoặc giới thiệu.",
+      "explanation": "Câu C dùng để miêu tả đặc điểm của con đường làng và kết thúc bằng dấu chấm, đây là câu kể.",
       "questionId": "k3_c3_tn_1422"
     },
     {
@@ -6764,13 +6748,13 @@
       "type": "TN",
       "question": "Câu nào dưới đây là câu kể?",
       "options": {
-        "A": "Ôi, chú mèo xanh biếc sau mưa!",
-        "B": "Hãy xanh biếc sau mưa!",
-        "C": "Chú mèo xanh biếc sau mưa à?",
-        "D": "Chú mèo xanh biếc sau mưa."
+        "A": "Chú mèo đang sưởi nắng bên hiên nhà à?",
+        "B": "Hãy cho chú mèo ăn cơm nhé!",
+        "C": "Ôi, chú mèo con mới đáng yêu làm sao!",
+        "D": "Chú mèo mướp đang nằm sưởi nắng bên hiên nhà."
       },
       "answer": "D",
-      "explanation": "Câu kể dùng để kể, tả hoặc giới thiệu.",
+      "explanation": "Câu D dùng để kể lại hoạt động của chú mèo và kết thúc bằng dấu chấm, đây là câu kể.",
       "questionId": "k3_c3_tn_1423"
     },
     {
@@ -6780,13 +6764,13 @@
       "type": "TN",
       "question": "Câu nào dưới đây là câu kể?",
       "options": {
-        "A": "Dòng sông trải dài dưới nắng.",
-        "B": "Dòng sông trải dài dưới nắng à?",
-        "C": "Hãy trải dài dưới nắng!",
-        "D": "Ôi, dòng sông trải dài dưới nắng!"
+        "A": "Dòng sông quê em uốn lượn dưới ánh nắng mai.",
+        "B": "Dòng sông quê em có đẹp không?",
+        "C": "Ôi, dòng sông quê em đẹp biết bao!",
+        "D": "Chúng mình cùng giữ sạch dòng sông quê hương nhé!"
       },
       "answer": "A",
-      "explanation": "Câu kể dùng để kể, tả hoặc giới thiệu.",
+      "explanation": "Câu A dùng để miêu tả dòng sông quê em và kết thúc bằng dấu chấm, đây là câu kể.",
       "questionId": "k3_c3_tn_1424"
     },
     {
@@ -6823,13 +6807,13 @@
       "type": "TN",
       "question": "Câu nào dưới đây là câu kể?",
       "options": {
-        "A": "Những bông hoa nằm sưởi nắng.",
-        "B": "Hãy nằm sưởi nắng!",
-        "C": "Ôi, những bông hoa nằm sưởi nắng!",
-        "D": "Những bông hoa nằm sưởi nắng à?"
+        "A": "Những bông hoa cúc đang nở rộ trong vườn trường.",
+        "B": "Những bông hoa cúc đã nở chưa?",
+        "C": "Ôi, những bông hoa cúc rực rỡ quá!",
+        "D": "Các bạn đừng hái những bông hoa trong vườn nhé!"
       },
       "answer": "A",
-      "explanation": "Câu kể dùng để kể, tả hoặc giới thiệu.",
+      "explanation": "Câu A dùng để kể, miêu tả trạng thái của những bông hoa cúc và kết thúc bằng dấu chấm, đây là câu kể.",
       "questionId": "k3_c3_tn_1426"
     },
     {
@@ -6839,13 +6823,13 @@
       "type": "TN",
       "question": "Câu nào dưới đây là câu kể?",
       "options": {
-        "A": "Ôi, chúng em chăm sóc vườn trường!",
-        "B": "Chúng em chăm sóc vườn trường à?",
-        "C": "Hãy chăm sóc vườn trường!",
-        "D": "Chúng em chăm sóc vườn trường."
+        "A": "Chúng em có chăm sóc bồn hoa vườn trường không?",
+        "B": "Ôi, vườn trường hôm nay rực rỡ quá!",
+        "C": "Các bạn hãy cùng nhau chăm sóc bồn hoa vườn trường nhé!",
+        "D": "Giờ ra chơi, chúng em chăm sóc bồn hoa ở góc vườn trường."
       },
       "answer": "D",
-      "explanation": "Câu kể dùng để kể, tả hoặc giới thiệu.",
+      "explanation": "Câu D kể lại hoạt động của học sinh trong giờ ra chơi và kết thúc bằng dấu chấm, đây là câu kể.",
       "questionId": "k3_c3_tn_1427"
     },
     {
@@ -6855,13 +6839,13 @@
       "type": "TN",
       "question": "Câu nào dưới đây là câu kể?",
       "options": {
-        "A": "Hãy bay về tổ!",
-        "B": "Bầu trời bay về tổ à?",
-        "C": "Ôi, bầu trời bay về tổ!",
-        "D": "Bầu trời bay về tổ."
+        "A": "Đàn chim đang bay về tổ à?",
+        "B": "Ôi, bầu trời chiều nay thanh bình biết mấy!",
+        "C": "Các bạn hãy ngắm nhìn đàn chim bay về tổ kìa!",
+        "D": "Bầu trời mùa thu trong xanh và cao vời vợi."
       },
       "answer": "D",
-      "explanation": "Câu kể dùng để kể, tả hoặc giới thiệu.",
+      "explanation": "Câu D dùng để miêu tả đặc điểm của bầu trời mùa thu và kết thúc bằng dấu chấm, đây là câu kể.",
       "questionId": "k3_c3_tn_1428"
     },
     {
@@ -6871,13 +6855,13 @@
       "type": "TN",
       "question": "Câu nào dưới đây là câu kể?",
       "options": {
-        "A": "Hãy thu hoạch lúa!",
-        "B": "Cô giáo thu hoạch lúa à?",
-        "C": "Cô giáo thu hoạch lúa.",
-        "D": "Ôi, cô giáo thu hoạch lúa!"
+        "A": "Bác nông dân đang thu hoạch lúa ngoài đồng à?",
+        "B": "Ôi, cánh đồng lúa chín vàng óng ánh mới đẹp làm sao!",
+        "C": "Trên bục giảng, cô giáo đang say sưa giảng bài cho chúng em.",
+        "D": "Cả lớp hãy chú ý nghe cô giáo giảng bài nào!"
       },
       "answer": "C",
-      "explanation": "Câu kể dùng để kể, tả hoặc giới thiệu.",
+      "explanation": "Câu C dùng để kể lại hoạt động giảng bài của cô giáo và kết thúc bằng dấu chấm, đây là câu kể.",
       "questionId": "k3_c3_tn_1429"
     },
     {
@@ -6887,13 +6871,13 @@
       "type": "TN",
       "question": "Câu nào dưới đây là câu kể?",
       "options": {
-        "A": "Đàn chim nở rực rỡ à?",
-        "B": "Ôi, đàn chim nở rực rỡ!",
-        "C": "Đàn chim nở rực rỡ.",
-        "D": "Hãy nở rực rỡ!"
+        "A": "Đàn chim đang hót líu lo trên cành cây à?",
+        "B": "Ôi, tiếng hót của đàn chim nghe mới vui tai làm sao!",
+        "C": "Đàn chim chao liệng rồi ríu rít rủ nhau bay về tổ.",
+        "D": "Đừng xua đuổi đàn chim non nhé!"
       },
       "answer": "C",
-      "explanation": "Câu kể dùng để kể, tả hoặc giới thiệu.",
+      "explanation": "Câu C dùng để kể lại hoạt động của đàn chim và kết thúc bằng dấu chấm, đây là câu kể.",
       "questionId": "k3_c3_tn_1430"
     },
     {
@@ -6903,13 +6887,13 @@
       "type": "TN",
       "question": "Câu nào dưới đây là câu kể?",
       "options": {
-        "A": "Cánh đồng kể chuyện cho học sinh à?",
-        "B": "Hãy kể chuyện cho học sinh!",
-        "C": "Cánh đồng kể chuyện cho học sinh.",
-        "D": "Ôi, cánh đồng kể chuyện cho học sinh!"
+        "A": "Cánh đồng lúa đã chín vàng chưa?",
+        "B": "Hãy ra ngắm cánh đồng lúa chín rực rỡ đi!",
+        "C": "Cánh đồng lúa chín trải dài mênh mông như một tấm thảm vàng.",
+        "D": "Chao ôi, cánh đồng quê hương đẹp tuyệt vời!"
       },
       "answer": "C",
-      "explanation": "Câu kể dùng để kể, tả hoặc giới thiệu.",
+      "explanation": "Câu C dùng để miêu tả cánh đồng lúa chín và kết thúc bằng dấu chấm, đây là câu kể.",
       "questionId": "k3_c3_tn_1431"
     },
     {
@@ -7054,13 +7038,13 @@
       "type": "TN",
       "question": "Câu nào dưới đây là câu khiến?",
       "options": {
-        "A": "Bạn Mai hãy mở sách ra.",
-        "B": "Bạn Mai, hãy mở sách ra!",
-        "C": "Bạn Mai có hãy mở sách ra không?",
-        "D": "Ôi, bạn mai thật đáng yêu!"
+        "A": "Bạn Mai đã mở sách giáo khoa ra rồi.",
+        "B": "Mai ơi, bạn hãy mở sách giáo khoa trang 20 ra nhé!",
+        "C": "Bạn Mai đã mở sách bài tập ra chưa?",
+        "D": "Ôi, bạn Mai chăm chỉ quá!"
       },
       "answer": "B",
-      "explanation": "Câu khiến dùng để yêu cầu, đề nghị hoặc khuyên bảo.",
+      "explanation": "Câu B chứa từ cầu khiến 'hãy', 'nhé' dùng để yêu cầu, đề nghị bạn mở sách, đây là câu khiến.",
       "questionId": "k3_c3_tn_1437"
     },
     {
@@ -7078,38 +7062,6 @@
       "grade": "KHOI_3",
       "level": "CAP_3_VONG_HUONG",
       "questionId": "k3_c3_tn_1438"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_3",
-      "level": "CAP_3_VONG_HUONG",
-      "type": "TN",
-      "question": "Câu nào dưới đây là câu khiến?",
-      "options": {
-        "A": "Các bác nông dân có đừng chạy ngoài hành lang không?",
-        "B": "Ôi, các bác nông dân thật đáng yêu!",
-        "C": "Các bác nông dân đừng chạy ngoài hành lang.",
-        "D": "Các bác nông dân, đừng chạy ngoài hành lang!"
-      },
-      "answer": "D",
-      "explanation": "Câu khiến dùng để yêu cầu, đề nghị hoặc khuyên bảo.",
-      "questionId": "k3_c3_tn_1439"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_3",
-      "level": "CAP_3_VONG_HUONG",
-      "type": "TN",
-      "question": "Câu nào dưới đây là câu khiến?",
-      "options": {
-        "A": "Chú mèo có cùng chăm sóc cây không?",
-        "B": "Chú mèo, cùng chăm sóc cây!",
-        "C": "Ôi, chú mèo thật đáng yêu!",
-        "D": "Chú mèo cùng chăm sóc cây."
-      },
-      "answer": "B",
-      "explanation": "Câu khiến dùng để yêu cầu, đề nghị hoặc khuyên bảo.",
-      "questionId": "k3_c3_tn_1440"
     },
     {
       "type": "TN",
@@ -7134,77 +7086,13 @@
       "type": "TN",
       "question": "Câu nào dưới đây là câu khiến?",
       "options": {
-        "A": "Dòng sông có nhớ đội mũ khi ra nắng không?",
-        "B": "Ôi, dòng sông thật đáng yêu!",
-        "C": "Dòng sông nhớ đội mũ khi ra nắng.",
-        "D": "Dòng sông, nhớ đội mũ khi ra nắng!"
-      },
-      "answer": "D",
-      "explanation": "Câu khiến dùng để yêu cầu, đề nghị hoặc khuyên bảo.",
-      "questionId": "k3_c3_tn_1442"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_3",
-      "level": "CAP_3_VONG_HUONG",
-      "type": "TN",
-      "question": "Câu nào dưới đây là câu khiến?",
-      "options": {
-        "A": "Những bông hoa có hãy giữ trật tự không?",
-        "B": "Những bông hoa, hãy giữ trật tự!",
-        "C": "Những bông hoa hãy giữ trật tự.",
-        "D": "Ôi, những bông hoa thật đáng yêu!"
+        "A": "Ôi, sân trường rợp bóng cây xanh mát quá!",
+        "B": "Cô giáo nhắc nhở: \"Các em đừng chạy nhảy ngoài hành lang kẻo ngã nhé!\"",
+        "C": "Giờ giải lao, học sinh có được chạy ngoài hành lang không?",
+        "D": "Học sinh không chạy nhảy ngoài hành lang để giữ an toàn."
       },
       "answer": "B",
-      "explanation": "Câu khiến dùng để yêu cầu, đề nghị hoặc khuyên bảo.",
-      "questionId": "k3_c3_tn_1443"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_3",
-      "level": "CAP_3_VONG_HUONG",
-      "type": "TN",
-      "question": "Câu nào dưới đây là câu khiến?",
-      "options": {
-        "A": "Chúng em có giúp em xếp bàn ghế không?",
-        "B": "Chúng em giúp em xếp bàn ghế.",
-        "C": "Ôi, chúng em thật đáng yêu!",
-        "D": "Chúng em, giúp em xếp bàn ghế!"
-      },
-      "answer": "D",
-      "explanation": "Câu khiến dùng để yêu cầu, đề nghị hoặc khuyên bảo.",
-      "questionId": "k3_c3_tn_1444"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_3",
-      "level": "CAP_3_VONG_HUONG",
-      "type": "TN",
-      "question": "Câu nào dưới đây là câu khiến?",
-      "options": {
-        "A": "Bầu trời hãy mở sách ra.",
-        "B": "Ôi, bầu trời thật đáng yêu!",
-        "C": "Bầu trời, hãy mở sách ra!",
-        "D": "Bầu trời có hãy mở sách ra không?"
-      },
-      "answer": "C",
-      "explanation": "Câu khiến dùng để yêu cầu, đề nghị hoặc khuyên bảo.",
-      "questionId": "k3_c3_tn_1445"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_3",
-      "level": "CAP_3_VONG_HUONG",
-      "type": "TN",
-      "question": "Câu nào dưới đây là câu khiến?",
-      "options": {
-        "A": "Ôi, cô giáo thật đáng yêu!",
-        "B": "Cô giáo, đừng chạy ngoài hành lang!",
-        "C": "Cô giáo có đừng chạy ngoài hành lang không?",
-        "D": "Cô giáo đừng chạy ngoài hành lang."
-      },
-      "answer": "B",
-      "explanation": "Câu khiến dùng để yêu cầu, đề nghị hoặc khuyên bảo.",
+      "explanation": "Lời nhắc của cô giáo chứa từ khuyên bảo, ngăn chặn 'đừng', 'nhé', đây là câu khiến.",
       "questionId": "k3_c3_tn_1446"
     },
     {
@@ -7230,29 +7118,13 @@
       "type": "TN",
       "question": "Câu nào dưới đây là câu khiến?",
       "options": {
-        "A": "Ôi, đàn chim thật đáng yêu!",
-        "B": "Đàn chim cùng chăm sóc cây.",
-        "C": "Đàn chim, cùng chăm sóc cây!",
-        "D": "Đàn chim có cùng chăm sóc cây không?"
+        "A": "Bạn Nam nhớ đội mũ rộng vành khi đi học giữa trưa nắng.",
+        "B": "Con ra ngoài trời nắng đã đội mũ cẩn thận chưa?",
+        "C": "Bố nhắc nhở: \"Trời nắng gắt, con nhớ đội mũ khi ra ngoài nhé!\"",
+        "D": "Ôi, chiếc mũ của bạn nhìn xinh xắn làm sao!"
       },
       "answer": "C",
-      "explanation": "Câu khiến dùng để yêu cầu, đề nghị hoặc khuyên bảo.",
-      "questionId": "k3_c3_tn_1448"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_3",
-      "level": "CAP_3_VONG_HUONG",
-      "type": "TN",
-      "question": "Câu nào dưới đây là câu khiến?",
-      "options": {
-        "A": "Cánh đồng nhớ đội mũ khi ra nắng.",
-        "B": "Cánh đồng có nhớ đội mũ khi ra nắng không?",
-        "C": "Cánh đồng, nhớ đội mũ khi ra nắng!",
-        "D": "Ôi, cánh đồng thật đáng yêu!"
-      },
-      "answer": "C",
-      "explanation": "Câu khiến dùng để yêu cầu, đề nghị hoặc khuyên bảo.",
+      "explanation": "Lời nhắc nhở của bố chứa từ khuyên bảo 'nhớ... nhé', dùng để dặn dò con cái, đây là câu khiến.",
       "questionId": "k3_c3_tn_1449"
     },
     {
@@ -7262,62 +7134,14 @@
       "type": "TN",
       "question": "Câu nào dưới đây là câu khiến?",
       "options": {
-        "A": "Bạn Mai có hãy giữ trật tự không?",
-        "B": "Bạn Mai, hãy giữ trật tự!",
-        "C": "Bạn Mai hãy giữ trật tự.",
-        "D": "Ôi, bạn mai thật đáng yêu!"
+        "A": "Giờ tự quản, bạn Mai luôn giữ trật tự trong lớp.",
+        "B": "Mai ơi, bạn hãy giữ trật tự để cả lớp cùng đọc sách nhé!",
+        "C": "Bạn Mai có muốn cùng đọc sách với tớ không?",
+        "D": "Ôi, bạn Mai thật là chăm chỉ!"
       },
       "answer": "B",
-      "explanation": "Câu khiến dùng để yêu cầu, đề nghị hoặc khuyên bảo.",
+      "explanation": "Câu B chứa từ cầu khiến 'hãy', 'nhé' dùng để đề nghị bạn giữ trật tự, đây là câu khiến.",
       "questionId": "k3_c3_tn_1450"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_3",
-      "level": "CAP_3_VONG_HUONG",
-      "type": "TN",
-      "question": "Câu nào dưới đây là câu khiến?",
-      "options": {
-        "A": "Các bác nông dân giúp em xếp bàn ghế.",
-        "B": "Ôi, các bác nông dân thật đáng yêu!",
-        "C": "Các bác nông dân, giúp em xếp bàn ghế!",
-        "D": "Các bác nông dân có giúp em xếp bàn ghế không?"
-      },
-      "answer": "C",
-      "explanation": "Câu khiến dùng để yêu cầu, đề nghị hoặc khuyên bảo.",
-      "questionId": "k3_c3_tn_1451"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_3",
-      "level": "CAP_3_VONG_HUONG",
-      "type": "TN",
-      "question": "Câu nào dưới đây là câu khiến?",
-      "options": {
-        "A": "Chú mèo, hãy mở sách ra!",
-        "B": "Ôi, chú mèo thật đáng yêu!",
-        "C": "Chú mèo có hãy mở sách ra không?",
-        "D": "Chú mèo hãy mở sách ra."
-      },
-      "answer": "A",
-      "explanation": "Câu khiến dùng để yêu cầu, đề nghị hoặc khuyên bảo.",
-      "questionId": "k3_c3_tn_1452"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_3",
-      "level": "CAP_3_VONG_HUONG",
-      "type": "TN",
-      "question": "Câu nào dưới đây là câu khiến?",
-      "options": {
-        "A": "Dòng sông có đừng chạy ngoài hành lang không?",
-        "B": "Ôi, dòng sông thật đáng yêu!",
-        "C": "Dòng sông, đừng chạy ngoài hành lang!",
-        "D": "Dòng sông đừng chạy ngoài hành lang."
-      },
-      "answer": "C",
-      "explanation": "Câu khiến dùng để yêu cầu, đề nghị hoặc khuyên bảo.",
-      "questionId": "k3_c3_tn_1453"
     },
     {
       "type": "TN",
@@ -7358,61 +7182,13 @@
       "type": "TN",
       "question": "Câu nào dưới đây là câu khiến?",
       "options": {
-        "A": "Những bông hoa cùng chăm sóc cây.",
-        "B": "Ôi, những bông hoa thật đáng yêu!",
-        "C": "Những bông hoa, cùng chăm sóc cây!",
-        "D": "Những bông hoa có cùng chăm sóc cây không?"
-      },
-      "answer": "C",
-      "explanation": "Câu khiến dùng để yêu cầu, đề nghị hoặc khuyên bảo.",
-      "questionId": "k3_c3_tn_1456"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_3",
-      "level": "CAP_3_VONG_HUONG",
-      "type": "TN",
-      "question": "Câu nào dưới đây là câu khiến?",
-      "options": {
-        "A": "Ôi, chúng em thật đáng yêu!",
-        "B": "Chúng em có nhớ đội mũ khi ra nắng không?",
-        "C": "Chúng em nhớ đội mũ khi ra nắng.",
-        "D": "Chúng em, nhớ đội mũ khi ra nắng!"
+        "A": "Cô giáo hướng dẫn các bạn học sinh xếp lại bàn ghế cuối buổi học.",
+        "B": "Các bạn có muốn giúp cô xếp lại bàn ghế cho gọn gàng không?",
+        "C": "Ôi, lớp học sau khi quét dọn trông mới tinh tươm làm sao!",
+        "D": "Cô giáo mỉm cười bảo: \"Các em hãy giúp cô xếp lại bàn ghế cho thẳng hàng nào!\""
       },
       "answer": "D",
-      "explanation": "Câu khiến dùng để yêu cầu, đề nghị hoặc khuyên bảo.",
-      "questionId": "k3_c3_tn_1457"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_3",
-      "level": "CAP_3_VONG_HUONG",
-      "type": "TN",
-      "question": "Câu nào dưới đây là câu khiến?",
-      "options": {
-        "A": "Bầu trời, hãy giữ trật tự!",
-        "B": "Bầu trời hãy giữ trật tự.",
-        "C": "Bầu trời có hãy giữ trật tự không?",
-        "D": "Ôi, bầu trời thật đáng yêu!"
-      },
-      "answer": "A",
-      "explanation": "Câu khiến dùng để yêu cầu, đề nghị hoặc khuyên bảo.",
-      "questionId": "k3_c3_tn_1458"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_3",
-      "level": "CAP_3_VONG_HUONG",
-      "type": "TN",
-      "question": "Câu nào dưới đây là câu khiến?",
-      "options": {
-        "A": "Cô giáo giúp em xếp bàn ghế.",
-        "B": "Cô giáo có giúp em xếp bàn ghế không?",
-        "C": "Ôi, cô giáo thật đáng yêu!",
-        "D": "Cô giáo, giúp em xếp bàn ghế!"
-      },
-      "answer": "D",
-      "explanation": "Câu khiến dùng để yêu cầu, đề nghị hoặc khuyên bảo.",
+      "explanation": "Lời cô giáo có từ 'hãy', 'nào' dùng để yêu cầu, nhờ học sinh giúp đỡ, đây là câu khiến.",
       "questionId": "k3_c3_tn_1459"
     },
     {
@@ -7422,45 +7198,13 @@
       "type": "TN",
       "question": "Câu nào dưới đây là câu khiến?",
       "options": {
-        "A": "Đàn chim, hãy mở sách ra!",
-        "B": "Đàn chim có hãy mở sách ra không?",
-        "C": "Đàn chim hãy mở sách ra.",
-        "D": "Ôi, đàn chim thật đáng yêu!"
+        "A": "Bạn An hồ hởi rủ: \"Mai ơi, chúng mình cùng tưới nước cho luống rau này đi!\"",
+        "B": "Bạn Mai có thích trồng rau và chăm sóc cây xanh không?",
+        "C": "Bạn An và bạn Mai cùng nhau xách nước tưới cho luống rau xanh.",
+        "D": "Ôi, luống rau cải non của lớp mình xanh mơn mởn!"
       },
       "answer": "A",
-      "explanation": "Câu khiến dùng để yêu cầu, đề nghị hoặc khuyên bảo.",
-      "questionId": "k3_c3_tn_1460"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_3",
-      "level": "CAP_3_VONG_HUONG",
-      "type": "TN",
-      "question": "Câu nào dưới đây là câu khiến?",
-      "options": {
-        "A": "Cánh đồng có đừng chạy ngoài hành lang không?",
-        "B": "Ôi, cánh đồng thật đáng yêu!",
-        "C": "Cánh đồng, đừng chạy ngoài hành lang!",
-        "D": "Cánh đồng đừng chạy ngoài hành lang."
-      },
-      "answer": "C",
-      "explanation": "Câu khiến dùng để yêu cầu, đề nghị hoặc khuyên bảo.",
-      "questionId": "k3_c3_tn_1461"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_3",
-      "level": "CAP_3_VONG_HUONG",
-      "type": "TN",
-      "question": "Câu nào dưới đây là câu khiến?",
-      "options": {
-        "A": "Bạn Mai, cùng chăm sóc cây!",
-        "B": "Bạn Mai cùng chăm sóc cây.",
-        "C": "Bạn Mai có cùng chăm sóc cây không?",
-        "D": "Ôi, bạn mai thật đáng yêu!"
-      },
-      "answer": "A",
-      "explanation": "Câu khiến dùng để yêu cầu, đề nghị hoặc khuyên bảo.",
+      "explanation": "Lời rủ của bạn An có từ cầu khiến 'cùng... đi!', dùng để đề nghị bạn cùng làm việc, đây là câu khiến.",
       "questionId": "k3_c3_tn_1462"
     },
     {
@@ -7480,54 +7224,6 @@
       "questionId": "k3_c3_tn_1463"
     },
     {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_3",
-      "level": "CAP_3_VONG_HUONG",
-      "type": "TN",
-      "question": "Câu nào dưới đây là câu khiến?",
-      "options": {
-        "A": "Các bác nông dân nhớ đội mũ khi ra nắng.",
-        "B": "Các bác nông dân có nhớ đội mũ khi ra nắng không?",
-        "C": "Ôi, các bác nông dân thật đáng yêu!",
-        "D": "Các bác nông dân, nhớ đội mũ khi ra nắng!"
-      },
-      "answer": "D",
-      "explanation": "Câu khiến dùng để yêu cầu, đề nghị hoặc khuyên bảo.",
-      "questionId": "k3_c3_tn_1464"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_3",
-      "level": "CAP_3_VONG_HUONG",
-      "type": "TN",
-      "question": "Câu nào dưới đây là câu khiến?",
-      "options": {
-        "A": "Ôi, chú mèo thật đáng yêu!",
-        "B": "Chú mèo có hãy giữ trật tự không?",
-        "C": "Chú mèo hãy giữ trật tự.",
-        "D": "Chú mèo, hãy giữ trật tự!"
-      },
-      "answer": "D",
-      "explanation": "Câu khiến dùng để yêu cầu, đề nghị hoặc khuyên bảo.",
-      "questionId": "k3_c3_tn_1465"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_3",
-      "level": "CAP_3_VONG_HUONG",
-      "type": "TN",
-      "question": "Câu nào dưới đây là câu khiến?",
-      "options": {
-        "A": "Ôi, dòng sông thật đáng yêu!",
-        "B": "Dòng sông giúp em xếp bàn ghế.",
-        "C": "Dòng sông, giúp em xếp bàn ghế!",
-        "D": "Dòng sông có giúp em xếp bàn ghế không?"
-      },
-      "answer": "C",
-      "explanation": "Câu khiến dùng để yêu cầu, đề nghị hoặc khuyên bảo.",
-      "questionId": "k3_c3_tn_1466"
-    },
-    {
       "type": "TN",
       "question": "Giải câu đố sau:\n\"Thân em trắng muốt tròn thon\nTan dần trên bảng dạy con chữ tròn\nThầy cô nắn nót từng dòng\nCho em tri thức bay vào tương lai - Là cái gì?\"",
       "options": {
@@ -7542,70 +7238,6 @@
       "grade": "KHOI_3",
       "level": "CAP_3_VONG_HUONG",
       "questionId": "k3_c3_tn_1467"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_3",
-      "level": "CAP_3_VONG_HUONG",
-      "type": "TN",
-      "question": "Câu nào dưới đây là câu khiến?",
-      "options": {
-        "A": "Những bông hoa hãy mở sách ra.",
-        "B": "Những bông hoa có hãy mở sách ra không?",
-        "C": "Ôi, những bông hoa thật đáng yêu!",
-        "D": "Những bông hoa, hãy mở sách ra!"
-      },
-      "answer": "D",
-      "explanation": "Câu khiến dùng để yêu cầu, đề nghị hoặc khuyên bảo.",
-      "questionId": "k3_c3_tn_1468"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_3",
-      "level": "CAP_3_VONG_HUONG",
-      "type": "TN",
-      "question": "Câu nào dưới đây là câu khiến?",
-      "options": {
-        "A": "Chúng em đừng chạy ngoài hành lang.",
-        "B": "Chúng em có đừng chạy ngoài hành lang không?",
-        "C": "Chúng em, đừng chạy ngoài hành lang!",
-        "D": "Ôi, chúng em thật đáng yêu!"
-      },
-      "answer": "C",
-      "explanation": "Câu khiến dùng để yêu cầu, đề nghị hoặc khuyên bảo.",
-      "questionId": "k3_c3_tn_1469"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_3",
-      "level": "CAP_3_VONG_HUONG",
-      "type": "TN",
-      "question": "Câu nào dưới đây là câu khiến?",
-      "options": {
-        "A": "Bầu trời, cùng chăm sóc cây!",
-        "B": "Bầu trời cùng chăm sóc cây.",
-        "C": "Ôi, bầu trời thật đáng yêu!",
-        "D": "Bầu trời có cùng chăm sóc cây không?"
-      },
-      "answer": "A",
-      "explanation": "Câu khiến dùng để yêu cầu, đề nghị hoặc khuyên bảo.",
-      "questionId": "k3_c3_tn_1470"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_3",
-      "level": "CAP_3_VONG_HUONG",
-      "type": "TN",
-      "question": "Câu nào dưới đây là câu khiến?",
-      "options": {
-        "A": "Cô giáo, nhớ đội mũ khi ra nắng!",
-        "B": "Ôi, cô giáo thật đáng yêu!",
-        "C": "Cô giáo nhớ đội mũ khi ra nắng.",
-        "D": "Cô giáo có nhớ đội mũ khi ra nắng không?"
-      },
-      "answer": "A",
-      "explanation": "Câu khiến dùng để yêu cầu, đề nghị hoặc khuyên bảo.",
-      "questionId": "k3_c3_tn_1471"
     },
     {
       "type": "TN",
@@ -7628,47 +7260,15 @@
       "grade": "KHOI_3",
       "level": "CAP_3_VONG_HUONG",
       "type": "TN",
-      "question": "Câu nào dưới đây là câu khiến?",
-      "options": {
-        "A": "Đàn chim có hãy giữ trật tự không?",
-        "B": "Đàn chim, hãy giữ trật tự!",
-        "C": "Ôi, đàn chim thật đáng yêu!",
-        "D": "Đàn chim hãy giữ trật tự."
-      },
-      "answer": "B",
-      "explanation": "Câu khiến dùng để yêu cầu, đề nghị hoặc khuyên bảo.",
-      "questionId": "k3_c3_tn_1473"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_3",
-      "level": "CAP_3_VONG_HUONG",
-      "type": "TN",
-      "question": "Câu nào dưới đây là câu khiến?",
-      "options": {
-        "A": "Cánh đồng giúp em xếp bàn ghế.",
-        "B": "Cánh đồng, giúp em xếp bàn ghế!",
-        "C": "Ôi, cánh đồng thật đáng yêu!",
-        "D": "Cánh đồng có giúp em xếp bàn ghế không?"
-      },
-      "answer": "B",
-      "explanation": "Câu khiến dùng để yêu cầu, đề nghị hoặc khuyên bảo.",
-      "questionId": "k3_c3_tn_1474"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_3",
-      "level": "CAP_3_VONG_HUONG",
-      "type": "TN",
       "question": "Câu nào dưới đây là câu cảm?",
       "options": {
-        "A": "Ôi, bầu trời đẹp quá!",
-        "B": "Hãy ngắm bầu trời!",
-        "C": "Bầu trời có đẹp không?",
-        "D": "Bầu trời đẹp quá."
+        "A": "Ôi, bầu trời mùa thu hôm nay mới trong xanh và đẹp làm sao!",
+        "B": "Cả lớp hãy ngước nhìn lên bầu trời mùa thu trong xanh nào!",
+        "C": "Bầu trời buổi chiều hôm nay có nhiều mây trắng không?",
+        "D": "Bầu trời buổi sớm mai trong veo không gợn một bóng mây."
       },
       "answer": "A",
-      "explanation": "Câu cảm bộc lộ cảm xúc.",
+      "explanation": "Câu A chứa từ cảm thán 'Ôi', 'mới... làm sao!' để bộc lộ cảm xúc khen ngợi vẻ đẹp bầu trời, đây là câu cảm.",
       "questionId": "k3_c3_tn_1475"
     },
     {
@@ -7678,13 +7278,13 @@
       "type": "TN",
       "question": "Câu nào dưới đây là câu cảm?",
       "options": {
-        "A": "Khu vườn thật yên bình.",
-        "B": "Ôi, khu vườn thật yên bình!",
-        "C": "Hãy ngắm khu vườn!",
-        "D": "Khu vườn có đẹp không?"
+        "A": "Sáng sớm, khu vườn sau nhà em tràn ngập tiếng chim hót líu lo.",
+        "B": "Chao ôi, khu vườn buổi sớm mai thật là yên bình và tĩnh lặng!",
+        "C": "Bạn có thích đi dạo trong khu vườn rợp bóng cây xanh không?",
+        "D": "Các bạn hãy cùng nhau giữ gìn khu vườn luôn xanh tươi nhé!"
       },
       "answer": "B",
-      "explanation": "Câu cảm bộc lộ cảm xúc.",
+      "explanation": "Câu B chứa từ cảm thán 'Chao ôi', 'thật là...!' bộc lộ cảm xúc trước sự yên bình của khu vườn, đây là câu cảm.",
       "questionId": "k3_c3_tn_1476"
     },
     {
@@ -7694,30 +7294,14 @@
       "type": "TN",
       "question": "Câu nào dưới đây là câu cảm?",
       "options": {
-        "A": "Mái tóc của bạn có đẹp không?",
-        "B": "Hãy ngắm mái tóc của bạn!",
-        "C": "Ôi, mái tóc của bạn trong veo biết mấy!",
-        "D": "Mái tóc của bạn trong veo biết mấy."
+        "A": "Mái tóc dài của bạn Lan luôn được buộc gọn gàng bằng chiếc nơ xinh.",
+        "B": "Mái tóc của bạn có đen và mượt mà không?",
+        "C": "Ôi, mái tóc của bạn đen nhánh và óng ả biết mấy!",
+        "D": "Bạn hãy chải lại mái tóc cho thật mượt mà và ngay ngắn nhé!"
       },
       "answer": "C",
-      "explanation": "Câu cảm bộc lộ cảm xúc.",
+      "explanation": "Câu C chứa từ cảm thán 'Ôi', 'biết mấy!' bộc lộ sự khen ngợi vẻ đẹp mái tóc, đây là câu cảm.",
       "questionId": "k3_c3_tn_1477"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_3",
-      "level": "CAP_3_VONG_HUONG",
-      "type": "TN",
-      "question": "Câu nào dưới đây là câu cảm?",
-      "options": {
-        "A": "Ôi, dòng sông đẹp quá!",
-        "B": "Hãy ngắm dòng sông!",
-        "C": "Dòng sông có đẹp không?",
-        "D": "Dòng sông đẹp quá."
-      },
-      "answer": "A",
-      "explanation": "Câu cảm bộc lộ cảm xúc.",
-      "questionId": "k3_c3_tn_1478"
     },
     {
       "type": "TN",
@@ -7736,22 +7320,6 @@
       "questionId": "k3_c3_tn_1479"
     },
     {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_3",
-      "level": "CAP_3_VONG_HUONG",
-      "type": "TN",
-      "question": "Câu nào dưới đây là câu cảm?",
-      "options": {
-        "A": "Đêm trăng thật yên bình.",
-        "B": "Ôi, đêm trăng thật yên bình!",
-        "C": "Đêm trăng có đẹp không?",
-        "D": "Hãy ngắm đêm trăng!"
-      },
-      "answer": "B",
-      "explanation": "Câu cảm bộc lộ cảm xúc.",
-      "questionId": "k3_c3_tn_1480"
-    },
-    {
       "type": "TN",
       "question": "Giải câu đố đồ vật sau:\n\"Tấm vải mềm mại ấm êm\nMùa đông giá rét đắp lên thân mình\nGiữ cho giấc ngủ an lành\nĐón bình minh dậy ấm tình mẹ ru - Là cái gì?\"",
       "options": {
@@ -7766,22 +7334,6 @@
       "grade": "KHOI_3",
       "level": "CAP_3_VONG_HUONG",
       "questionId": "k3_c3_tn_1481"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_3",
-      "level": "CAP_3_VONG_HUONG",
-      "type": "TN",
-      "question": "Câu nào dưới đây là câu cảm?",
-      "options": {
-        "A": "Hãy ngắm bông hoa!",
-        "B": "Ôi, bông hoa trong veo biết mấy!",
-        "C": "Bông hoa có đẹp không?",
-        "D": "Bông hoa trong veo biết mấy."
-      },
-      "answer": "B",
-      "explanation": "Câu cảm bộc lộ cảm xúc.",
-      "questionId": "k3_c3_tn_1482"
     },
     {
       "type": "TN",
@@ -7868,15 +7420,15 @@
       "grade": "KHOI_3",
       "level": "CAP_3_VONG_HUONG",
       "type": "TN",
-      "question": "Câu nào dưới đây là câu hỏi?",
+      "question": "Câu nào dưới đây là câu hỏi?\nChọn câu có nội dung và dấu câu phù hợp với mục đích hỏi.",
       "options": {
-        "A": "Bạn Mai đang đọc sách.",
-        "B": "Bạn Mai đang đọc sách?",
-        "C": "Hãy xem bạn mai đang đọc sách.",
-        "D": "Bạn Mai đang đọc sách!"
+        "A": "Bạn Mai đang chăm chú đọc một cuốn sách hay trong thư viện.",
+        "B": "Bạn Mai đang đọc cuốn sách gì mà say sưa thế?",
+        "C": "Hãy mở cuốn sách bài tập Tiếng Việt ra để chúng mình cùng học bài nào!",
+        "D": "Ôi, bạn Mai đọc sách nhanh và nhớ bài giỏi quá!"
       },
       "answer": "B",
-      "explanation": "Câu hỏi dùng để hỏi và thường kết thúc bằng dấu hỏi.",
+      "explanation": "Câu B dùng để hỏi thông tin với từ nghi vấn 'gì... thế?' và kết thúc bằng dấu chấm hỏi, đây là câu hỏi.",
       "questionId": "k3_c3_tn_1488"
     },
     {
@@ -7900,15 +7452,15 @@
       "grade": "KHOI_3",
       "level": "CAP_3_VONG_HUONG",
       "type": "TN",
-      "question": "Câu nào dưới đây là câu hỏi?\nChọn câu có dấu kết thúc phù hợp với mục đích hỏi.",
+      "question": "Câu nào dưới đây là câu hỏi?\nChọn câu có nội dung và dấu câu phù hợp với mục đích hỏi.",
       "options": {
-        "A": "Các bác nông dân nằm sưởi nắng!",
-        "B": "Hãy xem các bác nông dân nằm sưởi nắng.",
-        "C": "Các bác nông dân nằm sưởi nắng?",
-        "D": "Các bác nông dân nằm sưởi nắng."
+        "A": "Các bác nông dân đang hăng say gặt lúa trên cánh đồng chín vàng.",
+        "B": "Ôi, hình ảnh các bác nông dân làm việc trên cánh đồng đẹp biết bao!",
+        "C": "Các bác nông dân đang làm việc gì trên cánh đồng thế bạn?",
+        "D": "Chúng mình hãy bày tỏ lòng biết ơn đối với các bác nông dân nhé!"
       },
       "answer": "C",
-      "explanation": "Câu hỏi dùng để hỏi và thường kết thúc bằng dấu hỏi.",
+      "explanation": "Câu C dùng để hỏi thông tin với từ nghi vấn 'làm việc gì... thế bạn?' và dấu chấm hỏi, đây là câu hỏi.",
       "questionId": "k3_c3_tn_1490"
     },
     {
@@ -7916,31 +7468,15 @@
       "grade": "KHOI_3",
       "level": "CAP_3_VONG_HUONG",
       "type": "TN",
-      "question": "Câu nào dưới đây là câu hỏi?\nChọn câu có dấu kết thúc phù hợp với mục đích hỏi.",
+      "question": "Câu nào dưới đây là câu hỏi?\nChọn câu có nội dung và dấu câu phù hợp với mục đích hỏi.",
       "options": {
-        "A": "Hãy xem chú mèo nở rực rỡ.",
-        "B": "Chú mèo nở rực rỡ.",
-        "C": "Chú mèo nở rực rỡ!",
-        "D": "Chú mèo nở rực rỡ?"
-      },
-      "answer": "D",
-      "explanation": "Câu hỏi dùng để hỏi và thường kết thúc bằng dấu hỏi.",
-      "questionId": "k3_c3_tn_1491"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_3",
-      "level": "CAP_3_VONG_HUONG",
-      "type": "TN",
-      "question": "Câu nào dưới đây là câu hỏi?\nChọn câu có dấu kết thúc phù hợp với mục đích hỏi.",
-      "options": {
-        "A": "Hãy xem dòng sông xanh biếc sau mưa.",
-        "B": "Dòng sông xanh biếc sau mưa?",
-        "C": "Dòng sông xanh biếc sau mưa!",
-        "D": "Dòng sông xanh biếc sau mưa."
+        "A": "Dòng sông quê em luôn xanh mát và êm đềm trôi theo năm tháng.",
+        "B": "Nước dòng sông quê em vào mùa mưa lũ có màu gì?",
+        "C": "Ôi, mặt nước dòng sông chiều nay phẳng lặng và trong vắt như một tấm gương soi!",
+        "D": "Các bạn nhỏ đừng đến gần bờ sông tắm khi không có người lớn đi cùng nhé!"
       },
       "answer": "B",
-      "explanation": "Câu hỏi dùng để hỏi và thường kết thúc bằng dấu hỏi.",
+      "explanation": "Câu B dùng để hỏi với từ nghi vấn 'màu gì?' và kết thúc bằng dấu chấm hỏi, đây là câu hỏi.",
       "questionId": "k3_c3_tn_1492"
     },
     {
@@ -7948,63 +7484,15 @@
       "grade": "KHOI_3",
       "level": "CAP_3_VONG_HUONG",
       "type": "TN",
-      "question": "Câu nào dưới đây là câu hỏi?\nChọn câu có dấu kết thúc phù hợp với mục đích hỏi.",
+      "question": "Câu nào dưới đây là câu hỏi?\nChọn câu có nội dung và dấu câu phù hợp với mục đích hỏi.",
       "options": {
-        "A": "Những bông hoa bay về tổ!",
-        "B": "Hãy xem những bông hoa bay về tổ.",
-        "C": "Những bông hoa bay về tổ?",
-        "D": "Những bông hoa bay về tổ."
-      },
-      "answer": "C",
-      "explanation": "Câu hỏi dùng để hỏi và thường kết thúc bằng dấu hỏi.",
-      "questionId": "k3_c3_tn_1493"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_3",
-      "level": "CAP_3_VONG_HUONG",
-      "type": "TN",
-      "question": "Câu nào dưới đây là câu hỏi?\nChọn câu có dấu kết thúc phù hợp với mục đích hỏi.",
-      "options": {
-        "A": "Chúng em đang đọc sách.",
-        "B": "Hãy xem chúng em đang đọc sách.",
-        "C": "Chúng em đang đọc sách!",
-        "D": "Chúng em đang đọc sách?"
-      },
-      "answer": "D",
-      "explanation": "Câu hỏi dùng để hỏi và thường kết thúc bằng dấu hỏi.",
-      "questionId": "k3_c3_tn_1494"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_3",
-      "level": "CAP_3_VONG_HUONG",
-      "type": "TN",
-      "question": "Câu nào dưới đây là câu hỏi?\nChọn câu có dấu kết thúc phù hợp với mục đích hỏi.",
-      "options": {
-        "A": "Bầu trời nằm sưởi nắng.",
-        "B": "Hãy xem bầu trời nằm sưởi nắng.",
-        "C": "Bầu trời nằm sưởi nắng!",
-        "D": "Bầu trời nằm sưởi nắng?"
-      },
-      "answer": "D",
-      "explanation": "Câu hỏi dùng để hỏi và thường kết thúc bằng dấu hỏi.",
-      "questionId": "k3_c3_tn_1495"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_3",
-      "level": "CAP_3_VONG_HUONG",
-      "type": "TN",
-      "question": "Câu nào dưới đây là câu hỏi?\nChọn câu có dấu kết thúc phù hợp với mục đích hỏi.",
-      "options": {
-        "A": "Hãy xem cô giáo nở rực rỡ.",
-        "B": "Cô giáo nở rực rỡ?",
-        "C": "Cô giáo nở rực rỡ!",
-        "D": "Cô giáo nở rực rỡ."
+        "A": "Cô giáo chủ nhiệm đang say sưa giảng cho cả lớp nghe bài tập đọc đầy xúc động.",
+        "B": "Hôm nay cô giáo đã dạy cho các em bài thơ hay câu chuyện gì?",
+        "C": "Ôi, giọng đọc bài của cô giáo sao mà truyền cảm và ấm áp đến thế!",
+        "D": "Các em hãy chú ý lắng nghe cô giáo hướng dẫn làm bài tập nhóm nhé!"
       },
       "answer": "B",
-      "explanation": "Câu hỏi dùng để hỏi và thường kết thúc bằng dấu hỏi.",
+      "explanation": "Câu B dùng để hỏi với từ nghi vấn 'bài thơ hay câu chuyện gì?' và dấu chấm hỏi, đây là câu hỏi.",
       "questionId": "k3_c3_tn_1496"
     },
     {
@@ -8044,48 +7532,16 @@
       "grade": "KHOI_3",
       "level": "CAP_3_VONG_HUONG",
       "type": "TN",
-      "question": "Câu nào dưới đây là câu hỏi?\nChọn câu có dấu kết thúc phù hợp với mục đích hỏi.",
+      "question": "Câu nào dưới đây là câu hỏi?\nChọn câu có nội dung và dấu câu phù hợp với mục đích hỏi.",
       "options": {
-        "A": "Đàn chim xanh biếc sau mưa!",
-        "B": "Hãy xem đàn chim xanh biếc sau mưa.",
-        "C": "Đàn chim xanh biếc sau mưa.",
-        "D": "Đàn chim xanh biếc sau mưa?"
-      },
-      "answer": "D",
-      "explanation": "Câu hỏi dùng để hỏi và thường kết thúc bằng dấu hỏi.",
-      "questionId": "k3_c3_tn_1499"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_3",
-      "level": "CAP_3_VONG_HUONG",
-      "type": "TN",
-      "question": "Câu nào dưới đây là câu hỏi?\nChọn câu có dấu kết thúc phù hợp với mục đích hỏi.",
-      "options": {
-        "A": "Cánh đồng bay về tổ!",
-        "B": "Cánh đồng bay về tổ?",
-        "C": "Cánh đồng bay về tổ.",
-        "D": "Hãy xem cánh đồng bay về tổ."
+        "A": "Cánh đồng lúa quê hương em đang vào mùa thu hoạch rộn rã tiếng máy gặt đập.",
+        "B": "Cánh đồng lúa quê bạn mùa này đã chín vàng rực rỡ chưa?",
+        "C": "Chao ôi, cánh đồng lúa chín thoang thoảng hương thơm ngọt ngào của rơm mới!",
+        "D": "Các bạn hãy ra ngắm nhìn bức tranh làng quê thanh bình lúc hoàng hôn buông xuống nào!"
       },
       "answer": "B",
-      "explanation": "Câu hỏi dùng để hỏi và thường kết thúc bằng dấu hỏi.",
+      "explanation": "Câu B dùng để hỏi với từ nghi vấn 'đã... chưa?' và kết thúc bằng dấu chấm hỏi, đây là câu hỏi.",
       "questionId": "k3_c3_tn_1500"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_3",
-      "level": "CAP_3_VONG_HUONG",
-      "type": "TN",
-      "question": "Câu nào dưới đây là câu hỏi?\nChọn câu có dấu kết thúc phù hợp với mục đích hỏi.",
-      "options": {
-        "A": "Bạn Mai đang đọc sách!",
-        "B": "Hãy xem bạn mai đang đọc sách.",
-        "C": "Bạn Mai đang đọc sách.",
-        "D": "Bạn Mai đang đọc sách?"
-      },
-      "answer": "D",
-      "explanation": "Câu hỏi dùng để hỏi và thường kết thúc bằng dấu hỏi.",
-      "questionId": "k3_c3_tn_1501"
     },
     {
       "type": "TN",
@@ -8679,22 +8135,6 @@
       "answer": "D",
       "explanation": "Sự vật được gán hành động hoặc đặc điểm của con người.",
       "questionId": "k3_c3_tn_1539"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_3",
-      "level": "CAP_3_VONG_HUONG",
-      "type": "TN",
-      "question": "Câu nào dưới đây miêu tả thiên nhiên có sử dụng biện pháp nhân hóa?",
-      "options": {
-        "A": "Ông mặt trời xuất hiện vào buổi sáng.",
-        "B": "Ông mặt trời mỉm cười chào buổi sáng.",
-        "C": "Ông mặt trời nằm ở phía xa.",
-        "D": "Ông mặt trời có màu xanh."
-      },
-      "answer": "B",
-      "explanation": "Sự vật được gán hành động hoặc đặc điểm của con người.",
-      "questionId": "k3_c3_tn_1540"
     },
     {
       "type": "DT",
@@ -11136,22 +10576,6 @@
       "questionId": "k3_c3_tn_1691"
     },
     {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_3",
-      "level": "CAP_3_VONG_HUONG",
-      "type": "TN",
-      "question": "Xét câu sau và chọn từ phù hợp:\n______ học bài xong, em mới đi chơi.\nHãy căn cứ vào nội dung câu để chọn.",
-      "options": {
-        "A": "Nếu",
-        "B": "Mặc dù",
-        "C": "Sau khi",
-        "D": "Bởi vì"
-      },
-      "answer": "C",
-      "explanation": "“Sau khi” chỉ trình tự thời gian.",
-      "questionId": "k3_c3_tn_1692"
-    },
-    {
       "type": "TN",
       "question": "Giải câu đố mẹo sau:\n\"Bánh gì hình tròn nhưng không thể ăn được, nếu thiếu nó thì xe đạp của em không thể chạy trên đường?\"",
       "options": {
@@ -11198,22 +10622,6 @@
       "grade": "KHOI_3",
       "level": "CAP_3_VONG_HUONG",
       "questionId": "k3_c3_tn_1695"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_3",
-      "level": "CAP_3_VONG_HUONG",
-      "type": "TN",
-      "question": "Xét câu sau và chọn từ phù hợp:\n______ học bài xong, em mới đi chơi.\nChọn phương án diễn đạt chính xác nhất.",
-      "options": {
-        "A": "Nếu",
-        "B": "Mặc dù",
-        "C": "Sau khi",
-        "D": "Bởi vì"
-      },
-      "answer": "C",
-      "explanation": "“Sau khi” chỉ trình tự thời gian.",
-      "questionId": "k3_c3_tn_1696"
     },
     {
       "type": "TN",
@@ -11921,54 +11329,6 @@
       "questionId": "k3_c3_tn_1741"
     },
     {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_3",
-      "level": "CAP_3_VONG_HUONG",
-      "type": "TN",
-      "question": "Bạn cùng lớp quên mang thước. Em nên làm gì?\nChọn cách ứng xử lịch sự và phù hợp.",
-      "options": {
-        "A": "Bỏ mặc bạn",
-        "B": "Giấu thước",
-        "C": "Chê cười bạn",
-        "D": "Cho bạn mượn thước nếu có thể"
-      },
-      "answer": "D",
-      "explanation": "Cách ứng xử phù hợp thể hiện sự lễ phép, trách nhiệm và biết quan tâm.",
-      "questionId": "k3_c3_tn_1742"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_3",
-      "level": "CAP_3_VONG_HUONG",
-      "type": "TN",
-      "question": "Em được ông bà tặng quà. Em nên nói gì?\nChọn cách ứng xử lịch sự và phù hợp.",
-      "options": {
-        "A": "Cháu không cần đâu!",
-        "B": "Đưa thêm quà đây!",
-        "C": "Cháu cảm ơn ông bà ạ!",
-        "D": "Không nói gì"
-      },
-      "answer": "C",
-      "explanation": "Cách ứng xử phù hợp thể hiện sự lễ phép, trách nhiệm và biết quan tâm.",
-      "questionId": "k3_c3_tn_1743"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_3",
-      "level": "CAP_3_VONG_HUONG",
-      "type": "TN",
-      "question": "Em vô tình làm rơi sách của bạn. Em nên nói gì?\nChọn cách ứng xử lịch sự và phù hợp.",
-      "options": {
-        "A": "Tại bạn để đó!",
-        "B": "Mình không biết.",
-        "C": "Kệ đi!",
-        "D": "Mình xin lỗi, để mình nhặt giúp bạn."
-      },
-      "answer": "D",
-      "explanation": "Cách ứng xử phù hợp thể hiện sự lễ phép, trách nhiệm và biết quan tâm.",
-      "questionId": "k3_c3_tn_1744"
-    },
-    {
       "type": "DT",
       "question": "Điền từ thích hợp vào chỗ trống:\n\"Loài chuột không sợ mèo, luôn gắn liền với máy vi tính của học sinh trong giờ tin học là chuột (...)\"",
       "blankAnswer": "máy tính",
@@ -11980,86 +11340,6 @@
       "questionId": "k3_c3_dt_1745"
     },
     {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_3",
-      "level": "CAP_3_VONG_HUONG",
-      "type": "TN",
-      "question": "Bạn mới chuyển đến lớp còn bỡ ngỡ. Em nên làm gì?\nChọn cách ứng xử lịch sự và phù hợp.",
-      "options": {
-        "A": "Không chơi với bạn",
-        "B": "Giấu đồ dùng",
-        "C": "Trêu chọc bạn",
-        "D": "Chủ động làm quen và giúp bạn"
-      },
-      "answer": "D",
-      "explanation": "Cách ứng xử phù hợp thể hiện sự lễ phép, trách nhiệm và biết quan tâm.",
-      "questionId": "k3_c3_tn_1746"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_3",
-      "level": "CAP_3_VONG_HUONG",
-      "type": "TN",
-      "question": "Em thấy vòi nước ở trường chưa khóa. Em nên làm gì?\nChọn cách ứng xử lịch sự và phù hợp.",
-      "options": {
-        "A": "Khóa vòi nước lại",
-        "B": "Để nước chảy mãi",
-        "C": "Bỏ đi",
-        "D": "Mở vòi lớn hơn"
-      },
-      "answer": "A",
-      "explanation": "Cách ứng xử phù hợp thể hiện sự lễ phép, trách nhiệm và biết quan tâm.",
-      "questionId": "k3_c3_tn_1747"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_3",
-      "level": "CAP_3_VONG_HUONG",
-      "type": "TN",
-      "question": "Bạn đạt điểm cao hơn em. Em nên làm gì?\nChọn cách ứng xử lịch sự và phù hợp.",
-      "options": {
-        "A": "Chê bai bạn",
-        "B": "Ghen ghét bạn",
-        "C": "Xé bài",
-        "D": "Chúc mừng và học hỏi bạn"
-      },
-      "answer": "D",
-      "explanation": "Cách ứng xử phù hợp thể hiện sự lễ phép, trách nhiệm và biết quan tâm.",
-      "questionId": "k3_c3_tn_1748"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_3",
-      "level": "CAP_3_VONG_HUONG",
-      "type": "TN",
-      "question": "Em mượn sách thư viện. Em cần làm gì?\nChọn cách ứng xử lịch sự và phù hợp.",
-      "options": {
-        "A": "Không trả sách",
-        "B": "Vẽ vào sách",
-        "C": "Giữ gìn và trả đúng hạn",
-        "D": "Làm rách trang"
-      },
-      "answer": "C",
-      "explanation": "Cách ứng xử phù hợp thể hiện sự lễ phép, trách nhiệm và biết quan tâm.",
-      "questionId": "k3_c3_tn_1749"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_3",
-      "level": "CAP_3_VONG_HUONG",
-      "type": "TN",
-      "question": "Người lớn đang nói chuyện, em muốn hỏi. Em nên làm gì?\nChọn cách ứng xử lịch sự và phù hợp.",
-      "options": {
-        "A": "Kéo áo liên tục",
-        "B": "La hét",
-        "C": "Chen ngang",
-        "D": "Xin phép và chờ đến lượt"
-      },
-      "answer": "D",
-      "explanation": "Cách ứng xử phù hợp thể hiện sự lễ phép, trách nhiệm và biết quan tâm.",
-      "questionId": "k3_c3_tn_1750"
-    },
-    {
       "type": "DT",
       "question": "Điền từ thích hợp vào chỗ trống:\n\"Lỗ nhỏ xâu sợi chỉ trên thân cây kim may áo gọi là (...) kim.\"",
       "blankAnswer": "mắt",
@@ -12069,38 +11349,6 @@
       "grade": "KHOI_3",
       "level": "CAP_3_VONG_HUONG",
       "questionId": "k3_c3_dt_1751"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_3",
-      "level": "CAP_3_VONG_HUONG",
-      "type": "TN",
-      "question": "Em thấy sân trường có rác. Em nên làm gì?\nChọn cách ứng xử lịch sự và phù hợp.",
-      "options": {
-        "A": "Nhặt rác bỏ vào thùng",
-        "B": "Đá rác đi nơi khác",
-        "C": "Giẫm lên rác",
-        "D": "Vứt thêm rác"
-      },
-      "answer": "A",
-      "explanation": "Cách ứng xử phù hợp thể hiện sự lễ phép, trách nhiệm và biết quan tâm.",
-      "questionId": "k3_c3_tn_1752"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_3",
-      "level": "CAP_3_VONG_HUONG",
-      "type": "TN",
-      "question": "Khi đi qua đường, em nên làm gì?\nChọn cách ứng xử lịch sự và phù hợp.",
-      "options": {
-        "A": "Nhắm mắt bước qua",
-        "B": "Quan sát và đi đúng nơi quy định",
-        "C": "Chạy bất kể xe",
-        "D": "Vừa đi vừa đùa"
-      },
-      "answer": "B",
-      "explanation": "Cách ứng xử phù hợp thể hiện sự lễ phép, trách nhiệm và biết quan tâm.",
-      "questionId": "k3_c3_tn_1753"
     },
     {
       "type": "DT",
@@ -12145,22 +11393,6 @@
       "grade": "KHOI_3",
       "level": "CAP_3_VONG_HUONG",
       "questionId": "k3_c3_dt_1757"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_3",
-      "level": "CAP_3_VONG_HUONG",
-      "type": "TN",
-      "question": "Bạn đạt điểm cao hơn em. Em nên làm gì?\nChọn cách ứng xử lịch sự và phù hợp.\nHãy căn cứ vào nội dung câu để chọn.",
-      "options": {
-        "A": "Chê bai bạn",
-        "B": "Ghen ghét bạn",
-        "C": "Xé bài",
-        "D": "Chúc mừng và học hỏi bạn"
-      },
-      "answer": "D",
-      "explanation": "Cách ứng xử phù hợp thể hiện sự lễ phép, trách nhiệm và biết quan tâm.",
-      "questionId": "k3_c3_tn_1758"
     },
     {
       "type": "DT",

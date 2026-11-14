@@ -716,10 +716,10 @@
         "A": "cây bàng",
         "B": "nhà cửa",
         "C": "bàn ghế",
-        "D": "xe máy"
+        "D": "quần áo"
       },
       "answer": "A",
-      "explanation": "'cây bàng' là từ ghép chính phụ (có tiếng chính và tiếng phụ bổ sung nghĩa). Các từ còn lại là từ ghép đẳng lập."
+      "explanation": "'cây bàng' là từ ghép chính phụ (tiếng chính 'cây' kết hợp tiếng phụ 'bàng' để phân loại). Các từ 'nhà cửa', 'bàn ghế', 'quần áo' đều là từ ghép đẳng lập."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -1355,7 +1355,7 @@
       "elements": [
         "Những rặng tre xanh",
         "kiên cường",
-        "gió bão.",
+        "gió bão",
         "nghiêng mình",
         "chắn"
       ],
@@ -1514,7 +1514,7 @@
         "đọc bản",
         "Bác Hồ",
         "Tuyên ngôn Độc lập",
-        "Quảng trường Ba Đình.",
+        "Quảng trường Ba Đình",
         "tại"
       ],
       "answer": "Bác Hồ đọc bản Tuyên ngôn Độc lập tại Quảng trường Ba Đình.",
@@ -1547,7 +1547,7 @@
         "ba lần",
         "Quân dân nhà Trần",
         "giặc Nguyên Mông",
-        "xâm lược.",
+        "xâm lược",
         "đánh tan"
       ],
       "answer": "Quân dân nhà Trần ba lần đánh tan giặc Nguyên Mông xâm lược.",
@@ -1626,7 +1626,7 @@
         "cần rèn luyện",
         "Học sinh",
         "tính trung thực",
-        "vượt khó.",
+        "vượt khó",
         "và tinh thần"
       ],
       "answer": "Học sinh cần rèn luyện tính trung thực và tinh thần vượt khó.",
@@ -1642,7 +1642,7 @@
       "elements": [
         "vô cùng cao quý",
         "Lòng dũng cảm",
-        "con người.",
+        "con người",
         "là phẩm chất",
         "của"
       ],
@@ -3812,10 +3812,10 @@
       "level": "CAP_4_VONG_TINH",
       "type": "DT",
       "questionId": "k4_c4_dt_005",
-      "question": "Điền quan hệ từ thích hợp vào chỗ trống trong câu sau: \"Nếu ngày mai trời nắng (...) lớp ta sẽ đi dã ngoại.\"",
+      "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu: \"Nếu ngày mai trời nắng (...) lớp ta sẽ đi dã ngoại.\"",
       "blankAnswer": "thì",
       "answer": "thì",
-      "explanation": "Câu văn sử dụng cặp quan hệ từ 'Nếu... thì...' biểu thị quan hệ Điều kiện (giả thiết) - Kết quả."
+      "explanation": "Câu văn sử dụng từ nối 'Nếu... thì...' biểu thị quan hệ Điều kiện (giả thiết) - Kết quả."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -3823,7 +3823,7 @@
       "level": "CAP_4_VONG_TINH",
       "type": "DT",
       "questionId": "k4_c4_dt_006",
-      "question": "Nhờ chăm chỉ rèn luyện .... Nam đã đạt giải cao trong kỳ thi.",
+      "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu: “Nhờ chăm chỉ rèn luyện (...) Nam đã đạt giải cao trong kỳ thi.”",
       "blankAnswer": "mà",
       "answer": "mà",
       "explanation": "Câu văn sử dụng cặp quan hệ từ 'Nhờ... mà...' biểu thị quan hệ Nguyên nhân tích cực - Kết quả."
@@ -3889,10 +3889,10 @@
       "level": "CAP_4_VONG_TINH",
       "type": "DT",
       "questionId": "k4_c4_dt_012",
-      "question": "Điền quan hệ từ thích hợp vào chỗ trống trong câu sau: \"Hễ gió mùa đông bắc tràn về (...) trời trở rét đậm.\"",
+      "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu: \"Hễ gió mùa đông bắc tràn về (...) trời trở rét đậm.\"",
       "blankAnswer": "thì",
       "answer": "thì",
-      "explanation": "Câu văn sử dụng cặp quan hệ từ 'Hễ... thì...' biểu thị quan hệ Điều kiện (giả thiết) - Kết quả."
+      "explanation": "Câu văn sử dụng từ nối 'Hễ... thì...' biểu thị quan hệ Điều kiện (giả thiết) - Kết quả."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -3900,10 +3900,10 @@
       "level": "CAP_4_VONG_TINH",
       "type": "DT",
       "questionId": "k4_c4_dt_013",
-      "question": "Điền quan hệ từ thích hợp vào chỗ trống trong câu sau: \"Mặc dù tuổi đã cao (...) ông nội vẫn say mê đọc sách báo.\"",
+      "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu: \"Mặc dù tuổi đã cao (...) ông nội vẫn say mê đọc sách báo.\"",
       "blankAnswer": "nhưng",
       "answer": "nhưng",
-      "explanation": "Câu văn sử dụng cặp quan hệ từ 'Mặc dù... nhưng...' biểu thị quan hệ Tương phản."
+      "explanation": "Câu văn sử dụng từ nối 'Mặc dù... nhưng...' biểu thị quan hệ Tương phản."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -3999,10 +3999,10 @@
       "level": "CAP_4_VONG_TINH",
       "type": "DT",
       "questionId": "k4_c4_dt_022",
-      "question": "Điền quan hệ từ thích hợp vào chỗ trống trong câu sau: \"Tuy gia cảnh khó khăn (...) bạn Lan luôn vượt khó vươn lên.\"",
+      "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu: \"Tuy gia cảnh khó khăn (...) bạn Lan luôn vượt khó vươn lên.\"",
       "blankAnswer": "nhưng",
       "answer": "nhưng",
-      "explanation": "Câu văn sử dụng cặp quan hệ từ 'Tuy... nhưng...' biểu thị quan hệ Tương phản."
+      "explanation": "Câu văn sử dụng từ nối 'Tuy... nhưng...' biểu thị quan hệ Tương phản."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -4032,10 +4032,10 @@
       "level": "CAP_4_VONG_TINH",
       "type": "DT",
       "questionId": "k4_c4_dt_025",
-      "question": "Điền quan hệ từ thích hợp vào chỗ trống trong câu sau: \"Trăng (...) lên cao, mặt biển càng thêm lấp lánh.\"",
+      "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu: \"Trăng (...) lên cao, mặt biển càng thêm lấp lánh.\"",
       "blankAnswer": "càng",
       "answer": "càng",
-      "explanation": "Câu văn sử dụng cặp quan hệ từ 'Càng... càng...' biểu thị quan hệ Hô ứng."
+      "explanation": "Câu văn sử dụng từ nối 'Càng... càng...' biểu thị quan hệ Hô ứng."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -4112,7 +4112,7 @@
       "question": "Uống nước nhớ ___?",
       "blankAnswer": "nguồn",
       "answer": "nguồn",
-      "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Uống nước nhớ nguồn\".",
+      "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Uống nước nhớ nguồn\"."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -4120,10 +4120,10 @@
       "level": "CAP_4_VONG_TINH",
       "type": "DT",
       "questionId": "k4_c4_dt_033",
-      "question": "Điền quan hệ từ thích hợp vào chỗ trống trong câu sau: \"Do chủ quan (...) bạn ấy đã làm sai bài toán.\"",
+      "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu: \"Do chủ quan (...) bạn ấy đã làm sai bài toán.\"",
       "blankAnswer": "nên",
       "answer": "nên",
-      "explanation": "Câu văn sử dụng cặp quan hệ từ 'Do... nên...' biểu thị quan hệ Nguyên nhân - Kết quả."
+      "explanation": "Câu văn sử dụng từ nối 'Do... nên...' biểu thị quan hệ Nguyên nhân - Kết quả."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -4147,7 +4147,6 @@
       "answer": "nâng",
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Chị ngã em nâng\". Anh chị em trong một nhà phải biết nâng đỡ, thương yêu, che chở cho nhau."
     },
-    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_4",
@@ -4165,7 +4164,7 @@
       "level": "CAP_4_VONG_TINH",
       "type": "DT",
       "questionId": "k4_c4_dt_038",
-      "question": "Hà không những học giỏi .... hát rất hay.",
+      "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu: “Hà không những học giỏi (...) hát rất hay.”",
       "blankAnswer": "mà còn",
       "answer": "mà còn",
       "explanation": "Câu văn sử dụng cặp quan hệ từ 'Không những... mà còn...' biểu thị quan hệ tăng tiến."
@@ -4198,10 +4197,10 @@
       "level": "CAP_4_VONG_TINH",
       "type": "DT",
       "questionId": "k4_c4_dt_041",
-      "question": "Điền quan hệ từ thích hợp vào chỗ trống trong câu sau: \"Vì thời tiết thuận lợi (...) vụ mùa năm nay bội thu.\"",
+      "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu: \"Vì thời tiết thuận lợi (...) vụ mùa năm nay bội thu.\"",
       "blankAnswer": "nên",
       "answer": "nên",
-      "explanation": "Câu văn sử dụng cặp quan hệ từ 'Vì... nên...' biểu thị quan hệ Nguyên nhân - Kết quả."
+      "explanation": "Câu văn sử dụng từ nối 'Vì... nên...' biểu thị quan hệ Nguyên nhân - Kết quả."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -4209,10 +4208,10 @@
       "level": "CAP_4_VONG_TINH",
       "type": "DT",
       "questionId": "k4_c4_dt_042",
-      "question": "Điền quan hệ từ thích hợp vào chỗ trống trong câu sau: \"(...) mưa to mà sấm chớp còn nổi lên dữ dội.\"",
+      "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu: \"(...) mưa to mà sấm chớp còn nổi lên dữ dội.\"",
       "blankAnswer": "Chẳng những",
       "answer": "Chẳng những",
-      "explanation": "Câu văn sử dụng cặp quan hệ từ 'Chẳng những... mà còn...' biểu thị quan hệ Tăng tiến."
+      "explanation": "Câu văn sử dụng từ nối 'Chẳng những... mà còn...' biểu thị quan hệ Tăng tiến."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -5750,15 +5749,15 @@
       "level": "CAP_4_VONG_TINH",
       "type": "TN",
       "questionId": "k4_c4_tn_085",
-      "question": "Trong ghi chép về chuyến đi, cụm từ nào gọi tên sự vật hoặc địa điểm: “Người thợ mộc chạm khắc hoa văn trên cánh cửa đình”?",
+      "question": "Trong câu: “Người thợ mộc chạm khắc hoa văn trên cánh cửa đình.”, từ ngữ nào dưới đây gọi tên sự vật hoặc địa điểm?",
       "options": {
-        "A": "rất chăm chỉ",
-        "B": "khảo sát",
-        "C": "ngọn hải đăng",
-        "D": "kiên cường"
+        "A": "chạm khắc",
+        "B": "cánh cửa đình",
+        "C": "rất khéo",
+        "D": "tỉ mỉ"
       },
-      "answer": "C",
-      "explanation": "“ngọn hải đăng” dùng để gọi tên sự vật/địa điểm nên là danh từ."
+      "answer": "B",
+      "explanation": "“cánh cửa đình” là danh từ chỉ sự vật/địa điểm. “chạm khắc” là động từ."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -5766,15 +5765,15 @@
       "level": "CAP_4_VONG_TINH",
       "type": "TN",
       "questionId": "k4_c4_tn_086",
-      "question": "Ở câu “Các bạn nhỏ ghi lại chuyện kể vào cuốn sổ tay”, từ/cụm từ nào biểu thị hoạt động?",
+      "question": "Ở câu “Các bạn nhỏ ghi lại chuyện kể vào cuốn sổ tay”, từ ngữ nào biểu thị hoạt động?",
       "options": {
-        "A": "người dẫn đường",
-        "B": "mênh mông",
-        "C": "ngọn hải đăng",
-        "D": "tìm hiểu"
+        "A": "cuốn sổ tay",
+        "B": "ghi lại",
+        "C": "chuyện kể",
+        "D": "các bạn nhỏ"
       },
-      "answer": "D",
-      "explanation": "“tìm hiểu” biểu thị hoạt động nên thuộc nhóm động từ."
+      "answer": "B",
+      "explanation": "“ghi lại” là động từ biểu thị hoạt động của các bạn nhỏ."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -5782,15 +5781,15 @@
       "level": "CAP_4_VONG_TINH",
       "type": "TN",
       "questionId": "k4_c4_tn_087",
-      "question": "Chọn tính từ phù hợp để nhận xét phẩm chất của nhân vật trong tình huống: đoàn khảo sát đo đạc chiều dài cây cầu bên bờ sông.",
+      "question": "Chọn tính từ phù hợp nhất để nhận xét tinh thần làm việc của nhân vật trong tình huống: đoàn khảo sát đo đạc chiều dài cây cầu bên bờ sông.",
       "options": {
-        "A": "ngọn đồi",
-        "B": "bảo vệ",
-        "C": "ấm áp",
-        "D": "ngọn hải đăng"
+        "A": "tận tụy",
+        "B": "xanh ngắt",
+        "C": "đo đạc",
+        "D": "dòng sông"
       },
-      "answer": "C",
-      "explanation": "“ấm áp” nêu đặc điểm, tính chất nên là tính từ."
+      "answer": "A",
+      "explanation": "“tận tụy” là tính từ chỉ phẩm chất, tinh thần làm việc trách nhiệm, hết mình."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -5798,15 +5797,15 @@
       "level": "CAP_4_VONG_TINH",
       "type": "TN",
       "questionId": "k4_c4_tn_088",
-      "question": "Trong ghi chép về chuyến đi, cụm từ nào gọi tên sự vật hoặc địa điểm: “Bà ngoại kể chuyện xưa trong buổi tối”?",
+      "question": "Trong câu: “Bà ngoại kể chuyện xưa trong buổi tối ấm áp.”, từ ngữ nào dưới đây gọi tên sự vật hoặc thời gian?",
       "options": {
-        "A": "rất chăm chỉ",
-        "B": "bến cảng",
-        "C": "tươi tốt",
-        "D": "chăm sóc"
+        "A": "buổi tối",
+        "B": "kể",
+        "C": "ấm áp",
+        "D": "thì thầm"
       },
-      "answer": "B",
-      "explanation": "“bến cảng” dùng để gọi tên sự vật/địa điểm nên là danh từ."
+      "answer": "A",
+      "explanation": "“buổi tối” là danh từ chỉ thời gian."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -5814,15 +5813,15 @@
       "level": "CAP_4_VONG_TINH",
       "type": "TN",
       "questionId": "k4_c4_tn_089",
-      "question": "Ở câu “Những người lính canh giữ biên cương suốt đêm dài”, từ/cụm từ nào biểu thị hoạt động?",
+      "question": "Ở câu “Những người lính canh giữ biên cương suốt đêm dài”, từ ngữ nào biểu thị hoạt động?",
       "options": {
-        "A": "chiến sĩ",
-        "B": "mênh mông",
-        "C": "kiên cường",
-        "D": "sưu tầm"
+        "A": "người lính",
+        "B": "biên cương",
+        "C": "canh giữ",
+        "D": "đêm dài"
       },
-      "answer": "D",
-      "explanation": "“sưu tầm” biểu thị hoạt động nên thuộc nhóm động từ."
+      "answer": "C",
+      "explanation": "“canh giữ” là động từ biểu thị hoạt động bảo vệ biên cương của người lính."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -5830,15 +5829,15 @@
       "level": "CAP_4_VONG_TINH",
       "type": "TN",
       "questionId": "k4_c4_tn_090",
-      "question": "Chọn tính từ phù hợp để nhận xét phẩm chất của nhân vật trong tình huống: cô hướng dẫn viên giới thiệu di tích cho khách tham quan.",
+      "question": "Chọn tính từ phù hợp nhất để nhận xét thái độ của nhân vật trong tình huống: cô hướng dẫn viên giới thiệu di tích cho khách tham quan.",
       "options": {
-        "A": "rèn luyện",
-        "B": "bảo vệ",
-        "C": "tươi tốt",
-        "D": "cánh buồm"
+        "A": "niềm nở",
+        "B": "giới thiệu",
+        "C": "di tích",
+        "D": "tham quan"
       },
-      "answer": "C",
-      "explanation": "“tươi tốt” nêu đặc điểm, tính chất nên là tính từ."
+      "answer": "A",
+      "explanation": "“niềm nở” là tính từ miêu tả thái độ đón tiếp vui vẻ, nhiệt tình."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -5846,15 +5845,15 @@
       "level": "CAP_4_VONG_TINH",
       "type": "TN",
       "questionId": "k4_c4_tn_091",
-      "question": "Trong ghi chép về chuyến đi, cụm từ nào gọi tên sự vật hoặc địa điểm: “Đội tình nguyện trồng cây non dọc con đường làng”?",
+      "question": "Trong câu: “Đội tình nguyện trồng cây non dọc con đường làng.”, từ ngữ nào dưới đây gọi tên sự vật hoặc địa điểm?",
       "options": {
-        "A": "chiếc la bàn",
-        "B": "rất chăm chỉ",
-        "C": "dũng cảm",
-        "D": "cống hiến"
+        "A": "trồng",
+        "B": "con đường làng",
+        "C": "hăng say",
+        "D": "xanh tươi"
       },
-      "answer": "A",
-      "explanation": "“chiếc la bàn” dùng để gọi tên sự vật/địa điểm nên là danh từ."
+      "answer": "B",
+      "explanation": "“con đường làng” là danh từ chỉ địa điểm/sự vật."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -5862,15 +5861,15 @@
       "level": "CAP_4_VONG_TINH",
       "type": "TN",
       "questionId": "k4_c4_tn_092",
-      "question": "Ở câu “Nhà nghiên cứu đối chiếu tư liệu tại bảo tàng”, từ/cụm từ nào biểu thị hoạt động?",
+      "question": "Ở câu “Nhà nghiên cứu đối chiếu tư liệu tại bảo tàng”, từ ngữ nào biểu thị hoạt động?",
       "options": {
-        "A": "chăm sóc",
-        "B": "tươi tốt",
-        "C": "mênh mông",
-        "D": "bến cảng"
+        "A": "bảo tàng",
+        "B": "tư liệu",
+        "C": "nhà nghiên cứu",
+        "D": "đối chiếu"
       },
-      "answer": "A",
-      "explanation": "“chăm sóc” biểu thị hoạt động nên thuộc nhóm động từ."
+      "answer": "D",
+      "explanation": "“đối chiếu” là động từ chỉ hoạt động so sánh, kiểm tra tư liệu."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -5878,15 +5877,15 @@
       "level": "CAP_4_VONG_TINH",
       "type": "TN",
       "questionId": "k4_c4_tn_093",
-      "question": "Chọn tính từ phù hợp để nhận xét phẩm chất của nhân vật trong tình huống: ngư dân vá tấm lưới sau chuyến biển.",
+      "question": "Chọn tính từ phù hợp nhất để nhận xét đức tính của nhân vật trong tình huống: bác ngư dân miệt mài vá tấm lưới sau chuyến biển.",
       "options": {
-        "A": "bảo vệ",
-        "B": "ngọn hải đăng",
-        "C": "sâu sắc",
-        "D": "thắp sáng"
+        "A": "cần cù",
+        "B": "vá lưới",
+        "C": "con thuyền",
+        "D": "ra khơi"
       },
-      "answer": "C",
-      "explanation": "“sâu sắc” nêu đặc điểm, tính chất nên là tính từ."
+      "answer": "A",
+      "explanation": "“cần cù” là tính từ chỉ phẩm chất chịu khó, chăm chỉ lao động."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -5894,15 +5893,15 @@
       "level": "CAP_4_VONG_TINH",
       "type": "TN",
       "questionId": "k4_c4_tn_094",
-      "question": "Trong ghi chép về chuyến đi, cụm từ nào gọi tên sự vật hoặc địa điểm: “Học sinh lớp em quyên góp sách cũ cho thư viện vùng cao”?",
+      "question": "Trong câu: “Học sinh lớp em quyên góp sách cũ cho thư viện vùng cao.”, từ ngữ nào dưới đây gọi tên sự vật hoặc địa điểm?",
       "options": {
-        "A": "mênh mông",
-        "B": "tìm hiểu",
-        "C": "người dẫn đường",
-        "D": "rất chăm chỉ"
+        "A": "thư viện vùng cao",
+        "B": "quyên góp",
+        "C": "nhiệt tình",
+        "D": "trao tặng"
       },
-      "answer": "C",
-      "explanation": "“người dẫn đường” dùng để gọi tên sự vật/địa điểm nên là danh từ."
+      "answer": "A",
+      "explanation": "“thư viện vùng cao” là danh từ chỉ địa điểm."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -5910,15 +5909,15 @@
       "level": "CAP_4_VONG_TINH",
       "type": "TN",
       "questionId": "k4_c4_tn_095",
-      "question": "Ở câu “Người dân khơi thông dòng mương trước mùa mưa”, từ/cụm từ nào biểu thị hoạt động?",
+      "question": "Ở câu “Người dân khơi thông dòng mương trước mùa mưa”, từ ngữ nào biểu thị hoạt động?",
       "options": {
-        "A": "khám phá",
-        "B": "ngọn đồi",
-        "C": "dũng cảm",
-        "D": "mênh mông"
+        "A": "dòng mương",
+        "B": "khơi thông",
+        "C": "mùa mưa",
+        "D": "người dân"
       },
-      "answer": "A",
-      "explanation": "“khám phá” biểu thị hoạt động nên thuộc nhóm động từ."
+      "answer": "B",
+      "explanation": "“khơi thông” là động từ chỉ hành động dọn sạch, khai thông dòng chảy."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -5926,15 +5925,15 @@
       "level": "CAP_4_VONG_TINH",
       "type": "TN",
       "questionId": "k4_c4_tn_096",
-      "question": "Chọn tính từ phù hợp để nhận xét phẩm chất của nhân vật trong tình huống: các nghệ nhân truyền dạy làn điệu dân ca cho thế hệ trẻ.",
+      "question": "Chọn tính từ phù hợp nhất để nhận xét về tinh thần của nhân vật trong tình huống: các nghệ nhân truyền dạy làn điệu dân ca cho thế hệ trẻ.",
       "options": {
-        "A": "bất khuất",
-        "B": "lễ hội",
-        "C": "kiên trì",
-        "D": "bảo vệ"
+        "A": "tâm huyết",
+        "B": "truyền dạy",
+        "C": "dân ca",
+        "D": "thế hệ"
       },
       "answer": "A",
-      "explanation": "“bất khuất” nêu đặc điểm, tính chất nên là tính từ."
+      "explanation": "“tâm huyết” là tính từ chỉ sự tận tụy, hết lòng vì việc truyền dạy văn hóa nghệ thuật."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -5942,15 +5941,15 @@
       "level": "CAP_4_VONG_TINH",
       "type": "TN",
       "questionId": "k4_c4_tn_097",
-      "question": "Trong ghi chép về chuyến đi, cụm từ nào gọi tên sự vật hoặc địa điểm: “Chú kiểm lâm theo dõi dấu chân thú trong rừng sâu”?",
+      "question": "Trong câu: “Chú kiểm lâm theo dõi dấu chân thú trong rừng sâu.”, từ ngữ nào dưới đây gọi tên sự vật hoặc địa điểm?",
       "options": {
-        "A": "bản đồ cổ",
-        "B": "khôi phục",
-        "C": "rất chăm chỉ",
-        "D": "kiên cường"
+        "A": "theo dõi",
+        "B": "rừng sâu",
+        "C": "cẩn thận",
+        "D": "bước nhanh"
       },
-      "answer": "A",
-      "explanation": "“bản đồ cổ” dùng để gọi tên sự vật/địa điểm nên là danh từ."
+      "answer": "B",
+      "explanation": "“rừng sâu” là danh từ chỉ địa điểm."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -5958,15 +5957,15 @@
       "level": "CAP_4_VONG_TINH",
       "type": "TN",
       "questionId": "k4_c4_tn_098",
-      "question": "Ở câu “Nhóm bạn tìm kiếm tư liệu lịch sử ở phòng đọc”, từ/cụm từ nào biểu thị hoạt động?",
+      "question": "Ở câu “Nhóm bạn tìm kiếm tư liệu lịch sử ở phòng đọc”, từ ngữ nào biểu thị hoạt động?",
       "options": {
-        "A": "mênh mông",
-        "B": "bến sông",
-        "C": "xây dựng",
-        "D": "ngọn hải đăng"
+        "A": "phòng đọc",
+        "B": "lịch sử",
+        "C": "tìm kiếm",
+        "D": "tư liệu"
       },
       "answer": "C",
-      "explanation": "“xây dựng” biểu thị hoạt động nên thuộc nhóm động từ."
+      "explanation": "“tìm kiếm” là động từ chỉ hoạt động tra cứu, tìm tòi tư liệu."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -5974,15 +5973,15 @@
       "level": "CAP_4_VONG_TINH",
       "type": "TN",
       "questionId": "k4_c4_tn_099",
-      "question": "Chọn tính từ phù hợp để nhận xét phẩm chất của nhân vật trong tình huống: mẹ sắp xếp những bức ảnh vào album gia đình.",
+      "question": "Chọn tính từ phù hợp nhất để nhận xét hành động của nhân vật trong tình huống: mẹ sắp xếp cẩn thận từng bức ảnh vào album gia đình.",
       "options": {
-        "A": "ngọn đồi",
-        "B": "bảo vệ",
-        "C": "giản dị",
-        "D": "ghi chép"
+        "A": "khéo léo",
+        "B": "album",
+        "C": "sắp xếp",
+        "D": "bức ảnh"
       },
-      "answer": "C",
-      "explanation": "“giản dị” nêu đặc điểm, tính chất nên là tính từ."
+      "answer": "A",
+      "explanation": "“khéo léo” là tính từ miêu tả đặc điểm hành động tỉ mỉ, cẩn thận."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -5990,15 +5989,15 @@
       "level": "CAP_4_VONG_TINH",
       "type": "TN",
       "questionId": "k4_c4_tn_100",
-      "question": "Trong ghi chép về chuyến đi, cụm từ nào gọi tên sự vật hoặc địa điểm: “Bác nông dân gieo hạt lúa mới trên thửa ruộng”?",
+      "question": "Trong câu: “Bác nông dân gieo hạt lúa mới trên thửa ruộng.”, từ ngữ nào dưới đây gọi tên sự vật hoặc địa điểm?",
       "options": {
-        "A": "rất chăm chỉ",
-        "B": "tươi tốt",
-        "C": "dẫn dắt",
-        "D": "cánh buồm"
+        "A": "gieo",
+        "B": "thửa ruộng",
+        "C": "nảy mầm",
+        "D": "xanh tốt"
       },
-      "answer": "D",
-      "explanation": "“cánh buồm” dùng để gọi tên sự vật/địa điểm nên là danh từ."
+      "answer": "B",
+      "explanation": "“thửa ruộng” là danh từ chỉ địa điểm/sự vật."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -6006,15 +6005,15 @@
       "level": "CAP_4_VONG_TINH",
       "type": "TN",
       "questionId": "k4_c4_tn_101",
-      "question": "Ở câu “Đội thiếu niên chăm sóc bồn hoa trong sân trường”, từ/cụm từ nào biểu thị hoạt động?",
+      "question": "Ở câu “Đội thiếu niên chăm sóc bồn hoa trong sân trường”, từ ngữ nào biểu thị hoạt động?",
       "options": {
-        "A": "dòng suối",
-        "B": "mênh mông",
-        "C": "kiên cường",
-        "D": "đoàn kết"
+        "A": "bồn hoa",
+        "B": "sân trường",
+        "C": "chăm sóc",
+        "D": "đội thiếu niên"
       },
-      "answer": "D",
-      "explanation": "“đoàn kết” biểu thị hoạt động nên thuộc nhóm động từ."
+      "answer": "C",
+      "explanation": "“chăm sóc” là động từ chỉ hoạt động tưới nước, làm cỏ cho hoa."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -6022,15 +6021,15 @@
       "level": "CAP_4_VONG_TINH",
       "type": "TN",
       "questionId": "k4_c4_tn_102",
-      "question": "Chọn tính từ phù hợp để nhận xét phẩm chất của nhân vật trong tình huống: người thợ tu sửa mái ngói của ngôi nhà cổ.",
+      "question": "Chọn tính từ phù hợp nhất để nhận xét tay nghề của nhân vật trong tình huống: người thợ tu sửa mái ngói của ngôi nhà cổ.",
       "options": {
-        "A": "bảo vệ",
-        "B": "cánh buồm",
-        "C": "linh thiêng",
-        "D": "xây dựng"
+        "A": "lành nghề",
+        "B": "tu sửa",
+        "C": "mái ngói",
+        "D": "ngôi nhà"
       },
-      "answer": "C",
-      "explanation": "“linh thiêng” nêu đặc điểm, tính chất nên là tính từ."
+      "answer": "A",
+      "explanation": "“lành nghề” là tính từ chỉ người thợ có kỹ năng giỏi, giàu kinh nghiệm."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -6038,15 +6037,15 @@
       "level": "CAP_4_VONG_TINH",
       "type": "TN",
       "questionId": "k4_c4_tn_103",
-      "question": "Trong ghi chép về chuyến đi, cụm từ nào gọi tên sự vật hoặc địa điểm: “Các chiến sĩ vượt qua con dốc đá giữa trời mưa”?",
+      "question": "Trong câu: “Các chiến sĩ vượt qua con dốc đá giữa trời mưa.”, từ ngữ nào dưới đây gọi tên sự vật hoặc địa điểm?",
       "options": {
-        "A": "rất chăm chỉ",
-        "B": "dũng cảm",
-        "C": "thư viện làng",
-        "D": "tưởng nhớ"
+        "A": "vượt qua",
+        "B": "con dốc đá",
+        "C": "gian khổ",
+        "D": "bền bỉ"
       },
-      "answer": "C",
-      "explanation": "“thư viện làng” dùng để gọi tên sự vật/địa điểm nên là danh từ."
+      "answer": "B",
+      "explanation": "“con dốc đá” là danh từ chỉ địa điểm/sự vật."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -6054,15 +6053,15 @@
       "level": "CAP_4_VONG_TINH",
       "type": "TN",
       "questionId": "k4_c4_tn_104",
-      "question": "Ở câu “Cô giáo khuyến khích tinh thần tự học trong lớp”, từ/cụm từ nào biểu thị hoạt động?",
+      "question": "Ở câu “Cô giáo khuyến khích tinh thần tự học của học sinh trong lớp”, từ ngữ nào biểu thị hoạt động?",
       "options": {
-        "A": "mênh mông",
-        "B": "tươi tốt",
-        "C": "kiên trì",
-        "D": "hạt giống"
+        "A": "tự học",
+        "B": "khuyến khích",
+        "C": "tinh thần",
+        "D": "lớp học"
       },
-      "answer": "C",
-      "explanation": "“kiên trì” biểu thị hoạt động nên thuộc nhóm động từ."
+      "answer": "B",
+      "explanation": "“khuyến khích” là động từ chỉ hoạt động động viên, khích lệ của cô giáo."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -6070,15 +6069,15 @@
       "level": "CAP_4_VONG_TINH",
       "type": "TN",
       "questionId": "k4_c4_tn_105",
-      "question": "Chọn tính từ phù hợp để nhận xét phẩm chất của nhân vật trong tình huống: người thợ mộc chạm khắc hoa văn trên cánh cửa đình.",
+      "question": "Chọn tính từ phù hợp nhất để nhận xét đường nét hoa văn do người thợ mộc chạm khắc trên cánh cửa đình.",
       "options": {
-        "A": "kiên cường",
-        "B": "bảo vệ",
-        "C": "ngọn hải đăng",
-        "D": "khảo sát"
+        "A": "tinh xảo",
+        "B": "chạm khắc",
+        "C": "cửa gỗ",
+        "D": "người thợ"
       },
       "answer": "A",
-      "explanation": "“kiên cường” nêu đặc điểm, tính chất nên là tính từ."
+      "explanation": "“tinh xảo” là tính từ miêu tả đường nét chạm khắc khéo léo, công phu."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -6086,15 +6085,15 @@
       "level": "CAP_4_VONG_TINH",
       "type": "TN",
       "questionId": "k4_c4_tn_106",
-      "question": "Trong ghi chép về chuyến đi, cụm từ nào gọi tên sự vật hoặc địa điểm: “Các bạn nhỏ ghi lại chuyện kể vào cuốn sổ tay”?",
+      "question": "Trong câu: “Các bạn nhỏ ghi lại chuyện kể vào cuốn sổ tay.”, từ ngữ nào dưới đây là danh từ chỉ sự vật?",
       "options": {
-        "A": "quan sát",
-        "B": "đội viên",
-        "C": "mênh mông",
-        "D": "rất chăm chỉ"
+        "A": "cuốn sổ tay",
+        "B": "ghi lại",
+        "C": "nắn nót",
+        "D": "chăm chú"
       },
-      "answer": "B",
-      "explanation": "“đội viên” dùng để gọi tên sự vật/địa điểm nên là danh từ."
+      "answer": "A",
+      "explanation": "“cuốn sổ tay” là danh từ chỉ đồ vật/sự vật."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -6102,15 +6101,15 @@
       "level": "CAP_4_VONG_TINH",
       "type": "TN",
       "questionId": "k4_c4_tn_107",
-      "question": "Ở câu “Đoàn khảo sát đo đạc chiều dài cây cầu bên bờ sông”, từ/cụm từ nào biểu thị hoạt động?",
+      "question": "Ở câu “Đoàn khảo sát đo đạc chiều dài cây cầu bên bờ sông”, từ ngữ nào biểu thị hoạt động?",
       "options": {
-        "A": "dũng cảm",
-        "B": "mênh mông",
-        "C": "thư viện làng",
-        "D": "tưởng nhớ"
+        "A": "cây cầu",
+        "B": "chiều dài",
+        "C": "đo đạc",
+        "D": "bờ sông"
       },
-      "answer": "D",
-      "explanation": "“tưởng nhớ” biểu thị hoạt động nên thuộc nhóm động từ."
+      "answer": "C",
+      "explanation": "“đo đạc” là động từ chỉ hoạt động đo lường kích thước."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -6118,15 +6117,15 @@
       "level": "CAP_4_VONG_TINH",
       "type": "TN",
       "questionId": "k4_c4_tn_108",
-      "question": "Chọn tính từ phù hợp để nhận xét phẩm chất của nhân vật trong tình huống: bà ngoại kể chuyện xưa trong buổi tối.",
+      "question": "Chọn tính từ phù hợp nhất để nhận xét giọng kể của nhân vật trong tình huống: bà ngoại kể chuyện xưa cho các cháu nghe trong buổi tối.",
       "options": {
-        "A": "rực rỡ",
-        "B": "lễ hội",
-        "C": "bảo vệ",
-        "D": "chăm sóc"
+        "A": "trầm ấm",
+        "B": "kể chuyện",
+        "C": "cháu nhỏ",
+        "D": "ngồi nghe"
       },
       "answer": "A",
-      "explanation": "“rực rỡ” nêu đặc điểm, tính chất nên là tính từ."
+      "explanation": "“trầm ấm” là tính từ miêu tả giọng nói ấm áp, truyền cảm."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -6134,15 +6133,15 @@
       "level": "CAP_4_VONG_TINH",
       "type": "TN",
       "questionId": "k4_c4_tn_109",
-      "question": "Trong ghi chép về chuyến đi, cụm từ nào gọi tên sự vật hoặc địa điểm: “Những người lính canh giữ biên cương suốt đêm dài”?",
+      "question": "Trong câu: “Những người lính canh giữ biên cương suốt đêm dài.”, từ ngữ nào dưới đây là danh từ chỉ người?",
       "options": {
-        "A": "rất chăm chỉ",
-        "B": "dòng suối",
-        "C": "kiên cường",
-        "D": "đoàn kết"
+        "A": "canh giữ",
+        "B": "người lính",
+        "C": "kiên định",
+        "D": "vững vàng"
       },
       "answer": "B",
-      "explanation": "“dòng suối” dùng để gọi tên sự vật/địa điểm nên là danh từ."
+      "explanation": "“người lính” là danh từ chỉ người."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -6150,15 +6149,15 @@
       "level": "CAP_4_VONG_TINH",
       "type": "TN",
       "questionId": "k4_c4_tn_110",
-      "question": "Ở câu “Cô hướng dẫn viên giới thiệu di tích cho khách tham quan”, từ/cụm từ nào biểu thị hoạt động?",
+      "question": "Ở câu “Cô hướng dẫn viên giới thiệu di tích lịch sử cho khách tham quan”, từ ngữ nào biểu thị hoạt động?",
       "options": {
-        "A": "lễ hội",
-        "B": "rèn luyện",
-        "C": "mênh mông",
-        "D": "ngọn hải đăng"
+        "A": "di tích",
+        "B": "giới thiệu",
+        "C": "khách tham quan",
+        "D": "lịch sử"
       },
       "answer": "B",
-      "explanation": "“rèn luyện” biểu thị hoạt động nên thuộc nhóm động từ."
+      "explanation": "“giới thiệu” là động từ chỉ hoạt động thuyết minh, trình bày."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -6166,15 +6165,15 @@
       "level": "CAP_4_VONG_TINH",
       "type": "TN",
       "questionId": "k4_c4_tn_111",
-      "question": "Chọn tính từ phù hợp để nhận xét phẩm chất của nhân vật trong tình huống: đội tình nguyện trồng cây non dọc con đường làng.",
+      "question": "Chọn tính từ phù hợp nhất để nhận xét tinh thần của các bạn trong tình huống: đội tình nguyện hăng hái trồng cây non dọc con đường làng.",
       "options": {
-        "A": "ngọn đồi",
-        "B": "bảo vệ",
-        "C": "cống hiến",
-        "D": "thanh bình"
+        "A": "nhiệt tình",
+        "B": "trồng cây",
+        "C": "cây xanh",
+        "D": "con đường"
       },
-      "answer": "D",
-      "explanation": "“thanh bình” nêu đặc điểm, tính chất nên là tính từ."
+      "answer": "A",
+      "explanation": "“nhiệt tình” là tính từ biểu thị tinh thần hăng hái, hết lòng vì công việc chung."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -6182,15 +6181,15 @@
       "level": "CAP_4_VONG_TINH",
       "type": "TN",
       "questionId": "k4_c4_tn_112",
-      "question": "Trong ghi chép về chuyến đi, cụm từ nào gọi tên sự vật hoặc địa điểm: “Nhà nghiên cứu đối chiếu tư liệu tại bảo tàng”?",
+      "question": "Trong câu: “Nhà nghiên cứu đối chiếu tư liệu tại bảo tàng.”, từ ngữ nào dưới đây gọi tên địa điểm?",
       "options": {
-        "A": "gìn giữ",
-        "B": "rất chăm chỉ",
-        "C": "tươi tốt",
-        "D": "vườn quốc gia"
+        "A": "đối chiếu",
+        "B": "bảo tàng",
+        "C": "thận trọng",
+        "D": "ghi chép"
       },
-      "answer": "D",
-      "explanation": "“vườn quốc gia” dùng để gọi tên sự vật/địa điểm nên là danh từ."
+      "answer": "B",
+      "explanation": "“bảo tàng” là danh từ chỉ địa điểm lưu giữ hiện vật, tư liệu."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -6198,15 +6197,15 @@
       "level": "CAP_4_VONG_TINH",
       "type": "TN",
       "questionId": "k4_c4_tn_113",
-      "question": "Ở câu “Ngư dân vá tấm lưới sau chuyến biển”, từ/cụm từ nào biểu thị hoạt động?",
+      "question": "Ở câu “Bác ngư dân vá tấm lưới rách sau chuyến biển dài”, từ ngữ nào biểu thị hoạt động?",
       "options": {
-        "A": "bản đồ cổ",
-        "B": "mênh mông",
-        "C": "kiên cường",
-        "D": "khôi phục"
+        "A": "tấm lưới",
+        "B": "vá",
+        "C": "ngư dân",
+        "D": "chuyến biển"
       },
-      "answer": "D",
-      "explanation": "“khôi phục” biểu thị hoạt động nên thuộc nhóm động từ."
+      "answer": "B",
+      "explanation": "“vá” là động từ chỉ hoạt động sửa chữa tấm lưới."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -6214,15 +6213,15 @@
       "level": "CAP_4_VONG_TINH",
       "type": "TN",
       "questionId": "k4_c4_tn_114",
-      "question": "Chọn tính từ phù hợp để nhận xét phẩm chất của nhân vật trong tình huống: học sinh lớp em quyên góp sách cũ cho thư viện vùng cao.",
+      "question": "Chọn tính từ phù hợp nhất để nhận xét phẩm chất của các bạn học sinh trong tình huống: học sinh lớp em quyên góp sách cũ giúp bạn vùng cao.",
       "options": {
-        "A": "bảo vệ",
-        "B": "tìm hiểu",
-        "C": "bền bỉ",
-        "D": "cánh buồm"
+        "A": "nhân ái",
+        "B": "quyên góp",
+        "C": "sách vở",
+        "D": "vùng cao"
       },
-      "answer": "C",
-      "explanation": "“bền bỉ” nêu đặc điểm, tính chất nên là tính từ."
+      "answer": "A",
+      "explanation": "“nhân ái” là tính từ chỉ lòng yêu thương, sẻ chia với người khác."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -6230,15 +6229,15 @@
       "level": "CAP_4_VONG_TINH",
       "type": "TN",
       "questionId": "k4_c4_tn_115",
-      "question": "Trong ghi chép về chuyến đi, cụm từ nào gọi tên sự vật hoặc địa điểm: “Người dân khơi thông dòng mương trước mùa mưa”?",
+      "question": "Trong câu: “Người dân khơi thông dòng mương trước mùa mưa lũ.”, từ ngữ nào dưới đây gọi tên sự vật hoặc địa điểm?",
       "options": {
-        "A": "ngọn đồi",
-        "B": "rất chăm chỉ",
-        "C": "dũng cảm",
-        "D": "khám phá"
+        "A": "khơi thông",
+        "B": "dòng mương",
+        "C": "chảy xiết",
+        "D": "vất vả"
       },
-      "answer": "A",
-      "explanation": "“ngọn đồi” dùng để gọi tên sự vật/địa điểm nên là danh từ."
+      "answer": "B",
+      "explanation": "“dòng mương” là danh từ chỉ sự vật/địa điểm dẫn nước."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -6246,15 +6245,15 @@
       "level": "CAP_4_VONG_TINH",
       "type": "TN",
       "questionId": "k4_c4_tn_116",
-      "question": "Ở câu “Các nghệ nhân truyền dạy làn điệu dân ca cho thế hệ trẻ”, từ/cụm từ nào biểu thị hoạt động?",
+      "question": "Ở câu “Các nghệ nhân truyền dạy điệu hát dân ca cho thế hệ trẻ”, từ ngữ nào biểu thị hoạt động?",
       "options": {
-        "A": "mênh mông",
-        "B": "nhà khảo cổ",
-        "C": "chia sẻ",
-        "D": "tươi tốt"
+        "A": "nghệ nhân",
+        "B": "dân ca",
+        "C": "truyền dạy",
+        "D": "thế hệ"
       },
       "answer": "C",
-      "explanation": "“chia sẻ” biểu thị hoạt động nên thuộc nhóm động từ."
+      "explanation": "“truyền dạy” là động từ chỉ hành động truyền thụ kiến thức, kỹ năng."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -6262,15 +6261,15 @@
       "level": "CAP_4_VONG_TINH",
       "type": "TN",
       "questionId": "k4_c4_tn_117",
-      "question": "Chọn tính từ phù hợp để nhận xét phẩm chất của nhân vật trong tình huống: chú kiểm lâm theo dõi dấu chân thú trong rừng sâu.",
+      "question": "Chọn tính từ phù hợp nhất để nhận xét tinh thần trách nhiệm của nhân vật trong tình huống: chú kiểm lâm kiên trì theo dõi dấu vết thú trong rừng sâu.",
       "options": {
-        "A": "trong trẻo",
-        "B": "bảo vệ",
-        "C": "ngọn hải đăng",
-        "D": "khôi phục"
+        "A": "bền bỉ",
+        "B": "theo dõi",
+        "C": "rừng cây",
+        "D": "dấu vết"
       },
       "answer": "A",
-      "explanation": "“trong trẻo” nêu đặc điểm, tính chất nên là tính từ."
+      "explanation": "“bền bỉ” là tính từ chỉ sự kiên trì, không ngại gian khó kéo dài."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -6278,15 +6277,15 @@
       "level": "CAP_4_VONG_TINH",
       "type": "TN",
       "questionId": "k4_c4_tn_118",
-      "question": "Trong ghi chép về chuyến đi, cụm từ nào gọi tên sự vật hoặc địa điểm: “Nhóm bạn tìm kiếm tư liệu lịch sử ở phòng đọc”?",
+      "question": "Trong câu: “Nhóm bạn tìm kiếm tư liệu quý ở phòng đọc thư viện.”, từ ngữ nào dưới đây gọi tên địa điểm?",
       "options": {
-        "A": "rất chăm chỉ",
-        "B": "truyền lại",
-        "C": "di tích",
-        "D": "mênh mông"
+        "A": "tìm kiếm",
+        "B": "phòng đọc",
+        "C": "say mê",
+        "D": "ghi nhận"
       },
-      "answer": "C",
-      "explanation": "“di tích” dùng để gọi tên sự vật/địa điểm nên là danh từ."
+      "answer": "B",
+      "explanation": "“phòng đọc” là danh từ chỉ nơi chốn/địa điểm."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -6294,15 +6293,15 @@
       "level": "CAP_4_VONG_TINH",
       "type": "TN",
       "questionId": "k4_c4_tn_119",
-      "question": "Ở câu “Mẹ sắp xếp những bức ảnh vào album gia đình”, từ/cụm từ nào biểu thị hoạt động?",
+      "question": "Ở câu “Mẹ sắp xếp từng bức ảnh kỉ niệm vào cuốn sổ gia đình”, từ ngữ nào biểu thị hoạt động?",
       "options": {
-        "A": "chiếc la bàn",
-        "B": "cống hiến",
-        "C": "dũng cảm",
-        "D": "mênh mông"
+        "A": "bức ảnh",
+        "B": "sắp xếp",
+        "C": "gia đình",
+        "D": "kỉ niệm"
       },
       "answer": "B",
-      "explanation": "“cống hiến” biểu thị hoạt động nên thuộc nhóm động từ."
+      "explanation": "“sắp xếp” là động từ chỉ hành động sắp đặt ngay ngắn."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -6310,15 +6309,15 @@
       "level": "CAP_4_VONG_TINH",
       "type": "TN",
       "questionId": "k4_c4_tn_120",
-      "question": "Chọn tính từ phù hợp để nhận xét phẩm chất của nhân vật trong tình huống: bác nông dân gieo hạt lúa mới trên thửa ruộng.",
+      "question": "Chọn tính từ phù hợp nhất để nhận xét về phẩm chất của nhân vật trong tình huống: bác nông dân chăm chỉ gieo hạt lúa mới trên thửa ruộng.",
       "options": {
-        "A": "lễ hội",
-        "B": "dẫn dắt",
-        "C": "bảo vệ",
-        "D": "mênh mông"
+        "A": "chịu khó",
+        "B": "gieo mạ",
+        "C": "hạt lúa",
+        "D": "thửa ruộng"
       },
-      "answer": "D",
-      "explanation": "“mênh mông” nêu đặc điểm, tính chất nên là tính từ."
+      "answer": "A",
+      "explanation": "“chịu khó” là tính từ chỉ phẩm chất siêng năng, cần cù lao động."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -6326,15 +6325,15 @@
       "level": "CAP_4_VONG_TINH",
       "type": "TN",
       "questionId": "k4_c4_tn_121",
-      "question": "Trong ghi chép về chuyến đi, cụm từ nào gọi tên sự vật hoặc địa điểm: “Đội thiếu niên chăm sóc bồn hoa trong sân trường”?",
+      "question": "Trong câu: “Đội thiếu niên chăm sóc bồn hoa rực rỡ trong sân trường.”, từ ngữ nào dưới đây gọi tên sự vật hoặc địa điểm?",
       "options": {
-        "A": "chiến sĩ",
-        "B": "sưu tầm",
-        "C": "kiên cường",
-        "D": "rất chăm chỉ"
+        "A": "sân trường",
+        "B": "chăm sóc",
+        "C": "rực rỡ",
+        "D": "tươi tắn"
       },
       "answer": "A",
-      "explanation": "“chiến sĩ” dùng để gọi tên sự vật/địa điểm nên là danh từ."
+      "explanation": "“sân trường” là danh từ chỉ địa điểm/sự vật."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -6342,15 +6341,15 @@
       "level": "CAP_4_VONG_TINH",
       "type": "TN",
       "questionId": "k4_c4_tn_122",
-      "question": "Ở câu “Người thợ tu sửa mái ngói của ngôi nhà cổ”, từ/cụm từ nào biểu thị hoạt động?",
+      "question": "Ở câu “Người thợ tu sửa mái ngói rêu phong của ngôi nhà cổ”, từ ngữ nào biểu thị hoạt động?",
       "options": {
-        "A": "di tích",
-        "B": "mênh mông",
-        "C": "ngọn hải đăng",
-        "D": "truyền lại"
+        "A": "mái ngói",
+        "B": "tu sửa",
+        "C": "ngôi nhà",
+        "D": "cổ kính"
       },
-      "answer": "D",
-      "explanation": "“truyền lại” biểu thị hoạt động nên thuộc nhóm động từ."
+      "answer": "B",
+      "explanation": "“tu sửa” là động từ chỉ hoạt động sửa sang, phục hồi."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -6358,15 +6357,15 @@
       "level": "CAP_4_VONG_TINH",
       "type": "TN",
       "questionId": "k4_c4_tn_123",
-      "question": "Chọn tính từ phù hợp để nhận xét phẩm chất của nhân vật trong tình huống: các chiến sĩ vượt qua con dốc đá giữa trời mưa.",
+      "question": "Chọn tính từ phù hợp nhất để nhận xét phẩm chất của nhân vật trong tình huống: các chiến sĩ kiên cường vượt qua con dốc đá trơn trượt giữa trời mưa.",
       "options": {
-        "A": "bảo vệ",
-        "B": "tưởng nhớ",
-        "C": "trang nghiêm",
-        "D": "ngọn đồi"
+        "A": "dũng cảm",
+        "B": "vượt qua",
+        "C": "dốc đá",
+        "D": "trời mưa"
       },
-      "answer": "C",
-      "explanation": "“trang nghiêm” nêu đặc điểm, tính chất nên là tính từ."
+      "answer": "A",
+      "explanation": "“dũng cảm” là tính từ chỉ phẩm chất gan dạ, không sợ gian nan nguy hiểm."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -6374,15 +6373,15 @@
       "level": "CAP_4_VONG_TINH",
       "type": "TN",
       "questionId": "k4_c4_tn_124",
-      "question": "Trong ghi chép về chuyến đi, cụm từ nào gọi tên sự vật hoặc địa điểm: “Cô giáo khuyến khích tinh thần tự học trong lớp”?",
+      "question": "Trong câu: “Cô giáo luôn khích lệ tinh thần tự học của các bạn học sinh.”, từ ngữ nào dưới đây là danh từ?",
       "options": {
-        "A": "nhà khảo cổ",
-        "B": "tươi tốt",
-        "C": "chia sẻ",
-        "D": "rất chăm chỉ"
+        "A": "học sinh",
+        "B": "khích lệ",
+        "C": "chăm chỉ",
+        "D": "tích cực"
       },
       "answer": "A",
-      "explanation": "“nhà khảo cổ” dùng để gọi tên sự vật/địa điểm nên là danh từ."
+      "explanation": "“học sinh” là danh từ chỉ người."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -6390,15 +6389,15 @@
       "level": "CAP_4_VONG_TINH",
       "type": "TN",
       "questionId": "k4_c4_tn_125",
-      "question": "Ở câu “Người thợ mộc chạm khắc hoa văn trên cánh cửa đình”, từ/cụm từ nào biểu thị hoạt động?",
+      "question": "Ở câu “Bác thợ mộc chạm khắc họa tiết hoa sen trên tấm gỗ lim”, từ ngữ nào biểu thị hoạt động?",
       "options": {
-        "A": "kiên cường",
-        "B": "mênh mông",
-        "C": "khảo sát",
-        "D": "ngọn hải đăng"
+        "A": "tấm gỗ",
+        "B": "chạm khắc",
+        "C": "hoa sen",
+        "D": "thợ mộc"
       },
-      "answer": "C",
-      "explanation": "“khảo sát” biểu thị hoạt động nên thuộc nhóm động từ."
+      "answer": "B",
+      "explanation": "“chạm khắc” là động từ chỉ hoạt động điêu khắc trên gỗ."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -6406,15 +6405,15 @@
       "level": "CAP_4_VONG_TINH",
       "type": "TN",
       "questionId": "k4_c4_tn_126",
-      "question": "Chọn tính từ phù hợp để nhận xét phẩm chất của nhân vật trong tình huống: các bạn nhỏ ghi lại chuyện kể vào cuốn sổ tay.",
+      "question": "Chọn tính từ phù hợp nhất để nhận xét tinh thần học tập của các bạn nhỏ khi nắn nót ghi lại từng câu chuyện lịch sử vào sổ tay.",
       "options": {
-        "A": "cánh buồm",
-        "B": "cần cù",
-        "C": "bảo vệ",
-        "D": "quan sát"
+        "A": "chăm chú",
+        "B": "ghi chép",
+        "C": "cuốn sổ",
+        "D": "câu chuyện"
       },
-      "answer": "B",
-      "explanation": "“cần cù” nêu đặc điểm, tính chất nên là tính từ."
+      "answer": "A",
+      "explanation": "“chăm chú” là tính từ chỉ sự tập trung cao độ vào việc học."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -6422,15 +6421,15 @@
       "level": "CAP_4_VONG_TINH",
       "type": "TN",
       "questionId": "k4_c4_tn_127",
-      "question": "Trong ghi chép về chuyến đi, cụm từ nào gọi tên sự vật hoặc địa điểm: “Đoàn khảo sát đo đạc chiều dài cây cầu bên bờ sông”?",
+      "question": "Trong câu: “Đoàn khảo sát đo đạc chiều dài cây cầu bên bờ sông.”, từ ngữ nào dưới đây gọi tên sự vật hoặc địa điểm?",
       "options": {
-        "A": "rất chăm chỉ",
-        "B": "bảo vệ",
-        "C": "dũng cảm",
-        "D": "bức phù điêu"
+        "A": "đo đạc",
+        "B": "cây cầu",
+        "C": "chính xác",
+        "D": "nhanh nhẹn"
       },
-      "answer": "D",
-      "explanation": "“bức phù điêu” dùng để gọi tên sự vật/địa điểm nên là danh từ."
+      "answer": "B",
+      "explanation": "“cây cầu” là danh từ chỉ sự vật/công trình xây dựng."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -6438,15 +6437,15 @@
       "level": "CAP_4_VONG_TINH",
       "type": "TN",
       "questionId": "k4_c4_tn_128",
-      "question": "Ở câu “Bà ngoại kể chuyện xưa trong buổi tối”, từ/cụm từ nào biểu thị hoạt động?",
+      "question": "Ở câu “Bà ngoại kể chuyện cổ tích cho các cháu trong buổi tối thanh bình”, từ ngữ nào biểu thị hoạt động?",
       "options": {
-        "A": "gìn giữ",
-        "B": "vườn quốc gia",
-        "C": "tươi tốt",
-        "D": "mênh mông"
+        "A": "cổ tích",
+        "B": "buổi tối",
+        "C": "kể",
+        "D": "thanh bình"
       },
-      "answer": "A",
-      "explanation": "“gìn giữ” biểu thị hoạt động nên thuộc nhóm động từ."
+      "answer": "C",
+      "explanation": "“kể” là động từ chỉ hoạt động nói, truyền tải câu chuyện."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -6454,15 +6453,15 @@
       "level": "CAP_4_VONG_TINH",
       "type": "TN",
       "questionId": "k4_c4_tn_129",
-      "question": "Chọn tính từ phù hợp để nhận xét phẩm chất của nhân vật trong tình huống: những người lính canh giữ biên cương suốt đêm dài.",
+      "question": "Chọn tính từ phù hợp nhất để nhận xét phẩm chất của những người lính ngày đêm canh giữ vùng biên cương của Tổ quốc.",
       "options": {
-        "A": "bảo vệ",
-        "B": "ngọn hải đăng",
-        "C": "đoàn kết",
-        "D": "nhân hậu"
+        "A": "kiên trung",
+        "B": "canh giữ",
+        "C": "biên cương",
+        "D": "tổ quốc"
       },
-      "answer": "D",
-      "explanation": "“nhân hậu” nêu đặc điểm, tính chất nên là tính từ."
+      "answer": "A",
+      "explanation": "“kiên trung” là tính từ chỉ lòng trung thành, ý chí vững vàng không lay chuyển."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -6470,15 +6469,15 @@
       "level": "CAP_4_VONG_TINH",
       "type": "TN",
       "questionId": "k4_c4_tn_130",
-      "question": "Trong ghi chép về chuyến đi, cụm từ nào gọi tên sự vật hoặc địa điểm: “Cô hướng dẫn viên giới thiệu di tích cho khách tham quan”?",
+      "question": "Trong câu: “Cô hướng dẫn viên đón tiếp chu đáo khách tham quan tại khu di tích.”, từ ngữ nào dưới đây là danh từ?",
       "options": {
-        "A": "rất chăm chỉ",
-        "B": "rèn luyện",
-        "C": "lễ hội",
-        "D": "mênh mông"
+        "A": "chu đáo",
+        "B": "khu di tích",
+        "C": "đón tiếp",
+        "D": "thuyết minh"
       },
-      "answer": "C",
-      "explanation": "“lễ hội” dùng để gọi tên sự vật/địa điểm nên là danh từ."
+      "answer": "B",
+      "explanation": "“khu di tích” là danh từ chỉ địa điểm lịch sử - văn hóa."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -6486,15 +6485,15 @@
       "level": "CAP_4_VONG_TINH",
       "type": "TN",
       "questionId": "k4_c4_tn_131",
-      "question": "Ở câu “Đội tình nguyện trồng cây non dọc con đường làng”, từ/cụm từ nào biểu thị hoạt động?",
+      "question": "Ở câu “Đoàn viên thanh niên vun xới từng gốc cây non dọc bờ kênh”, từ ngữ nào biểu thị hoạt động?",
       "options": {
-        "A": "mái đình",
-        "B": "dũng cảm",
-        "C": "ghi chép",
-        "D": "mênh mông"
+        "A": "cây non",
+        "B": "vun xới",
+        "C": "bờ kênh",
+        "D": "đoàn viên"
       },
-      "answer": "C",
-      "explanation": "“ghi chép” biểu thị hoạt động nên thuộc nhóm động từ."
+      "answer": "B",
+      "explanation": "“vun xới” là động từ chỉ hoạt động chăm sóc đất cho cây trồng."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -6502,15 +6501,15 @@
       "level": "CAP_4_VONG_TINH",
       "type": "TN",
       "questionId": "k4_c4_tn_132",
-      "question": "Chọn tính từ phù hợp để nhận xét phẩm chất của nhân vật trong tình huống: nhà nghiên cứu đối chiếu tư liệu tại bảo tàng.",
+      "question": "Chọn tính từ phù hợp nhất để nhận xét phong cách làm việc của nhà nghiên cứu khi cẩn thận đối chiếu từng trang tư liệu lịch sử.",
       "options": {
-        "A": "bảo vệ",
-        "B": "trung thực",
-        "C": "lễ hội",
-        "D": "gìn giữ"
+        "A": "chu đáo",
+        "B": "tỉ mỉ",
+        "C": "tư liệu",
+        "D": "bảo tàng"
       },
       "answer": "B",
-      "explanation": "“trung thực” nêu đặc điểm, tính chất nên là tính từ."
+      "explanation": "“tỉ mỉ” là tính từ chỉ sự cẩn trọng, kỹ lưỡng đến từng chi tiết nhỏ."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -6518,15 +6517,15 @@
       "level": "CAP_4_VONG_TINH",
       "type": "TN",
       "questionId": "k4_c4_tn_133",
-      "question": "Trong ghi chép về chuyến đi, cụm từ nào gọi tên sự vật hoặc địa điểm: “Ngư dân vá tấm lưới sau chuyến biển”?",
+      "question": "Trong câu: “Ngư dân cẩn thận kiểm tra từng mắt lưới trước khi ra khơi.”, từ ngữ nào dưới đây gọi tên sự vật?",
       "options": {
-        "A": "kiên cường",
-        "B": "cánh đồng",
-        "C": "rất chăm chỉ",
-        "D": "thắp sáng"
+        "A": "mắt lưới",
+        "B": "kiểm tra",
+        "C": "ra khơi",
+        "D": "cẩn thận"
       },
-      "answer": "B",
-      "explanation": "“cánh đồng” dùng để gọi tên sự vật/địa điểm nên là danh từ."
+      "answer": "A",
+      "explanation": "“mắt lưới” là danh từ chỉ bộ phận của tấm lưới."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -6534,15 +6533,15 @@
       "level": "CAP_4_VONG_TINH",
       "type": "TN",
       "questionId": "k4_c4_tn_134",
-      "question": "Ở câu “Học sinh lớp em quyên góp sách cũ cho thư viện vùng cao”, từ/cụm từ nào biểu thị hoạt động?",
+      "question": "Ở câu “Chúng em phân loại từng cuốn sách cũ để gửi tặng bạn nghèo”, từ ngữ nào biểu thị hoạt động?",
       "options": {
-        "A": "mênh mông",
-        "B": "ngọn hải đăng",
-        "C": "đội viên",
-        "D": "quan sát"
+        "A": "phân loại",
+        "B": "cuốn sách",
+        "C": "bạn nghèo",
+        "D": "ý nghĩa"
       },
-      "answer": "D",
-      "explanation": "“quan sát” biểu thị hoạt động nên thuộc nhóm động từ."
+      "answer": "A",
+      "explanation": "“phân loại” là động từ chỉ hành động sắp xếp theo từng nhóm sách."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -6550,15 +6549,15 @@
       "level": "CAP_4_VONG_TINH",
       "type": "TN",
       "questionId": "k4_c4_tn_135",
-      "question": "Chọn tính từ phù hợp để nhận xét phẩm chất của nhân vật trong tình huống: người dân khơi thông dòng mương trước mùa mưa.",
+      "question": "Chọn tính từ phù hợp nhất để nhận xét tinh thần của bà con nông dân khi đồng lòng khơi thông dòng mương tưới tiêu.",
       "options": {
-        "A": "bảo vệ",
-        "B": "ngọn đồi",
-        "C": "khám phá",
-        "D": "dũng cảm"
+        "A": "đoàn kết",
+        "B": "khơi thông",
+        "C": "dòng mương",
+        "D": "nước lũ"
       },
-      "answer": "D",
-      "explanation": "“dũng cảm” nêu đặc điểm, tính chất nên là tính từ."
+      "answer": "A",
+      "explanation": "“đoàn kết” là tính từ chỉ sự chung sức, gắn bó cùng làm việc của tập thể."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -6566,15 +6565,15 @@
       "level": "CAP_4_VONG_TINH",
       "type": "TN",
       "questionId": "k4_c4_tn_136",
-      "question": "Trong ghi chép về chuyến đi, cụm từ nào gọi tên sự vật hoặc địa điểm: “Các nghệ nhân truyền dạy làn điệu dân ca cho thế hệ trẻ”?",
+      "question": "Trong câu: “Nghệ nhân nắn nót so từng phím đàn bầu trước buổi biểu diễn.”, từ ngữ nào dưới đây gọi tên sự vật?",
       "options": {
-        "A": "tươi tốt",
-        "B": "hạt giống",
-        "C": "rất chăm chỉ",
-        "D": "kiên trì"
+        "A": "đàn bầu",
+        "B": "so phím",
+        "C": "biểu diễn",
+        "D": "nắn nót"
       },
-      "answer": "B",
-      "explanation": "“hạt giống” dùng để gọi tên sự vật/địa điểm nên là danh từ."
+      "answer": "A",
+      "explanation": "“đàn bầu” là danh từ chỉ nhạc cụ truyền thống của dân tộc."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -6582,15 +6581,15 @@
       "level": "CAP_4_VONG_TINH",
       "type": "TN",
       "questionId": "k4_c4_tn_137",
-      "question": "Ở câu “Chú kiểm lâm theo dõi dấu chân thú trong rừng sâu”, từ/cụm từ nào biểu thị hoạt động?",
+      "question": "Ở câu “Người lính biên phòng tuần tra dọc theo đường mòn biên giới”, từ ngữ nào biểu thị hoạt động?",
       "options": {
-        "A": "mênh mông",
-        "B": "kiên cường",
-        "C": "thắp sáng",
-        "D": "cánh đồng"
+        "A": "tuần tra",
+        "B": "đường mòn",
+        "C": "biên giới",
+        "D": "lính biên phòng"
       },
-      "answer": "C",
-      "explanation": "“thắp sáng” biểu thị hoạt động nên thuộc nhóm động từ."
+      "answer": "A",
+      "explanation": "“tuần tra” là động từ chỉ hành động đi kiểm tra an ninh dọc tuyến biên giới."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -6598,15 +6597,15 @@
       "level": "CAP_4_VONG_TINH",
       "type": "TN",
       "questionId": "k4_c4_tn_138",
-      "question": "Chọn tính từ phù hợp để nhận xét phẩm chất của nhân vật trong tình huống: nhóm bạn tìm kiếm tư liệu lịch sử ở phòng đọc.",
+      "question": "Chọn tính từ phù hợp nhất để nhận xét thái độ học hỏi của nhóm học sinh khi say sưa tìm kiếm tư liệu trong thư viện.",
       "options": {
-        "A": "bảo vệ",
-        "B": "khiêm nhường",
-        "C": "cánh buồm",
-        "D": "truyền lại"
+        "A": "ham học",
+        "B": "tìm kiếm",
+        "C": "thư viện",
+        "D": "tư liệu"
       },
-      "answer": "B",
-      "explanation": "“khiêm nhường” nêu đặc điểm, tính chất nên là tính từ."
+      "answer": "A",
+      "explanation": "“ham học” là tính từ chỉ lòng yêu thích, say mê khám phá tri thức."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -6614,15 +6613,15 @@
       "level": "CAP_4_VONG_TINH",
       "type": "TN",
       "questionId": "k4_c4_tn_139",
-      "question": "Trong ghi chép về chuyến đi, cụm từ nào gọi tên sự vật hoặc địa điểm: “Mẹ sắp xếp những bức ảnh vào album gia đình”?",
+      "question": "Trong câu: “Mẹ lồng từng tấm ảnh gia đình vào khung gỗ nhỏ.”, từ ngữ nào dưới đây là danh từ chỉ sự vật?",
       "options": {
-        "A": "rất chăm chỉ",
-        "B": "ghi chép",
-        "C": "dũng cảm",
-        "D": "mái đình"
+        "A": "khung gỗ",
+        "B": "lồng",
+        "C": "nâng niu",
+        "D": "xinh xắn"
       },
-      "answer": "D",
-      "explanation": "“mái đình” dùng để gọi tên sự vật/địa điểm nên là danh từ."
+      "answer": "A",
+      "explanation": "“khung gỗ” là danh từ chỉ đồ vật."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -6630,15 +6629,15 @@
       "level": "CAP_4_VONG_TINH",
       "type": "TN",
       "questionId": "k4_c4_tn_140",
-      "question": "Ở câu “Bác nông dân gieo hạt lúa mới trên thửa ruộng”, từ/cụm từ nào biểu thị hoạt động?",
+      "question": "Ở câu “Bác nông dân cấy từng nhánh mạ non thẳng tắp trên ruộng nước”, từ ngữ nào biểu thị hoạt động?",
       "options": {
-        "A": "mênh mông",
-        "B": "cánh buồm",
-        "C": "tươi tốt",
-        "D": "dẫn dắt"
+        "A": "nhánh mạ",
+        "B": "cấy",
+        "C": "ruộng nước",
+        "D": "thẳng tắp"
       },
-      "answer": "D",
-      "explanation": "“dẫn dắt” biểu thị hoạt động nên thuộc nhóm động từ."
+      "answer": "B",
+      "explanation": "“cấy” là động từ chỉ hoạt động trồng cây lúa xuống ruộng."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -6646,15 +6645,15 @@
       "level": "CAP_4_VONG_TINH",
       "type": "TN",
       "questionId": "k4_c4_tn_141",
-      "question": "Chọn tính từ phù hợp để nhận xét phẩm chất của nhân vật trong tình huống: đội thiếu niên chăm sóc bồn hoa trong sân trường.",
+      "question": "Chọn tính từ phù hợp nhất để nhận xét tinh thần trách nhiệm của đội thiếu niên khi chăm chỉ nhổ cỏ, tưới nước cho bồn hoa của trường.",
       "options": {
-        "A": "sưu tầm",
-        "B": "cổ kính",
-        "C": "bảo vệ",
-        "D": "ngọn hải đăng"
+        "A": "tự giác",
+        "B": "nhổ cỏ",
+        "C": "bồn hoa",
+        "D": "tưới nước"
       },
-      "answer": "B",
-      "explanation": "“cổ kính” nêu đặc điểm, tính chất nên là tính từ."
+      "answer": "A",
+      "explanation": "“tự giác” là tính từ chỉ ý thức chủ động làm việc tốt mà không cần ai nhắc nhở."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -6662,15 +6661,15 @@
       "level": "CAP_4_VONG_TINH",
       "type": "TN",
       "questionId": "k4_c4_tn_142",
-      "question": "Trong ghi chép về chuyến đi, cụm từ nào gọi tên sự vật hoặc địa điểm: “Người thợ tu sửa mái ngói của ngôi nhà cổ”?",
+      "question": "Trong câu: “Người thợ cẩn thận xếp từng viên ngói đỏ lên mái đình làng.”, từ ngữ nào dưới đây gọi tên sự vật hoặc địa điểm?",
       "options": {
-        "A": "mênh mông",
-        "B": "rất chăm chỉ",
-        "C": "bến sông",
-        "D": "xây dựng"
+        "A": "mái đình làng",
+        "B": "xếp",
+        "C": "cẩn thận",
+        "D": "vững chắc"
       },
-      "answer": "C",
-      "explanation": "“bến sông” dùng để gọi tên sự vật/địa điểm nên là danh từ."
+      "answer": "A",
+      "explanation": "“mái đình làng” là danh từ chỉ bộ phận công trình/địa điểm văn hóa."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -6678,15 +6677,15 @@
       "level": "CAP_4_VONG_TINH",
       "type": "TN",
       "questionId": "k4_c4_tn_143",
-      "question": "Ở câu “Các chiến sĩ vượt qua con dốc đá giữa trời mưa”, từ/cụm từ nào biểu thị hoạt động?",
+      "question": "Ở câu “Đoàn thám hiểm băng qua cánh rừng nguyên sinh rậm rạp”, từ ngữ nào biểu thị hoạt động?",
       "options": {
-        "A": "bảo vệ",
-        "B": "mênh mông",
-        "C": "bức phù điêu",
-        "D": "dũng cảm"
+        "A": "băng qua",
+        "B": "rừng nguyên sinh",
+        "C": "rậm rạp",
+        "D": "đoàn thám hiểm"
       },
       "answer": "A",
-      "explanation": "“bảo vệ” biểu thị hoạt động nên thuộc nhóm động từ."
+      "explanation": "“băng qua” là động từ chỉ hoạt động di chuyển vượt qua địa hình hiểm trở."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -6694,15 +6693,15 @@
       "level": "CAP_4_VONG_TINH",
       "type": "TN",
       "questionId": "k4_c4_tn_144",
-      "question": "Chọn tính từ phù hợp để nhận xét phẩm chất của nhân vật trong tình huống: cô giáo khuyến khích tinh thần tự học trong lớp.",
+      "question": "Chọn tính từ phù hợp nhất để nhận xét tấm lòng của cô giáo khi luôn ân cần chỉ bảo và khuyến khích học sinh tiến bộ.",
       "options": {
-        "A": "chia sẻ",
-        "B": "hùng vĩ",
-        "C": "lễ hội",
-        "D": "bảo vệ"
+        "A": "bao dung",
+        "B": "khuyến khích",
+        "C": "tiến bộ",
+        "D": "học sinh"
       },
-      "answer": "B",
-      "explanation": "“hùng vĩ” nêu đặc điểm, tính chất nên là tính từ."
+      "answer": "A",
+      "explanation": "“bao dung” là tính từ chỉ tấm lòng rộng lượng, nhân từ, luôn yêu thương và nâng đỡ học trò."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -7350,15 +7349,15 @@
       "level": "CAP_4_VONG_TINH",
       "type": "TN",
       "questionId": "k4_c4_tn_185",
-      "question": "Xét cấu tạo chủ ngữ – vị ngữ, câu “Mưa tạnh, nắng lên.” thuộc kiểu câu nào?",
+      "question": "Trong câu “Khi cơn mưa vừa tạnh, ánh nắng ấm áp lại bừng lên.”, bộ phận nào là trạng ngữ chỉ thời gian?",
       "options": {
-        "A": "Câu ghép",
-        "B": "Câu đơn",
-        "C": "Câu đặc biệt",
-        "D": "Câu cảm"
+        "A": "Khi cơn mưa vừa tạnh",
+        "B": "ánh nắng ấm áp",
+        "C": "lại bừng lên",
+        "D": "cơn mưa"
       },
       "answer": "A",
-      "explanation": "Câu có hai vế, mỗi vế có một cụm chủ ngữ – vị ngữ, nên là câu ghép."
+      "explanation": "“Khi cơn mưa vừa tạnh” đứng đầu câu, trả lời cho câu hỏi 'Khi nào?', là trạng ngữ chỉ thời gian."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -7366,15 +7365,15 @@
       "level": "CAP_4_VONG_TINH",
       "type": "TN",
       "questionId": "k4_c4_tn_186",
-      "question": "Phân loại câu “Đàn cò trắng bay qua cánh đồng.” theo số cụm chủ ngữ – vị ngữ chính.",
+      "question": "Vị ngữ trong câu “Đàn cò trắng đang bay lượn qua cánh đồng lúa chín.” là gì?",
       "options": {
-        "A": "Câu ghép",
-        "B": "Câu đặc biệt",
-        "C": "Câu rút gọn",
-        "D": "Câu đơn"
+        "A": "Đàn cò trắng",
+        "B": "đang bay lượn qua cánh đồng lúa chín",
+        "C": "cánh đồng lúa chín",
+        "D": "đang bay lượn"
       },
-      "answer": "D",
-      "explanation": "Câu chỉ có một cụm chủ ngữ – vị ngữ chính nên là câu đơn."
+      "answer": "B",
+      "explanation": "Bộ phận 'đang bay lượn qua cánh đồng lúa chín' nêu hoạt động của đàn cò trắng, giữ chức vụ vị ngữ trong câu."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -7382,15 +7381,15 @@
       "level": "CAP_4_VONG_TINH",
       "type": "TN",
       "questionId": "k4_c4_tn_187",
-      "question": "Xét cấu tạo chủ ngữ – vị ngữ, câu “Trời trở lạnh, đàn chim tìm nơi trú ẩn.” thuộc kiểu câu nào?",
+      "question": "Câu “Mùa đông đến, đàn chim rủ nhau bay về phương nam tránh rét.” có trạng ngữ bổ sung ý nghĩa gì?",
       "options": {
-        "A": "Câu đơn",
-        "B": "Câu đặc biệt",
-        "C": "Câu ghép",
-        "D": "Câu cảm"
+        "A": "nơi chốn",
+        "B": "nguyên nhân",
+        "C": "mục đích",
+        "D": "thời gian"
       },
-      "answer": "C",
-      "explanation": "Câu có hai vế, mỗi vế có một cụm chủ ngữ – vị ngữ, nên là câu ghép."
+      "answer": "D",
+      "explanation": "“Mùa đông đến” trả lời cho câu hỏi 'Khi nào?', là trạng ngữ chỉ thời gian."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -7398,15 +7397,15 @@
       "level": "CAP_4_VONG_TINH",
       "type": "TN",
       "questionId": "k4_c4_tn_188",
-      "question": "Phân loại câu “Những người thợ cần mẫn sửa cây cầu.” theo số cụm chủ ngữ – vị ngữ chính.",
+      "question": "Chủ ngữ trong câu “Những người thợ cần mẫn sửa chữa cây cầu treo qua suối.” là gì?",
       "options": {
-        "A": "Câu ghép",
-        "B": "Câu đặc biệt",
-        "C": "Câu đơn",
-        "D": "Câu rút gọn"
+        "A": "Những người thợ",
+        "B": "cần mẫn sửa chữa",
+        "C": "cây cầu treo qua suối",
+        "D": "sửa chữa cây cầu treo"
       },
-      "answer": "C",
-      "explanation": "Câu chỉ có một cụm chủ ngữ – vị ngữ chính nên là câu đơn."
+      "answer": "A",
+      "explanation": "“Những người thợ” là bộ phận trả lời cho câu hỏi 'Ai?', giữ chức vụ chủ ngữ."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -7414,15 +7413,15 @@
       "level": "CAP_4_VONG_TINH",
       "type": "TN",
       "questionId": "k4_c4_tn_189",
-      "question": "Xét cấu tạo chủ ngữ – vị ngữ, câu “Tiếng trống vang lên, học sinh ùa ra sân.” thuộc kiểu câu nào?",
+      "question": "Câu “Tiếng trống trường vang lên rộn rã báo hiệu giờ ra chơi.” thuộc kiểu câu kể nào?",
       "options": {
-        "A": "Câu cảm",
-        "B": "Câu đặc biệt",
-        "C": "Câu đơn",
-        "D": "Câu ghép"
+        "A": "Ai là gì?",
+        "B": "Ai làm gì?",
+        "C": "Ai thế nào?",
+        "D": "Câu hỏi"
       },
-      "answer": "D",
-      "explanation": "Câu có hai vế, mỗi vế có một cụm chủ ngữ – vị ngữ, nên là câu ghép."
+      "answer": "C",
+      "explanation": "Câu miêu tả đặc điểm âm thanh của tiếng trống trường ('vang lên rộn rã'), thuộc mẫu câu 'Ai thế nào?'."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -7430,15 +7429,15 @@
       "level": "CAP_4_VONG_TINH",
       "type": "TN",
       "questionId": "k4_c4_tn_190",
-      "question": "Phân loại câu “Mặt trời đỏ rực phía chân trời.” theo số cụm chủ ngữ – vị ngữ chính.",
+      "question": "Câu “Mặt trời buổi sớm đỏ rực như một quả cầu lửa khổng lồ.” thuộc mẫu câu kể nào?",
       "options": {
-        "A": "Câu đơn",
-        "B": "Câu đặc biệt",
-        "C": "Câu ghép",
-        "D": "Câu rút gọn"
+        "A": "Ai thế nào?",
+        "B": "Ai làm gì?",
+        "C": "Ai là gì?",
+        "D": "Câu cầu khiến"
       },
       "answer": "A",
-      "explanation": "Câu chỉ có một cụm chủ ngữ – vị ngữ chính nên là câu đơn."
+      "explanation": "Vị ngữ của câu miêu tả đặc điểm, màu sắc của mặt trời, thuộc mẫu câu 'Ai thế nào?'."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -7446,15 +7445,15 @@
       "level": "CAP_4_VONG_TINH",
       "type": "TN",
       "questionId": "k4_c4_tn_191",
-      "question": "Xét cấu tạo chủ ngữ – vị ngữ, câu “Gió nổi mạnh, những cánh buồm căng gió.” thuộc kiểu câu nào?",
+      "question": "Trong câu “Nhờ gió thổi mạnh, những cánh buồm no gió lướt nhanh trên mặt biển.”, cụm từ “Nhờ gió thổi mạnh” giữ chức vụ gì?",
       "options": {
-        "A": "Câu ghép",
-        "B": "Câu cảm",
-        "C": "Câu đặc biệt",
-        "D": "Câu đơn"
+        "A": "Trạng ngữ chỉ nguyên nhân",
+        "B": "Trạng ngữ chỉ mục đích",
+        "C": "Chủ ngữ",
+        "D": "Vị ngữ"
       },
       "answer": "A",
-      "explanation": "Câu có hai vế, mỗi vế có một cụm chủ ngữ – vị ngữ, nên là câu ghép."
+      "explanation": "“Nhờ gió thổi mạnh” trả lời câu hỏi 'Vì sao?', là trạng ngữ chỉ nguyên nhân."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -7462,17 +7461,16 @@
       "level": "CAP_4_VONG_TINH",
       "type": "TN",
       "questionId": "k4_c4_tn_192",
-      "question": "Phân loại câu “Bác bảo vệ mở cổng trường.” theo số cụm chủ ngữ – vị ngữ chính.",
+      "question": "Câu “Bác bảo vệ ân cần mở rộng cổng trường đón học sinh.” thuộc mẫu câu kể nào?",
       "options": {
-        "A": "Câu rút gọn",
-        "B": "Câu đặc biệt",
-        "C": "Câu đơn",
-        "D": "Câu ghép"
+        "A": "Ai làm gì?",
+        "B": "Ai thế nào?",
+        "C": "Ai là gì?",
+        "D": "Câu cảm thán"
       },
-      "answer": "C",
-      "explanation": "Câu chỉ có một cụm chủ ngữ – vị ngữ chính nên là câu đơn."
+      "answer": "A",
+      "explanation": "Câu nêu hoạt động của bác bảo vệ ('ân cần mở rộng cổng trường đón học sinh'), thuộc mẫu câu 'Ai làm gì?'."
     },
-    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_4",
@@ -7521,7 +7519,6 @@
       "answer": "D",
       "explanation": "Tình huống phù hợp với lời khuyên: Dù nghèo khó vẫn phải giữ phẩm chất trong sạch."
     },
-    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_4",
@@ -7570,7 +7567,6 @@
       "answer": "B",
       "explanation": "Tình huống phù hợp với lời khuyên: Khó khăn giúp thử thách và bộc lộ bản lĩnh."
     },
-    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_4",
@@ -7619,7 +7615,6 @@
       "answer": "B",
       "explanation": "Tình huống phù hợp với lời khuyên: Nói về sự thay đổi độ dài ngày đêm theo mùa."
     },
-    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_4",
@@ -7668,7 +7663,6 @@
       "answer": "C",
       "explanation": "Tình huống phù hợp với lời khuyên: Có nơi ở ổn định thì dễ yên tâm làm ăn."
     },
-    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_4",
@@ -7717,7 +7711,6 @@
       "answer": "A",
       "explanation": "Tình huống phù hợp với lời khuyên: Đề cao việc cứu giúp con người trong lúc nguy nan."
     },
-    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_4",
@@ -7894,7 +7887,6 @@
       "answer": "B",
       "explanation": "Tình huống phù hợp với lời khuyên: Khuyến khích trải nghiệm thực tế để hiểu biết thêm."
     },
-    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_4",
@@ -8826,7 +8818,7 @@
       "elements": [
         "hàng cây bản địa",
         "Đội học sinh vùng cao",
-        "dọc con đường mới.",
+        "dọc con đường mới",
         "chung tay trồng"
       ],
       "answer": "Đội học sinh vùng cao chung tay trồng hàng cây bản địa dọc con đường mới.",
@@ -8840,7 +8832,7 @@
       "questionId": "k4_c4_sx_035",
       "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Đội học sinh vùng cao” và hoạt động “miệt mài sưu tầm”:",
       "elements": [
-        "về lịch sử quê hương.",
+        "về lịch sử quê hương",
         "miệt mài sưu tầm",
         "Mỗi dịp cuối tuần, đội học sinh vùng cao",
         "tư liệu quý"
@@ -8859,7 +8851,7 @@
         "Trong mùa hè năm ấy, đội học sinh vùng cao",
         "kiên nhẫn hướng dẫn",
         "các em nhỏ",
-        "đọc sách mỗi buổi chiều."
+        "đọc sách mỗi buổi chiều"
       ],
       "answer": "Trong mùa hè năm ấy, đội học sinh vùng cao kiên nhẫn hướng dẫn các em nhỏ đọc sách mỗi buổi chiều.",
       "explanation": "Trật tự đúng tạo thành câu: “Trong mùa hè năm ấy, đội học sinh vùng cao kiên nhẫn hướng dẫn các em nhỏ đọc sách mỗi buổi chiều.”"
@@ -8874,7 +8866,7 @@
       "elements": [
         "khẩn trương gia cố",
         "Đội học sinh vùng cao",
-        "trước mùa mưa bão.",
+        "trước mùa mưa bão",
         "bờ kè ven sông"
       ],
       "answer": "Đội học sinh vùng cao khẩn trương gia cố bờ kè ven sông trước mùa mưa bão.",
@@ -8889,7 +8881,7 @@
       "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Đội học sinh vùng cao” và hoạt động “hăng hái luyện tập”:",
       "elements": [
         "hăng hái luyện tập",
-        "cho ngày hội văn hóa.",
+        "cho ngày hội văn hóa",
         "tiết mục dân ca",
         "Mỗi dịp cuối tuần, đội học sinh vùng cao"
       ],
@@ -8906,7 +8898,7 @@
       "elements": [
         "Trong mùa hè năm ấy, đội học sinh vùng cao",
         "những hiện vật cũ",
-        "trong phòng trưng bày.",
+        "trong phòng trưng bày",
         "cẩn thận phục chế"
       ],
       "answer": "Trong mùa hè năm ấy, đội học sinh vùng cao cẩn thận phục chế những hiện vật cũ trong phòng trưng bày.",
@@ -8921,7 +8913,7 @@
       "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Đội học sinh vùng cao” và hoạt động “bền bỉ tuần tra”:",
       "elements": [
         "bền bỉ tuần tra",
-        "để ngăn chặn cháy rừng.",
+        "để ngăn chặn cháy rừng",
         "cánh rừng đầu nguồn",
         "Đội học sinh vùng cao"
       ],
@@ -8937,7 +8929,7 @@
       "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Đội học sinh vùng cao” và hoạt động “ân cần giới thiệu”:",
       "elements": [
         "Mỗi dịp cuối tuần, đội học sinh vùng cao",
-        "với khách phương xa.",
+        "với khách phương xa",
         "ân cần giới thiệu",
         "phong tục địa phương"
       ],
@@ -8952,7 +8944,7 @@
       "questionId": "k4_c4_sx_042",
       "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Đội học sinh vùng cao” và hoạt động “cùng nhau làm sạch”:",
       "elements": [
-        "sau cơn bão lớn.",
+        "sau cơn bão lớn",
         "bãi biển quê nhà",
         "Trong mùa hè năm ấy, đội học sinh vùng cao",
         "cùng nhau làm sạch"
@@ -8969,7 +8961,7 @@
       "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Đội học sinh vùng cao” và hoạt động “tích cực quyên góp”:",
       "elements": [
         "Đội học sinh vùng cao",
-        "cho trẻ em vùng khó.",
+        "cho trẻ em vùng khó",
         "tích cực quyên góp",
         "áo ấm và sách vở"
       ],
@@ -8985,7 +8977,7 @@
       "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Những người thợ làng nghề” và hoạt động “chung tay trồng”:",
       "elements": [
         "Mỗi dịp cuối tuần, những người thợ làng nghề",
-        "dọc con đường mới.",
+        "dọc con đường mới",
         "hàng cây bản địa",
         "chung tay trồng"
       ],
@@ -9000,7 +8992,7 @@
       "questionId": "k4_c4_sx_045",
       "question": "Những người thợ làng nghề miệt mài ghi chép lại những câu chuyện lịch sử của quê hương.",
       "elements": [
-        "về lịch sử quê hương.",
+        "về lịch sử quê hương",
         "tư liệu quý",
         "miệt mài sưu tầm",
         "Trong mùa hè năm ấy, những người thợ làng nghề"
@@ -9016,7 +9008,7 @@
       "questionId": "k4_c4_sx_046",
       "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Những người thợ làng nghề” và hoạt động “kiên nhẫn hướng dẫn”:",
       "elements": [
-        "đọc sách mỗi buổi chiều.",
+        "đọc sách mỗi buổi chiều",
         "Những người thợ làng nghề",
         "kiên nhẫn hướng dẫn",
         "các em nhỏ"
@@ -9032,7 +9024,7 @@
       "questionId": "k4_c4_sx_047",
       "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Những người thợ làng nghề” và hoạt động “khẩn trương gia cố”:",
       "elements": [
-        "trước mùa mưa bão.",
+        "trước mùa mưa bão",
         "Mỗi dịp cuối tuần, những người thợ làng nghề",
         "bờ kè ven sông",
         "khẩn trương gia cố"
@@ -9049,7 +9041,7 @@
       "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Những người thợ làng nghề” và hoạt động “hăng hái luyện tập”:",
       "elements": [
         "tiết mục dân ca",
-        "cho ngày hội văn hóa.",
+        "cho ngày hội văn hóa",
         "Trong mùa hè năm ấy, những người thợ làng nghề",
         "hăng hái luyện tập"
       ],
@@ -9065,7 +9057,7 @@
       "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Những người thợ làng nghề” và hoạt động “cẩn thận phục chế”:",
       "elements": [
         "những hiện vật cũ",
-        "trong phòng trưng bày.",
+        "trong phòng trưng bày",
         "cẩn thận phục chế",
         "Những người thợ làng nghề"
       ],
@@ -9081,7 +9073,7 @@
       "question": "Các công nhân làng nghề bền bì giúp các đội bảo vệ rừng tuần tra cánh rừng đầu nguồn để ngăn cháy rừng.",
       "elements": [
         "cánh rừng đầu nguồn",
-        "để ngăn chặn cháy rừng.",
+        "để ngăn chặn cháy rừng",
         "Mỗi dịp cuối tuần, những người thợ làng nghề",
         "bền bỉ tuần tra"
       ],
@@ -9099,7 +9091,7 @@
         "phong tục địa phương",
         "ân cần giới thiệu",
         "Trong mùa hè năm ấy, những người thợ làng nghề",
-        "với khách phương xa."
+        "với khách phương xa"
       ],
       "answer": "Trong mùa hè năm ấy, những người thợ làng nghề ân cần giới thiệu phong tục địa phương với khách phương xa.",
       "explanation": "Trật tự đúng tạo thành câu: “Trong mùa hè năm ấy, những người thợ làng nghề ân cần giới thiệu phong tục địa phương với khách phương xa.”"
@@ -9112,7 +9104,7 @@
       "questionId": "k4_c4_sx_052",
       "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Những người thợ làng nghề” và hoạt động “cùng nhau làm sạch”:",
       "elements": [
-        "sau cơn bão lớn.",
+        "sau cơn bão lớn",
         "bãi biển quê nhà",
         "cùng nhau làm sạch",
         "Những người thợ làng nghề"
@@ -9130,7 +9122,7 @@
       "elements": [
         "tích cực quyên góp",
         "Mỗi dịp cuối tuần, những người thợ làng nghề",
-        "cho trẻ em vùng khó.",
+        "cho trẻ em vùng khó",
         "áo ấm và sách vở"
       ],
       "answer": "Mỗi dịp cuối tuần, những người thợ làng nghề tích cực quyên góp áo ấm và sách vở cho trẻ em vùng khó.",
@@ -9147,7 +9139,7 @@
         "chung tay trồng",
         "hàng cây bản địa",
         "Trong mùa hè năm ấy, đoàn viên thanh niên",
-        "dọc con đường mới."
+        "dọc con đường mới"
       ],
       "answer": "Trong mùa hè năm ấy, đoàn viên thanh niên chung tay trồng hàng cây bản địa dọc con đường mới.",
       "explanation": "Trật tự đúng tạo thành câu: “Trong mùa hè năm ấy, đoàn viên thanh niên chung tay trồng hàng cây bản địa dọc con đường mới.”"
@@ -9161,7 +9153,7 @@
       "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Đoàn viên thanh niên” và hoạt động “miệt mài sưu tầm”:",
       "elements": [
         "miệt mài sưu tầm",
-        "về lịch sử quê hương.",
+        "về lịch sử quê hương",
         "tư liệu quý",
         "Đoàn viên thanh niên"
       ],
@@ -9177,7 +9169,7 @@
       "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Đoàn viên thanh niên” và hoạt động “kiên nhẫn hướng dẫn”:",
       "elements": [
         "kiên nhẫn hướng dẫn",
-        "đọc sách mỗi buổi chiều.",
+        "đọc sách mỗi buổi chiều",
         "Mỗi dịp cuối tuần, đoàn viên thanh niên",
         "các em nhỏ"
       ],
@@ -9193,7 +9185,7 @@
       "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Đoàn viên thanh niên” và hoạt động “khẩn trương gia cố”:",
       "elements": [
         "bờ kè ven sông",
-        "trước mùa mưa bão.",
+        "trước mùa mưa bão",
         "khẩn trương gia cố",
         "Trong mùa hè năm ấy, đoàn viên thanh niên"
       ],
@@ -9208,7 +9200,7 @@
       "questionId": "k4_c4_sx_058",
       "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Đoàn viên thanh niên” và hoạt động “hăng hái luyện tập”:",
       "elements": [
-        "cho ngày hội văn hóa.",
+        "cho ngày hội văn hóa",
         "Đoàn viên thanh niên",
         "hăng hái luyện tập",
         "tiết mục dân ca"
@@ -9225,7 +9217,7 @@
       "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Đoàn viên thanh niên” và hoạt động “cẩn thận phục chế”:",
       "elements": [
         "những hiện vật cũ",
-        "trong phòng trưng bày.",
+        "trong phòng trưng bày",
         "cẩn thận phục chế",
         "Mỗi dịp cuối tuần, đoàn viên thanh niên"
       ],
@@ -9242,7 +9234,7 @@
       "elements": [
         "bền bỉ tuần tra",
         "cánh rừng đầu nguồn",
-        "để ngăn chặn cháy rừng.",
+        "để ngăn chặn cháy rừng",
         "Trong mùa hè năm ấy, đoàn viên thanh niên"
       ],
       "answer": "Trong mùa hè năm ấy, đoàn viên thanh niên bền bỉ tuần tra cánh rừng đầu nguồn để ngăn chặn cháy rừng.",
@@ -9259,7 +9251,7 @@
         "ân cần giới thiệu",
         "phong tục địa phương",
         "Đoàn viên thanh niên",
-        "với khách phương xa."
+        "với khách phương xa"
       ],
       "answer": "Đoàn viên thanh niên ân cần giới thiệu phong tục địa phương với khách phương xa.",
       "explanation": "Trật tự đúng tạo thành câu: “Đoàn viên thanh niên ân cần giới thiệu phong tục địa phương với khách phương xa.”"
@@ -9272,7 +9264,7 @@
       "questionId": "k4_c4_sx_062",
       "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Đoàn viên thanh niên” và hoạt động “cùng nhau làm sạch”:",
       "elements": [
-        "sau cơn bão lớn.",
+        "sau cơn bão lớn",
         "bãi biển quê nhà",
         "cùng nhau làm sạch",
         "Mỗi dịp cuối tuần, đoàn viên thanh niên"
@@ -9291,7 +9283,7 @@
         "Trong mùa hè năm ấy, đoàn viên thanh niên",
         "tích cực quyên góp",
         "áo ấm và sách vở",
-        "cho trẻ em vùng khó."
+        "cho trẻ em vùng khó"
       ],
       "answer": "Trong mùa hè năm ấy, đoàn viên thanh niên tích cực quyên góp áo ấm và sách vở cho trẻ em vùng khó.",
       "explanation": "Trật tự đúng tạo thành câu: “Trong mùa hè năm ấy, đoàn viên thanh niên tích cực quyên góp áo ấm và sách vở cho trẻ em vùng khó.”"
@@ -9304,7 +9296,7 @@
       "questionId": "k4_c4_sx_064",
       "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Các chiến sĩ biên phòng” và hoạt động “chung tay trồng”:",
       "elements": [
-        "dọc con đường mới.",
+        "dọc con đường mới",
         "hàng cây bản địa",
         "chung tay trồng",
         "Các chiến sĩ biên phòng"
@@ -9323,7 +9315,7 @@
         "Mỗi dịp cuối tuần, các chiến sĩ biên phòng",
         "tư liệu quý",
         "miệt mài sưu tầm",
-        "về lịch sử quê hương."
+        "về lịch sử quê hương"
       ],
       "answer": "Mỗi dịp cuối tuần, các chiến sĩ biên phòng miệt mài sưu tầm tư liệu quý về lịch sử quê hương.",
       "explanation": "Trật tự đúng tạo thành câu: “Mỗi dịp cuối tuần, các chiến sĩ biên phòng miệt mài sưu tầm tư liệu quý về lịch sử quê hương.”"
@@ -9338,7 +9330,7 @@
       "elements": [
         "các em nhỏ",
         "kiên nhẫn hướng dẫn",
-        "đọc sách mỗi buổi chiều.",
+        "đọc sách mỗi buổi chiều",
         "Trong mùa hè năm ấy, các chiến sĩ biên phòng"
       ],
       "answer": "Trong mùa hè năm ấy, các chiến sĩ biên phòng kiên nhẫn hướng dẫn các em nhỏ đọc sách mỗi buổi chiều.",
@@ -9355,7 +9347,7 @@
         "Các chiến sĩ biên phòng",
         "khẩn trương gia cố",
         "bờ kè ven sông",
-        "trước mùa mưa bão."
+        "trước mùa mưa bão"
       ],
       "answer": "Các chiến sĩ biên phòng khẩn trương gia cố bờ kè ven sông trước mùa mưa bão.",
       "explanation": "Trật tự đúng tạo thành câu: “Các chiến sĩ biên phòng khẩn trương gia cố bờ kè ven sông trước mùa mưa bão.”"
@@ -9368,7 +9360,7 @@
       "questionId": "k4_c4_sx_068",
       "question": "Các chiến sĩ biên phòng hăng hái tập luyện các tiết mục dân ca để biểu diễn tại ngày hội văn hóa.",
       "elements": [
-        "cho ngày hội văn hóa.",
+        "cho ngày hội văn hóa",
         "tiết mục dân ca",
         "hăng hái luyện tập",
         "Mỗi dịp cuối tuần, các chiến sĩ biên phòng"
@@ -9387,7 +9379,7 @@
         "cẩn thận phục chế",
         "những hiện vật cũ",
         "Trong mùa hè năm ấy, các chiến sĩ biên phòng",
-        "trong phòng trưng bày."
+        "trong phòng trưng bày"
       ],
       "answer": "Trong mùa hè năm ấy, các chiến sĩ biên phòng cẩn thận phục chế những hiện vật cũ trong phòng trưng bày.",
       "explanation": "Trật tự đúng tạo thành câu: “Trong mùa hè năm ấy, các chiến sĩ biên phòng cẩn thận phục chế những hiện vật cũ trong phòng trưng bày.”"
@@ -9401,7 +9393,7 @@
       "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Các chiến sĩ biên phòng” và hoạt động “bền bỉ tuần tra”:",
       "elements": [
         "Các chiến sĩ biên phòng",
-        "để ngăn chặn cháy rừng.",
+        "để ngăn chặn cháy rừng",
         "bền bỉ tuần tra",
         "cánh rừng đầu nguồn"
       ],
@@ -9416,7 +9408,7 @@
       "questionId": "k4_c4_sx_071",
       "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Các chiến sĩ biên phòng” và hoạt động “ân cần giới thiệu”:",
       "elements": [
-        "với khách phương xa.",
+        "với khách phương xa",
         "ân cần giới thiệu",
         "phong tục địa phương",
         "Mỗi dịp cuối tuần, các chiến sĩ biên phòng"
@@ -9434,7 +9426,7 @@
       "elements": [
         "cùng nhau làm sạch",
         "Trong mùa hè năm ấy, các chiến sĩ biên phòng",
-        "sau cơn bão lớn.",
+        "sau cơn bão lớn",
         "bãi biển quê nhà"
       ],
       "answer": "Trong mùa hè năm ấy, các chiến sĩ biên phòng cùng nhau làm sạch bãi biển quê nhà sau cơn bão lớn.",
@@ -9449,7 +9441,7 @@
       "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Các chiến sĩ biên phòng” và hoạt động “tích cực quyên góp”:",
       "elements": [
         "tích cực quyên góp",
-        "cho trẻ em vùng khó.",
+        "cho trẻ em vùng khó",
         "Các chiến sĩ biên phòng",
         "áo ấm và sách vở"
       ],
@@ -9467,7 +9459,7 @@
         "Mỗi dịp cuối tuần, nhóm nghiên cứu trẻ",
         "hàng cây bản địa",
         "chung tay trồng",
-        "dọc con đường mới."
+        "dọc con đường mới"
       ],
       "answer": "Mỗi dịp cuối tuần, nhóm nghiên cứu trẻ chung tay trồng hàng cây bản địa dọc con đường mới.",
       "explanation": "Trật tự đúng tạo thành câu: “Mỗi dịp cuối tuần, nhóm nghiên cứu trẻ chung tay trồng hàng cây bản địa dọc con đường mới.”"
@@ -9483,7 +9475,7 @@
         "miệt mài sưu tầm",
         "Trong mùa hè năm ấy, nhóm nghiên cứu trẻ",
         "tư liệu quý",
-        "về lịch sử quê hương."
+        "về lịch sử quê hương"
       ],
       "answer": "Trong mùa hè năm ấy, nhóm nghiên cứu trẻ miệt mài sưu tầm tư liệu quý về lịch sử quê hương.",
       "explanation": "Trật tự đúng tạo thành câu: “Trong mùa hè năm ấy, nhóm nghiên cứu trẻ miệt mài sưu tầm tư liệu quý về lịch sử quê hương.”"
@@ -9496,7 +9488,7 @@
       "questionId": "k4_c4_sx_076",
       "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Nhóm nghiên cứu trẻ” và hoạt động “kiên nhẫn hướng dẫn”:",
       "elements": [
-        "đọc sách mỗi buổi chiều.",
+        "đọc sách mỗi buổi chiều",
         "kiên nhẫn hướng dẫn",
         "các em nhỏ",
         "Nhóm nghiên cứu trẻ"
@@ -9513,7 +9505,7 @@
       "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Nhóm nghiên cứu trẻ” và hoạt động “khẩn trương gia cố”:",
       "elements": [
         "Mỗi dịp cuối tuần, nhóm nghiên cứu trẻ",
-        "trước mùa mưa bão.",
+        "trước mùa mưa bão",
         "khẩn trương gia cố",
         "bờ kè ven sông"
       ],
@@ -9531,7 +9523,7 @@
         "Trong mùa hè năm ấy, nhóm nghiên cứu trẻ",
         "hăng hái luyện tập",
         "tiết mục dân ca",
-        "cho ngày hội văn hóa."
+        "cho ngày hội văn hóa"
       ],
       "answer": "Trong mùa hè năm ấy, nhóm nghiên cứu trẻ hăng hái luyện tập tiết mục dân ca cho ngày hội văn hóa.",
       "explanation": "Trật tự đúng tạo thành câu: “Trong mùa hè năm ấy, nhóm nghiên cứu trẻ hăng hái luyện tập tiết mục dân ca cho ngày hội văn hóa.”"
@@ -9546,7 +9538,7 @@
       "elements": [
         "cẩn thận phục chế",
         "những hiện vật cũ",
-        "trong phòng trưng bày.",
+        "trong phòng trưng bày",
         "Nhóm nghiên cứu trẻ"
       ],
       "answer": "Nhóm nghiên cứu trẻ cẩn thận phục chế những hiện vật cũ trong phòng trưng bày.",
@@ -9563,7 +9555,7 @@
         "bền bỉ tuần tra",
         "Mỗi dịp cuối tuần, nhóm nghiên cứu trẻ",
         "cánh rừng đầu nguồn",
-        "để ngăn chặn cháy rừng."
+        "để ngăn chặn cháy rừng"
       ],
       "answer": "Mỗi dịp cuối tuần, nhóm nghiên cứu trẻ bền bỉ tuần tra cánh rừng đầu nguồn để ngăn chặn cháy rừng.",
       "explanation": "Trật tự đúng tạo thành câu: “Mỗi dịp cuối tuần, nhóm nghiên cứu trẻ bền bỉ tuần tra cánh rừng đầu nguồn để ngăn chặn cháy rừng.”"
@@ -9578,7 +9570,7 @@
       "elements": [
         "Trong mùa hè năm ấy, nhóm nghiên cứu trẻ",
         "phong tục địa phương",
-        "với khách phương xa.",
+        "với khách phương xa",
         "ân cần giới thiệu"
       ],
       "answer": "Trong mùa hè năm ấy, nhóm nghiên cứu trẻ ân cần giới thiệu phong tục địa phương với khách phương xa.",
@@ -9594,7 +9586,7 @@
       "elements": [
         "Nhóm nghiên cứu trẻ",
         "cùng nhau làm sạch",
-        "sau cơn bão lớn.",
+        "sau cơn bão lớn",
         "bãi biển quê nhà"
       ],
       "answer": "Nhóm nghiên cứu trẻ cùng nhau làm sạch bãi biển quê nhà sau cơn bão lớn.",
@@ -9608,7 +9600,7 @@
       "questionId": "k4_c4_sx_083",
       "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Nhóm nghiên cứu trẻ” và hoạt động “tích cực quyên góp”:",
       "elements": [
-        "cho trẻ em vùng khó.",
+        "cho trẻ em vùng khó",
         "áo ấm và sách vở",
         "Mỗi dịp cuối tuần, nhóm nghiên cứu trẻ",
         "tích cực quyên góp"
@@ -9625,7 +9617,7 @@
       "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Người dân ven sông” và hoạt động “chung tay trồng”:",
       "elements": [
         "Trong mùa hè năm ấy, người dân ven sông",
-        "dọc con đường mới.",
+        "dọc con đường mới",
         "hàng cây bản địa",
         "chung tay trồng"
       ],
@@ -9642,7 +9634,7 @@
       "elements": [
         "miệt mài sưu tầm",
         "Người dân ven sông",
-        "về lịch sử quê hương.",
+        "về lịch sử quê hương",
         "tư liệu quý"
       ],
       "answer": "Người dân ven sông miệt mài sưu tầm tư liệu quý về lịch sử quê hương.",
@@ -9658,7 +9650,7 @@
       "elements": [
         "Mỗi dịp cuối tuần, người dân ven sông",
         "các em nhỏ",
-        "đọc sách mỗi buổi chiều.",
+        "đọc sách mỗi buổi chiều",
         "kiên nhẫn hướng dẫn"
       ],
       "answer": "Mỗi dịp cuối tuần, người dân ven sông kiên nhẫn hướng dẫn các em nhỏ đọc sách mỗi buổi chiều.",
@@ -9673,7 +9665,7 @@
       "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Người dân ven sông” và hoạt động “khẩn trương gia cố”:",
       "elements": [
         "Trong mùa hè năm ấy, người dân ven sông",
-        "trước mùa mưa bão.",
+        "trước mùa mưa bão",
         "khẩn trương gia cố",
         "bờ kè ven sông"
       ],
@@ -9690,7 +9682,7 @@
       "elements": [
         "tiết mục dân ca",
         "Người dân ven sông",
-        "cho ngày hội văn hóa.",
+        "cho ngày hội văn hóa",
         "hăng hái luyện tập"
       ],
       "answer": "Người dân ven sông hăng hái luyện tập tiết mục dân ca cho ngày hội văn hóa.",
@@ -9707,7 +9699,7 @@
         "Mỗi dịp cuối tuần, người dân ven sông",
         "cẩn thận phục chế",
         "những hiện vật cũ",
-        "trong phòng trưng bày."
+        "trong phòng trưng bày"
       ],
       "answer": "Mỗi dịp cuối tuần, người dân ven sông cẩn thận phục chế những hiện vật cũ trong phòng trưng bày.",
       "explanation": "Trật tự đúng tạo thành câu: “Mỗi dịp cuối tuần, người dân ven sông cẩn thận phục chế những hiện vật cũ trong phòng trưng bày.”"
@@ -9723,7 +9715,7 @@
         "bền bỉ tuần tra",
         "Trong mùa hè năm ấy, người dân ven sông",
         "cánh rừng đầu nguồn",
-        "để ngăn chặn cháy rừng."
+        "để ngăn chặn cháy rừng"
       ],
       "answer": "Trong mùa hè năm ấy, người dân ven sông bền bỉ tuần tra cánh rừng đầu nguồn để ngăn chặn cháy rừng.",
       "explanation": "Trật tự đúng tạo thành câu: “Trong mùa hè năm ấy, người dân ven sông bền bỉ tuần tra cánh rừng đầu nguồn để ngăn chặn cháy rừng.”"
@@ -9739,7 +9731,7 @@
         "Người dân ven sông",
         "ân cần giới thiệu",
         "phong tục địa phương",
-        "với khách phương xa."
+        "với khách phương xa"
       ],
       "answer": "Người dân ven sông ân cần giới thiệu phong tục địa phương với khách phương xa.",
       "explanation": "Trật tự đúng tạo thành câu: “Người dân ven sông ân cần giới thiệu phong tục địa phương với khách phương xa.”"
@@ -9753,7 +9745,7 @@
       "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Người dân ven sông” và hoạt động “cùng nhau làm sạch”:",
       "elements": [
         "Mỗi dịp cuối tuần, người dân ven sông",
-        "sau cơn bão lớn.",
+        "sau cơn bão lớn",
         "cùng nhau làm sạch",
         "bãi biển quê nhà"
       ],
@@ -9769,7 +9761,7 @@
       "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Người dân ven sông” và hoạt động “tích cực quyên góp”:",
       "elements": [
         "áo ấm và sách vở",
-        "cho trẻ em vùng khó.",
+        "cho trẻ em vùng khó",
         "Trong mùa hè năm ấy, người dân ven sông",
         "tích cực quyên góp"
       ],
@@ -9787,7 +9779,7 @@
         "hàng cây bản địa",
         "Những nghệ nhân cao tuổi",
         "chung tay trồng",
-        "dọc con đường mới."
+        "dọc con đường mới"
       ],
       "answer": "Những nghệ nhân cao tuổi chung tay trồng hàng cây bản địa dọc con đường mới.",
       "explanation": "Trật tự đúng tạo thành câu: “Những nghệ nhân cao tuổi chung tay trồng hàng cây bản địa dọc con đường mới.”"
@@ -9801,7 +9793,7 @@
       "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Những nghệ nhân cao tuổi” và hoạt động “miệt mài sưu tầm”:",
       "elements": [
         "miệt mài sưu tầm",
-        "về lịch sử quê hương.",
+        "về lịch sử quê hương",
         "Mỗi dịp cuối tuần, những nghệ nhân cao tuổi",
         "tư liệu quý"
       ],
@@ -9819,7 +9811,7 @@
         "các em nhỏ",
         "Trong mùa hè năm ấy, những nghệ nhân cao tuổi",
         "kiên nhẫn hướng dẫn",
-        "đọc sách mỗi buổi chiều."
+        "đọc sách mỗi buổi chiều"
       ],
       "answer": "Trong mùa hè năm ấy, những nghệ nhân cao tuổi kiên nhẫn hướng dẫn các em nhỏ đọc sách mỗi buổi chiều.",
       "explanation": "Trật tự đúng tạo thành câu: “Trong mùa hè năm ấy, những nghệ nhân cao tuổi kiên nhẫn hướng dẫn các em nhỏ đọc sách mỗi buổi chiều.”"
@@ -9833,7 +9825,7 @@
       "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Những nghệ nhân cao tuổi” và hoạt động “khẩn trương gia cố”:",
       "elements": [
         "bờ kè ven sông",
-        "trước mùa mưa bão.",
+        "trước mùa mưa bão",
         "khẩn trương gia cố",
         "Những nghệ nhân cao tuổi"
       ],
@@ -9850,7 +9842,7 @@
       "elements": [
         "hăng hái luyện tập",
         "Mỗi dịp cuối tuần, những nghệ nhân cao tuổi",
-        "cho ngày hội văn hóa.",
+        "cho ngày hội văn hóa",
         "tiết mục dân ca"
       ],
       "answer": "Mỗi dịp cuối tuần, những nghệ nhân cao tuổi hăng hái luyện tập tiết mục dân ca cho ngày hội văn hóa.",
@@ -9864,7 +9856,7 @@
       "questionId": "k4_c4_sx_099",
       "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Những nghệ nhân cao tuổi” và hoạt động “cẩn thận phục chế”:",
       "elements": [
-        "trong phòng trưng bày.",
+        "trong phòng trưng bày",
         "Trong mùa hè năm ấy, những nghệ nhân cao tuổi",
         "những hiện vật cũ",
         "cẩn thận phục chế"
@@ -9880,7 +9872,7 @@
       "questionId": "k4_c4_sx_100",
       "question": "Những nghệ nhân cao tuổi bền bì hỗ trợ cộng đồng bảo vệ rừng bằng cách tuyên truyền kỹ năng phòng cháy.",
       "elements": [
-        "để ngăn chặn cháy rừng.",
+        "để ngăn chặn cháy rừng",
         "bền bỉ tuần tra",
         "Những nghệ nhân cao tuổi",
         "cánh rừng đầu nguồn"
@@ -9898,7 +9890,7 @@
       "elements": [
         "ân cần giới thiệu",
         "phong tục địa phương",
-        "với khách phương xa.",
+        "với khách phương xa",
         "Mỗi dịp cuối tuần, những nghệ nhân cao tuổi"
       ],
       "answer": "Mỗi dịp cuối tuần, những nghệ nhân cao tuổi ân cần giới thiệu phong tục địa phương với khách phương xa.",
@@ -9915,7 +9907,7 @@
         "cùng nhau làm sạch",
         "bãi biển quê nhà",
         "Trong mùa hè năm ấy, những nghệ nhân cao tuổi",
-        "sau cơn bão lớn."
+        "sau cơn bão lớn"
       ],
       "answer": "Trong mùa hè năm ấy, những nghệ nhân cao tuổi cùng nhau làm sạch bãi biển quê nhà sau cơn bão lớn.",
       "explanation": "Trật tự đúng tạo thành câu: “Trong mùa hè năm ấy, những nghệ nhân cao tuổi cùng nhau làm sạch bãi biển quê nhà sau cơn bão lớn.”"
@@ -9928,7 +9920,7 @@
       "questionId": "k4_c4_sx_103",
       "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Những nghệ nhân cao tuổi” và hoạt động “tích cực quyên góp”:",
       "elements": [
-        "cho trẻ em vùng khó.",
+        "cho trẻ em vùng khó",
         "tích cực quyên góp",
         "áo ấm và sách vở",
         "Những nghệ nhân cao tuổi"
@@ -9944,7 +9936,7 @@
       "questionId": "k4_c4_sx_104",
       "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Cô hướng dẫn viên” và hoạt động “chung tay trồng”:",
       "elements": [
-        "dọc con đường mới.",
+        "dọc con đường mới",
         "Mỗi dịp cuối tuần, cô hướng dẫn viên",
         "chung tay trồng",
         "hàng cây bản địa"
@@ -9961,7 +9953,7 @@
       "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Cô hướng dẫn viên” và hoạt động “miệt mài sưu tầm”:",
       "elements": [
         "tư liệu quý",
-        "về lịch sử quê hương.",
+        "về lịch sử quê hương",
         "Trong mùa hè năm ấy, cô hướng dẫn viên",
         "miệt mài sưu tầm"
       ],
@@ -9977,7 +9969,7 @@
       "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Cô hướng dẫn viên” và hoạt động “kiên nhẫn hướng dẫn”:",
       "elements": [
         "các em nhỏ",
-        "đọc sách mỗi buổi chiều.",
+        "đọc sách mỗi buổi chiều",
         "Cô hướng dẫn viên",
         "kiên nhẫn hướng dẫn"
       ],
@@ -9994,7 +9986,7 @@
       "elements": [
         "Mỗi dịp cuối tuần, cô hướng dẫn viên",
         "khẩn trương gia cố",
-        "trước mùa mưa bão.",
+        "trước mùa mưa bão",
         "bờ kè ven sông"
       ],
       "answer": "Mỗi dịp cuối tuần, cô hướng dẫn viên khẩn trương gia cố bờ kè ven sông trước mùa mưa bão.",
@@ -10009,7 +10001,7 @@
       "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Cô hướng dẫn viên” và hoạt động “hăng hái luyện tập”:",
       "elements": [
         "hăng hái luyện tập",
-        "cho ngày hội văn hóa.",
+        "cho ngày hội văn hóa",
         "Trong mùa hè năm ấy, cô hướng dẫn viên",
         "tiết mục dân ca"
       ],
@@ -10027,7 +10019,7 @@
         "Cô hướng dẫn viên",
         "cẩn thận phục chế",
         "những hiện vật cũ",
-        "trong phòng trưng bày."
+        "trong phòng trưng bày"
       ],
       "answer": "Cô hướng dẫn viên cẩn thận phục chế những hiện vật cũ trong phòng trưng bày.",
       "explanation": "Trật tự đúng tạo thành câu: “Cô hướng dẫn viên cẩn thận phục chế những hiện vật cũ trong phòng trưng bày.”"
@@ -10040,7 +10032,7 @@
       "questionId": "k4_c4_sx_110",
       "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Cô hướng dẫn viên” và hoạt động “bền bỉ tuần tra”:",
       "elements": [
-        "để ngăn chặn cháy rừng.",
+        "để ngăn chặn cháy rừng",
         "cánh rừng đầu nguồn",
         "bền bỉ tuần tra",
         "Mỗi dịp cuối tuần, cô hướng dẫn viên"
@@ -10056,7 +10048,7 @@
       "questionId": "k4_c4_sx_111",
       "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Cô hướng dẫn viên” và hoạt động “ân cần giới thiệu”:",
       "elements": [
-        "với khách phương xa.",
+        "với khách phương xa",
         "phong tục địa phương",
         "Trong mùa hè năm ấy, cô hướng dẫn viên",
         "ân cần giới thiệu"
@@ -10074,7 +10066,7 @@
       "elements": [
         "Cô hướng dẫn viên",
         "cùng nhau làm sạch",
-        "sau cơn bão lớn.",
+        "sau cơn bão lớn",
         "bãi biển quê nhà"
       ],
       "answer": "Cô hướng dẫn viên cùng nhau làm sạch bãi biển quê nhà sau cơn bão lớn.",
@@ -10088,7 +10080,7 @@
       "questionId": "k4_c4_sx_113",
       "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Cô hướng dẫn viên” và hoạt động “tích cực quyên góp”:",
       "elements": [
-        "cho trẻ em vùng khó.",
+        "cho trẻ em vùng khó",
         "áo ấm và sách vở",
         "tích cực quyên góp",
         "Mỗi dịp cuối tuần, cô hướng dẫn viên"
@@ -10104,7 +10096,7 @@
       "questionId": "k4_c4_sx_114",
       "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Đội kiểm lâm địa phương” và hoạt động “chung tay trồng”:",
       "elements": [
-        "dọc con đường mới.",
+        "dọc con đường mới",
         "hàng cây bản địa",
         "Trong mùa hè năm ấy, đội kiểm lâm địa phương",
         "chung tay trồng"
@@ -10120,7 +10112,7 @@
       "questionId": "k4_c4_sx_115",
       "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Đội kiểm lâm địa phương” và hoạt động “miệt mài sưu tầm”:",
       "elements": [
-        "về lịch sử quê hương.",
+        "về lịch sử quê hương",
         "miệt mài sưu tầm",
         "tư liệu quý",
         "Đội kiểm lâm địa phương"
@@ -10137,7 +10129,7 @@
       "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Đội kiểm lâm địa phương” và hoạt động “kiên nhẫn hướng dẫn”:",
       "elements": [
         "các em nhỏ",
-        "đọc sách mỗi buổi chiều.",
+        "đọc sách mỗi buổi chiều",
         "Mỗi dịp cuối tuần, đội kiểm lâm địa phương",
         "kiên nhẫn hướng dẫn"
       ],
@@ -10153,7 +10145,7 @@
       "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Đội kiểm lâm địa phương” và hoạt động “khẩn trương gia cố”:",
       "elements": [
         "Trong mùa hè năm ấy, đội kiểm lâm địa phương",
-        "trước mùa mưa bão.",
+        "trước mùa mưa bão",
         "khẩn trương gia cố",
         "bờ kè ven sông"
       ],
@@ -10169,7 +10161,7 @@
       "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Đội kiểm lâm địa phương” và hoạt động “hăng hái luyện tập”:",
       "elements": [
         "tiết mục dân ca",
-        "cho ngày hội văn hóa.",
+        "cho ngày hội văn hóa",
         "hăng hái luyện tập",
         "Đội kiểm lâm địa phương"
       ],
@@ -10187,7 +10179,7 @@
         "cẩn thận phục chế",
         "Mỗi dịp cuối tuần, đội kiểm lâm địa phương",
         "những hiện vật cũ",
-        "trong phòng trưng bày."
+        "trong phòng trưng bày"
       ],
       "answer": "Mỗi dịp cuối tuần, đội kiểm lâm địa phương cẩn thận phục chế những hiện vật cũ trong phòng trưng bày.",
       "explanation": "Trật tự đúng tạo thành câu: “Mỗi dịp cuối tuần, đội kiểm lâm địa phương cẩn thận phục chế những hiện vật cũ trong phòng trưng bày.”"
@@ -10202,7 +10194,7 @@
       "elements": [
         "bền bỉ tuần tra",
         "cánh rừng đầu nguồn",
-        "để ngăn chặn cháy rừng.",
+        "để ngăn chặn cháy rừng",
         "Trong mùa hè năm ấy, đội kiểm lâm địa phương"
       ],
       "answer": "Trong mùa hè năm ấy, đội kiểm lâm địa phương bền bỉ tuần tra cánh rừng đầu nguồn để ngăn chặn cháy rừng.",
@@ -10216,7 +10208,7 @@
       "questionId": "k4_c4_sx_121",
       "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Đội kiểm lâm địa phương” và hoạt động “ân cần giới thiệu”:",
       "elements": [
-        "với khách phương xa.",
+        "với khách phương xa",
         "Đội kiểm lâm địa phương",
         "ân cần giới thiệu",
         "phong tục địa phương"
@@ -10232,7 +10224,7 @@
       "questionId": "k4_c4_sx_122",
       "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Đội kiểm lâm địa phương” và hoạt động “cùng nhau làm sạch”:",
       "elements": [
-        "sau cơn bão lớn.",
+        "sau cơn bão lớn",
         "bãi biển quê nhà",
         "cùng nhau làm sạch",
         "Mỗi dịp cuối tuần, đội kiểm lâm địa phương"
@@ -10249,7 +10241,7 @@
       "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Đội kiểm lâm địa phương” và hoạt động “tích cực quyên góp”:",
       "elements": [
         "áo ấm và sách vở",
-        "cho trẻ em vùng khó.",
+        "cho trẻ em vùng khó",
         "tích cực quyên góp",
         "Trong mùa hè năm ấy, đội kiểm lâm địa phương"
       ],
@@ -10265,7 +10257,7 @@
       "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Các bạn nhỏ trong xóm” và hoạt động “chung tay trồng”:",
       "elements": [
         "hàng cây bản địa",
-        "dọc con đường mới.",
+        "dọc con đường mới",
         "chung tay trồng",
         "Các bạn nhỏ trong xóm"
       ],
@@ -10281,7 +10273,7 @@
       "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Các bạn nhỏ trong xóm” và hoạt động “miệt mài sưu tầm”:",
       "elements": [
         "Mỗi dịp cuối tuần, các bạn nhỏ trong xóm",
-        "về lịch sử quê hương.",
+        "về lịch sử quê hương",
         "miệt mài sưu tầm",
         "tư liệu quý"
       ],
@@ -10299,7 +10291,7 @@
         "kiên nhẫn hướng dẫn",
         "các em nhỏ",
         "Trong mùa hè năm ấy, các bạn nhỏ trong xóm",
-        "đọc sách mỗi buổi chiều."
+        "đọc sách mỗi buổi chiều"
       ],
       "answer": "Trong mùa hè năm ấy, các bạn nhỏ trong xóm kiên nhẫn hướng dẫn các em nhỏ đọc sách mỗi buổi chiều.",
       "explanation": "Trật tự đúng tạo thành câu: “Trong mùa hè năm ấy, các bạn nhỏ trong xóm kiên nhẫn hướng dẫn các em nhỏ đọc sách mỗi buổi chiều.”"
@@ -10313,7 +10305,7 @@
       "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Các bạn nhỏ trong xóm” và hoạt động “khẩn trương gia cố”:",
       "elements": [
         "Các bạn nhỏ trong xóm",
-        "trước mùa mưa bão.",
+        "trước mùa mưa bão",
         "khẩn trương gia cố",
         "bờ kè ven sông"
       ],
@@ -10331,7 +10323,7 @@
         "hăng hái luyện tập",
         "tiết mục dân ca",
         "Mỗi dịp cuối tuần, các bạn nhỏ trong xóm",
-        "cho ngày hội văn hóa."
+        "cho ngày hội văn hóa"
       ],
       "answer": "Mỗi dịp cuối tuần, các bạn nhỏ trong xóm hăng hái luyện tập tiết mục dân ca cho ngày hội văn hóa.",
       "explanation": "Trật tự đúng tạo thành câu: “Mỗi dịp cuối tuần, các bạn nhỏ trong xóm hăng hái luyện tập tiết mục dân ca cho ngày hội văn hóa.”"
@@ -10344,7 +10336,7 @@
       "questionId": "k4_c4_sx_129",
       "question": "Các bạn nhỏ trong xóm cẩn thận học cách bảo quản những hiện vật cũ trong phòng trưng bày.",
       "elements": [
-        "trong phòng trưng bày.",
+        "trong phòng trưng bày",
         "cẩn thận phục chế",
         "những hiện vật cũ",
         "Trong mùa hè năm ấy, các bạn nhỏ trong xóm"
@@ -10363,7 +10355,7 @@
         "cánh rừng đầu nguồn",
         "bền bỉ tuần tra",
         "Các bạn nhỏ trong xóm",
-        "để ngăn chặn cháy rừng."
+        "để ngăn chặn cháy rừng"
       ],
       "answer": "Các bạn nhỏ trong xóm bền bỉ tuần tra cánh rừng đầu nguồn để ngăn chặn cháy rừng.",
       "explanation": "Trật tự đúng tạo thành câu: “Các bạn nhỏ trong xóm bền bỉ tuần tra cánh rừng đầu nguồn để ngăn chặn cháy rừng.”"
@@ -10378,7 +10370,7 @@
       "elements": [
         "phong tục địa phương",
         "ân cần giới thiệu",
-        "với khách phương xa.",
+        "với khách phương xa",
         "Mỗi dịp cuối tuần, các bạn nhỏ trong xóm"
       ],
       "answer": "Mỗi dịp cuối tuần, các bạn nhỏ trong xóm ân cần giới thiệu phong tục địa phương với khách phương xa.",
@@ -10393,7 +10385,7 @@
       "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Các bạn nhỏ trong xóm” và hoạt động “cùng nhau làm sạch”:",
       "elements": [
         "cùng nhau làm sạch",
-        "sau cơn bão lớn.",
+        "sau cơn bão lớn",
         "Trong mùa hè năm ấy, các bạn nhỏ trong xóm",
         "bãi biển quê nhà"
       ],
@@ -10408,7 +10400,7 @@
       "questionId": "k4_c4_sx_133",
       "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Các bạn nhỏ trong xóm” và hoạt động “tích cực quyên góp”:",
       "elements": [
-        "cho trẻ em vùng khó.",
+        "cho trẻ em vùng khó",
         "Các bạn nhỏ trong xóm",
         "tích cực quyên góp",
         "áo ấm và sách vở"
@@ -10426,7 +10418,7 @@
       "elements": [
         "chung tay trồng",
         "hàng cây bản địa",
-        "dọc con đường mới.",
+        "dọc con đường mới",
         "Mỗi dịp cuối tuần, những người lính cứu hỏa"
       ],
       "answer": "Mỗi dịp cuối tuần, những người lính cứu hỏa chung tay trồng hàng cây bản địa dọc con đường mới.",
@@ -10442,7 +10434,7 @@
       "elements": [
         "Trong mùa hè năm ấy, những người lính cứu hỏa",
         "tư liệu quý",
-        "về lịch sử quê hương.",
+        "về lịch sử quê hương",
         "miệt mài sưu tầm"
       ],
       "answer": "Trong mùa hè năm ấy, những người lính cứu hỏa miệt mài sưu tầm tư liệu quý về lịch sử quê hương.",
@@ -10456,7 +10448,7 @@
       "questionId": "k4_c4_sx_136",
       "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Những người lính cứu hỏa” và hoạt động “kiên nhẫn hướng dẫn”:",
       "elements": [
-        "đọc sách mỗi buổi chiều.",
+        "đọc sách mỗi buổi chiều",
         "kiên nhẫn hướng dẫn",
         "các em nhỏ",
         "Những người lính cứu hỏa"
@@ -10472,7 +10464,7 @@
       "questionId": "k4_c4_sx_137",
       "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Những người lính cứu hỏa” và hoạt động “khẩn trương gia cố”:",
       "elements": [
-        "trước mùa mưa bão.",
+        "trước mùa mưa bão",
         "khẩn trương gia cố",
         "bờ kè ven sông",
         "Mỗi dịp cuối tuần, những người lính cứu hỏa"
@@ -10490,7 +10482,7 @@
       "elements": [
         "hăng hái luyện tập",
         "tiết mục dân ca",
-        "cho ngày hội văn hóa.",
+        "cho ngày hội văn hóa",
         "Trong mùa hè năm ấy, những người lính cứu hỏa"
       ],
       "answer": "Trong mùa hè năm ấy, những người lính cứu hỏa hăng hái luyện tập tiết mục dân ca cho ngày hội văn hóa.",
@@ -10505,7 +10497,7 @@
       "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Những người lính cứu hỏa” và hoạt động “cẩn thận phục chế”:",
       "elements": [
         "những hiện vật cũ",
-        "trong phòng trưng bày.",
+        "trong phòng trưng bày",
         "Những người lính cứu hỏa",
         "cẩn thận phục chế"
       ],
@@ -10520,7 +10512,7 @@
       "questionId": "k4_c4_sx_140",
       "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Những người lính cứu hỏa” và hoạt động “bền bỉ tuần tra”:",
       "elements": [
-        "để ngăn chặn cháy rừng.",
+        "để ngăn chặn cháy rừng",
         "bền bỉ tuần tra",
         "cánh rừng đầu nguồn",
         "Mỗi dịp cuối tuần, những người lính cứu hỏa"
@@ -10538,7 +10530,7 @@
       "elements": [
         "ân cần giới thiệu",
         "Trong mùa hè năm ấy, những người lính cứu hỏa",
-        "với khách phương xa.",
+        "với khách phương xa",
         "phong tục địa phương"
       ],
       "answer": "Trong mùa hè năm ấy, những người lính cứu hỏa ân cần giới thiệu phong tục địa phương với khách phương xa.",
@@ -10555,7 +10547,7 @@
         "Những người lính cứu hỏa",
         "cùng nhau làm sạch",
         "bãi biển quê nhà",
-        "sau cơn bão lớn."
+        "sau cơn bão lớn"
       ],
       "answer": "Những người lính cứu hỏa cùng nhau làm sạch bãi biển quê nhà sau cơn bão lớn.",
       "explanation": "Trật tự đúng tạo thành câu: “Những người lính cứu hỏa cùng nhau làm sạch bãi biển quê nhà sau cơn bão lớn.”"
@@ -10570,7 +10562,7 @@
       "elements": [
         "áo ấm và sách vở",
         "Mỗi dịp cuối tuần, những người lính cứu hỏa",
-        "cho trẻ em vùng khó.",
+        "cho trẻ em vùng khó",
         "tích cực quyên góp"
       ],
       "answer": "Mỗi dịp cuối tuần, những người lính cứu hỏa tích cực quyên góp áo ấm và sách vở cho trẻ em vùng khó.",
@@ -10587,7 +10579,7 @@
         "chung tay trồng",
         "Trong mùa hè năm ấy, tập thể lớp em",
         "hàng cây bản địa",
-        "dọc con đường mới."
+        "dọc con đường mới"
       ],
       "answer": "Trong mùa hè năm ấy, tập thể lớp em chung tay trồng hàng cây bản địa dọc con đường mới.",
       "explanation": "Trật tự đúng tạo thành câu: “Trong mùa hè năm ấy, tập thể lớp em chung tay trồng hàng cây bản địa dọc con đường mới.”"
@@ -10603,7 +10595,7 @@
         "miệt mài sưu tầm",
         "Tập thể lớp em",
         "tư liệu quý",
-        "về lịch sử quê hương."
+        "về lịch sử quê hương"
       ],
       "answer": "Tập thể lớp em miệt mài sưu tầm tư liệu quý về lịch sử quê hương.",
       "explanation": "Trật tự đúng tạo thành câu: “Tập thể lớp em miệt mài sưu tầm tư liệu quý về lịch sử quê hương.”"
@@ -10616,7 +10608,7 @@
       "questionId": "k4_c4_sx_146",
       "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Tập thể lớp em” và hoạt động “kiên nhẫn hướng dẫn”:",
       "elements": [
-        "đọc sách mỗi buổi chiều.",
+        "đọc sách mỗi buổi chiều",
         "Mỗi dịp cuối tuần, tập thể lớp em",
         "kiên nhẫn hướng dẫn",
         "các em nhỏ"
@@ -10633,7 +10625,7 @@
       "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Tập thể lớp em” và hoạt động “khẩn trương gia cố”:",
       "elements": [
         "khẩn trương gia cố",
-        "trước mùa mưa bão.",
+        "trước mùa mưa bão",
         "bờ kè ven sông",
         "Trong mùa hè năm ấy, tập thể lớp em"
       ],
@@ -10651,7 +10643,7 @@
         "Tập thể lớp em",
         "hăng hái luyện tập",
         "tiết mục dân ca",
-        "cho ngày hội văn hóa."
+        "cho ngày hội văn hóa"
       ],
       "answer": "Tập thể lớp em hăng hái luyện tập tiết mục dân ca cho ngày hội văn hóa.",
       "explanation": "Trật tự đúng tạo thành câu: “Tập thể lớp em hăng hái luyện tập tiết mục dân ca cho ngày hội văn hóa.”"
@@ -10666,7 +10658,7 @@
       "elements": [
         "những hiện vật cũ",
         "cẩn thận phục chế",
-        "trong phòng trưng bày.",
+        "trong phòng trưng bày",
         "Mỗi dịp cuối tuần, tập thể lớp em"
       ],
       "answer": "Mỗi dịp cuối tuần, tập thể lớp em cẩn thận phục chế những hiện vật cũ trong phòng trưng bày.",
@@ -10683,7 +10675,7 @@
         "cánh rừng đầu nguồn",
         "Trong mùa hè năm ấy, tập thể lớp em",
         "bền bỉ tuần tra",
-        "để ngăn chặn cháy rừng."
+        "để ngăn chặn cháy rừng"
       ],
       "answer": "Trong mùa hè năm ấy, tập thể lớp em bền bỉ tuần tra cánh rừng đầu nguồn để ngăn chặn cháy rừng.",
       "explanation": "Trật tự đúng tạo thành câu: “Trong mùa hè năm ấy, tập thể lớp em bền bỉ tuần tra cánh rừng đầu nguồn để ngăn chặn cháy rừng.”"
@@ -10698,7 +10690,7 @@
       "elements": [
         "ân cần giới thiệu",
         "Tập thể lớp em",
-        "với khách phương xa.",
+        "với khách phương xa",
         "phong tục địa phương"
       ],
       "answer": "Tập thể lớp em ân cần giới thiệu phong tục địa phương với khách phương xa.",
@@ -10713,7 +10705,7 @@
       "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Tập thể lớp em” và hoạt động “cùng nhau làm sạch”:",
       "elements": [
         "Mỗi dịp cuối tuần, tập thể lớp em",
-        "sau cơn bão lớn.",
+        "sau cơn bão lớn",
         "bãi biển quê nhà",
         "cùng nhau làm sạch"
       ],
@@ -10729,7 +10721,7 @@
       "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Tập thể lớp em” và hoạt động “tích cực quyên góp”:",
       "elements": [
         "tích cực quyên góp",
-        "cho trẻ em vùng khó.",
+        "cho trẻ em vùng khó",
         "áo ấm và sách vở",
         "Trong mùa hè năm ấy, tập thể lớp em"
       ],
@@ -10744,7 +10736,7 @@
       "questionId": "k4_c4_sx_154",
       "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Các nhà khảo cổ” và hoạt động “chung tay trồng”:",
       "elements": [
-        "dọc con đường mới.",
+        "dọc con đường mới",
         "Các nhà khảo cổ",
         "chung tay trồng",
         "hàng cây bản địa"
@@ -10762,7 +10754,7 @@
       "elements": [
         "miệt mài sưu tầm",
         "Mỗi dịp cuối tuần, các nhà khảo cổ",
-        "về lịch sử quê hương.",
+        "về lịch sử quê hương",
         "tư liệu quý"
       ],
       "answer": "Mỗi dịp cuối tuần, các nhà khảo cổ miệt mài sưu tầm tư liệu quý về lịch sử quê hương.",
@@ -10778,7 +10770,7 @@
       "elements": [
         "kiên nhẫn hướng dẫn",
         "các em nhỏ",
-        "đọc sách mỗi buổi chiều.",
+        "đọc sách mỗi buổi chiều",
         "Trong mùa hè năm ấy, các nhà khảo cổ"
       ],
       "answer": "Trong mùa hè năm ấy, các nhà khảo cổ kiên nhẫn hướng dẫn các em nhỏ đọc sách mỗi buổi chiều.",
@@ -10794,7 +10786,7 @@
       "elements": [
         "bờ kè ven sông",
         "khẩn trương gia cố",
-        "trước mùa mưa bão.",
+        "trước mùa mưa bão",
         "Các nhà khảo cổ"
       ],
       "answer": "Các nhà khảo cổ khẩn trương gia cố bờ kè ven sông trước mùa mưa bão.",
@@ -10808,7 +10800,7 @@
       "questionId": "k4_c4_sx_158",
       "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Các nhà khảo cổ” và hoạt động “hăng hái luyện tập”:",
       "elements": [
-        "cho ngày hội văn hóa.",
+        "cho ngày hội văn hóa",
         "tiết mục dân ca",
         "Mỗi dịp cuối tuần, các nhà khảo cổ",
         "hăng hái luyện tập"
@@ -10825,7 +10817,7 @@
       "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Các nhà khảo cổ” và hoạt động “cẩn thận phục chế”:",
       "elements": [
         "Trong mùa hè năm ấy, các nhà khảo cổ",
-        "trong phòng trưng bày.",
+        "trong phòng trưng bày",
         "cẩn thận phục chế",
         "những hiện vật cũ"
       ],
@@ -10840,7 +10832,7 @@
       "questionId": "k4_c4_sx_160",
       "question": "Các nhà khảo cổ bền bì bảo vệ các di chỉ cổ tại khu rừng đầu nguồn khỏi nguy cơ cháy rừng.",
       "elements": [
-        "để ngăn chặn cháy rừng.",
+        "để ngăn chặn cháy rừng",
         "bền bỉ tuần tra",
         "Các nhà khảo cổ",
         "cánh rừng đầu nguồn"
@@ -10857,7 +10849,7 @@
       "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Các nhà khảo cổ” và hoạt động “ân cần giới thiệu”:",
       "elements": [
         "ân cần giới thiệu",
-        "với khách phương xa.",
+        "với khách phương xa",
         "Mỗi dịp cuối tuần, các nhà khảo cổ",
         "phong tục địa phương"
       ],
@@ -10872,7 +10864,7 @@
       "questionId": "k4_c4_sx_162",
       "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Các nhà khảo cổ” và hoạt động “cùng nhau làm sạch”:",
       "elements": [
-        "sau cơn bão lớn.",
+        "sau cơn bão lớn",
         "bãi biển quê nhà",
         "Trong mùa hè năm ấy, các nhà khảo cổ",
         "cùng nhau làm sạch"
@@ -10888,7 +10880,7 @@
       "questionId": "k4_c4_sx_163",
       "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Các nhà khảo cổ” và hoạt động “tích cực quyên góp”:",
       "elements": [
-        "cho trẻ em vùng khó.",
+        "cho trẻ em vùng khó",
         "Các nhà khảo cổ",
         "tích cực quyên góp",
         "áo ấm và sách vở"
@@ -10905,7 +10897,7 @@
       "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Bà con trong bản” và hoạt động “chung tay trồng”:",
       "elements": [
         "chung tay trồng",
-        "dọc con đường mới.",
+        "dọc con đường mới",
         "hàng cây bản địa",
         "Mỗi dịp cuối tuần, bà con trong bản"
       ],
@@ -10922,7 +10914,7 @@
       "elements": [
         "miệt mài sưu tầm",
         "Trong mùa hè năm ấy, bà con trong bản",
-        "về lịch sử quê hương.",
+        "về lịch sử quê hương",
         "tư liệu quý"
       ],
       "answer": "Trong mùa hè năm ấy, bà con trong bản miệt mài sưu tầm tư liệu quý về lịch sử quê hương.",
@@ -10939,7 +10931,7 @@
         "Bà con trong bản",
         "kiên nhẫn hướng dẫn",
         "các em nhỏ",
-        "đọc sách mỗi buổi chiều."
+        "đọc sách mỗi buổi chiều"
       ],
       "answer": "Bà con trong bản kiên nhẫn hướng dẫn các em nhỏ đọc sách mỗi buổi chiều.",
       "explanation": "Trật tự đúng tạo thành câu: “Bà con trong bản kiên nhẫn hướng dẫn các em nhỏ đọc sách mỗi buổi chiều.”"
@@ -10952,7 +10944,7 @@
       "questionId": "k4_c4_sx_167",
       "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Bà con trong bản” và hoạt động “khẩn trương gia cố”:",
       "elements": [
-        "trước mùa mưa bão.",
+        "trước mùa mưa bão",
         "Mỗi dịp cuối tuần, bà con trong bản",
         "bờ kè ven sông",
         "khẩn trương gia cố"
@@ -10970,7 +10962,7 @@
       "elements": [
         "hăng hái luyện tập",
         "tiết mục dân ca",
-        "cho ngày hội văn hóa.",
+        "cho ngày hội văn hóa",
         "Trong mùa hè năm ấy, bà con trong bản"
       ],
       "answer": "Trong mùa hè năm ấy, bà con trong bản hăng hái luyện tập tiết mục dân ca cho ngày hội văn hóa.",
@@ -10986,7 +10978,7 @@
       "elements": [
         "cẩn thận phục chế",
         "những hiện vật cũ",
-        "trong phòng trưng bày.",
+        "trong phòng trưng bày",
         "Bà con trong bản"
       ],
       "answer": "Bà con trong bản cẩn thận phục chế những hiện vật cũ trong phòng trưng bày.",
@@ -11003,7 +10995,7 @@
         "Mỗi dịp cuối tuần, bà con trong bản",
         "bền bỉ tuần tra",
         "cánh rừng đầu nguồn",
-        "để ngăn chặn cháy rừng."
+        "để ngăn chặn cháy rừng"
       ],
       "answer": "Mỗi dịp cuối tuần, bà con trong bản bền bỉ tuần tra cánh rừng đầu nguồn để ngăn chặn cháy rừng.",
       "explanation": "Trật tự đúng tạo thành câu: “Mỗi dịp cuối tuần, bà con trong bản bền bỉ tuần tra cánh rừng đầu nguồn để ngăn chặn cháy rừng.”"
@@ -11019,7 +11011,7 @@
         "Trong mùa hè năm ấy, bà con trong bản",
         "ân cần giới thiệu",
         "phong tục địa phương",
-        "với khách phương xa."
+        "với khách phương xa"
       ],
       "answer": "Trong mùa hè năm ấy, bà con trong bản ân cần giới thiệu phong tục địa phương với khách phương xa.",
       "explanation": "Trật tự đúng tạo thành câu: “Trong mùa hè năm ấy, bà con trong bản ân cần giới thiệu phong tục địa phương với khách phương xa.”"
@@ -11033,7 +11025,7 @@
       "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Bà con trong bản” và hoạt động “cùng nhau làm sạch”:",
       "elements": [
         "Bà con trong bản",
-        "sau cơn bão lớn.",
+        "sau cơn bão lớn",
         "bãi biển quê nhà",
         "cùng nhau làm sạch"
       ],
@@ -11049,7 +11041,7 @@
       "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Bà con trong bản” và hoạt động “tích cực quyên góp”:",
       "elements": [
         "áo ấm và sách vở",
-        "cho trẻ em vùng khó.",
+        "cho trẻ em vùng khó",
         "Mỗi dịp cuối tuần, bà con trong bản",
         "tích cực quyên góp"
       ],
@@ -11065,7 +11057,7 @@
       "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Những người làm vườn” và hoạt động “chung tay trồng”:",
       "elements": [
         "chung tay trồng",
-        "dọc con đường mới.",
+        "dọc con đường mới",
         "hàng cây bản địa",
         "Trong mùa hè năm ấy, những người làm vườn"
       ],
@@ -11081,7 +11073,7 @@
       "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Những người làm vườn” và hoạt động “miệt mài sưu tầm”:",
       "elements": [
         "miệt mài sưu tầm",
-        "về lịch sử quê hương.",
+        "về lịch sử quê hương",
         "Những người làm vườn",
         "tư liệu quý"
       ],
@@ -11098,7 +11090,7 @@
       "elements": [
         "Mỗi dịp cuối tuần, những người làm vườn",
         "kiên nhẫn hướng dẫn",
-        "đọc sách mỗi buổi chiều.",
+        "đọc sách mỗi buổi chiều",
         "các em nhỏ"
       ],
       "answer": "Mỗi dịp cuối tuần, những người làm vườn kiên nhẫn hướng dẫn các em nhỏ đọc sách mỗi buổi chiều.",
@@ -11112,7 +11104,7 @@
       "questionId": "k4_c4_sx_177",
       "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Những người làm vườn” và hoạt động “khẩn trương gia cố”:",
       "elements": [
-        "trước mùa mưa bão.",
+        "trước mùa mưa bão",
         "khẩn trương gia cố",
         "Trong mùa hè năm ấy, những người làm vườn",
         "bờ kè ven sông"
@@ -11131,7 +11123,7 @@
         "Những người làm vườn",
         "hăng hái luyện tập",
         "tiết mục dân ca",
-        "cho ngày hội văn hóa."
+        "cho ngày hội văn hóa"
       ],
       "answer": "Những người làm vườn hăng hái luyện tập tiết mục dân ca cho ngày hội văn hóa.",
       "explanation": "Trật tự đúng tạo thành câu: “Những người làm vườn hăng hái luyện tập tiết mục dân ca cho ngày hội văn hóa.”"
@@ -11144,7 +11136,7 @@
       "questionId": "k4_c4_sx_179",
       "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Những người làm vườn” và hoạt động “cẩn thận phục chế”:",
       "elements": [
-        "trong phòng trưng bày.",
+        "trong phòng trưng bày",
         "cẩn thận phục chế",
         "những hiện vật cũ",
         "Mỗi dịp cuối tuần, những người làm vườn"
@@ -11163,7 +11155,7 @@
         "bền bỉ tuần tra",
         "cánh rừng đầu nguồn",
         "Trong mùa hè năm ấy, những người làm vườn",
-        "để ngăn chặn cháy rừng."
+        "để ngăn chặn cháy rừng"
       ],
       "answer": "Trong mùa hè năm ấy, những người làm vườn bền bỉ tuần tra cánh rừng đầu nguồn để ngăn chặn cháy rừng.",
       "explanation": "Trật tự đúng tạo thành câu: “Trong mùa hè năm ấy, những người làm vườn bền bỉ tuần tra cánh rừng đầu nguồn để ngăn chặn cháy rừng.”"
@@ -11176,7 +11168,7 @@
       "questionId": "k4_c4_sx_181",
       "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Những người làm vườn” và hoạt động “ân cần giới thiệu”:",
       "elements": [
-        "với khách phương xa.",
+        "với khách phương xa",
         "ân cần giới thiệu",
         "phong tục địa phương",
         "Những người làm vườn"
@@ -11192,7 +11184,7 @@
       "questionId": "k4_c4_sx_182",
       "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Những người làm vườn” và hoạt động “cùng nhau làm sạch”:",
       "elements": [
-        "sau cơn bão lớn.",
+        "sau cơn bão lớn",
         "cùng nhau làm sạch",
         "Mỗi dịp cuối tuần, những người làm vườn",
         "bãi biển quê nhà"
@@ -11211,7 +11203,7 @@
         "tích cực quyên góp",
         "áo ấm và sách vở",
         "Trong mùa hè năm ấy, những người làm vườn",
-        "cho trẻ em vùng khó."
+        "cho trẻ em vùng khó"
       ],
       "answer": "Trong mùa hè năm ấy, những người làm vườn tích cực quyên góp áo ấm và sách vở cho trẻ em vùng khó.",
       "explanation": "Trật tự đúng tạo thành câu: “Trong mùa hè năm ấy, những người làm vườn tích cực quyên góp áo ấm và sách vở cho trẻ em vùng khó.”"
@@ -11749,7 +11741,7 @@
         "tìm hiểu",
         "ngọn đồi",
         "ấm áp",
-        "đoàn kết",
+        "giúp đỡ",
         "cần cù",
         "đội viên"
       ],
@@ -11765,7 +11757,7 @@
         ],
         "G2": [
           "tìm hiểu",
-          "đoàn kết"
+          "giúp đỡ"
         ],
         "G3": [
           "cần cù",
@@ -11783,7 +11775,7 @@
       "question": "Phân loại các từ/cụm từ trong danh sách theo từ loại:",
       "words": [
         "sưu tầm",
-        "kiên trì",
+        "khám phá",
         "nhân hậu",
         "di tích",
         "dòng suối",
@@ -11801,7 +11793,7 @@
         ],
         "G2": [
           "sưu tầm",
-          "kiên trì"
+          "khám phá"
         ],
         "G3": [
           "nhân hậu",
@@ -11929,7 +11921,7 @@
         "cổ kính",
         "chiến sĩ",
         "lễ hội",
-        "đoàn kết",
+        "bảo vệ",
         "linh thiêng",
         "chia sẻ"
       ],
@@ -11944,7 +11936,7 @@
           "lễ hội"
         ],
         "G2": [
-          "đoàn kết",
+          "bảo vệ",
           "chia sẻ"
         ],
         "G3": [
@@ -11965,7 +11957,7 @@
         "cánh đồng",
         "kiên cường",
         "hùng vĩ",
-        "kiên trì",
+        "tìm hiểu",
         "cống hiến",
         "nhà khảo cổ"
       ],
@@ -11980,7 +11972,7 @@
           "cánh đồng"
         ],
         "G2": [
-          "kiên trì",
+          "tìm hiểu",
           "cống hiến"
         ],
         "G3": [
@@ -12766,7 +12758,6 @@
       "answer": "D",
       "explanation": "Để nguyên là 'Hỏa' (sao Hỏa); bỏ dấu hỏi thành 'hoa' (thơm ngát); thêm nặng thành 'họa' (họa sĩ vẽ tranh)."
     },
-    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_4",
@@ -12879,7 +12870,6 @@
       "answer": "B",
       "explanation": "Giữ nguyên là 'chi' (tứ chi: tay chân); thêm huyền thành bút 'chì'; thay hỏi thành sợi 'chỉ' luồn kim; thay nặng thành 'chị' gái."
     },
-    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_4",
@@ -12992,7 +12982,6 @@
       "answer": "A",
       "explanation": "Để nguyên là bát 'cơm'; đổi thành 'r' là đống 'rơm'; đổi thành 'th' là hương 'thơm'."
     },
-    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_4",
@@ -13057,7 +13046,6 @@
       "answer": "A",
       "explanation": "Để nguyên hạt 'gạo'; thay sắc thành tiếng 'gáo' múc nươc tưới rau."
     },
-    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_4",
@@ -13074,8 +13062,6 @@
       "answer": "A",
       "explanation": "Để nguyên là chim 'sáo'; bỏ âm đầu 's' thành cái 'ao' thả cá."
     },
-    
-    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_4",
@@ -13092,7 +13078,6 @@
       "answer": "C",
       "explanation": "Chính là từ 'sai', ai đọc đúng từ đó thì cũng phát âm là 'sai'."
     },
-    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_4",
@@ -13157,8 +13142,6 @@
       "answer": "A",
       "explanation": "Nấu 'canh' ăn cơm; thêm huyền 'cành' cây râm mát; thêm sắc 'cánh' chim bay lượn; thêm hỏi phong 'cảnh' tươi đẹp."
     },
-    
-    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_4",
@@ -13175,8 +13158,6 @@
       "answer": "C",
       "explanation": "Để nguyên là hoa 'mai'; thêm huyền thành 'mài' sắt nên kim; thêm sắc thành 'mái' nhà."
     },
-    
-   
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_4",
@@ -13209,9 +13190,6 @@
       "answer": "C",
       "explanation": "Để nguyên là cuộn 'chỉ'; thêm huyền là ruột 'chì' bút chì; thêm sắc là 'chí' trong câu 'Có chí thì nên'."
     },
-    
- 
-    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_4",
@@ -13228,9 +13206,6 @@
       "answer": "A",
       "explanation": "Yếu tố Hán Việt 'tiền' ở đây có nghĩa là phía trước (tiền tuyến: tuyến đầu; tiền đạo: người đi trước)."
     },
-    
-    
-   
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_4",
@@ -13247,10 +13222,6 @@
       "answer": "B",
       "explanation": "Để nguyên là mặt 'trăng' rằm; bỏ đầu chữ 't' thành hàm 'răng' trắng tinh."
     },
-    
-    
-   
-    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_4",
@@ -13267,8 +13238,6 @@
       "answer": "D",
       "explanation": "Sông Hồng chở nặng phù sa; sông Cửu Long (chín rồng); núi Hồng Lĩnh (Hà Tĩnh); núi Bạch Mã (ngựa trắng ở Thừa Thiên Huế)."
     },
-    
-    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_4",
@@ -13605,7 +13574,6 @@
       "answer": "B",
       "explanation": "Vịnh Hạ Long thuộc tỉnh Quảng Ninh được UNESCO công nhận là Di sản Thiên nhiên Thế giới nhờ cảnh quan và địa chất karst độc đáo."
     },
-   
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_4",
@@ -13638,14 +13606,13 @@
       "answer": "A",
       "explanation": "Sông Mê Kông khi chảy vào miền Nam Việt Nam chia thành hai nhánh Tiền Giang và Hậu Giang rồi đổ ra biển qua 9 cửa gọi là sông Cửu Long."
     },
-    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_4",
       "level": "CAP_4_VONG_TINH",
       "type": "TN",
       "questionId": "k4_c4_tn_370",
-      "question": "Giải câu đố về địa danh sau:\n\"Hồ nước ngọt tự nhiên lớn nhất miền Bắc nước ta\nNằm ở tỉnh Bắc Kạn cũ (nay thuộc Thái Nguyên), được bao bọc bởi núi đá vôi và rừng nguyên sinh?\"",
+      "question": "Giải câu đố về địa danh sau:\n\"Hồ nước ngọt tự nhiên lớn nhất miền Bắc nước ta\nNằm ở tỉnh Bắc Kạn giữa núi rừng bao la\nMặt nước trong xanh phẳng lặng như gương\nCảnh sắc non nước hữu tình tựa bức tranh.\"\nLà hồ nào?",
       "options": {
         "A": "Hồ Thác Bà",
         "B": "Hồ Núi Cốc",
@@ -13653,7 +13620,7 @@
         "D": "Hồ Ba Bể"
       },
       "answer": "D",
-      "explanation": "Hồ Ba Bể thuộc vườn quốc gia Ba Bể, tỉnh Bắc Kạn cũ (nay thuộc Thái Nguyên) là một trong những hồ nước ngọt tự nhiên trên núi lớn nhất thế giới."
+      "explanation": "Hồ Ba Bể nằm ở huyện Ba Bể, tỉnh Bắc Kạn, là hồ nước ngọt tự nhiên trên núi lớn nhất nước ta và là danh lam thắng cảnh nổi tiếng."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -13783,7 +13750,6 @@
       "answer": "A",
       "explanation": "Lý Thường Kiệt lãnh đạo cuộc kháng chiến chống quân Tống (1075 - 1077) trên phòng tuyến sông Cầu (Như Nguyệt) gắn với bài thơ 'Nam quốc sơn hà'."
     },
-   
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_4",
@@ -14504,7 +14470,6 @@
       "answer": "A",
       "explanation": "Quả sầu riêng có gai nhọn cứng, mùi thơm nồng nàn đặc trưng, được mệnh danh là vua trái cây."
     },
-    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_4",

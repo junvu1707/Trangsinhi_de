@@ -6,17 +6,17 @@
   "seqMode": "CONTINUOUS",
   "totalQuestions": 1912,
   "typeDistribution": {
-    "TN": 1154,
+    "TN": 1158,
     "SX": 171,
     "NOI": 171,
-    "DT": 285,
+    "DT": 281,
     "CHON": 131
   },
   "typeDistributionPercent": {
-    "TN": "60.36%",
+    "TN": "60.56%",
     "SX": "8.94%",
     "NOI": "8.94%",
-    "DT": "14.91%",
+    "DT": "14.70%",
     "CHON": "6.85%"
   },
   "knowledgeSource": "kien thuc gioi han.md + Nội dung nhập trực tiếp",
@@ -3515,23 +3515,33 @@
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_5",
       "level": "CAP_1_VONG_LOAI",
-      "type": "DT",
-      "questionId": "k5_c1_dt_0177",
-      "question": "Chọn từ thích hợp điền vào chỗ trống: \"Những bông hoa hồng nhung nở (...) trong nắng sớm.\"",
-      "blankAnswer": "rực rỡ",
-      "answer": "rực rỡ",
-      "explanation": "Từ 'rực rỡ' mô tả màu sắc tươi thắm của hoa hồng nhung."
+      "type": "TN",
+      "questionId": "k5_c1_tn_0177",
+      "question": "Từ ngữ nào dưới đây thích hợp nhất để điền vào chỗ trống trong câu: \"Những bông hoa hồng nhung nở (...) trong nắng sớm.\"?",
+      "answer": "A",
+      "explanation": "Từ 'rực rỡ' là tính từ gợi tả màu sắc tươi thắm, rạng rỡ của hoa trong ánh nắng sớm, rất phù hợp với ngữ cảnh câu văn miêu tả hoa nở.",
+      "options": {
+        "A": "rực rỡ",
+        "B": "chăm chỉ",
+        "C": "hiền hòa",
+        "D": "lũn cũn"
+      }
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_5",
       "level": "CAP_1_VONG_LOAI",
-      "type": "DT",
-      "questionId": "k5_c1_dt_0178",
-      "question": "Chọn từ thích hợp điền vào chỗ trống: \"Chúng em quyết tâm (...) rèn luyện để đạt danh hiệu cháu ngoan Bác Hồ.\"",
-      "blankAnswer": "chăm chỉ",
-      "answer": "chăm chỉ",
-      "explanation": "Từ 'chăm chỉ' diễn tả ý thức học tập và rèn luyện nghiêm túc."
+      "type": "TN",
+      "questionId": "k5_c1_tn_0178",
+      "question": "Từ ngữ nào dưới đây thích hợp nhất để điền vào chỗ trống trong câu: \"Chúng em quyết tâm (...) rèn luyện để đạt danh hiệu cháu ngoan Bác Hồ.\"?",
+      "answer": "B",
+      "explanation": "Từ 'chăm chỉ' diễn tả sự chuyên cần, nỗ lực và ý thức nghiêm túc trong học tập, rèn luyện của học sinh.",
+      "options": {
+        "A": "xanh tươi",
+        "B": "chăm chỉ",
+        "C": "chót vót",
+        "D": "mênh mông"
+      }
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -3636,12 +3646,17 @@
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_5",
       "level": "CAP_1_VONG_LOAI",
-      "type": "DT",
-      "questionId": "k5_c1_dt_0188",
-      "question": "Chọn từ thích hợp điền vào chỗ trống: \"Mặt trời vừa ló rạng tỏa ánh nắng (...) sưởi ấm vạn vật.\"",
-      "blankAnswer": "ấm áp",
-      "answer": "ấm áp",
-      "explanation": "Từ 'ấm áp' phù hợp miêu tả đặc điểm của ánh nắng mặt trời."
+      "type": "TN",
+      "questionId": "k5_c1_tn_0188",
+      "question": "Từ ngữ nào dưới đây thích hợp nhất để điền vào chỗ trống trong câu: \"Mặt trời vừa ló rạng tỏa ánh nắng (...) sưởi ấm vạn vật.\"?",
+      "answer": "C",
+      "explanation": "Từ 'ấm áp' là từ phù hợp nhất để miêu tả đặc điểm dịu nhẹ, lan tỏa hơi ấm của ánh nắng mặt trời buổi sớm.",
+      "options": {
+        "A": "lạnh giá",
+        "B": "gập ghềnh",
+        "C": "ấm áp",
+        "D": "mộc mạc"
+      }
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -3702,12 +3717,17 @@
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_5",
       "level": "CAP_1_VONG_LOAI",
-      "type": "DT",
-      "questionId": "k5_c1_dt_0194",
-      "question": "Chọn từ thích hợp điền vào chỗ trống: \"Dòng sông quê hương chảy (...) qua xóm làng.\"",
-      "blankAnswer": "hiền hòa",
-      "answer": "hiền hòa",
-      "explanation": "Từ 'hiền hòa' gợi tả vẻ êm đềm, tĩnh lặng của dòng sông quê."
+      "type": "TN",
+      "questionId": "k5_c1_tn_0194",
+      "question": "Từ ngữ nào dưới đây thích hợp nhất để điền vào chỗ trống trong câu: \"Dòng sông quê hương chảy (...) qua xóm làng.\"?",
+      "answer": "D",
+      "explanation": "Từ 'hiền hòa' gợi tả vẻ êm ả, dịu dàng, thanh bình của dòng sông chảy qua làng quê Việt Nam.",
+      "options": {
+        "A": "rộn rã",
+        "B": "dữ dội",
+        "C": "ồ ạt",
+        "D": "hiền hòa"
+      }
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -30402,28 +30422,28 @@
       "level": "CAP_1_VONG_LOAI",
       "type": "CHON",
       "questionId": "k5_c1_chon_1717",
-      "question": "Xếp các câu tục ngữ sau vào hai nhóm chủ đề phù hợp: Đồng cam cộng khổ / Ăn quả nhớ kẻ trồng cây / Nhường cơm sẻ áo / Chim có tổ, người có tông",
+      "question": "Xếp các câu tục ngữ, thành ngữ sau vào hai nhóm chủ đề phù hợp: Không thầy đố mày làm nên / Anh em như thể tay chân / Muốn sang thì bắc cầu kiều, muốn con hay chữ thì yêu lấy thầy / Chị ngã em nâng",
       "words": [
-        "Đồng cam cộng khổ",
-        "Ăn quả nhớ kẻ trồng cây",
-        "Nhường cơm sẻ áo",
-        "Chim có tổ, người có tông"
+        "Không thầy đố mày làm nên",
+        "Muốn sang thì bắc cầu kiều, muốn con hay chữ thì yêu lấy thầy",
+        "Anh em như thể tay chân",
+        "Chị ngã em nâng"
       ],
       "groups": {
-        "G1": "Biết ơn",
-        "G2": "Đoàn kết, sẻ chia"
+        "G1": "Tôn sư trọng đạo (Tình nghĩa thầy trò)",
+        "G2": "Tình cảm anh em trong gia đình"
       },
       "answer": {
         "G1": [
-          "Chim có tổ, người có tông",
-          "Ăn quả nhớ kẻ trồng cây"
+          "Không thầy đố mày làm nên",
+          "Muốn sang thì bắc cầu kiều, muốn con hay chữ thì yêu lấy thầy"
         ],
         "G2": [
-          "Đồng cam cộng khổ",
-          "Nhường cơm sẻ áo"
+          "Anh em như thể tay chân",
+          "Chị ngã em nâng"
         ]
       },
-      "explanation": "Nhóm Biết ơn: Chim có tổ, người có tông, Ăn quả nhớ kẻ trồng cây. Nhóm Đoàn kết, sẻ chia: Đồng cam cộng khổ, Nhường cơm sẻ áo."
+      "explanation": "Nhóm Tôn sư trọng đạo: Không thầy đố mày làm nên; Muốn sang thì bắc cầu kiều, muốn con hay chữ thì yêu lấy thầy. Nhóm Tình cảm anh em trong gia đình: Anh em như thể tay chân; Chị ngã em nâng."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -30547,28 +30567,28 @@
       "level": "CAP_1_VONG_LOAI",
       "type": "CHON",
       "questionId": "k5_c1_chon_1722",
-      "question": "Xếp các câu tục ngữ sau vào hai nhóm chủ đề phù hợp: Có công mài sắt, có ngày nên kim / Đồng cam cộng khổ / Nhường cơm sẻ áo / Kiến tha lâu cũng đầy tổ",
+      "question": "Xếp các câu tục ngữ, thành ngữ sau vào hai nhóm chủ đề phù hợp: Lửa thử vàng gian nan thử sức / Tấc đất tấc vàng / Chớ thấy sóng cả mà ngã tay chèo / Tích tiểu thành đại",
       "words": [
-        "Có công mài sắt, có ngày nên kim",
-        "Đồng cam cộng khổ",
-        "Nhường cơm sẻ áo",
-        "Kiến tha lâu cũng đầy tổ"
+        "Lửa thử vàng gian nan thử sức",
+        "Chớ thấy sóng cả mà ngã tay chèo",
+        "Tấc đất tấc vàng",
+        "Tích tiểu thành đại"
       ],
       "groups": {
-        "G1": "Đoàn kết, sẻ chia",
-        "G2": "Kiên trì, học tập"
+        "G1": "Ý chí, nghị lực vượt khó",
+        "G2": "Cần cù, biết quý trọng của cải"
       },
       "answer": {
         "G1": [
-          "Nhường cơm sẻ áo",
-          "Đồng cam cộng khổ"
+          "Lửa thử vàng gian nan thử sức",
+          "Chớ thấy sóng cả mà ngã tay chèo"
         ],
         "G2": [
-          "Có công mài sắt, có ngày nên kim",
-          "Kiến tha lâu cũng đầy tổ"
+          "Tấc đất tấc vàng",
+          "Tích tiểu thành đại"
         ]
       },
-      "explanation": "Nhóm Đoàn kết, sẻ chia: Nhường cơm sẻ áo, Đồng cam cộng khổ. Nhóm Kiên trì, học tập: Có công mài sắt, có ngày nên kim, Kiến tha lâu cũng đầy tổ."
+      "explanation": "Nhóm Ý chí, nghị lực vượt khó: Lửa thử vàng gian nan thử sức; Chớ thấy sóng cả mà ngã tay chèo. Nhóm Cần cù, biết quý trọng của cải: Tấc đất tấc vàng; Tích tiểu thành đại."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",

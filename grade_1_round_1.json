@@ -2,12 +2,12 @@
   "contest": "Trạng Nguyên Tiếng Việt",
   "grade": "KHOI_1",
   "level": "CAP_1_VONG_LOAI",
-  "totalQuestions": 1603,
+  "totalQuestions": 1550,
   "typeDistribution": {
-    "TN": 1011,
+    "TN": 974,
     "SX": 178,
-    "NOI": 118,
-    "CHON": 119,
+    "NOI": 114,
+    "CHON": 107,
     "DT": 177
   },
   "knowledgeSource": "Biên soạn và kiểm định theo phạm vi kiến thức do người dùng cung cấp",
@@ -17,7 +17,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào dưới đây có âm đầu là 'b'?",
+      "question": "Từ nào dưới đây có âm đầu là 'b'?",
       "options": {
         "A": "cá",
         "B": "cò",
@@ -34,7 +34,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào dưới đây có âm đầu là 'b'?",
+      "question": "Từ nào dưới đây có âm đầu là 'b'?",
       "options": {
         "A": "cá",
         "B": "bạn",
@@ -61,44 +61,13 @@
       "explanation": "Tiếng 'bóng' bắt đầu bằng âm 'b'.",
       "questionId": "k1_c1_tn_0008"
     },
+    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Trong các tiếng sau, tiếng nào bắt đầu bằng 'b'?",
-      "options": {
-        "A": "cô",
-        "B": "cá",
-        "C": "cò",
-        "D": "bướm"
-      },
-      "answer": "D",
-      "explanation": "Tiếng 'bướm' bắt đầu bằng âm 'b'.",
-      "questionId": "k1_c1_tn_0009"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "TN",
-      "question": "Tiếng nào dưới đây có âm đầu là 'b'?",
-      "options": {
-        "A": "cô",
-        "B": "bếp",
-        "C": "cò",
-        "D": "cá"
-      },
-      "answer": "B",
-      "explanation": "Tiếng 'bếp' bắt đầu bằng âm 'b'.",
-      "questionId": "k1_c1_tn_0010"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "TN",
-      "question": "Tiếng nào dưới đây có âm đầu là 'c'?",
+      "question": "Từ nào dưới đây có âm đầu là 'c'?",
       "options": {
         "A": "bà",
         "B": "bé",
@@ -109,44 +78,13 @@
       "explanation": "Tiếng 'cá' bắt đầu bằng âm 'c'.",
       "questionId": "k1_c1_tn_0011"
     },
+    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Chọn tiếng bắt đầu bằng âm 'c'.",
-      "options": {
-        "A": "ba",
-        "B": "cò",
-        "C": "bé",
-        "D": "bà"
-      },
-      "answer": "B",
-      "explanation": "Tiếng 'cò' bắt đầu bằng âm 'c'.",
-      "questionId": "k1_c1_tn_0012"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "TN",
-      "question": "Trong các tiếng sau, tiếng nào bắt đầu bằng 'c'?",
-      "options": {
-        "A": "bé",
-        "B": "cô",
-        "C": "bà",
-        "D": "ba"
-      },
-      "answer": "B",
-      "explanation": "Tiếng 'cô' bắt đầu bằng âm 'c'.",
-      "questionId": "k1_c1_tn_0013"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "TN",
-      "question": "Tiếng nào dưới đây có âm đầu là 'c'?",
+      "question": "Từ nào dưới đây có âm đầu là 'c'?",
       "options": {
         "A": "bà",
         "B": "ba",
@@ -157,44 +95,13 @@
       "explanation": "Tiếng 'cờ' bắt đầu bằng âm 'c'.",
       "questionId": "k1_c1_tn_0014"
     },
+   
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Chọn tiếng bắt đầu bằng âm 'c'.",
-      "options": {
-        "A": "bé",
-        "B": "ba",
-        "C": "cỏ",
-        "D": "bà"
-      },
-      "answer": "C",
-      "explanation": "Tiếng 'cỏ' bắt đầu bằng âm 'c'.",
-      "questionId": "k1_c1_tn_0015"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "TN",
-      "question": "Trong các tiếng sau, tiếng nào bắt đầu bằng 'c'?",
-      "options": {
-        "A": "bé",
-        "B": "cốc",
-        "C": "bà",
-        "D": "ba"
-      },
-      "answer": "B",
-      "explanation": "Tiếng 'cốc' bắt đầu bằng âm 'c'.",
-      "questionId": "k1_c1_tn_0016"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "TN",
-      "question": "Tiếng nào dưới đây có âm đầu là 'c'?",
+      "question": "Từ nào dưới đây có âm đầu là 'c'?",
       "options": {
         "A": "bé",
         "B": "bà",
@@ -221,28 +128,13 @@
       "explanation": "Tiếng 'cam' bắt đầu bằng âm 'c'.",
       "questionId": "k1_c1_tn_0018"
     },
+    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Trong các tiếng sau, tiếng nào bắt đầu bằng 'c'?",
-      "options": {
-        "A": "cây",
-        "B": "bé",
-        "C": "bà",
-        "D": "ba"
-      },
-      "answer": "A",
-      "explanation": "Tiếng 'cây' bắt đầu bằng âm 'c'.",
-      "questionId": "k1_c1_tn_0019"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "TN",
-      "question": "Tiếng nào dưới đây có âm đầu là 'c'?",
+      "question": "Từ nào dưới đây có âm đầu là 'c'?",
       "options": {
         "A": "bà",
         "B": "bé",
@@ -258,7 +150,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào dưới đây có âm đầu là 'd'?",
+      "question": "Từ nào dưới đây có âm đầu là 'd'?",
       "options": {
         "A": "bà",
         "B": "dê",
@@ -269,76 +161,13 @@
       "explanation": "Tiếng 'dê' bắt đầu bằng âm 'd'.",
       "questionId": "k1_c1_tn_0021"
     },
+    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Chọn tiếng bắt đầu bằng âm 'd'.",
-      "options": {
-        "A": "ba",
-        "B": "bé",
-        "C": "dưa",
-        "D": "bà"
-      },
-      "answer": "C",
-      "explanation": "Tiếng 'dưa' bắt đầu bằng âm 'd'.",
-      "questionId": "k1_c1_tn_0022"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "TN",
-      "question": "Trong các tiếng sau, tiếng nào bắt đầu bằng 'd'?",
-      "options": {
-        "A": "bà",
-        "B": "dù",
-        "C": "ba",
-        "D": "bé"
-      },
-      "answer": "B",
-      "explanation": "Tiếng 'dù' bắt đầu bằng âm 'd'.",
-      "questionId": "k1_c1_tn_0023"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "TN",
-      "question": "Tiếng nào dưới đây có âm đầu là 'd'?",
-      "options": {
-        "A": "bé",
-        "B": "bà",
-        "C": "dao",
-        "D": "ba"
-      },
-      "answer": "C",
-      "explanation": "Tiếng 'dao' bắt đầu bằng âm 'd'.",
-      "questionId": "k1_c1_tn_0024"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "TN",
-      "question": "Chọn tiếng bắt đầu bằng âm 'd'.",
-      "options": {
-        "A": "bé",
-        "B": "dép",
-        "C": "bà",
-        "D": "ba"
-      },
-      "answer": "B",
-      "explanation": "Tiếng 'dép' bắt đầu bằng âm 'd'.",
-      "questionId": "k1_c1_tn_0025"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "TN",
-      "question": "Trong các tiếng sau, tiếng nào bắt đầu bằng 'd'?",
+      "question": "Trong các tiếng sau, từ nào bắt đầu bằng 'd'?",
       "options": {
         "A": "dây",
         "B": "ba",
@@ -354,7 +183,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào dưới đây có âm đầu là 'd'?",
+      "question": "Từ nào dưới đây có âm đầu là 'd'?",
       "options": {
         "A": "dâu",
         "B": "ba",
@@ -365,38 +194,7 @@
       "explanation": "Tiếng 'dâu' bắt đầu bằng âm 'd'.",
       "questionId": "k1_c1_tn_0027"
     },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "TN",
-      "question": "Chọn tiếng bắt đầu bằng âm 'd'.",
-      "options": {
-        "A": "bà",
-        "B": "dế",
-        "C": "ba",
-        "D": "bé"
-      },
-      "answer": "B",
-      "explanation": "Tiếng 'dế' bắt đầu bằng âm 'd'.",
-      "questionId": "k1_c1_tn_0028"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "TN",
-      "question": "Tiếng nào dưới đây có âm đầu là 'đ'?",
-      "options": {
-        "A": "bé",
-        "B": "đá",
-        "C": "ba",
-        "D": "bà"
-      },
-      "answer": "B",
-      "explanation": "Tiếng 'đá' bắt đầu bằng âm 'đ'.",
-      "questionId": "k1_c1_tn_0029"
-    },
+    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_1",
@@ -418,7 +216,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Trong các tiếng sau, tiếng nào bắt đầu bằng 'đ'?",
+      "question": "Trong các tiếng sau, từ nào bắt đầu bằng 'đ'?",
       "options": {
         "A": "đỏ",
         "B": "ba",
@@ -429,60 +227,13 @@
       "explanation": "Tiếng 'đỏ' bắt đầu bằng âm 'đ'.",
       "questionId": "k1_c1_tn_0031"
     },
+    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào dưới đây có âm đầu là 'đ'?",
-      "options": {
-        "A": "đèn",
-        "B": "ba",
-        "C": "bà",
-        "D": "bé"
-      },
-      "answer": "A",
-      "explanation": "Tiếng 'đèn' bắt đầu bằng âm 'đ'.",
-      "questionId": "k1_c1_tn_0032"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "TN",
-      "question": "Chọn tiếng bắt đầu bằng âm 'đ'.",
-      "options": {
-        "A": "bà",
-        "B": "ba",
-        "C": "đũa",
-        "D": "bé"
-      },
-      "answer": "C",
-      "explanation": "Tiếng 'đũa' bắt đầu bằng âm 'đ'.",
-      "questionId": "k1_c1_tn_0033"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "TN",
-      "question": "Trong các tiếng sau, tiếng nào bắt đầu bằng 'đ'?",
-      "options": {
-        "A": "đồng",
-        "B": "ba",
-        "C": "bé",
-        "D": "bà"
-      },
-      "answer": "A",
-      "explanation": "Tiếng 'đồng' bắt đầu bằng âm 'đ'.",
-      "questionId": "k1_c1_tn_0034"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "TN",
-      "question": "Tiếng nào dưới đây có âm đầu là 'đ'?",
+      "question": "Từ nào dưới đây có âm đầu là 'đ'?",
       "options": {
         "A": "bà",
         "B": "ba",
@@ -514,7 +265,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào dưới đây có âm đầu là 'g'?",
+      "question": "Từ nào dưới đây có âm đầu là 'g'?",
       "options": {
         "A": "bà",
         "B": "ba",
@@ -525,44 +276,13 @@
       "explanation": "Tiếng 'ga' bắt đầu bằng âm 'g'.",
       "questionId": "k1_c1_tn_0037"
     },
+    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Chọn tiếng bắt đầu bằng âm 'g'.",
-      "options": {
-        "A": "gà",
-        "B": "bà",
-        "C": "ba",
-        "D": "bé"
-      },
-      "answer": "A",
-      "explanation": "Tiếng 'gà' bắt đầu bằng âm 'g'.",
-      "questionId": "k1_c1_tn_0038"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "TN",
-      "question": "Trong các tiếng sau, tiếng nào bắt đầu bằng 'g'?",
-      "options": {
-        "A": "gỗ",
-        "B": "ba",
-        "C": "bé",
-        "D": "bà"
-      },
-      "answer": "A",
-      "explanation": "Tiếng 'gỗ' bắt đầu bằng âm 'g'.",
-      "questionId": "k1_c1_tn_0039"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "TN",
-      "question": "Tiếng nào dưới đây có âm đầu là 'g'?",
+      "question": "Từ nào dưới đây có âm đầu là 'g'?",
       "options": {
         "A": "gõ",
         "B": "ba",
@@ -573,44 +293,13 @@
       "explanation": "Tiếng 'gõ' bắt đầu bằng âm 'g'.",
       "questionId": "k1_c1_tn_0040"
     },
+    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Chọn tiếng bắt đầu bằng âm 'g'.",
-      "options": {
-        "A": "ba",
-        "B": "gọi",
-        "C": "bé",
-        "D": "bà"
-      },
-      "answer": "B",
-      "explanation": "Tiếng 'gọi' bắt đầu bằng âm 'g'.",
-      "questionId": "k1_c1_tn_0041"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "TN",
-      "question": "Trong các tiếng sau, tiếng nào bắt đầu bằng 'g'?",
-      "options": {
-        "A": "bà",
-        "B": "gấu",
-        "C": "bé",
-        "D": "ba"
-      },
-      "answer": "B",
-      "explanation": "Tiếng 'gấu' bắt đầu bằng âm 'g'.",
-      "questionId": "k1_c1_tn_0042"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "TN",
-      "question": "Tiếng nào dưới đây có âm đầu là 'g'?",
+      "question": "Từ nào dưới đây có âm đầu là 'g'?",
       "options": {
         "A": "gạo",
         "B": "ba",
@@ -637,22 +326,7 @@
       "explanation": "Tiếng 'gương' bắt đầu bằng âm 'g'.",
       "questionId": "k1_c1_tn_0044"
     },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "TN",
-      "question": "Tiếng nào dưới đây có âm đầu là 'gh'?",
-      "options": {
-        "A": "bé",
-        "B": "ghế",
-        "C": "bà",
-        "D": "ba"
-      },
-      "answer": "B",
-      "explanation": "Tiếng 'ghế' bắt đầu bằng âm 'gh'.",
-      "questionId": "k1_c1_tn_0045"
-    },
+   
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_1",
@@ -674,7 +348,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Trong các tiếng sau, tiếng nào bắt đầu bằng 'gh'?",
+      "question": "Trong các tiếng sau, từ nào bắt đầu bằng 'gh'?",
       "options": {
         "A": "bà",
         "B": "ba",
@@ -690,7 +364,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào dưới đây có âm đầu là 'h'?",
+      "question": "Từ nào dưới đây có âm đầu là 'h'?",
       "options": {
         "A": "bé",
         "B": "ba",
@@ -701,44 +375,13 @@
       "explanation": "Tiếng 'hoa' bắt đầu bằng âm 'h'.",
       "questionId": "k1_c1_tn_0048"
     },
+    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Chọn tiếng bắt đầu bằng âm 'h'.",
-      "options": {
-        "A": "hè",
-        "B": "bà",
-        "C": "ba",
-        "D": "bé"
-      },
-      "answer": "A",
-      "explanation": "Tiếng 'hè' bắt đầu bằng âm 'h'.",
-      "questionId": "k1_c1_tn_0049"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "TN",
-      "question": "Trong các tiếng sau, tiếng nào bắt đầu bằng 'h'?",
-      "options": {
-        "A": "bà",
-        "B": "ba",
-        "C": "hồ",
-        "D": "bé"
-      },
-      "answer": "C",
-      "explanation": "Tiếng 'hồ' bắt đầu bằng âm 'h'.",
-      "questionId": "k1_c1_tn_0050"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "TN",
-      "question": "Tiếng nào dưới đây có âm đầu là 'h'?",
+      "question": "Từ nào dưới đây có âm đầu là 'h'?",
       "options": {
         "A": "hổ",
         "B": "bé",
@@ -770,7 +413,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Trong các tiếng sau, tiếng nào bắt đầu bằng 'h'?",
+      "question": "Trong các tiếng sau, từ nào bắt đầu bằng 'h'?",
       "options": {
         "A": "ba",
         "B": "hát",
@@ -786,7 +429,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào dưới đây có âm đầu là 'h'?",
+      "question": "Từ nào dưới đây có âm đầu là 'h'?",
       "options": {
         "A": "học",
         "B": "bé",
@@ -818,7 +461,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào dưới đây có âm đầu là 'k'?",
+      "question": "Từ nào dưới đây có âm đầu là 'k'?",
       "options": {
         "A": "kẹo",
         "B": "bé",
@@ -850,7 +493,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Trong các tiếng sau, tiếng nào bắt đầu bằng 'k'?",
+      "question": "Trong các tiếng sau, từ nào bắt đầu bằng 'k'?",
       "options": {
         "A": "kê",
         "B": "bà",
@@ -866,7 +509,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào dưới đây có âm đầu là 'k'?",
+      "question": "Từ nào dưới đây có âm đầu là 'k'?",
       "options": {
         "A": "bé",
         "B": "bà",
@@ -898,7 +541,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Trong các tiếng sau, tiếng nào bắt đầu bằng 'k'?",
+      "question": "Trong các tiếng sau, từ nào bắt đầu bằng 'k'?",
       "options": {
         "A": "kéo",
         "B": "bà",
@@ -914,7 +557,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào dưới đây có âm đầu là 'k'?",
+      "question": "Từ nào dưới đây có âm đầu là 'k'?",
       "options": {
         "A": "ba",
         "B": "kiến",
@@ -946,7 +589,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào dưới đây có âm đầu là 'l'?",
+      "question": "Từ nào dưới đây có âm đầu là 'l'?",
       "options": {
         "A": "bà",
         "B": "bé",
@@ -978,7 +621,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Trong các tiếng sau, tiếng nào bắt đầu bằng 'l'?",
+      "question": "Trong các tiếng sau, từ nào bắt đầu bằng 'l'?",
       "options": {
         "A": "bà",
         "B": "bé",
@@ -994,7 +637,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào dưới đây có âm đầu là 'l'?",
+      "question": "Từ nào dưới đây có âm đầu là 'l'?",
       "options": {
         "A": "ba",
         "B": "bà",
@@ -1026,7 +669,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Trong các tiếng sau, tiếng nào bắt đầu bằng 'l'?",
+      "question": "Trong các tiếng sau, từ nào bắt đầu bằng 'l'?",
       "options": {
         "A": "bà",
         "B": "bé",
@@ -1042,7 +685,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào dưới đây có âm đầu là 'l'?",
+      "question": "Từ nào dưới đây có âm đầu là 'l'?",
       "options": {
         "A": "ba",
         "B": "bà",
@@ -1074,7 +717,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào dưới đây có âm đầu là 'm'?",
+      "question": "Từ nào dưới đây có âm đầu là 'm'?",
       "options": {
         "A": "ba",
         "B": "bé",
@@ -1106,7 +749,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Trong các tiếng sau, tiếng nào bắt đầu bằng 'm'?",
+      "question": "Trong các tiếng sau, từ nào bắt đầu bằng 'm'?",
       "options": {
         "A": "bà",
         "B": "bé",
@@ -1122,7 +765,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào dưới đây có âm đầu là 'm'?",
+      "question": "Từ nào dưới đây có âm đầu là 'm'?",
       "options": {
         "A": "mía",
         "B": "ba",
@@ -1154,7 +797,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Trong các tiếng sau, tiếng nào bắt đầu bằng 'm'?",
+      "question": "Trong các tiếng sau, từ nào bắt đầu bằng 'm'?",
       "options": {
         "A": "mưa",
         "B": "bé",
@@ -1170,7 +813,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào dưới đây có âm đầu là 'm'?",
+      "question": "Từ nào dưới đây có âm đầu là 'm'?",
       "options": {
         "A": "bé",
         "B": "ba",
@@ -1202,7 +845,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào dưới đây có âm đầu là 'n'?",
+      "question": "Từ nào dưới đây có âm đầu là 'n'?",
       "options": {
         "A": "ba",
         "B": "na",
@@ -1234,7 +877,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Trong các tiếng sau, tiếng nào bắt đầu bằng 'n'?",
+      "question": "Trong các tiếng sau, từ nào bắt đầu bằng 'n'?",
       "options": {
         "A": "nô",
         "B": "bà",
@@ -1250,7 +893,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào dưới đây có âm đầu là 'n'?",
+      "question": "Từ nào dưới đây có âm đầu là 'n'?",
       "options": {
         "A": "bé",
         "B": "nón",
@@ -1282,7 +925,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Trong các tiếng sau, tiếng nào bắt đầu bằng 'n'?",
+      "question": "Trong các tiếng sau, từ nào bắt đầu bằng 'n'?",
       "options": {
         "A": "bé",
         "B": "bà",
@@ -1298,7 +941,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào dưới đây có âm đầu là 'n'?",
+      "question": "Từ nào dưới đây có âm đầu là 'n'?",
       "options": {
         "A": "bà",
         "B": "bé",
@@ -1330,7 +973,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào dưới đây có âm đầu là 'ng'?",
+      "question": "Từ nào dưới đây có âm đầu là 'ng'?",
       "options": {
         "A": "ngô",
         "B": "ba",
@@ -1362,7 +1005,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Trong các tiếng sau, tiếng nào bắt đầu bằng 'ng'?",
+      "question": "Trong các tiếng sau, từ nào bắt đầu bằng 'ng'?",
       "options": {
         "A": "bé",
         "B": "ba",
@@ -1378,7 +1021,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào dưới đây có âm đầu là 'ng'?",
+      "question": "Từ nào dưới đây có âm đầu là 'ng'?",
       "options": {
         "A": "bà",
         "B": "ngày",
@@ -1410,7 +1053,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Trong các tiếng sau, tiếng nào bắt đầu bằng 'ng'?",
+      "question": "Trong các tiếng sau, từ nào bắt đầu bằng 'ng'?",
       "options": {
         "A": "bé",
         "B": "ngỗng",
@@ -1426,7 +1069,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào dưới đây có âm đầu là 'ngh'?",
+      "question": "Từ nào dưới đây có âm đầu là 'ngh'?",
       "options": {
         "A": "nghệ",
         "B": "ba",
@@ -1458,7 +1101,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Trong các tiếng sau, tiếng nào bắt đầu bằng 'ngh'?",
+      "question": "Trong các tiếng sau, từ nào bắt đầu bằng 'ngh'?",
       "options": {
         "A": "bé",
         "B": "ba",
@@ -1474,7 +1117,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào dưới đây có âm đầu là 'ngh'?",
+      "question": "Từ nào dưới đây có âm đầu là 'ngh'?",
       "options": {
         "A": "bà",
         "B": "bé",
@@ -1490,7 +1133,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào dưới đây có âm đầu là 'p'?",
+      "question": "Từ nào dưới đây có âm đầu là 'p'?",
       "options": {
         "A": "bé",
         "B": "bà",
@@ -1506,7 +1149,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào dưới đây có âm đầu là 'ph'?",
+      "question": "Từ nào dưới đây có âm đầu là 'ph'?",
       "options": {
         "A": "phở",
         "B": "ba",
@@ -1538,7 +1181,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Trong các tiếng sau, tiếng nào bắt đầu bằng 'ph'?",
+      "question": "Trong các tiếng sau, từ nào bắt đầu bằng 'ph'?",
       "options": {
         "A": "ba",
         "B": "bé",
@@ -1554,7 +1197,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào dưới đây có âm đầu là 'ph'?",
+      "question": "Từ nào dưới đây có âm đầu là 'ph'?",
       "options": {
         "A": "bé",
         "B": "bà",
@@ -1586,7 +1229,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Trong các tiếng sau, tiếng nào bắt đầu bằng 'ph'?",
+      "question": "Trong các tiếng sau, từ nào bắt đầu bằng 'ph'?",
       "options": {
         "A": "phượng",
         "B": "bà",
@@ -1602,7 +1245,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào dưới đây có âm đầu là 'qu'?",
+      "question": "Từ nào dưới đây có âm đầu là 'qu'?",
       "options": {
         "A": "quả",
         "B": "bà",
@@ -1634,7 +1277,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Trong các tiếng sau, tiếng nào bắt đầu bằng âm 'qu'?",
+      "question": "Trong các tiếng sau, từ nào bắt đầu bằng âm 'qu'?",
       "options": {
         "A": "bé",
         "B": "ba",
@@ -1650,7 +1293,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào dưới đây có âm đầu là 'qu'?",
+      "question": "Từ nào dưới đây có âm đầu là 'qu'?",
       "options": {
         "A": "bà",
         "B": "bé",
@@ -1682,7 +1325,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Trong các tiếng sau, tiếng nào bắt đầu bằng âm 'qu'?",
+      "question": "Trong các tiếng sau, từ nào bắt đầu bằng âm 'qu'?",
       "options": {
         "A": "ba",
         "B": "bà",
@@ -1698,7 +1341,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào dưới đây có âm đầu là 'r'?",
+      "question": "Từ nào dưới đây có âm đầu là 'r'?",
       "options": {
         "A": "rổ",
         "B": "ba",
@@ -1730,7 +1373,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Trong các tiếng sau, tiếng nào bắt đầu bằng 'r'?",
+      "question": "Trong các tiếng sau, từ nào bắt đầu bằng 'r'?",
       "options": {
         "A": "bé",
         "B": "bà",
@@ -1746,7 +1389,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào dưới đây có âm đầu là 'r'?",
+      "question": "Từ nào dưới đây có âm đầu là 'r'?",
       "options": {
         "A": "ba",
         "B": "rễ",
@@ -1778,7 +1421,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Trong các tiếng sau, tiếng nào bắt đầu bằng 'r'?",
+      "question": "Trong các tiếng sau, từ nào bắt đầu bằng 'r'?",
       "options": {
         "A": "bà",
         "B": "ba",
@@ -1794,7 +1437,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào dưới đây có âm đầu là 's'?",
+      "question": "Từ nào dưới đây có âm đầu là 's'?",
       "options": {
         "A": "sáo",
         "B": "ba",
@@ -1826,7 +1469,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Trong các tiếng sau, tiếng nào bắt đầu bằng 's'?",
+      "question": "Trong các tiếng sau, từ nào bắt đầu bằng 's'?",
       "options": {
         "A": "sữa",
         "B": "bé",
@@ -1842,7 +1485,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào dưới đây có âm đầu là 's'?",
+      "question": "Từ nào dưới đây có âm đầu là 's'?",
       "options": {
         "A": "ba",
         "B": "bà",
@@ -1874,7 +1517,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Trong các tiếng sau, tiếng nào bắt đầu bằng 's'?",
+      "question": "Trong các tiếng sau, từ nào bắt đầu bằng 's'?",
       "options": {
         "A": "ba",
         "B": "sông",
@@ -1890,7 +1533,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào dưới đây có âm đầu là 's'?",
+      "question": "Từ nào dưới đây có âm đầu là 's'?",
       "options": {
         "A": "ba",
         "B": "bé",
@@ -1906,7 +1549,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào dưới đây có âm đầu là 't'?",
+      "question": "Từ nào dưới đây có âm đầu là 't'?",
       "options": {
         "A": "ta",
         "B": "bà",
@@ -1938,7 +1581,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Trong các tiếng sau, tiếng nào bắt đầu bằng 't'?",
+      "question": "Trong các tiếng sau, từ nào bắt đầu bằng 't'?",
       "options": {
         "A": "ba",
         "B": "bé",
@@ -1954,7 +1597,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào dưới đây có âm đầu là 't'?",
+      "question": "Từ nào dưới đây có âm đầu là 't'?",
       "options": {
         "A": "ba",
         "B": "tủ",
@@ -1986,7 +1629,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Trong các tiếng sau, tiếng nào bắt đầu bằng 't'?",
+      "question": "Trong các tiếng sau, từ nào bắt đầu bằng 't'?",
       "options": {
         "A": "tóc",
         "B": "bà",
@@ -2002,7 +1645,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào dưới đây có âm đầu là 't'?",
+      "question": "Từ nào dưới đây có âm đầu là 't'?",
       "options": {
         "A": "ba",
         "B": "bé",
@@ -2018,7 +1661,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Trong các tiếng sau, tiếng nào bắt đầu bằng âm 't'?",
+      "question": "Trong các tiếng sau, từ nào bắt đầu bằng âm 't'?",
       "options": {
         "A": "táo",
         "B": "ba",
@@ -2034,7 +1677,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào dưới đây có âm đầu là 'th'?",
+      "question": "Từ nào dưới đây có âm đầu là 'th'?",
       "options": {
         "A": "bà",
         "B": "ba",
@@ -2066,7 +1709,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Trong các tiếng sau, tiếng nào bắt đầu bằng 'th'?",
+      "question": "Trong các tiếng sau, từ nào bắt đầu bằng 'th'?",
       "options": {
         "A": "bà",
         "B": "ba",
@@ -2082,7 +1725,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào dưới đây có âm đầu là 'th'?",
+      "question": "Từ nào dưới đây có âm đầu là 'th'?",
       "options": {
         "A": "ba",
         "B": "bà",
@@ -2114,7 +1757,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Trong các tiếng sau, tiếng nào bắt đầu bằng 'th'?",
+      "question": "Trong các tiếng sau, từ nào bắt đầu bằng 'th'?",
       "options": {
         "A": "bà",
         "B": "bé",
@@ -2130,7 +1773,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào dưới đây có âm đầu là 'tr'?",
+      "question": "Từ nào dưới đây có âm đầu là 'tr'?",
       "options": {
         "A": "tre",
         "B": "bé",
@@ -2162,7 +1805,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Trong các tiếng sau, tiếng nào bắt đầu bằng 'tr'?",
+      "question": "Trong các tiếng sau, từ nào bắt đầu bằng 'tr'?",
       "options": {
         "A": "trống",
         "B": "bà",
@@ -2178,7 +1821,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào dưới đây có âm đầu là 'tr'?",
+      "question": "Từ nào dưới đây có âm đầu là 'tr'?",
       "options": {
         "A": "bé",
         "B": "bà",
@@ -2210,7 +1853,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Trong các tiếng sau, tiếng nào bắt đầu bằng 'tr'?",
+      "question": "Trong các tiếng sau, từ nào bắt đầu bằng 'tr'?",
       "options": {
         "A": "bà",
         "B": "ba",
@@ -2226,7 +1869,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào dưới đây có âm đầu là 'tr'?",
+      "question": "Từ nào dưới đây có âm đầu là 'tr'?",
       "options": {
         "A": "bà",
         "B": "trăng",
@@ -2242,7 +1885,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào dưới đây có âm đầu là 'v'?",
+      "question": "Từ nào dưới đây có âm đầu là 'v'?",
       "options": {
         "A": "bà",
         "B": "ba",
@@ -2274,7 +1917,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Trong các tiếng sau, tiếng nào bắt đầu bằng 'v'?",
+      "question": "Trong các tiếng sau, từ nào bắt đầu bằng 'v'?",
       "options": {
         "A": "bà",
         "B": "vịt",
@@ -2290,7 +1933,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào dưới đây có âm đầu là 'v'?",
+      "question": "Từ nào dưới đây có âm đầu là 'v'?",
       "options": {
         "A": "bé",
         "B": "ba",
@@ -2322,7 +1965,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Trong các tiếng sau, tiếng nào bắt đầu bằng 'v'?",
+      "question": "Trong các tiếng sau, từ nào bắt đầu bằng 'v'?",
       "options": {
         "A": "bé",
         "B": "ba",
@@ -2338,7 +1981,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào dưới đây có âm đầu là 'v'?",
+      "question": "Từ nào dưới đây có âm đầu là 'v'?",
       "options": {
         "A": "ve",
         "B": "bà",
@@ -2354,7 +1997,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào dưới đây có âm đầu là 'x'?",
+      "question": "Từ nào dưới đây có âm đầu là 'x'?",
       "options": {
         "A": "xe",
         "B": "bé",
@@ -2386,7 +2029,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Trong các tiếng sau, tiếng nào bắt đầu bằng 'x'?",
+      "question": "Trong các tiếng sau, từ nào bắt đầu bằng 'x'?",
       "options": {
         "A": "xoài",
         "B": "bà",
@@ -2402,7 +2045,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào dưới đây có âm đầu là 'x'?",
+      "question": "Từ nào dưới đây có âm đầu là 'x'?",
       "options": {
         "A": "bà",
         "B": "xanh",
@@ -2434,7 +2077,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Trong các tiếng sau, tiếng nào bắt đầu bằng 'x'?",
+      "question": "Trong các tiếng sau, từ nào bắt đầu bằng 'x'?",
       "options": {
         "A": "bé",
         "B": "xẻng",
@@ -2450,7 +2093,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào dưới đây có âm đầu là 'ch'?",
+      "question": "Từ nào dưới đây có âm đầu là 'ch'?",
       "options": {
         "A": "bà",
         "B": "ba",
@@ -2482,7 +2125,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Trong các tiếng sau, tiếng nào bắt đầu bằng 'ch'?",
+      "question": "Trong các tiếng sau, từ nào bắt đầu bằng 'ch'?",
       "options": {
         "A": "bà",
         "B": "chó",
@@ -2498,7 +2141,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào dưới đây có âm đầu là 'ch'?",
+      "question": "Từ nào dưới đây có âm đầu là 'ch'?",
       "options": {
         "A": "chim",
         "B": "bà",
@@ -2530,7 +2173,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Trong các tiếng sau, tiếng nào bắt đầu bằng 'ch'?",
+      "question": "Trong các tiếng sau, từ nào bắt đầu bằng 'ch'?",
       "options": {
         "A": "bé",
         "B": "chơi",
@@ -2546,7 +2189,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào dưới đây có âm đầu là 'ch'?",
+      "question": "Từ nào dưới đây có âm đầu là 'ch'?",
       "options": {
         "A": "bà",
         "B": "bé",
@@ -2578,7 +2221,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào dưới đây có âm đầu là 'gi'?",
+      "question": "Từ nào dưới đây có âm đầu là 'gi'?",
       "options": {
         "A": "gia",
         "B": "bé",
@@ -2610,7 +2253,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Trong các tiếng sau, tiếng nào bắt đầu bằng 'gi'?",
+      "question": "Trong các tiếng sau, từ nào bắt đầu bằng 'gi'?",
       "options": {
         "A": "giày",
         "B": "bà",
@@ -2626,7 +2269,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào dưới đây có âm đầu là 'gi'?",
+      "question": "Từ nào dưới đây có âm đầu là 'gi'?",
       "options": {
         "A": "bà",
         "B": "bé",
@@ -2658,7 +2301,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Trong các tiếng sau, tiếng nào bắt đầu bằng 'gi'?",
+      "question": "Trong các tiếng sau, từ nào bắt đầu bằng 'gi'?",
       "options": {
         "A": "bé",
         "B": "giun",
@@ -2674,7 +2317,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào dưới đây có âm đầu là 'nh'?",
+      "question": "Từ nào dưới đây có âm đầu là 'nh'?",
       "options": {
         "A": "nhà",
         "B": "ba",
@@ -2706,7 +2349,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Trong các tiếng sau, tiếng nào bắt đầu bằng 'nh'?",
+      "question": "Trong các tiếng sau, từ nào bắt đầu bằng 'nh'?",
       "options": {
         "A": "nhỏ",
         "B": "bà",
@@ -2722,7 +2365,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào dưới đây có âm đầu là 'nh'?",
+      "question": "Từ nào dưới đây có âm đầu là 'nh'?",
       "options": {
         "A": "ba",
         "B": "bà",
@@ -2754,7 +2397,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Trong các tiếng sau, tiếng nào bắt đầu bằng 'nh'?",
+      "question": "Trong các tiếng sau, từ nào bắt đầu bằng 'nh'?",
       "options": {
         "A": "ba",
         "B": "bé",
@@ -2770,7 +2413,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào dưới đây có âm đầu là 'qu'?",
+      "question": "Từ nào dưới đây có âm đầu là 'qu'?",
       "options": {
         "A": "bé",
         "B": "quà",
@@ -2802,7 +2445,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Trong các tiếng sau, tiếng nào bắt đầu bằng 'qu'?",
+      "question": "Trong các tiếng sau, từ nào bắt đầu bằng 'qu'?",
       "options": {
         "A": "bé",
         "B": "ba",
@@ -2818,7 +2461,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào dưới đây có âm đầu là 'qu'?",
+      "question": "Từ nào dưới đây có âm đầu là 'qu'?",
       "options": {
         "A": "quạt",
         "B": "bà",
@@ -2850,7 +2493,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào có vần 'an'?",
+      "question": "từ nào có vần 'an'?",
       "options": {
         "A": "bát",
         "B": "mát",
@@ -2882,7 +2525,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Trong các tiếng sau, tiếng nào mang vần 'an'?",
+      "question": "Trong các tiếng sau, từ nào mang vần 'an'?",
       "options": {
         "A": "hạt",
         "B": "bát",
@@ -2898,7 +2541,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào có vần 'an'?",
+      "question": "từ nào có vần 'an'?",
       "options": {
         "A": "bát",
         "B": "tan",
@@ -2930,7 +2573,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Trong các tiếng sau, tiếng nào mang vần 'an'?",
+      "question": "Trong các tiếng sau, từ nào mang vần 'an'?",
       "options": {
         "A": "mát",
         "B": "bát",
@@ -2946,7 +2589,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào có vần 'an'?",
+      "question": "từ nào có vần 'an'?",
       "options": {
         "A": "cạn",
         "B": "mát",
@@ -2978,7 +2621,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào có vần 'at'?",
+      "question": "từ nào có vần 'at'?",
       "options": {
         "A": "nan",
         "B": "bát",
@@ -3010,7 +2653,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Trong các tiếng sau, tiếng nào mang vần 'at'?",
+      "question": "Trong các tiếng sau, từ nào mang vần 'at'?",
       "options": {
         "A": "lan",
         "B": "hạt",
@@ -3026,7 +2669,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào có vần 'at'?",
+      "question": "từ nào có vần 'at'?",
       "options": {
         "A": "bàn",
         "B": "nan",
@@ -3058,7 +2701,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Trong các tiếng sau, tiếng nào mang vần 'at'?",
+      "question": "Trong các tiếng sau, từ nào mang vần 'at'?",
       "options": {
         "A": "đạt",
         "B": "lan",
@@ -3074,7 +2717,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào có vần 'am'?",
+      "question": "từ nào có vần 'am'?",
       "options": {
         "A": "bàn",
         "B": "cam",
@@ -3106,7 +2749,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Trong các tiếng sau, tiếng nào mang vần 'am'?",
+      "question": "Trong các tiếng sau, từ nào mang vần 'am'?",
       "options": {
         "A": "bàn",
         "B": "lan",
@@ -3122,7 +2765,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào có vần 'am'?",
+      "question": "từ nào có vần 'am'?",
       "options": {
         "A": "nan",
         "B": "bàn",
@@ -3154,7 +2797,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Trong các tiếng sau, tiếng nào mang vần 'am'?",
+      "question": "Trong các tiếng sau, từ nào mang vần 'am'?",
       "options": {
         "A": "bàn",
         "B": "nan",
@@ -3170,7 +2813,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào có vần 'ap'?",
+      "question": "từ nào có vần 'ap'?",
       "options": {
         "A": "nan",
         "B": "lan",
@@ -3202,7 +2845,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Trong các tiếng sau, tiếng nào mang vần 'ap'?",
+      "question": "Trong các tiếng sau, từ nào mang vần 'ap'?",
       "options": {
         "A": "bàn",
         "B": "nan",
@@ -3218,7 +2861,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào có vần 'ap'?",
+      "question": "từ nào có vần 'ap'?",
       "options": {
         "A": "nan",
         "B": "đạp",
@@ -3234,7 +2877,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào có vần 'ang'?",
+      "question": "từ nào có vần 'ang'?",
       "options": {
         "A": "lan",
         "B": "bàn",
@@ -3266,7 +2909,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Trong các tiếng sau, tiếng nào mang vần 'ang'?",
+      "question": "Trong các tiếng sau, từ nào mang vần 'ang'?",
       "options": {
         "A": "nan",
         "B": "lan",
@@ -3282,7 +2925,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào có vần 'ang'?",
+      "question": "từ nào có vần 'ang'?",
       "options": {
         "A": "nan",
         "B": "bàn",
@@ -3314,7 +2957,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Trong các tiếng sau, tiếng nào mang vần 'ang'?",
+      "question": "Trong các tiếng sau, từ nào mang vần 'ang'?",
       "options": {
         "A": "bàn",
         "B": "nan",
@@ -3330,7 +2973,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào có vần 'ac'?",
+      "question": "từ nào có vần 'ac'?",
       "options": {
         "A": "bạc",
         "B": "bàn",
@@ -3362,7 +3005,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Trong các tiếng sau, tiếng nào mang vần 'ac'?",
+      "question": "Trong các tiếng sau, từ nào mang vần 'ac'?",
       "options": {
         "A": "lan",
         "B": "bàn",
@@ -3378,7 +3021,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào có vần 'ac'?",
+      "question": "từ nào có vần 'ac'?",
       "options": {
         "A": "rác",
         "B": "bàn",
@@ -3394,7 +3037,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào có vần 'en'?",
+      "question": "từ nào có vần 'en'?",
       "options": {
         "A": "nan",
         "B": "đen",
@@ -3426,7 +3069,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Trong các tiếng sau, tiếng nào mang vần 'en'?",
+      "question": "Trong các tiếng sau, từ nào mang vần 'en'?",
       "options": {
         "A": "men",
         "B": "lan",
@@ -3442,7 +3085,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Trong các tiếng sau, tiếng nào có vần 'en'?",
+      "question": "Trong các tiếng sau, từ nào có vần 'en'?",
       "options": {
         "A": "đen",
         "B": "bàn",
@@ -3458,7 +3101,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào có vần 'et'?",
+      "question": "từ nào có vần 'et'?",
       "options": {
         "A": "lan",
         "B": "bàn",
@@ -3490,7 +3133,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Trong các tiếng sau, tiếng nào mang vần 'et'?",
+      "question": "Trong các tiếng sau, từ nào mang vần 'et'?",
       "options": {
         "A": "lan",
         "B": "nan",
@@ -3506,7 +3149,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào có vần 'et'?",
+      "question": "từ nào có vần 'et'?",
       "options": {
         "A": "lan",
         "B": "bàn",
@@ -3522,7 +3165,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào có vần 'in'?",
+      "question": "từ nào có vần 'in'?",
       "options": {
         "A": "bàn",
         "B": "lan",
@@ -3554,7 +3197,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Trong các tiếng sau, tiếng nào mang vần 'in'?",
+      "question": "Trong các tiếng sau, từ nào mang vần 'in'?",
       "options": {
         "A": "lan",
         "B": "bàn",
@@ -3570,7 +3213,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào có vần 'in'?",
+      "question": "từ nào có vần 'in'?",
       "options": {
         "A": "bàn",
         "B": "kín",
@@ -3586,7 +3229,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào có vần 'it'?",
+      "question": "từ nào có vần 'it'?",
       "options": {
         "A": "bàn",
         "B": "lan",
@@ -3618,7 +3261,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Trong các tiếng sau, tiếng nào mang vần 'it'?",
+      "question": "Trong các tiếng sau, từ nào mang vần 'it'?",
       "options": {
         "A": "bàn",
         "B": "nan",
@@ -3634,7 +3277,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Trong các tiếng sau, tiếng nào có vần 'it'?",
+      "question": "Trong các tiếng sau, từ nào có vần 'it'?",
       "options": {
         "A": "mít",
         "B": "nan",
@@ -3650,7 +3293,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào có vần 'on'?",
+      "question": "từ nào có vần 'on'?",
       "options": {
         "A": "lan",
         "B": "con",
@@ -3682,7 +3325,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Trong các tiếng sau, tiếng nào mang vần 'on'?",
+      "question": "Trong các tiếng sau, từ nào mang vần 'on'?",
       "options": {
         "A": "nan",
         "B": "non",
@@ -3698,7 +3341,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào có vần 'on'?",
+      "question": "từ nào có vần 'on'?",
       "options": {
         "A": "nan",
         "B": "bàn",
@@ -3730,7 +3373,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào có vần 'ot'?",
+      "question": "từ nào có vần 'ot'?",
       "options": {
         "A": "nan",
         "B": "bọt",
@@ -3762,7 +3405,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Trong các tiếng sau, tiếng nào mang vần 'ot'?",
+      "question": "Trong các tiếng sau, từ nào mang vần 'ot'?",
       "options": {
         "A": "nan",
         "B": "lan",
@@ -3778,7 +3421,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào có vần 'ot'?",
+      "question": "từ nào có vần 'ot'?",
       "options": {
         "A": "nan",
         "B": "ngọt",
@@ -3794,7 +3437,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào có vần 'ung'?",
+      "question": "từ nào có vần 'ung'?",
       "options": {
         "A": "lan",
         "B": "bàn",
@@ -3826,7 +3469,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Trong các tiếng sau, tiếng nào mang vần 'ung'?",
+      "question": "Trong các tiếng sau, từ nào mang vần 'ung'?",
       "options": {
         "A": "lan",
         "B": "nan",
@@ -3842,7 +3485,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào có vần 'ung'?",
+      "question": "từ nào có vần 'ung'?",
       "options": {
         "A": "bàn",
         "B": "nan",
@@ -3858,7 +3501,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào có vần 'uc'?",
+      "question": "từ nào có vần 'uc'?",
       "options": {
         "A": "bàn",
         "B": "lan",
@@ -3890,7 +3533,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Trong các tiếng sau, tiếng nào mang vần 'uc'?",
+      "question": "Trong các tiếng sau, từ nào mang vần 'uc'?",
       "options": {
         "A": "lúc",
         "B": "bàn",
@@ -3906,7 +3549,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào có vần 'uc'?",
+      "question": "từ nào có vần 'uc'?",
       "options": {
         "A": "súc",
         "B": "bàn",
@@ -3922,7 +3565,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào có vần 'inh'?",
+      "question": "từ nào có vần 'inh'?",
       "options": {
         "A": "xinh",
         "B": "bàn",
@@ -3954,7 +3597,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Trong các tiếng sau, tiếng nào mang vần 'inh'?",
+      "question": "Trong các tiếng sau, từ nào mang vần 'inh'?",
       "options": {
         "A": "bàn",
         "B": "minh",
@@ -3970,7 +3613,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào có vần 'inh'?",
+      "question": "từ nào có vần 'inh'?",
       "options": {
         "A": "kính",
         "B": "nan",
@@ -3986,7 +3629,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào mang thanh ngang?",
+      "question": "từ nào mang thanh ngang?",
       "options": {
         "A": "bé",
         "B": "cá",
@@ -4018,7 +3661,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào dưới đây đọc với thanh ngang?",
+      "question": "từ nào dưới đây đọc với thanh ngang?",
       "options": {
         "A": "bo",
         "B": "cá",
@@ -4034,7 +3677,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào mang thanh ngang?",
+      "question": "từ nào mang thanh ngang?",
       "options": {
         "A": "bố",
         "B": "bé",
@@ -4066,7 +3709,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào dưới đây đọc với thanh ngang?",
+      "question": "từ nào dưới đây đọc với thanh ngang?",
       "options": {
         "A": "bố",
         "B": "bé",
@@ -4082,7 +3725,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào mang thanh ngang?",
+      "question": "từ nào mang thanh ngang?",
       "options": {
         "A": "bố",
         "B": "la",
@@ -4114,7 +3757,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào dưới đây đọc với thanh ngang?",
+      "question": "từ nào dưới đây đọc với thanh ngang?",
       "options": {
         "A": "bé",
         "B": "bố",
@@ -4130,7 +3773,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào mang thanh ngang?",
+      "question": "từ nào mang thanh ngang?",
       "options": {
         "A": "cá",
         "B": "bố",
@@ -4162,7 +3805,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào dưới đây đọc với thanh ngang?",
+      "question": "từ nào dưới đây đọc với thanh ngang?",
       "options": {
         "A": "cá",
         "B": "bé",
@@ -4178,7 +3821,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào mang thanh sắc?",
+      "question": "từ nào mang thanh sắc?",
       "options": {
         "A": "bo",
         "B": "ba",
@@ -4210,7 +3853,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào dưới đây đọc với thanh sắc?",
+      "question": "từ nào dưới đây đọc với thanh sắc?",
       "options": {
         "A": "cá",
         "B": "be",
@@ -4226,7 +3869,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào mang thanh sắc?",
+      "question": "từ nào mang thanh sắc?",
       "options": {
         "A": "be",
         "B": "bo",
@@ -4258,7 +3901,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào dưới đây đọc với thanh sắc?",
+      "question": "từ nào dưới đây đọc với thanh sắc?",
       "options": {
         "A": "be",
         "B": "ba",
@@ -4274,7 +3917,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào mang thanh sắc?",
+      "question": "từ nào mang thanh sắc?",
       "options": {
         "A": "bo",
         "B": "ba",
@@ -4306,7 +3949,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào dưới đây đọc với thanh sắc?",
+      "question": "từ nào dưới đây đọc với thanh sắc?",
       "options": {
         "A": "be",
         "B": "ba",
@@ -4322,7 +3965,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào mang thanh sắc?",
+      "question": "từ nào mang thanh sắc?",
       "options": {
         "A": "be",
         "B": "bo",
@@ -4354,7 +3997,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào dưới đây đọc với thanh sắc?",
+      "question": "từ nào dưới đây đọc với thanh sắc?",
       "options": {
         "A": "bo",
         "B": "chó",
@@ -4370,7 +4013,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào mang thanh huyền?",
+      "question": "từ nào mang thanh huyền?",
       "options": {
         "A": "be",
         "B": "bo",
@@ -4402,7 +4045,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào dưới đây đọc với thanh huyền?",
+      "question": "từ nào dưới đây đọc với thanh huyền?",
       "options": {
         "A": "bo",
         "B": "ba",
@@ -4418,7 +4061,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào mang thanh huyền?",
+      "question": "từ nào mang thanh huyền?",
       "options": {
         "A": "dù",
         "B": "ba",
@@ -4450,7 +4093,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào dưới đây đọc với thanh huyền?",
+      "question": "từ nào dưới đây đọc với thanh huyền?",
       "options": {
         "A": "be",
         "B": "ba",
@@ -4466,7 +4109,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào mang thanh huyền?",
+      "question": "từ nào mang thanh huyền?",
       "options": {
         "A": "be",
         "B": "ba",
@@ -4498,7 +4141,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào dưới đây đọc với thanh huyền?",
+      "question": "từ nào dưới đây đọc với thanh huyền?",
       "options": {
         "A": "bo",
         "B": "ba",
@@ -4514,7 +4157,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào mang thanh huyền?",
+      "question": "từ nào mang thanh huyền?",
       "options": {
         "A": "bo",
         "B": "ba",
@@ -4546,7 +4189,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào dưới đây đọc với thanh huyền?",
+      "question": "từ nào dưới đây đọc với thanh huyền?",
       "options": {
         "A": "ba",
         "B": "be",
@@ -4562,7 +4205,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào mang thanh hỏi?",
+      "question": "từ nào mang thanh hỏi?",
       "options": {
         "A": "bỏ",
         "B": "bo",
@@ -4594,7 +4237,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào dưới đây đọc với thanh hỏi?",
+      "question": "từ nào dưới đây đọc với thanh hỏi?",
       "options": {
         "A": "bo",
         "B": "hổ",
@@ -4610,7 +4253,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào mang thanh hỏi?",
+      "question": "từ nào mang thanh hỏi?",
       "options": {
         "A": "bo",
         "B": "mở",
@@ -4642,7 +4285,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào dưới đây đọc với thanh hỏi?",
+      "question": "từ nào dưới đây đọc với thanh hỏi?",
       "options": {
         "A": "be",
         "B": "thỏ",
@@ -4658,7 +4301,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào mang thanh hỏi?",
+      "question": "từ nào mang thanh hỏi?",
       "options": {
         "A": "vở",
         "B": "bo",
@@ -4690,7 +4333,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào dưới đây đọc với thanh hỏi?",
+      "question": "từ nào dưới đây đọc với thanh hỏi?",
       "options": {
         "A": "ngủ",
         "B": "ba",
@@ -4706,7 +4349,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào mang thanh hỏi?",
+      "question": "từ nào mang thanh hỏi?",
       "options": {
         "A": "bo",
         "B": "be",
@@ -4738,7 +4381,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào dưới đây đọc với thanh hỏi?",
+      "question": "từ nào dưới đây đọc với thanh hỏi?",
       "options": {
         "A": "bảng",
         "B": "bo",
@@ -4754,7 +4397,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào mang thanh ngã?",
+      "question": "từ nào mang thanh ngã?",
       "options": {
         "A": "bẽ",
         "B": "be",
@@ -4786,7 +4429,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào dưới đây đọc với thanh ngã?",
+      "question": "từ nào dưới đây đọc với thanh ngã?",
       "options": {
         "A": "ba",
         "B": "ngã",
@@ -4802,7 +4445,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào mang thanh ngã?",
+      "question": "từ nào mang thanh ngã?",
       "options": {
         "A": "ba",
         "B": "mỡ",
@@ -4834,7 +4477,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào dưới đây đọc với thanh ngã?",
+      "question": "từ nào dưới đây đọc với thanh ngã?",
       "options": {
         "A": "lễ",
         "B": "bo",
@@ -4850,7 +4493,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào mang thanh ngã?",
+      "question": "từ nào mang thanh ngã?",
       "options": {
         "A": "ba",
         "B": "bo",
@@ -4882,7 +4525,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào dưới đây đọc với thanh ngã?",
+      "question": "từ nào dưới đây đọc với thanh ngã?",
       "options": {
         "A": "nghĩ",
         "B": "be",
@@ -4898,7 +4541,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào mang thanh ngã?",
+      "question": "từ nào mang thanh ngã?",
       "options": {
         "A": "be",
         "B": "ba",
@@ -4914,7 +4557,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào mang thanh nặng?",
+      "question": "từ nào mang thanh nặng?",
       "options": {
         "A": "be",
         "B": "bo",
@@ -4946,7 +4589,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào dưới đây đọc với thanh nặng?",
+      "question": "từ nào dưới đây đọc với thanh nặng?",
       "options": {
         "A": "ba",
         "B": "bo",
@@ -4962,7 +4605,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào mang thanh nặng?",
+      "question": "từ nào mang thanh nặng?",
       "options": {
         "A": "ba",
         "B": "be",
@@ -4994,7 +4637,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào dưới đây đọc với thanh nặng?",
+      "question": "từ nào dưới đây đọc với thanh nặng?",
       "options": {
         "A": "be",
         "B": "bật",
@@ -5010,7 +4653,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào mang thanh nặng?",
+      "question": "từ nào mang thanh nặng?",
       "options": {
         "A": "ba",
         "B": "mặt",
@@ -5042,7 +4685,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào dưới đây đọc với thanh nặng?",
+      "question": "từ nào dưới đây đọc với thanh nặng?",
       "options": {
         "A": "kẹt",
         "B": "ba",
@@ -5058,7 +4701,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào mang thanh nặng?",
+      "question": "từ nào mang thanh nặng?",
       "options": {
         "A": "ba",
         "B": "bo",
@@ -9766,438 +9409,6 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Chữ cái nào sau đây là chữ 'a'?",
-      "options": {
-        "A": "r",
-        "B": "t",
-        "C": "đ",
-        "D": "a"
-      },
-      "answer": "D",
-      "explanation": "Đáp án đúng là chữ cái 'a'.",
-      "questionId": "k1_c1_tn_0620"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "TN",
-      "question": "Chữ cái nào sau đây là chữ 'ă'?",
-      "options": {
-        "A": "ă",
-        "B": "g",
-        "C": "n",
-        "D": "ô"
-      },
-      "answer": "A",
-      "explanation": "Đáp án đúng là chữ cái 'ă'.",
-      "questionId": "k1_c1_tn_0621"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "TN",
-      "question": "Chữ cái nào sau đây là chữ 'â'?",
-      "options": {
-        "A": "t",
-        "B": "g",
-        "C": "d",
-        "D": "â"
-      },
-      "answer": "D",
-      "explanation": "Đáp án đúng là chữ cái 'â'.",
-      "questionId": "k1_c1_tn_0622"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "TN",
-      "question": "Chữ cái nào sau đây là chữ 'b'?",
-      "options": {
-        "A": "b",
-        "B": "ư",
-        "C": "ă",
-        "D": "g"
-      },
-      "answer": "A",
-      "explanation": "Đáp án đúng là chữ cái 'b'.",
-      "questionId": "k1_c1_tn_0623"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "TN",
-      "question": "Chữ cái nào sau đây là chữ 'c'?",
-      "options": {
-        "A": "c",
-        "B": "d",
-        "C": "a",
-        "D": "v"
-      },
-      "answer": "A",
-      "explanation": "Đáp án đúng là chữ cái 'c'.",
-      "questionId": "k1_c1_tn_0624"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "TN",
-      "question": "Chữ cái nào sau đây là chữ 'd'?",
-      "options": {
-        "A": "u",
-        "B": "d",
-        "C": "q",
-        "D": "ơ"
-      },
-      "answer": "B",
-      "explanation": "Đáp án đúng là chữ cái 'd'.",
-      "questionId": "k1_c1_tn_0625"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "TN",
-      "question": "Chữ cái nào sau đây là chữ 'đ'?",
-      "options": {
-        "A": "ô",
-        "B": "u",
-        "C": "đ",
-        "D": "q"
-      },
-      "answer": "C",
-      "explanation": "Đáp án đúng là chữ cái 'đ'.",
-      "questionId": "k1_c1_tn_0626"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "TN",
-      "question": "Chữ cái nào sau đây là chữ 'e'?",
-      "options": {
-        "A": "ơ",
-        "B": "d",
-        "C": "e",
-        "D": "b"
-      },
-      "answer": "C",
-      "explanation": "Đáp án đúng là chữ cái 'e'.",
-      "questionId": "k1_c1_tn_0627"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "TN",
-      "question": "Chữ cái nào sau đây là chữ 'ê'?",
-      "options": {
-        "A": "e",
-        "B": "ơ",
-        "C": "ê",
-        "D": "a"
-      },
-      "answer": "C",
-      "explanation": "Đáp án đúng là chữ cái 'ê'.",
-      "questionId": "k1_c1_tn_0628"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "TN",
-      "question": "Chữ cái nào sau đây là chữ 'g'?",
-      "options": {
-        "A": "g",
-        "B": "t",
-        "C": "l",
-        "D": "đ"
-      },
-      "answer": "A",
-      "explanation": "Đáp án đúng là chữ cái 'g'.",
-      "questionId": "k1_c1_tn_0629"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "TN",
-      "question": "Chữ cái nào sau đây là chữ 'h'?",
-      "options": {
-        "A": "h",
-        "B": "c",
-        "C": "â",
-        "D": "i"
-      },
-      "answer": "A",
-      "explanation": "Đáp án đúng là chữ cái 'h'.",
-      "questionId": "k1_c1_tn_0630"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "TN",
-      "question": "Chữ cái nào sau đây là chữ 'i'?",
-      "options": {
-        "A": "p",
-        "B": "i",
-        "C": "x",
-        "D": "k"
-      },
-      "answer": "B",
-      "explanation": "Đáp án đúng là chữ cái 'i'.",
-      "questionId": "k1_c1_tn_0631"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "TN",
-      "question": "Chữ cái nào sau đây là chữ 'k'?",
-      "options": {
-        "A": "o",
-        "B": "k",
-        "C": "e",
-        "D": "a"
-      },
-      "answer": "B",
-      "explanation": "Đáp án đúng là chữ cái 'k'.",
-      "questionId": "k1_c1_tn_0632"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "TN",
-      "question": "Chữ cái nào sau đây là chữ 'l'?",
-      "options": {
-        "A": "l",
-        "B": "a",
-        "C": "ơ",
-        "D": "q"
-      },
-      "answer": "A",
-      "explanation": "Đáp án đúng là chữ cái 'l'.",
-      "questionId": "k1_c1_tn_0633"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "TN",
-      "question": "Chữ cái nào sau đây là chữ 'm'?",
-      "options": {
-        "A": "v",
-        "B": "m",
-        "C": "ă",
-        "D": "c"
-      },
-      "answer": "B",
-      "explanation": "Đáp án đúng là chữ cái 'm'.",
-      "questionId": "k1_c1_tn_0634"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "TN",
-      "question": "Chữ cái nào sau đây là chữ 'n'?",
-      "options": {
-        "A": "b",
-        "B": "n",
-        "C": "u",
-        "D": "d"
-      },
-      "answer": "B",
-      "explanation": "Đáp án đúng là chữ cái 'n'.",
-      "questionId": "k1_c1_tn_0635"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "TN",
-      "question": "Chữ cái nào sau đây là chữ 'o'?",
-      "options": {
-        "A": "m",
-        "B": "o",
-        "C": "ă",
-        "D": "c"
-      },
-      "answer": "B",
-      "explanation": "Đáp án đúng là chữ cái 'o'.",
-      "questionId": "k1_c1_tn_0636"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "TN",
-      "question": "Chữ cái nào sau đây là chữ 'p'?",
-      "options": {
-        "A": "s",
-        "B": "r",
-        "C": "ơ",
-        "D": "p"
-      },
-      "answer": "D",
-      "explanation": "Đáp án đúng là chữ cái 'p'.",
-      "questionId": "k1_c1_tn_0637"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "TN",
-      "question": "Chữ cái nào sau đây là chữ 'ô'?",
-      "options": {
-        "A": "c",
-        "B": "m",
-        "C": "l",
-        "D": "ô"
-      },
-      "answer": "D",
-      "explanation": "Đáp án đúng là chữ cái 'ô'.",
-      "questionId": "k1_c1_tn_0638"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "TN",
-      "question": "Chữ cái nào sau đây là chữ 'ơ'?",
-      "options": {
-        "A": "ơ",
-        "B": "t",
-        "C": "ư",
-        "D": "ă"
-      },
-      "answer": "A",
-      "explanation": "Đáp án đúng là chữ cái 'ơ'.",
-      "questionId": "k1_c1_tn_0639"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "TN",
-      "question": "Chữ cái nào sau đây là chữ 'q'?",
-      "options": {
-        "A": "l",
-        "B": "q",
-        "C": "ă",
-        "D": "n"
-      },
-      "answer": "B",
-      "explanation": "Đáp án đúng là chữ cái 'q'.",
-      "questionId": "k1_c1_tn_0640"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "TN",
-      "question": "Chữ cái nào sau đây là chữ 'r'?",
-      "options": {
-        "A": "b",
-        "B": "ă",
-        "C": "ô",
-        "D": "r"
-      },
-      "answer": "D",
-      "explanation": "Đáp án đúng là chữ cái 'r'.",
-      "questionId": "k1_c1_tn_0641"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "TN",
-      "question": "Chữ cái nào sau đây là chữ 's'?",
-      "options": {
-        "A": "m",
-        "B": "s",
-        "C": "h",
-        "D": "i"
-      },
-      "answer": "B",
-      "explanation": "Đáp án đúng là chữ cái 's'.",
-      "questionId": "k1_c1_tn_0642"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "TN",
-      "question": "Chữ cái nào sau đây là chữ 't'?",
-      "options": {
-        "A": "v",
-        "B": "r",
-        "C": "t",
-        "D": "y"
-      },
-      "answer": "C",
-      "explanation": "Đáp án đúng là chữ cái 't'.",
-      "questionId": "k1_c1_tn_0643"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "TN",
-      "question": "Chữ cái nào sau đây là chữ 'u'?",
-      "options": {
-        "A": "u",
-        "B": "ă",
-        "C": "p",
-        "D": "ô"
-      },
-      "answer": "A",
-      "explanation": "Đáp án đúng là chữ cái 'u'.",
-      "questionId": "k1_c1_tn_0644"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "TN",
-      "question": "Chữ cái nào sau đây là chữ 'ư'?",
-      "options": {
-        "A": "d",
-        "B": "q",
-        "C": "ư",
-        "D": "l"
-      },
-      "answer": "C",
-      "explanation": "Đáp án đúng là chữ cái 'ư'.",
-      "questionId": "k1_c1_tn_0645"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "TN",
-      "question": "Chữ cái nào sau đây là chữ 'v'?",
-      "options": {
-        "A": "ă",
-        "B": "v",
-        "C": "t",
-        "D": "c"
-      },
-      "answer": "B",
-      "explanation": "Đáp án đúng là chữ cái 'v'.",
-      "questionId": "k1_c1_tn_0646"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "TN",
       "question": "Chọn tiếng có âm đầu 'b' trong nhóm tiếng sau.",
       "options": {
         "A": "cây",
@@ -11802,7 +11013,7 @@
       "options": {
         "A": "lá",
         "B": "nhỏ",
-        "C": "quê",
+        "C": "cây",
         "D": "quả"
       },
       "answer": "D",
@@ -12182,7 +11393,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Trong nhóm tiếng sau, tiếng nào bắt đầu bằng âm 't'?",
+      "question": "Trong nhóm tiếng sau, từ nào bắt đầu bằng âm 't'?",
       "options": {
         "A": "ve",
         "B": "dế",
@@ -12870,7 +12081,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Trong các tiếng sau, tiếng nào có âm đầu là 'qu'?",
+      "question": "Trong các tiếng sau, từ nào có âm đầu là 'qu'?",
       "options": {
         "A": "đường",
         "B": "quà",
@@ -12886,7 +12097,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Trong các tiếng sau, tiếng nào có âm đầu là 'qu'?",
+      "question": "Trong các tiếng sau, từ nào có âm đầu là 'qu'?",
       "options": {
         "A": "quả",
         "B": "thước",
@@ -12902,7 +12113,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Trong các tiếng sau, tiếng nào có âm đầu là 'qu'?",
+      "question": "Trong các tiếng sau, từ nào có âm đầu là 'qu'?",
       "options": {
         "A": "quần",
         "B": "gà",
@@ -12918,7 +12129,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Trong các tiếng sau, tiếng nào có âm đầu là 'qu'?",
+      "question": "Trong các tiếng sau, từ nào có âm đầu là 'qu'?",
       "options": {
         "A": "lê",
         "B": "chuối",
@@ -12934,7 +12145,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào sau đây có phần vần 'an' ở cuối?",
+      "question": "từ nào sau đây có phần vần 'an' ở cuối?",
       "options": {
         "A": "bàn",
         "B": "mát",
@@ -12950,7 +12161,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào sau đây có phần vần 'an' ở cuối?",
+      "question": "từ nào sau đây có phần vần 'an' ở cuối?",
       "options": {
         "A": "mát",
         "B": "lan",
@@ -12966,7 +12177,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào sau đây có phần vần 'an' ở cuối?",
+      "question": "từ nào sau đây có phần vần 'an' ở cuối?",
       "options": {
         "A": "hạt",
         "B": "mát",
@@ -12982,7 +12193,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào sau đây có phần vần 'an' ở cuối?",
+      "question": "từ nào sau đây có phần vần 'an' ở cuối?",
       "options": {
         "A": "bát",
         "B": "hạt",
@@ -12998,7 +12209,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào sau đây có phần vần 'an' ở cuối?",
+      "question": "từ nào sau đây có phần vần 'an' ở cuối?",
       "options": {
         "A": "đàn",
         "B": "hạt",
@@ -13014,7 +12225,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào sau đây có phần vần 'an' ở cuối?",
+      "question": "từ nào sau đây có phần vần 'an' ở cuối?",
       "options": {
         "A": "bát",
         "B": "bạn",
@@ -13030,7 +12241,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào sau đây có phần vần 'an' ở cuối?",
+      "question": "từ nào sau đây có phần vần 'an' ở cuối?",
       "options": {
         "A": "mát",
         "B": "bát",
@@ -13046,7 +12257,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào sau đây có phần vần 'an' ở cuối?",
+      "question": "từ nào sau đây có phần vần 'an' ở cuối?",
       "options": {
         "A": "hàn",
         "B": "hạt",
@@ -13062,7 +12273,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào sau đây có phần vần 'at' ở cuối?",
+      "question": "từ nào sau đây có phần vần 'at' ở cuối?",
       "options": {
         "A": "bát",
         "B": "lan",
@@ -13078,7 +12289,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào sau đây có phần vần 'at' ở cuối?",
+      "question": "từ nào sau đây có phần vần 'at' ở cuối?",
       "options": {
         "A": "nan",
         "B": "lan",
@@ -13094,7 +12305,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào sau đây có phần vần 'at' ở cuối?",
+      "question": "từ nào sau đây có phần vần 'at' ở cuối?",
       "options": {
         "A": "hạt",
         "B": "lan",
@@ -13110,7 +12321,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào sau đây có phần vần 'at' ở cuối?",
+      "question": "từ nào sau đây có phần vần 'at' ở cuối?",
       "options": {
         "A": "cát",
         "B": "nan",
@@ -13126,7 +12337,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào sau đây có phần vần 'at' ở cuối?",
+      "question": "từ nào sau đây có phần vần 'at' ở cuối?",
       "options": {
         "A": "nan",
         "B": "bàn",
@@ -13142,7 +12353,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào sau đây có phần vần 'at' ở cuối?",
+      "question": "từ nào sau đây có phần vần 'at' ở cuối?",
       "options": {
         "A": "nan",
         "B": "đạt",
@@ -13158,7 +12369,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào sau đây có phần vần 'am' ở cuối?",
+      "question": "từ nào sau đây có phần vần 'am' ở cuối?",
       "options": {
         "A": "lan",
         "B": "cam",
@@ -13174,7 +12385,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào sau đây có phần vần 'am' ở cuối?",
+      "question": "từ nào sau đây có phần vần 'am' ở cuối?",
       "options": {
         "A": "nam",
         "B": "bàn",
@@ -13190,7 +12401,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào sau đây có phần vần 'am' ở cuối?",
+      "question": "từ nào sau đây có phần vần 'am' ở cuối?",
       "options": {
         "A": "ham",
         "B": "lan",
@@ -13206,7 +12417,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào sau đây có phần vần 'am' ở cuối?",
+      "question": "từ nào sau đây có phần vần 'am' ở cuối?",
       "options": {
         "A": "làm",
         "B": "bàn",
@@ -13222,7 +12433,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào sau đây có phần vần 'am' ở cuối?",
+      "question": "từ nào sau đây có phần vần 'am' ở cuối?",
       "options": {
         "A": "nan",
         "B": "bàn",
@@ -13238,7 +12449,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào sau đây có phần vần 'am' ở cuối?",
+      "question": "từ nào sau đây có phần vần 'am' ở cuối?",
       "options": {
         "A": "trám",
         "B": "nan",
@@ -13254,7 +12465,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào sau đây có phần vần 'ap' ở cuối?",
+      "question": "từ nào sau đây có phần vần 'ap' ở cuối?",
       "options": {
         "A": "bàn",
         "B": "nan",
@@ -13270,7 +12481,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào sau đây có phần vần 'ap' ở cuối?",
+      "question": "từ nào sau đây có phần vần 'ap' ở cuối?",
       "options": {
         "A": "nan",
         "B": "bàn",
@@ -13286,7 +12497,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào sau đây có phần vần 'ap' ở cuối?",
+      "question": "từ nào sau đây có phần vần 'ap' ở cuối?",
       "options": {
         "A": "lan",
         "B": "bàn",
@@ -13302,7 +12513,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào sau đây có phần vần 'ap' ở cuối?",
+      "question": "từ nào sau đây có phần vần 'ap' ở cuối?",
       "options": {
         "A": "bàn",
         "B": "nan",
@@ -13318,7 +12529,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào sau đây có phần vần 'ang' ở cuối?",
+      "question": "từ nào sau đây có phần vần 'ang' ở cuối?",
       "options": {
         "A": "bàng",
         "B": "nan",
@@ -13334,7 +12545,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào sau đây có phần vần 'ang' ở cuối?",
+      "question": "từ nào sau đây có phần vần 'ang' ở cuối?",
       "options": {
         "A": "nan",
         "B": "lan",
@@ -13350,7 +12561,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào sau đây có phần vần 'ang' ở cuối?",
+      "question": "từ nào sau đây có phần vần 'ang' ở cuối?",
       "options": {
         "A": "vang",
         "B": "lan",
@@ -13366,7 +12577,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào sau đây có phần vần 'ang' ở cuối?",
+      "question": "từ nào sau đây có phần vần 'ang' ở cuối?",
       "options": {
         "A": "bàn",
         "B": "mang",
@@ -13382,7 +12593,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào sau đây có phần vần 'ang' ở cuối?",
+      "question": "từ nào sau đây có phần vần 'ang' ở cuối?",
       "options": {
         "A": "lan",
         "B": "đang",
@@ -13398,7 +12609,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào sau đây có phần vần 'ang' ở cuối?",
+      "question": "từ nào sau đây có phần vần 'ang' ở cuối?",
       "options": {
         "A": "lan",
         "B": "nan",
@@ -13414,7 +12625,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào sau đây có phần vần 'ac' ở cuối?",
+      "question": "từ nào sau đây có phần vần 'ac' ở cuối?",
       "options": {
         "A": "nan",
         "B": "lan",
@@ -13430,7 +12641,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào sau đây có phần vần 'ac' ở cuối?",
+      "question": "từ nào sau đây có phần vần 'ac' ở cuối?",
       "options": {
         "A": "lạc",
         "B": "nan",
@@ -13446,7 +12657,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào sau đây có phần vần 'ac' ở cuối?",
+      "question": "từ nào sau đây có phần vần 'ac' ở cuối?",
       "options": {
         "A": "nan",
         "B": "lan",
@@ -13462,7 +12673,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào sau đây có phần vần 'ac' ở cuối?",
+      "question": "từ nào sau đây có phần vần 'ac' ở cuối?",
       "options": {
         "A": "lan",
         "B": "bàn",
@@ -13478,7 +12689,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào sau đây có phần vần 'en' ở cuối?",
+      "question": "từ nào sau đây có phần vần 'en' ở cuối?",
       "options": {
         "A": "đen",
         "B": "lan",
@@ -13494,7 +12705,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào sau đây có phần vần 'en' ở cuối?",
+      "question": "từ nào sau đây có phần vần 'en' ở cuối?",
       "options": {
         "A": "bàn",
         "B": "nan",
@@ -13510,7 +12721,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào sau đây có phần vần 'en' ở cuối?",
+      "question": "từ nào sau đây có phần vần 'en' ở cuối?",
       "options": {
         "A": "nan",
         "B": "bàn",
@@ -13526,7 +12737,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Trong nhóm tiếng sau, tiếng nào có vần 'en' ở cuối?",
+      "question": "Trong nhóm tiếng sau, từ nào có vần 'en' ở cuối?",
       "options": {
         "A": "bàn",
         "B": "lan",
@@ -13542,7 +12753,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào sau đây có phần vần 'et' ở cuối?",
+      "question": "từ nào sau đây có phần vần 'et' ở cuối?",
       "options": {
         "A": "lan",
         "B": "két",
@@ -13558,7 +12769,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào sau đây có phần vần 'et' ở cuối?",
+      "question": "từ nào sau đây có phần vần 'et' ở cuối?",
       "options": {
         "A": "nan",
         "B": "hét",
@@ -13574,7 +12785,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào sau đây có phần vần 'et' ở cuối?",
+      "question": "từ nào sau đây có phần vần 'et' ở cuối?",
       "options": {
         "A": "vét",
         "B": "lan",
@@ -13590,7 +12801,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào sau đây có phần vần 'et' ở cuối?",
+      "question": "từ nào sau đây có phần vần 'et' ở cuối?",
       "options": {
         "A": "bàn",
         "B": "nan",
@@ -13606,7 +12817,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào sau đây có phần vần 'in' ở cuối?",
+      "question": "từ nào sau đây có phần vần 'in' ở cuối?",
       "options": {
         "A": "nan",
         "B": "lan",
@@ -13622,7 +12833,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào sau đây có phần vần 'in' ở cuối?",
+      "question": "từ nào sau đây có phần vần 'in' ở cuối?",
       "options": {
         "A": "in",
         "B": "bàn",
@@ -13638,7 +12849,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào sau đây có phần vần 'in' ở cuối?",
+      "question": "từ nào sau đây có phần vần 'in' ở cuối?",
       "options": {
         "A": "kín",
         "B": "bàn",
@@ -13654,7 +12865,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Trong các tiếng dưới đây, tiếng nào chứa vần 'in' ở cuối?",
+      "question": "Trong các tiếng dưới đây, từ nào chứa vần 'in' ở cuối?",
       "options": {
         "A": "nan",
         "B": "lan",
@@ -13670,7 +12881,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào sau đây có phần vần 'it' ở cuối?",
+      "question": "từ nào sau đây có phần vần 'it' ở cuối?",
       "options": {
         "A": "bàn",
         "B": "vịt",
@@ -13686,7 +12897,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào sau đây có phần vần 'it' ở cuối?",
+      "question": "từ nào sau đây có phần vần 'it' ở cuối?",
       "options": {
         "A": "nan",
         "B": "bàn",
@@ -13702,7 +12913,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào sau đây có phần vần 'it' ở cuối?",
+      "question": "từ nào sau đây có phần vần 'it' ở cuối?",
       "options": {
         "A": "nan",
         "B": "bàn",
@@ -13718,7 +12929,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Trong nhóm tiếng sau, tiếng nào có vần 'it' ở cuối?",
+      "question": "Trong nhóm tiếng sau, từ nào có vần 'it' ở cuối?",
       "options": {
         "A": "bàn",
         "B": "nan",
@@ -13734,7 +12945,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào sau đây có phần vần 'on' ở cuối?",
+      "question": "từ nào sau đây có phần vần 'on' ở cuối?",
       "options": {
         "A": "nan",
         "B": "lan",
@@ -13750,7 +12961,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào sau đây có phần vần 'on' ở cuối?",
+      "question": "từ nào sau đây có phần vần 'on' ở cuối?",
       "options": {
         "A": "lan",
         "B": "non",
@@ -13766,7 +12977,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Trong các tiếng dưới đây, tiếng nào chứa vần 'on' ở cuối?",
+      "question": "Trong các tiếng dưới đây, từ nào chứa vần 'on' ở cuối?",
       "options": {
         "A": "nan",
         "B": "bàn",
@@ -13782,7 +12993,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào sau đây có phần vần 'on' ở cuối?",
+      "question": "từ nào sau đây có phần vần 'on' ở cuối?",
       "options": {
         "A": "lan",
         "B": "bàn",
@@ -13798,7 +13009,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào sau đây có phần vần 'on' ở cuối?",
+      "question": "từ nào sau đây có phần vần 'on' ở cuối?",
       "options": {
         "A": "bàn",
         "B": "lan",
@@ -13814,7 +13025,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào sau đây có phần vần 'ot' ở cuối?",
+      "question": "từ nào sau đây có phần vần 'ot' ở cuối?",
       "options": {
         "A": "lan",
         "B": "bàn",
@@ -13830,7 +13041,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào sau đây có phần vần 'ot' ở cuối?",
+      "question": "từ nào sau đây có phần vần 'ot' ở cuối?",
       "options": {
         "A": "hót",
         "B": "lan",
@@ -13846,7 +13057,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào sau đây có phần vần 'ot' ở cuối?",
+      "question": "từ nào sau đây có phần vần 'ot' ở cuối?",
       "options": {
         "A": "bàn",
         "B": "sọt",
@@ -13862,7 +13073,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào sau đây có phần vần 'ot' ở cuối?",
+      "question": "từ nào sau đây có phần vần 'ot' ở cuối?",
       "options": {
         "A": "nan",
         "B": "ngọt",
@@ -13878,7 +13089,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào sau đây có phần vần 'ung' ở cuối?",
+      "question": "từ nào sau đây có phần vần 'ung' ở cuối?",
       "options": {
         "A": "cung",
         "B": "lan",
@@ -13894,7 +13105,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào sau đây có phần vần 'ung' ở cuối?",
+      "question": "từ nào sau đây có phần vần 'ung' ở cuối?",
       "options": {
         "A": "nan",
         "B": "lan",
@@ -13910,7 +13121,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Trong các tiếng dưới đây, tiếng nào chứa vần 'ung' ở cuối?",
+      "question": "Trong các tiếng dưới đây, từ nào chứa vần 'ung' ở cuối?",
       "options": {
         "A": "tung",
         "B": "bàn",
@@ -13926,7 +13137,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào sau đây có phần vần 'ung' ở cuối?",
+      "question": "từ nào sau đây có phần vần 'ung' ở cuối?",
       "options": {
         "A": "rung",
         "B": "bàn",
@@ -13942,7 +13153,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào sau đây có phần vần 'uc' ở cuối?",
+      "question": "từ nào sau đây có phần vần 'uc' ở cuối?",
       "options": {
         "A": "cúc",
         "B": "nan",
@@ -13958,7 +13169,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào sau đây có phần vần 'uc' ở cuối?",
+      "question": "từ nào sau đây có phần vần 'uc' ở cuối?",
       "options": {
         "A": "lan",
         "B": "bàn",
@@ -13974,7 +13185,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào sau đây có phần vần 'uc' ở cuối?",
+      "question": "từ nào sau đây có phần vần 'uc' ở cuối?",
       "options": {
         "A": "bàn",
         "B": "nan",
@@ -13990,7 +13201,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào sau đây có phần vần 'uc' ở cuối?",
+      "question": "từ nào sau đây có phần vần 'uc' ở cuối?",
       "options": {
         "A": "lan",
         "B": "nan",
@@ -14006,7 +13217,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào sau đây có phần vần 'inh' ở cuối?",
+      "question": "từ nào sau đây có phần vần 'inh' ở cuối?",
       "options": {
         "A": "xinh",
         "B": "nan",
@@ -14022,7 +13233,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào sau đây có phần vần 'inh' ở cuối?",
+      "question": "từ nào sau đây có phần vần 'inh' ở cuối?",
       "options": {
         "A": "bàn",
         "B": "nan",
@@ -14038,7 +13249,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào sau đây có phần vần 'inh' ở cuối?",
+      "question": "từ nào sau đây có phần vần 'inh' ở cuối?",
       "options": {
         "A": "bàn",
         "B": "lan",
@@ -14054,7 +13265,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào sau đây có phần vần 'inh' ở cuối?",
+      "question": "từ nào sau đây có phần vần 'inh' ở cuối?",
       "options": {
         "A": "kính",
         "B": "bàn",
@@ -14118,7 +13329,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Trong nhóm tiếng sau, tiếng nào bắt đầu bằng âm 'b'?",
+      "question": "Trong nhóm tiếng sau, từ nào bắt đầu bằng âm 'b'?",
       "options": {
         "A": "cá",
         "B": "cô",
@@ -14150,7 +13361,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào dưới đây mở đầu bằng âm 'b'?",
+      "question": "từ nào dưới đây mở đầu bằng âm 'b'?",
       "options": {
         "A": "cô",
         "B": "bà",
@@ -14166,7 +13377,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Trong nhóm tiếng sau, tiếng nào bắt đầu bằng âm 'b'?",
+      "question": "Trong nhóm tiếng sau, từ nào bắt đầu bằng âm 'b'?",
       "options": {
         "A": "bò",
         "B": "cò",
@@ -14198,7 +13409,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào dưới đây mở đầu bằng âm 'b'?",
+      "question": "từ nào dưới đây mở đầu bằng âm 'b'?",
       "options": {
         "A": "bàn",
         "B": "cô",
@@ -14214,7 +13425,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Trong nhóm tiếng sau, tiếng nào bắt đầu bằng âm 'b'?",
+      "question": "Trong nhóm tiếng sau, từ nào bắt đầu bằng âm 'b'?",
       "options": {
         "A": "cô",
         "B": "cò",
@@ -14246,7 +13457,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào dưới đây mở đầu bằng âm 'b'?",
+      "question": "từ nào dưới đây mở đầu bằng âm 'b'?",
       "options": {
         "A": "cò",
         "B": "cô",
@@ -14262,7 +13473,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Trong nhóm tiếng sau, tiếng nào bắt đầu bằng âm 'b'?",
+      "question": "Trong nhóm tiếng sau, từ nào bắt đầu bằng âm 'b'?",
       "options": {
         "A": "bếp",
         "B": "cá",
@@ -14294,7 +13505,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào dưới đây mở đầu bằng âm 'c'?",
+      "question": "từ nào dưới đây mở đầu bằng âm 'c'?",
       "options": {
         "A": "ba",
         "B": "bé",
@@ -14310,7 +13521,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Trong nhóm tiếng sau, tiếng nào bắt đầu bằng âm 'c'?",
+      "question": "Trong nhóm tiếng sau, từ nào bắt đầu bằng âm 'c'?",
       "options": {
         "A": "bé",
         "B": "ba",
@@ -14342,7 +13553,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào dưới đây mở đầu bằng âm 'c'?",
+      "question": "từ nào dưới đây mở đầu bằng âm 'c'?",
       "options": {
         "A": "bé",
         "B": "cỏ",
@@ -14358,7 +13569,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Trong nhóm tiếng sau, tiếng nào bắt đầu bằng âm 'c'?",
+      "question": "Trong nhóm tiếng sau, từ nào bắt đầu bằng âm 'c'?",
       "options": {
         "A": "ba",
         "B": "bé",
@@ -14390,7 +13601,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào dưới đây mở đầu bằng âm 'c'?",
+      "question": "từ nào dưới đây mở đầu bằng âm 'c'?",
       "options": {
         "A": "cam",
         "B": "bà",
@@ -14406,7 +13617,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Trong nhóm tiếng sau, tiếng nào bắt đầu bằng âm 'c'?",
+      "question": "Trong nhóm tiếng sau, từ nào bắt đầu bằng âm 'c'?",
       "options": {
         "A": "bé",
         "B": "ba",
@@ -14438,7 +13649,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào dưới đây mở đầu bằng âm 'd'?",
+      "question": "từ nào dưới đây mở đầu bằng âm 'd'?",
       "options": {
         "A": "bà",
         "B": "dê",
@@ -14454,7 +13665,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Trong nhóm tiếng sau, tiếng nào bắt đầu bằng âm 'd'?",
+      "question": "Trong nhóm tiếng sau, từ nào bắt đầu bằng âm 'd'?",
       "options": {
         "A": "dưa",
         "B": "bà",
@@ -14486,7 +13697,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào dưới đây mở đầu bằng âm 'd'?",
+      "question": "từ nào dưới đây mở đầu bằng âm 'd'?",
       "options": {
         "A": "ba",
         "B": "dao",
@@ -14502,7 +13713,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Trong nhóm tiếng sau, tiếng nào bắt đầu bằng âm 'd'?",
+      "question": "Trong nhóm tiếng sau, từ nào bắt đầu bằng âm 'd'?",
       "options": {
         "A": "bà",
         "B": "dép",
@@ -14534,7 +13745,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào dưới đây mở đầu bằng âm 'd'?",
+      "question": "từ nào dưới đây mở đầu bằng âm 'd'?",
       "options": {
         "A": "ba",
         "B": "bé",
@@ -14550,7 +13761,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Trong nhóm tiếng sau, tiếng nào bắt đầu bằng âm 'd'?",
+      "question": "Trong nhóm tiếng sau, từ nào bắt đầu bằng âm 'd'?",
       "options": {
         "A": "ba",
         "B": "bé",
@@ -14582,7 +13793,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào dưới đây mở đầu bằng âm 'đ'?",
+      "question": "từ nào dưới đây mở đầu bằng âm 'đ'?",
       "options": {
         "A": "đi",
         "B": "ba",
@@ -14598,7 +13809,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Trong nhóm tiếng sau, tiếng nào bắt đầu bằng âm 'đ'?",
+      "question": "Trong nhóm tiếng sau, từ nào bắt đầu bằng âm 'đ'?",
       "options": {
         "A": "bà",
         "B": "bé",
@@ -14630,7 +13841,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào dưới đây mở đầu bằng âm 'đ'?",
+      "question": "từ nào dưới đây mở đầu bằng âm 'đ'?",
       "options": {
         "A": "đũa",
         "B": "bé",
@@ -14646,7 +13857,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Trong nhóm tiếng sau, tiếng nào bắt đầu bằng âm 'đ'?",
+      "question": "Trong nhóm tiếng sau, từ nào bắt đầu bằng âm 'đ'?",
       "options": {
         "A": "ba",
         "B": "bé",
@@ -14678,7 +13889,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào dưới đây mở đầu bằng âm 'đ'?",
+      "question": "từ nào dưới đây mở đầu bằng âm 'đ'?",
       "options": {
         "A": "đậu",
         "B": "ba",
@@ -14694,7 +13905,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Trong nhóm tiếng sau, tiếng nào bắt đầu bằng âm 'g'?",
+      "question": "Trong nhóm tiếng sau, từ nào bắt đầu bằng âm 'g'?",
       "options": {
         "A": "ga",
         "B": "bà",
@@ -14726,7 +13937,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào dưới đây mở đầu bằng âm 'g'?",
+      "question": "từ nào dưới đây mở đầu bằng âm 'g'?",
       "options": {
         "A": "ba",
         "B": "gỗ",
@@ -14742,7 +13953,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Trong nhóm tiếng sau, tiếng nào bắt đầu bằng âm 'g'?",
+      "question": "Trong nhóm tiếng sau, từ nào bắt đầu bằng âm 'g'?",
       "options": {
         "A": "bà",
         "B": "bé",
@@ -14774,7 +13985,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào dưới đây mở đầu bằng âm 'g'?",
+      "question": "từ nào dưới đây mở đầu bằng âm 'g'?",
       "options": {
         "A": "bé",
         "B": "bà",
@@ -14790,7 +14001,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Trong nhóm tiếng sau, tiếng nào bắt đầu bằng âm 'g'?",
+      "question": "Trong nhóm tiếng sau, từ nào bắt đầu bằng âm 'g'?",
       "options": {
         "A": "ba",
         "B": "gương",
@@ -14822,7 +14033,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào dưới đây mở đầu bằng âm 'gh'?",
+      "question": "từ nào dưới đây mở đầu bằng âm 'gh'?",
       "options": {
         "A": "ba",
         "B": "bà",
@@ -14838,7 +14049,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Trong nhóm tiếng sau, tiếng nào bắt đầu bằng âm 'gh'?",
+      "question": "Trong nhóm tiếng sau, từ nào bắt đầu bằng âm 'gh'?",
       "options": {
         "A": "bé",
         "B": "ghẹ",
@@ -14870,7 +14081,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào dưới đây mở đầu bằng âm 'h'?",
+      "question": "từ nào dưới đây mở đầu bằng âm 'h'?",
       "options": {
         "A": "hoa",
         "B": "bé",
@@ -14886,7 +14097,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Trong nhóm tiếng sau, tiếng nào bắt đầu bằng âm 'h'?",
+      "question": "Trong nhóm tiếng sau, từ nào bắt đầu bằng âm 'h'?",
       "options": {
         "A": "bà",
         "B": "hè",
@@ -14918,7 +14129,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào dưới đây mở đầu bằng âm 'h'?",
+      "question": "từ nào dưới đây mở đầu bằng âm 'h'?",
       "options": {
         "A": "hổ",
         "B": "bà",
@@ -14934,7 +14145,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Trong nhóm tiếng sau, tiếng nào bắt đầu bằng âm 'h'?",
+      "question": "Trong nhóm tiếng sau, từ nào bắt đầu bằng âm 'h'?",
       "options": {
         "A": "bà",
         "B": "hươu",
@@ -14966,7 +14177,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào dưới đây mở đầu bằng âm 'h'?",
+      "question": "từ nào dưới đây mở đầu bằng âm 'h'?",
       "options": {
         "A": "bé",
         "B": "ba",
@@ -14982,7 +14193,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Trong nhóm tiếng sau, tiếng nào bắt đầu bằng âm 'h'?",
+      "question": "Trong nhóm tiếng sau, từ nào bắt đầu bằng âm 'h'?",
       "options": {
         "A": "hộp",
         "B": "bà",
@@ -15014,7 +14225,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào dưới đây mở đầu bằng âm 'k'?",
+      "question": "từ nào dưới đây mở đầu bằng âm 'k'?",
       "options": {
         "A": "ba",
         "B": "bà",
@@ -15030,7 +14241,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Trong nhóm tiếng sau, tiếng nào bắt đầu bằng âm 'k'?",
+      "question": "Trong nhóm tiếng sau, từ nào bắt đầu bằng âm 'k'?",
       "options": {
         "A": "bà",
         "B": "bé",
@@ -15062,7 +14273,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào dưới đây mở đầu bằng âm 'k'?",
+      "question": "từ nào dưới đây mở đầu bằng âm 'k'?",
       "options": {
         "A": "ba",
         "B": "bà",
@@ -15078,7 +14289,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Trong nhóm tiếng sau, tiếng nào bắt đầu bằng âm 'k'?",
+      "question": "Trong nhóm tiếng sau, từ nào bắt đầu bằng âm 'k'?",
       "options": {
         "A": "bé",
         "B": "ba",
@@ -15110,7 +14321,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào dưới đây mở đầu bằng âm 'k'?",
+      "question": "từ nào dưới đây mở đầu bằng âm 'k'?",
       "options": {
         "A": "bà",
         "B": "bé",
@@ -15126,7 +14337,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Trong nhóm tiếng sau, tiếng nào bắt đầu bằng âm 'l'?",
+      "question": "Trong nhóm tiếng sau, từ nào bắt đầu bằng âm 'l'?",
       "options": {
         "A": "lá",
         "B": "bà",
@@ -15158,7 +14369,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào dưới đây mở đầu bằng âm 'l'?",
+      "question": "từ nào dưới đây mở đầu bằng âm 'l'?",
       "options": {
         "A": "lúa",
         "B": "bé",
@@ -15174,7 +14385,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Trong nhóm tiếng sau, tiếng nào bắt đầu bằng âm 'l'?",
+      "question": "Trong nhóm tiếng sau, từ nào bắt đầu bằng âm 'l'?",
       "options": {
         "A": "ba",
         "B": "bà",
@@ -15206,7 +14417,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào dưới đây mở đầu bằng âm 'l'?",
+      "question": "từ nào dưới đây mở đầu bằng âm 'l'?",
       "options": {
         "A": "bé",
         "B": "ba",
@@ -15222,7 +14433,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Trong nhóm tiếng sau, tiếng nào bắt đầu bằng âm 'l'?",
+      "question": "Trong nhóm tiếng sau, từ nào bắt đầu bằng âm 'l'?",
       "options": {
         "A": "ba",
         "B": "lửa",
@@ -15254,7 +14465,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào dưới đây mở đầu bằng âm 'm'?",
+      "question": "từ nào dưới đây mở đầu bằng âm 'm'?",
       "options": {
         "A": "mẹ",
         "B": "ba",
@@ -15270,7 +14481,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Trong nhóm tiếng sau, tiếng nào bắt đầu bằng âm 'm'?",
+      "question": "Trong nhóm tiếng sau, từ nào bắt đầu bằng âm 'm'?",
       "options": {
         "A": "bé",
         "B": "ba",
@@ -15302,7 +14513,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào dưới đây mở đầu bằng âm 'm'?",
+      "question": "từ nào dưới đây mở đầu bằng âm 'm'?",
       "options": {
         "A": "ba",
         "B": "mía",
@@ -15318,7 +14529,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Trong nhóm tiếng sau, tiếng nào bắt đầu bằng âm 'm'?",
+      "question": "Trong nhóm tiếng sau, từ nào bắt đầu bằng âm 'm'?",
       "options": {
         "A": "bà",
         "B": "mơ",
@@ -15350,7 +14561,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào dưới đây mở đầu bằng âm 'm'?",
+      "question": "từ nào dưới đây mở đầu bằng âm 'm'?",
       "options": {
         "A": "ba",
         "B": "bà",
@@ -15366,7 +14577,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Trong nhóm tiếng sau, tiếng nào bắt đầu bằng âm 'm'?",
+      "question": "Trong nhóm tiếng sau, từ nào bắt đầu bằng âm 'm'?",
       "options": {
         "A": "ba",
         "B": "mắt",
@@ -15398,7 +14609,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào dưới đây mở đầu bằng âm 'n'?",
+      "question": "từ nào dưới đây mở đầu bằng âm 'n'?",
       "options": {
         "A": "bà",
         "B": "ba",
@@ -15414,7 +14625,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Trong nhóm tiếng sau, tiếng nào bắt đầu bằng âm 'n'?",
+      "question": "Trong nhóm tiếng sau, từ nào bắt đầu bằng âm 'n'?",
       "options": {
         "A": "bé",
         "B": "bà",
@@ -15446,7 +14657,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào dưới đây mở đầu bằng âm 'n'?",
+      "question": "từ nào dưới đây mở đầu bằng âm 'n'?",
       "options": {
         "A": "nồi",
         "B": "bà",
@@ -15462,7 +14673,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Trong nhóm tiếng sau, tiếng nào bắt đầu bằng âm 'n'?",
+      "question": "Trong nhóm tiếng sau, từ nào bắt đầu bằng âm 'n'?",
       "options": {
         "A": "nước",
         "B": "bà",
@@ -15494,7 +14705,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào dưới đây mở đầu bằng âm 'n'?",
+      "question": "từ nào dưới đây mở đầu bằng âm 'n'?",
       "options": {
         "A": "nến",
         "B": "bà",
@@ -15510,7 +14721,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Trong nhóm tiếng sau, tiếng nào bắt đầu bằng âm 'ng'?",
+      "question": "Trong nhóm tiếng sau, từ nào bắt đầu bằng âm 'ng'?",
       "options": {
         "A": "bé",
         "B": "ba",
@@ -15542,7 +14753,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào dưới đây mở đầu bằng âm 'ng'?",
+      "question": "từ nào dưới đây mở đầu bằng âm 'ng'?",
       "options": {
         "A": "bà",
         "B": "ba",
@@ -15558,7 +14769,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Trong nhóm tiếng sau, tiếng nào bắt đầu bằng âm 'ng'?",
+      "question": "Trong nhóm tiếng sau, từ nào bắt đầu bằng âm 'ng'?",
       "options": {
         "A": "bà",
         "B": "ngày",
@@ -15590,7 +14801,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào dưới đây mở đầu bằng âm 'ng'?",
+      "question": "từ nào dưới đây mở đầu bằng âm 'ng'?",
       "options": {
         "A": "ngỗng",
         "B": "ba",
@@ -15606,7 +14817,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Trong nhóm tiếng sau, tiếng nào bắt đầu bằng âm 'ngh'?",
+      "question": "Trong nhóm tiếng sau, từ nào bắt đầu bằng âm 'ngh'?",
       "options": {
         "A": "bé",
         "B": "bà",
@@ -15638,7 +14849,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào dưới đây mở đầu bằng âm 'ngh'?",
+      "question": "từ nào dưới đây mở đầu bằng âm 'ngh'?",
       "options": {
         "A": "nghề",
         "B": "bà",
@@ -15654,7 +14865,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Trong nhóm tiếng sau, tiếng nào bắt đầu bằng âm 'ngh'?",
+      "question": "Trong nhóm tiếng sau, từ nào bắt đầu bằng âm 'ngh'?",
       "options": {
         "A": "bà",
         "B": "nghĩ",
@@ -15686,7 +14897,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào dưới đây mở đầu bằng âm 'ph'?",
+      "question": "từ nào dưới đây mở đầu bằng âm 'ph'?",
       "options": {
         "A": "phở",
         "B": "bà",
@@ -15702,7 +14913,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Trong nhóm tiếng sau, tiếng nào bắt đầu bằng âm 'ph'?",
+      "question": "Trong nhóm tiếng sau, từ nào bắt đầu bằng âm 'ph'?",
       "options": {
         "A": "bà",
         "B": "ba",
@@ -15734,7 +14945,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào dưới đây mở đầu bằng âm 'ph'?",
+      "question": "từ nào dưới đây mở đầu bằng âm 'ph'?",
       "options": {
         "A": "bà",
         "B": "bé",
@@ -15750,7 +14961,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Trong nhóm tiếng sau, tiếng nào bắt đầu bằng âm 'ph'?",
+      "question": "Trong nhóm tiếng sau, từ nào bắt đầu bằng âm 'ph'?",
       "options": {
         "A": "phao",
         "B": "bà",
@@ -15782,7 +14993,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào dưới đây mở đầu bằng âm 'r'?",
+      "question": "từ nào dưới đây mở đầu bằng âm 'r'?",
       "options": {
         "A": "ba",
         "B": "bà",
@@ -15798,7 +15009,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Trong nhóm tiếng sau, tiếng nào bắt đầu bằng âm 'r'?",
+      "question": "Trong nhóm tiếng sau, từ nào bắt đầu bằng âm 'r'?",
       "options": {
         "A": "rau",
         "B": "bà",
@@ -15830,7 +15041,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào dưới đây mở đầu bằng âm 'r'?",
+      "question": "từ nào dưới đây mở đầu bằng âm 'r'?",
       "options": {
         "A": "ba",
         "B": "bé",
@@ -15846,7 +15057,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Trong nhóm tiếng sau, tiếng nào bắt đầu bằng âm 'r'?",
+      "question": "Trong nhóm tiếng sau, từ nào bắt đầu bằng âm 'r'?",
       "options": {
         "A": "rừng",
         "B": "bà",
@@ -15878,7 +15089,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào dưới đây mở đầu bằng âm 's'?",
+      "question": "từ nào dưới đây mở đầu bằng âm 's'?",
       "options": {
         "A": "bé",
         "B": "ba",
@@ -15894,7 +15105,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Trong nhóm tiếng sau, tiếng nào bắt đầu bằng âm 's'?",
+      "question": "Trong nhóm tiếng sau, từ nào bắt đầu bằng âm 's'?",
       "options": {
         "A": "bà",
         "B": "bé",
@@ -15926,7 +15137,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào dưới đây mở đầu bằng âm 's'?",
+      "question": "từ nào dưới đây mở đầu bằng âm 's'?",
       "options": {
         "A": "sách",
         "B": "bà",
@@ -15942,7 +15153,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Trong nhóm tiếng sau, tiếng nào bắt đầu bằng âm 's'?",
+      "question": "Trong nhóm tiếng sau, từ nào bắt đầu bằng âm 's'?",
       "options": {
         "A": "sâu",
         "B": "ba",
@@ -15974,7 +15185,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào dưới đây mở đầu bằng âm 's'?",
+      "question": "từ nào dưới đây mở đầu bằng âm 's'?",
       "options": {
         "A": "bà",
         "B": "sư tử",
@@ -15990,7 +15201,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Trong nhóm tiếng sau, tiếng nào bắt đầu bằng âm 't'?",
+      "question": "Trong nhóm tiếng sau, từ nào bắt đầu bằng âm 't'?",
       "options": {
         "A": "bà",
         "B": "bé",
@@ -16022,7 +15233,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Tiếng nào dưới đây mở đầu bằng âm 't'?",
+      "question": "từ nào dưới đây mở đầu bằng âm 't'?",
       "options": {
         "A": "bé",
         "B": "ba",
@@ -19039,33 +18250,7 @@
       "explanation": "Mỗi tiếng được nối với đúng âm đầu của tiếng đó.",
       "questionId": "k1_c1_noi_0001"
     },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "NOI",
-      "question": "Hãy nối mỗi tiếng ở Cột A với âm đầu tương ứng ở Cột B.",
-      "columnA": {
-        "1": "bé",
-        "2": "cô",
-        "3": "dao",
-        "4": "gấu"
-      },
-      "columnB": {
-        "A": "g",
-        "B": "d",
-        "C": "b",
-        "D": "c"
-      },
-      "answer": {
-        "1": "C",
-        "2": "D",
-        "3": "B",
-        "4": "A"
-      },
-      "explanation": "Mỗi tiếng được nối với đúng âm đầu của tiếng đó.",
-      "questionId": "k1_c1_noi_0002"
-    },
+    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_1",
@@ -19984,33 +19169,7 @@
       "explanation": "Mỗi tiếng được nối với đúng âm đầu của tiếng đó.",
       "questionId": "k1_c1_noi_0036"
     },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "NOI",
-      "question": "Hãy nối mỗi tiếng ở Cột A với âm đầu tương ứng ở Cột B.",
-      "columnA": {
-        "1": "bạn",
-        "2": "cam",
-        "3": "đường",
-        "4": "tay"
-      },
-      "columnB": {
-        "A": "b",
-        "B": "t",
-        "C": "đ",
-        "D": "c"
-      },
-      "answer": {
-        "1": "A",
-        "2": "D",
-        "3": "C",
-        "4": "B"
-      },
-      "explanation": "Mỗi tiếng được nối với đúng âm đầu của tiếng đó.",
-      "questionId": "k1_c1_noi_0037"
-    },
+    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_1",
@@ -20065,33 +19224,7 @@
       "explanation": "Mỗi tiếng được nối với đúng âm đầu của tiếng đó.",
       "questionId": "k1_c1_noi_0039"
     },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "NOI",
-      "question": "Hãy nối mỗi tiếng ở Cột A với âm đầu tương ứng ở Cột B.",
-      "columnA": {
-        "1": "bếp",
-        "2": "cá",
-        "3": "đi",
-        "4": "vở"
-      },
-      "columnB": {
-        "A": "v",
-        "B": "c",
-        "C": "đ",
-        "D": "b"
-      },
-      "answer": {
-        "1": "D",
-        "2": "B",
-        "3": "C",
-        "4": "A"
-      },
-      "explanation": "Mỗi tiếng được nối với đúng âm đầu của tiếng đó.",
-      "questionId": "k1_c1_noi_0040"
-    },
+    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_1",
@@ -20281,33 +19414,7 @@
       "explanation": "Mỗi tiếng được nối với đúng âm đầu của tiếng đó.",
       "questionId": "k1_c1_noi_0047"
     },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "NOI",
-      "question": "Hãy nối mỗi tiếng ở Cột A với âm đầu tương ứng ở Cột B.",
-      "columnA": {
-        "1": "bóng",
-        "2": "cây",
-        "3": "gà",
-        "4": "kê"
-      },
-      "columnB": {
-        "A": "b",
-        "B": "k",
-        "C": "g",
-        "D": "c"
-      },
-      "answer": {
-        "1": "A",
-        "2": "D",
-        "3": "C",
-        "4": "B"
-      },
-      "explanation": "Mỗi tiếng được nối với đúng âm đầu của tiếng đó.",
-      "questionId": "k1_c1_noi_0048"
-    },
+    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_1",
@@ -22236,7 +21343,7 @@
       "grade": "KHOI_1",
       "level": "CAP_1_VONG_LOAI",
       "type": "CHON",
-      "question": "Xếp các tiếng sau vào hai nhóm: Từ chỉ đồ vật và Từ chỉ con vật.",
+      "question": "Xếp các từ sau vào hai nhóm: Từ chỉ đồ vật và Từ chỉ con vật.",
       "words": [
         "con mèo",
         "thước kẻ",
@@ -25505,7 +24612,7 @@
       "type": "CHON",
       "question": "Xếp các tiếng sau vào hai nhóm: Tiếng có vần 'on' và Tiếng có vần 'ot'.",
       "words": [
-        "tốt",
+        "ngọt",
         "hót",
         "bọt",
         "non",
@@ -25525,7 +24632,7 @@
         "G2": [
           "bọt",
           "hót",
-          "tốt"
+          "ngọt"
         ]
       },
       "explanation": "Phân loại mỗi tiếng theo âm đầu, vần hoặc nghĩa được nêu trong tên nhóm.",
@@ -25539,8 +24646,8 @@
       "question": "Xếp các tiếng sau vào hai nhóm: Tiếng có vần 'on' và Tiếng có vần 'ot'.",
       "words": [
         "son",
-        "nốt",
-        "tốt",
+        "mọt",
+        "ngọt",
         "bọt",
         "con",
         "non"
@@ -25557,8 +24664,8 @@
         ],
         "G2": [
           "bọt",
-          "nốt",
-          "tốt"
+          "mọt",
+          "ngọt"
         ]
       },
       "explanation": "Phân loại mỗi tiếng theo âm đầu, vần hoặc nghĩa được nêu trong tên nhóm.",
@@ -25572,11 +24679,11 @@
       "question": "Xếp các tiếng sau vào hai nhóm: Tiếng có vần 'on' và Tiếng có vần 'ot'.",
       "words": [
         "con",
-        "tốt",
+        "ngọt",
         "non",
         "hót",
         "son",
-        "nốt"
+        "mọt"
       ],
       "groups": {
         "G1": "Tiếng có vần 'on'",
@@ -25590,8 +24697,8 @@
         ],
         "G2": [
           "hót",
-          "nốt",
-          "tốt"
+          "mọt",
+          "ngọt"
         ]
       },
       "explanation": "Phân loại mỗi tiếng theo âm đầu, vần hoặc nghĩa được nêu trong tên nhóm.",
@@ -25604,11 +24711,11 @@
       "type": "CHON",
       "question": "Xếp các tiếng sau vào hai nhóm: Tiếng có vần 'on' và Tiếng có vần 'ot'.",
       "words": [
-        "nốt",
+        "vót",
         "tròn",
         "con",
         "hót",
-        "bọt",
+        "gót",
         "non"
       ],
       "groups": {
@@ -25622,9 +24729,9 @@
           "tròn"
         ],
         "G2": [
-          "bọt",
+          "gót",
           "hót",
-          "nốt"
+          "vót"
         ]
       },
       "explanation": "Phân loại mỗi tiếng theo âm đầu, vần hoặc nghĩa được nêu trong tên nhóm.",
@@ -25640,7 +24747,7 @@
         "tròn",
         "non",
         "bọt",
-        "tốt",
+        "vót",
         "hót",
         "con"
       ],
@@ -25657,7 +24764,7 @@
         "G2": [
           "bọt",
           "hót",
-          "tốt"
+          "vót"
         ]
       },
       "explanation": "Phân loại mỗi tiếng theo âm đầu, vần hoặc nghĩa được nêu trong tên nhóm.",
@@ -25671,10 +24778,10 @@
       "question": "Xếp các tiếng sau vào hai nhóm: Tiếng có vần 'on' và Tiếng có vần 'ot'.",
       "words": [
         "con",
-        "bọt",
+        "rót",
         "tròn",
-        "nốt",
-        "tốt",
+        "vót",
+        "ngọt",
         "non"
       ],
       "groups": {
@@ -25688,146 +24795,16 @@
           "tròn"
         ],
         "G2": [
-          "bọt",
-          "nốt",
-          "tốt"
+          "rót",
+          "vót",
+          "ngọt"
         ]
       },
       "explanation": "Phân loại mỗi tiếng theo âm đầu, vần hoặc nghĩa được nêu trong tên nhóm.",
       "questionId": "k1_c1_chon_0106"
     },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "CHON",
-      "question": "Xếp các tiếng sau vào hai nhóm: Tiếng có vần 'on' và Tiếng có vần 'ot'.",
-      "words": [
-        "hót",
-        "con",
-        "tốt",
-        "nốt",
-        "tròn",
-        "non"
-      ],
-      "groups": {
-        "G1": "Tiếng có vần 'on'",
-        "G2": "Tiếng có vần 'ot'"
-      },
-      "answer": {
-        "G1": [
-          "con",
-          "non",
-          "tròn"
-        ],
-        "G2": [
-          "hót",
-          "nốt",
-          "tốt"
-        ]
-      },
-      "explanation": "Phân loại mỗi tiếng theo âm đầu, vần hoặc nghĩa được nêu trong tên nhóm.",
-      "questionId": "k1_c1_chon_0107"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "CHON",
-      "question": "Xếp các tiếng sau vào hai nhóm: Tiếng có vần 'on' và Tiếng có vần 'ot'.",
-      "words": [
-        "non",
-        "lon",
-        "hót",
-        "bọt",
-        "nốt",
-        "con"
-      ],
-      "groups": {
-        "G1": "Tiếng có vần 'on'",
-        "G2": "Tiếng có vần 'ot'"
-      },
-      "answer": {
-        "G1": [
-          "con",
-          "non",
-          "lon"
-        ],
-        "G2": [
-          "bọt",
-          "hót",
-          "nốt"
-        ]
-      },
-      "explanation": "Phân loại mỗi tiếng theo âm đầu, vần hoặc nghĩa được nêu trong tên nhóm.",
-      "questionId": "k1_c1_chon_0108"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "CHON",
-      "question": "Xếp các tiếng sau vào hai nhóm: Tiếng có vần 'on' và Tiếng có vần 'ot'.",
-      "words": [
-        "non",
-        "hót",
-        "tốt",
-        "con",
-        "bọt",
-        "lon"
-      ],
-      "groups": {
-        "G1": "Tiếng có vần 'on'",
-        "G2": "Tiếng có vần 'ot'"
-      },
-      "answer": {
-        "G1": [
-          "con",
-          "non",
-          "lon"
-        ],
-        "G2": [
-          "bọt",
-          "hót",
-          "tốt"
-        ]
-      },
-      "explanation": "Phân loại mỗi tiếng theo âm đầu, vần hoặc nghĩa được nêu trong tên nhóm.",
-      "questionId": "k1_c1_chon_0109"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "CHON",
-      "question": "Xếp các tiếng sau vào hai nhóm: Tiếng có vần 'on' và Tiếng có vần 'ot'.",
-      "words": [
-        "lon",
-        "nốt",
-        "tốt",
-        "non",
-        "con",
-        "bọt"
-      ],
-      "groups": {
-        "G1": "Tiếng có vần 'on'",
-        "G2": "Tiếng có vần 'ot'"
-      },
-      "answer": {
-        "G1": [
-          "con",
-          "non",
-          "lon"
-        ],
-        "G2": [
-          "bọt",
-          "nốt",
-          "tốt"
-        ]
-      },
-      "explanation": "Phân loại mỗi tiếng theo âm đầu, vần hoặc nghĩa được nêu trong tên nhóm.",
-      "questionId": "k1_c1_chon_0110"
-    },
+    
+        
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_1",
@@ -25861,270 +24838,7 @@
       "explanation": "Phân loại mỗi tiếng theo âm đầu, vần hoặc nghĩa được nêu trong tên nhóm.",
       "questionId": "k1_c1_chon_0111"
     },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "CHON",
-      "question": "Xếp các tiếng sau vào hai nhóm: Tiếng có vần 'en' và Tiếng có vần 'et'.",
-      "words": [
-        "nét",
-        "men",
-        "sen",
-        "đen",
-        "két",
-        "hét"
-      ],
-      "groups": {
-        "G1": "Tiếng có vần 'en'",
-        "G2": "Tiếng có vần 'et'"
-      },
-      "answer": {
-        "G1": [
-          "đen",
-          "sen",
-          "men"
-        ],
-        "G2": [
-          "két",
-          "hét",
-          "nét"
-        ]
-      },
-      "explanation": "Phân loại mỗi tiếng theo âm đầu, vần hoặc nghĩa được nêu trong tên nhóm.",
-      "questionId": "k1_c1_chon_0112"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "CHON",
-      "question": "Xếp các tiếng sau vào hai nhóm: Tiếng có vần 'en' và Tiếng có vần 'et'.",
-      "words": [
-        "men",
-        "nét",
-        "đen",
-        "vét",
-        "két",
-        "sen"
-      ],
-      "groups": {
-        "G1": "Tiếng có vần 'en'",
-        "G2": "Tiếng có vần 'et'"
-      },
-      "answer": {
-        "G1": [
-          "đen",
-          "sen",
-          "men"
-        ],
-        "G2": [
-          "két",
-          "vét",
-          "nét"
-        ]
-      },
-      "explanation": "Phân loại mỗi tiếng theo âm đầu, vần hoặc nghĩa được nêu trong tên nhóm.",
-      "questionId": "k1_c1_chon_0113"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "CHON",
-      "question": "Xếp các tiếng sau vào hai nhóm: Tiếng có vần 'en' và Tiếng có vần 'et'.",
-      "words": [
-        "đen",
-        "vét",
-        "men",
-        "hét",
-        "sen",
-        "nét"
-      ],
-      "groups": {
-        "G1": "Tiếng có vần 'en'",
-        "G2": "Tiếng có vần 'et'"
-      },
-      "answer": {
-        "G1": [
-          "đen",
-          "sen",
-          "men"
-        ],
-        "G2": [
-          "hét",
-          "vét",
-          "nét"
-        ]
-      },
-      "explanation": "Phân loại mỗi tiếng theo âm đầu, vần hoặc nghĩa được nêu trong tên nhóm.",
-      "questionId": "k1_c1_chon_0114"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "CHON",
-      "question": "Xếp các tiếng sau vào hai nhóm: Tiếng có vần 'en' và Tiếng có vần 'et'.",
-      "words": [
-        "vét",
-        "đen",
-        "két",
-        "sen",
-        "len",
-        "hét"
-      ],
-      "groups": {
-        "G1": "Tiếng có vần 'en'",
-        "G2": "Tiếng có vần 'et'"
-      },
-      "answer": {
-        "G1": [
-          "đen",
-          "sen",
-          "len"
-        ],
-        "G2": [
-          "két",
-          "hét",
-          "vét"
-        ]
-      },
-      "explanation": "Phân loại mỗi tiếng theo âm đầu, vần hoặc nghĩa được nêu trong tên nhóm.",
-      "questionId": "k1_c1_chon_0115"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "CHON",
-      "question": "Xếp các tiếng sau vào hai nhóm: Tiếng có vần 'en' và Tiếng có vần 'et'.",
-      "words": [
-        "hét",
-        "đen",
-        "sen",
-        "len",
-        "nét",
-        "két"
-      ],
-      "groups": {
-        "G1": "Tiếng có vần 'en'",
-        "G2": "Tiếng có vần 'et'"
-      },
-      "answer": {
-        "G1": [
-          "đen",
-          "sen",
-          "len"
-        ],
-        "G2": [
-          "két",
-          "hét",
-          "nét"
-        ]
-      },
-      "explanation": "Phân loại mỗi tiếng theo âm đầu, vần hoặc nghĩa được nêu trong tên nhóm.",
-      "questionId": "k1_c1_chon_0116"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "CHON",
-      "question": "Xếp các tiếng sau vào hai nhóm: Tiếng có vần 'en' và Tiếng có vần 'et'.",
-      "words": [
-        "nét",
-        "len",
-        "sen",
-        "vét",
-        "đen",
-        "két"
-      ],
-      "groups": {
-        "G1": "Tiếng có vần 'en'",
-        "G2": "Tiếng có vần 'et'"
-      },
-      "answer": {
-        "G1": [
-          "đen",
-          "sen",
-          "len"
-        ],
-        "G2": [
-          "két",
-          "vét",
-          "nét"
-        ]
-      },
-      "explanation": "Phân loại mỗi tiếng theo âm đầu, vần hoặc nghĩa được nêu trong tên nhóm.",
-      "questionId": "k1_c1_chon_0117"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "CHON",
-      "question": "Xếp các tiếng sau vào hai nhóm: Tiếng có vần 'en' và Tiếng có vần 'et'.",
-      "words": [
-        "đen",
-        "nét",
-        "len",
-        "hét",
-        "vét",
-        "sen"
-      ],
-      "groups": {
-        "G1": "Tiếng có vần 'en'",
-        "G2": "Tiếng có vần 'et'"
-      },
-      "answer": {
-        "G1": [
-          "đen",
-          "sen",
-          "len"
-        ],
-        "G2": [
-          "hét",
-          "vét",
-          "nét"
-        ]
-      },
-      "explanation": "Phân loại mỗi tiếng theo âm đầu, vần hoặc nghĩa được nêu trong tên nhóm.",
-      "questionId": "k1_c1_chon_0118"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "CHON",
-      "question": "Xếp các tiếng sau vào hai nhóm: Tiếng có vần 'en' và Tiếng có vần 'et'.",
-      "words": [
-        "men",
-        "đen",
-        "hét",
-        "két",
-        "vét",
-        "len"
-      ],
-      "groups": {
-        "G1": "Tiếng có vần 'en'",
-        "G2": "Tiếng có vần 'et'"
-      },
-      "answer": {
-        "G1": [
-          "đen",
-          "men",
-          "len"
-        ],
-        "G2": [
-          "két",
-          "hét",
-          "vét"
-        ]
-      },
-      "explanation": "Phân loại mỗi tiếng theo âm đầu, vần hoặc nghĩa được nêu trong tên nhóm.",
-      "questionId": "k1_c1_chon_0119"
-    },
+    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_1",

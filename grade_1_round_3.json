@@ -189,22 +189,7 @@
       "answer": "B",
       "explanation": "'đọc sách' là từ chỉ hoạt động."
     },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_3_VONG_HUONG",
-      "type": "TN",
-      "questionId": "k1_c3_tn_009",
-      "question": "Câu tục ngữ, thành ngữ nào dưới đây thể hiện phẩm chất hoặc bài học về 'Ý chí, bản lĩnh'?",
-      "options": {
-        "A": "Lá lành đùm lá rách",
-        "B": "Ăn quả nhớ kẻ trồng cây",
-        "C": "Tấc đất tấc vàng",
-        "D": "Chớ thấy sóng cả mà ngã tay chèo"
-      },
-      "answer": "D",
-      "explanation": "'Chớ thấy sóng cả mà ngã tay chèo': Đừng vì thấy khó khăn, nguy nan mà nản lòng, buông xuôi ý chí."
-    },
+    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_1",
@@ -291,7 +276,7 @@
       "level": "CAP_3_VONG_HUONG",
       "type": "TN",
       "questionId": "k1_c3_tn_015",
-      "question": "Tiếng nào dưới đây có chứa vần 'ong'?",
+      "question": "Cụm từ nào dưới đây có tiếng chứa vần 'ong'?",
       "options": {
         "A": "con ong",
         "B": "chú gà",
@@ -301,22 +286,7 @@
       "answer": "A",
       "explanation": "Trong từ 'con ong', tiếng 'ong' có chứa vần 'ong'."
     },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_3_VONG_HUONG",
-      "type": "TN",
-      "questionId": "k1_c3_tn_016",
-      "question": "Câu tục ngữ, thành ngữ nào dưới đây thể hiện phẩm chất hoặc bài học về 'Sức mạnh đoàn kết'?",
-      "options": {
-        "A": "Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao",
-        "B": "Ăn quả nhớ kẻ trồng cây",
-        "C": "Thuận vợ thuận chồng tát biển Đông cũng cạn",
-        "D": "Người ta là hoa đất"
-      },
-      "answer": "A",
-      "explanation": "'Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao': Một người lẻ loi khó làm việc lớn, nhưng khi đoàn kết lại sẽ tạo nên sức mạnh vô địch."
-    },
+    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_1",
@@ -419,7 +389,7 @@
       "level": "CAP_3_VONG_HUONG",
       "type": "TN",
       "questionId": "k1_c3_tn_023",
-      "question": "Tiếng nào dưới đây có chứa vần 'at'?",
+      "question": "Cụm từ nào dưới đây có tiếng chứa vần 'at'?",
       "options": {
         "A": "bông sen",
         "B": "lá cờ",
@@ -445,22 +415,7 @@
       "answer": "C",
       "explanation": "'Có công mài sắt, có ngày nên kim': Khuyên nhủ con người phải luôn kiên trì, nhẫn nại, không nản lòng trước khó khăn thì nhất định sẽ thành công."
     },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_3_VONG_HUONG",
-      "type": "TN",
-      "questionId": "k1_c3_tn_025",
-      "question": "Câu tục ngữ, thành ngữ nào dưới đây thể hiện phẩm chất hoặc bài học về 'Đất đai, lao động'?",
-      "options": {
-        "A": "Tấc đất tấc vàng",
-        "B": "Công cha như núi Thái Sơn, nghĩa mẹ như nước trong nguồn chảy ra",
-        "C": "Lời nói chẳng mất tiền mua, lựa lời mà nói cho vừa lòng nhau",
-        "D": "Chị ngã em nâng"
-      },
-      "answer": "A",
-      "explanation": "'Tấc đất tấc vàng': Mỗi tấc đất đều vô cùng quý giá như vàng vì đem lại nguồn sống cho con người."
-    },
+    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_1",
@@ -507,7 +462,7 @@
         "D": "cẻ"
       },
       "answer": "B",
-      "explanation": "Theo quy tắc chính tả: Âm /k/ viết là 'k' khi đứng trước e, ê, i, y; viết là 'c' trước a, ă, â, o, ô, ơ, u, ư; viết là 'q' khi kết hợp âm đệm 'u'.. Từ đúng là 'kiến'."
+      "explanation": "Theo quy tắc chính tả: Âm /k/ viết là 'k' khi đứng trước e, ê, i, y; viết là 'c' trước a, ă, â, o, ô, ơ, u, ư; viết là 'q' khi kết hợp âm đệm 'u'. Từ đúng là 'kiến'."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -541,22 +496,7 @@
       "answer": "D",
       "explanation": "'Thương người như thể thương thân': Yêu thương người khác như yêu quý chính bản thân mình."
     },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_3_VONG_HUONG",
-      "type": "TN",
-      "questionId": "k1_c3_tn_031",
-      "question": "Câu tục ngữ, thành ngữ nào dưới đây thể hiện phẩm chất hoặc bài học về 'Hòa thuận gia đình'?",
-      "options": {
-        "A": "Chớ thấy sóng cả mà ngã tay chèo",
-        "B": "Chim có tổ người có tông",
-        "C": "Thuận vợ thuận chồng tát biển Đông cũng cạn",
-        "D": "Lời nói chẳng mất tiền mua, lựa lời mà nói cho vừa lòng nhau"
-      },
-      "answer": "C",
-      "explanation": "'Thuận vợ thuận chồng tát biển Đông cũng cạn': Sự đồng lòng, hòa thuận trong gia đình giúp vượt qua mọi gian khó."
-    },
+   
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_1",
@@ -675,7 +615,7 @@
       "level": "CAP_3_VONG_HUONG",
       "type": "TN",
       "questionId": "k1_c3_tn_039",
-      "question": "Tiếng nào dưới đây có chứa vần 'ang'?",
+      "question": "Cụm từ nào dưới đây có tiếng chứa vần 'ang'?",
       "options": {
         "A": "cây bàng",
         "B": "quả táo",
@@ -699,7 +639,7 @@
         "D": "ngiêng ngiêng"
       },
       "answer": "C",
-      "explanation": "Theo quy tắc chính tả: Âm /ng/ viết là 'ngh' khi đứng trước e, ê, i; viết là 'ng' trước các nguyên âm còn lại.. Từ đúng là 'nghiêng nghiêng'."
+      "explanation": "Theo quy tắc chính tả: Âm /ng/ viết là 'ngh' khi đứng trước e, ê, i; viết là 'ng' trước các nguyên âm còn lại. Từ đúng là 'nghiêng nghiêng'."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -755,7 +695,7 @@
       "level": "CAP_3_VONG_HUONG",
       "type": "TN",
       "questionId": "k1_c3_tn_044",
-      "question": "Tiếng nào dưới đây có chứa vần 'an'?",
+      "question": "Cụm từ nào dưới đây có tiếng chứa vần 'an'?",
       "options": {
         "A": "hộp bút",
         "B": "bàn học",
@@ -765,22 +705,7 @@
       "answer": "B",
       "explanation": "Trong từ 'bàn học', tiếng 'bàn' có chứa vần 'an'."
     },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_3_VONG_HUONG",
-      "type": "TN",
-      "questionId": "k1_c3_tn_045",
-      "question": "Câu tục ngữ, thành ngữ nào dưới đây thể hiện phẩm chất hoặc bài học về 'Học tập'?",
-      "options": {
-        "A": "Vạn sự khởi đầu nan",
-        "B": "Học thầy không tày học bạn",
-        "C": "Nhiễu điều phủ lấy giá gương, người trong một nước phải thương nhau cùng",
-        "D": "Bầu ơi thương lấy bí cùng, tuy rằng khác giống nhưng chung một giàn"
-      },
-      "answer": "B",
-      "explanation": "'Học thầy không tày học bạn': Nhấn mạnh vai trò to lớn của việc học hỏi từ bạn bè xung quanh."
-    },
+
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_1",
@@ -851,7 +776,7 @@
       "level": "CAP_3_VONG_HUONG",
       "type": "TN",
       "questionId": "k1_c3_tn_050",
-      "question": "Tiếng nào dưới đây có chứa vần 'inh'?",
+      "question": "Cụm từ nào dưới đây có tiếng chứa vần 'inh'?",
       "options": {
         "A": "ăn cơm",
         "B": "vẽ tranh",
@@ -957,22 +882,7 @@
       "answer": "B",
       "explanation": "'Một con ngựa đau cả tàu bỏ cỏ': Tinh thần đoàn kết, gắn bó, sẻ chia sâu sắc nỗi đau và hoạn nạn cùng nhau."
     },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_3_VONG_HUONG",
-      "type": "TN",
-      "questionId": "k1_c3_tn_057",
-      "question": "Câu tục ngữ, thành ngữ nào dưới đây thể hiện phẩm chất hoặc bài học về 'Tình cảm anh em'?",
-      "options": {
-        "A": "Chị ngã em nâng",
-        "B": "Có công mài sắt có ngày nên kim",
-        "C": "Thuận vợ thuận chồng tát biển Đông cũng cạn",
-        "D": "Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao"
-      },
-      "answer": "A",
-      "explanation": "'Chị ngã em nâng': Anh chị em trong một nhà phải biết nâng đỡ, thương yêu, che chở cho nhau."
-    },
+   
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_1",
@@ -1003,7 +913,7 @@
         "D": "ciến"
       },
       "answer": "A",
-      "explanation": "Theo quy tắc chính tả: Âm /k/ viết là 'k' khi đứng trước e, ê, i, y; viết là 'c' trước a, ă, â, o, ô, ơ, u, ư; viết là 'q' khi kết hợp âm đệm 'u'.. Từ đúng là 'kính yêu'."
+      "explanation": "Theo quy tắc chính tả: Âm /k/ viết là 'k' khi đứng trước e, ê, i, y; viết là 'c' trước a, ă, â, o, ô, ơ, u, ư; viết là 'q' khi kết hợp âm đệm 'u'. Từ đúng là 'kính yêu'."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -1019,7 +929,7 @@
         "D": "gẹ xanh"
       },
       "answer": "A",
-      "explanation": "Theo quy tắc chính tả: Âm /g/ viết là 'gh' khi đứng trước e, ê, i; viết là 'g' trước các nguyên âm còn lại.. Từ đúng là 'ghi chép'."
+      "explanation": "Theo quy tắc chính tả: Âm /g/ viết là 'gh' khi đứng trước e, ê, i; viết là 'g' trước các nguyên âm còn lại. Từ đúng là 'ghi chép'."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -1083,7 +993,7 @@
         "D": "ghế gỗ"
       },
       "answer": "D",
-      "explanation": "Theo quy tắc chính tả: Âm /g/ viết là 'gh' khi đứng trước e, ê, i; viết là 'g' trước các nguyên âm còn lại.. Từ đúng là 'ghế gỗ'."
+      "explanation": "Theo quy tắc chính tả: Âm /g/ viết là 'gh' khi đứng trước e, ê, i; viết là 'g' trước các nguyên âm còn lại. Từ đúng là 'ghế gỗ'."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -1099,7 +1009,7 @@
         "D": "ngỉ ngơi"
       },
       "answer": "C",
-      "explanation": "Theo quy tắc chính tả: Âm /ng/ viết là 'ngh' khi đứng trước e, ê, i; viết là 'ng' trước các nguyên âm còn lại.. Từ đúng là 'nghệ thuật'."
+      "explanation": "Theo quy tắc chính tả: Âm /ng/ viết là 'ngh' khi đứng trước e, ê, i; viết là 'ng' trước các nguyên âm còn lại. Từ đúng là 'nghệ thuật'."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -1163,7 +1073,7 @@
         "D": "gẹ xanh"
       },
       "answer": "B",
-      "explanation": "Theo quy tắc chính tả: Âm /g/ viết là 'gh' khi đứng trước e, ê, i; viết là 'g' trước các nguyên âm còn lại.. Từ đúng là 'ghen tị'."
+      "explanation": "Theo quy tắc chính tả: Âm /g/ viết là 'gh' khi đứng trước e, ê, i; viết là 'g' trước các nguyên âm còn lại. Từ đúng là 'ghen tị'."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -1211,7 +1121,7 @@
         "D": "gềnh thác"
       },
       "answer": "A",
-      "explanation": "Theo quy tắc chính tả: Âm /g/ viết là 'gh' khi đứng trước e, ê, i; viết là 'g' trước các nguyên âm còn lại.. Từ đúng là 'ghẹ xanh'."
+      "explanation": "Theo quy tắc chính tả: Âm /g/ viết là 'gh' khi đứng trước e, ê, i; viết là 'g' trước các nguyên âm còn lại. Từ đúng là 'ghẹ xanh'."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -1227,7 +1137,7 @@
         "D": "cì lạ"
       },
       "answer": "C",
-      "explanation": "Theo quy tắc chính tả: Âm /k/ viết là 'k' khi đứng trước e, ê, i, y; viết là 'c' trước a, ă, â, o, ô, ơ, u, ư; viết là 'q' khi kết hợp âm đệm 'u'.. Từ đúng là 'kệ'."
+      "explanation": "Theo quy tắc chính tả: Âm /k/ viết là 'k' khi đứng trước e, ê, i, y; viết là 'c' trước a, ă, â, o, ô, ơ, u, ư; viết là 'q' khi kết hợp âm đệm 'u'. Từ đúng là 'kệ'."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -1243,7 +1153,7 @@
         "D": "ngệ thuật"
       },
       "answer": "B",
-      "explanation": "Theo quy tắc chính tả: Âm /ng/ viết là 'ngh' khi đứng trước e, ê, i; viết là 'ng' trước các nguyên âm còn lại.. Từ đúng là 'nghề nghiệp'."
+      "explanation": "Theo quy tắc chính tả: Âm /ng/ viết là 'ngh' khi đứng trước e, ê, i; viết là 'ng' trước các nguyên âm còn lại. Từ đúng là 'nghề nghiệp'."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -1323,7 +1233,7 @@
         "D": "ciến"
       },
       "answer": "B",
-      "explanation": "Theo quy tắc chính tả: Âm /k/ viết là 'k' khi đứng trước e, ê, i, y; viết là 'c' trước a, ă, â, o, ô, ơ, u, ư; viết là 'q' khi kết hợp âm đệm 'u'.. Từ đúng là 'khen ngợi'."
+      "explanation": "Theo quy tắc chính tả: Âm /k/ viết là 'k' khi đứng trước e, ê, i, y; viết là 'c' trước a, ă, â, o, ô, ơ, u, ư; viết là 'q' khi kết hợp âm đệm 'u'. Từ đúng là 'khen ngợi'."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -1339,7 +1249,7 @@
         "D": "cẻ"
       },
       "answer": "A",
-      "explanation": "Theo quy tắc chính tả: Âm /k/ viết là 'k' khi đứng trước e, ê, i, y; viết là 'c' trước a, ă, â, o, ô, ơ, u, ư; viết là 'q' khi kết hợp âm đệm 'u'.. Từ đúng là 'kết quả'."
+      "explanation": "Theo quy tắc chính tả: Âm /k/ viết là 'k' khi đứng trước e, ê, i, y; viết là 'c' trước a, ă, â, o, ô, ơ, u, ư; viết là 'q' khi kết hợp âm đệm 'u'. Từ đúng là 'kết quả'."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -1355,7 +1265,7 @@
         "D": "gi chép"
       },
       "answer": "C",
-      "explanation": "Theo quy tắc chính tả: Âm /g/ viết là 'gh' khi đứng trước e, ê, i; viết là 'g' trước các nguyên âm còn lại.. Từ đúng là 'ghềnh thác'."
+      "explanation": "Theo quy tắc chính tả: Âm /g/ viết là 'gh' khi đứng trước e, ê, i; viết là 'g' trước các nguyên âm còn lại. Từ đúng là 'ghềnh thác'."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -1371,7 +1281,7 @@
         "D": "ngề nghiệp"
       },
       "answer": "B",
-      "explanation": "Theo quy tắc chính tả: Âm /ng/ viết là 'ngh' khi đứng trước e, ê, i; viết là 'ng' trước các nguyên âm còn lại.. Từ đúng là 'nghỉ ngơi'."
+      "explanation": "Theo quy tắc chính tả: Âm /ng/ viết là 'ngh' khi đứng trước e, ê, i; viết là 'ng' trước các nguyên âm còn lại. Từ đúng là 'nghỉ ngơi'."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -1421,22 +1331,7 @@
       "answer": "A",
       "explanation": "Tiếng 'trâu' trong từ 'con trâu' có âm đầu là 'tr'."
     },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_3_VONG_HUONG",
-      "type": "TN",
-      "questionId": "k1_c3_tn_086",
-      "question": "Câu tục ngữ, thành ngữ nào dưới đây thể hiện phẩm chất hoặc bài học về 'Giá trị con người'?",
-      "options": {
-        "A": "Lá lành đùm lá rách",
-        "B": "Cây ngay không sợ chết đứng",
-        "C": "Người ta là hoa đất",
-        "D": "Tấc đất tấc vàng"
-      },
-      "answer": "C",
-      "explanation": "'Người ta là hoa đất': Ca ngợi con người là tinh hoa quý báu nhất của vũ trụ và mặt đất."
-    },
+    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_1",
@@ -1451,7 +1346,7 @@
         "D": "ciên trì"
       },
       "answer": "A",
-      "explanation": "Theo quy tắc chính tả: Âm /k/ viết là 'k' khi đứng trước e, ê, i, y; viết là 'c' trước a, ă, â, o, ô, ơ, u, ư; viết là 'q' khi kết hợp âm đệm 'u'.. Từ đúng là 'kìm'."
+      "explanation": "Theo quy tắc chính tả: Âm /k/ viết là 'k' khi đứng trước e, ê, i, y; viết là 'c' trước a, ă, â, o, ô, ơ, u, ư; viết là 'q' khi kết hợp âm đệm 'u'. Từ đúng là 'kìm'."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -1469,22 +1364,7 @@
       "answer": "B",
       "explanation": "'Uống nước nhớ nguồn': Nhắc nhở con cháu phải ghi nhớ cội nguồn, tổ tiên và những người đã giúp đỡ mình."
     },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_3_VONG_HUONG",
-      "type": "TN",
-      "questionId": "k1_c3_tn_089",
-      "question": "Câu tục ngữ, thành ngữ nào dưới đây thể hiện phẩm chất hoặc bài học về 'Môi trường sống'?",
-      "options": {
-        "A": "Chớ thấy sóng cả mà ngã tay chèo",
-        "B": "Tấc đất tấc vàng",
-        "C": "Lời nói chẳng mất tiền mua, lựa lời mà nói cho vừa lòng nhau",
-        "D": "Gần mực thì đen gần đèn thì sáng"
-      },
-      "answer": "D",
-      "explanation": "'Gần mực thì đen gần đèn thì sáng': Ở gần người tốt sẽ học được điều hay, ở gần người xấu dễ bị lây thói hư tật xấu."
-    },
+    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_1",
@@ -1595,7 +1475,7 @@
         "D": "cệ"
       },
       "answer": "B",
-      "explanation": "Theo quy tắc chính tả: Âm /k/ viết là 'k' khi đứng trước e, ê, i, y; viết là 'c' trước a, ă, â, o, ô, ơ, u, ư; viết là 'q' khi kết hợp âm đệm 'u'.. Từ đúng là 'kim'."
+      "explanation": "Theo quy tắc chính tả: Âm /k/ viết là 'k' khi đứng trước e, ê, i, y; viết là 'c' trước a, ă, â, o, ô, ơ, u, ư; viết là 'q' khi kết hợp âm đệm 'u'. Từ đúng là 'kim'."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -1611,7 +1491,7 @@
         "D": "gé thăm"
       },
       "answer": "C",
-      "explanation": "Theo quy tắc chính tả: Âm /g/ viết là 'gh' khi đứng trước e, ê, i; viết là 'g' trước các nguyên âm còn lại.. Từ đúng là 'ghép hình'."
+      "explanation": "Theo quy tắc chính tả: Âm /g/ viết là 'gh' khi đứng trước e, ê, i; viết là 'g' trước các nguyên âm còn lại. Từ đúng là 'ghép hình'."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -1675,7 +1555,7 @@
         "D": "cỉ niệm"
       },
       "answer": "A",
-      "explanation": "Theo quy tắc chính tả: Âm /k/ viết là 'k' khi đứng trước e, ê, i, y; viết là 'c' trước a, ă, â, o, ô, ơ, u, ư; viết là 'q' khi kết hợp âm đệm 'u'.. Từ đúng là 'kênh'."
+      "explanation": "Theo quy tắc chính tả: Âm /k/ viết là 'k' khi đứng trước e, ê, i, y; viết là 'c' trước a, ă, â, o, ô, ơ, u, ư; viết là 'q' khi kết hợp âm đệm 'u'. Từ đúng là 'kênh'."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -1683,7 +1563,7 @@
       "level": "CAP_3_VONG_HUONG",
       "type": "TN",
       "questionId": "k1_c3_tn_102",
-      "question": "Tiếng nào dưới đây có âm đầu là 'b'?",
+      "question": "từ nào dưới đây có âm đầu là 'b'?",
       "options": {
         "A": "bông bí",
         "B": "quả cam",
@@ -1699,7 +1579,7 @@
       "level": "CAP_3_VONG_HUONG",
       "type": "TN",
       "questionId": "k1_c3_tn_103",
-      "question": "Tiếng nào dưới đây có âm đầu là 'ch'?",
+      "question": "từ nào dưới đây có âm đầu là 'ch'?",
       "options": {
         "A": "mẹ hiền",
         "B": "cá vàng",
@@ -1715,7 +1595,7 @@
       "level": "CAP_3_VONG_HUONG",
       "type": "TN",
       "questionId": "k1_c3_tn_104",
-      "question": "Tiếng nào dưới đây có âm đầu là 'd'?",
+      "question": "từ nào dưới đây có âm đầu là 'd'?",
       "options": {
         "A": "quả khế",
         "B": "dòng suối",
@@ -1731,7 +1611,7 @@
       "level": "CAP_3_VONG_HUONG",
       "type": "TN",
       "questionId": "k1_c3_tn_105",
-      "question": "Tiếng nào dưới đây có âm đầu là 'đ'?",
+      "question": "từ nào dưới đây có âm đầu là 'đ'?",
       "options": {
         "A": "mái tóc",
         "B": "bờ ao",
@@ -1747,7 +1627,7 @@
       "level": "CAP_3_VONG_HUONG",
       "type": "TN",
       "questionId": "k1_c3_tn_106",
-      "question": "Tiếng nào dưới đây có phụ âm là 'gh'?",
+      "question": "từ nào dưới đây có phụ âm là 'gh'?",
       "options": {
         "A": "ghim ",
         "B": "gà ",
@@ -1763,7 +1643,7 @@
       "level": "CAP_3_VONG_HUONG",
       "type": "TN",
       "questionId": "k1_c3_tn_107",
-      "question": "Tiếng nào dưới đây có âm đầu là 'h'?",
+      "question": "từ nào dưới đây có âm đầu là 'h'?",
       "options": {
         "A": "cây cau",
         "B": "hoa giấy",
@@ -1779,7 +1659,7 @@
       "level": "CAP_3_VONG_HUONG",
       "type": "TN",
       "questionId": "k1_c3_tn_108",
-      "question": "Tiếng nào dưới đây có âm đầu là 'k'?",
+      "question": "từ nào dưới đây có âm đầu là 'k'?",
       "options": {
         "A": "bông cúc",
         "B": "con cua",
@@ -1795,7 +1675,7 @@
       "level": "CAP_3_VONG_HUONG",
       "type": "TN",
       "questionId": "k1_c3_tn_109",
-      "question": "Tiếng nào dưới đây có âm đầu là 'l'?",
+      "question": "từ nào dưới đây có âm đầu là 'l'?",
       "options": {
         "A": "cây tre",
         "B": "lá mít",
@@ -1811,7 +1691,7 @@
       "level": "CAP_3_VONG_HUONG",
       "type": "TN",
       "questionId": "k1_c3_tn_110",
-      "question": "Tiếng nào dưới đây có âm đầu là 'm'?",
+      "question": "từ nào dưới đây có âm đầu là 'm'?",
       "options": {
         "A": "mái ngói",
         "B": "con sóc",
@@ -1827,7 +1707,7 @@
       "level": "CAP_3_VONG_HUONG",
       "type": "TN",
       "questionId": "k1_c3_tn_111",
-      "question": "Tiếng nào dưới đây có âm đầu là 'n'?",
+      "question": "từ nào dưới đây có âm đầu là 'n'?",
       "options": {
         "A": "cây bàng",
         "B": "nồi cơm",
@@ -1843,7 +1723,7 @@
       "level": "CAP_3_VONG_HUONG",
       "type": "TN",
       "questionId": "k1_c3_tn_112",
-      "question": "Tiếng nào dưới đây có âm đầu là 'nh'?",
+      "question": "từ nào dưới đây có âm đầu là 'nh'?",
       "options": {
         "A": "nhành lan",
         "B": "bông súng",
@@ -1859,7 +1739,7 @@
       "level": "CAP_3_VONG_HUONG",
       "type": "TN",
       "questionId": "k1_c3_tn_113",
-      "question": "Tiếng nào dưới đây có âm đầu là 'p'?",
+      "question": "từ nào dưới đây có âm đầu là 'p'?",
       "options": {
         "A": "bút sáp",
         "B": "pin nhỏ",
@@ -1875,7 +1755,7 @@
       "level": "CAP_3_VONG_HUONG",
       "type": "TN",
       "questionId": "k1_c3_tn_114",
-      "question": "Tiếng nào dưới đây có âm đầu là 'ph'?",
+      "question": "từ nào dưới đây có âm đầu là 'ph'?",
       "options": {
         "A": "lá sen",
         "B": "phố nhỏ",
@@ -1891,7 +1771,7 @@
       "level": "CAP_3_VONG_HUONG",
       "type": "TN",
       "questionId": "k1_c3_tn_115",
-      "question": "Tiếng nào dưới đây có âm đầu là 's'?",
+      "question": "từ nào dưới đây có âm đầu là 's'?",
       "options": {
         "A": "cái kim",
         "B": "sợi chỉ",
@@ -1907,7 +1787,7 @@
       "level": "CAP_3_VONG_HUONG",
       "type": "TN",
       "questionId": "k1_c3_tn_116",
-      "question": "Tiếng nào dưới đây có âm đầu là 'v'?",
+      "question": "từ nào dưới đây có âm đầu là 'v'?",
       "options": {
         "A": "vầng mây",
         "B": "cánh buồm",
@@ -1923,7 +1803,7 @@
       "level": "CAP_3_VONG_HUONG",
       "type": "TN",
       "questionId": "k1_c3_tn_117",
-      "question": "Tiếng nào dưới đây có âm đầu là 'b'?",
+      "question": "từ nào dưới đây có âm đầu là 'b'?",
       "options": {
         "A": "bàn tay",
         "B": "cành đào",
@@ -1939,7 +1819,7 @@
       "level": "CAP_3_VONG_HUONG",
       "type": "TN",
       "questionId": "k1_c3_tn_118",
-      "question": "Tiếng nào dưới đây có âm đầu là 'ch'?",
+      "question": "từ nào dưới đây có âm đầu là 'ch'?",
       "options": {
         "A": "bông sen",
         "B": "chiếc thuyền",
@@ -1955,7 +1835,7 @@
       "level": "CAP_3_VONG_HUONG",
       "type": "TN",
       "questionId": "k1_c3_tn_119",
-      "question": "Tiếng nào dưới đây có âm đầu là 'd'?",
+      "question": "từ nào dưới đây có âm đầu là 'd'?",
       "options": {
         "A": "con sóc",
         "B": "cái nơ",
@@ -1971,7 +1851,7 @@
       "level": "CAP_3_VONG_HUONG",
       "type": "TN",
       "questionId": "k1_c3_tn_120",
-      "question": "Tiếng nào dưới đây có âm đầu là 'đ'?",
+      "question": "từ nào dưới đây có âm đầu là 'đ'?",
       "options": {
         "A": "cây bưởi",
         "B": "đôi dép",
@@ -1987,7 +1867,7 @@
       "level": "CAP_3_VONG_HUONG",
       "type": "TN",
       "questionId": "k1_c3_tn_121",
-      "question": "Tiếng nào dưới đây có âm đầu là 'h'?",
+      "question": "từ nào dưới đây có âm đầu là 'h'?",
       "options": {
         "A": "hạt đỗ",
         "B": "quả cam",
@@ -2003,7 +1883,7 @@
       "level": "CAP_3_VONG_HUONG",
       "type": "TN",
       "questionId": "k1_c3_tn_122",
-      "question": "Tiếng nào dưới đây có âm đầu là 'l'?",
+      "question": "từ nào dưới đây có âm đầu là 'l'?",
       "options": {
         "A": "cánh diều",
         "B": "quả na",
@@ -2019,7 +1899,7 @@
       "level": "CAP_3_VONG_HUONG",
       "type": "TN",
       "questionId": "k1_c3_tn_123",
-      "question": "Tiếng nào dưới đây có âm đầu là 'm'?",
+      "question": "từ nào dưới đây có âm đầu là 'm'?",
       "options": {
         "A": "cánh đồng",
         "B": "mùa gặt",
@@ -2035,7 +1915,7 @@
       "level": "CAP_3_VONG_HUONG",
       "type": "TN",
       "questionId": "k1_c3_tn_124",
-      "question": "Tiếng nào dưới đây có âm đầu là 'n'?",
+      "question": "từ nào dưới đây có âm đầu là 'n'?",
       "options": {
         "A": "mặt hồ",
         "B": "cây cau",
@@ -2051,7 +1931,7 @@
       "level": "CAP_3_VONG_HUONG",
       "type": "TN",
       "questionId": "k1_c3_tn_125",
-      "question": "Tiếng nào dưới đây có âm đầu là 'ng'?",
+      "question": "từ nào dưới đây có âm đầu là 'ng'?",
       "options": {
         "A": "ngôi nhà",
         "B": "cái nơ",
@@ -2067,7 +1947,7 @@
       "level": "CAP_3_VONG_HUONG",
       "type": "TN",
       "questionId": "k1_c3_tn_126",
-      "question": "Tiếng nào dưới đây có âm đầu là 'nh'?",
+      "question": "từ nào dưới đây có âm đầu là 'nh'?",
       "options": {
         "A": "cái chum",
         "B": "nhà sàn",
@@ -2083,7 +1963,7 @@
       "level": "CAP_3_VONG_HUONG",
       "type": "TN",
       "questionId": "k1_c3_tn_127",
-      "question": "Tiếng nào dưới đây có âm đầu là 'ph'?",
+      "question": "từ nào dưới đây có âm đầu là 'ph'?",
       "options": {
         "A": "lá sen",
         "B": "phấn trắng",
@@ -2099,7 +1979,7 @@
       "level": "CAP_3_VONG_HUONG",
       "type": "TN",
       "questionId": "k1_c3_tn_128",
-      "question": "Tiếng nào dưới đây có âm đầu là 'qu'?",
+      "question": "từ nào dưới đây có âm đầu là 'qu'?",
       "options": {
         "A": "quyển vở",
         "B": "cái bàn",
@@ -2115,7 +1995,7 @@
       "level": "CAP_3_VONG_HUONG",
       "type": "TN",
       "questionId": "k1_c3_tn_129",
-      "question": "Tiếng nào dưới đây có âm đầu là 'r'?",
+      "question": "từ nào dưới đây có âm đầu là 'r'?",
       "options": {
         "A": "con dê",
         "B": "rau ngót",
@@ -2131,7 +2011,7 @@
       "level": "CAP_3_VONG_HUONG",
       "type": "TN",
       "questionId": "k1_c3_tn_130",
-      "question": "Tiếng nào dưới đây có âm đầu là 's'?",
+      "question": "từ nào dưới đây có âm đầu là 's'?",
       "options": {
         "A": "cánh đồng",
         "B": "con thỏ",
@@ -2147,7 +2027,7 @@
       "level": "CAP_3_VONG_HUONG",
       "type": "TN",
       "questionId": "k1_c3_tn_131",
-      "question": "Tiếng nào dưới đây có âm đầu là 't'?",
+      "question": "từ nào dưới đây có âm đầu là 't'?",
       "options": {
         "A": "cái nơ",
         "B": "lá dong",
@@ -2163,7 +2043,7 @@
       "level": "CAP_3_VONG_HUONG",
       "type": "TN",
       "questionId": "k1_c3_tn_132",
-      "question": "Tiếng nào dưới đây có âm đầu là 'th'?",
+      "question": "từ nào dưới đây có âm đầu là 'th'?",
       "options": {
         "A": "con cua",
         "B": "cái chum",
@@ -2179,7 +2059,7 @@
       "level": "CAP_3_VONG_HUONG",
       "type": "TN",
       "questionId": "k1_c3_tn_133",
-      "question": "Tiếng nào dưới đây có âm đầu là 'tr'?",
+      "question": "từ nào dưới đây có âm đầu là 'tr'?",
       "options": {
         "A": "bông lúa",
         "B": "trăng rằm",
@@ -2195,7 +2075,7 @@
       "level": "CAP_3_VONG_HUONG",
       "type": "TN",
       "questionId": "k1_c3_tn_134",
-      "question": "Tiếng nào dưới đây có âm đầu là 'v'?",
+      "question": "từ nào dưới đây có âm đầu là 'v'?",
       "options": {
         "A": "luống rau",
         "B": "quả na",
@@ -2211,7 +2091,7 @@
       "level": "CAP_3_VONG_HUONG",
       "type": "TN",
       "questionId": "k1_c3_tn_135",
-      "question": "Tiếng nào dưới đây có âm đầu là 'x'?",
+      "question": "từ nào dưới đây có âm đầu là 'x'?",
       "options": {
         "A": "cái ghế",
         "B": "bông cúc",
@@ -2227,7 +2107,7 @@
       "level": "CAP_3_VONG_HUONG",
       "type": "TN",
       "questionId": "k1_c3_tn_136",
-      "question": "Tiếng nào dưới đây có âm đầu là 'b'?",
+      "question": "từ nào dưới đây có âm đầu là 'b'?",
       "options": {
         "A": "quả khế",
         "B": "mái nhà",
@@ -2243,7 +2123,7 @@
       "level": "CAP_3_VONG_HUONG",
       "type": "TN",
       "questionId": "k1_c3_tn_137",
-      "question": "Tiếng nào dưới đây có âm đầu là 'ch'?",
+      "question": "từ nào dưới đây có âm đầu là 'ch'?",
       "options": {
         "A": "bạn nhỏ",
         "B": "cô giáo",
@@ -4226,7 +4106,7 @@
       "grade": "KHOI_1",
       "level": "CAP_3_VONG_HUONG",
       "type": "TN",
-      "question": "Tiếng nào dưới đây bắt đầu bằng 'c'?",
+      "question": "từ nào dưới đây bắt đầu bằng 'c'?",
       "options": {
         "A": "ngà",
         "B": "ghềnh",
@@ -4258,7 +4138,7 @@
       "grade": "KHOI_1",
       "level": "CAP_3_VONG_HUONG",
       "type": "TN",
-      "question": "Tiếng nào dưới đây bắt đầu bằng 'c'?",
+      "question": "từ nào dưới đây bắt đầu bằng 'c'?",
       "options": {
         "A": "cò",
         "B": "ngô",
@@ -4290,7 +4170,7 @@
       "grade": "KHOI_1",
       "level": "CAP_3_VONG_HUONG",
       "type": "TN",
-      "question": "Tiếng nào dưới đây bắt đầu bằng 'c'?",
+      "question": "từ nào dưới đây bắt đầu bằng 'c'?",
       "options": {
         "A": "cô",
         "B": "kim",
@@ -4322,7 +4202,7 @@
       "grade": "KHOI_1",
       "level": "CAP_3_VONG_HUONG",
       "type": "TN",
-      "question": "Tiếng nào dưới đây bắt đầu bằng 'c'?",
+      "question": "từ nào dưới đây bắt đầu bằng 'c'?",
       "options": {
         "A": "kèn",
         "B": "nghỉ",
@@ -4354,7 +4234,7 @@
       "grade": "KHOI_1",
       "level": "CAP_3_VONG_HUONG",
       "type": "TN",
-      "question": "Tiếng nào dưới đây bắt đầu bằng 'c'?",
+      "question": "từ nào dưới đây bắt đầu bằng 'c'?",
       "options": {
         "A": "gấu",
         "B": "ngọn",
@@ -4386,7 +4266,7 @@
       "grade": "KHOI_1",
       "level": "CAP_3_VONG_HUONG",
       "type": "TN",
-      "question": "Tiếng nào dưới đây bắt đầu bằng 'c'?",
+      "question": "từ nào dưới đây bắt đầu bằng 'c'?",
       "options": {
         "A": "ghé",
         "B": "kẻ",
@@ -4418,7 +4298,7 @@
       "grade": "KHOI_1",
       "level": "CAP_3_VONG_HUONG",
       "type": "TN",
-      "question": "Tiếng nào dưới đây bắt đầu bằng 'c'?",
+      "question": "từ nào dưới đây bắt đầu bằng 'c'?",
       "options": {
         "A": "gấu",
         "B": "ngà",
@@ -4450,7 +4330,7 @@
       "grade": "KHOI_1",
       "level": "CAP_3_VONG_HUONG",
       "type": "TN",
-      "question": "Tiếng nào dưới đây bắt đầu bằng 'c'?",
+      "question": "từ nào dưới đây bắt đầu bằng 'c'?",
       "options": {
         "A": "cún",
         "B": "ngựa",
@@ -4482,7 +4362,7 @@
       "grade": "KHOI_1",
       "level": "CAP_3_VONG_HUONG",
       "type": "TN",
-      "question": "Tiếng nào dưới đây bắt đầu bằng 'c'?",
+      "question": "từ nào dưới đây bắt đầu bằng 'c'?",
       "options": {
         "A": "cặp",
         "B": "nghiêng",
@@ -4514,7 +4394,7 @@
       "grade": "KHOI_1",
       "level": "CAP_3_VONG_HUONG",
       "type": "TN",
-      "question": "Tiếng nào dưới đây bắt đầu bằng 'c'?",
+      "question": "từ nào dưới đây bắt đầu bằng 'c'?",
       "options": {
         "A": "cây",
         "B": "kẻ",
@@ -4546,7 +4426,7 @@
       "grade": "KHOI_1",
       "level": "CAP_3_VONG_HUONG",
       "type": "TN",
-      "question": "Tiếng nào dưới đây bắt đầu bằng 'c'?",
+      "question": "từ nào dưới đây bắt đầu bằng 'c'?",
       "options": {
         "A": "kim",
         "B": "gấu",
@@ -4578,7 +4458,7 @@
       "grade": "KHOI_1",
       "level": "CAP_3_VONG_HUONG",
       "type": "TN",
-      "question": "Tiếng nào dưới đây bắt đầu bằng 'c'?",
+      "question": "từ nào dưới đây bắt đầu bằng 'c'?",
       "options": {
         "A": "ngồi",
         "B": "ghim",
@@ -4610,7 +4490,7 @@
       "grade": "KHOI_1",
       "level": "CAP_3_VONG_HUONG",
       "type": "TN",
-      "question": "Tiếng nào dưới đây bắt đầu bằng 'k'?",
+      "question": "từ nào dưới đây bắt đầu bằng 'k'?",
       "options": {
         "A": "gạo",
         "B": "gương",
@@ -4642,7 +4522,7 @@
       "grade": "KHOI_1",
       "level": "CAP_3_VONG_HUONG",
       "type": "TN",
-      "question": "Tiếng nào dưới đây bắt đầu bằng 'k'?",
+      "question": "từ nào dưới đây bắt đầu bằng 'k'?",
       "options": {
         "A": "kê",
         "B": "góc",
@@ -4674,7 +4554,7 @@
       "grade": "KHOI_1",
       "level": "CAP_3_VONG_HUONG",
       "type": "TN",
-      "question": "Tiếng nào dưới đây bắt đầu bằng 'k'?",
+      "question": "từ nào dưới đây bắt đầu bằng 'k'?",
       "options": {
         "A": "gừng",
         "B": "cờ",
@@ -4706,7 +4586,7 @@
       "grade": "KHOI_1",
       "level": "CAP_3_VONG_HUONG",
       "type": "TN",
-      "question": "Tiếng nào dưới đây bắt đầu bằng 'k'?",
+      "question": "từ nào dưới đây bắt đầu bằng 'k'?",
       "options": {
         "A": "gió",
         "B": "gỗ",
@@ -4738,7 +4618,7 @@
       "grade": "KHOI_1",
       "level": "CAP_3_VONG_HUONG",
       "type": "TN",
-      "question": "Tiếng nào dưới đây bắt đầu bằng 'k'?",
+      "question": "từ nào dưới đây bắt đầu bằng 'k'?",
       "options": {
         "A": "gạo",
         "B": "kim",
@@ -4770,7 +4650,7 @@
       "grade": "KHOI_1",
       "level": "CAP_3_VONG_HUONG",
       "type": "TN",
-      "question": "Tiếng nào dưới đây bắt đầu bằng 'k'?",
+      "question": "từ nào dưới đây bắt đầu bằng 'k'?",
       "options": {
         "A": "kẹo",
         "B": "cún",
@@ -4802,7 +4682,7 @@
       "grade": "KHOI_1",
       "level": "CAP_3_VONG_HUONG",
       "type": "TN",
-      "question": "Tiếng nào dưới đây bắt đầu bằng 'k'?",
+      "question": "từ nào dưới đây bắt đầu bằng 'k'?",
       "options": {
         "A": "ghi",
         "B": "kéo",
@@ -4834,7 +4714,7 @@
       "grade": "KHOI_1",
       "level": "CAP_3_VONG_HUONG",
       "type": "TN",
-      "question": "Tiếng nào dưới đây bắt đầu bằng 'k'?",
+      "question": "từ nào dưới đây bắt đầu bằng 'k'?",
       "options": {
         "A": "gần",
         "B": "cốc nước",
@@ -4866,7 +4746,7 @@
       "grade": "KHOI_1",
       "level": "CAP_3_VONG_HUONG",
       "type": "TN",
-      "question": "Tiếng nào dưới đây bắt đầu bằng 'k'?",
+      "question": "từ nào dưới đây bắt đầu bằng 'k'?",
       "options": {
         "A": "gạo",
         "B": "ghim",
@@ -4898,7 +4778,7 @@
       "grade": "KHOI_1",
       "level": "CAP_3_VONG_HUONG",
       "type": "TN",
-      "question": "Tiếng nào dưới đây bắt đầu bằng 'k'?",
+      "question": "từ nào dưới đây bắt đầu bằng 'k'?",
       "options": {
         "A": "ghế",
         "B": "ngô",
@@ -4930,7 +4810,7 @@
       "grade": "KHOI_1",
       "level": "CAP_3_VONG_HUONG",
       "type": "TN",
-      "question": "Tiếng nào dưới đây bắt đầu bằng chữ 'g'?",
+      "question": "từ nào dưới đây bắt đầu bằng chữ 'g'?",
       "options": {
         "A": "ghi",
         "B": "kim",
@@ -4962,7 +4842,7 @@
       "grade": "KHOI_1",
       "level": "CAP_3_VONG_HUONG",
       "type": "TN",
-      "question": "Tiếng nào dưới đây bắt đầu bằng chữ 'g'?",
+      "question": "từ nào dưới đây bắt đầu bằng chữ 'g'?",
       "options": {
         "A": "gỗ",
         "B": "kim",
@@ -4994,7 +4874,7 @@
       "grade": "KHOI_1",
       "level": "CAP_3_VONG_HUONG",
       "type": "TN",
-      "question": "Tiếng nào dưới đây bắt đầu bằng chữ 'g'?",
+      "question": "từ nào dưới đây bắt đầu bằng chữ 'g'?",
       "options": {
         "A": "cam",
         "B": "kẻ",
@@ -5026,7 +4906,7 @@
       "grade": "KHOI_1",
       "level": "CAP_3_VONG_HUONG",
       "type": "TN",
-      "question": "Tiếng nào dưới đây bắt đầu bằng chữ 'g'?",
+      "question": "từ nào dưới đây bắt đầu bằng chữ 'g'?",
       "options": {
         "A": "gạo",
         "B": "cam",
@@ -5058,7 +4938,7 @@
       "grade": "KHOI_1",
       "level": "CAP_3_VONG_HUONG",
       "type": "TN",
-      "question": "Tiếng nào dưới đây bắt đầu bằng chữ 'g'?",
+      "question": "từ nào dưới đây bắt đầu bằng chữ 'g'?",
       "options": {
         "A": "cò",
         "B": "ngồi",
@@ -5090,7 +4970,7 @@
       "grade": "KHOI_1",
       "level": "CAP_3_VONG_HUONG",
       "type": "TN",
-      "question": "Tiếng nào dưới đây bắt đầu bằng chữ 'g'?",
+      "question": "từ nào dưới đây bắt đầu bằng chữ 'g'?",
       "options": {
         "A": "gừng",
         "B": "ngô",
@@ -5122,7 +5002,7 @@
       "grade": "KHOI_1",
       "level": "CAP_3_VONG_HUONG",
       "type": "TN",
-      "question": "Tiếng nào dưới đây bắt đầu bằng chữ 'g'?",
+      "question": "từ nào dưới đây bắt đầu bằng chữ 'g'?",
       "options": {
         "A": "nghề",
         "B": "góc",
@@ -5154,7 +5034,7 @@
       "grade": "KHOI_1",
       "level": "CAP_3_VONG_HUONG",
       "type": "TN",
-      "question": "Tiếng nào dưới đây bắt đầu bằng chữ 'g'?",
+      "question": "từ nào dưới đây bắt đầu bằng chữ 'g'?",
       "options": {
         "A": "nghề",
         "B": "gương",
@@ -5186,7 +5066,7 @@
       "grade": "KHOI_1",
       "level": "CAP_3_VONG_HUONG",
       "type": "TN",
-      "question": "Tiếng nào dưới đây bắt đầu bằng chữ 'g'?",
+      "question": "từ nào dưới đây bắt đầu bằng chữ 'g'?",
       "options": {
         "A": "kim",
         "B": "cún",
@@ -5218,7 +5098,7 @@
       "grade": "KHOI_1",
       "level": "CAP_3_VONG_HUONG",
       "type": "TN",
-      "question": "Tiếng nào dưới đây bắt đầu bằng chữ 'g'?",
+      "question": "từ nào dưới đây bắt đầu bằng chữ 'g'?",
       "options": {
         "A": "cô",
         "B": "nghỉ",
@@ -5250,7 +5130,7 @@
       "grade": "KHOI_1",
       "level": "CAP_3_VONG_HUONG",
       "type": "TN",
-      "question": "Tiếng nào dưới đây bắt đầu bằng chữ 'gh'?",
+      "question": "từ nào dưới đây bắt đầu bằng chữ 'gh'?",
       "options": {
         "A": "kẻ",
         "B": "gió",
@@ -5282,7 +5162,7 @@
       "grade": "KHOI_1",
       "level": "CAP_3_VONG_HUONG",
       "type": "TN",
-      "question": "Tiếng nào dưới đây bắt đầu bằng chữ 'gh'?",
+      "question": "từ nào dưới đây bắt đầu bằng chữ 'gh'?",
       "options": {
         "A": "kẹo",
         "B": "kẻ",
@@ -5314,7 +5194,7 @@
       "grade": "KHOI_1",
       "level": "CAP_3_VONG_HUONG",
       "type": "TN",
-      "question": "Tiếng nào dưới đây bắt đầu bằng chữ 'gh'?",
+      "question": "từ nào dưới đây bắt đầu bằng chữ 'gh'?",
       "options": {
         "A": "ngô",
         "B": "cô",
@@ -5346,7 +5226,7 @@
       "grade": "KHOI_1",
       "level": "CAP_3_VONG_HUONG",
       "type": "TN",
-      "question": "Tiếng nào dưới đây bắt đầu bằng chữ 'gh'?",
+      "question": "từ nào dưới đây bắt đầu bằng chữ 'gh'?",
       "options": {
         "A": "ngọn",
         "B": "kẹo",
@@ -5378,7 +5258,7 @@
       "grade": "KHOI_1",
       "level": "CAP_3_VONG_HUONG",
       "type": "TN",
-      "question": "Tiếng nào dưới đây bắt đầu bằng chữ 'gh'?",
+      "question": "từ nào dưới đây bắt đầu bằng chữ 'gh'?",
       "options": {
         "A": "ghềnh",
         "B": "nghệ",
@@ -5410,7 +5290,7 @@
       "grade": "KHOI_1",
       "level": "CAP_3_VONG_HUONG",
       "type": "TN",
-      "question": "Tiếng nào dưới đây bắt đầu bằng chữ 'ng'?",
+      "question": "từ nào dưới đây bắt đầu bằng chữ 'ng'?",
       "options": {
         "A": "góc",
         "B": "nghề",
@@ -5442,7 +5322,7 @@
       "grade": "KHOI_1",
       "level": "CAP_3_VONG_HUONG",
       "type": "TN",
-      "question": "Tiếng nào dưới đây bắt đầu bằng chữ 'ng'?",
+      "question": "từ nào dưới đây bắt đầu bằng chữ 'ng'?",
       "options": {
         "A": "ngủ",
         "B": "kính",
@@ -5474,7 +5354,7 @@
       "grade": "KHOI_1",
       "level": "CAP_3_VONG_HUONG",
       "type": "TN",
-      "question": "Tiếng nào dưới đây bắt đầu bằng chữ 'ng'?",
+      "question": "từ nào dưới đây bắt đầu bằng chữ 'ng'?",
       "options": {
         "A": "ngựa",
         "B": "gọi",
@@ -5506,7 +5386,7 @@
       "grade": "KHOI_1",
       "level": "CAP_3_VONG_HUONG",
       "type": "TN",
-      "question": "Tiếng nào dưới đây bắt đầu bằng chữ 'ng'?",
+      "question": "từ nào dưới đây bắt đầu bằng chữ 'ng'?",
       "options": {
         "A": "gương",
         "B": "gừng",
@@ -5538,7 +5418,7 @@
       "grade": "KHOI_1",
       "level": "CAP_3_VONG_HUONG",
       "type": "TN",
-      "question": "Tiếng nào dưới đây bắt đầu bằng chữ 'ng'?",
+      "question": "từ nào dưới đây bắt đầu bằng chữ 'ng'?",
       "options": {
         "A": "gừng",
         "B": "ngõ",
@@ -5570,7 +5450,7 @@
       "grade": "KHOI_1",
       "level": "CAP_3_VONG_HUONG",
       "type": "TN",
-      "question": "Tiếng nào dưới đây bắt đầu bằng chữ 'ng'?",
+      "question": "từ nào dưới đây bắt đầu bằng chữ 'ng'?",
       "options": {
         "A": "kính",
         "B": "ngọn",
@@ -5602,7 +5482,7 @@
       "grade": "KHOI_1",
       "level": "CAP_3_VONG_HUONG",
       "type": "TN",
-      "question": "Tiếng nào dưới đây bắt đầu bằng chữ 'ng'?",
+      "question": "từ nào dưới đây bắt đầu bằng chữ 'ng'?",
       "options": {
         "A": "kẹo",
         "B": "cửa",
@@ -5634,7 +5514,7 @@
       "grade": "KHOI_1",
       "level": "CAP_3_VONG_HUONG",
       "type": "TN",
-      "question": "Tiếng nào dưới đây bắt đầu bằng chữ 'ng'?",
+      "question": "từ nào dưới đây bắt đầu bằng chữ 'ng'?",
       "options": {
         "A": "cờ",
         "B": "kĩ",
@@ -5666,7 +5546,7 @@
       "grade": "KHOI_1",
       "level": "CAP_3_VONG_HUONG",
       "type": "TN",
-      "question": "Tiếng nào dưới đây bắt đầu bằng chữ 'ngh'?",
+      "question": "từ nào dưới đây bắt đầu bằng chữ 'ngh'?",
       "options": {
         "A": "nghỉ",
         "B": "củ",
@@ -5698,7 +5578,7 @@
       "grade": "KHOI_1",
       "level": "CAP_3_VONG_HUONG",
       "type": "TN",
-      "question": "Tiếng nào dưới đây bắt đầu bằng chữ 'ngh'?",
+      "question": "từ nào dưới đây bắt đầu bằng chữ 'ngh'?",
       "options": {
         "A": "kẹo",
         "B": "ngủ",
@@ -5730,7 +5610,7 @@
       "grade": "KHOI_1",
       "level": "CAP_3_VONG_HUONG",
       "type": "TN",
-      "question": "Tiếng nào dưới đây bắt đầu bằng chữ 'ngh'?",
+      "question": "từ nào dưới đây bắt đầu bằng chữ 'ngh'?",
       "options": {
         "A": "kiến",
         "B": "nghệ",
@@ -5762,7 +5642,7 @@
       "grade": "KHOI_1",
       "level": "CAP_3_VONG_HUONG",
       "type": "TN",
-      "question": "Tiếng nào dưới đây bắt đầu bằng chữ 'ngh'?",
+      "question": "từ nào dưới đây bắt đầu bằng chữ 'ngh'?",
       "options": {
         "A": "góc",
         "B": "nghiêng",
@@ -5794,7 +5674,7 @@
       "grade": "KHOI_1",
       "level": "CAP_3_VONG_HUONG",
       "type": "TN",
-      "question": "Tiếng nào dưới đây bắt đầu bằng chữ 'ngh'?",
+      "question": "từ nào dưới đây bắt đầu bằng chữ 'ngh'?",
       "options": {
         "A": "gần",
         "B": "kim",
@@ -5826,7 +5706,7 @@
       "grade": "KHOI_1",
       "level": "CAP_3_VONG_HUONG",
       "type": "TN",
-      "question": "Tiếng nào có vần 'an'?",
+      "question": "từ nào có vần 'an'?",
       "options": {
         "A": "đạt",
         "B": "lanh",
@@ -5842,7 +5722,7 @@
       "grade": "KHOI_1",
       "level": "CAP_3_VONG_HUONG",
       "type": "TN",
-      "question": "Tiếng nào có vần 'an'?",
+      "question": "từ nào có vần 'an'?",
       "options": {
         "A": "men",
         "B": "mịn",
@@ -5858,7 +5738,7 @@
       "grade": "KHOI_1",
       "level": "CAP_3_VONG_HUONG",
       "type": "TN",
-      "question": "Tiếng nào có vần 'an'?",
+      "question": "từ nào có vần 'an'?",
       "options": {
         "A": "lươn",
         "B": "vòng",
@@ -5874,7 +5754,7 @@
       "grade": "KHOI_1",
       "level": "CAP_3_VONG_HUONG",
       "type": "TN",
-      "question": "Tiếng nào có vần 'an'?",
+      "question": "từ nào có vần 'an'?",
       "options": {
         "A": "bạn",
         "B": "lướt",
@@ -5890,7 +5770,7 @@
       "grade": "KHOI_1",
       "level": "CAP_3_VONG_HUONG",
       "type": "TN",
-      "question": "Tiếng nào có vần 'an'?",
+      "question": "từ nào có vần 'an'?",
       "options": {
         "A": "lanh",
         "B": "đan",
@@ -5906,7 +5786,7 @@
       "grade": "KHOI_1",
       "level": "CAP_3_VONG_HUONG",
       "type": "TN",
-      "question": "Tiếng nào có vần 'an'?",
+      "question": "từ nào có vần 'an'?",
       "options": {
         "A": "sóng",
         "B": "mít",
@@ -5922,7 +5802,7 @@
       "grade": "KHOI_1",
       "level": "CAP_3_VONG_HUONG",
       "type": "TN",
-      "question": "Tiếng nào có vần 'an'?",
+      "question": "từ nào có vần 'an'?",
       "options": {
         "A": "trống",
         "B": "cạn",
@@ -5938,7 +5818,7 @@
       "grade": "KHOI_1",
       "level": "CAP_3_VONG_HUONG",
       "type": "TN",
-      "question": "Tiếng nào có vần 'at'?",
+      "question": "từ nào có vần 'at'?",
       "options": {
         "A": "đan",
         "B": "ít",
@@ -5954,7 +5834,7 @@
       "grade": "KHOI_1",
       "level": "CAP_3_VONG_HUONG",
       "type": "TN",
-      "question": "Tiếng nào có vần 'at'?",
+      "question": "từ nào có vần 'at'?",
       "options": {
         "A": "sen",
         "B": "hát",
@@ -5970,7 +5850,7 @@
       "grade": "KHOI_1",
       "level": "CAP_3_VONG_HUONG",
       "type": "TN",
-      "question": "Tiếng nào có vần 'at'?",
+      "question": "từ nào có vần 'at'?",
       "options": {
         "A": "đen",
         "B": "bạn",
@@ -5986,7 +5866,7 @@
       "grade": "KHOI_1",
       "level": "CAP_3_VONG_HUONG",
       "type": "TN",
-      "question": "Tiếng nào có vần 'at'?",
+      "question": "từ nào có vần 'at'?",
       "options": {
         "A": "bóng",
         "B": "cành",
@@ -6002,7 +5882,7 @@
       "grade": "KHOI_1",
       "level": "CAP_3_VONG_HUONG",
       "type": "TN",
-      "question": "Tiếng nào có vần 'at'?",
+      "question": "từ nào có vần 'at'?",
       "options": {
         "A": "đạt",
         "B": "ít",
@@ -6018,7 +5898,7 @@
       "grade": "KHOI_1",
       "level": "CAP_3_VONG_HUONG",
       "type": "TN",
-      "question": "Tiếng nào có vần 'en'?",
+      "question": "từ nào có vần 'en'?",
       "options": {
         "A": "bát",
         "B": "đen",
@@ -6034,7 +5914,7 @@
       "grade": "KHOI_1",
       "level": "CAP_3_VONG_HUONG",
       "type": "TN",
-      "question": "Tiếng nào có vần 'en'?",
+      "question": "từ nào có vần 'en'?",
       "options": {
         "A": "lan",
         "B": "sen",
@@ -6050,7 +5930,7 @@
       "grade": "KHOI_1",
       "level": "CAP_3_VONG_HUONG",
       "type": "TN",
-      "question": "Tiếng nào có vần 'en'?",
+      "question": "từ nào có vần 'en'?",
       "options": {
         "A": "ít",
         "B": "sen",
@@ -6066,7 +5946,7 @@
       "grade": "KHOI_1",
       "level": "CAP_3_VONG_HUONG",
       "type": "TN",
-      "question": "Tiếng nào có vần 'en'?",
+      "question": "từ nào có vần 'en'?",
       "options": {
         "A": "lướt",
         "B": "men",
@@ -6082,7 +5962,7 @@
       "grade": "KHOI_1",
       "level": "CAP_3_VONG_HUONG",
       "type": "TN",
-      "question": "Tiếng nào có vần 'et'?",
+      "question": "từ nào có vần 'et'?",
       "options": {
         "A": "bạn",
         "B": "lươn",
@@ -6098,7 +5978,7 @@
       "grade": "KHOI_1",
       "level": "CAP_3_VONG_HUONG",
       "type": "TN",
-      "question": "Tiếng nào có vần 'et'?",
+      "question": "từ nào có vần 'et'?",
       "options": {
         "A": "kẹt",
         "B": "sóng",
@@ -6114,7 +5994,7 @@
       "grade": "KHOI_1",
       "level": "CAP_3_VONG_HUONG",
       "type": "TN",
-      "question": "Tiếng nào có vần 'et'?",
+      "question": "từ nào có vần 'et'?",
       "options": {
         "A": "vẹt",
         "B": "trống",
@@ -6130,7 +6010,7 @@
       "grade": "KHOI_1",
       "level": "CAP_3_VONG_HUONG",
       "type": "TN",
-      "question": "Tiếng nào có vần 'et'?",
+      "question": "từ nào có vần 'et'?",
       "options": {
         "A": "nét",
         "B": "sóng",
@@ -6146,7 +6026,7 @@
       "grade": "KHOI_1",
       "level": "CAP_3_VONG_HUONG",
       "type": "TN",
-      "question": "Tiếng nào có vần 'in'?",
+      "question": "từ nào có vần 'in'?",
       "options": {
         "A": "đạt",
         "B": "xanh",
@@ -6162,7 +6042,7 @@
       "grade": "KHOI_1",
       "level": "CAP_3_VONG_HUONG",
       "type": "TN",
-      "question": "Tiếng nào có vần 'in'?",
+      "question": "từ nào có vần 'in'?",
       "options": {
         "A": "sàn",
         "B": "bàn",
@@ -6178,7 +6058,7 @@
       "grade": "KHOI_1",
       "level": "CAP_3_VONG_HUONG",
       "type": "TN",
-      "question": "Tiếng nào có vần 'in'?",
+      "question": "từ nào có vần 'in'?",
       "options": {
         "A": "đạt",
         "B": "trượt",
@@ -6194,7 +6074,7 @@
       "grade": "KHOI_1",
       "level": "CAP_3_VONG_HUONG",
       "type": "TN",
-      "question": "Tiếng nào có vần 'in'?",
+      "question": "từ nào có vần 'in'?",
       "options": {
         "A": "men",
         "B": "đan",
@@ -6210,7 +6090,7 @@
       "grade": "KHOI_1",
       "level": "CAP_3_VONG_HUONG",
       "type": "TN",
-      "question": "Tiếng nào có vần 'it'?",
+      "question": "từ nào có vần 'it'?",
       "options": {
         "A": "tết",
         "B": "vẹt",
@@ -6226,7 +6106,7 @@
       "grade": "KHOI_1",
       "level": "CAP_3_VONG_HUONG",
       "type": "TN",
-      "question": "Tiếng nào có vần 'it'?",
+      "question": "từ nào có vần 'it'?",
       "options": {
         "A": "bạn",
         "B": "cành",
@@ -6242,7 +6122,7 @@
       "grade": "KHOI_1",
       "level": "CAP_3_VONG_HUONG",
       "type": "TN",
-      "question": "Tiếng nào có vần 'it'?",
+      "question": "từ nào có vần 'it'?",
       "options": {
         "A": "mát",
         "B": "nét",
@@ -6258,7 +6138,7 @@
       "grade": "KHOI_1",
       "level": "CAP_3_VONG_HUONG",
       "type": "TN",
-      "question": "Tiếng nào có vần 'it'?",
+      "question": "từ nào có vần 'it'?",
       "options": {
         "A": "bạn",
         "B": "cạch",
@@ -6274,7 +6154,7 @@
       "grade": "KHOI_1",
       "level": "CAP_3_VONG_HUONG",
       "type": "TN",
-      "question": "Tiếng nào có vần 'ươn'?",
+      "question": "từ nào có vần 'ươn'?",
       "options": {
         "A": "sông",
         "B": "vườn",
@@ -6290,7 +6170,7 @@
       "grade": "KHOI_1",
       "level": "CAP_3_VONG_HUONG",
       "type": "TN",
-      "question": "Tiếng nào có vần 'ươn'?",
+      "question": "từ nào có vần 'ươn'?",
       "options": {
         "A": "vòng",
         "B": "lươn",
@@ -6306,7 +6186,7 @@
       "grade": "KHOI_1",
       "level": "CAP_3_VONG_HUONG",
       "type": "TN",
-      "question": "Tiếng nào có vần 'ươn'?",
+      "question": "từ nào có vần 'ươn'?",
       "options": {
         "A": "vòng",
         "B": "đàn",
@@ -6322,7 +6202,7 @@
       "grade": "KHOI_1",
       "level": "CAP_3_VONG_HUONG",
       "type": "TN",
-      "question": "Tiếng nào có vần 'ươt'?",
+      "question": "từ nào có vần 'ươt'?",
       "options": {
         "A": "đàn",
         "B": "tin",
@@ -6338,7 +6218,7 @@
       "grade": "KHOI_1",
       "level": "CAP_3_VONG_HUONG",
       "type": "TN",
-      "question": "Tiếng nào có vần 'ươt'?",
+      "question": "từ nào có vần 'ươt'?",
       "options": {
         "A": "trượt",
         "B": "pin",
@@ -6354,7 +6234,7 @@
       "grade": "KHOI_1",
       "level": "CAP_3_VONG_HUONG",
       "type": "TN",
-      "question": "Tiếng nào có vần 'ươt'?",
+      "question": "từ nào có vần 'ươt'?",
       "options": {
         "A": "lướt",
         "B": "vòng",
@@ -6370,7 +6250,7 @@
       "grade": "KHOI_1",
       "level": "CAP_3_VONG_HUONG",
       "type": "TN",
-      "question": "Tiếng nào có vần 'ong'?",
+      "question": "từ nào có vần 'ong'?",
       "options": {
         "A": "mít",
         "B": "lươn",
@@ -6386,7 +6266,7 @@
       "grade": "KHOI_1",
       "level": "CAP_3_VONG_HUONG",
       "type": "TN",
-      "question": "Tiếng nào có vần 'ong'?",
+      "question": "từ nào có vần 'ong'?",
       "options": {
         "A": "bóng",
         "B": "hát",
@@ -6402,7 +6282,7 @@
       "grade": "KHOI_1",
       "level": "CAP_3_VONG_HUONG",
       "type": "TN",
-      "question": "Tiếng nào có vần 'ong'?",
+      "question": "từ nào có vần 'ong'?",
       "options": {
         "A": "bánh",
         "B": "đàn",
@@ -6418,7 +6298,7 @@
       "grade": "KHOI_1",
       "level": "CAP_3_VONG_HUONG",
       "type": "TN",
-      "question": "Tiếng nào có vần 'ong'?",
+      "question": "từ nào có vần 'ong'?",
       "options": {
         "A": "đen",
         "B": "vòng",
@@ -6434,7 +6314,7 @@
       "grade": "KHOI_1",
       "level": "CAP_3_VONG_HUONG",
       "type": "TN",
-      "question": "Tiếng nào có vần 'ông'?",
+      "question": "từ nào có vần 'ông'?",
       "options": {
         "A": "vịt",
         "B": "mát",
@@ -6450,7 +6330,7 @@
       "grade": "KHOI_1",
       "level": "CAP_3_VONG_HUONG",
       "type": "TN",
-      "question": "Tiếng nào có vần 'ông'?",
+      "question": "từ nào có vần 'ông'?",
       "options": {
         "A": "ông",
         "B": "bánh",
@@ -6466,7 +6346,7 @@
       "grade": "KHOI_1",
       "level": "CAP_3_VONG_HUONG",
       "type": "TN",
-      "question": "Tiếng nào có vần 'ông'?",
+      "question": "từ nào có vần 'ông'?",
       "options": {
         "A": "vòng",
         "B": "xinh",
@@ -6482,7 +6362,7 @@
       "grade": "KHOI_1",
       "level": "CAP_3_VONG_HUONG",
       "type": "TN",
-      "question": "Tiếng nào có vần 'ông'?",
+      "question": "từ nào có vần 'ông'?",
       "options": {
         "A": "sóng",
         "B": "sông",
@@ -6498,7 +6378,7 @@
       "grade": "KHOI_1",
       "level": "CAP_3_VONG_HUONG",
       "type": "TN",
-      "question": "Tiếng nào có vần 'anh'?",
+      "question": "từ nào có vần 'anh'?",
       "options": {
         "A": "xanh",
         "B": "đen",
@@ -6514,7 +6394,7 @@
       "grade": "KHOI_1",
       "level": "CAP_3_VONG_HUONG",
       "type": "TN",
-      "question": "Tiếng nào có vần 'anh'?",
+      "question": "từ nào có vần 'anh'?",
       "options": {
         "A": "bóng",
         "B": "vòng",
@@ -6530,7 +6410,7 @@
       "grade": "KHOI_1",
       "level": "CAP_3_VONG_HUONG",
       "type": "TN",
-      "question": "Tiếng nào có vần 'anh'?",
+      "question": "từ nào có vần 'anh'?",
       "options": {
         "A": "đàn",
         "B": "bánh",
@@ -6546,7 +6426,7 @@
       "grade": "KHOI_1",
       "level": "CAP_3_VONG_HUONG",
       "type": "TN",
-      "question": "Tiếng nào có vần 'anh'?",
+      "question": "từ nào có vần 'anh'?",
       "options": {
         "A": "bàn",
         "B": "vòng",
@@ -6562,7 +6442,7 @@
       "grade": "KHOI_1",
       "level": "CAP_3_VONG_HUONG",
       "type": "TN",
-      "question": "Tiếng nào có vần 'ach'?",
+      "question": "từ nào có vần 'ach'?",
       "options": {
         "A": "đan",
         "B": "lươn",
@@ -6578,7 +6458,7 @@
       "grade": "KHOI_1",
       "level": "CAP_3_VONG_HUONG",
       "type": "TN",
-      "question": "Tiếng nào có vần 'ach'?",
+      "question": "từ nào có vần 'ach'?",
       "options": {
         "A": "lanh",
         "B": "khách",
@@ -6594,7 +6474,7 @@
       "grade": "KHOI_1",
       "level": "CAP_3_VONG_HUONG",
       "type": "TN",
-      "question": "Tiếng nào có vần 'ach'?",
+      "question": "từ nào có vần 'ach'?",
       "options": {
         "A": "kẹt",
         "B": "bạch",
@@ -6610,7 +6490,7 @@
       "grade": "KHOI_1",
       "level": "CAP_3_VONG_HUONG",
       "type": "TN",
-      "question": "Tiếng nào có vần 'ach'?",
+      "question": "từ nào có vần 'ach'?",
       "options": {
         "A": "bàn",
         "B": "sông",
@@ -16659,7 +16539,7 @@
       "level": "CAP_3_VONG_HUONG",
       "type": "DT",
       "questionId": "k1_c3_dt_001",
-      "question": "Điền chữ cái hoặc âm thích hợp vào chỗ trống: \"(...)àng xóm\"",
+      "question": "Điền chữ cái hoặc âm thích hợp vào chỗ trống: \"(..)àng xóm\"",
       "blankAnswer": "h",
       "answer": "h",
       "explanation": "Từ đúng chính tả là 'hàng xóm', do đó âm cần điền là 'h'."
@@ -16917,28 +16797,8 @@
       "answer": "nhau",
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Lời nói chẳng mất tiền mua, lựa lời mà nói cho vừa lòng nhau\". Khi giao tiếp cần ăn nói lịch thiệp, nhã nhặn và tế nhị."
     },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_3_VONG_HUONG",
-      "type": "DT",
-      "questionId": "k1_c3_dt_025",
-      "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Tấc đất tấc (...)\"",
-      "blankAnswer": "vàng",
-      "answer": "vàng",
-      "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Tấc đất tấc vàng\". Mỗi tấc đất đều vô cùng quý giá như vàng vì đem lại nguồn sống cho con người."
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_3_VONG_HUONG",
-      "type": "DT",
-      "questionId": "k1_c3_dt_026",
-      "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Thuận vợ thuận chồng tát (...) cũng cạn\"",
-      "blankAnswer": "biển Đông",
-      "answer": "biển Đông",
-      "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Thuận vợ thuận chồng tát biển Đông cũng cạn\". Sự đồng lòng, hòa thuận trong gia đình giúp vượt qua mọi gian khó."
-    },
+   
+   
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_1",
@@ -18429,7 +18289,7 @@
       "grade": "KHOI_1",
       "level": "CAP_3_VONG_HUONG",
       "type": "DT",
-      "question": "Đọc câu đố và điền tên sự vật: “Đến giờ vào lớp, tiếng vang gọi chúng em.”",
+      "question": "Đọc câu đố và điền tên sự vật: “Có mặt da căng, đánh lên vang tiếng tùng tùng, báo giờ vào lớp. Là gì?”",
       "blankAnswer": "trống trường",
       "answer": "trống trường",
       "explanation": "Đáp án đúng là “trống trường”.",
@@ -18512,17 +18372,7 @@
       "explanation": "Gà trống có mào đỏ tươi và cất tiếng gáy 'ò ó o' đánh thức bình minh.",
       "questionId": "k1_c3_dt_399"
     },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_3_VONG_HUONG",
-      "type": "DT",
-      "question": "Đọc câu đố và điền đáp án: \"Cày trên đồng ruộng trắng phau / Khát xuống uống nước giếng sâu đen ngòm - Là hành động gì?\"",
-      "blankAnswer": "viết bút mực trên giấy",
-      "answer": "viết bút mực trên giấy",
-      "explanation": "Ngòi bút cày trên trang giấy trắng phau, chấm mực trong lọ mực đen ngòm.",
-      "questionId": "k1_c3_dt_400"
-    },
+    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_1",
@@ -18644,17 +18494,7 @@
       "explanation": "Thuyền di chuyển trên mặt nước.",
       "questionId": "k1_c3_dt_411"
     },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_3_VONG_HUONG",
-      "type": "DT",
-      "question": "Đọc câu đố và điền đáp án: “Lưng còng, tóc bạc phơ phơ / Thương em, kể chuyện ngày xưa hiền từ. Là ai?”",
-      "blankAnswer": "ông bà",
-      "answer": "ông bà",
-      "explanation": "Ông bà thường lớn tuổi và yêu thương con cháu.",
-      "questionId": "k1_c3_dt_412"
-    },
+   
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_1",
@@ -19034,7 +18874,7 @@
       "grade": "KHOI_1",
       "level": "CAP_3_VONG_HUONG",
       "type": "DT",
-      "question": "Đọc câu đố và điền đáp án: “Mùa đông em đi ngoài trời / Hai bàn chân được giữ ấm bên trong. Là gì?”",
+      "question": "Đọc câu đố và điền đáp án: “Mỏng mềm ôm lấy bàn chân / Mang trong giày để giữ ấm mùa đông. Là gì?”",
       "blankAnswer": "đôi tất",
       "answer": "đôi tất",
       "explanation": "Đôi tất dùng để mang vào chân.",
@@ -23174,22 +23014,7 @@
       "answer": "Ở hiền gặp lành",
       "explanation": "Câu tục ngữ đúng là: 'Ở hiền gặp lành'. Sống hiền hậu, tốt bụng sẽ gặp nhiều điều may mắn, tốt đẹp."
     },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_3_VONG_HUONG",
-      "type": "SX",
-      "questionId": "k1_c3_sx_032",
-      "question": "Hãy sắp xếp các từ/cụm từ sau để tạo thành một câu tục ngữ, thành ngữ hoàn chỉnh và có nghĩa:",
-      "elements": [
-        "tát biển",
-        "Đông cũng cạn",
-        "Thuận vợ",
-        "thuận chồng"
-      ],
-      "answer": "Thuận vợ thuận chồng tát biển Đông cũng cạn",
-      "explanation": "Câu thành ngữ/tục ngữ đúng là: 'Thuận vợ thuận chồng tát biển Đông cũng cạn'. Sự đồng lòng, hòa thuận trong gia đình giúp vượt qua mọi gian khó."
-    },
+    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_1",
@@ -24765,22 +24590,7 @@
       "explanation": "Câu đúng là: “Tiên học lễ, hậu học văn.” (Câu khuyên học sinh trước hết phải học lễ phép, đạo đức rồi mới học chữ.)",
       "questionId": "k1_c3_sx_132"
     },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_3_VONG_HUONG",
-      "type": "SX",
-      "question": "Sắp xếp các từ/cụm từ sau thành câu hoàn chỉnh:",
-      "elements": [
-        "hỏi trẻ.",
-        "về nhà",
-        "hỏi già,",
-        "Đi"
-      ],
-      "answer": "Đi hỏi già, về nhà hỏi trẻ.",
-      "explanation": "Câu đúng là: “Đi hỏi già, về nhà hỏi trẻ.” (Câu tục ngữ khuyên biết lắng nghe mọi người.)",
-      "questionId": "k1_c3_sx_133"
-    },
+    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_1",

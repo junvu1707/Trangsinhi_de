@@ -129,7 +129,7 @@
         "A": "trong sáng",
         "B": "bảo vệ",
         "C": "Bác Hồ",
-        "D": "sáng tạo"
+        "D": "thông minh"
       },
       "answer": "C",
       "explanation": "'Bác Hồ' là một danh từ."
@@ -576,28 +576,13 @@
       "options": {
         "A": "lòng dũng cảm",
         "B": "cây tre",
-        "C": "sáng tạo",
+        "C": "chạy nhảy",
         "D": "nhân ái"
       },
       "answer": "C",
-      "explanation": "'sáng tạo' là một động từ."
+      "explanation": "'chạy nhảy' là một động từ."
     },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "TN",
-      "questionId": "k4_c1_tn_0036",
-      "question": "Từ nào sau đây viết đúng chính tả?",
-      "options": {
-        "A": "ngệ thuật",
-        "B": "nge ngóng",
-        "C": "nghệ thuật",
-        "D": "ngĩ ngợi"
-      },
-      "answer": "C",
-      "explanation": "Theo quy tắc chính tả: Âm /ng/ viết là 'ngh' khi đứng trước e, ê, i; viết là 'ng' trước các nguyên âm còn lại.. Từ đúng là 'nghệ thuật'."
-    },
+    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_4",
@@ -830,13 +815,13 @@
       "questionId": "k4_c1_tn_0051",
       "question": "Từ nào dưới đây là từ láy toàn bộ?",
       "options": {
-        "A": "thăm thẳm",
+        "A": "lác đác",
         "B": "vui buồn",
-        "C": "râm râm",
+        "C": "chầm chậm",
         "D": "máy bay"
       },
       "answer": "C",
-      "explanation": "'râm râm' là từ láy toàn bộ. Các từ còn lại thuộc các kiểu cấu tạo từ khác."
+      "explanation": "'chầm chậm' là từ láy toàn bộ. Các từ còn lại thuộc các kiểu cấu tạo từ khác."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -1446,8 +1431,8 @@
         "Uống nước",
         "nhớ người"
       ],
-      "answer": "Uống nước nhớ người đào giếng",
-      "explanation": "Câu tục ngữ hoàn chỉnh là: 'Uống nước nhớ người đào giếng'. Câu tục ngữ khuyên răn chúng ta phải biết ơn những người đã có công tạo dựng thành quả cho mình hưởng."
+      "answer": "Uống nước nhớ nguồn",
+      "explanation": "Câu tục ngữ hoàn chỉnh là: 'Uống nước nhớ nguồn'. Câu tục ngữ khuyên răn chúng ta phải biết ơn những người đã có công tạo dựng thành quả cho mình hưởng."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -2315,13 +2300,13 @@
       "questionId": "k4_c1_noi_0024",
       "question": "Hãy nối từ ở Cột A với từ trái nghĩa tương ứng ở Cột B:",
       "columnA": {
-        "1": "đoàn kết",
+        "1": "cần cù",
         "2": "thật thà",
         "3": "hòa bình",
         "4": "dũng cảm"
       },
       "columnB": {
-        "A": "chia rẽ",
+        "A": "lười nhác",
         "B": "gian dối",
         "C": "hèn nhát",
         "D": "chiến tranh"
@@ -2332,7 +2317,7 @@
         "3": "D",
         "4": "C"
       },
-      "explanation": "Nối đúng các cặp tương ứng: 1-A: đoàn kết ~ chia rẽ; 2-B: thật thà ~ gian dối; 3-D: hòa bình ~ chiến tranh; 4-C: dũng cảm ~ hèn nhát."
+      "explanation": "Nối đúng các cặp tương ứng: 1-A: cần cù ~ lười nhác; 2-B: thật thà ~ gian dối; 3-D: hòa bình ~ chiến tranh; 4-C: dũng cảm ~ hèn nhát."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -2396,7 +2381,7 @@
       "questionId": "k4_c1_noi_0027",
       "question": "Hãy nối từ ở Cột A với từ trái nghĩa tương ứng ở Cột B:",
       "columnA": {
-        "1": "dũng cảm",
+        "1": "thông minh",
         "2": "chăm chỉ",
         "3": "hòa bình",
         "4": "thật thà"
@@ -2404,7 +2389,7 @@
       "columnB": {
         "A": "chiến tranh",
         "B": "lười biếng",
-        "C": "hèn nhát",
+        "C": "ngu dốt",
         "D": "gian dối"
       },
       "answer": {
@@ -2413,7 +2398,7 @@
         "3": "A",
         "4": "D"
       },
-      "explanation": "Nối đúng các cặp tương ứng: 1-C: dũng cảm ~ hèn nhát; 2-B: chăm chỉ ~ lười biếng; 3-A: hòa bình ~ chiến tranh; 4-D: thật thà ~ gian dối."
+      "explanation": "Nối đúng các cặp tương ứng: 1-C: thông minh ~ ngu dốt; 2-B: chăm chỉ ~ lười biếng; 3-A: hòa bình ~ chiến tranh; 4-D: thật thà ~ gian dối."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -2450,14 +2435,14 @@
       "questionId": "k4_c1_noi_0029",
       "question": "Hãy nối từ ở Cột A với từ trái nghĩa tương ứng ở Cột B:",
       "columnA": {
-        "1": "dũng cảm",
+        "1": "tỉ mỉ",
         "2": "đoàn kết",
         "3": "nhân hậu",
         "4": "hòa bình"
       },
       "columnB": {
         "A": "chiến tranh",
-        "B": "hèn nhát",
+        "B": "cẩu thả",
         "C": "chia rẽ",
         "D": "độc ác"
       },
@@ -2467,7 +2452,7 @@
         "3": "D",
         "4": "A"
       },
-      "explanation": "Nối đúng các cặp tương ứng: 1-B: dũng cảm ~ hèn nhát; 2-C: đoàn kết ~ chia rẽ; 3-D: nhân hậu ~ độc ác; 4-A: hòa bình ~ chiến tranh."
+      "explanation": "Nối đúng các cặp tương ứng: 1-B: tỉ mỉ ~ cẩu thả; 2-C: đoàn kết ~ chia rẽ; 3-D: nhân hậu ~ độc ác; 4-A: hòa bình ~ chiến tranh."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -2479,11 +2464,11 @@
       "columnA": {
         "1": "giản dị",
         "2": "bình yên",
-        "3": "gắn bó",
+        "3": "tằn tiện",
         "4": "dũng cảm"
       },
       "columnB": {
-        "A": "keo sơn",
+        "A": "hoang phí",
         "B": "mộc mạc",
         "C": "can đảm",
         "D": "thanh bình"
@@ -2494,7 +2479,7 @@
         "3": "A",
         "4": "C"
       },
-      "explanation": "Nối đúng các cặp tương ứng: 1-B: giản dị ~ mộc mạc; 2-D: bình yên ~ thanh bình; 3-A: gắn bó ~ keo sơn; 4-C: dũng cảm ~ can đảm."
+      "explanation": "Nối đúng các cặp tương ứng: 1-B: giản dị ~ mộc mạc; 2-D: bình yên ~ thanh bình; 3-A: tằn tiện ~ hoang phí; 4-C: dũng cảm ~ can đảm."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -2504,7 +2489,7 @@
       "questionId": "k4_c1_noi_0031",
       "question": "Hãy nối từ ở Cột A với từ trái nghĩa tương ứng ở Cột B:",
       "columnA": {
-        "1": "hòa bình",
+        "1": "thênh thang",
         "2": "dũng cảm",
         "3": "thành công",
         "4": "đoàn kết"
@@ -2513,7 +2498,7 @@
         "A": "thất bại",
         "B": "chia rẽ",
         "C": "hèn nhát",
-        "D": "chiến tranh"
+        "D": "chật hẹp"
       },
       "answer": {
         "1": "D",
@@ -2521,7 +2506,7 @@
         "3": "A",
         "4": "B"
       },
-      "explanation": "Nối đúng các cặp tương ứng: 1-D: hòa bình ~ chiến tranh; 2-C: dũng cảm ~ hèn nhát; 3-A: thành công ~ thất bại; 4-B: đoàn kết ~ chia rẽ."
+      "explanation": "Nối đúng các cặp tương ứng: 1-D: thênh thang ~ chật hẹp; 2-C: dũng cảm ~ hèn nhát; 3-A: thành công ~ thất bại; 4-B: đoàn kết ~ chia rẽ."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -2531,13 +2516,13 @@
       "questionId": "k4_c1_noi_0032",
       "question": "Hãy nối từ ở Cột A với từ trái nghĩa tương ứng ở Cột B:",
       "columnA": {
-        "1": "khiêm tốn",
+        "1": "sạch sẽ",
         "2": "khỏe mạnh",
         "3": "thật thà",
         "4": "hòa bình"
       },
       "columnB": {
-        "A": "kiêu căng",
+        "A": "bẩn thỉu",
         "B": "gian dối",
         "C": "chiến tranh",
         "D": "ốm yếu"
@@ -2548,7 +2533,7 @@
         "3": "B",
         "4": "C"
       },
-      "explanation": "Nối đúng các cặp tương ứng: 1-A: khiêm tốn ~ kiêu căng; 2-D: khỏe mạnh ~ ốm yếu; 3-B: thật thà ~ gian dối; 4-C: hòa bình ~ chiến tranh."
+      "explanation": "Nối đúng các cặp tương ứng: 1-A: sạch sẽ ~ bẩn thỉu; 2-D: khỏe mạnh ~ ốm yếu; 3-B: thật thà ~ gian dối; 4-C: hòa bình ~ chiến tranh."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -2639,7 +2624,7 @@
       "questionId": "k4_c1_noi_0036",
       "question": "Hãy nối từ ở Cột A với từ trái nghĩa tương ứng ở Cột B:",
       "columnA": {
-        "1": "đoàn kết",
+        "1": "oi bức",
         "2": "khiêm tốn",
         "3": "nhân hậu",
         "4": "thành công"
@@ -2647,7 +2632,7 @@
       "columnB": {
         "A": "độc ác",
         "B": "thất bại",
-        "C": "chia rẽ",
+        "C": "mát mẻ",
         "D": "kiêu căng"
       },
       "answer": {
@@ -2656,7 +2641,7 @@
         "3": "A",
         "4": "B"
       },
-      "explanation": "Nối đúng các cặp tương ứng: 1-C: đoàn kết ~ chia rẽ; 2-D: khiêm tốn ~ kiêu căng; 3-A: nhân hậu ~ độc ác; 4-B: thành công ~ thất bại."
+      "explanation": "Nối đúng các cặp tương ứng: 1-C: oi bức ~ mát mẻ; 2-D: khiêm tốn ~ kiêu căng; 3-A: nhân hậu ~ độc ác; 4-B: thành công ~ thất bại."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -2666,7 +2651,7 @@
       "questionId": "k4_c1_noi_0037",
       "question": "Hãy nối từ ở Cột A với từ trái nghĩa tương ứng ở Cột B:",
       "columnA": {
-        "1": "nhân hậu",
+        "1": "khô cạn",
         "2": "khỏe mạnh",
         "3": "thật thà",
         "4": "hòa bình"
@@ -2674,7 +2659,7 @@
       "columnB": {
         "A": "ốm yếu",
         "B": "gian dối",
-        "C": "độc ác",
+        "C": "ẩm ướt",
         "D": "chiến tranh"
       },
       "answer": {
@@ -2683,7 +2668,7 @@
         "3": "B",
         "4": "D"
       },
-      "explanation": "Nối đúng các cặp tương ứng: 1-C: nhân hậu ~ độc ác; 2-A: khỏe mạnh ~ ốm yếu; 3-B: thật thà ~ gian dối; 4-D: hòa bình ~ chiến tranh."
+      "explanation": "Nối đúng các cặp tương ứng: 1-C: khô cạn ~ ẩm ướt; 2-A: khỏe mạnh ~ ốm yếu; 3-B: thật thà ~ gian dối; 4-D: hòa bình ~ chiến tranh."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -2694,7 +2679,7 @@
       "question": "Hãy nối từ ở Cột A với từ đồng nghĩa tương ứng ở Cột B:",
       "columnA": {
         "1": "bao la",
-        "2": "tổ quốc",
+        "2": "nhanh nhẹn",
         "3": "bình yên",
         "4": "dũng cảm"
       },
@@ -2702,7 +2687,7 @@
         "A": "can đảm",
         "B": "thanh bình",
         "C": "mênh mông",
-        "D": "giang sơn"
+        "D": "lề mề"
       },
       "answer": {
         "1": "C",
@@ -2747,14 +2732,14 @@
       "questionId": "k4_c1_noi_0040",
       "question": "Hãy nối từ ở Cột A với từ trái nghĩa tương ứng ở Cột B:",
       "columnA": {
-        "1": "dũng cảm",
+        "1": "sung túc",
         "2": "khiêm tốn",
         "3": "nhân hậu",
         "4": "thành công"
       },
       "columnB": {
         "A": "thất bại",
-        "B": "hèn nhát",
+        "B": "nghèo khó",
         "C": "độc ác",
         "D": "kiêu căng"
       },
@@ -2764,7 +2749,7 @@
         "3": "C",
         "4": "A"
       },
-      "explanation": "Nối đúng các cặp tương ứng: 1-B: dũng cảm ~ hèn nhát; 2-D: khiêm tốn ~ kiêu căng; 3-C: nhân hậu ~ độc ác; 4-A: thành công ~ thất bại."
+      "explanation": "Nối đúng các cặp tương ứng: 1-B: sung túc ~ nghèo khó; 2-D: khiêm tốn ~ kiêu căng; 3-C: nhân hậu ~ độc ác; 4-A: thành công ~ thất bại."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -2858,13 +2843,13 @@
         "1": "Uống nước",
         "2": "Vạn sự",
         "3": "Lá lành",
-        "4": "Uống nước"
+        "4": "Trăm hay"
       },
       "columnB": {
         "A": "khởi đầu nan",
         "B": "đùm lá rách",
         "C": "nhớ nguồn",
-        "D": "nhớ nguồn"
+        "D": "không bằng tay quen"
       },
       "answer": {
         "1": "C",
@@ -2909,7 +2894,7 @@
       "questionId": "k4_c1_noi_0046",
       "question": "Hãy nối từ ở Cột A với từ trái nghĩa tương ứng ở Cột B:",
       "columnA": {
-        "1": "dũng cảm",
+        "1": "thắng lợi",
         "2": "yêu thương",
         "3": "hòa bình",
         "4": "thật thà"
@@ -2918,7 +2903,7 @@
         "A": "căm ghét",
         "B": "gian dối",
         "C": "chiến tranh",
-        "D": "hèn nhát"
+        "D": "thất bại"
       },
       "answer": {
         "1": "D",
@@ -2936,14 +2921,14 @@
       "questionId": "k4_c1_noi_0047",
       "question": "Hãy nối từ ở Cột A với từ đồng nghĩa tương ứng ở Cột B:",
       "columnA": {
-        "1": "chăm chỉ",
+        "1": "giữ gìn",
         "2": "dũng cảm",
         "3": "giản dị",
         "4": "gắn bó"
       },
       "columnB": {
         "A": "can đảm",
-        "B": "cần cù",
+        "B": "hủy hoại",
         "C": "mộc mạc",
         "D": "keo sơn"
       },
@@ -2953,7 +2938,7 @@
         "3": "C",
         "4": "D"
       },
-      "explanation": "Nối đúng các cặp tương ứng: 1-B: chăm chỉ ~ cần cù; 2-A: dũng cảm ~ can đảm; 3-C: giản dị ~ mộc mạc; 4-D: gắn bó ~ keo sơn."
+      "explanation": "Nối đúng các cặp tương ứng: 1-B: giữ gìn ~ hủy hoại; 2-A: dũng cảm ~ can đảm; 3-C: giản dị ~ mộc mạc; 4-D: gắn bó ~ keo sơn."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -2990,7 +2975,7 @@
       "questionId": "k4_c1_noi_0049",
       "question": "Hãy nối từ ở Cột A với từ trái nghĩa tương ứng ở Cột B:",
       "columnA": {
-        "1": "thật thà",
+        "1": "thanh bình",
         "2": "khỏe mạnh",
         "3": "đoàn kết",
         "4": "khiêm tốn"
@@ -2999,7 +2984,7 @@
         "A": "chia rẽ",
         "B": "ốm yếu",
         "C": "kiêu căng",
-        "D": "gian dối"
+        "D": "loạn lạc"
       },
       "answer": {
         "1": "D",
@@ -3007,7 +2992,7 @@
         "3": "A",
         "4": "C"
       },
-      "explanation": "Nối đúng các cặp tương ứng: 1-D: thật thà ~ gian dối; 2-B: khỏe mạnh ~ ốm yếu; 3-A: đoàn kết ~ chia rẽ; 4-C: khiêm tốn ~ kiêu căng."
+      "explanation": "Nối đúng các cặp tương ứng: 1-D: thanh bình ~ loạn lạc; 2-B: khỏe mạnh ~ ốm yếu; 3-A: đoàn kết ~ chia rẽ; 4-C: khiêm tốn ~ kiêu căng."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -3480,7 +3465,7 @@
       "level": "CAP_1_VONG_LOAI",
       "type": "DT",
       "questionId": "k4_c1_dt_0004",
-      "question": "Điền quan hệ từ thích hợp vào chỗ trống trong câu sau: \"Hà (...) học giỏi mà bạn ấy còn hát rất hay.\"",
+      "question": "Điền quan hệ từ thích hợp vào chỗ trống trong câu sau: \"Hà (...) học giỏi mà còn hát rất hay.\"",
       "blankAnswer": "Không những",
       "answer": "Không những",
       "explanation": "Câu văn sử dụng cặp quan hệ từ 'Không những... mà còn...' biểu thị quan hệ Tăng tiến."
@@ -6846,13 +6831,13 @@
       "questionId": "k4_c1_tn_0169",
       "question": "Từ nào đồng nghĩa với 'quê hương'?",
       "options": {
-        "A": "đất nước",
+        "A": "quê nhà",
         "B": "xa lạ",
         "C": "ồn ào",
         "D": "thấp"
       },
       "answer": "A",
-      "explanation": "'quê hương' và 'đất nước' có nghĩa gần giống nhau."
+      "explanation": "'quê nhà' và 'đất nước' có nghĩa gần giống nhau."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -7308,9 +7293,9 @@
       "level": "CAP_1_VONG_LOAI",
       "type": "DT",
       "questionId": "k4_c1_dt_0059",
-      "question": "Điền tính từ thích hợp: 'Bầu trời sau cơn mưa trở nên (...)'.",
-      "blankAnswer": "ấm áp",
-      "answer": "ấm áp",
+      "question": "Điền tính từ thích hợp: 'Thời tiết trở nên (...) áp khi mùa xuân về'.",
+      "blankAnswer": "ấm",
+      "answer": "ấm",
       "explanation": "'ấm áp' là tính từ chỉ đặc điểm; chọn từ phù hợp với câu."
     },
     {
@@ -7588,7 +7573,7 @@
         "A": "gian nan",
         "B": "gìn giữ",
         "C": "hớn hở",
-        "D": "đất nước"
+        "D": "quê nhà"
       },
       "answer": {
         "1": "C",
@@ -7596,7 +7581,7 @@
         "3": "D",
         "4": "A"
       },
-      "explanation": "Các cặp nối đúng: 1-C: vui vẻ – hớn hở; 2-B: bảo vệ – gìn giữ; 3-D: quê hương – đất nước; 4-A: khó khăn – gian nan."
+      "explanation": "Các cặp nối đúng: 1-C: vui vẻ – hớn hở; 2-B: bảo vệ – gìn giữ; 3-D: quê hương – quê nhà; 4-A: khó khăn – gian nan."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -11862,10 +11847,10 @@
         "A": "mau",
         "B": "hiền hậu",
         "C": "thanh bình",
-        "D": "ồn ào"
+        "D": "bất an"
       },
       "answer": "D",
-      "explanation": "“ồn ào” là từ trái nghĩa với “bình yên”.",
+      "explanation": "“bất an” là từ trái nghĩa với “bình yên”.",
       "questionId": "k4_c1_tn_0430"
     },
     {
@@ -12609,7 +12594,7 @@
       "grade": "KHOI_4",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Câu “Mặt trời quả cầu lửa.” sử dụng biện pháp tu từ nào?",
+      "question": "Câu “Mặt trời như quả cầu lửa từ từ lặn xuống phía chân trời.” sử dụng biện pháp tu từ nào?",
       "options": {
         "A": "so sánh",
         "B": "nhân hóa",
@@ -12620,22 +12605,7 @@
       "explanation": "Câu văn sử dụng biện pháp so sánh.",
       "questionId": "k4_c1_tn_0477"
     },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "TN",
-      "question": "Biện pháp tu từ được dùng trong câu “Mặt trời quả cầu lửa.” là gì?",
-      "options": {
-        "A": "so sánh",
-        "B": "nhân hóa",
-        "C": "điệp từ",
-        "D": "nói quá"
-      },
-      "answer": "A",
-      "explanation": "Câu văn sử dụng biện pháp so sánh.",
-      "questionId": "k4_c1_tn_0478"
-    },
+    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_4",
@@ -12673,7 +12643,7 @@
       "grade": "KHOI_4",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Câu “Dòng sông dải lụa mềm.” sử dụng biện pháp tu từ nào?",
+      "question": "Câu “Dòng sông như dải lụa mềm uốn quanh sườn núi.” sử dụng biện pháp tu từ nào?",
       "options": {
         "A": "so sánh",
         "B": "nhân hóa",
@@ -12684,22 +12654,7 @@
       "explanation": "Câu văn sử dụng biện pháp so sánh.",
       "questionId": "k4_c1_tn_0481"
     },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "TN",
-      "question": "Biện pháp tu từ được dùng trong câu “Dòng sông dải lụa mềm.” là gì?",
-      "options": {
-        "A": "so sánh",
-        "B": "nhân hóa",
-        "C": "điệp từ",
-        "D": "nói quá"
-      },
-      "answer": "A",
-      "explanation": "Câu văn sử dụng biện pháp so sánh.",
-      "questionId": "k4_c1_tn_0482"
-    },
+    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_4",
@@ -12753,7 +12708,7 @@
       "grade": "KHOI_4",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
-      "question": "Biện pháp tu từ được dùng trong câu “Tiếng suối đàn nhạc.” là gì?",
+      "question": "Biện pháp tu từ được dùng trong câu “Tiếng suối như tiếng đàn âm vang khắp muôn nơi.” là gì?",
       "options": {
         "A": "so sánh",
         "B": "nhân hóa",
@@ -15898,7 +15853,7 @@
       "grade": "KHOI_4",
       "level": "CAP_1_VONG_LOAI",
       "type": "DT",
-      "question": "Điền từ đồng nghĩa với “bình yên” vào chỗ trống: Bạn nhỏ rất (...).",
+      "question": "Điền từ đồng nghĩa với “bình yên” vào chỗ trống: Làng quê rất (...).",
       "blankAnswer": "thanh bình",
       "answer": "thanh bình",
       "explanation": "“thanh bình” có nghĩa gần với “bình yên”.",
@@ -15909,7 +15864,7 @@
       "grade": "KHOI_4",
       "level": "CAP_1_VONG_LOAI",
       "type": "DT",
-      "question": "Điền từ đồng nghĩa với “bao la” vào chỗ trống: Bạn nhỏ rất (...).",
+      "question": "Điền từ đồng nghĩa với “bao la” vào chỗ trống: Cánh đồng lúa (...).",
       "blankAnswer": "mênh mông",
       "answer": "mênh mông",
       "explanation": "“mênh mông” có nghĩa gần với “bao la”.",
@@ -15920,31 +15875,21 @@
       "grade": "KHOI_4",
       "level": "CAP_1_VONG_LOAI",
       "type": "DT",
-      "question": "Điền từ đồng nghĩa với “thông minh” vào chỗ trống: Bạn nhỏ rất (...).",
-      "blankAnswer": "sáng dạ",
-      "answer": "sáng dạ",
+      "question": "Điền từ đồng nghĩa với “thông minh” vào chỗ trống: Bạn nhỏ rất sáng (...).",
+      "blankAnswer": "dạ",
+      "answer": "dạ",
       "explanation": "“sáng dạ” có nghĩa gần với “thông minh”.",
       "questionId": "k4_c1_dt_0093"
     },
+    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_4",
       "level": "CAP_1_VONG_LOAI",
       "type": "DT",
-      "question": "Điền từ đồng nghĩa với “khiêm tốn” vào chỗ trống: Bạn nhỏ rất (...).",
-      "blankAnswer": "nhún nhường",
-      "answer": "nhún nhường",
-      "explanation": "“nhún nhường” có nghĩa gần với “khiêm tốn”.",
-      "questionId": "k4_c1_dt_0094"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "DT",
-      "question": "Điền từ đồng nghĩa với “đoàn kết” vào chỗ trống: Bạn nhỏ rất (...).",
-      "blankAnswer": "gắn bó",
-      "answer": "gắn bó",
+      "question": "Điền từ đồng nghĩa với “đoàn kết” vào chỗ trống: Bạn học sinh lớp 1A rất gắn (...) với nhau.",
+      "blankAnswer": "bó",
+      "answer": "bó",
       "explanation": "“gắn bó” có nghĩa gần với “đoàn kết”.",
       "questionId": "k4_c1_dt_0095"
     },
@@ -16128,12 +16073,12 @@
       "elements": [
         "Bạn Lan",
         "luôn giúp",
-        "tiến bộ trong học tập.",
+        "học tập.",
         "đỡ bạn",
-        "bè cùng"
+        "trong"
       ],
-      "answer": "Bạn Lan luôn giúp đỡ bạn bè cùng tiến bộ trong học tập.",
-      "explanation": "Câu hoàn chỉnh đúng trật tự ngữ pháp: “Bạn Lan luôn giúp đỡ bạn bè cùng tiến bộ trong học tập.”.",
+      "answer": "Bạn Lan luôn giúp đỡ bạn bè trong học tập.",
+      "explanation": "Câu hoàn chỉnh đúng trật tự ngữ pháp: “Bạn Lan luôn giúp đỡ bạn bè trong học tập.”.",
       "questionId": "k4_c1_sx_0043"
     },
     {
@@ -16401,11 +16346,11 @@
         "Những bông",
         "hương thơm",
         "hoa hồng",
-        "dịu dàng trong vườn sớm.",
+        "trong nắng sớm.",
         "tỏa ngát"
       ],
-      "answer": "Những bông hoa hồng tỏa ngát hương thơm dịu dàng trong vườn sớm.",
-      "explanation": "Câu hoàn chỉnh đúng trật tự ngữ pháp: “Những bông hoa hồng tỏa ngát hương thơm dịu dàng trong vườn sớm.”.",
+      "answer": "Những bông hoa hồng tỏa ngát hương thơm trong nắng sớm.",
+      "explanation": "Câu hoàn chỉnh đúng trật tự ngữ pháp: “Những bông hoa hồng tỏa ngát hương thơm trong nắng sớm.”.",
       "questionId": "k4_c1_sx_0059"
     },
     {
@@ -16653,14 +16598,13 @@
       "type": "SX",
       "question": "Hãy sắp xếp các từ/cụm từ sau thành một câu văn hoàn chỉnh, đúng ngữ pháp:",
       "elements": [
-        "vặc chiếu",
-        "sáng cả",
-        "con đường làng.",
-        "rằm sáng vằng",
-        "Đêm trăng"
+        
+        "trên con đường làng.",
+        "sáng vằng vặc",
+        "Ánh trăng rằm"
       ],
-      "answer": "Đêm trăng rằm sáng vằng vặc chiếu sáng cả con đường làng.",
-      "explanation": "Câu hoàn chỉnh đúng trật tự ngữ pháp: “Đêm trăng rằm sáng vằng vặc chiếu sáng cả con đường làng.”.",
+      "answer": "Ánh trăng rằm sáng vằng vặc trên con đường làng.",
+      "explanation": "Câu hoàn chỉnh đúng trật tự ngữ pháp: “Ánh trăng rằm sáng vằng vặc trên con đường làng”.",
       "questionId": "k4_c1_sx_0074"
     },
     {
@@ -16756,13 +16700,13 @@
       "question": "Hãy sắp xếp các từ/cụm từ sau thành một câu văn hoàn chỉnh, đúng ngữ pháp:",
       "elements": [
         "lại niềm",
-        "vui cho những người xung quanh.",
+        "mọi người.",
         "chia mang",
         "Lòng nhân",
         "ái sẻ"
       ],
-      "answer": "Lòng nhân ái sẻ chia mang lại niềm vui cho những người xung quanh.",
-      "explanation": "Câu hoàn chỉnh đúng trật tự ngữ pháp: “Lòng nhân ái sẻ chia mang lại niềm vui cho những người xung quanh.”.",
+      "answer": "Lòng nhân ái sẻ chia mang lại niềm vui cho mọi người.",
+      "explanation": "Câu hoàn chỉnh đúng trật tự ngữ pháp: “Lòng nhân ái sẻ chia mang lại niềm vui cho mọi người.”.",
       "questionId": "k4_c1_sx_0080"
     },
     {
@@ -16935,23 +16879,7 @@
       "explanation": "Câu hoàn chỉnh đúng trật tự ngữ pháp: “Những người lính cứu hỏa dũng cảm xông pha dập tắt đám cháy lớn.”.",
       "questionId": "k4_c1_sx_0090"
     },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "SX",
-      "question": "Hãy sắp xếp các từ/cụm từ sau thành một câu văn hoàn chỉnh, đúng ngữ pháp:",
-      "elements": [
-        "hiếu thảo với nhân dân.",
-        "ta luôn",
-        "trung với",
-        "nước và",
-        "Quân đội"
-      ],
-      "answer": "Quân đội ta luôn trung với nước và hiếu thảo với nhân dân.",
-      "explanation": "Câu hoàn chỉnh đúng trật tự ngữ pháp: “Quân đội ta luôn trung với nước và hiếu thảo với nhân dân.”.",
-      "questionId": "k4_c1_sx_0091"
-    },
+   
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_4",
@@ -17343,7 +17271,7 @@
       "words": [
         "lấp lánh",
         "xe máy",
-        "núi non",
+        "nhấp nhô",
         "nhỏ nhắn",
         "hoa sen",
         "cây bàng"
@@ -17355,12 +17283,13 @@
       "answer": {
         "G1": [
           "hoa sen",
+           "xe máy",
           "cây bàng"
         ],
         "G2": [
           "lấp lánh",
-          "xe máy",
-          "núi non",
+         
+          "nhấp nhô",
           "nhỏ nhắn"
         ]
       },
@@ -17376,7 +17305,7 @@
       "words": [
         "rì rào",
         "cá chép",
-        "núi non",
+        "bát ngát",
         "lung linh",
         "cha mẹ",
         "cây bàng"
@@ -17388,12 +17317,13 @@
       "answer": {
         "G1": [
           "cha mẹ",
+           "cá chép",
           "cây bàng"
+
         ],
         "G2": [
           "rì rào",
-          "cá chép",
-          "núi non",
+         "bát ngát",
           "lung linh"
         ]
       },
@@ -17412,6 +17342,7 @@
         "sách vở",
         "lao xao",
         "hoa sen",
+        "nhịp nhàng",
         "cá rô"
       ],
       "groups": {
@@ -17421,12 +17352,14 @@
       "answer": {
         "G1": [
           "hoa sen",
+          "xe máy",
+          "sách vở",
           "cá rô"
+
         ],
         "G2": [
           "lấp lánh",
-          "xe máy",
-          "sách vở",
+           "nhịp nhàng",        
           "lao xao"
         ]
       },
@@ -17454,12 +17387,13 @@
       "answer": {
         "G1": [
           "máy bay",
-          "cây bàng"
+          "cây bàng",
+          "bút chì",
+          "sách vở"
         ],
         "G2": [
           "lấp lánh",
-          "bút chì",
-          "sách vở",
+          
           "lung linh"
         ]
       },
@@ -17487,12 +17421,14 @@
       "answer": {
         "G1": [
           "bàn ghế",
+          "hoa hồng",
+          "quần áo",
           "cây bàng"
+
         ],
         "G2": [
           "lấp lánh",
-          "hoa hồng",
-          "quần áo",
+          
           "long lanh"
         ]
       },
@@ -17507,7 +17443,7 @@
       "question": "Phân loại các từ sau thành từ ghép và từ láy:",
       "words": [
         "bâng khuâng",
-        "bút chì",
+        "nhanh nhẹn",
         "bàn ghế",
         "long lanh",
         "cha mẹ",
@@ -17525,7 +17461,7 @@
         ],
         "G2": [
           "bâng khuâng",
-          "bút chì",
+          "nhanh nhẹn",
           "long lanh"
         ]
       },
@@ -17554,11 +17490,11 @@
         "G1": [
           "bàn ghế",
           "cha mẹ",
+          "xe máy",
           "cây bàng"
         ],
         "G2": [
           "rì rào",
-          "xe máy",
           "long lanh"
         ]
       },
@@ -17586,12 +17522,14 @@
       "answer": {
         "G1": [
           "máy bay",
+          "sách vở",
+           "cá chép",
           "cây bàng"
         ],
         "G2": [
           "xinh xắn",
-          "cá chép",
-          "sách vở",
+         
+          
           "nhỏ nhắn"
         ]
       },
@@ -17643,6 +17581,7 @@
         "bàn ghế",
         "long lanh",
         "hoa sen",
+        "róc rách",
         "bút máy"
       ],
       "groups": {
@@ -17653,11 +17592,12 @@
         "G1": [
           "bàn ghế",
           "hoa sen",
+          "bút chì",
           "bút máy"
         ],
         "G2": [
           "xinh xắn",
-          "bút chì",
+          "róc rách",
           "long lanh"
         ]
       },
@@ -17676,7 +17616,8 @@
         "bàn ghế",
         "long lanh",
         "hoa sen",
-        "cá rô"
+        "cá rô",
+        "rì rào"
       ],
       "groups": {
         "G1": "Từ ghép",
@@ -17686,11 +17627,13 @@
         "G1": [
           "bàn ghế",
           "hoa sen",
+           "xe máy",
           "cá rô"
+          
         ],
         "G2": [
           "lấp lánh",
-          "xe máy",
+           "rì rào",
           "long lanh"
         ]
       },
@@ -17706,7 +17649,7 @@
       "words": [
         "xinh xắn",
         "hoa hồng",
-        "núi non",
+        "tí tách",
         "lao xao",
         "hoa sen",
         "cá rô"
@@ -17718,18 +17661,19 @@
       "answer": {
         "G1": [
           "hoa sen",
+           "hoa hồng",
           "cá rô"
         ],
         "G2": [
           "xinh xắn",
-          "hoa hồng",
-          "núi non",
+         "tí tách",
           "lao xao"
         ]
       },
       "explanation": "Từ ghép gồm các tiếng có quan hệ về nghĩa; từ láy có sự phối hợp lặp âm hoặc vần.",
       "questionId": "k4_c1_chon_0068"
     },
+    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_4",
@@ -17737,109 +17681,10 @@
       "type": "CHON",
       "question": "Phân loại các từ sau thành từ ghép và từ láy:",
       "words": [
-        "xinh xắn",
-        "hoa hồng",
-        "sách vở",
-        "nhỏ nhắn",
-        "bàn ghế",
-        "cá rô"
-      ],
-      "groups": {
-        "G1": "Từ ghép",
-        "G2": "Từ láy"
-      },
-      "answer": {
-        "G1": [
-          "bàn ghế",
-          "cá rô"
-        ],
-        "G2": [
-          "xinh xắn",
-          "hoa hồng",
-          "sách vở",
-          "nhỏ nhắn"
-        ]
-      },
-      "explanation": "Từ ghép gồm các tiếng có quan hệ về nghĩa; từ láy có sự phối hợp lặp âm hoặc vần.",
-      "questionId": "k4_c1_chon_0069"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "CHON",
-      "question": "Phân loại các từ sau thành từ ghép và từ láy:",
-      "words": [
-        "rì rào",
-        "hoa hồng",
-        "sách vở",
-        "nhỏ nhắn",
-        "hoa sen",
-        "cây bàng"
-      ],
-      "groups": {
-        "G1": "Từ ghép",
-        "G2": "Từ láy"
-      },
-      "answer": {
-        "G1": [
-          "hoa sen",
-          "cây bàng"
-        ],
-        "G2": [
-          "rì rào",
-          "hoa hồng",
-          "sách vở",
-          "nhỏ nhắn"
-        ]
-      },
-      "explanation": "Từ ghép gồm các tiếng có quan hệ về nghĩa; từ láy có sự phối hợp lặp âm hoặc vần.",
-      "questionId": "k4_c1_chon_0070"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "CHON",
-      "question": "Phân loại các từ sau thành từ ghép và từ láy:",
-      "words": [
-        "rì rào",
-        "bút chì",
+        "mênh mông",
+        "sạch sẽ",
         "quần áo",
-        "nhỏ nhắn",
-        "cha mẹ",
-        "cá rô"
-      ],
-      "groups": {
-        "G1": "Từ ghép",
-        "G2": "Từ láy"
-      },
-      "answer": {
-        "G1": [
-          "cha mẹ",
-          "cá rô"
-        ],
-        "G2": [
-          "rì rào",
-          "bút chì",
-          "quần áo",
-          "nhỏ nhắn"
-        ]
-      },
-      "explanation": "Từ ghép gồm các tiếng có quan hệ về nghĩa; từ láy có sự phối hợp lặp âm hoặc vần.",
-      "questionId": "k4_c1_chon_0071"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "CHON",
-      "question": "Phân loại các từ sau thành từ ghép và từ láy:",
-      "words": [
-        "bâng khuâng",
-        "bút chì",
-        "quần áo",
-        "lung linh",
+        "mộc mạc",
         "máy bay",
         "xe đạp"
       ],
@@ -17850,13 +17695,14 @@
       "answer": {
         "G1": [
           "máy bay",
+          "quần áo",
           "xe đạp"
         ],
         "G2": [
-          "bâng khuâng",
-          "bút chì",
-          "quần áo",
-          "lung linh"
+          "mênh mông",
+         "sạch sẽ",
+          
+          "mộc mạc"
         ]
       },
       "explanation": "Từ ghép gồm các tiếng có quan hệ về nghĩa; từ láy có sự phối hợp lặp âm hoặc vần.",
@@ -17870,11 +17716,11 @@
       "question": "Phân loại các từ sau thành từ ghép và từ láy:",
       "words": [
         "bâng khuâng",
-        "xe máy",
-        "sách vở",
+        "dịu dàng",
+        "bàn ghế",
         "lung linh",
         "cha mẹ",
-        "cây bàng"
+        "cây cam"
       ],
       "groups": {
         "G1": "Từ ghép",
@@ -17883,18 +17729,19 @@
       "answer": {
         "G1": [
           "cha mẹ",
-          "cây bàng"
+          "bàn ghế",
+          "cây cam"
         ],
         "G2": [
           "bâng khuâng",
-          "xe máy",
-          "sách vở",
+          "dịu dàng",
           "lung linh"
         ]
       },
       "explanation": "Từ ghép gồm các tiếng có quan hệ về nghĩa; từ láy có sự phối hợp lặp âm hoặc vần.",
       "questionId": "k4_c1_chon_0073"
     },
+    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_4",
@@ -17903,44 +17750,11 @@
       "question": "Phân loại các từ sau thành từ ghép và từ láy:",
       "words": [
         "rì rào",
-        "hoa hồng",
-        "sách vở",
-        "lao xao",
-        "bàn ghế",
-        "bút máy"
-      ],
-      "groups": {
-        "G1": "Từ ghép",
-        "G2": "Từ láy"
-      },
-      "answer": {
-        "G1": [
-          "bàn ghế",
-          "bút máy"
-        ],
-        "G2": [
-          "rì rào",
-          "hoa hồng",
-          "sách vở",
-          "lao xao"
-        ]
-      },
-      "explanation": "Từ ghép gồm các tiếng có quan hệ về nghĩa; từ láy có sự phối hợp lặp âm hoặc vần.",
-      "questionId": "k4_c1_chon_0074"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "CHON",
-      "question": "Phân loại các từ sau thành từ ghép và từ láy:",
-      "words": [
-        "rì rào",
-        "bút chì",
-        "núi non",
+        "hòn đá",
+        "bẽn lẽn",
         "lung linh",
         "máy bay",
-        "xe đạp"
+        "xe thồ"
       ],
       "groups": {
         "G1": "Từ ghép",
@@ -17949,12 +17763,13 @@
       "answer": {
         "G1": [
           "máy bay",
-          "xe đạp"
+          "hòn đá",
+          "xe thồ"
         ],
         "G2": [
           "rì rào",
-          "bút chì",
-          "núi non",
+          
+         "bẽn lẽn",
           "lung linh"
         ]
       },
@@ -17968,9 +17783,9 @@
       "type": "CHON",
       "question": "Phân loại các từ sau thành từ ghép và từ láy:",
       "words": [
-        "lấp lánh",
-        "hoa hồng",
-        "quần áo",
+        "man mác",
+        "hoa cúc",
+        "thon thả",
         "lao xao",
         "hoa sen",
         "cây bàng"
@@ -17982,12 +17797,12 @@
       "answer": {
         "G1": [
           "hoa sen",
+          "hoa cúc",
           "cây bàng"
         ],
         "G2": [
-          "lấp lánh",
-          "hoa hồng",
-          "quần áo",
+          "man mác",
+           "thon thả",
           "lao xao"
         ]
       },
@@ -18001,12 +17816,12 @@
       "type": "CHON",
       "question": "Phân loại các từ sau thành từ ghép và từ láy:",
       "words": [
-        "xinh xắn",
-        "hoa hồng",
-        "quần áo",
+        "gập ghềnh",
+        "hoa lan",
+        "vội vàng",
         "long lanh",
-        "cha mẹ",
-        "xe đạp"
+        "cậu mợ",
+        "xe tải"
       ],
       "groups": {
         "G1": "Từ ghép",
@@ -18014,13 +17829,14 @@
       },
       "answer": {
         "G1": [
-          "cha mẹ",
-          "xe đạp"
+          "cậu mợ",
+           "hoa lan",
+          "xe tải"
         ],
         "G2": [
-          "xinh xắn",
-          "hoa hồng",
-          "quần áo",
+          "gập ghềnh",
+          
+           "vội vàng",
           "long lanh"
         ]
       },
@@ -18034,12 +17850,12 @@
       "type": "CHON",
       "question": "Phân loại các từ sau thành từ ghép và từ láy:",
       "words": [
-        "lấp lánh",
-        "xe máy",
-        "sách vở",
+        "thướt tha",
+        "gọn gàng",
+        "cửa hàng",
         "nhỏ nhắn",
         "bàn ghế",
-        "cá rô"
+        "nông dân"
       ],
       "groups": {
         "G1": "Từ ghép",
@@ -18047,19 +17863,21 @@
       },
       "answer": {
         "G1": [
-          "bàn ghế",
-          "cá rô"
+          "cửa hàng",
+          "cá chép",
+          "nông dân"
         ],
         "G2": [
-          "lấp lánh",
-          "xe máy",
-          "sách vở",
+          "thướt tha",
+          "gọn gàng",
+          
           "nhỏ nhắn"
         ]
       },
       "explanation": "Từ ghép gồm các tiếng có quan hệ về nghĩa; từ láy có sự phối hợp lặp âm hoặc vần.",
       "questionId": "k4_c1_chon_0078"
     },
+    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_4",
@@ -18067,12 +17885,12 @@
       "type": "CHON",
       "question": "Phân loại các từ sau thành từ ghép và từ láy:",
       "words": [
-        "xinh xắn",
-        "bút chì",
-        "quần áo",
-        "nhỏ nhắn",
-        "máy bay",
-        "bút máy"
+        "ruộng vườn",
+        "ruộng đồng",
+        "lờ mờ",
+        " vững chắc",
+        "ngổn ngang",
+        "thênh thang"
       ],
       "groups": {
         "G1": "Từ ghép",
@@ -18080,80 +17898,14 @@
       },
       "answer": {
         "G1": [
-          "máy bay",
-          "bút máy"
+          "ruộng vườn",
+          "ruộng đồng",
+          " vững chắc"
         ],
         "G2": [
-          "xinh xắn",
-          "bút chì",
-          "quần áo",
-          "nhỏ nhắn"
-        ]
-      },
-      "explanation": "Từ ghép gồm các tiếng có quan hệ về nghĩa; từ láy có sự phối hợp lặp âm hoặc vần.",
-      "questionId": "k4_c1_chon_0079"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "CHON",
-      "question": "Phân loại các từ sau thành từ ghép và từ láy:",
-      "words": [
-        "xinh xắn",
-        "cá chép",
-        "bàn ghế",
-        "lung linh",
-        "máy bay",
-        "bút máy"
-      ],
-      "groups": {
-        "G1": "Từ ghép",
-        "G2": "Từ láy"
-      },
-      "answer": {
-        "G1": [
-          "bàn ghế",
-          "máy bay",
-          "bút máy"
-        ],
-        "G2": [
-          "xinh xắn",
-          "cá chép",
-          "lung linh"
-        ]
-      },
-      "explanation": "Từ ghép gồm các tiếng có quan hệ về nghĩa; từ láy có sự phối hợp lặp âm hoặc vần.",
-      "questionId": "k4_c1_chon_0080"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "CHON",
-      "question": "Phân loại các từ sau thành từ ghép và từ láy:",
-      "words": [
-        "bâng khuâng",
-        "hoa hồng",
-        "núi non",
-        "nhỏ nhắn",
-        "máy bay",
-        "bút máy"
-      ],
-      "groups": {
-        "G1": "Từ ghép",
-        "G2": "Từ láy"
-      },
-      "answer": {
-        "G1": [
-          "máy bay",
-          "bút máy"
-        ],
-        "G2": [
-          "bâng khuâng",
-          "hoa hồng",
-          "núi non",
-          "nhỏ nhắn"
+          "thênh thang",
+          "lờ mờ",
+          "ngổn ngang"     
         ]
       },
       "explanation": "Từ ghép gồm các tiếng có quan hệ về nghĩa; từ láy có sự phối hợp lặp âm hoặc vần.",
@@ -18167,11 +17919,11 @@
       "question": "Phân loại các từ sau thành từ ghép và từ láy:",
       "words": [
         "rì rào",
-        "cá chép",
-        "sách vở",
-        "lung linh",
-        "cha mẹ",
-        "cây bàng"
+        " nô nức",
+        "lim dim",
+        "nhà tranh",
+        "xanh ngắt",
+        "áo dài"
       ],
       "groups": {
         "G1": "Từ ghép",
@@ -18179,14 +17931,15 @@
       },
       "answer": {
         "G1": [
-          "cha mẹ",
-          "cây bàng"
+          "xanh ngắt",
+           "nhà tranh",
+          "áo dài"
         ],
         "G2": [
           "rì rào",
-          "cá chép",
-          "sách vở",
-          "lung linh"
+         " nô nức",
+          "lim dim"
+        
         ]
       },
       "explanation": "Từ ghép gồm các tiếng có quan hệ về nghĩa; từ láy có sự phối hợp lặp âm hoặc vần.",
@@ -18199,12 +17952,12 @@
       "type": "CHON",
       "question": "Phân loại các từ sau thành từ ghép và từ láy:",
       "words": [
-        "bâng khuâng",
-        "bút chì",
-        "quần áo",
-        "long lanh",
-        "cha mẹ",
-        "xe đạp"
+        "trắng tinh",
+        "xa xôi",
+        "nhà tầng",
+        "liêu xiêu",
+        "lững thững",
+        "dưa hấu"
       ],
       "groups": {
         "G1": "Từ ghép",
@@ -18212,14 +17965,14 @@
       },
       "answer": {
         "G1": [
-          "cha mẹ",
-          "xe đạp"
+          "trắng tinh",
+          "nhà tầng",
+          "dưa hấu"
         ],
         "G2": [
-          "bâng khuâng",
-          "bút chì",
-          "quần áo",
-          "long lanh"
+          "xa xôi",
+          "liêu xiêu",
+          "lững thững"
         ]
       },
       "explanation": "Từ ghép gồm các tiếng có quan hệ về nghĩa; từ láy có sự phối hợp lặp âm hoặc vần.",
@@ -18232,12 +17985,12 @@
       "type": "CHON",
       "question": "Phân loại các từ sau thành từ ghép và từ láy:",
       "words": [
-        "lấp lánh",
-        "cá chép",
-        "sách vở",
-        "lao xao",
-        "cha mẹ",
-        "bút máy"
+        "khe khẽ",
+        " tươi tốt ",
+        "thẳng tắp",
+        "lúng túng",
+        "mặt mũi",
+        "phơi phới"
       ],
       "groups": {
         "G1": "Từ ghép",
@@ -18245,14 +17998,14 @@
       },
       "answer": {
         "G1": [
-          "cha mẹ",
-          "bút máy"
+          " tươi tốt ",
+          "thẳng tắp",
+          "mặt mũi"
         ],
         "G2": [
-          "lấp lánh",
-          "cá chép",
-          "sách vở",
-          "lao xao"
+         "khe khẽ",
+          "lúng túng",
+          "phơi phới"
         ]
       },
       "explanation": "Từ ghép gồm các tiếng có quan hệ về nghĩa; từ láy có sự phối hợp lặp âm hoặc vần.",
@@ -18265,12 +18018,12 @@
       "type": "CHON",
       "question": "Phân loại các từ sau thành từ ghép và từ láy:",
       "words": [
-        "lấp lánh",
-        "hoa hồng",
-        "bàn ghế",
-        "nhỏ nhắn",
-        "hoa sen",
-        "cây bàng"
+        "rộn ràng",
+        "xinh đẹp",
+        "nói cười",
+        "ngổn ngang",
+        "vất vả",
+        "đoàn kết"
       ],
       "groups": {
         "G1": "Từ ghép",
@@ -18278,19 +18031,21 @@
       },
       "answer": {
         "G1": [
-          "bàn ghế",
-          "hoa sen",
-          "cây bàng"
+          "xinh đẹp",
+          "nói cười",
+          "đoàn kết"
         ],
         "G2": [
-          "lấp lánh",
-          "hoa hồng",
-          "nhỏ nhắn"
+          "rộn ràng",
+          "vất vả",
+          "ngổn ngang"
         ]
       },
       "explanation": "Từ ghép gồm các tiếng có quan hệ về nghĩa; từ láy có sự phối hợp lặp âm hoặc vần.",
       "questionId": "k4_c1_chon_0085"
     },
+   
+    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_4",
@@ -18298,12 +18053,12 @@
       "type": "CHON",
       "question": "Phân loại các từ sau thành từ ghép và từ láy:",
       "words": [
-        "rì rào",
-        "hoa hồng",
-        "quần áo",
-        "lao xao",
-        "cha mẹ",
-        "cá rô"
+        "chênh vênh,",
+        "học hành",
+        "cây đa",
+        "chới với",
+        "bánh mì",
+        "liu diu"
       ],
       "groups": {
         "G1": "Từ ghép",
@@ -18311,476 +18066,14 @@
       },
       "answer": {
         "G1": [
-          "cha mẹ",
-          "cá rô"
+         "học hành",
+          "cây đa",
+          "bánh mì"
         ],
         "G2": [
-          "rì rào",
-          "hoa hồng",
-          "quần áo",
-          "lao xao"
-        ]
-      },
-      "explanation": "Từ ghép gồm các tiếng có quan hệ về nghĩa; từ láy có sự phối hợp lặp âm hoặc vần.",
-      "questionId": "k4_c1_chon_0086"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "CHON",
-      "question": "Phân loại các từ sau thành từ ghép và từ láy:",
-      "words": [
-        "rì rào",
-        "hoa hồng",
-        "núi non",
-        "long lanh",
-        "máy bay",
-        "cá rô"
-      ],
-      "groups": {
-        "G1": "Từ ghép",
-        "G2": "Từ láy"
-      },
-      "answer": {
-        "G1": [
-          "máy bay",
-          "cá rô"
-        ],
-        "G2": [
-          "rì rào",
-          "hoa hồng",
-          "núi non",
-          "long lanh"
-        ]
-      },
-      "explanation": "Từ ghép gồm các tiếng có quan hệ về nghĩa; từ láy có sự phối hợp lặp âm hoặc vần.",
-      "questionId": "k4_c1_chon_0087"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "CHON",
-      "question": "Phân loại các từ sau thành từ ghép và từ láy:",
-      "words": [
-        "bâng khuâng",
-        "bút chì",
-        "bàn ghế",
-        "long lanh",
-        "máy bay",
-        "cá rô"
-      ],
-      "groups": {
-        "G1": "Từ ghép",
-        "G2": "Từ láy"
-      },
-      "answer": {
-        "G1": [
-          "bàn ghế",
-          "máy bay",
-          "cá rô"
-        ],
-        "G2": [
-          "bâng khuâng",
-          "bút chì",
-          "long lanh"
-        ]
-      },
-      "explanation": "Từ ghép gồm các tiếng có quan hệ về nghĩa; từ láy có sự phối hợp lặp âm hoặc vần.",
-      "questionId": "k4_c1_chon_0088"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "CHON",
-      "question": "Phân loại các từ sau thành từ ghép và từ láy:",
-      "words": [
-        "rì rào",
-        "hoa hồng",
-        "bàn ghế",
-        "long lanh",
-        "róc rách",
-        "cây bàng"
-      ],
-      "groups": {
-        "G1": "Từ ghép",
-        "G2": "Từ láy"
-      },
-      "answer": {
-        "G1": [
-          "hoa hồng",
-          "bàn ghế",
-          "cây bàng"
-        ],
-        "G2": [
-          "rì rào",
-          "long lanh",
-          "róc rách"
-        ]
-      },
-      "explanation": "Từ ghép gồm các từ: hoa hồng, bàn ghế, cây bàng; Từ láy gồm các từ: rì rào, long lanh, róc rách.",
-      "questionId": "k4_c1_chon_0089"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "CHON",
-      "question": "Phân loại các từ sau thành từ ghép và từ láy:",
-      "words": [
-        "lấp lánh",
-        "cá chép",
-        "quần áo",
-        "long lanh",
-        "cha mẹ",
-        "cá rô"
-      ],
-      "groups": {
-        "G1": "Từ ghép",
-        "G2": "Từ láy"
-      },
-      "answer": {
-        "G1": [
-          "cha mẹ",
-          "cá rô"
-        ],
-        "G2": [
-          "lấp lánh",
-          "cá chép",
-          "quần áo",
-          "long lanh"
-        ]
-      },
-      "explanation": "Từ ghép gồm các tiếng có quan hệ về nghĩa; từ láy có sự phối hợp lặp âm hoặc vần.",
-      "questionId": "k4_c1_chon_0090"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "CHON",
-      "question": "Phân loại các từ sau thành từ ghép và từ láy:",
-      "words": [
-        "lấp lánh",
-        "hoa hồng",
-        "quần áo",
-        "lao xao",
-        "cha mẹ",
-        "xe đạp"
-      ],
-      "groups": {
-        "G1": "Từ ghép",
-        "G2": "Từ láy"
-      },
-      "answer": {
-        "G1": [
-          "cha mẹ",
-          "xe đạp"
-        ],
-        "G2": [
-          "lấp lánh",
-          "hoa hồng",
-          "quần áo",
-          "lao xao"
-        ]
-      },
-      "explanation": "Từ ghép gồm các tiếng có quan hệ về nghĩa; từ láy có sự phối hợp lặp âm hoặc vần.",
-      "questionId": "k4_c1_chon_0091"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "CHON",
-      "question": "Phân loại các từ sau thành từ ghép và từ láy:",
-      "words": [
-        "lấp lánh",
-        "hoa hồng",
-        "sách vở",
-        "lung linh",
-        "hoa sen",
-        "cá rô"
-      ],
-      "groups": {
-        "G1": "Từ ghép",
-        "G2": "Từ láy"
-      },
-      "answer": {
-        "G1": [
-          "hoa sen",
-          "cá rô"
-        ],
-        "G2": [
-          "lấp lánh",
-          "hoa hồng",
-          "sách vở",
-          "lung linh"
-        ]
-      },
-      "explanation": "Từ ghép gồm các tiếng có quan hệ về nghĩa; từ láy có sự phối hợp lặp âm hoặc vần.",
-      "questionId": "k4_c1_chon_0092"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "CHON",
-      "question": "Phân loại các từ sau thành từ ghép và từ láy:",
-      "words": [
-        "lấp lánh",
-        "hoa hồng",
-        "bàn ghế",
-        "long lanh",
-        "máy bay",
-        "bút máy"
-      ],
-      "groups": {
-        "G1": "Từ ghép",
-        "G2": "Từ láy"
-      },
-      "answer": {
-        "G1": [
-          "bàn ghế",
-          "máy bay",
-          "bút máy"
-        ],
-        "G2": [
-          "lấp lánh",
-          "hoa hồng",
-          "long lanh"
-        ]
-      },
-      "explanation": "Từ ghép gồm các tiếng có quan hệ về nghĩa; từ láy có sự phối hợp lặp âm hoặc vần.",
-      "questionId": "k4_c1_chon_0093"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "CHON",
-      "question": "Phân loại các từ sau thành từ ghép và từ láy:",
-      "words": [
-        "lấp lánh",
-        "cá chép",
-        "núi non",
-        "lung linh",
-        "máy bay",
-        "cá rô"
-      ],
-      "groups": {
-        "G1": "Từ ghép",
-        "G2": "Từ láy"
-      },
-      "answer": {
-        "G1": [
-          "máy bay",
-          "cá rô"
-        ],
-        "G2": [
-          "lấp lánh",
-          "cá chép",
-          "núi non",
-          "lung linh"
-        ]
-      },
-      "explanation": "Từ ghép gồm các tiếng có quan hệ về nghĩa; từ láy có sự phối hợp lặp âm hoặc vần.",
-      "questionId": "k4_c1_chon_0094"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "CHON",
-      "question": "Phân loại các từ sau thành từ ghép và từ láy:",
-      "words": [
-        "xinh xắn",
-        "xe máy",
-        "bàn ghế",
-        "long lanh",
-        "cha mẹ",
-        "cá rô"
-      ],
-      "groups": {
-        "G1": "Từ ghép",
-        "G2": "Từ láy"
-      },
-      "answer": {
-        "G1": [
-          "bàn ghế",
-          "cha mẹ",
-          "cá rô"
-        ],
-        "G2": [
-          "xinh xắn",
-          "xe máy",
-          "long lanh"
-        ]
-      },
-      "explanation": "Từ ghép gồm các tiếng có quan hệ về nghĩa; từ láy có sự phối hợp lặp âm hoặc vần.",
-      "questionId": "k4_c1_chon_0095"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "CHON",
-      "question": "Phân loại các từ sau thành từ ghép và từ láy:",
-      "words": [
-        "xinh xắn",
-        "cá chép",
-        "quần áo",
-        "long lanh",
-        "hoa sen",
-        "cây bàng"
-      ],
-      "groups": {
-        "G1": "Từ ghép",
-        "G2": "Từ láy"
-      },
-      "answer": {
-        "G1": [
-          "hoa sen",
-          "cây bàng"
-        ],
-        "G2": [
-          "xinh xắn",
-          "cá chép",
-          "quần áo",
-          "long lanh"
-        ]
-      },
-      "explanation": "Từ ghép gồm các tiếng có quan hệ về nghĩa; từ láy có sự phối hợp lặp âm hoặc vần.",
-      "questionId": "k4_c1_chon_0096"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "CHON",
-      "question": "Phân loại các từ sau thành từ ghép và từ láy:",
-      "words": [
-        "rì rào",
-        "xe máy",
-        "núi non",
-        "long lanh",
-        "hoa sen",
-        "cá rô"
-      ],
-      "groups": {
-        "G1": "Từ ghép",
-        "G2": "Từ láy"
-      },
-      "answer": {
-        "G1": [
-          "hoa sen",
-          "cá rô"
-        ],
-        "G2": [
-          "rì rào",
-          "xe máy",
-          "núi non",
-          "long lanh"
-        ]
-      },
-      "explanation": "Từ ghép gồm các tiếng có quan hệ về nghĩa; từ láy có sự phối hợp lặp âm hoặc vần.",
-      "questionId": "k4_c1_chon_0097"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "CHON",
-      "question": "Phân loại các từ sau thành từ ghép và từ láy:",
-      "words": [
-        "bâng khuâng",
-        "hoa hồng",
-        "bàn ghế",
-        "lung linh",
-        "cha mẹ",
-        "cá rô"
-      ],
-      "groups": {
-        "G1": "Từ ghép",
-        "G2": "Từ láy"
-      },
-      "answer": {
-        "G1": [
-          "bàn ghế",
-          "cha mẹ",
-          "cá rô"
-        ],
-        "G2": [
-          "bâng khuâng",
-          "hoa hồng",
-          "lung linh"
-        ]
-      },
-      "explanation": "Từ ghép gồm các tiếng có quan hệ về nghĩa; từ láy có sự phối hợp lặp âm hoặc vần.",
-      "questionId": "k4_c1_chon_0098"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "CHON",
-      "question": "Phân loại các từ sau thành từ ghép và từ láy:",
-      "words": [
-        "bâng khuâng",
-        "cá chép",
-        "sách vở",
-        "long lanh",
-        "cha mẹ",
-        "xe đạp"
-      ],
-      "groups": {
-        "G1": "Từ ghép",
-        "G2": "Từ láy"
-      },
-      "answer": {
-        "G1": [
-          "cha mẹ",
-          "xe đạp"
-        ],
-        "G2": [
-          "bâng khuâng",
-          "cá chép",
-          "sách vở",
-          "long lanh"
-        ]
-      },
-      "explanation": "Từ ghép gồm các tiếng có quan hệ về nghĩa; từ láy có sự phối hợp lặp âm hoặc vần.",
-      "questionId": "k4_c1_chon_0099"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "CHON",
-      "question": "Phân loại các từ sau thành từ ghép và từ láy:",
-      "words": [
-        "bâng khuâng",
-        "xe máy",
-        "bàn ghế",
-        "lao xao",
-        "cha mẹ",
-        "cá rô"
-      ],
-      "groups": {
-        "G1": "Từ ghép",
-        "G2": "Từ láy"
-      },
-      "answer": {
-        "G1": [
-          "bàn ghế",
-          "cha mẹ",
-          "cá rô"
-        ],
-        "G2": [
-          "bâng khuâng",
-          "xe máy",
-          "lao xao"
+          "chênh vênh,",
+          "chới với",
+          "liu diu"
         ]
       },
       "explanation": "Từ ghép gồm các tiếng có quan hệ về nghĩa; từ láy có sự phối hợp lặp âm hoặc vần.",
@@ -21347,11 +20640,11 @@
         "mưa rào,",
         "cây cối",
         "trong vườn",
-        "như được tắm mát xanh tươi.",
+        "như được tắm mát và trở nên xanh tươi.",
         "Sau cơn"
       ],
-      "answer": "Sau cơn mưa rào, cây cối trong vườn như được tắm mát xanh tươi.",
-      "explanation": "Câu hoàn chỉnh đúng trật tự ngữ pháp: “Sau cơn mưa rào, cây cối trong vườn như được tắm mát xanh tươi.”.",
+      "answer": "Sau cơn mưa rào, cây cối trong vườn như được tắm mát và trở nên xanh tươi.",
+      "explanation": "Câu hoàn chỉnh đúng trật tự ngữ pháp: “Sau cơn mưa rào, cây cối trong vườn như được tắm mát và trở nên xanh tươi.”.",
       "questionId": "k4_c1_sx_0100"
     },
     {
@@ -21371,23 +20664,7 @@
       "explanation": "Câu hoàn chỉnh đúng trật tự ngữ pháp: “Trước cổng trường học, các phụ huynh kiên nhẫn đứng đợi đón con.”.",
       "questionId": "k4_c1_sx_0101"
     },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "SX",
-      "question": "Hãy sắp xếp các từ/cụm từ sau thành một câu văn hoàn chỉnh, đúng ngữ pháp:",
-      "elements": [
-        "Trong giờ ra",
-        "trò chơi bổ",
-        "tấp nập bao",
-        "ích và vui tươi.",
-        "chơi, sân trường"
-      ],
-      "answer": "Trong giờ ra chơi, sân trường tấp nập bao trò chơi bổ ích và vui tươi.",
-      "explanation": "Câu hoàn chỉnh đúng trật tự ngữ pháp: “Trong giờ ra chơi, sân trường tấp nập bao trò chơi bổ ích và vui tươi.”.",
-      "questionId": "k4_c1_sx_0102"
-    },
+ 
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_4",
@@ -21618,12 +20895,12 @@
       "elements": [
         "ấm áp",
         "mang theo",
-        "lộc biếc đâm chồi nảy lộc.",
+        "và lộc biếc.",
         "Mùa xuân",
-        "chồi non"
+        "những chồi non"
       ],
-      "answer": "Mùa xuân ấm áp mang theo chồi non lộc biếc đâm chồi nảy lộc.",
-      "explanation": "Câu hoàn chỉnh đúng trật tự ngữ pháp: “Mùa xuân ấm áp mang theo chồi non lộc biếc đâm chồi nảy lộc.”.",
+      "answer": "Mùa xuân ấm áp mang theo những chồi non và lộc biếc.",
+      "explanation": "Câu hoàn chỉnh đúng trật tự ngữ pháp: “Mùa xuân ấm áp mang theo những chồi non và lộc biếc.”.",
       "questionId": "k4_c1_sx_0116"
     },
     {
@@ -21862,20 +21139,18 @@
       "columnA": {
         "1": "đoàn kết",
         "2": "chăm chỉ",
-        "3": "nhanh nhẹn",
-        "4": "dũng cảm"
+        "3": "dũng cảm"
       },
       "columnB": {
         "A": "can đảm",
         "B": "siêng năng",
-        "C": "thoăn thoắt",
-        "D": "gắn bó"
+        "C": "gắn bó"
       },
       "answer": {
         "1": "D",
         "2": "B",
-        "3": "C",
-        "4": "A"
+        "3": "A"
+       
       },
       "explanation": "Các cặp từ có nghĩa gần giống nhau.",
       "questionId": "k4_c1_noi_0085"
@@ -22004,7 +21279,7 @@
         "A": "hiền hậu",
         "B": "siêng năng",
         "C": "thoăn thoắt",
-        "D": "can đảm"
+        "D": "anh dũng"
       },
       "answer": {
         "1": "A",
@@ -22024,12 +21299,12 @@
       "columnA": {
         "1": "nhân hậu",
         "2": "rực rỡ",
-        "3": "nhanh nhẹn",
+        "3": "thơm lừng",
         "4": "bình yên"
       },
       "columnB": {
         "A": "tươi sáng",
-        "B": "thoăn thoắt",
+        "B": "thơm ngát",
         "C": "thanh bình",
         "D": "hiền hậu"
       },
@@ -22051,12 +21326,12 @@
       "columnA": {
         "1": "khiêm tốn",
         "2": "trung thực",
-        "3": "đoàn kết",
+        "3": "bao la",
         "4": "bình yên"
       },
       "columnB": {
         "A": "thanh bình",
-        "B": "gắn bó",
+        "B": "bát ngát",
         "C": "nhún nhường",
         "D": "thật thà"
       },
@@ -22076,13 +21351,13 @@
       "type": "NOI",
       "question": "Nối mỗi từ ở Cột A với từ đồng nghĩa ở Cột B:",
       "columnA": {
-        "1": "chăm chỉ",
+        "1": "yên bình",
         "2": "thông minh",
         "3": "khiêm tốn",
         "4": "đoàn kết"
       },
       "columnB": {
-        "A": "siêng năng",
+        "A": "thanh bình",
         "B": "nhún nhường",
         "C": "gắn bó",
         "D": "sáng dạ"
@@ -22105,13 +21380,13 @@
       "columnA": {
         "1": "trung thực",
         "2": "dũng cảm",
-        "3": "đoàn kết",
+        "3": "bao la",
         "4": "thông minh"
       },
       "columnB": {
         "A": "sáng dạ",
         "B": "thật thà",
-        "C": "gắn bó",
+        "C": "mênh mông",
         "D": "can đảm"
       },
       "answer": {
@@ -22131,12 +21406,12 @@
       "question": "Nối mỗi từ ở Cột A với từ đồng nghĩa ở Cột B:",
       "columnA": {
         "1": "chăm chỉ",
-        "2": "nhanh nhẹn",
+        "2": "hốt hoảng",
         "3": "đoàn kết",
         "4": "thông minh"
       },
       "columnB": {
-        "A": "thoăn thoắt",
+        "A": "hoang mang",
         "B": "gắn bó",
         "C": "sáng dạ",
         "D": "siêng năng"
@@ -22159,13 +21434,13 @@
       "columnA": {
         "1": "bình yên",
         "2": "nhân hậu",
-        "3": "nhanh nhẹn",
+        "3": "căm ghét",
         "4": "dũng cảm"
       },
       "columnB": {
         "A": "thanh bình",
         "B": "hiền hậu",
-        "C": "thoăn thoắt",
+        "C": "thù hận",
         "D": "can đảm"
       },
       "answer": {
@@ -22185,7 +21460,7 @@
       "question": "Nối mỗi từ ở Cột A với từ đồng nghĩa ở Cột B:",
       "columnA": {
         "1": "nhân hậu",
-        "2": "đoàn kết",
+        "2": "kiêu căng",
         "3": "chăm chỉ",
         "4": "rực rỡ"
       },
@@ -22193,7 +21468,7 @@
         "A": "tươi sáng",
         "B": "hiền hậu",
         "C": "siêng năng",
-        "D": "gắn bó"
+        "D": "kiêu ngạo"
       },
       "answer": {
         "1": "B",
@@ -22211,14 +21486,14 @@
       "type": "NOI",
       "question": "Nối mỗi từ ở Cột A với từ đồng nghĩa ở Cột B:",
       "columnA": {
-        "1": "khiêm tốn",
+        "1": "dối trá",
         "2": "bao la",
         "3": "chăm chỉ",
         "4": "dũng cảm"
       },
       "columnB": {
         "A": "siêng năng",
-        "B": "nhún nhường",
+        "B": "gian dối",
         "C": "mênh mông",
         "D": "can đảm"
       },
@@ -22241,10 +21516,10 @@
         "1": "chăm chỉ",
         "2": "rực rỡ",
         "3": "bình yên",
-        "4": "đoàn kết"
+        "4": "mâu thuẫn"
       },
       "columnB": {
-        "A": "gắn bó",
+        "A": "xung đột",
         "B": "tươi sáng",
         "C": "siêng năng",
         "D": "thanh bình"
@@ -22268,11 +21543,11 @@
         "1": "khiêm tốn",
         "2": "chăm chỉ",
         "3": "bao la",
-        "4": "đoàn kết"
+        "4": "nhát gan"
       },
       "columnB": {
         "A": "mênh mông",
-        "B": "gắn bó",
+        "B": "nhút nhát",
         "C": "siêng năng",
         "D": "nhún nhường"
       },
@@ -22292,14 +21567,14 @@
       "type": "NOI",
       "question": "Nối mỗi từ ở Cột A với từ đồng nghĩa ở Cột B:",
       "columnA": {
-        "1": "nhân hậu",
+        "1": "thênh thang",
         "2": "bình yên",
         "3": "dũng cảm",
         "4": "đoàn kết"
       },
       "columnB": {
         "A": "thanh bình",
-        "B": "hiền hậu",
+        "B": "rộng lớn",
         "C": "can đảm",
         "D": "gắn bó"
       },
@@ -22322,12 +21597,12 @@
         "1": "đoàn kết",
         "2": "bình yên",
         "3": "bao la",
-        "4": "nhanh nhẹn"
+        "4": "cần cù"
       },
       "columnB": {
         "A": "thanh bình",
         "B": "gắn bó",
-        "C": "thoăn thoắt",
+        "C": "chịu khó",
         "D": "mênh mông"
       },
       "answer": {
@@ -22354,7 +21629,7 @@
       "columnB": {
         "A": "mênh mông",
         "B": "nhún nhường",
-        "C": "can đảm",
+        "C": "quả cảm",
         "D": "thật thà"
       },
       "answer": {
@@ -22374,13 +21649,13 @@
       "question": "Nối mỗi từ ở Cột A với từ đồng nghĩa ở Cột B:",
       "columnA": {
         "1": "thông minh",
-        "2": "bình yên",
+        "2": "cũ kĩ",
         "3": "bao la",
         "4": "khiêm tốn"
       },
       "columnB": {
-        "A": "thanh bình",
-        "B": "mênh mông",
+        "A": "xưa cũ",
+        "B": "bát ngát",
         "C": "sáng dạ",
         "D": "nhún nhường"
       },
@@ -22401,13 +21676,13 @@
       "question": "Nối mỗi từ ở Cột A với từ đồng nghĩa ở Cột B:",
       "columnA": {
         "1": "nhanh nhẹn",
-        "2": "chăm chỉ",
+        "2": "chia rẽ",
         "3": "đoàn kết",
         "4": "rực rỡ"
       },
       "columnB": {
         "A": "tươi sáng",
-        "B": "siêng năng",
+        "B": "tan rã",
         "C": "gắn bó",
         "D": "thoăn thoắt"
       },
@@ -22455,12 +21730,12 @@
       "question": "Nối mỗi từ ở Cột A với từ đồng nghĩa ở Cột B:",
       "columnA": {
         "1": "thông minh",
-        "2": "nhanh nhẹn",
+        "2": "kiên trì",
         "3": "bao la",
         "4": "khiêm tốn"
       },
       "columnB": {
-        "A": "thoăn thoắt",
+        "A": "nhẫn nại",
         "B": "sáng dạ",
         "C": "nhún nhường",
         "D": "mênh mông"
@@ -22482,14 +21757,14 @@
       "question": "Nối mỗi từ ở Cột A với từ đồng nghĩa ở Cột B:",
       "columnA": {
         "1": "rực rỡ",
-        "2": "đoàn kết",
+        "2": "chắt chiu",
         "3": "trung thực",
         "4": "khiêm tốn"
       },
       "columnB": {
         "A": "tươi sáng",
         "B": "thật thà",
-        "C": "gắn bó",
+        "C": "dành dụm",
         "D": "nhún nhường"
       },
       "answer": {
@@ -22508,7 +21783,7 @@
       "type": "NOI",
       "question": "Nối mỗi từ ở Cột A với từ đồng nghĩa ở Cột B:",
       "columnA": {
-        "1": "nhân hậu",
+        "1": "kĩ lưỡng",
         "2": "trung thực",
         "3": "bình yên",
         "4": "chăm chỉ"
@@ -22516,7 +21791,7 @@
       "columnB": {
         "A": "siêng năng",
         "B": "thanh bình",
-        "C": "hiền hậu",
+        "C": "chu đáo",
         "D": "thật thà"
       },
       "answer": {
@@ -22535,14 +21810,14 @@
       "type": "NOI",
       "question": "Nối mỗi từ ở Cột A với từ đồng nghĩa ở Cột B:",
       "columnA": {
-        "1": "khiêm tốn",
+        "1": "tỉ mỉ",
         "2": "nhân hậu",
         "3": "dũng cảm",
         "4": "chăm chỉ"
       },
       "columnB": {
         "A": "siêng năng",
-        "B": "nhún nhường",
+        "B": "thận trọng",
         "C": "can đảm",
         "D": "hiền hậu"
       },
@@ -22562,13 +21837,13 @@
       "type": "NOI",
       "question": "Nối mỗi từ ở Cột A với từ đồng nghĩa ở Cột B:",
       "columnA": {
-        "1": "nhân hậu",
+        "1": "độc ác",
         "2": "dũng cảm",
         "3": "thông minh",
         "4": "rực rỡ"
       },
       "columnB": {
-        "A": "hiền hậu",
+        "A": "tàn nhẫn",
         "B": "can đảm",
         "C": "tươi sáng",
         "D": "sáng dạ"
@@ -22590,13 +21865,13 @@
       "question": "Nối mỗi từ ở Cột A với từ đồng nghĩa ở Cột B:",
       "columnA": {
         "1": "bình yên",
-        "2": "nhân hậu",
+        "2": "gian xảo",
         "3": "bao la",
         "4": "đoàn kết"
       },
       "columnB": {
         "A": "thanh bình",
-        "B": "hiền hậu",
+        "B": "lừa lọc",
         "C": "mênh mông",
         "D": "gắn bó"
       },
@@ -22616,14 +21891,14 @@
       "type": "NOI",
       "question": "Nối mỗi từ ở Cột A với từ đồng nghĩa ở Cột B:",
       "columnA": {
-        "1": "bình yên",
+        "1": "cẩu thả",
         "2": "đoàn kết",
         "3": "dũng cảm",
         "4": "trung thực"
       },
       "columnB": {
         "A": "gắn bó",
-        "B": "thanh bình",
+        "B": "ẩu đoảng",
         "C": "can đảm",
         "D": "thật thà"
       },
@@ -22643,13 +21918,13 @@
       "type": "NOI",
       "question": "Nối mỗi từ ở Cột A với từ đồng nghĩa ở Cột B:",
       "columnA": {
-        "1": "chăm chỉ",
+        "1": "nản lòng",
         "2": "nhân hậu",
         "3": "đoàn kết",
         "4": "dũng cảm"
       },
       "columnB": {
-        "A": "siêng năng",
+        "A": "nản chí",
         "B": "gắn bó",
         "C": "can đảm",
         "D": "hiền hậu"
@@ -22671,7 +21946,7 @@
       "question": "Nối mỗi từ ở Cột A với từ đồng nghĩa ở Cột B:",
       "columnA": {
         "1": "thông minh",
-        "2": "đoàn kết",
+        "2": "hoang phí",
         "3": "bình yên",
         "4": "khiêm tốn"
       },
@@ -22679,7 +21954,7 @@
         "A": "sáng dạ",
         "B": "nhún nhường",
         "C": "thanh bình",
-        "D": "gắn bó"
+        "D": "lãng phí"
       },
       "answer": {
         "1": "A",
@@ -22699,12 +21974,12 @@
       "columnA": {
         "1": "chăm chỉ",
         "2": "bao la",
-        "3": "nhanh nhẹn",
+        "3": "cẩu thả",
         "4": "trung thực"
       },
       "columnB": {
         "A": "thật thà",
-        "B": "thoăn thoắt",
+        "B": "bất cẩn",
         "C": "mênh mông",
         "D": "siêng năng"
       },
@@ -22751,13 +22026,13 @@
       "type": "NOI",
       "question": "Nối mỗi từ ở Cột A với từ đồng nghĩa ở Cột B:",
       "columnA": {
-        "1": "bình yên",
+        "1": "hiền lành",
         "2": "thông minh",
         "3": "nhanh nhẹn",
         "4": "trung thực"
       },
       "columnB": {
-        "A": "thanh bình",
+        "A": "phúc hậu",
         "B": "thật thà",
         "C": "sáng dạ",
         "D": "thoăn thoắt"
@@ -22778,13 +22053,13 @@
       "type": "NOI",
       "question": "Nối mỗi từ ở Cột A với từ đồng nghĩa ở Cột B:",
       "columnA": {
-        "1": "bao la",
+        "1": "oi bức",
         "2": "thông minh",
         "3": "rực rỡ",
         "4": "chăm chỉ"
       },
       "columnB": {
-        "A": "mênh mông",
+        "A": "nóng bức",
         "B": "siêng năng",
         "C": "tươi sáng",
         "D": "sáng dạ"
@@ -22806,7 +22081,7 @@
       "question": "Nối mỗi từ ở Cột A với từ đồng nghĩa ở Cột B:",
       "columnA": {
         "1": "trung thực",
-        "2": "nhân hậu",
+        "2": "ẩm ướt",
         "3": "bao la",
         "4": "dũng cảm"
       },
@@ -22814,7 +22089,7 @@
         "A": "mênh mông",
         "B": "thật thà",
         "C": "can đảm",
-        "D": "hiền hậu"
+        "D": "ướt át"
       },
       "answer": {
         "1": "B",
@@ -22832,7 +22107,7 @@
       "type": "NOI",
       "question": "Nối mỗi từ ở Cột A với từ đồng nghĩa ở Cột B:",
       "columnA": {
-        "1": "bình yên",
+        "1": "tĩnh mịch",
         "2": "khiêm tốn",
         "3": "đoàn kết",
         "4": "dũng cảm"
@@ -22841,7 +22116,7 @@
         "A": "gắn bó",
         "B": "can đảm",
         "C": "nhún nhường",
-        "D": "thanh bình"
+        "D": "vắng lặng"
       },
       "answer": {
         "1": "D",
@@ -22859,13 +22134,13 @@
       "type": "NOI",
       "question": "Nối mỗi từ ở Cột A với từ đồng nghĩa ở Cột B:",
       "columnA": {
-        "1": "bình yên",
+        "1": "âm u",
         "2": "bao la",
         "3": "rực rỡ",
         "4": "đoàn kết"
       },
       "columnB": {
-        "A": "thanh bình",
+        "A": "tối tăm",
         "B": "tươi sáng",
         "C": "gắn bó",
         "D": "mênh mông"
@@ -22889,11 +22164,11 @@
         "1": "khiêm tốn",
         "2": "rực rỡ",
         "3": "bao la",
-        "4": "nhân hậu"
+        "4": "mỹ lệ"
       },
       "columnB": {
         "A": "nhún nhường",
-        "B": "hiền hậu",
+        "B": "kiều diễm",
         "C": "tươi sáng",
         "D": "mênh mông"
       },
@@ -22914,12 +22189,12 @@
       "question": "Nối mỗi từ ở Cột A với từ đồng nghĩa ở Cột B:",
       "columnA": {
         "1": "bình yên",
-        "2": "khiêm tốn",
+        "2": "náo nhiệt",
         "3": "rực rỡ",
         "4": "đoàn kết"
       },
       "columnB": {
-        "A": "nhún nhường",
+        "A": "huyên náo",
         "B": "gắn bó",
         "C": "thanh bình",
         "D": "tươi sáng"
@@ -22940,14 +22215,14 @@
       "type": "NOI",
       "question": "Nối mỗi từ ở Cột A với từ đồng nghĩa ở Cột B:",
       "columnA": {
-        "1": "nhanh nhẹn",
+        "1": "thênh thang",
         "2": "bao la",
         "3": "khiêm tốn",
         "4": "bình yên"
       },
       "columnB": {
         "A": "thanh bình",
-        "B": "thoăn thoắt",
+        "B": "mênh mông",
         "C": "nhún nhường",
         "D": "mênh mông"
       },
@@ -22969,13 +22244,13 @@
       "columnA": {
         "1": "nhanh nhẹn",
         "2": "dũng cảm",
-        "3": "khiêm tốn",
+        "3": "chậm chạp",
         "4": "thông minh"
       },
       "columnB": {
         "A": "thoăn thoắt",
         "B": "sáng dạ",
-        "C": "nhún nhường",
+        "C": "lề mề",
         "D": "can đảm"
       },
       "answer": {
@@ -22995,14 +22270,14 @@
       "question": "Nối mỗi từ ở Cột A với từ đồng nghĩa ở Cột B:",
       "columnA": {
         "1": "trung thực",
-        "2": "nhanh nhẹn",
+        "2": "kiến thiết",
         "3": "khiêm tốn",
         "4": "bình yên"
       },
       "columnB": {
         "A": "nhún nhường",
         "B": "thật thà",
-        "C": "thoăn thoắt",
+        "C": "xây dựng",
         "D": "thanh bình"
       },
       "answer": {
@@ -23021,14 +22296,14 @@
       "type": "NOI",
       "question": "Nối mỗi từ ở Cột A với từ đồng nghĩa ở Cột B:",
       "columnA": {
-        "1": "dũng cảm",
+        "1": "hân hoan",
         "2": "thông minh",
         "3": "bình yên",
         "4": "trung thực"
       },
       "columnB": {
         "A": "thật thà",
-        "B": "can đảm",
+        "B": "phấn khởi",
         "C": "sáng dạ",
         "D": "thanh bình"
       },
@@ -23048,14 +22323,14 @@
       "type": "NOI",
       "question": "Nối mỗi từ ở Cột A với từ đồng nghĩa ở Cột B:",
       "columnA": {
-        "1": "bao la",
+        "1": "nghèo khó",
         "2": "nhân hậu",
         "3": "dũng cảm",
         "4": "rực rỡ"
       },
       "columnB": {
         "A": "tươi sáng",
-        "B": "mênh mông",
+        "B": "nghèo nàn",
         "C": "can đảm",
         "D": "hiền hậu"
       },
@@ -23068,492 +22343,8 @@
       "explanation": "Các cặp từ có nghĩa gần giống nhau.",
       "questionId": "k4_c1_noi_0129"
     },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "NOI",
-      "question": "Nối mỗi từ ở Cột A với từ đồng nghĩa ở Cột B:",
-      "columnA": {
-        "1": "thông minh",
-        "2": "chăm chỉ",
-        "3": "khiêm tốn",
-        "4": "bình yên"
-      },
-      "columnB": {
-        "A": "sáng dạ",
-        "B": "thanh bình",
-        "C": "siêng năng",
-        "D": "nhún nhường"
-      },
-      "answer": {
-        "1": "A",
-        "2": "C",
-        "3": "D",
-        "4": "B"
-      },
-      "explanation": "Các cặp từ có nghĩa gần giống nhau.",
-      "questionId": "k4_c1_noi_0130"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "NOI",
-      "question": "Nối mỗi từ ở Cột A với từ đồng nghĩa ở Cột B:",
-      "columnA": {
-        "1": "nhanh nhẹn",
-        "2": "rực rỡ",
-        "3": "bình yên",
-        "4": "khiêm tốn"
-      },
-      "columnB": {
-        "A": "thoăn thoắt",
-        "B": "tươi sáng",
-        "C": "nhún nhường",
-        "D": "thanh bình"
-      },
-      "answer": {
-        "1": "A",
-        "2": "B",
-        "3": "D",
-        "4": "C"
-      },
-      "explanation": "Các cặp từ có nghĩa gần giống nhau.",
-      "questionId": "k4_c1_noi_0131"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "NOI",
-      "question": "Nối mỗi từ ở Cột A với từ đồng nghĩa ở Cột B:",
-      "columnA": {
-        "1": "nhân hậu",
-        "2": "nhanh nhẹn",
-        "3": "khiêm tốn",
-        "4": "bao la"
-      },
-      "columnB": {
-        "A": "thoăn thoắt",
-        "B": "mênh mông",
-        "C": "hiền hậu",
-        "D": "nhún nhường"
-      },
-      "answer": {
-        "1": "C",
-        "2": "A",
-        "3": "D",
-        "4": "B"
-      },
-      "explanation": "Các cặp từ có nghĩa gần giống nhau.",
-      "questionId": "k4_c1_noi_0132"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "NOI",
-      "question": "Nối mỗi từ ở Cột A với từ đồng nghĩa ở Cột B:",
-      "columnA": {
-        "1": "chăm chỉ",
-        "2": "đoàn kết",
-        "3": "khiêm tốn",
-        "4": "nhanh nhẹn"
-      },
-      "columnB": {
-        "A": "thoăn thoắt",
-        "B": "gắn bó",
-        "C": "siêng năng",
-        "D": "nhún nhường"
-      },
-      "answer": {
-        "1": "C",
-        "2": "B",
-        "3": "D",
-        "4": "A"
-      },
-      "explanation": "Các cặp từ có nghĩa gần giống nhau.",
-      "questionId": "k4_c1_noi_0133"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "NOI",
-      "question": "Nối mỗi từ ở Cột A với từ đồng nghĩa ở Cột B:",
-      "columnA": {
-        "1": "nhanh nhẹn",
-        "2": "bao la",
-        "3": "dũng cảm",
-        "4": "trung thực"
-      },
-      "columnB": {
-        "A": "mênh mông",
-        "B": "can đảm",
-        "C": "thoăn thoắt",
-        "D": "thật thà"
-      },
-      "answer": {
-        "1": "C",
-        "2": "A",
-        "3": "B",
-        "4": "D"
-      },
-      "explanation": "Các cặp từ có nghĩa gần giống nhau.",
-      "questionId": "k4_c1_noi_0134"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "NOI",
-      "question": "Nối mỗi từ ở Cột A với từ đồng nghĩa ở Cột B:",
-      "columnA": {
-        "1": "chăm chỉ",
-        "2": "bao la",
-        "3": "thông minh",
-        "4": "nhanh nhẹn"
-      },
-      "columnB": {
-        "A": "thoăn thoắt",
-        "B": "sáng dạ",
-        "C": "mênh mông",
-        "D": "siêng năng"
-      },
-      "answer": {
-        "1": "D",
-        "2": "C",
-        "3": "B",
-        "4": "A"
-      },
-      "explanation": "Các cặp từ có nghĩa gần giống nhau.",
-      "questionId": "k4_c1_noi_0135"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "NOI",
-      "question": "Nối mỗi từ ở Cột A với từ đồng nghĩa ở Cột B:",
-      "columnA": {
-        "1": "khiêm tốn",
-        "2": "đoàn kết",
-        "3": "trung thực",
-        "4": "dũng cảm"
-      },
-      "columnB": {
-        "A": "can đảm",
-        "B": "gắn bó",
-        "C": "nhún nhường",
-        "D": "thật thà"
-      },
-      "answer": {
-        "1": "C",
-        "2": "B",
-        "3": "D",
-        "4": "A"
-      },
-      "explanation": "Các cặp từ có nghĩa gần giống nhau.",
-      "questionId": "k4_c1_noi_0136"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "NOI",
-      "question": "Nối mỗi từ ở Cột A với từ đồng nghĩa ở Cột B:",
-      "columnA": {
-        "1": "dũng cảm",
-        "2": "chăm chỉ",
-        "3": "nhanh nhẹn",
-        "4": "khiêm tốn"
-      },
-      "columnB": {
-        "A": "nhún nhường",
-        "B": "can đảm",
-        "C": "siêng năng",
-        "D": "thoăn thoắt"
-      },
-      "answer": {
-        "1": "B",
-        "2": "C",
-        "3": "D",
-        "4": "A"
-      },
-      "explanation": "Các cặp từ có nghĩa gần giống nhau.",
-      "questionId": "k4_c1_noi_0137"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "NOI",
-      "question": "Nối mỗi từ ở Cột A với từ đồng nghĩa ở Cột B:",
-      "columnA": {
-        "1": "nhân hậu",
-        "2": "rực rỡ",
-        "3": "trung thực",
-        "4": "chăm chỉ"
-      },
-      "columnB": {
-        "A": "thật thà",
-        "B": "tươi sáng",
-        "C": "hiền hậu",
-        "D": "siêng năng"
-      },
-      "answer": {
-        "1": "C",
-        "2": "B",
-        "3": "A",
-        "4": "D"
-      },
-      "explanation": "Các cặp từ có nghĩa gần giống nhau.",
-      "questionId": "k4_c1_noi_0138"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "NOI",
-      "question": "Nối mỗi từ ở Cột A với từ đồng nghĩa ở Cột B:",
-      "columnA": {
-        "1": "thông minh",
-        "2": "bao la",
-        "3": "nhân hậu",
-        "4": "rực rỡ"
-      },
-      "columnB": {
-        "A": "hiền hậu",
-        "B": "mênh mông",
-        "C": "sáng dạ",
-        "D": "tươi sáng"
-      },
-      "answer": {
-        "1": "C",
-        "2": "B",
-        "3": "A",
-        "4": "D"
-      },
-      "explanation": "Các cặp từ có nghĩa gần giống nhau.",
-      "questionId": "k4_c1_noi_0139"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "NOI",
-      "question": "Nối mỗi từ ở Cột A với từ đồng nghĩa ở Cột B:",
-      "columnA": {
-        "1": "thông minh",
-        "2": "khiêm tốn",
-        "3": "bình yên",
-        "4": "dũng cảm"
-      },
-      "columnB": {
-        "A": "nhún nhường",
-        "B": "sáng dạ",
-        "C": "thanh bình",
-        "D": "can đảm"
-      },
-      "answer": {
-        "1": "B",
-        "2": "A",
-        "3": "C",
-        "4": "D"
-      },
-      "explanation": "Các cặp từ có nghĩa gần giống nhau.",
-      "questionId": "k4_c1_noi_0140"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "NOI",
-      "question": "Nối mỗi từ ở Cột A với từ đồng nghĩa ở Cột B:",
-      "columnA": {
-        "1": "thông minh",
-        "2": "bình yên",
-        "3": "rực rỡ",
-        "4": "nhân hậu"
-      },
-      "columnB": {
-        "A": "thanh bình",
-        "B": "sáng dạ",
-        "C": "tươi sáng",
-        "D": "hiền hậu"
-      },
-      "answer": {
-        "1": "B",
-        "2": "A",
-        "3": "C",
-        "4": "D"
-      },
-      "explanation": "Các cặp từ có nghĩa gần giống nhau.",
-      "questionId": "k4_c1_noi_0141"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "NOI",
-      "question": "Nối mỗi từ ở Cột A với từ đồng nghĩa ở Cột B:",
-      "columnA": {
-        "1": "đoàn kết",
-        "2": "khiêm tốn",
-        "3": "thông minh",
-        "4": "rực rỡ"
-      },
-      "columnB": {
-        "A": "tươi sáng",
-        "B": "sáng dạ",
-        "C": "nhún nhường",
-        "D": "gắn bó"
-      },
-      "answer": {
-        "1": "D",
-        "2": "C",
-        "3": "B",
-        "4": "A"
-      },
-      "explanation": "Các cặp từ có nghĩa gần giống nhau.",
-      "questionId": "k4_c1_noi_0142"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "NOI",
-      "question": "Nối mỗi từ ở Cột A với từ đồng nghĩa ở Cột B:",
-      "columnA": {
-        "1": "chăm chỉ",
-        "2": "nhanh nhẹn",
-        "3": "khiêm tốn",
-        "4": "trung thực"
-      },
-      "columnB": {
-        "A": "thoăn thoắt",
-        "B": "thật thà",
-        "C": "siêng năng",
-        "D": "nhún nhường"
-      },
-      "answer": {
-        "1": "C",
-        "2": "A",
-        "3": "D",
-        "4": "B"
-      },
-      "explanation": "Các cặp từ có nghĩa gần giống nhau.",
-      "questionId": "k4_c1_noi_0143"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "NOI",
-      "question": "Nối mỗi từ ở Cột A với từ đồng nghĩa ở Cột B:",
-      "columnA": {
-        "1": "trung thực",
-        "2": "đoàn kết",
-        "3": "thông minh",
-        "4": "rực rỡ"
-      },
-      "columnB": {
-        "A": "tươi sáng",
-        "B": "thật thà",
-        "C": "sáng dạ",
-        "D": "gắn bó"
-      },
-      "answer": {
-        "1": "B",
-        "2": "D",
-        "3": "C",
-        "4": "A"
-      },
-      "explanation": "Các cặp từ có nghĩa gần giống nhau.",
-      "questionId": "k4_c1_noi_0144"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "NOI",
-      "question": "Nối mỗi từ ở Cột A với từ đồng nghĩa ở Cột B:",
-      "columnA": {
-        "1": "bao la",
-        "2": "đoàn kết",
-        "3": "trung thực",
-        "4": "nhanh nhẹn"
-      },
-      "columnB": {
-        "A": "mênh mông",
-        "B": "thoăn thoắt",
-        "C": "gắn bó",
-        "D": "thật thà"
-      },
-      "answer": {
-        "1": "A",
-        "2": "C",
-        "3": "D",
-        "4": "B"
-      },
-      "explanation": "Các cặp từ có nghĩa gần giống nhau.",
-      "questionId": "k4_c1_noi_0145"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "NOI",
-      "question": "Nối mỗi từ ở Cột A với từ đồng nghĩa ở Cột B:",
-      "columnA": {
-        "1": "nhanh nhẹn",
-        "2": "thông minh",
-        "3": "bao la",
-        "4": "rực rỡ"
-      },
-      "columnB": {
-        "A": "thoăn thoắt",
-        "B": "sáng dạ",
-        "C": "tươi sáng",
-        "D": "mênh mông"
-      },
-      "answer": {
-        "1": "A",
-        "2": "B",
-        "3": "D",
-        "4": "C"
-      },
-      "explanation": "Các cặp từ có nghĩa gần giống nhau.",
-      "questionId": "k4_c1_noi_0146"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "NOI",
-      "question": "Nối mỗi từ ở Cột A với từ đồng nghĩa ở Cột B:",
-      "columnA": {
-        "1": "thông minh",
-        "2": "rực rỡ",
-        "3": "khiêm tốn",
-        "4": "nhân hậu"
-      },
-      "columnB": {
-        "A": "hiền hậu",
-        "B": "sáng dạ",
-        "C": "nhún nhường",
-        "D": "tươi sáng"
-      },
-      "answer": {
-        "1": "B",
-        "2": "D",
-        "3": "C",
-        "4": "A"
-      },
-      "explanation": "Các cặp từ có nghĩa gần giống nhau.",
-      "questionId": "k4_c1_noi_0147"
-    },
+   
+   
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_4",
@@ -24754,22 +23545,7 @@
       "answer": "C",
       "explanation": "Con 'dao' sắc bén trong nhà bếp; thêm dấu nặng thành đi 'dạo' mát."
     },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "TN",
-      "questionId": "k4_c1_tn_0906",
-      "question": "Giải câu đố chữ sau:\n\"Để nguyên thức trắng canh thâu\nBáo giờ người ngủ dậy mau tới trường\nThêm dấu nặng nặng nề vác chở\nGiúp người chở kéo hàng hóa đường xa.\nĐó là các chữ nào?\"",
-      "options": {
-        "A": "Gà - gạ",
-        "B": "Chuông - chuộng",
-        "C": "Mõ - mọ",
-        "D": "La - lạ"
-      },
-      "answer": "A",
-      "explanation": "Con 'gà' trống gáy sáng báo thức; thêm nặng thành gạ gẫm hoặc con gà thêm huyền bỏ huyền thành ga."
-    },
+    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_4",
@@ -25010,61 +23786,15 @@
       "answer": "C",
       "explanation": "Sông Hồng (còn gọi là sông Cái) là con sông lớn bồi đắp nên đồng bằng Bắc Bộ trù phú và gắn liền với nền văn minh sông Hồng."
     },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "TN",
-      "questionId": "k4_c1_tn_0922",
-      "question": "Giải câu đố địa danh sau:\n\"Vịnh biển tuyệt đẹp thuộc tỉnh Khánh Hòa ở miền Trung nước ta\nĐược bình chọn là một trong những vịnh biển đẹp nhất thế giới\nNổi tiếng với bãi cát trắng mịn, nước trong xanh và Viện Hải dương học nổi tiếng.\nĐó là vịnh nào?\"",
-      "options": {
-        "A": "Vịnh Vân Phong",
-        "B": "Vịnh Nha Trang",
-        "C": "Vịnh Cam Ranh",
-        "D": "Vịnh Xuân Đài"
-      },
-      "answer": "B",
-      "explanation": "Vịnh Nha Trang thuộc thành phố Nha Trang (tỉnh Khánh Hòa) là thắng cảnh biển nổi tiếng trong nước và quốc tế."
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "TN",
-      "questionId": "k4_c1_tn_0923",
-      "question": "Giải câu đố địa danh sau:\n\"Thành phố lớn ở vùng Tây Nguyên nước ta\nĐược mệnh danh là 'Thủ phủ cà phê của Việt Nam'\nNơi có bảo tàng cà phê thế giới và lễ hội cà phê tổ chức định kỳ rộn ràng.\nĐó là thành phố nào?\"",
-      "options": {
-        "A": "Thành phố Buôn Ma Thuột",
-        "B": "Thành phố Pleiku",
-        "C": "Thành phố Kon Tum",
-        "D": "Thành phố Gia Nghĩa"
-      },
-      "answer": "A",
-      "explanation": "Buôn Ma Thuột là thành phố tỉnh lỵ của Đắk Lắk, nổi tiếng với những cánh đồng cà phê bạt ngàn và là trung tâm kinh tế của Tây Nguyên."
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "TN",
-      "questionId": "k4_c1_tn_0924",
-      "question": "Giải câu đố địa danh sau:\n\"Thành phố biển xinh đẹp ở miền Đông Nam Bộ\nCó ngọn hải đăng cổ kính, tượng Chúa Kitô trên đỉnh Tao Phùng\nVà các bãi tắm Bãi Trước, Bãi Sau thu hút đông đảo du khách.\nĐó là thành phố nào?\"",
-      "options": {
-        "A": "Thành phố Phan Thiết",
-        "B": "Thành phố Vũng Tàu",
-        "C": "Thành phố Rạch Giá",
-        "D": "Thành phố Hà Tiên"
-      },
-      "answer": "B",
-      "explanation": "Thành phố Vũng Tàu (tỉnh Bà Rịa - Vũng Tàu) là trung tâm du lịch biển nổi tiếng của vùng Đông Nam Bộ."
-    },
+ 
+    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_4",
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
       "questionId": "k4_c1_tn_0925",
-      "question": "Giải câu đố địa danh sau:\n\"Hòn đảo lớn nhất nước ta nằm trong vịnh Thái Lan thuộc tỉnh Kiên Giang\nĐược mệnh danh là 'Đảo Ngọc' với những bãi tắm hoang sơ tuyệt đẹp và nghề làm nước mắm truyền thống.\nĐó là hòn đảo nào?\"",
+      "question": "Giải câu đố địa danh sau:\n\"Hòn đảo lớn nhất nước ta nằm trong vịnh Thái Lan thuộc tỉnh Kiên Giang cũ (hiện nay là An Giang)\nĐược mệnh danh là 'Đảo Ngọc' với những bãi tắm hoang sơ tuyệt đẹp và nghề làm nước mắm truyền thống.\nĐó là hòn đảo nào?\"",
       "options": {
         "A": "Đảo Côn Sơn",
         "B": "Đảo Phú Quốc",
@@ -25072,7 +23802,7 @@
         "D": "Đảo Hòn Tre"
       },
       "answer": "B",
-      "explanation": "Đảo Phú Quốc (thành phố đảo Phú Quốc, tỉnh Kiên Giang) là hòn đảo có diện tích lớn nhất Việt Nam."
+      "explanation": "Đảo Phú Quốc (thành phố đảo Phú Quốc, tỉnh Kiên Giang cũ, nay là An Giang) là hòn đảo có diện tích lớn nhất Việt Nam."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -25080,7 +23810,7 @@
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
       "questionId": "k4_c1_tn_0926",
-      "question": "Giải câu đố di tích sau:\n\"Khu di tích lịch sử tại huyện Hà Quảng, tỉnh Cao Bằng\nNơi Bác Hồ kính yêu đặt chân về nước trực tiếp lãnh đạo cách mạng vào đầu năm 1941\nCó dòng suối trong xanh được Bác đặt tên là suối Lê-nin.\nĐó là di tích nào?\"",
+      "question": "Giải câu đố di tích sau:\n\"Khu di tích lịch sử, mơi Bác Hồ kính yêu đặt chân về nước trực tiếp lãnh đạo cách mạng vào đầu năm 1941\nCó dòng suối trong xanh được Bác đặt tên là suối Lê-nin.\nĐó là di tích nào?\"",
       "options": {
         "A": "Tân Trào",
         "B": "Định Hóa",
@@ -25088,7 +23818,7 @@
         "D": "Hang Pác Bó"
       },
       "answer": "D",
-      "explanation": "Khu di tích Pác Bó (xã Trường Hà, huyện Hà Quảng, Cao Bằng) là nơi Bác Hồ sống và làm việc sau 30 năm bôn ba tìm đường cứu nước."
+      "explanation": "Khu di tích Pác Bó là nơi Bác Hồ sống và làm việc sau 30 năm bôn ba tìm đường cứu nước."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -25496,7 +24226,7 @@
       "level": "CAP_1_VONG_LOAI",
       "type": "TN",
       "questionId": "k4_c1_tn_0952",
-      "question": "Giải câu đố loài thú sau:\n\"Bờm cổ dày cộm oai phong\nGầm vang một tiếng rừng sâu giật mình\nMệnh danh chúa tể sơn lâm\nMuôn loài khiếp sợ nép mình nể nang.\nLà con thú nào?\"",
+      "question": "Giải câu đố loài thú sau:\n\"Bờm cổ dày cộm oai phong\nGầm vang một tiếng rừng sâu giật mình\nLà con thú nào?\"",
       "options": {
         "A": "Con gấu nâu",
         "B": "Con sư tử",
@@ -25570,22 +24300,7 @@
       "answer": "D",
       "explanation": "Con trâu gắn liền với hình ảnh làng quê Việt Nam qua câu 'Con trâu là đầu cơ nghiệp', giúp nông dân cày bừa đất đai."
     },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "TN",
-      "questionId": "k4_c1_tn_0957",
-      "question": "Giải câu đố mẹo sau:\n\"Có một cây cầu chỉ chịu được tải trọng tối đa là 5 tấn. Một chiếc xe tải chở hàng nặng đúng 5 tấn đi qua cầu. Khi xe đi tới giữa cầu, có một con muỗi bay đến đậu lên xe. Hỏi chiếc cầu có bị sập vì quá tải không? Vì sao?\"",
-      "options": {
-        "A": "Không bị sập, vì xe chạy đến giữa cầu đã tiêu hao bớt một lượng xăng nên tổng trọng lượng đã giảm",
-        "B": "Bị sập ngay lập tức vì con muỗi làm xe vượt quá tải trọng 5 tấn",
-        "C": "Bị sập vì gió thổi mạnh ở giữa cầu",
-        "D": "Cầu gãy làm đôi vì xe dừng lại"
-      },
-      "answer": "A",
-      "explanation": "Trong quá trình chạy từ đầu cầu đến giữa cầu, chiếc xe đã tiêu hao một lượng xăng nhất định, do đó tổng trọng lượng của xe lúc này đã nhẹ hơn 5 tấn nên cầu không thể sập."
-    },
+    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_4",
