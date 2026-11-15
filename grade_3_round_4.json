@@ -235,13 +235,13 @@
       "questionId": "k3_c4_tn_2010",
       "question": "Câu văn nào dưới đây có sử dụng biện pháp nghệ thuật nhân hóa?",
       "options": {
-        "A": "Cây bàng xòe rộng tán ô che mát cho chúng em vui chơi.",
+        "A": "Cây bàng xòe rộng cánh tay che mát cho chúng em vui chơi.",
         "B": "Bông hoa cúc nở rộ trong ánh nắng ban mai.",
         "C": "Học sinh háo hức tới trường trong ngày khai giảng.",
         "D": "Bầu trời mùa thu cao xanh và không một gợn mây."
       },
       "answer": "A",
-      "explanation": "Câu 'Cây bàng xòe rộng tán ô che mát cho chúng em vui chơi.' nhân hóa sự vật 'cây bàng' bằng cách gọi/tả như con người ('xòe tán ô che mát')."
+      "explanation": "Câu 'Cây bàng xòe rộng cánh tay che mát cho chúng em vui chơi.' nhân hóa sự vật 'cây bàng' bằng cách gọi/tả như con người ('xòe rộng cánh tay che mát')."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -289,7 +289,7 @@
         "D": "ciên nhẫn"
       },
       "answer": "B",
-      "explanation": "Quy tắc chính tả: Âm /k/ viết là “k” khi đứng trước e, ê, i (kệ sách, kéo co, kì lạ, kiên nhẫn). Do đó “kệ sách” viết đúng."
+      "explanation": "Quy tắc chính tả: Âm /k/ viết là “k” khi đứng trước e, ê, i. Do đó “kệ sách” viết đúng."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -412,12 +412,12 @@
       "question": "Câu văn nào dưới đây có sử dụng biện pháp nghệ thuật nhân hóa?",
       "options": {
         "A": "Bầu trời mùa thu cao xanh và không một gợn mây.",
-        "B": "Chị gió dạo chơi qua từng vòm cây kẽ lá ríu rít.",
+        "B": "Chị gió dạo chơi qua khắp cánh đồng.",
         "C": "Con suối mùa khô cạn nước chảy rất chậm.",
         "D": "Đàn gà con lông vàng óng như những cục tơ tròn."
       },
       "answer": "B",
-      "explanation": "Câu 'Chị gió dạo chơi qua từng vòm cây kẽ lá ríu rít.' nhân hóa sự vật 'gió' bằng cách gọi/tả như con người ('dạo chơi')."
+      "explanation": "Câu 'Chị gió dạo chơi qua khắp cánh đồng.' nhân hóa sự vật 'gió' bằng cách gọi/tả như con người ('dạo chơi')."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -555,13 +555,13 @@
       "questionId": "k3_c4_tn_2030",
       "question": "Câu văn nào dưới đây có sử dụng hình ảnh so sánh?",
       "options": {
-        "A": "Thầy cô là người mẹ hiền thứ hai nâng bước em khôn lớn.",
+        "A": "Thầy cô như người mẹ hiền thứ hai nâng bước em khôn lớn.",
         "B": "Chú chim sâu tíu tít trò chuyện cùng luống rau xanh.",
         "C": "Con đường làng được đổ bê tông sạch sẽ tinh tươm.",
         "D": "Buổi sáng sớm mùa đông sương mù dày đặc phủ kín mặt hồ."
       },
       "answer": "A",
-      "explanation": "Câu 'Thầy cô là người mẹ hiền thứ hai nâng bước em khôn lớn.' sử dụng từ so sánh 'là' để so sánh 'Thầy cô' với 'người mẹ hiền thứ hai'."
+      "explanation": "Câu 'Thầy cô như người mẹ hiền thứ hai nâng bước em khôn lớn.' sử dụng từ so sánh 'như' để so sánh 'Thầy cô' với 'người mẹ hiền thứ hai'."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -785,7 +785,7 @@
         "D": "gi nhớ"
       },
       "answer": "A",
-      "explanation": "Quy tắc chính tả: Viết là “gh” trước e, ê, i (ghép hình, ghềnh thác, ghi nhớ). Do đó “ghen tị” viết đúng."
+      "explanation": "Quy tắc chính tả: Viết là “gh” trước e, ê, i. Do đó “ghen tị” viết đúng."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -947,22 +947,7 @@
       "answer": "B",
       "explanation": "'Đi một ngày đàng học một sàng khôn': Càng đi nhiều nơi, trải nghiệm thực tế ta càng tích lũy được nhiều hiểu biết, trí tuệ."
     },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_3",
-      "level": "CAP_4_VONG_TINH",
-      "type": "TN",
-      "questionId": "k3_c4_tn_2055",
-      "question": "Câu tục ngữ, thành ngữ nào dưới đây thể hiện phẩm chất hoặc bài học về 'Môi trường sống'?",
-      "options": {
-        "A": "Chị ngã em nâng",
-        "B": "Gần mực thì đen gần đèn thì sáng",
-        "C": "Lá lành đùm lá rách",
-        "D": "Thuận vợ thuận chồng tát biển Đông cũng cạn"
-      },
-      "answer": "B",
-      "explanation": "'Gần mực thì đen gần đèn thì sáng': Ở gần người tốt sẽ học được điều hay, ở gần người xấu dễ bị lây thói hư tật xấu."
-    },
+    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_3",
@@ -6321,22 +6306,7 @@
       "answer": "D",
       "explanation": "Đáp án đúng là “Hoàng Liên Sơn”."
     },
-    {
-      "type": "SX",
-      "question": "Hãy sắp xếp các từ/cụm từ sau để tạo thành câu hoàn chỉnh:",
-      "elements": [
-        "Vườn nhà em",
-        "trĩu quả",
-        "ngọt bùi",
-        "thơm ngon"
-      ],
-      "answer": "Vườn nhà em trĩu quả ngọt bùi thơm ngon.",
-      "explanation": "Sắp xếp đúng ngữ pháp để tạo câu hoàn chỉnh: “Vườn nhà em trĩu quả ngọt bùi thơm ngon.”",
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_3",
-      "level": "CAP_4_VONG_TINH",
-      "questionId": "k3_c4_sx_2394"
-    },
+   
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_3",
@@ -10022,13 +9992,13 @@
       "question": "Hãy sắp xếp các từ/cụm từ sau để tạo thành một câu văn hoàn chỉnh, đúng ngữ pháp tiếng Việt:",
       "elements": [
         "Bác mặt trời",
-        "đánh thức",
-        "muôn loài",
-        "thức dậy",
-        "cỏ cây"
+        "chiếu ánh nắng",
+        "muôn nơi.",
+        "vén màn mây,",
+        "khắp"
       ],
-      "answer": "Bác mặt trời thức dậy đánh thức muôn loài cỏ cây.",
-      "explanation": "Câu hoàn chỉnh đúng trật tự ngữ pháp (Chủ ngữ - Vị ngữ): \"Bác mặt trời thức dậy đánh thức muôn loài cỏ cây.\""
+      "answer": "Bác mặt trời vén màn mây, chiếu ánh nắng khắp muôn nơi.",
+      "explanation": "Câu hoàn chỉnh đúng trật tự ngữ pháp (Chủ ngữ - Vị ngữ): \"BBác mặt trời vén màn mây, chiếu ánh nắng khắp muôn nơi.\""
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -11350,13 +11320,13 @@
       "questionId": "k3_c4_sx_2707",
       "question": "Sắp xếp các cụm từ sau thành câu hoàn chỉnh:",
       "elements": [
-        "trên bãi cỏ",
+        "trên bầu trời",
         "no gió",
         "Cánh diều",
         "bay cao"
       ],
-      "answer": "Cánh diều no gió bay cao trên bãi cỏ.",
-      "explanation": "Các cụm từ được sắp xếp thành câu hoàn chỉnh: “Cánh diều no gió bay cao trên bãi cỏ.”"
+      "answer": "Cánh diều no gió bay cao trên bầu trời.",
+      "explanation": "Các cụm từ được sắp xếp thành câu hoàn chỉnh: “Cánh diều no gió bay cao trên bầu trời.”"
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -20921,10 +20891,10 @@
         "Con gà trống",
         "đánh thức",
         "cất tiếng gáy",
-        "ban mai"
+        "mặt trời."
       ],
-      "answer": "Con gà trống cất tiếng gáy đánh thức ban mai.",
-      "explanation": "Sắp xếp theo thứ tự ngữ pháp: 'Con gà trống cất tiếng gáy đánh thức ban mai.'",
+      "answer": "Con gà trống cất tiếng gáy đánh thức mặt trời.",
+      "explanation": "Sắp xếp theo thứ tự ngữ pháp: 'Con gà trống cất tiếng gáy đánh thức mặt trời.'",
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_3",
       "level": "CAP_4_VONG_TINH",
@@ -20952,22 +20922,7 @@
       "answer": "viết",
       "explanation": "Từ cần điền bắt đầu bằng 'v' là “viết”, chỉ hoạt động phù hợp với ngữ cảnh."
     },
-    {
-      "type": "SX",
-      "question": "Hãy sắp xếp các từ/cụm từ sau để tạo thành câu hoàn chỉnh:",
-      "elements": [
-        "Bút chì",
-        "ruột đen",
-        "thân bằng gỗ",
-        "gọt nhọn"
-      ],
-      "answer": "Bút chì thân bằng gỗ ruột đen gọt nhọn.",
-      "explanation": "Sắp xếp đúng nghĩa miêu tả: 'Bút chì thân bằng gỗ ruột đen gọt nhọn.'",
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_3",
-      "level": "CAP_4_VONG_TINH",
-      "questionId": "k3_c4_sx_3124"
-    },
+    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_3",
@@ -20985,11 +20940,11 @@
       "elements": [
         "Cây bàng",
         "che mát",
-        "tán lá tròn",
+        "xòe tán lá tròn",
         "sân trường"
       ],
-      "answer": "Cây bàng tán lá tròn che mát sân trường.",
-      "explanation": "Sắp xếp đúng câu miêu tả: 'Cây bàng tán lá tròn che mát sân trường.'",
+      "answer": "Cây bàng xòe tán lá tròn che mát sân trường.",
+      "explanation": "Sắp xếp đúng câu miêu tả: 'Cây bàng xòe tán lá tròn che mát sân trường.'",
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_3",
       "level": "CAP_4_VONG_TINH",
@@ -21033,22 +20988,7 @@
       "answer": "bảo vệ",
       "explanation": "Từ cần điền bắt đầu bằng 'b' là “bảo vệ”, chỉ hoạt động phù hợp với ngữ cảnh."
     },
-    {
-      "type": "SX",
-      "question": "Hãy sắp xếp các từ/cụm từ sau để tạo thành câu hoàn chỉnh:",
-      "elements": [
-        "Đồng hồ",
-        "nhắc em",
-        "tích tắc quay",
-        "đúng giờ"
-      ],
-      "answer": "Đồng hồ tích tắc quay nhắc em đúng giờ.",
-      "explanation": "Sắp xếp chuẩn: 'Đồng hồ tích tắc quay nhắc em đúng giờ.'",
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_3",
-      "level": "CAP_4_VONG_TINH",
-      "questionId": "k3_c4_sx_3130"
-    },
+    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_3",
@@ -24765,21 +24705,6 @@
       "explanation": "Nhóm sự vật: chiếc nón, cơn mưa; nhóm hoạt động: đan len, nhảy dây; nhóm đặc điểm: đằm thắm, trong trẻo."
     },
     {
-      "type": "SX",
-      "question": "Hãy sắp xếp các từ/cụm từ sau để tạo thành câu hoàn chỉnh:",
-      "elements": [
-        "Tên của bạn",
-        "người khác",
-        "dùng nhiều hơn",
-        "chính bạn"
-      ],
-      "answer": "Tên của bạn người khác dùng nhiều hơn chính bạn.",
-      "explanation": "Sắp xếp chuẩn: 'Tên của bạn người khác dùng nhiều hơn chính bạn.'",
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_3",
-      "level": "CAP_4_VONG_TINH",
-      "questionId": "k3_c4_sx_3281"
-    },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_3",
@@ -26151,10 +26076,10 @@
         "Chuột máy tính",
         "giúp em",
         "điều khiển",
-        "màn hình"
+        "con trỏ trên màn hình"
       ],
-      "answer": "Chuột máy tính giúp em điều khiển màn hình.",
-      "explanation": "Sắp xếp chính xác: 'Chuột máy tính giúp em điều khiển màn hình.'",
+      "answer": "Chuột máy tính giúp em điều khiển con trỏ trên màn hình.",
+      "explanation": "Sắp xếp chính xác: 'Chuột máy tính giúp em điều khiển con trỏ trên màn hình.'",
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_3",
       "level": "CAP_4_VONG_TINH",
@@ -26633,9 +26558,9 @@
       "question": "Hãy sắp xếp các từ/cụm từ sau để tạo thành câu hoàn chỉnh:",
       "elements": [
         "Con đường học vấn",
-        "đầy ắp",
+        "bay cao.",
         "chắp cánh",
-        "ước mơ"
+        "cho những ước mơ"
       ],
       "answer": "Con đường học vấn chắp cánh đầy ắp ước mơ.",
       "explanation": "Sắp xếp hoàn chỉnh: 'Con đường học vấn chắp cánh đầy ắp ước mơ.'",
@@ -29401,14 +29326,14 @@
         "D": "5 sự vật"
       },
       "answer": "C",
-      "explanation": "Có 4 sự vật được nhân hóa: Mặt trời ('rúc bụi tre', 'bắt hươu đi ngủ trễ'), Hươu ('đi ngủ trễ'), Trăng ('thức suốt đêm dài', 'kể chuyện'), Sao ('nghe chuyện')."
+      "explanation": "Có 3 sự vật được nhân hóa: Mặt trời ('rúc bụi tre', 'bắt hươu đi ngủ trễ'), Trăng ('thức suốt đêm dài', 'kể chuyện'), Sao ('nghe chuyện')."
     },
     {
       "type": "DT",
-      "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu văn có hình ảnh so sánh:\n\"Mặt trời như một quả cầu lửa khổng lồ từ từ nhô lên, nhuộm hồng cả mặt (...) phẳng lặng như gương.\"",
-      "blankAnswer": "biển",
-      "answer": "biển",
-      "explanation": "Từ thích hợp điền vào chỗ trống là 'biển' (hoặc 'hồ', 'nước'): 'mặt biển phẳng lặng như gương' là hình ảnh so sánh quen thuộc trong văn miêu tả cảnh bình minh trên biển lớp 3.",
+      "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu văn có hình ảnh so sánh:\n\"Mặt trời như một quả cầu lửa khổng lồ từ từ nhô lên, nhuộm hồng cả mặt biển (....) lặng như gương.\"",
+      "blankAnswer": "phẳng",
+      "answer": "phẳng",
+      "explanation": "Từ thích hợp điền vào chỗ trống là 'phẳng': 'mặt biển phẳng lặng như gương' là hình ảnh so sánh quen thuộc trong văn miêu tả cảnh bình minh lớp 3.",
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_3",
       "level": "CAP_4_VONG_TINH",

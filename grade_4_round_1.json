@@ -383,9 +383,9 @@
       "question": "Từ nào dưới đây thuộc từ loại danh từ?",
       "options": {
         "A": "niềm tin",
-        "B": "trung thực",
-        "C": "chiến đấu",
-        "D": "bảo vệ"
+        "B": "thông minh",
+        "C": "nhanh nhẹn",
+        "D": "lề mề"
       },
       "answer": "A",
       "explanation": "'niềm tin' là một danh từ."
@@ -943,7 +943,7 @@
       "questionId": "k4_c1_tn_0059",
       "question": "Từ nào dưới đây thuộc từ loại tính từ?",
       "options": {
-        "A": "cống hiến",
+        "A": "phá hoại",
         "B": "niềm tin",
         "C": "bất khuất",
         "D": "Bác Hồ"
@@ -7172,9 +7172,9 @@
       "level": "CAP_1_VONG_LOAI",
       "type": "DT",
       "questionId": "k4_c1_dt_0042",
-      "question": "Điền từ trái nghĩa với 'chăm chỉ' vào chỗ trống.",
-      "blankAnswer": "lười biếng",
-      "answer": "lười biếng",
+      "question": "Điền từ trái nghĩa với 'chăm chỉ' vào chỗ trống lười.....",
+      "blankAnswer": "biếng",
+      "answer": "biếng",
       "explanation": "'lười biếng' trái nghĩa với 'chăm chỉ'."
     },
     {
@@ -7183,9 +7183,9 @@
       "level": "CAP_1_VONG_LOAI",
       "type": "DT",
       "questionId": "k4_c1_dt_0045",
-      "question": "Điền từ trái nghĩa với 'dũng cảm' vào chỗ trống (.... ).",
-      "blankAnswer": "nhút nhát",
-      "answer": "nhút nhát",
+      "question": "Điền từ trái nghĩa với 'dũng cảm' vào chỗ trống nhút(.... ).",
+      "blankAnswer": "nhát",
+      "answer": "nhát",
       "explanation": "'nhút nhát' trái nghĩa với 'dũng cảm'."
     },
     {
@@ -7194,9 +7194,9 @@
       "level": "CAP_1_VONG_LOAI",
       "type": "DT",
       "questionId": "k4_c1_dt_0046",
-      "question": "Điền từ đồng nghĩa với 'chăm chỉ' vào chỗ trống: Bạn Nam rất (...).",
-      "blankAnswer": "siêng năng",
-      "answer": "siêng năng",
+      "question": "Điền từ đồng nghĩa với 'chăm chỉ' vào chỗ trống: Bạn Nam rất siêng(...).",
+      "blankAnswer": "năng",
+      "answer": "năng",
       "explanation": "'siêng năng' đồng nghĩa với 'chăm chỉ'."
     },
     {
@@ -7205,9 +7205,9 @@
       "level": "CAP_1_VONG_LOAI",
       "type": "DT",
       "questionId": "k4_c1_dt_0047",
-      "question": "Điền từ trái nghĩa với 'thật thà' vào chỗ trống (.... ).",
-      "blankAnswer": "gian dối",
-      "answer": "gian dối",
+      "question": "Điền từ trái nghĩa với 'thật thà' vào chỗ trống (gi....) dối.",
+      "blankAnswer": "an",
+      "answer": "an",
       "explanation": "'gian dối' trái nghĩa với 'thật thà'."
     },
     {
@@ -7216,10 +7216,10 @@
       "level": "CAP_1_VONG_LOAI",
       "type": "DT",
       "questionId": "k4_c1_dt_0048",
-      "question": "Điền từ trái nghĩa với 'rộng' vào chỗ trống (.... ).",
-      "blankAnswer": "hẹp",
-      "answer": "hẹp",
-      "explanation": "'hẹp' trái nghĩa với 'rộng'."
+      "question": "Điền từ trái nghĩa với 'rộng rãi' vào chỗ trống (.... ) hẹp.",
+      "blankAnswer": "chật",
+      "answer": "chật",
+      "explanation": "'chật hẹp' trái nghĩa với 'rộng rãi'."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -7249,9 +7249,9 @@
       "level": "CAP_1_VONG_LOAI",
       "type": "DT",
       "questionId": "k4_c1_dt_0055",
-      "question": "Điền từ đồng nghĩa với 'vui vẻ' vào chỗ trống: Bạn Nam rất (...).",
-      "blankAnswer": "hớn hở",
-      "answer": "hớn hở",
+      "question": "Điền từ đồng nghĩa với 'vui vẻ' vào chỗ trống: Bạn Nam rất hớn(...).",
+      "blankAnswer": "hở",
+      "answer": "hở",
       "explanation": "'hớn hở' đồng nghĩa với 'vui vẻ'."
     },
     {
@@ -7315,9 +7315,9 @@
       "level": "CAP_1_VONG_LOAI",
       "type": "DT",
       "questionId": "k4_c1_dt_0061",
-      "question": "Điền động từ thích hợp vào chỗ trống: Lan thường xuyên (...) ông bà làm việc nhà.",
-      "blankAnswer": "giúp đỡ",
-      "answer": "giúp đỡ",
+      "question": "Điền động từ thích hợp vào chỗ trống: Lan thường xuyên giúp (...) ông bà làm việc nhà.",
+      "blankAnswer": "đỡ",
+      "answer": "đỡ",
       "explanation": "'giúp đỡ' là động từ phù hợp với ngữ cảnh."
     },
     {
@@ -23289,22 +23289,7 @@
       "answer": "A",
       "explanation": "Viên 'phấn' trắng viết bảng; bớt dấu sắc thành 'phân' (phân số, phân chia)."
     },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "TN",
-      "questionId": "k4_c1_tn_0890",
-      "question": "Giải câu đố chữ sau:\n\"Để nguyên tiếp thu điều hay\nSiêng năng rèn luyện tháng ngày thành tài\nThay dấu nặng bằng dấu sắc khó khăn\nCâu đố nan giải nghĩ hoài chẳng thông.\nĐó là các chữ nào?\"",
-      "options": {
-        "A": "Đọc - đóc",
-        "B": "Viết - việt",
-        "C": "Dạy - dáy",
-        "D": "Học - hóc"
-      },
-      "answer": "D",
-      "explanation": "'Học' tập chăm chỉ; thay dấu nặng bằng dấu sắc thành bài toán 'hóc' búa, nan giải."
-    },
+ 
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_4",

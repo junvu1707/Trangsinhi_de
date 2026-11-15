@@ -8517,10 +8517,10 @@
       "level": "CAP_4_VONG_TINH",
       "type": "DT",
       "questionId": "k4_c4_dt_043",
-      "question": "Điền tính từ thích hợp vào câu: “Dù gặp muôn vàn gian khổ, các chú bộ đội vẫn giữ vững tinh thần ______.”",
-      "answer": "kiên cường",
-      "blankAnswer": "kiên cường",
-      "explanation": "Từ cần điền là tính từ \"kiên cường\" miêu tả ý chí bất khuất của các chú bộ đội."
+      "question": "Điền tính từ thích hợp vào câu: “Dù gặp muôn vàn gian khổ, các chú bộ đội vẫn giữ vững tinh thần kiên c______.”",
+      "answer": "ường",
+      "blankAnswer": "ường",
+      "explanation": "Từ cần điền là từ \"ường\" để thành từ kiên cường miêu tả ý chí bất khuất của các chú bộ đội."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -8528,22 +8528,12 @@
       "level": "CAP_4_VONG_TINH",
       "type": "DT",
       "questionId": "k4_c4_dt_044",
-      "question": "Chọn động từ để hoàn chỉnh câu kể: “Các bạn nhỏ chăm chú ______ sự phát triển của mầm cây non.”",
-      "answer": "quan sát",
-      "blankAnswer": "quan sát",
-      "explanation": "Từ cần điền là động từ \"quan sát\"."
+      "question": "Chọn động từ để hoàn chỉnh câu kể: “Các bạn nhỏ chăm chú quan______ sự phát triển của mầm cây non.”",
+      "answer": "sát",
+      "blankAnswer": " sát",
+      "explanation": "Từ cần điền là từ \"sát\"."
     },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_4_VONG_TINH",
-      "type": "DT",
-      "questionId": "k4_c4_dt_045",
-      "question": "Điền danh từ phù hợp: “Đoàn tham quan dừng chân bên giá sách của ______ để đọc các tài liệu quý.”",
-      "answer": "thư viện làng",
-      "blankAnswer": "thư viện làng",
-      "explanation": "Từ cần điền là danh từ \"thư viện làng\"."
-    },
+    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_4",
@@ -8561,10 +8551,10 @@
       "level": "CAP_4_VONG_TINH",
       "type": "DT",
       "questionId": "k4_c4_dt_047",
-      "question": "Điền tính từ thích hợp vào câu: “Mái đình làng phủ đầy rêu phong mang vẻ đẹp vô cùng ______.”",
-      "answer": "cổ kính",
-      "blankAnswer": "cổ kính",
-      "explanation": "Từ cần điền là tính từ \"cổ kính\" miêu tả vẻ đẹp lâu đời, trang nghiêm."
+      "question": "Điền tính từ thích hợp vào câu: “Mái đình làng phủ đầy rêu phong mang vẻ đẹp vô cùng ______kính.”",
+      "answer": "cổ",
+      "blankAnswer": "cổ",
+      "explanation": "Từ cần điền là từ \"cổ \" miêu tả vẻ đẹp lâu đời, trang nghiêm."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -8572,10 +8562,10 @@
       "level": "CAP_4_VONG_TINH",
       "type": "DT",
       "questionId": "k4_c4_dt_048",
-      "question": "Chọn động từ để hoàn chỉnh câu kể: “Hằng ngày, Nam luôn tích cực ______ thân thể để nâng cao sức khỏe.”",
-      "answer": "rèn luyện",
-      "blankAnswer": "rèn luyện",
-      "explanation": "Từ cần điền là động từ \"rèn luyện\" thân thể."
+      "question": "Chọn động từ để hoàn chỉnh câu kể: “Hằng ngày, Nam luôn tích cực rèn______ thân thể để nâng cao sức khỏe.”",
+      "answer": "luyện",
+      "blankAnswer": "luyện",
+      "explanation": "Từ cần điền là từ \"luyện\" thân thể."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -8583,10 +8573,10 @@
       "level": "CAP_4_VONG_TINH",
       "type": "DT",
       "questionId": "k4_c4_dt_049",
-      "question": "Điền danh từ phù hợp: “Đoàn tham quan dừng chân dưới cây đa cổ thụ cạnh ______ cổ kính của làng.”",
-      "answer": "mái đình",
-      "blankAnswer": "mái đình",
-      "explanation": "Từ cần điền là danh từ \"mái đình\"."
+      "question": "Điền danh từ phù hợp: “Đoàn tham quan dừng chân dưới cây đa cổ thụ cạnh mái đ______ cổ kính của làng.”",
+      "answer": "ình",
+      "blankAnswer": "ình",
+      "explanation": "Từ cần điền là \"ình\"."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -8594,9 +8584,9 @@
       "level": "CAP_4_VONG_TINH",
       "type": "DT",
       "questionId": "k4_c4_dt_050",
-      "question": "Hoàn thiện lời đúc kết sau: “Cứu một mạng người hơn xây bảy tòa ______”",
-      "answer": "tháp",
-      "blankAnswer": "tháp",
+      "question": "Hoàn thiện lời đúc kết sau: “Cứu một mạng người hơn xây bảy tòa th______”",
+      "answer": "áp",
+      "blankAnswer": "áp",
       "explanation": "Cụm từ hoàn chỉnh là “Cứu một mạng người hơn xây bảy tòa tháp”."
     },
     {
@@ -8605,10 +8595,10 @@
       "level": "CAP_4_VONG_TINH",
       "type": "DT",
       "questionId": "k4_c4_dt_051",
-      "question": "Điền tính từ thích hợp vào câu: “Sau trận mưa, bầu không khí trở nên ______ và dễ chịu.”",
-      "answer": "trong trẻo",
-      "blankAnswer": "trong trẻo",
-      "explanation": "Từ cần điền là tính từ \"trong trẻo\" miêu tả không khí trong lành sau mưa."
+      "question": "Điền tính từ thích hợp vào câu: “Sau trận mưa, bầu không khí trở nên tr______lành và dễ chịu.”",
+      "answer": "ong",
+      "blankAnswer": "ong ",
+      "explanation": "Từ cần điền là \"ong \" miêu tả không khí trong lành sau mưa."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -8616,10 +8606,10 @@
       "level": "CAP_4_VONG_TINH",
       "type": "DT",
       "questionId": "k4_c4_dt_052",
-      "question": "Chọn động từ để hoàn chỉnh lời kể: “Các bạn nhỏ hào hứng ______ tư liệu lịch sử về di tích quê hương.”",
-      "answer": "tìm hiểu",
-      "blankAnswer": "tìm hiểu",
-      "explanation": "Từ cần điền là động từ \"tìm hiểu\"."
+      "question": "Chọn động từ để hoàn chỉnh lời kể: “Các bạn nhỏ hào hứng tìm h______ tư liệu lịch sử về di tích quê hương.”",
+      "answer": "iểu",
+      "blankAnswer": "iểu",
+      "explanation": "Từ cần điền là từ \"iểu\"."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -8627,10 +8617,10 @@
       "level": "CAP_4_VONG_TINH",
       "type": "DT",
       "questionId": "k4_c4_dt_053",
-      "question": "Điền danh từ phù hợp: “Đoàn tham quan dừng chân trên đỉnh ______ lộng gió để ngắm nhìn toàn cảnh thung lũng.”",
-      "answer": "ngọn đồi",
-      "blankAnswer": "ngọn đồi",
-      "explanation": "Từ cần điền là danh từ \"ngọn đồi\"."
+      "question": "Điền danh từ phù hợp: “Đoàn tham quan dừng chân trên đỉnh ngọn đ______ lộng gió để ngắm nhìn toàn cảnh thung lũng.”",
+      "answer": "ồi",
+      "blankAnswer": "ồi",
+      "explanation": "Từ cần điền là \"ồi\"."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -8649,10 +8639,10 @@
       "level": "CAP_4_VONG_TINH",
       "type": "DT",
       "questionId": "k4_c4_dt_055",
-      "question": "Điền tính từ thích hợp vào câu: “Bài học của thầy giáo đã để lại trong em những ấn tượng vô cùng ______.”",
-      "answer": "sâu sắc",
-      "blankAnswer": "sâu sắc",
-      "explanation": "Từ cần điền là tính từ \"sâu sắc\" chỉ ấn tượng sâu đậm, khó quên."
+      "question": "Điền tính từ thích hợp vào câu: “Bài học của thầy giáo đã để lại trong em những ấn tượng vô cùng s______sắc.”",
+      "answer": "âu",
+      "blankAnswer": "âu",
+      "explanation": "Từ cần điền là tính từ \"âu\" chỉ ấn tượng sâu đậm, khó quên."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -8660,10 +8650,10 @@
       "level": "CAP_4_VONG_TINH",
       "type": "DT",
       "questionId": "k4_c4_dt_056",
-      "question": "Chọn động từ để hoàn chỉnh câu kể: “Những làn điệu dân ca cổ truyền được các nghệ nhân ______ cho con cháu.”",
-      "answer": "truyền lại",
-      "blankAnswer": "truyền lại",
-      "explanation": "Từ cần điền là động từ \"truyền lại\"."
+      "question": "Chọn động từ để hoàn chỉnh câu kể: “Những làn điệu dân ca cổ truyền được các nghệ nhân truyền l______ cho con cháu.”",
+      "answer": "ại",
+      "blankAnswer": "ại",
+      "explanation": "Từ cần điền là từ \"ại\"."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -8671,10 +8661,10 @@
       "level": "CAP_4_VONG_TINH",
       "type": "DT",
       "questionId": "k4_c4_dt_057",
-      "question": "Điền danh từ phù hợp: “Người dẫn đoàn nhìn vào kim chỉ hướng của ______ để xác định phương vị đường đi.”",
-      "answer": "chiếc la bàn",
-      "blankAnswer": "chiếc la bàn",
-      "explanation": "Từ cần điền là danh từ \"chiếc la bàn\"."
+      "question": "Điền danh từ phù hợp: “Người dẫn đoàn nhìn vào kim chỉ hướng của chiếc la ______ để xác định phương vị đường đi.”",
+      "answer": "àn",
+      "blankAnswer": "bàn",
+      "explanation": "Từ cần điền là từ \"bàn\"."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -8682,10 +8672,10 @@
       "level": "CAP_4_VONG_TINH",
       "type": "DT",
       "questionId": "k4_c4_dt_058",
-      "question": "Điền tính từ thích hợp vào câu: “Bà Tiên trong truyện cổ tích có gương mặt hiền từ và tấm lòng vô cùng ______.”",
-      "answer": "nhân hậu",
-      "blankAnswer": "nhân hậu",
-      "explanation": "Từ cần điền là tính từ \"nhân hậu\" chỉ tấm lòng hiền từ, yêu thương con người."
+      "question": "Điền tính từ thích hợp vào câu: “Bà Tiên trong truyện cổ tích có gương mặt hiền từ và tấm lòng vô cùng ______hậu.”",
+      "answer": "nhân",
+      "blankAnswer": "nhân",
+      "explanation": "Từ cần điền là từ \"hậu\" để thành từ nhân hậu chỉ tấm lòng hiền từ, yêu thương con người."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -8693,10 +8683,10 @@
       "level": "CAP_4_VONG_TINH",
       "type": "DT",
       "questionId": "k4_c4_dt_059",
-      "question": "Chọn động từ để hoàn chỉnh câu kể: “Mỗi học sinh đều có trách nhiệm góp sức ______ quê hương giàu đẹp.”",
-      "answer": "xây dựng",
-      "blankAnswer": "xây dựng",
-      "explanation": "Từ cần điền là động từ \"xây dựng\"."
+      "question": "Chọn động từ để hoàn chỉnh câu kể: “Mỗi học sinh đều có trách nhiệm góp sức ______dựng quê hương giàu đẹp.”",
+      "answer": "xây",
+      "blankAnswer": "xây",
+      "explanation": "Từ cần điền là động từ \"xây\"."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -8704,10 +8694,10 @@
       "level": "CAP_4_VONG_TINH",
       "type": "DT",
       "questionId": "k4_c4_dt_060",
-      "question": "Điền danh từ phù hợp: “Đoàn tham quan dừng chân chiêm ngưỡng tác phẩm điêu khắc nghệ thuật trên ______ bằng đá.”",
-      "answer": "bức phù điêu",
-      "blankAnswer": "bức phù điêu",
-      "explanation": "Từ cần điền là danh từ \"bức phù điêu\"."
+      "question": "Điền danh từ phù hợp: “Đoàn tham quan dừng chân chiêm ngưỡng tác phẩm điêu khắc nghệ thuật trên bức phù ______ bằng đá.”",
+      "answer": "điêu",
+      "blankAnswer": " điêu",
+      "explanation": "Từ cần điền là từ \"điêu\" để tạo thành cụm 'bức phù điêu'."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -8814,15 +8804,15 @@
       "level": "CAP_4_VONG_TINH",
       "type": "SX",
       "questionId": "k4_c4_sx_034",
-      "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Đội học sinh vùng cao” và hoạt động “chung tay trồng”:",
+      "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh:",
       "elements": [
-        "hàng cây bản địa",
+        "hàng cây",
         "Đội học sinh vùng cao",
         "dọc con đường mới",
         "chung tay trồng"
       ],
-      "answer": "Đội học sinh vùng cao chung tay trồng hàng cây bản địa dọc con đường mới.",
-      "explanation": "Trật tự đúng tạo thành câu: “Đội học sinh vùng cao chung tay trồng hàng cây bản địa dọc con đường mới.”"
+      "answer": "Đội học sinh vùng cao chung tay trồng hàng cây dọc con đường mới.",
+      "explanation": "Trật tự đúng tạo thành câu: “Đội học sinh vùng cao chung tay trồng hàng cây dọc con đường mới.”"
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -8834,11 +8824,12 @@
       "elements": [
         "về lịch sử quê hương",
         "miệt mài sưu tầm",
-        "Mỗi dịp cuối tuần, đội học sinh vùng cao",
+        "Mỗi dịp cuối tuần,",
+        "các bạn học sinh vùng cao",
         "tư liệu quý"
       ],
-      "answer": "Mỗi dịp cuối tuần, đội học sinh vùng cao miệt mài sưu tầm tư liệu quý về lịch sử quê hương.",
-      "explanation": "Trật tự đúng tạo thành câu: “Mỗi dịp cuối tuần, đội học sinh vùng cao miệt mài sưu tầm tư liệu quý về lịch sử quê hương.”"
+      "answer": "Mỗi dịp cuối tuần, các bạn học sinh vùng cao miệt mài sưu tầm tư liệu quý về lịch sử quê hương.",
+      "explanation": "Trật tự đúng tạo thành câu: “Mỗi dịp cuối tuần, các bạn học sinh vùng cao miệt mài sưu tầm tư liệu quý về lịch sử quê hương.”"
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -8848,13 +8839,14 @@
       "questionId": "k4_c4_sx_036",
       "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Đội học sinh vùng cao” và hoạt động “kiên nhẫn hướng dẫn”:",
       "elements": [
-        "Trong mùa hè năm ấy, đội học sinh vùng cao",
+        "Trong mùa hè năm ấy,",
+        "đội sinh viên tình nguyện",
         "kiên nhẫn hướng dẫn",
         "các em nhỏ",
         "đọc sách mỗi buổi chiều"
       ],
-      "answer": "Trong mùa hè năm ấy, đội học sinh vùng cao kiên nhẫn hướng dẫn các em nhỏ đọc sách mỗi buổi chiều.",
-      "explanation": "Trật tự đúng tạo thành câu: “Trong mùa hè năm ấy, đội học sinh vùng cao kiên nhẫn hướng dẫn các em nhỏ đọc sách mỗi buổi chiều.”"
+      "answer": "Trong mùa hè năm ấy, đội sinh viên tình nguyện kiên nhẫn hướng dẫn các em nhỏ đọc sách mỗi buổi chiều.",
+      "explanation": "Trật tự đúng tạo thành câu: “Trong mùa hè năm ấy, đội sinh viên tình nguyện kiên nhẫn hướng dẫn các em nhỏ đọc sách mỗi buổi chiều.”"
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -8865,93 +8857,14 @@
       "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Đội học sinh vùng cao” và hoạt động “khẩn trương gia cố”:",
       "elements": [
         "khẩn trương gia cố",
-        "Đội học sinh vùng cao",
+        "Bộ đội",
         "trước mùa mưa bão",
         "bờ kè ven sông"
       ],
-      "answer": "Đội học sinh vùng cao khẩn trương gia cố bờ kè ven sông trước mùa mưa bão.",
-      "explanation": "Trật tự đúng tạo thành câu: “Đội học sinh vùng cao khẩn trương gia cố bờ kè ven sông trước mùa mưa bão.”"
+      "answer": "Bộ đội khẩn trương gia cố bờ kè ven sông trước mùa mưa bão.",
+      "explanation": "Trật tự đúng tạo thành câu: “Bộ đội khẩn trương gia cố bờ kè ven sông trước mùa mưa bão.”"
     },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_4_VONG_TINH",
-      "type": "SX",
-      "questionId": "k4_c4_sx_038",
-      "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Đội học sinh vùng cao” và hoạt động “hăng hái luyện tập”:",
-      "elements": [
-        "hăng hái luyện tập",
-        "cho ngày hội văn hóa",
-        "tiết mục dân ca",
-        "Mỗi dịp cuối tuần, đội học sinh vùng cao"
-      ],
-      "answer": "Mỗi dịp cuối tuần, đội học sinh vùng cao hăng hái luyện tập tiết mục dân ca cho ngày hội văn hóa.",
-      "explanation": "Trật tự đúng tạo thành câu: “Mỗi dịp cuối tuần, đội học sinh vùng cao hăng hái luyện tập tiết mục dân ca cho ngày hội văn hóa.”"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_4_VONG_TINH",
-      "type": "SX",
-      "questionId": "k4_c4_sx_039",
-      "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Đội học sinh vùng cao” và hoạt động “cẩn thận phục chế”:",
-      "elements": [
-        "Trong mùa hè năm ấy, đội học sinh vùng cao",
-        "những hiện vật cũ",
-        "trong phòng trưng bày",
-        "cẩn thận phục chế"
-      ],
-      "answer": "Trong mùa hè năm ấy, đội học sinh vùng cao cẩn thận phục chế những hiện vật cũ trong phòng trưng bày.",
-      "explanation": "Trật tự đúng tạo thành câu: “Trong mùa hè năm ấy, đội học sinh vùng cao cẩn thận phục chế những hiện vật cũ trong phòng trưng bày.”"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_4_VONG_TINH",
-      "type": "SX",
-      "questionId": "k4_c4_sx_040",
-      "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Đội học sinh vùng cao” và hoạt động “bền bỉ tuần tra”:",
-      "elements": [
-        "bền bỉ tuần tra",
-        "để ngăn chặn cháy rừng",
-        "cánh rừng đầu nguồn",
-        "Đội học sinh vùng cao"
-      ],
-      "answer": "Đội học sinh vùng cao bền bỉ tuần tra cánh rừng đầu nguồn để ngăn chặn cháy rừng.",
-      "explanation": "Trật tự đúng tạo thành câu: “Đội học sinh vùng cao bền bỉ tuần tra cánh rừng đầu nguồn để ngăn chặn cháy rừng.”"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_4_VONG_TINH",
-      "type": "SX",
-      "questionId": "k4_c4_sx_041",
-      "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Đội học sinh vùng cao” và hoạt động “ân cần giới thiệu”:",
-      "elements": [
-        "Mỗi dịp cuối tuần, đội học sinh vùng cao",
-        "với khách phương xa",
-        "ân cần giới thiệu",
-        "phong tục địa phương"
-      ],
-      "answer": "Mỗi dịp cuối tuần, đội học sinh vùng cao ân cần giới thiệu phong tục địa phương với khách phương xa.",
-      "explanation": "Trật tự đúng tạo thành câu: “Mỗi dịp cuối tuần, đội học sinh vùng cao ân cần giới thiệu phong tục địa phương với khách phương xa.”"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_4_VONG_TINH",
-      "type": "SX",
-      "questionId": "k4_c4_sx_042",
-      "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Đội học sinh vùng cao” và hoạt động “cùng nhau làm sạch”:",
-      "elements": [
-        "sau cơn bão lớn",
-        "bãi biển quê nhà",
-        "Trong mùa hè năm ấy, đội học sinh vùng cao",
-        "cùng nhau làm sạch"
-      ],
-      "answer": "Trong mùa hè năm ấy, đội học sinh vùng cao cùng nhau làm sạch bãi biển quê nhà sau cơn bão lớn.",
-      "explanation": "Trật tự đúng tạo thành câu: “Trong mùa hè năm ấy, đội học sinh vùng cao cùng nhau làm sạch bãi biển quê nhà sau cơn bão lớn.”"
-    },
+    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_4",
@@ -8960,110 +8873,15 @@
       "questionId": "k4_c4_sx_043",
       "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Đội học sinh vùng cao” và hoạt động “tích cực quyên góp”:",
       "elements": [
-        "Đội học sinh vùng cao",
+        "Các bạn học sinh",
         "cho trẻ em vùng khó",
         "tích cực quyên góp",
         "áo ấm và sách vở"
       ],
-      "answer": "Đội học sinh vùng cao tích cực quyên góp áo ấm và sách vở cho trẻ em vùng khó.",
-      "explanation": "Trật tự đúng tạo thành câu: “Đội học sinh vùng cao tích cực quyên góp áo ấm và sách vở cho trẻ em vùng khó.”"
+      "answer": "Các bạn học sinh tích cực quyên góp áo ấm và sách vở cho trẻ em vùng khó.",
+      "explanation": "Trật tự đúng tạo thành câu: “Các bạn học sinh tích cực quyên góp áo ấm và sách vở cho trẻ em vùng khó.”"
     },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_4_VONG_TINH",
-      "type": "SX",
-      "questionId": "k4_c4_sx_044",
-      "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Những người thợ làng nghề” và hoạt động “chung tay trồng”:",
-      "elements": [
-        "Mỗi dịp cuối tuần, những người thợ làng nghề",
-        "dọc con đường mới",
-        "hàng cây bản địa",
-        "chung tay trồng"
-      ],
-      "answer": "Mỗi dịp cuối tuần, những người thợ làng nghề chung tay trồng hàng cây bản địa dọc con đường mới.",
-      "explanation": "Trật tự đúng tạo thành câu: “Mỗi dịp cuối tuần, những người thợ làng nghề chung tay trồng hàng cây bản địa dọc con đường mới.”"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_4_VONG_TINH",
-      "type": "SX",
-      "questionId": "k4_c4_sx_045",
-      "question": "Những người thợ làng nghề miệt mài ghi chép lại những câu chuyện lịch sử của quê hương.",
-      "elements": [
-        "về lịch sử quê hương",
-        "tư liệu quý",
-        "miệt mài sưu tầm",
-        "Trong mùa hè năm ấy, những người thợ làng nghề"
-      ],
-      "answer": "Trong mùa hè năm ấy, những người thợ làng nghề miệt mài sưu tầm tư liệu quý về lịch sử quê hương.",
-      "explanation": "Trật tự đúng tạo thành câu: “Trong mùa hè năm ấy, những người thợ làng nghề miệt mài sưu tầm tư liệu quý về lịch sử quê hương.”"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_4_VONG_TINH",
-      "type": "SX",
-      "questionId": "k4_c4_sx_046",
-      "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Những người thợ làng nghề” và hoạt động “kiên nhẫn hướng dẫn”:",
-      "elements": [
-        "đọc sách mỗi buổi chiều",
-        "Những người thợ làng nghề",
-        "kiên nhẫn hướng dẫn",
-        "các em nhỏ"
-      ],
-      "answer": "Những người thợ làng nghề kiên nhẫn hướng dẫn các em nhỏ đọc sách mỗi buổi chiều.",
-      "explanation": "Trật tự đúng tạo thành câu: “Những người thợ làng nghề kiên nhẫn hướng dẫn các em nhỏ đọc sách mỗi buổi chiều.”"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_4_VONG_TINH",
-      "type": "SX",
-      "questionId": "k4_c4_sx_047",
-      "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Những người thợ làng nghề” và hoạt động “khẩn trương gia cố”:",
-      "elements": [
-        "trước mùa mưa bão",
-        "Mỗi dịp cuối tuần, những người thợ làng nghề",
-        "bờ kè ven sông",
-        "khẩn trương gia cố"
-      ],
-      "answer": "Mỗi dịp cuối tuần, những người thợ làng nghề khẩn trương gia cố bờ kè ven sông trước mùa mưa bão.",
-      "explanation": "Trật tự đúng tạo thành câu: “Mỗi dịp cuối tuần, những người thợ làng nghề khẩn trương gia cố bờ kè ven sông trước mùa mưa bão.”"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_4_VONG_TINH",
-      "type": "SX",
-      "questionId": "k4_c4_sx_048",
-      "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Những người thợ làng nghề” và hoạt động “hăng hái luyện tập”:",
-      "elements": [
-        "tiết mục dân ca",
-        "cho ngày hội văn hóa",
-        "Trong mùa hè năm ấy, những người thợ làng nghề",
-        "hăng hái luyện tập"
-      ],
-      "answer": "Trong mùa hè năm ấy, những người thợ làng nghề hăng hái luyện tập tiết mục dân ca cho ngày hội văn hóa.",
-      "explanation": "Trật tự đúng tạo thành câu: “Trong mùa hè năm ấy, những người thợ làng nghề hăng hái luyện tập tiết mục dân ca cho ngày hội văn hóa.”"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_4_VONG_TINH",
-      "type": "SX",
-      "questionId": "k4_c4_sx_049",
-      "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Những người thợ làng nghề” và hoạt động “cẩn thận phục chế”:",
-      "elements": [
-        "những hiện vật cũ",
-        "trong phòng trưng bày",
-        "cẩn thận phục chế",
-        "Những người thợ làng nghề"
-      ],
-      "answer": "Những người thợ làng nghề cẩn thận phục chế những hiện vật cũ trong phòng trưng bày.",
-      "explanation": "Trật tự đúng tạo thành câu: “Những người thợ làng nghề cẩn thận phục chế những hiện vật cũ trong phòng trưng bày.”"
-    },
+   
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_4",
@@ -9074,11 +8892,11 @@
       "elements": [
         "cánh rừng đầu nguồn",
         "để ngăn chặn cháy rừng",
-        "Mỗi dịp cuối tuần, những người thợ làng nghề",
-        "bền bỉ tuần tra"
+        "Mỗi dịp cuối tuần, các chú kiểm lâm",
+        "tuần tra"
       ],
-      "answer": "Mỗi dịp cuối tuần, những người thợ làng nghề bền bỉ tuần tra cánh rừng đầu nguồn để ngăn chặn cháy rừng.",
-      "explanation": "Trật tự đúng tạo thành câu: “Mỗi dịp cuối tuần, những người thợ làng nghề bền bỉ tuần tra cánh rừng đầu nguồn để ngăn chặn cháy rừng.”"
+      "answer": "Mỗi dịp cuối tuần, các chú kiểm lâm tuần tra cánh rừng đầu nguồn để ngăn chặn cháy rừng.",
+      "explanation": "Trật tự đúng tạo thành câu: “Mỗi dịp cuối tuần, các chú kiểm lâm tuần tra cánh rừng đầu nguồn để ngăn chặn cháy rừng.”"
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -9089,12 +8907,12 @@
       "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Những người thợ làng nghề” và hoạt động “ân cần giới thiệu”:",
       "elements": [
         "phong tục địa phương",
-        "ân cần giới thiệu",
-        "Trong mùa hè năm ấy, những người thợ làng nghề",
-        "với khách phương xa"
+        "giới thiệu",
+        "Trong mùa hè năm ấy, các hướng dẫn viên",
+        "với khách du lịch"
       ],
-      "answer": "Trong mùa hè năm ấy, những người thợ làng nghề ân cần giới thiệu phong tục địa phương với khách phương xa.",
-      "explanation": "Trật tự đúng tạo thành câu: “Trong mùa hè năm ấy, những người thợ làng nghề ân cần giới thiệu phong tục địa phương với khách phương xa.”"
+      "answer": "Trong mùa hè năm ấy, các hướng dẫn viên giới thiệu phong tục địa phương với khách du lịch.",
+      "explanation": "Trật tự đúng tạo thành câu: “Trong mùa hè năm ấy, các hướng dẫn viên giới thiệu phong tục địa phương với khách du lịch.”"
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -9107,91 +8925,12 @@
         "sau cơn bão lớn",
         "bãi biển quê nhà",
         "cùng nhau làm sạch",
-        "Những người thợ làng nghề"
+        "Các ngư dân"
       ],
-      "answer": "Những người thợ làng nghề cùng nhau làm sạch bãi biển quê nhà sau cơn bão lớn.",
-      "explanation": "Trật tự đúng tạo thành câu: “Những người thợ làng nghề cùng nhau làm sạch bãi biển quê nhà sau cơn bão lớn.”"
+      "answer": "Các ngư dân cùng nhau làm sạch bãi biển quê nhà sau cơn bão lớn.",
+      "explanation": "Trật tự đúng tạo thành câu: “Các ngư dân cùng nhau làm sạch bãi biển quê nhà sau cơn bão lớn.”"
     },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_4_VONG_TINH",
-      "type": "SX",
-      "questionId": "k4_c4_sx_053",
-      "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Những người thợ làng nghề” và hoạt động “tích cực quyên góp”:",
-      "elements": [
-        "tích cực quyên góp",
-        "Mỗi dịp cuối tuần, những người thợ làng nghề",
-        "cho trẻ em vùng khó",
-        "áo ấm và sách vở"
-      ],
-      "answer": "Mỗi dịp cuối tuần, những người thợ làng nghề tích cực quyên góp áo ấm và sách vở cho trẻ em vùng khó.",
-      "explanation": "Trật tự đúng tạo thành câu: “Mỗi dịp cuối tuần, những người thợ làng nghề tích cực quyên góp áo ấm và sách vở cho trẻ em vùng khó.”"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_4_VONG_TINH",
-      "type": "SX",
-      "questionId": "k4_c4_sx_054",
-      "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Đoàn viên thanh niên” và hoạt động “chung tay trồng”:",
-      "elements": [
-        "chung tay trồng",
-        "hàng cây bản địa",
-        "Trong mùa hè năm ấy, đoàn viên thanh niên",
-        "dọc con đường mới"
-      ],
-      "answer": "Trong mùa hè năm ấy, đoàn viên thanh niên chung tay trồng hàng cây bản địa dọc con đường mới.",
-      "explanation": "Trật tự đúng tạo thành câu: “Trong mùa hè năm ấy, đoàn viên thanh niên chung tay trồng hàng cây bản địa dọc con đường mới.”"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_4_VONG_TINH",
-      "type": "SX",
-      "questionId": "k4_c4_sx_055",
-      "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Đoàn viên thanh niên” và hoạt động “miệt mài sưu tầm”:",
-      "elements": [
-        "miệt mài sưu tầm",
-        "về lịch sử quê hương",
-        "tư liệu quý",
-        "Đoàn viên thanh niên"
-      ],
-      "answer": "Đoàn viên thanh niên miệt mài sưu tầm tư liệu quý về lịch sử quê hương.",
-      "explanation": "Trật tự đúng tạo thành câu: “Đoàn viên thanh niên miệt mài sưu tầm tư liệu quý về lịch sử quê hương.”"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_4_VONG_TINH",
-      "type": "SX",
-      "questionId": "k4_c4_sx_056",
-      "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Đoàn viên thanh niên” và hoạt động “kiên nhẫn hướng dẫn”:",
-      "elements": [
-        "kiên nhẫn hướng dẫn",
-        "đọc sách mỗi buổi chiều",
-        "Mỗi dịp cuối tuần, đoàn viên thanh niên",
-        "các em nhỏ"
-      ],
-      "answer": "Mỗi dịp cuối tuần, đoàn viên thanh niên kiên nhẫn hướng dẫn các em nhỏ đọc sách mỗi buổi chiều.",
-      "explanation": "Trật tự đúng tạo thành câu: “Mỗi dịp cuối tuần, đoàn viên thanh niên kiên nhẫn hướng dẫn các em nhỏ đọc sách mỗi buổi chiều.”"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_4_VONG_TINH",
-      "type": "SX",
-      "questionId": "k4_c4_sx_057",
-      "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Đoàn viên thanh niên” và hoạt động “khẩn trương gia cố”:",
-      "elements": [
-        "bờ kè ven sông",
-        "trước mùa mưa bão",
-        "khẩn trương gia cố",
-        "Trong mùa hè năm ấy, đoàn viên thanh niên"
-      ],
-      "answer": "Trong mùa hè năm ấy, đoàn viên thanh niên khẩn trương gia cố bờ kè ven sông trước mùa mưa bão.",
-      "explanation": "Trật tự đúng tạo thành câu: “Trong mùa hè năm ấy, đoàn viên thanh niên khẩn trương gia cố bờ kè ven sông trước mùa mưa bão.”"
-    },
+    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_4",
@@ -9224,1990 +8963,9 @@
       "answer": "Mỗi dịp cuối tuần, đoàn viên thanh niên cẩn thận phục chế những hiện vật cũ trong phòng trưng bày.",
       "explanation": "Trật tự đúng tạo thành câu: “Mỗi dịp cuối tuần, đoàn viên thanh niên cẩn thận phục chế những hiện vật cũ trong phòng trưng bày.”"
     },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_4_VONG_TINH",
-      "type": "SX",
-      "questionId": "k4_c4_sx_060",
-      "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Đoàn viên thanh niên” và hoạt động “bền bỉ tuần tra”:",
-      "elements": [
-        "bền bỉ tuần tra",
-        "cánh rừng đầu nguồn",
-        "để ngăn chặn cháy rừng",
-        "Trong mùa hè năm ấy, đoàn viên thanh niên"
-      ],
-      "answer": "Trong mùa hè năm ấy, đoàn viên thanh niên bền bỉ tuần tra cánh rừng đầu nguồn để ngăn chặn cháy rừng.",
-      "explanation": "Trật tự đúng tạo thành câu: “Trong mùa hè năm ấy, đoàn viên thanh niên bền bỉ tuần tra cánh rừng đầu nguồn để ngăn chặn cháy rừng.”"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_4_VONG_TINH",
-      "type": "SX",
-      "questionId": "k4_c4_sx_061",
-      "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Đoàn viên thanh niên” và hoạt động “ân cần giới thiệu”:",
-      "elements": [
-        "ân cần giới thiệu",
-        "phong tục địa phương",
-        "Đoàn viên thanh niên",
-        "với khách phương xa"
-      ],
-      "answer": "Đoàn viên thanh niên ân cần giới thiệu phong tục địa phương với khách phương xa.",
-      "explanation": "Trật tự đúng tạo thành câu: “Đoàn viên thanh niên ân cần giới thiệu phong tục địa phương với khách phương xa.”"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_4_VONG_TINH",
-      "type": "SX",
-      "questionId": "k4_c4_sx_062",
-      "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Đoàn viên thanh niên” và hoạt động “cùng nhau làm sạch”:",
-      "elements": [
-        "sau cơn bão lớn",
-        "bãi biển quê nhà",
-        "cùng nhau làm sạch",
-        "Mỗi dịp cuối tuần, đoàn viên thanh niên"
-      ],
-      "answer": "Mỗi dịp cuối tuần, đoàn viên thanh niên cùng nhau làm sạch bãi biển quê nhà sau cơn bão lớn.",
-      "explanation": "Trật tự đúng tạo thành câu: “Mỗi dịp cuối tuần, đoàn viên thanh niên cùng nhau làm sạch bãi biển quê nhà sau cơn bão lớn.”"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_4_VONG_TINH",
-      "type": "SX",
-      "questionId": "k4_c4_sx_063",
-      "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Đoàn viên thanh niên” và hoạt động “tích cực quyên góp”:",
-      "elements": [
-        "Trong mùa hè năm ấy, đoàn viên thanh niên",
-        "tích cực quyên góp",
-        "áo ấm và sách vở",
-        "cho trẻ em vùng khó"
-      ],
-      "answer": "Trong mùa hè năm ấy, đoàn viên thanh niên tích cực quyên góp áo ấm và sách vở cho trẻ em vùng khó.",
-      "explanation": "Trật tự đúng tạo thành câu: “Trong mùa hè năm ấy, đoàn viên thanh niên tích cực quyên góp áo ấm và sách vở cho trẻ em vùng khó.”"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_4_VONG_TINH",
-      "type": "SX",
-      "questionId": "k4_c4_sx_064",
-      "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Các chiến sĩ biên phòng” và hoạt động “chung tay trồng”:",
-      "elements": [
-        "dọc con đường mới",
-        "hàng cây bản địa",
-        "chung tay trồng",
-        "Các chiến sĩ biên phòng"
-      ],
-      "answer": "Các chiến sĩ biên phòng chung tay trồng hàng cây bản địa dọc con đường mới.",
-      "explanation": "Trật tự đúng tạo thành câu: “Các chiến sĩ biên phòng chung tay trồng hàng cây bản địa dọc con đường mới.”"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_4_VONG_TINH",
-      "type": "SX",
-      "questionId": "k4_c4_sx_065",
-      "question": "Các chiến sĩ biên phòng miệt mài ghi chép lại những di tích lịch sử của quê hương.",
-      "elements": [
-        "Mỗi dịp cuối tuần, các chiến sĩ biên phòng",
-        "tư liệu quý",
-        "miệt mài sưu tầm",
-        "về lịch sử quê hương"
-      ],
-      "answer": "Mỗi dịp cuối tuần, các chiến sĩ biên phòng miệt mài sưu tầm tư liệu quý về lịch sử quê hương.",
-      "explanation": "Trật tự đúng tạo thành câu: “Mỗi dịp cuối tuần, các chiến sĩ biên phòng miệt mài sưu tầm tư liệu quý về lịch sử quê hương.”"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_4_VONG_TINH",
-      "type": "SX",
-      "questionId": "k4_c4_sx_066",
-      "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Các chiến sĩ biên phòng” và hoạt động “kiên nhẫn hướng dẫn”:",
-      "elements": [
-        "các em nhỏ",
-        "kiên nhẫn hướng dẫn",
-        "đọc sách mỗi buổi chiều",
-        "Trong mùa hè năm ấy, các chiến sĩ biên phòng"
-      ],
-      "answer": "Trong mùa hè năm ấy, các chiến sĩ biên phòng kiên nhẫn hướng dẫn các em nhỏ đọc sách mỗi buổi chiều.",
-      "explanation": "Trật tự đúng tạo thành câu: “Trong mùa hè năm ấy, các chiến sĩ biên phòng kiên nhẫn hướng dẫn các em nhỏ đọc sách mỗi buổi chiều.”"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_4_VONG_TINH",
-      "type": "SX",
-      "questionId": "k4_c4_sx_067",
-      "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Các chiến sĩ biên phòng” và hoạt động “khẩn trương gia cố”:",
-      "elements": [
-        "Các chiến sĩ biên phòng",
-        "khẩn trương gia cố",
-        "bờ kè ven sông",
-        "trước mùa mưa bão"
-      ],
-      "answer": "Các chiến sĩ biên phòng khẩn trương gia cố bờ kè ven sông trước mùa mưa bão.",
-      "explanation": "Trật tự đúng tạo thành câu: “Các chiến sĩ biên phòng khẩn trương gia cố bờ kè ven sông trước mùa mưa bão.”"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_4_VONG_TINH",
-      "type": "SX",
-      "questionId": "k4_c4_sx_068",
-      "question": "Các chiến sĩ biên phòng hăng hái tập luyện các tiết mục dân ca để biểu diễn tại ngày hội văn hóa.",
-      "elements": [
-        "cho ngày hội văn hóa",
-        "tiết mục dân ca",
-        "hăng hái luyện tập",
-        "Mỗi dịp cuối tuần, các chiến sĩ biên phòng"
-      ],
-      "answer": "Mỗi dịp cuối tuần, các chiến sĩ biên phòng hăng hái luyện tập tiết mục dân ca cho ngày hội văn hóa.",
-      "explanation": "Trật tự đúng tạo thành câu: “Mỗi dịp cuối tuần, các chiến sĩ biên phòng hăng hái luyện tập tiết mục dân ca cho ngày hội văn hóa.”"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_4_VONG_TINH",
-      "type": "SX",
-      "questionId": "k4_c4_sx_069",
-      "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Các chiến sĩ biên phòng” và hoạt động “cẩn thận phục chế”:",
-      "elements": [
-        "cẩn thận phục chế",
-        "những hiện vật cũ",
-        "Trong mùa hè năm ấy, các chiến sĩ biên phòng",
-        "trong phòng trưng bày"
-      ],
-      "answer": "Trong mùa hè năm ấy, các chiến sĩ biên phòng cẩn thận phục chế những hiện vật cũ trong phòng trưng bày.",
-      "explanation": "Trật tự đúng tạo thành câu: “Trong mùa hè năm ấy, các chiến sĩ biên phòng cẩn thận phục chế những hiện vật cũ trong phòng trưng bày.”"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_4_VONG_TINH",
-      "type": "SX",
-      "questionId": "k4_c4_sx_070",
-      "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Các chiến sĩ biên phòng” và hoạt động “bền bỉ tuần tra”:",
-      "elements": [
-        "Các chiến sĩ biên phòng",
-        "để ngăn chặn cháy rừng",
-        "bền bỉ tuần tra",
-        "cánh rừng đầu nguồn"
-      ],
-      "answer": "Các chiến sĩ biên phòng bền bỉ tuần tra cánh rừng đầu nguồn để ngăn chặn cháy rừng.",
-      "explanation": "Trật tự đúng tạo thành câu: “Các chiến sĩ biên phòng bền bỉ tuần tra cánh rừng đầu nguồn để ngăn chặn cháy rừng.”"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_4_VONG_TINH",
-      "type": "SX",
-      "questionId": "k4_c4_sx_071",
-      "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Các chiến sĩ biên phòng” và hoạt động “ân cần giới thiệu”:",
-      "elements": [
-        "với khách phương xa",
-        "ân cần giới thiệu",
-        "phong tục địa phương",
-        "Mỗi dịp cuối tuần, các chiến sĩ biên phòng"
-      ],
-      "answer": "Mỗi dịp cuối tuần, các chiến sĩ biên phòng ân cần giới thiệu phong tục địa phương với khách phương xa.",
-      "explanation": "Trật tự đúng tạo thành câu: “Mỗi dịp cuối tuần, các chiến sĩ biên phòng ân cần giới thiệu phong tục địa phương với khách phương xa.”"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_4_VONG_TINH",
-      "type": "SX",
-      "questionId": "k4_c4_sx_072",
-      "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Các chiến sĩ biên phòng” và hoạt động “cùng nhau làm sạch”:",
-      "elements": [
-        "cùng nhau làm sạch",
-        "Trong mùa hè năm ấy, các chiến sĩ biên phòng",
-        "sau cơn bão lớn",
-        "bãi biển quê nhà"
-      ],
-      "answer": "Trong mùa hè năm ấy, các chiến sĩ biên phòng cùng nhau làm sạch bãi biển quê nhà sau cơn bão lớn.",
-      "explanation": "Trật tự đúng tạo thành câu: “Trong mùa hè năm ấy, các chiến sĩ biên phòng cùng nhau làm sạch bãi biển quê nhà sau cơn bão lớn.”"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_4_VONG_TINH",
-      "type": "SX",
-      "questionId": "k4_c4_sx_073",
-      "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Các chiến sĩ biên phòng” và hoạt động “tích cực quyên góp”:",
-      "elements": [
-        "tích cực quyên góp",
-        "cho trẻ em vùng khó",
-        "Các chiến sĩ biên phòng",
-        "áo ấm và sách vở"
-      ],
-      "answer": "Các chiến sĩ biên phòng tích cực quyên góp áo ấm và sách vở cho trẻ em vùng khó.",
-      "explanation": "Trật tự đúng tạo thành câu: “Các chiến sĩ biên phòng tích cực quyên góp áo ấm và sách vở cho trẻ em vùng khó.”"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_4_VONG_TINH",
-      "type": "SX",
-      "questionId": "k4_c4_sx_074",
-      "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Nhóm nghiên cứu trẻ” và hoạt động “chung tay trồng”:",
-      "elements": [
-        "Mỗi dịp cuối tuần, nhóm nghiên cứu trẻ",
-        "hàng cây bản địa",
-        "chung tay trồng",
-        "dọc con đường mới"
-      ],
-      "answer": "Mỗi dịp cuối tuần, nhóm nghiên cứu trẻ chung tay trồng hàng cây bản địa dọc con đường mới.",
-      "explanation": "Trật tự đúng tạo thành câu: “Mỗi dịp cuối tuần, nhóm nghiên cứu trẻ chung tay trồng hàng cây bản địa dọc con đường mới.”"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_4_VONG_TINH",
-      "type": "SX",
-      "questionId": "k4_c4_sx_075",
-      "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Nhóm nghiên cứu trẻ” và hoạt động “miệt mài sưu tầm”:",
-      "elements": [
-        "miệt mài sưu tầm",
-        "Trong mùa hè năm ấy, nhóm nghiên cứu trẻ",
-        "tư liệu quý",
-        "về lịch sử quê hương"
-      ],
-      "answer": "Trong mùa hè năm ấy, nhóm nghiên cứu trẻ miệt mài sưu tầm tư liệu quý về lịch sử quê hương.",
-      "explanation": "Trật tự đúng tạo thành câu: “Trong mùa hè năm ấy, nhóm nghiên cứu trẻ miệt mài sưu tầm tư liệu quý về lịch sử quê hương.”"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_4_VONG_TINH",
-      "type": "SX",
-      "questionId": "k4_c4_sx_076",
-      "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Nhóm nghiên cứu trẻ” và hoạt động “kiên nhẫn hướng dẫn”:",
-      "elements": [
-        "đọc sách mỗi buổi chiều",
-        "kiên nhẫn hướng dẫn",
-        "các em nhỏ",
-        "Nhóm nghiên cứu trẻ"
-      ],
-      "answer": "Nhóm nghiên cứu trẻ kiên nhẫn hướng dẫn các em nhỏ đọc sách mỗi buổi chiều.",
-      "explanation": "Trật tự đúng tạo thành câu: “Nhóm nghiên cứu trẻ kiên nhẫn hướng dẫn các em nhỏ đọc sách mỗi buổi chiều.”"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_4_VONG_TINH",
-      "type": "SX",
-      "questionId": "k4_c4_sx_077",
-      "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Nhóm nghiên cứu trẻ” và hoạt động “khẩn trương gia cố”:",
-      "elements": [
-        "Mỗi dịp cuối tuần, nhóm nghiên cứu trẻ",
-        "trước mùa mưa bão",
-        "khẩn trương gia cố",
-        "bờ kè ven sông"
-      ],
-      "answer": "Mỗi dịp cuối tuần, nhóm nghiên cứu trẻ khẩn trương gia cố bờ kè ven sông trước mùa mưa bão.",
-      "explanation": "Trật tự đúng tạo thành câu: “Mỗi dịp cuối tuần, nhóm nghiên cứu trẻ khẩn trương gia cố bờ kè ven sông trước mùa mưa bão.”"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_4_VONG_TINH",
-      "type": "SX",
-      "questionId": "k4_c4_sx_078",
-      "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Nhóm nghiên cứu trẻ” và hoạt động “hăng hái luyện tập”:",
-      "elements": [
-        "Trong mùa hè năm ấy, nhóm nghiên cứu trẻ",
-        "hăng hái luyện tập",
-        "tiết mục dân ca",
-        "cho ngày hội văn hóa"
-      ],
-      "answer": "Trong mùa hè năm ấy, nhóm nghiên cứu trẻ hăng hái luyện tập tiết mục dân ca cho ngày hội văn hóa.",
-      "explanation": "Trật tự đúng tạo thành câu: “Trong mùa hè năm ấy, nhóm nghiên cứu trẻ hăng hái luyện tập tiết mục dân ca cho ngày hội văn hóa.”"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_4_VONG_TINH",
-      "type": "SX",
-      "questionId": "k4_c4_sx_079",
-      "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Nhóm nghiên cứu trẻ” và hoạt động “cẩn thận phục chế”:",
-      "elements": [
-        "cẩn thận phục chế",
-        "những hiện vật cũ",
-        "trong phòng trưng bày",
-        "Nhóm nghiên cứu trẻ"
-      ],
-      "answer": "Nhóm nghiên cứu trẻ cẩn thận phục chế những hiện vật cũ trong phòng trưng bày.",
-      "explanation": "Trật tự đúng tạo thành câu: “Nhóm nghiên cứu trẻ cẩn thận phục chế những hiện vật cũ trong phòng trưng bày.”"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_4_VONG_TINH",
-      "type": "SX",
-      "questionId": "k4_c4_sx_080",
-      "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Nhóm nghiên cứu trẻ” và hoạt động “bền bỉ tuần tra”:",
-      "elements": [
-        "bền bỉ tuần tra",
-        "Mỗi dịp cuối tuần, nhóm nghiên cứu trẻ",
-        "cánh rừng đầu nguồn",
-        "để ngăn chặn cháy rừng"
-      ],
-      "answer": "Mỗi dịp cuối tuần, nhóm nghiên cứu trẻ bền bỉ tuần tra cánh rừng đầu nguồn để ngăn chặn cháy rừng.",
-      "explanation": "Trật tự đúng tạo thành câu: “Mỗi dịp cuối tuần, nhóm nghiên cứu trẻ bền bỉ tuần tra cánh rừng đầu nguồn để ngăn chặn cháy rừng.”"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_4_VONG_TINH",
-      "type": "SX",
-      "questionId": "k4_c4_sx_081",
-      "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Nhóm nghiên cứu trẻ” và hoạt động “ân cần giới thiệu”:",
-      "elements": [
-        "Trong mùa hè năm ấy, nhóm nghiên cứu trẻ",
-        "phong tục địa phương",
-        "với khách phương xa",
-        "ân cần giới thiệu"
-      ],
-      "answer": "Trong mùa hè năm ấy, nhóm nghiên cứu trẻ ân cần giới thiệu phong tục địa phương với khách phương xa.",
-      "explanation": "Trật tự đúng tạo thành câu: “Trong mùa hè năm ấy, nhóm nghiên cứu trẻ ân cần giới thiệu phong tục địa phương với khách phương xa.”"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_4_VONG_TINH",
-      "type": "SX",
-      "questionId": "k4_c4_sx_082",
-      "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Nhóm nghiên cứu trẻ” và hoạt động “cùng nhau làm sạch”:",
-      "elements": [
-        "Nhóm nghiên cứu trẻ",
-        "cùng nhau làm sạch",
-        "sau cơn bão lớn",
-        "bãi biển quê nhà"
-      ],
-      "answer": "Nhóm nghiên cứu trẻ cùng nhau làm sạch bãi biển quê nhà sau cơn bão lớn.",
-      "explanation": "Trật tự đúng tạo thành câu: “Nhóm nghiên cứu trẻ cùng nhau làm sạch bãi biển quê nhà sau cơn bão lớn.”"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_4_VONG_TINH",
-      "type": "SX",
-      "questionId": "k4_c4_sx_083",
-      "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Nhóm nghiên cứu trẻ” và hoạt động “tích cực quyên góp”:",
-      "elements": [
-        "cho trẻ em vùng khó",
-        "áo ấm và sách vở",
-        "Mỗi dịp cuối tuần, nhóm nghiên cứu trẻ",
-        "tích cực quyên góp"
-      ],
-      "answer": "Mỗi dịp cuối tuần, nhóm nghiên cứu trẻ tích cực quyên góp áo ấm và sách vở cho trẻ em vùng khó.",
-      "explanation": "Trật tự đúng tạo thành câu: “Mỗi dịp cuối tuần, nhóm nghiên cứu trẻ tích cực quyên góp áo ấm và sách vở cho trẻ em vùng khó.”"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_4_VONG_TINH",
-      "type": "SX",
-      "questionId": "k4_c4_sx_084",
-      "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Người dân ven sông” và hoạt động “chung tay trồng”:",
-      "elements": [
-        "Trong mùa hè năm ấy, người dân ven sông",
-        "dọc con đường mới",
-        "hàng cây bản địa",
-        "chung tay trồng"
-      ],
-      "answer": "Trong mùa hè năm ấy, người dân ven sông chung tay trồng hàng cây bản địa dọc con đường mới.",
-      "explanation": "Trật tự đúng tạo thành câu: “Trong mùa hè năm ấy, người dân ven sông chung tay trồng hàng cây bản địa dọc con đường mới.”"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_4_VONG_TINH",
-      "type": "SX",
-      "questionId": "k4_c4_sx_085",
-      "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Người dân ven sông” và hoạt động “miệt mài sưu tầm”:",
-      "elements": [
-        "miệt mài sưu tầm",
-        "Người dân ven sông",
-        "về lịch sử quê hương",
-        "tư liệu quý"
-      ],
-      "answer": "Người dân ven sông miệt mài sưu tầm tư liệu quý về lịch sử quê hương.",
-      "explanation": "Trật tự đúng tạo thành câu: “Người dân ven sông miệt mài sưu tầm tư liệu quý về lịch sử quê hương.”"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_4_VONG_TINH",
-      "type": "SX",
-      "questionId": "k4_c4_sx_086",
-      "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Người dân ven sông” và hoạt động “kiên nhẫn hướng dẫn”:",
-      "elements": [
-        "Mỗi dịp cuối tuần, người dân ven sông",
-        "các em nhỏ",
-        "đọc sách mỗi buổi chiều",
-        "kiên nhẫn hướng dẫn"
-      ],
-      "answer": "Mỗi dịp cuối tuần, người dân ven sông kiên nhẫn hướng dẫn các em nhỏ đọc sách mỗi buổi chiều.",
-      "explanation": "Trật tự đúng tạo thành câu: “Mỗi dịp cuối tuần, người dân ven sông kiên nhẫn hướng dẫn các em nhỏ đọc sách mỗi buổi chiều.”"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_4_VONG_TINH",
-      "type": "SX",
-      "questionId": "k4_c4_sx_087",
-      "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Người dân ven sông” và hoạt động “khẩn trương gia cố”:",
-      "elements": [
-        "Trong mùa hè năm ấy, người dân ven sông",
-        "trước mùa mưa bão",
-        "khẩn trương gia cố",
-        "bờ kè ven sông"
-      ],
-      "answer": "Trong mùa hè năm ấy, người dân ven sông khẩn trương gia cố bờ kè ven sông trước mùa mưa bão.",
-      "explanation": "Trật tự đúng tạo thành câu: “Trong mùa hè năm ấy, người dân ven sông khẩn trương gia cố bờ kè ven sông trước mùa mưa bão.”"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_4_VONG_TINH",
-      "type": "SX",
-      "questionId": "k4_c4_sx_088",
-      "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Người dân ven sông” và hoạt động “hăng hái luyện tập”:",
-      "elements": [
-        "tiết mục dân ca",
-        "Người dân ven sông",
-        "cho ngày hội văn hóa",
-        "hăng hái luyện tập"
-      ],
-      "answer": "Người dân ven sông hăng hái luyện tập tiết mục dân ca cho ngày hội văn hóa.",
-      "explanation": "Trật tự đúng tạo thành câu: “Người dân ven sông hăng hái luyện tập tiết mục dân ca cho ngày hội văn hóa.”"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_4_VONG_TINH",
-      "type": "SX",
-      "questionId": "k4_c4_sx_089",
-      "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Người dân ven sông” và hoạt động “cẩn thận phục chế”:",
-      "elements": [
-        "Mỗi dịp cuối tuần, người dân ven sông",
-        "cẩn thận phục chế",
-        "những hiện vật cũ",
-        "trong phòng trưng bày"
-      ],
-      "answer": "Mỗi dịp cuối tuần, người dân ven sông cẩn thận phục chế những hiện vật cũ trong phòng trưng bày.",
-      "explanation": "Trật tự đúng tạo thành câu: “Mỗi dịp cuối tuần, người dân ven sông cẩn thận phục chế những hiện vật cũ trong phòng trưng bày.”"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_4_VONG_TINH",
-      "type": "SX",
-      "questionId": "k4_c4_sx_090",
-      "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Người dân ven sông” và hoạt động “bền bỉ tuần tra”:",
-      "elements": [
-        "bền bỉ tuần tra",
-        "Trong mùa hè năm ấy, người dân ven sông",
-        "cánh rừng đầu nguồn",
-        "để ngăn chặn cháy rừng"
-      ],
-      "answer": "Trong mùa hè năm ấy, người dân ven sông bền bỉ tuần tra cánh rừng đầu nguồn để ngăn chặn cháy rừng.",
-      "explanation": "Trật tự đúng tạo thành câu: “Trong mùa hè năm ấy, người dân ven sông bền bỉ tuần tra cánh rừng đầu nguồn để ngăn chặn cháy rừng.”"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_4_VONG_TINH",
-      "type": "SX",
-      "questionId": "k4_c4_sx_091",
-      "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Người dân ven sông” và hoạt động “ân cần giới thiệu”:",
-      "elements": [
-        "Người dân ven sông",
-        "ân cần giới thiệu",
-        "phong tục địa phương",
-        "với khách phương xa"
-      ],
-      "answer": "Người dân ven sông ân cần giới thiệu phong tục địa phương với khách phương xa.",
-      "explanation": "Trật tự đúng tạo thành câu: “Người dân ven sông ân cần giới thiệu phong tục địa phương với khách phương xa.”"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_4_VONG_TINH",
-      "type": "SX",
-      "questionId": "k4_c4_sx_092",
-      "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Người dân ven sông” và hoạt động “cùng nhau làm sạch”:",
-      "elements": [
-        "Mỗi dịp cuối tuần, người dân ven sông",
-        "sau cơn bão lớn",
-        "cùng nhau làm sạch",
-        "bãi biển quê nhà"
-      ],
-      "answer": "Mỗi dịp cuối tuần, người dân ven sông cùng nhau làm sạch bãi biển quê nhà sau cơn bão lớn.",
-      "explanation": "Trật tự đúng tạo thành câu: “Mỗi dịp cuối tuần, người dân ven sông cùng nhau làm sạch bãi biển quê nhà sau cơn bão lớn.”"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_4_VONG_TINH",
-      "type": "SX",
-      "questionId": "k4_c4_sx_093",
-      "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Người dân ven sông” và hoạt động “tích cực quyên góp”:",
-      "elements": [
-        "áo ấm và sách vở",
-        "cho trẻ em vùng khó",
-        "Trong mùa hè năm ấy, người dân ven sông",
-        "tích cực quyên góp"
-      ],
-      "answer": "Trong mùa hè năm ấy, người dân ven sông tích cực quyên góp áo ấm và sách vở cho trẻ em vùng khó.",
-      "explanation": "Trật tự đúng tạo thành câu: “Trong mùa hè năm ấy, người dân ven sông tích cực quyên góp áo ấm và sách vở cho trẻ em vùng khó.”"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_4_VONG_TINH",
-      "type": "SX",
-      "questionId": "k4_c4_sx_094",
-      "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Những nghệ nhân cao tuổi” và hoạt động “chung tay trồng”:",
-      "elements": [
-        "hàng cây bản địa",
-        "Những nghệ nhân cao tuổi",
-        "chung tay trồng",
-        "dọc con đường mới"
-      ],
-      "answer": "Những nghệ nhân cao tuổi chung tay trồng hàng cây bản địa dọc con đường mới.",
-      "explanation": "Trật tự đúng tạo thành câu: “Những nghệ nhân cao tuổi chung tay trồng hàng cây bản địa dọc con đường mới.”"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_4_VONG_TINH",
-      "type": "SX",
-      "questionId": "k4_c4_sx_095",
-      "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Những nghệ nhân cao tuổi” và hoạt động “miệt mài sưu tầm”:",
-      "elements": [
-        "miệt mài sưu tầm",
-        "về lịch sử quê hương",
-        "Mỗi dịp cuối tuần, những nghệ nhân cao tuổi",
-        "tư liệu quý"
-      ],
-      "answer": "Mỗi dịp cuối tuần, những nghệ nhân cao tuổi miệt mài sưu tầm tư liệu quý về lịch sử quê hương.",
-      "explanation": "Trật tự đúng tạo thành câu: “Mỗi dịp cuối tuần, những nghệ nhân cao tuổi miệt mài sưu tầm tư liệu quý về lịch sử quê hương.”"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_4_VONG_TINH",
-      "type": "SX",
-      "questionId": "k4_c4_sx_096",
-      "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Những nghệ nhân cao tuổi” và hoạt động “kiên nhẫn hướng dẫn”:",
-      "elements": [
-        "các em nhỏ",
-        "Trong mùa hè năm ấy, những nghệ nhân cao tuổi",
-        "kiên nhẫn hướng dẫn",
-        "đọc sách mỗi buổi chiều"
-      ],
-      "answer": "Trong mùa hè năm ấy, những nghệ nhân cao tuổi kiên nhẫn hướng dẫn các em nhỏ đọc sách mỗi buổi chiều.",
-      "explanation": "Trật tự đúng tạo thành câu: “Trong mùa hè năm ấy, những nghệ nhân cao tuổi kiên nhẫn hướng dẫn các em nhỏ đọc sách mỗi buổi chiều.”"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_4_VONG_TINH",
-      "type": "SX",
-      "questionId": "k4_c4_sx_097",
-      "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Những nghệ nhân cao tuổi” và hoạt động “khẩn trương gia cố”:",
-      "elements": [
-        "bờ kè ven sông",
-        "trước mùa mưa bão",
-        "khẩn trương gia cố",
-        "Những nghệ nhân cao tuổi"
-      ],
-      "answer": "Những nghệ nhân cao tuổi khẩn trương gia cố bờ kè ven sông trước mùa mưa bão.",
-      "explanation": "Trật tự đúng tạo thành câu: “Những nghệ nhân cao tuổi khẩn trương gia cố bờ kè ven sông trước mùa mưa bão.”"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_4_VONG_TINH",
-      "type": "SX",
-      "questionId": "k4_c4_sx_098",
-      "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Những nghệ nhân cao tuổi” và hoạt động “hăng hái luyện tập”:",
-      "elements": [
-        "hăng hái luyện tập",
-        "Mỗi dịp cuối tuần, những nghệ nhân cao tuổi",
-        "cho ngày hội văn hóa",
-        "tiết mục dân ca"
-      ],
-      "answer": "Mỗi dịp cuối tuần, những nghệ nhân cao tuổi hăng hái luyện tập tiết mục dân ca cho ngày hội văn hóa.",
-      "explanation": "Trật tự đúng tạo thành câu: “Mỗi dịp cuối tuần, những nghệ nhân cao tuổi hăng hái luyện tập tiết mục dân ca cho ngày hội văn hóa.”"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_4_VONG_TINH",
-      "type": "SX",
-      "questionId": "k4_c4_sx_099",
-      "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Những nghệ nhân cao tuổi” và hoạt động “cẩn thận phục chế”:",
-      "elements": [
-        "trong phòng trưng bày",
-        "Trong mùa hè năm ấy, những nghệ nhân cao tuổi",
-        "những hiện vật cũ",
-        "cẩn thận phục chế"
-      ],
-      "answer": "Trong mùa hè năm ấy, những nghệ nhân cao tuổi cẩn thận phục chế những hiện vật cũ trong phòng trưng bày.",
-      "explanation": "Trật tự đúng tạo thành câu: “Trong mùa hè năm ấy, những nghệ nhân cao tuổi cẩn thận phục chế những hiện vật cũ trong phòng trưng bày.”"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_4_VONG_TINH",
-      "type": "SX",
-      "questionId": "k4_c4_sx_100",
-      "question": "Những nghệ nhân cao tuổi bền bì hỗ trợ cộng đồng bảo vệ rừng bằng cách tuyên truyền kỹ năng phòng cháy.",
-      "elements": [
-        "để ngăn chặn cháy rừng",
-        "bền bỉ tuần tra",
-        "Những nghệ nhân cao tuổi",
-        "cánh rừng đầu nguồn"
-      ],
-      "answer": "Những nghệ nhân cao tuổi bền bỉ tuần tra cánh rừng đầu nguồn để ngăn chặn cháy rừng.",
-      "explanation": "Trật tự đúng tạo thành câu: “Những nghệ nhân cao tuổi bền bỉ tuần tra cánh rừng đầu nguồn để ngăn chặn cháy rừng.”"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_4_VONG_TINH",
-      "type": "SX",
-      "questionId": "k4_c4_sx_101",
-      "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Những nghệ nhân cao tuổi” và hoạt động “ân cần giới thiệu”:",
-      "elements": [
-        "ân cần giới thiệu",
-        "phong tục địa phương",
-        "với khách phương xa",
-        "Mỗi dịp cuối tuần, những nghệ nhân cao tuổi"
-      ],
-      "answer": "Mỗi dịp cuối tuần, những nghệ nhân cao tuổi ân cần giới thiệu phong tục địa phương với khách phương xa.",
-      "explanation": "Trật tự đúng tạo thành câu: “Mỗi dịp cuối tuần, những nghệ nhân cao tuổi ân cần giới thiệu phong tục địa phương với khách phương xa.”"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_4_VONG_TINH",
-      "type": "SX",
-      "questionId": "k4_c4_sx_102",
-      "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Những nghệ nhân cao tuổi” và hoạt động “cùng nhau làm sạch”:",
-      "elements": [
-        "cùng nhau làm sạch",
-        "bãi biển quê nhà",
-        "Trong mùa hè năm ấy, những nghệ nhân cao tuổi",
-        "sau cơn bão lớn"
-      ],
-      "answer": "Trong mùa hè năm ấy, những nghệ nhân cao tuổi cùng nhau làm sạch bãi biển quê nhà sau cơn bão lớn.",
-      "explanation": "Trật tự đúng tạo thành câu: “Trong mùa hè năm ấy, những nghệ nhân cao tuổi cùng nhau làm sạch bãi biển quê nhà sau cơn bão lớn.”"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_4_VONG_TINH",
-      "type": "SX",
-      "questionId": "k4_c4_sx_103",
-      "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Những nghệ nhân cao tuổi” và hoạt động “tích cực quyên góp”:",
-      "elements": [
-        "cho trẻ em vùng khó",
-        "tích cực quyên góp",
-        "áo ấm và sách vở",
-        "Những nghệ nhân cao tuổi"
-      ],
-      "answer": "Những nghệ nhân cao tuổi tích cực quyên góp áo ấm và sách vở cho trẻ em vùng khó.",
-      "explanation": "Trật tự đúng tạo thành câu: “Những nghệ nhân cao tuổi tích cực quyên góp áo ấm và sách vở cho trẻ em vùng khó.”"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_4_VONG_TINH",
-      "type": "SX",
-      "questionId": "k4_c4_sx_104",
-      "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Cô hướng dẫn viên” và hoạt động “chung tay trồng”:",
-      "elements": [
-        "dọc con đường mới",
-        "Mỗi dịp cuối tuần, cô hướng dẫn viên",
-        "chung tay trồng",
-        "hàng cây bản địa"
-      ],
-      "answer": "Mỗi dịp cuối tuần, cô hướng dẫn viên chung tay trồng hàng cây bản địa dọc con đường mới.",
-      "explanation": "Trật tự đúng tạo thành câu: “Mỗi dịp cuối tuần, cô hướng dẫn viên chung tay trồng hàng cây bản địa dọc con đường mới.”"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_4_VONG_TINH",
-      "type": "SX",
-      "questionId": "k4_c4_sx_105",
-      "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Cô hướng dẫn viên” và hoạt động “miệt mài sưu tầm”:",
-      "elements": [
-        "tư liệu quý",
-        "về lịch sử quê hương",
-        "Trong mùa hè năm ấy, cô hướng dẫn viên",
-        "miệt mài sưu tầm"
-      ],
-      "answer": "Trong mùa hè năm ấy, cô hướng dẫn viên miệt mài sưu tầm tư liệu quý về lịch sử quê hương.",
-      "explanation": "Trật tự đúng tạo thành câu: “Trong mùa hè năm ấy, cô hướng dẫn viên miệt mài sưu tầm tư liệu quý về lịch sử quê hương.”"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_4_VONG_TINH",
-      "type": "SX",
-      "questionId": "k4_c4_sx_106",
-      "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Cô hướng dẫn viên” và hoạt động “kiên nhẫn hướng dẫn”:",
-      "elements": [
-        "các em nhỏ",
-        "đọc sách mỗi buổi chiều",
-        "Cô hướng dẫn viên",
-        "kiên nhẫn hướng dẫn"
-      ],
-      "answer": "Cô hướng dẫn viên kiên nhẫn hướng dẫn các em nhỏ đọc sách mỗi buổi chiều.",
-      "explanation": "Trật tự đúng tạo thành câu: “Cô hướng dẫn viên kiên nhẫn hướng dẫn các em nhỏ đọc sách mỗi buổi chiều.”"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_4_VONG_TINH",
-      "type": "SX",
-      "questionId": "k4_c4_sx_107",
-      "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Cô hướng dẫn viên” và hoạt động “khẩn trương gia cố”:",
-      "elements": [
-        "Mỗi dịp cuối tuần, cô hướng dẫn viên",
-        "khẩn trương gia cố",
-        "trước mùa mưa bão",
-        "bờ kè ven sông"
-      ],
-      "answer": "Mỗi dịp cuối tuần, cô hướng dẫn viên khẩn trương gia cố bờ kè ven sông trước mùa mưa bão.",
-      "explanation": "Trật tự đúng tạo thành câu: “Mỗi dịp cuối tuần, cô hướng dẫn viên khẩn trương gia cố bờ kè ven sông trước mùa mưa bão.”"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_4_VONG_TINH",
-      "type": "SX",
-      "questionId": "k4_c4_sx_108",
-      "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Cô hướng dẫn viên” và hoạt động “hăng hái luyện tập”:",
-      "elements": [
-        "hăng hái luyện tập",
-        "cho ngày hội văn hóa",
-        "Trong mùa hè năm ấy, cô hướng dẫn viên",
-        "tiết mục dân ca"
-      ],
-      "answer": "Trong mùa hè năm ấy, cô hướng dẫn viên hăng hái luyện tập tiết mục dân ca cho ngày hội văn hóa.",
-      "explanation": "Trật tự đúng tạo thành câu: “Trong mùa hè năm ấy, cô hướng dẫn viên hăng hái luyện tập tiết mục dân ca cho ngày hội văn hóa.”"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_4_VONG_TINH",
-      "type": "SX",
-      "questionId": "k4_c4_sx_109",
-      "question": "Cô hướng dẫn viên cẩn thận giới thiệu và bảo quản những hiện vật cũ trong phòng trưng bày.",
-      "elements": [
-        "Cô hướng dẫn viên",
-        "cẩn thận phục chế",
-        "những hiện vật cũ",
-        "trong phòng trưng bày"
-      ],
-      "answer": "Cô hướng dẫn viên cẩn thận phục chế những hiện vật cũ trong phòng trưng bày.",
-      "explanation": "Trật tự đúng tạo thành câu: “Cô hướng dẫn viên cẩn thận phục chế những hiện vật cũ trong phòng trưng bày.”"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_4_VONG_TINH",
-      "type": "SX",
-      "questionId": "k4_c4_sx_110",
-      "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Cô hướng dẫn viên” và hoạt động “bền bỉ tuần tra”:",
-      "elements": [
-        "để ngăn chặn cháy rừng",
-        "cánh rừng đầu nguồn",
-        "bền bỉ tuần tra",
-        "Mỗi dịp cuối tuần, cô hướng dẫn viên"
-      ],
-      "answer": "Mỗi dịp cuối tuần, cô hướng dẫn viên bền bỉ tuần tra cánh rừng đầu nguồn để ngăn chặn cháy rừng.",
-      "explanation": "Trật tự đúng tạo thành câu: “Mỗi dịp cuối tuần, cô hướng dẫn viên bền bỉ tuần tra cánh rừng đầu nguồn để ngăn chặn cháy rừng.”"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_4_VONG_TINH",
-      "type": "SX",
-      "questionId": "k4_c4_sx_111",
-      "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Cô hướng dẫn viên” và hoạt động “ân cần giới thiệu”:",
-      "elements": [
-        "với khách phương xa",
-        "phong tục địa phương",
-        "Trong mùa hè năm ấy, cô hướng dẫn viên",
-        "ân cần giới thiệu"
-      ],
-      "answer": "Trong mùa hè năm ấy, cô hướng dẫn viên ân cần giới thiệu phong tục địa phương với khách phương xa.",
-      "explanation": "Trật tự đúng tạo thành câu: “Trong mùa hè năm ấy, cô hướng dẫn viên ân cần giới thiệu phong tục địa phương với khách phương xa.”"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_4_VONG_TINH",
-      "type": "SX",
-      "questionId": "k4_c4_sx_112",
-      "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Cô hướng dẫn viên” và hoạt động “cùng nhau làm sạch”:",
-      "elements": [
-        "Cô hướng dẫn viên",
-        "cùng nhau làm sạch",
-        "sau cơn bão lớn",
-        "bãi biển quê nhà"
-      ],
-      "answer": "Cô hướng dẫn viên cùng nhau làm sạch bãi biển quê nhà sau cơn bão lớn.",
-      "explanation": "Trật tự đúng tạo thành câu: “Cô hướng dẫn viên cùng nhau làm sạch bãi biển quê nhà sau cơn bão lớn.”"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_4_VONG_TINH",
-      "type": "SX",
-      "questionId": "k4_c4_sx_113",
-      "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Cô hướng dẫn viên” và hoạt động “tích cực quyên góp”:",
-      "elements": [
-        "cho trẻ em vùng khó",
-        "áo ấm và sách vở",
-        "tích cực quyên góp",
-        "Mỗi dịp cuối tuần, cô hướng dẫn viên"
-      ],
-      "answer": "Mỗi dịp cuối tuần, cô hướng dẫn viên tích cực quyên góp áo ấm và sách vở cho trẻ em vùng khó.",
-      "explanation": "Trật tự đúng tạo thành câu: “Mỗi dịp cuối tuần, cô hướng dẫn viên tích cực quyên góp áo ấm và sách vở cho trẻ em vùng khó.”"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_4_VONG_TINH",
-      "type": "SX",
-      "questionId": "k4_c4_sx_114",
-      "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Đội kiểm lâm địa phương” và hoạt động “chung tay trồng”:",
-      "elements": [
-        "dọc con đường mới",
-        "hàng cây bản địa",
-        "Trong mùa hè năm ấy, đội kiểm lâm địa phương",
-        "chung tay trồng"
-      ],
-      "answer": "Trong mùa hè năm ấy, đội kiểm lâm địa phương chung tay trồng hàng cây bản địa dọc con đường mới.",
-      "explanation": "Trật tự đúng tạo thành câu: “Trong mùa hè năm ấy, đội kiểm lâm địa phương chung tay trồng hàng cây bản địa dọc con đường mới.”"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_4_VONG_TINH",
-      "type": "SX",
-      "questionId": "k4_c4_sx_115",
-      "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Đội kiểm lâm địa phương” và hoạt động “miệt mài sưu tầm”:",
-      "elements": [
-        "về lịch sử quê hương",
-        "miệt mài sưu tầm",
-        "tư liệu quý",
-        "Đội kiểm lâm địa phương"
-      ],
-      "answer": "Đội kiểm lâm địa phương miệt mài sưu tầm tư liệu quý về lịch sử quê hương.",
-      "explanation": "Trật tự đúng tạo thành câu: “Đội kiểm lâm địa phương miệt mài sưu tầm tư liệu quý về lịch sử quê hương.”"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_4_VONG_TINH",
-      "type": "SX",
-      "questionId": "k4_c4_sx_116",
-      "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Đội kiểm lâm địa phương” và hoạt động “kiên nhẫn hướng dẫn”:",
-      "elements": [
-        "các em nhỏ",
-        "đọc sách mỗi buổi chiều",
-        "Mỗi dịp cuối tuần, đội kiểm lâm địa phương",
-        "kiên nhẫn hướng dẫn"
-      ],
-      "answer": "Mỗi dịp cuối tuần, đội kiểm lâm địa phương kiên nhẫn hướng dẫn các em nhỏ đọc sách mỗi buổi chiều.",
-      "explanation": "Trật tự đúng tạo thành câu: “Mỗi dịp cuối tuần, đội kiểm lâm địa phương kiên nhẫn hướng dẫn các em nhỏ đọc sách mỗi buổi chiều.”"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_4_VONG_TINH",
-      "type": "SX",
-      "questionId": "k4_c4_sx_117",
-      "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Đội kiểm lâm địa phương” và hoạt động “khẩn trương gia cố”:",
-      "elements": [
-        "Trong mùa hè năm ấy, đội kiểm lâm địa phương",
-        "trước mùa mưa bão",
-        "khẩn trương gia cố",
-        "bờ kè ven sông"
-      ],
-      "answer": "Trong mùa hè năm ấy, đội kiểm lâm địa phương khẩn trương gia cố bờ kè ven sông trước mùa mưa bão.",
-      "explanation": "Trật tự đúng tạo thành câu: “Trong mùa hè năm ấy, đội kiểm lâm địa phương khẩn trương gia cố bờ kè ven sông trước mùa mưa bão.”"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_4_VONG_TINH",
-      "type": "SX",
-      "questionId": "k4_c4_sx_118",
-      "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Đội kiểm lâm địa phương” và hoạt động “hăng hái luyện tập”:",
-      "elements": [
-        "tiết mục dân ca",
-        "cho ngày hội văn hóa",
-        "hăng hái luyện tập",
-        "Đội kiểm lâm địa phương"
-      ],
-      "answer": "Đội kiểm lâm địa phương hăng hái luyện tập tiết mục dân ca cho ngày hội văn hóa.",
-      "explanation": "Trật tự đúng tạo thành câu: “Đội kiểm lâm địa phương hăng hái luyện tập tiết mục dân ca cho ngày hội văn hóa.”"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_4_VONG_TINH",
-      "type": "SX",
-      "questionId": "k4_c4_sx_119",
-      "question": "Đội kiểm lâm địa phương cẩn thận bảo quản và bảo vệ những hiện vật cũ trong phòng trưng bày.",
-      "elements": [
-        "cẩn thận phục chế",
-        "Mỗi dịp cuối tuần, đội kiểm lâm địa phương",
-        "những hiện vật cũ",
-        "trong phòng trưng bày"
-      ],
-      "answer": "Mỗi dịp cuối tuần, đội kiểm lâm địa phương cẩn thận phục chế những hiện vật cũ trong phòng trưng bày.",
-      "explanation": "Trật tự đúng tạo thành câu: “Mỗi dịp cuối tuần, đội kiểm lâm địa phương cẩn thận phục chế những hiện vật cũ trong phòng trưng bày.”"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_4_VONG_TINH",
-      "type": "SX",
-      "questionId": "k4_c4_sx_120",
-      "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Đội kiểm lâm địa phương” và hoạt động “bền bỉ tuần tra”:",
-      "elements": [
-        "bền bỉ tuần tra",
-        "cánh rừng đầu nguồn",
-        "để ngăn chặn cháy rừng",
-        "Trong mùa hè năm ấy, đội kiểm lâm địa phương"
-      ],
-      "answer": "Trong mùa hè năm ấy, đội kiểm lâm địa phương bền bỉ tuần tra cánh rừng đầu nguồn để ngăn chặn cháy rừng.",
-      "explanation": "Trật tự đúng tạo thành câu: “Trong mùa hè năm ấy, đội kiểm lâm địa phương bền bỉ tuần tra cánh rừng đầu nguồn để ngăn chặn cháy rừng.”"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_4_VONG_TINH",
-      "type": "SX",
-      "questionId": "k4_c4_sx_121",
-      "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Đội kiểm lâm địa phương” và hoạt động “ân cần giới thiệu”:",
-      "elements": [
-        "với khách phương xa",
-        "Đội kiểm lâm địa phương",
-        "ân cần giới thiệu",
-        "phong tục địa phương"
-      ],
-      "answer": "Đội kiểm lâm địa phương ân cần giới thiệu phong tục địa phương với khách phương xa.",
-      "explanation": "Trật tự đúng tạo thành câu: “Đội kiểm lâm địa phương ân cần giới thiệu phong tục địa phương với khách phương xa.”"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_4_VONG_TINH",
-      "type": "SX",
-      "questionId": "k4_c4_sx_122",
-      "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Đội kiểm lâm địa phương” và hoạt động “cùng nhau làm sạch”:",
-      "elements": [
-        "sau cơn bão lớn",
-        "bãi biển quê nhà",
-        "cùng nhau làm sạch",
-        "Mỗi dịp cuối tuần, đội kiểm lâm địa phương"
-      ],
-      "answer": "Mỗi dịp cuối tuần, đội kiểm lâm địa phương cùng nhau làm sạch bãi biển quê nhà sau cơn bão lớn.",
-      "explanation": "Trật tự đúng tạo thành câu: “Mỗi dịp cuối tuần, đội kiểm lâm địa phương cùng nhau làm sạch bãi biển quê nhà sau cơn bão lớn.”"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_4_VONG_TINH",
-      "type": "SX",
-      "questionId": "k4_c4_sx_123",
-      "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Đội kiểm lâm địa phương” và hoạt động “tích cực quyên góp”:",
-      "elements": [
-        "áo ấm và sách vở",
-        "cho trẻ em vùng khó",
-        "tích cực quyên góp",
-        "Trong mùa hè năm ấy, đội kiểm lâm địa phương"
-      ],
-      "answer": "Trong mùa hè năm ấy, đội kiểm lâm địa phương tích cực quyên góp áo ấm và sách vở cho trẻ em vùng khó.",
-      "explanation": "Trật tự đúng tạo thành câu: “Trong mùa hè năm ấy, đội kiểm lâm địa phương tích cực quyên góp áo ấm và sách vở cho trẻ em vùng khó.”"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_4_VONG_TINH",
-      "type": "SX",
-      "questionId": "k4_c4_sx_124",
-      "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Các bạn nhỏ trong xóm” và hoạt động “chung tay trồng”:",
-      "elements": [
-        "hàng cây bản địa",
-        "dọc con đường mới",
-        "chung tay trồng",
-        "Các bạn nhỏ trong xóm"
-      ],
-      "answer": "Các bạn nhỏ trong xóm chung tay trồng hàng cây bản địa dọc con đường mới.",
-      "explanation": "Trật tự đúng tạo thành câu: “Các bạn nhỏ trong xóm chung tay trồng hàng cây bản địa dọc con đường mới.”"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_4_VONG_TINH",
-      "type": "SX",
-      "questionId": "k4_c4_sx_125",
-      "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Các bạn nhỏ trong xóm” và hoạt động “miệt mài sưu tầm”:",
-      "elements": [
-        "Mỗi dịp cuối tuần, các bạn nhỏ trong xóm",
-        "về lịch sử quê hương",
-        "miệt mài sưu tầm",
-        "tư liệu quý"
-      ],
-      "answer": "Mỗi dịp cuối tuần, các bạn nhỏ trong xóm miệt mài sưu tầm tư liệu quý về lịch sử quê hương.",
-      "explanation": "Trật tự đúng tạo thành câu: “Mỗi dịp cuối tuần, các bạn nhỏ trong xóm miệt mài sưu tầm tư liệu quý về lịch sử quê hương.”"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_4_VONG_TINH",
-      "type": "SX",
-      "questionId": "k4_c4_sx_126",
-      "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Các bạn nhỏ trong xóm” và hoạt động “kiên nhẫn hướng dẫn”:",
-      "elements": [
-        "kiên nhẫn hướng dẫn",
-        "các em nhỏ",
-        "Trong mùa hè năm ấy, các bạn nhỏ trong xóm",
-        "đọc sách mỗi buổi chiều"
-      ],
-      "answer": "Trong mùa hè năm ấy, các bạn nhỏ trong xóm kiên nhẫn hướng dẫn các em nhỏ đọc sách mỗi buổi chiều.",
-      "explanation": "Trật tự đúng tạo thành câu: “Trong mùa hè năm ấy, các bạn nhỏ trong xóm kiên nhẫn hướng dẫn các em nhỏ đọc sách mỗi buổi chiều.”"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_4_VONG_TINH",
-      "type": "SX",
-      "questionId": "k4_c4_sx_127",
-      "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Các bạn nhỏ trong xóm” và hoạt động “khẩn trương gia cố”:",
-      "elements": [
-        "Các bạn nhỏ trong xóm",
-        "trước mùa mưa bão",
-        "khẩn trương gia cố",
-        "bờ kè ven sông"
-      ],
-      "answer": "Các bạn nhỏ trong xóm khẩn trương gia cố bờ kè ven sông trước mùa mưa bão.",
-      "explanation": "Trật tự đúng tạo thành câu: “Các bạn nhỏ trong xóm khẩn trương gia cố bờ kè ven sông trước mùa mưa bão.”"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_4_VONG_TINH",
-      "type": "SX",
-      "questionId": "k4_c4_sx_128",
-      "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Các bạn nhỏ trong xóm” và hoạt động “hăng hái luyện tập”:",
-      "elements": [
-        "hăng hái luyện tập",
-        "tiết mục dân ca",
-        "Mỗi dịp cuối tuần, các bạn nhỏ trong xóm",
-        "cho ngày hội văn hóa"
-      ],
-      "answer": "Mỗi dịp cuối tuần, các bạn nhỏ trong xóm hăng hái luyện tập tiết mục dân ca cho ngày hội văn hóa.",
-      "explanation": "Trật tự đúng tạo thành câu: “Mỗi dịp cuối tuần, các bạn nhỏ trong xóm hăng hái luyện tập tiết mục dân ca cho ngày hội văn hóa.”"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_4_VONG_TINH",
-      "type": "SX",
-      "questionId": "k4_c4_sx_129",
-      "question": "Các bạn nhỏ trong xóm cẩn thận học cách bảo quản những hiện vật cũ trong phòng trưng bày.",
-      "elements": [
-        "trong phòng trưng bày",
-        "cẩn thận phục chế",
-        "những hiện vật cũ",
-        "Trong mùa hè năm ấy, các bạn nhỏ trong xóm"
-      ],
-      "answer": "Trong mùa hè năm ấy, các bạn nhỏ trong xóm cẩn thận phục chế những hiện vật cũ trong phòng trưng bày.",
-      "explanation": "Trật tự đúng tạo thành câu: “Trong mùa hè năm ấy, các bạn nhỏ trong xóm cẩn thận phục chế những hiện vật cũ trong phòng trưng bày.”"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_4_VONG_TINH",
-      "type": "SX",
-      "questionId": "k4_c4_sx_130",
-      "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Các bạn nhỏ trong xóm” và hoạt động “bền bỉ tuần tra”:",
-      "elements": [
-        "cánh rừng đầu nguồn",
-        "bền bỉ tuần tra",
-        "Các bạn nhỏ trong xóm",
-        "để ngăn chặn cháy rừng"
-      ],
-      "answer": "Các bạn nhỏ trong xóm bền bỉ tuần tra cánh rừng đầu nguồn để ngăn chặn cháy rừng.",
-      "explanation": "Trật tự đúng tạo thành câu: “Các bạn nhỏ trong xóm bền bỉ tuần tra cánh rừng đầu nguồn để ngăn chặn cháy rừng.”"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_4_VONG_TINH",
-      "type": "SX",
-      "questionId": "k4_c4_sx_131",
-      "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Các bạn nhỏ trong xóm” và hoạt động “ân cần giới thiệu”:",
-      "elements": [
-        "phong tục địa phương",
-        "ân cần giới thiệu",
-        "với khách phương xa",
-        "Mỗi dịp cuối tuần, các bạn nhỏ trong xóm"
-      ],
-      "answer": "Mỗi dịp cuối tuần, các bạn nhỏ trong xóm ân cần giới thiệu phong tục địa phương với khách phương xa.",
-      "explanation": "Trật tự đúng tạo thành câu: “Mỗi dịp cuối tuần, các bạn nhỏ trong xóm ân cần giới thiệu phong tục địa phương với khách phương xa.”"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_4_VONG_TINH",
-      "type": "SX",
-      "questionId": "k4_c4_sx_132",
-      "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Các bạn nhỏ trong xóm” và hoạt động “cùng nhau làm sạch”:",
-      "elements": [
-        "cùng nhau làm sạch",
-        "sau cơn bão lớn",
-        "Trong mùa hè năm ấy, các bạn nhỏ trong xóm",
-        "bãi biển quê nhà"
-      ],
-      "answer": "Trong mùa hè năm ấy, các bạn nhỏ trong xóm cùng nhau làm sạch bãi biển quê nhà sau cơn bão lớn.",
-      "explanation": "Trật tự đúng tạo thành câu: “Trong mùa hè năm ấy, các bạn nhỏ trong xóm cùng nhau làm sạch bãi biển quê nhà sau cơn bão lớn.”"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_4_VONG_TINH",
-      "type": "SX",
-      "questionId": "k4_c4_sx_133",
-      "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Các bạn nhỏ trong xóm” và hoạt động “tích cực quyên góp”:",
-      "elements": [
-        "cho trẻ em vùng khó",
-        "Các bạn nhỏ trong xóm",
-        "tích cực quyên góp",
-        "áo ấm và sách vở"
-      ],
-      "answer": "Các bạn nhỏ trong xóm tích cực quyên góp áo ấm và sách vở cho trẻ em vùng khó.",
-      "explanation": "Trật tự đúng tạo thành câu: “Các bạn nhỏ trong xóm tích cực quyên góp áo ấm và sách vở cho trẻ em vùng khó.”"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_4_VONG_TINH",
-      "type": "SX",
-      "questionId": "k4_c4_sx_134",
-      "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Những người lính cứu hỏa” và hoạt động “chung tay trồng”:",
-      "elements": [
-        "chung tay trồng",
-        "hàng cây bản địa",
-        "dọc con đường mới",
-        "Mỗi dịp cuối tuần, những người lính cứu hỏa"
-      ],
-      "answer": "Mỗi dịp cuối tuần, những người lính cứu hỏa chung tay trồng hàng cây bản địa dọc con đường mới.",
-      "explanation": "Trật tự đúng tạo thành câu: “Mỗi dịp cuối tuần, những người lính cứu hỏa chung tay trồng hàng cây bản địa dọc con đường mới.”"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_4_VONG_TINH",
-      "type": "SX",
-      "questionId": "k4_c4_sx_135",
-      "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Những người lính cứu hỏa” và hoạt động “miệt mài sưu tầm”:",
-      "elements": [
-        "Trong mùa hè năm ấy, những người lính cứu hỏa",
-        "tư liệu quý",
-        "về lịch sử quê hương",
-        "miệt mài sưu tầm"
-      ],
-      "answer": "Trong mùa hè năm ấy, những người lính cứu hỏa miệt mài sưu tầm tư liệu quý về lịch sử quê hương.",
-      "explanation": "Trật tự đúng tạo thành câu: “Trong mùa hè năm ấy, những người lính cứu hỏa miệt mài sưu tầm tư liệu quý về lịch sử quê hương.”"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_4_VONG_TINH",
-      "type": "SX",
-      "questionId": "k4_c4_sx_136",
-      "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Những người lính cứu hỏa” và hoạt động “kiên nhẫn hướng dẫn”:",
-      "elements": [
-        "đọc sách mỗi buổi chiều",
-        "kiên nhẫn hướng dẫn",
-        "các em nhỏ",
-        "Những người lính cứu hỏa"
-      ],
-      "answer": "Những người lính cứu hỏa kiên nhẫn hướng dẫn các em nhỏ đọc sách mỗi buổi chiều.",
-      "explanation": "Trật tự đúng tạo thành câu: “Những người lính cứu hỏa kiên nhẫn hướng dẫn các em nhỏ đọc sách mỗi buổi chiều.”"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_4_VONG_TINH",
-      "type": "SX",
-      "questionId": "k4_c4_sx_137",
-      "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Những người lính cứu hỏa” và hoạt động “khẩn trương gia cố”:",
-      "elements": [
-        "trước mùa mưa bão",
-        "khẩn trương gia cố",
-        "bờ kè ven sông",
-        "Mỗi dịp cuối tuần, những người lính cứu hỏa"
-      ],
-      "answer": "Mỗi dịp cuối tuần, những người lính cứu hỏa khẩn trương gia cố bờ kè ven sông trước mùa mưa bão.",
-      "explanation": "Trật tự đúng tạo thành câu: “Mỗi dịp cuối tuần, những người lính cứu hỏa khẩn trương gia cố bờ kè ven sông trước mùa mưa bão.”"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_4_VONG_TINH",
-      "type": "SX",
-      "questionId": "k4_c4_sx_138",
-      "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Những người lính cứu hỏa” và hoạt động “hăng hái luyện tập”:",
-      "elements": [
-        "hăng hái luyện tập",
-        "tiết mục dân ca",
-        "cho ngày hội văn hóa",
-        "Trong mùa hè năm ấy, những người lính cứu hỏa"
-      ],
-      "answer": "Trong mùa hè năm ấy, những người lính cứu hỏa hăng hái luyện tập tiết mục dân ca cho ngày hội văn hóa.",
-      "explanation": "Trật tự đúng tạo thành câu: “Trong mùa hè năm ấy, những người lính cứu hỏa hăng hái luyện tập tiết mục dân ca cho ngày hội văn hóa.”"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_4_VONG_TINH",
-      "type": "SX",
-      "questionId": "k4_c4_sx_139",
-      "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Những người lính cứu hỏa” và hoạt động “cẩn thận phục chế”:",
-      "elements": [
-        "những hiện vật cũ",
-        "trong phòng trưng bày",
-        "Những người lính cứu hỏa",
-        "cẩn thận phục chế"
-      ],
-      "answer": "Những người lính cứu hỏa cẩn thận phục chế những hiện vật cũ trong phòng trưng bày.",
-      "explanation": "Trật tự đúng tạo thành câu: “Những người lính cứu hỏa cẩn thận phục chế những hiện vật cũ trong phòng trưng bày.”"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_4_VONG_TINH",
-      "type": "SX",
-      "questionId": "k4_c4_sx_140",
-      "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Những người lính cứu hỏa” và hoạt động “bền bỉ tuần tra”:",
-      "elements": [
-        "để ngăn chặn cháy rừng",
-        "bền bỉ tuần tra",
-        "cánh rừng đầu nguồn",
-        "Mỗi dịp cuối tuần, những người lính cứu hỏa"
-      ],
-      "answer": "Mỗi dịp cuối tuần, những người lính cứu hỏa bền bỉ tuần tra cánh rừng đầu nguồn để ngăn chặn cháy rừng.",
-      "explanation": "Trật tự đúng tạo thành câu: “Mỗi dịp cuối tuần, những người lính cứu hỏa bền bỉ tuần tra cánh rừng đầu nguồn để ngăn chặn cháy rừng.”"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_4_VONG_TINH",
-      "type": "SX",
-      "questionId": "k4_c4_sx_141",
-      "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Những người lính cứu hỏa” và hoạt động “ân cần giới thiệu”:",
-      "elements": [
-        "ân cần giới thiệu",
-        "Trong mùa hè năm ấy, những người lính cứu hỏa",
-        "với khách phương xa",
-        "phong tục địa phương"
-      ],
-      "answer": "Trong mùa hè năm ấy, những người lính cứu hỏa ân cần giới thiệu phong tục địa phương với khách phương xa.",
-      "explanation": "Trật tự đúng tạo thành câu: “Trong mùa hè năm ấy, những người lính cứu hỏa ân cần giới thiệu phong tục địa phương với khách phương xa.”"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_4_VONG_TINH",
-      "type": "SX",
-      "questionId": "k4_c4_sx_142",
-      "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Những người lính cứu hỏa” và hoạt động “cùng nhau làm sạch”:",
-      "elements": [
-        "Những người lính cứu hỏa",
-        "cùng nhau làm sạch",
-        "bãi biển quê nhà",
-        "sau cơn bão lớn"
-      ],
-      "answer": "Những người lính cứu hỏa cùng nhau làm sạch bãi biển quê nhà sau cơn bão lớn.",
-      "explanation": "Trật tự đúng tạo thành câu: “Những người lính cứu hỏa cùng nhau làm sạch bãi biển quê nhà sau cơn bão lớn.”"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_4_VONG_TINH",
-      "type": "SX",
-      "questionId": "k4_c4_sx_143",
-      "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Những người lính cứu hỏa” và hoạt động “tích cực quyên góp”:",
-      "elements": [
-        "áo ấm và sách vở",
-        "Mỗi dịp cuối tuần, những người lính cứu hỏa",
-        "cho trẻ em vùng khó",
-        "tích cực quyên góp"
-      ],
-      "answer": "Mỗi dịp cuối tuần, những người lính cứu hỏa tích cực quyên góp áo ấm và sách vở cho trẻ em vùng khó.",
-      "explanation": "Trật tự đúng tạo thành câu: “Mỗi dịp cuối tuần, những người lính cứu hỏa tích cực quyên góp áo ấm và sách vở cho trẻ em vùng khó.”"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_4_VONG_TINH",
-      "type": "SX",
-      "questionId": "k4_c4_sx_144",
-      "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Tập thể lớp em” và hoạt động “chung tay trồng”:",
-      "elements": [
-        "chung tay trồng",
-        "Trong mùa hè năm ấy, tập thể lớp em",
-        "hàng cây bản địa",
-        "dọc con đường mới"
-      ],
-      "answer": "Trong mùa hè năm ấy, tập thể lớp em chung tay trồng hàng cây bản địa dọc con đường mới.",
-      "explanation": "Trật tự đúng tạo thành câu: “Trong mùa hè năm ấy, tập thể lớp em chung tay trồng hàng cây bản địa dọc con đường mới.”"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_4_VONG_TINH",
-      "type": "SX",
-      "questionId": "k4_c4_sx_145",
-      "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Tập thể lớp em” và hoạt động “miệt mài sưu tầm”:",
-      "elements": [
-        "miệt mài sưu tầm",
-        "Tập thể lớp em",
-        "tư liệu quý",
-        "về lịch sử quê hương"
-      ],
-      "answer": "Tập thể lớp em miệt mài sưu tầm tư liệu quý về lịch sử quê hương.",
-      "explanation": "Trật tự đúng tạo thành câu: “Tập thể lớp em miệt mài sưu tầm tư liệu quý về lịch sử quê hương.”"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_4_VONG_TINH",
-      "type": "SX",
-      "questionId": "k4_c4_sx_146",
-      "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Tập thể lớp em” và hoạt động “kiên nhẫn hướng dẫn”:",
-      "elements": [
-        "đọc sách mỗi buổi chiều",
-        "Mỗi dịp cuối tuần, tập thể lớp em",
-        "kiên nhẫn hướng dẫn",
-        "các em nhỏ"
-      ],
-      "answer": "Mỗi dịp cuối tuần, tập thể lớp em kiên nhẫn hướng dẫn các em nhỏ đọc sách mỗi buổi chiều.",
-      "explanation": "Trật tự đúng tạo thành câu: “Mỗi dịp cuối tuần, tập thể lớp em kiên nhẫn hướng dẫn các em nhỏ đọc sách mỗi buổi chiều.”"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_4_VONG_TINH",
-      "type": "SX",
-      "questionId": "k4_c4_sx_147",
-      "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Tập thể lớp em” và hoạt động “khẩn trương gia cố”:",
-      "elements": [
-        "khẩn trương gia cố",
-        "trước mùa mưa bão",
-        "bờ kè ven sông",
-        "Trong mùa hè năm ấy, tập thể lớp em"
-      ],
-      "answer": "Trong mùa hè năm ấy, tập thể lớp em khẩn trương gia cố bờ kè ven sông trước mùa mưa bão.",
-      "explanation": "Trật tự đúng tạo thành câu: “Trong mùa hè năm ấy, tập thể lớp em khẩn trương gia cố bờ kè ven sông trước mùa mưa bão.”"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_4_VONG_TINH",
-      "type": "SX",
-      "questionId": "k4_c4_sx_148",
-      "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Tập thể lớp em” và hoạt động “hăng hái luyện tập”:",
-      "elements": [
-        "Tập thể lớp em",
-        "hăng hái luyện tập",
-        "tiết mục dân ca",
-        "cho ngày hội văn hóa"
-      ],
-      "answer": "Tập thể lớp em hăng hái luyện tập tiết mục dân ca cho ngày hội văn hóa.",
-      "explanation": "Trật tự đúng tạo thành câu: “Tập thể lớp em hăng hái luyện tập tiết mục dân ca cho ngày hội văn hóa.”"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_4_VONG_TINH",
-      "type": "SX",
-      "questionId": "k4_c4_sx_149",
-      "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Tập thể lớp em” và hoạt động “cẩn thận phục chế”:",
-      "elements": [
-        "những hiện vật cũ",
-        "cẩn thận phục chế",
-        "trong phòng trưng bày",
-        "Mỗi dịp cuối tuần, tập thể lớp em"
-      ],
-      "answer": "Mỗi dịp cuối tuần, tập thể lớp em cẩn thận phục chế những hiện vật cũ trong phòng trưng bày.",
-      "explanation": "Trật tự đúng tạo thành câu: “Mỗi dịp cuối tuần, tập thể lớp em cẩn thận phục chế những hiện vật cũ trong phòng trưng bày.”"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_4_VONG_TINH",
-      "type": "SX",
-      "questionId": "k4_c4_sx_150",
-      "question": "Tập thể lớp em bền bì tham gia các hoạt động giáo dục phòng cháy rừng tại khu rừng đầu nguồn.",
-      "elements": [
-        "cánh rừng đầu nguồn",
-        "Trong mùa hè năm ấy, tập thể lớp em",
-        "bền bỉ tuần tra",
-        "để ngăn chặn cháy rừng"
-      ],
-      "answer": "Trong mùa hè năm ấy, tập thể lớp em bền bỉ tuần tra cánh rừng đầu nguồn để ngăn chặn cháy rừng.",
-      "explanation": "Trật tự đúng tạo thành câu: “Trong mùa hè năm ấy, tập thể lớp em bền bỉ tuần tra cánh rừng đầu nguồn để ngăn chặn cháy rừng.”"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_4_VONG_TINH",
-      "type": "SX",
-      "questionId": "k4_c4_sx_151",
-      "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Tập thể lớp em” và hoạt động “ân cần giới thiệu”:",
-      "elements": [
-        "ân cần giới thiệu",
-        "Tập thể lớp em",
-        "với khách phương xa",
-        "phong tục địa phương"
-      ],
-      "answer": "Tập thể lớp em ân cần giới thiệu phong tục địa phương với khách phương xa.",
-      "explanation": "Trật tự đúng tạo thành câu: “Tập thể lớp em ân cần giới thiệu phong tục địa phương với khách phương xa.”"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_4_VONG_TINH",
-      "type": "SX",
-      "questionId": "k4_c4_sx_152",
-      "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Tập thể lớp em” và hoạt động “cùng nhau làm sạch”:",
-      "elements": [
-        "Mỗi dịp cuối tuần, tập thể lớp em",
-        "sau cơn bão lớn",
-        "bãi biển quê nhà",
-        "cùng nhau làm sạch"
-      ],
-      "answer": "Mỗi dịp cuối tuần, tập thể lớp em cùng nhau làm sạch bãi biển quê nhà sau cơn bão lớn.",
-      "explanation": "Trật tự đúng tạo thành câu: “Mỗi dịp cuối tuần, tập thể lớp em cùng nhau làm sạch bãi biển quê nhà sau cơn bão lớn.”"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_4_VONG_TINH",
-      "type": "SX",
-      "questionId": "k4_c4_sx_153",
-      "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Tập thể lớp em” và hoạt động “tích cực quyên góp”:",
-      "elements": [
-        "tích cực quyên góp",
-        "cho trẻ em vùng khó",
-        "áo ấm và sách vở",
-        "Trong mùa hè năm ấy, tập thể lớp em"
-      ],
-      "answer": "Trong mùa hè năm ấy, tập thể lớp em tích cực quyên góp áo ấm và sách vở cho trẻ em vùng khó.",
-      "explanation": "Trật tự đúng tạo thành câu: “Trong mùa hè năm ấy, tập thể lớp em tích cực quyên góp áo ấm và sách vở cho trẻ em vùng khó.”"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_4_VONG_TINH",
-      "type": "SX",
-      "questionId": "k4_c4_sx_154",
-      "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Các nhà khảo cổ” và hoạt động “chung tay trồng”:",
-      "elements": [
-        "dọc con đường mới",
-        "Các nhà khảo cổ",
-        "chung tay trồng",
-        "hàng cây bản địa"
-      ],
-      "answer": "Các nhà khảo cổ chung tay trồng hàng cây bản địa dọc con đường mới.",
-      "explanation": "Trật tự đúng tạo thành câu: “Các nhà khảo cổ chung tay trồng hàng cây bản địa dọc con đường mới.”"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_4_VONG_TINH",
-      "type": "SX",
-      "questionId": "k4_c4_sx_155",
-      "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Các nhà khảo cổ” và hoạt động “miệt mài sưu tầm”:",
-      "elements": [
-        "miệt mài sưu tầm",
-        "Mỗi dịp cuối tuần, các nhà khảo cổ",
-        "về lịch sử quê hương",
-        "tư liệu quý"
-      ],
-      "answer": "Mỗi dịp cuối tuần, các nhà khảo cổ miệt mài sưu tầm tư liệu quý về lịch sử quê hương.",
-      "explanation": "Trật tự đúng tạo thành câu: “Mỗi dịp cuối tuần, các nhà khảo cổ miệt mài sưu tầm tư liệu quý về lịch sử quê hương.”"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_4_VONG_TINH",
-      "type": "SX",
-      "questionId": "k4_c4_sx_156",
-      "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Các nhà khảo cổ” và hoạt động “kiên nhẫn hướng dẫn”:",
-      "elements": [
-        "kiên nhẫn hướng dẫn",
-        "các em nhỏ",
-        "đọc sách mỗi buổi chiều",
-        "Trong mùa hè năm ấy, các nhà khảo cổ"
-      ],
-      "answer": "Trong mùa hè năm ấy, các nhà khảo cổ kiên nhẫn hướng dẫn các em nhỏ đọc sách mỗi buổi chiều.",
-      "explanation": "Trật tự đúng tạo thành câu: “Trong mùa hè năm ấy, các nhà khảo cổ kiên nhẫn hướng dẫn các em nhỏ đọc sách mỗi buổi chiều.”"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_4_VONG_TINH",
-      "type": "SX",
-      "questionId": "k4_c4_sx_157",
-      "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Các nhà khảo cổ” và hoạt động “khẩn trương gia cố”:",
-      "elements": [
-        "bờ kè ven sông",
-        "khẩn trương gia cố",
-        "trước mùa mưa bão",
-        "Các nhà khảo cổ"
-      ],
-      "answer": "Các nhà khảo cổ khẩn trương gia cố bờ kè ven sông trước mùa mưa bão.",
-      "explanation": "Trật tự đúng tạo thành câu: “Các nhà khảo cổ khẩn trương gia cố bờ kè ven sông trước mùa mưa bão.”"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_4_VONG_TINH",
-      "type": "SX",
-      "questionId": "k4_c4_sx_158",
-      "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Các nhà khảo cổ” và hoạt động “hăng hái luyện tập”:",
-      "elements": [
-        "cho ngày hội văn hóa",
-        "tiết mục dân ca",
-        "Mỗi dịp cuối tuần, các nhà khảo cổ",
-        "hăng hái luyện tập"
-      ],
-      "answer": "Mỗi dịp cuối tuần, các nhà khảo cổ hăng hái luyện tập tiết mục dân ca cho ngày hội văn hóa.",
-      "explanation": "Trật tự đúng tạo thành câu: “Mỗi dịp cuối tuần, các nhà khảo cổ hăng hái luyện tập tiết mục dân ca cho ngày hội văn hóa.”"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_4_VONG_TINH",
-      "type": "SX",
-      "questionId": "k4_c4_sx_159",
-      "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Các nhà khảo cổ” và hoạt động “cẩn thận phục chế”:",
-      "elements": [
-        "Trong mùa hè năm ấy, các nhà khảo cổ",
-        "trong phòng trưng bày",
-        "cẩn thận phục chế",
-        "những hiện vật cũ"
-      ],
-      "answer": "Trong mùa hè năm ấy, các nhà khảo cổ cẩn thận phục chế những hiện vật cũ trong phòng trưng bày.",
-      "explanation": "Trật tự đúng tạo thành câu: “Trong mùa hè năm ấy, các nhà khảo cổ cẩn thận phục chế những hiện vật cũ trong phòng trưng bày.”"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_4_VONG_TINH",
-      "type": "SX",
-      "questionId": "k4_c4_sx_160",
-      "question": "Các nhà khảo cổ bền bì bảo vệ các di chỉ cổ tại khu rừng đầu nguồn khỏi nguy cơ cháy rừng.",
-      "elements": [
-        "để ngăn chặn cháy rừng",
-        "bền bỉ tuần tra",
-        "Các nhà khảo cổ",
-        "cánh rừng đầu nguồn"
-      ],
-      "answer": "Các nhà khảo cổ bền bỉ tuần tra cánh rừng đầu nguồn để ngăn chặn cháy rừng.",
-      "explanation": "Trật tự đúng tạo thành câu: “Các nhà khảo cổ bền bỉ tuần tra cánh rừng đầu nguồn để ngăn chặn cháy rừng.”"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_4_VONG_TINH",
-      "type": "SX",
-      "questionId": "k4_c4_sx_161",
-      "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Các nhà khảo cổ” và hoạt động “ân cần giới thiệu”:",
-      "elements": [
-        "ân cần giới thiệu",
-        "với khách phương xa",
-        "Mỗi dịp cuối tuần, các nhà khảo cổ",
-        "phong tục địa phương"
-      ],
-      "answer": "Mỗi dịp cuối tuần, các nhà khảo cổ ân cần giới thiệu phong tục địa phương với khách phương xa.",
-      "explanation": "Trật tự đúng tạo thành câu: “Mỗi dịp cuối tuần, các nhà khảo cổ ân cần giới thiệu phong tục địa phương với khách phương xa.”"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_4_VONG_TINH",
-      "type": "SX",
-      "questionId": "k4_c4_sx_162",
-      "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Các nhà khảo cổ” và hoạt động “cùng nhau làm sạch”:",
-      "elements": [
-        "sau cơn bão lớn",
-        "bãi biển quê nhà",
-        "Trong mùa hè năm ấy, các nhà khảo cổ",
-        "cùng nhau làm sạch"
-      ],
-      "answer": "Trong mùa hè năm ấy, các nhà khảo cổ cùng nhau làm sạch bãi biển quê nhà sau cơn bão lớn.",
-      "explanation": "Trật tự đúng tạo thành câu: “Trong mùa hè năm ấy, các nhà khảo cổ cùng nhau làm sạch bãi biển quê nhà sau cơn bão lớn.”"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_4_VONG_TINH",
-      "type": "SX",
-      "questionId": "k4_c4_sx_163",
-      "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Các nhà khảo cổ” và hoạt động “tích cực quyên góp”:",
-      "elements": [
-        "cho trẻ em vùng khó",
-        "Các nhà khảo cổ",
-        "tích cực quyên góp",
-        "áo ấm và sách vở"
-      ],
-      "answer": "Các nhà khảo cổ tích cực quyên góp áo ấm và sách vở cho trẻ em vùng khó.",
-      "explanation": "Trật tự đúng tạo thành câu: “Các nhà khảo cổ tích cực quyên góp áo ấm và sách vở cho trẻ em vùng khó.”"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_4_VONG_TINH",
-      "type": "SX",
-      "questionId": "k4_c4_sx_164",
-      "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Bà con trong bản” và hoạt động “chung tay trồng”:",
-      "elements": [
-        "chung tay trồng",
-        "dọc con đường mới",
-        "hàng cây bản địa",
-        "Mỗi dịp cuối tuần, bà con trong bản"
-      ],
-      "answer": "Mỗi dịp cuối tuần, bà con trong bản chung tay trồng hàng cây bản địa dọc con đường mới.",
-      "explanation": "Trật tự đúng tạo thành câu: “Mỗi dịp cuối tuần, bà con trong bản chung tay trồng hàng cây bản địa dọc con đường mới.”"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_4_VONG_TINH",
-      "type": "SX",
-      "questionId": "k4_c4_sx_165",
-      "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Bà con trong bản” và hoạt động “miệt mài sưu tầm”:",
-      "elements": [
-        "miệt mài sưu tầm",
-        "Trong mùa hè năm ấy, bà con trong bản",
-        "về lịch sử quê hương",
-        "tư liệu quý"
-      ],
-      "answer": "Trong mùa hè năm ấy, bà con trong bản miệt mài sưu tầm tư liệu quý về lịch sử quê hương.",
-      "explanation": "Trật tự đúng tạo thành câu: “Trong mùa hè năm ấy, bà con trong bản miệt mài sưu tầm tư liệu quý về lịch sử quê hương.”"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_4_VONG_TINH",
-      "type": "SX",
-      "questionId": "k4_c4_sx_166",
-      "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Bà con trong bản” và hoạt động “kiên nhẫn hướng dẫn”:",
-      "elements": [
-        "Bà con trong bản",
-        "kiên nhẫn hướng dẫn",
-        "các em nhỏ",
-        "đọc sách mỗi buổi chiều"
-      ],
-      "answer": "Bà con trong bản kiên nhẫn hướng dẫn các em nhỏ đọc sách mỗi buổi chiều.",
-      "explanation": "Trật tự đúng tạo thành câu: “Bà con trong bản kiên nhẫn hướng dẫn các em nhỏ đọc sách mỗi buổi chiều.”"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_4_VONG_TINH",
-      "type": "SX",
-      "questionId": "k4_c4_sx_167",
-      "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Bà con trong bản” và hoạt động “khẩn trương gia cố”:",
-      "elements": [
-        "trước mùa mưa bão",
-        "Mỗi dịp cuối tuần, bà con trong bản",
-        "bờ kè ven sông",
-        "khẩn trương gia cố"
-      ],
-      "answer": "Mỗi dịp cuối tuần, bà con trong bản khẩn trương gia cố bờ kè ven sông trước mùa mưa bão.",
-      "explanation": "Trật tự đúng tạo thành câu: “Mỗi dịp cuối tuần, bà con trong bản khẩn trương gia cố bờ kè ven sông trước mùa mưa bão.”"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_4_VONG_TINH",
-      "type": "SX",
-      "questionId": "k4_c4_sx_168",
-      "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Bà con trong bản” và hoạt động “hăng hái luyện tập”:",
-      "elements": [
-        "hăng hái luyện tập",
-        "tiết mục dân ca",
-        "cho ngày hội văn hóa",
-        "Trong mùa hè năm ấy, bà con trong bản"
-      ],
-      "answer": "Trong mùa hè năm ấy, bà con trong bản hăng hái luyện tập tiết mục dân ca cho ngày hội văn hóa.",
-      "explanation": "Trật tự đúng tạo thành câu: “Trong mùa hè năm ấy, bà con trong bản hăng hái luyện tập tiết mục dân ca cho ngày hội văn hóa.”"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_4_VONG_TINH",
-      "type": "SX",
-      "questionId": "k4_c4_sx_169",
-      "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Bà con trong bản” và hoạt động “cẩn thận phục chế”:",
-      "elements": [
-        "cẩn thận phục chế",
-        "những hiện vật cũ",
-        "trong phòng trưng bày",
-        "Bà con trong bản"
-      ],
-      "answer": "Bà con trong bản cẩn thận phục chế những hiện vật cũ trong phòng trưng bày.",
-      "explanation": "Trật tự đúng tạo thành câu: “Bà con trong bản cẩn thận phục chế những hiện vật cũ trong phòng trưng bày.”"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_4_VONG_TINH",
-      "type": "SX",
-      "questionId": "k4_c4_sx_170",
-      "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Bà con trong bản” và hoạt động “bền bỉ tuần tra”:",
-      "elements": [
-        "Mỗi dịp cuối tuần, bà con trong bản",
-        "bền bỉ tuần tra",
-        "cánh rừng đầu nguồn",
-        "để ngăn chặn cháy rừng"
-      ],
-      "answer": "Mỗi dịp cuối tuần, bà con trong bản bền bỉ tuần tra cánh rừng đầu nguồn để ngăn chặn cháy rừng.",
-      "explanation": "Trật tự đúng tạo thành câu: “Mỗi dịp cuối tuần, bà con trong bản bền bỉ tuần tra cánh rừng đầu nguồn để ngăn chặn cháy rừng.”"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_4_VONG_TINH",
-      "type": "SX",
-      "questionId": "k4_c4_sx_171",
-      "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Bà con trong bản” và hoạt động “ân cần giới thiệu”:",
-      "elements": [
-        "Trong mùa hè năm ấy, bà con trong bản",
-        "ân cần giới thiệu",
-        "phong tục địa phương",
-        "với khách phương xa"
-      ],
-      "answer": "Trong mùa hè năm ấy, bà con trong bản ân cần giới thiệu phong tục địa phương với khách phương xa.",
-      "explanation": "Trật tự đúng tạo thành câu: “Trong mùa hè năm ấy, bà con trong bản ân cần giới thiệu phong tục địa phương với khách phương xa.”"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_4_VONG_TINH",
-      "type": "SX",
-      "questionId": "k4_c4_sx_172",
-      "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Bà con trong bản” và hoạt động “cùng nhau làm sạch”:",
-      "elements": [
-        "Bà con trong bản",
-        "sau cơn bão lớn",
-        "bãi biển quê nhà",
-        "cùng nhau làm sạch"
-      ],
-      "answer": "Bà con trong bản cùng nhau làm sạch bãi biển quê nhà sau cơn bão lớn.",
-      "explanation": "Trật tự đúng tạo thành câu: “Bà con trong bản cùng nhau làm sạch bãi biển quê nhà sau cơn bão lớn.”"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_4_VONG_TINH",
-      "type": "SX",
-      "questionId": "k4_c4_sx_173",
-      "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Bà con trong bản” và hoạt động “tích cực quyên góp”:",
-      "elements": [
-        "áo ấm và sách vở",
-        "cho trẻ em vùng khó",
-        "Mỗi dịp cuối tuần, bà con trong bản",
-        "tích cực quyên góp"
-      ],
-      "answer": "Mỗi dịp cuối tuần, bà con trong bản tích cực quyên góp áo ấm và sách vở cho trẻ em vùng khó.",
-      "explanation": "Trật tự đúng tạo thành câu: “Mỗi dịp cuối tuần, bà con trong bản tích cực quyên góp áo ấm và sách vở cho trẻ em vùng khó.”"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_4_VONG_TINH",
-      "type": "SX",
-      "questionId": "k4_c4_sx_174",
-      "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Những người làm vườn” và hoạt động “chung tay trồng”:",
-      "elements": [
-        "chung tay trồng",
-        "dọc con đường mới",
-        "hàng cây bản địa",
-        "Trong mùa hè năm ấy, những người làm vườn"
-      ],
-      "answer": "Trong mùa hè năm ấy, những người làm vườn chung tay trồng hàng cây bản địa dọc con đường mới.",
-      "explanation": "Trật tự đúng tạo thành câu: “Trong mùa hè năm ấy, những người làm vườn chung tay trồng hàng cây bản địa dọc con đường mới.”"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_4_VONG_TINH",
-      "type": "SX",
-      "questionId": "k4_c4_sx_175",
-      "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Những người làm vườn” và hoạt động “miệt mài sưu tầm”:",
-      "elements": [
-        "miệt mài sưu tầm",
-        "về lịch sử quê hương",
-        "Những người làm vườn",
-        "tư liệu quý"
-      ],
-      "answer": "Những người làm vườn miệt mài sưu tầm tư liệu quý về lịch sử quê hương.",
-      "explanation": "Trật tự đúng tạo thành câu: “Những người làm vườn miệt mài sưu tầm tư liệu quý về lịch sử quê hương.”"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_4_VONG_TINH",
-      "type": "SX",
-      "questionId": "k4_c4_sx_176",
-      "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Những người làm vườn” và hoạt động “kiên nhẫn hướng dẫn”:",
-      "elements": [
-        "Mỗi dịp cuối tuần, những người làm vườn",
-        "kiên nhẫn hướng dẫn",
-        "đọc sách mỗi buổi chiều",
-        "các em nhỏ"
-      ],
-      "answer": "Mỗi dịp cuối tuần, những người làm vườn kiên nhẫn hướng dẫn các em nhỏ đọc sách mỗi buổi chiều.",
-      "explanation": "Trật tự đúng tạo thành câu: “Mỗi dịp cuối tuần, những người làm vườn kiên nhẫn hướng dẫn các em nhỏ đọc sách mỗi buổi chiều.”"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_4_VONG_TINH",
-      "type": "SX",
-      "questionId": "k4_c4_sx_177",
-      "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Những người làm vườn” và hoạt động “khẩn trương gia cố”:",
-      "elements": [
-        "trước mùa mưa bão",
-        "khẩn trương gia cố",
-        "Trong mùa hè năm ấy, những người làm vườn",
-        "bờ kè ven sông"
-      ],
-      "answer": "Trong mùa hè năm ấy, những người làm vườn khẩn trương gia cố bờ kè ven sông trước mùa mưa bão.",
-      "explanation": "Trật tự đúng tạo thành câu: “Trong mùa hè năm ấy, những người làm vườn khẩn trương gia cố bờ kè ven sông trước mùa mưa bão.”"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_4_VONG_TINH",
-      "type": "SX",
-      "questionId": "k4_c4_sx_178",
-      "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Những người làm vườn” và hoạt động “hăng hái luyện tập”:",
-      "elements": [
-        "Những người làm vườn",
-        "hăng hái luyện tập",
-        "tiết mục dân ca",
-        "cho ngày hội văn hóa"
-      ],
-      "answer": "Những người làm vườn hăng hái luyện tập tiết mục dân ca cho ngày hội văn hóa.",
-      "explanation": "Trật tự đúng tạo thành câu: “Những người làm vườn hăng hái luyện tập tiết mục dân ca cho ngày hội văn hóa.”"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_4_VONG_TINH",
-      "type": "SX",
-      "questionId": "k4_c4_sx_179",
-      "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Những người làm vườn” và hoạt động “cẩn thận phục chế”:",
-      "elements": [
-        "trong phòng trưng bày",
-        "cẩn thận phục chế",
-        "những hiện vật cũ",
-        "Mỗi dịp cuối tuần, những người làm vườn"
-      ],
-      "answer": "Mỗi dịp cuối tuần, những người làm vườn cẩn thận phục chế những hiện vật cũ trong phòng trưng bày.",
-      "explanation": "Trật tự đúng tạo thành câu: “Mỗi dịp cuối tuần, những người làm vườn cẩn thận phục chế những hiện vật cũ trong phòng trưng bày.”"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_4_VONG_TINH",
-      "type": "SX",
-      "questionId": "k4_c4_sx_180",
-      "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Những người làm vườn” và hoạt động “bền bỉ tuần tra”:",
-      "elements": [
-        "bền bỉ tuần tra",
-        "cánh rừng đầu nguồn",
-        "Trong mùa hè năm ấy, những người làm vườn",
-        "để ngăn chặn cháy rừng"
-      ],
-      "answer": "Trong mùa hè năm ấy, những người làm vườn bền bỉ tuần tra cánh rừng đầu nguồn để ngăn chặn cháy rừng.",
-      "explanation": "Trật tự đúng tạo thành câu: “Trong mùa hè năm ấy, những người làm vườn bền bỉ tuần tra cánh rừng đầu nguồn để ngăn chặn cháy rừng.”"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_4_VONG_TINH",
-      "type": "SX",
-      "questionId": "k4_c4_sx_181",
-      "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Những người làm vườn” và hoạt động “ân cần giới thiệu”:",
-      "elements": [
-        "với khách phương xa",
-        "ân cần giới thiệu",
-        "phong tục địa phương",
-        "Những người làm vườn"
-      ],
-      "answer": "Những người làm vườn ân cần giới thiệu phong tục địa phương với khách phương xa.",
-      "explanation": "Trật tự đúng tạo thành câu: “Những người làm vườn ân cần giới thiệu phong tục địa phương với khách phương xa.”"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_4_VONG_TINH",
-      "type": "SX",
-      "questionId": "k4_c4_sx_182",
-      "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Những người làm vườn” và hoạt động “cùng nhau làm sạch”:",
-      "elements": [
-        "sau cơn bão lớn",
-        "cùng nhau làm sạch",
-        "Mỗi dịp cuối tuần, những người làm vườn",
-        "bãi biển quê nhà"
-      ],
-      "answer": "Mỗi dịp cuối tuần, những người làm vườn cùng nhau làm sạch bãi biển quê nhà sau cơn bão lớn.",
-      "explanation": "Trật tự đúng tạo thành câu: “Mỗi dịp cuối tuần, những người làm vườn cùng nhau làm sạch bãi biển quê nhà sau cơn bão lớn.”"
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_4_VONG_TINH",
-      "type": "SX",
-      "questionId": "k4_c4_sx_183",
-      "question": "Sắp xếp các cụm từ rời thành câu hoàn chỉnh; chú ý chủ thể “Những người làm vườn” và hoạt động “tích cực quyên góp”:",
-      "elements": [
-        "tích cực quyên góp",
-        "áo ấm và sách vở",
-        "Trong mùa hè năm ấy, những người làm vườn",
-        "cho trẻ em vùng khó"
-      ],
-      "answer": "Trong mùa hè năm ấy, những người làm vườn tích cực quyên góp áo ấm và sách vở cho trẻ em vùng khó.",
-      "explanation": "Trật tự đúng tạo thành câu: “Trong mùa hè năm ấy, những người làm vườn tích cực quyên góp áo ấm và sách vở cho trẻ em vùng khó.”"
-    },
+   
+    
+    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_4",
@@ -12512,7 +10270,7 @@
       "options": {
         "A": "cuộc khởi nghĩa tiêu biểu do Phan Đình Phùng lãnh đạo",
         "B": "kinh đô của triều Nguyễn dưới thời Gia Long",
-        "C": "phong trào vận động đổi mới do Phan Châu Trinh cổ súy",
+        "C": "phong trào vận động đổi mới do Phan Châu Trinh khởi xướng",
         "D": "thời điểm Toàn quốc kháng chiến bùng nổ"
       },
       "answer": "B",
@@ -12558,7 +10316,7 @@
       "questionId": "k4_c4_tn_269",
       "question": "Thuyết minh viên cần chọn chú thích đúng cho mục “Yên Thế”. Nội dung nào phù hợp?",
       "options": {
-        "A": "phong trào vận động đổi mới do Phan Châu Trinh cổ súy",
+        "A": "phong trào vận động đổi mới do Phan Châu Trinh khởi xướng",
         "B": "nơi Võ Thị Sáu bị giam giữ và hy sinh",
         "C": "thời điểm Toàn quốc kháng chiến bùng nổ",
         "D": "phong trào đấu tranh do Hoàng Hoa Thám lãnh đạo"
@@ -12588,7 +10346,7 @@
       "level": "CAP_4_VONG_TINH",
       "type": "TN",
       "questionId": "k4_c4_tn_271",
-      "question": "Đọc lời giới thiệu trong bảo tàng: “Duy Tân – phong trào vận động đổi mới do Phan Châu Trinh cổ súy.” Địa danh/mốc nào được nhắc đến?",
+      "question": "Đọc lời giới thiệu trong bảo tàng: “Duy Tân – phong trào vận động đổi mới do Phan Châu Trinh khởi xướng.” Địa danh/mốc nào được nhắc đến?",
       "options": {
         "A": "Duy Tân",
         "B": "Côn Đảo",
@@ -12596,7 +10354,7 @@
         "D": "Ngọc Hồi – Đống Đa"
       },
       "answer": "A",
-      "explanation": "Thông tin mô tả chính xác Duy Tân: phong trào vận động đổi mới do Phan Châu Trinh cổ súy."
+      "explanation": "Thông tin mô tả chính xác Duy Tân: phong trào vận động đổi mới do Phan Châu Trinh khởi xướng."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -12704,7 +10462,7 @@
       "options": {
         "A": "địa danh gắn với sự hy sinh của mười nữ thanh niên xung phong",
         "B": "địa điểm gắn với chiến thắng của Quang Trung năm 1789",
-        "C": "phong trào vận động đổi mới do Phan Châu Trinh cổ súy",
+        "C": "phong trào vận động đổi mới do Phan Châu Trinh khởi xướng",
         "D": "cuộc khởi nghĩa tiêu biểu do Phan Đình Phùng lãnh đạo"
       },
       "answer": "A",
