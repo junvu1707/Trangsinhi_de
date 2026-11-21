@@ -4,13 +4,13 @@
   "level": "CAP_4_VONG_TINH",
   "startSeq": 1,
   "seqMode": "CONTINUOUS",
-  "totalQuestions": 1875,
+  "totalQuestions": 1743,
   "typeDistribution": {
     "NOI": 80,
     "CHON": 133,
-    "TN": 1433,
-    "DT": 96,
-    "SX": 133
+    "TN": 1286,
+    "DT": 192,
+    "SX": 52
   },
   "knowledgeSource": "kien thuc gioi han.md + Nội dung nhập trực tiếp",
   "knowledgeReport": {
@@ -7317,7 +7317,6 @@
       "explanation": "Mùa xuân năm 40, Hai Bà Trưng (Trưng Trắc và Trưng Nhị) cưỡi voi phất cờ khởi nghĩa tại Hát Môn, đánh đuổi quân đô hộ nhà Đông Hán, giành lại nền độc lập, tự chủ cho dân tộc.",
       "id": "k5_c4_tn_0218"
     },
-    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_5",
@@ -7471,7 +7470,6 @@
       "explanation": "Trong tiếng Việt, từ Hán Việt 'Bảo vệ' có nghĩa là: 'giữ gìn cho khỏi bị tổn hại, xâm phạm'.",
       "id": "k5_c4_tn_0229"
     },
-    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_5",
@@ -7710,7 +7708,6 @@
       "explanation": "Thành ngữ, tục ngữ chuẩn trong tài liệu ôn tập: 'Vạn sự khởi đầu nan'.",
       "id": "k5_c4_tn_0244"
     },
-    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_5",
@@ -8034,7 +8031,6 @@
       "explanation": "Ở đây 'mũi' được dùng theo nghĩa chuyển dựa trên sự tương đồng về hình thức: Nghĩa chuyển của 'mũi' chỉ phần đầu nhọn nhô ra phía trước.",
       "id": "k5_c4_tn_0264"
     },
-    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_5",
@@ -8154,7 +8150,6 @@
       "explanation": "'Gần mực thì đen gần đèn thì sáng': Ở gần người tốt sẽ học được điều hay, ở gần người xấu dễ bị lây thói hư tật xấu.",
       "id": "k5_c4_tn_0272"
     },
-    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_5",
@@ -11725,9 +11720,6 @@
       "explanation": "Cụm 'Khi kết thúc giờ học' nêu thời gian của hoạt động trong câu.",
       "id": "k5_c4_tn_0483"
     },
-    
-    
-    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_5",
@@ -11762,7 +11754,6 @@
       "explanation": "Cụm 'Khi mùa xuân đến' nêu thời gian của hoạt động trong câu.",
       "id": "k5_c4_tn_0488"
     },
-    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_5",
@@ -11780,7 +11771,6 @@
       "explanation": "Cụm 'Lúc hoàng hôn buông xuống' nêu thời gian của hoạt động trong câu.",
       "id": "k5_c4_tn_0513"
     },
-    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_5",
@@ -11815,8 +11805,6 @@
       "explanation": "Cụm 'Trên sân trường' nêu nơi chốn của hoạt động trong câu.",
       "id": "k5_c4_tn_0553"
     },
-    
-    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_5",
@@ -11834,8 +11822,6 @@
       "explanation": "Cụm 'Ven con đường làng' nêu nơi chốn của hoạt động trong câu.",
       "id": "k5_c4_tn_0568"
     },
-    
-    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_5",
@@ -11887,7 +11873,6 @@
       "explanation": "Cụm 'Vì trời mưa lớn' nêu nguyên nhân của hoạt động trong câu.",
       "id": "k5_c4_tn_0579"
     },
-   
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_5",
@@ -11905,8 +11890,6 @@
       "explanation": "Cụm 'Do gió mùa tràn về' nêu nguyên nhân của hoạt động trong câu.",
       "id": "k5_c4_tn_0582"
     },
-    
-    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_5",
@@ -12009,7 +11992,6 @@
       "explanation": "Cụm 'Vì chăm chỉ luyện tập' nêu nguyên nhân của hoạt động trong câu.",
       "id": "k5_c4_tn_0592"
     },
-    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_5",
@@ -12044,7 +12026,6 @@
       "explanation": "Cụm 'Do con nước dâng cao' nêu nguyên nhân của hoạt động trong câu.",
       "id": "k5_c4_tn_0599"
     },
-    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_5",
@@ -12096,7 +12077,6 @@
       "explanation": "Cụm 'Nhờ có sự đoàn kết' nêu nguyên nhân của hoạt động trong câu.",
       "id": "k5_c4_tn_0603"
     },
-    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_5",
@@ -12148,7 +12128,6 @@
       "explanation": "Cụm 'Vì đường trơn' nêu nguyên nhân của hoạt động trong câu.",
       "id": "k5_c4_tn_0609"
     },
-    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_5",
@@ -12200,7 +12179,6 @@
       "explanation": "Cụm 'Do nắng hạn kéo dài' nêu nguyên nhân của hoạt động trong câu.",
       "id": "k5_c4_tn_0614"
     },
-   
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_5",
@@ -12252,7 +12230,6 @@
       "explanation": "Cụm 'Nhờ sự kiên trì' nêu nguyên nhân của hoạt động trong câu.",
       "id": "k5_c4_tn_0619"
     },
-    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_5",
@@ -12287,7 +12264,6 @@
       "explanation": "Cụm 'Vì bận' nêu nguyên nhân của hoạt động trong câu.",
       "id": "k5_c4_tn_0623"
     },
-    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_5",
@@ -12339,7 +12315,6 @@
       "explanation": "Cụm 'Để bảo vệ môi trường' nêu mục đích của hoạt động trong câu.",
       "id": "k5_c4_tn_0629"
     },
-    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_5",
@@ -12357,7 +12332,6 @@
       "explanation": "Cụm 'Nhằm giúp đỡ bạn khó khăn' nêu mục đích của hoạt động trong câu.",
       "id": "k5_c4_tn_0632"
     },
-   
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_5",
@@ -12426,7 +12400,6 @@
       "explanation": "Cụm 'Để chuẩn bị cho cuộc thi' nêu mục đích của hoạt động trong câu.",
       "id": "k5_c4_tn_0640"
     },
-    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_5",
@@ -12444,8 +12417,6 @@
       "explanation": "Cụm 'Vì mục tiêu học tập tốt' nêu mục đích của hoạt động trong câu.",
       "id": "k5_c4_tn_0642"
     },
-   
-    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_5",
@@ -12463,7 +12434,6 @@
       "explanation": "Cụm 'Nhằm tiết kiệm điện' nêu mục đích của hoạt động trong câu.",
       "id": "k5_c4_tn_0653"
     },
-    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_5",
@@ -12498,7 +12468,6 @@
       "explanation": "Cụm 'Để rèn luyện sức khỏe' nêu mục đích của hoạt động trong câu.",
       "id": "k5_c4_tn_0659"
     },
-    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_5",
@@ -12533,7 +12502,6 @@
       "explanation": "Cụm 'Để tìm hiểu lịch sử' nêu mục đích của hoạt động trong câu.",
       "id": "k5_c4_tn_0664"
     },
-    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_5",
@@ -12551,7 +12519,6 @@
       "explanation": "Cụm 'Nhằm bảo vệ nguồn nước' nêu mục đích của hoạt động trong câu.",
       "id": "k5_c4_tn_0667"
     },
-   
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_5",
@@ -28532,7 +28499,6 @@
       "explanation": "Cái bóng phản chiếu trên mặt nước không phải là vật chất nên không hề bị ướt.",
       "id": "k5_c4_tn_1611"
     },
-    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_5",
@@ -29639,7 +29605,6 @@
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Nhiễu điều phủ lấy giá gương, người trong một nước phải thương nhau cùng\". Đồng bào cùng một giang sơn phải luôn đùm bọc, giúp đỡ lẫn nhau.",
       "id": "k5_c4_dt_1690"
     },
-
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_5",
@@ -29652,7 +29617,6 @@
       "explanation": "Câu văn sử dụng cặp quan hệ từ 'Nhờ... mà...' biểu thị quan hệ Nguyên nhân - Kết quả.",
       "id": "k5_c4_dt_1692"
     },
- 
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_5",
@@ -29761,7 +29725,6 @@
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Lá lành đùm lá rách\". Khuyên con người phải biết đùm bọc, giúp đỡ lẫn nhau khi gặp hoạn nạn, khó khăn.",
       "id": "k5_c4_dt_1702"
     },
-    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_5",
@@ -29786,7 +29749,6 @@
       "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Uống nước nhớ nguồn\". Hưởng trái ngọt nhớ công người trồng cây, uống nước mát nhớ ơn nguồn.",
       "id": "k5_c4_dt_1705"
     },
-    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_5",
@@ -30247,7 +30209,7 @@
       "elements": [
         "Chúng ta",
         "chung tay",
-               "phải luôn",
+        "phải luôn",
         "gìn giữ và bảo vệ",
         "môi trường."
       ],
@@ -30255,7 +30217,6 @@
       "explanation": "Câu hoàn chỉnh đúng trật tự ngữ pháp (Chủ ngữ - Vị ngữ): \"Chúng ta phải luôn chung tay gìn giữ và bảo vệ môi trường.\"",
       "id": "k5_c4_sx_1744"
     },
-    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_5",
@@ -30723,7 +30684,6 @@
       "questionId": "k5_c4_sx_1773",
       "question": "Hãy sắp xếp các từ/cụm từ sau:",
       "elements": [
-        
         "sức khỏe.",
         "Mỗi buổi sáng,",
         "rèn luyện",
@@ -30735,8 +30695,6 @@
       "explanation": "Câu hoàn chỉnh: “Mỗi buổi sáng, chúng em tập thể dục để rèn luyện sức khỏe.”",
       "id": "k5_c4_sx_1773"
     },
- 
-    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_5",
@@ -30790,8 +30748,7 @@
         "bắt",
         "tìm",
         "non.",
-        "đã",
-        
+        "đã"
       ],
       "answer": "Từ sáng sớm, các chú chim non đã tìm bắt sâu non.",
       "explanation": "Câu hoàn chỉnh: “Từ sáng sớm, các chú chim non đã tìm bắt sâu non.”",
@@ -30837,7 +30794,6 @@
       "explanation": "Câu hoàn chỉnh: “Trời sắp trở lạnh, nên mẹ em chuẩn bị áo ấm cho cả nhà.”",
       "id": "k5_c4_sx_1780"
     },
-    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_5",
@@ -30892,7 +30848,6 @@
         "Trong ngày hội làng,",
         "các bạn nhỏ",
         "vui chơi"
-        
       ],
       "answer": "Trong ngày hội làng, các bạn nhỏ vui chơi tại sân đình.",
       "explanation": "Câu hoàn chỉnh: “Trong ngày hội làng, các bạn nhỏ vui chơi tại sân đình.”",
@@ -30942,7 +30897,6 @@
       "explanation": "Câu hoàn chỉnh: “Mỗi buổi sáng, không khí trở nên tươi mát và trong lành.”",
       "id": "k5_c4_sx_1786"
     },
-   
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_5",
@@ -30964,7 +30918,6 @@
       "explanation": "Câu hoàn chỉnh: “Mỗi sáng chủ nhật, người dân cùng chung tay thu gom rác.”",
       "id": "k5_c4_sx_1788"
     },
-    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_5",
@@ -31003,7 +30956,6 @@
       "explanation": "Câu hoàn chỉnh: “Từ sáng sớm, các bạn nhỏ nhanh chóng vào lớp.”",
       "id": "k5_c4_sx_1791"
     },
-    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_5",
@@ -31084,7 +31036,6 @@
       "explanation": "Câu hoàn chỉnh: “Cuối năm học, các bạn học sinh tiến bộ rõ rệt trong học tập.”",
       "id": "k5_c4_sx_1796"
     },
-    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_5",
@@ -31125,10 +31076,6 @@
       "explanation": "Câu hoàn chỉnh: “Buổi sáng, mây trắng trôi lững lờ trên bầu trời.”",
       "id": "k5_c4_sx_1799"
     },
-    
-        
-    
-    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_5",
@@ -31146,7 +31093,6 @@
       "explanation": "Câu hoàn chỉnh: “Bằng đôi bàn tay khéo léo, các bạn nhỏ vẽ rất nhiều những bức tranh đẹp.”",
       "id": "k5_c4_sx_1818"
     },
-    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_5",
@@ -31174,25 +31120,1239 @@
       "questionId": "k5_c4_sx_1840",
       "question": "Hãy sắp xếp các từ/cụm từ :",
       "elements": [
-        
         "khắc phục hậu quả sau lũ'",
         "người dân",
         "giúp đỡ.",
         "đang",
         "Đoàn tình nguyện"
-        
       ],
       "answer": "Đoàn tình nguyện đang giúp đỡ người dânkhắc phục hậu quả sau lũ.",
       "explanation": "Đoàn tình nguyện đang giúp đỡ người dânkhắc phục hậu quả sau lũ.",
       "id": "k5_c4_sx_1840"
     },
-    
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_5",
+      "level": "CAP_4_VONG_TINH",
+      "type": "TN",
+      "questionId": "k5_c4_tn_1841",
+      "question": "Người được mệnh danh là Bố Cái Đại Vương là ai?",
+      "options": {
+        "A": "Lý Nhân Tông",
+        "B": "Phùng Hưng",
+        "C": "Phùng Khắc Khoan",
+        "D": "Lý Thánh Tông"
+      },
+      "answer": "B",
+      "explanation": "Bố Cái Đại Vương là tôn hiệu (tên gọi tôn kính) của Phùng Hưng (thế kỷ VIII), thủ lĩnh cuộc khởi nghĩa chống ách đô hộ nhà Đường.",
+      "id": "k5_c4_tn_1841"
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_5",
+      "level": "CAP_4_VONG_TINH",
+      "type": "DT",
+      "question": "Hãy sắp xếp các chữ cái sau thành một từ có nghĩa: b / i / õ / c / ờ (Gợi ý: Từ chỉ ranh giới lãnh thổ thiêng liêng của một quốc gia)",
+      "blankAnswer": "bờ cõi",
+      "answer": "bờ cõi",
+      "explanation": "Các chữ cái ghép lại thành từ có nghĩa là 'bờ cõi' (Từ chỉ ranh giới lãnh thổ thiêng liêng của một quốc gia).",
+      "questionId": "k5_c4_dt_1842",
+      "id": "k5_c4_dt_1842"
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_5",
+      "level": "CAP_4_VONG_TINH",
+      "type": "DT",
+      "question": "Hãy sắp xếp các chữ cái sau thành một từ có nghĩa: n / c / g / v / ơ / ự / c / ư (Gợi ý: Từ Hán Việt chỉ toàn bộ phạm vi lãnh thổ, chủ quyền của đất nước)",
+      "blankAnswer": "cương vực",
+      "answer": "cương vực",
+      "explanation": "Các chữ cái ghép lại thành từ có nghĩa là 'cương vực' (Từ Hán Việt chỉ toàn bộ phạm vi lãnh thổ, chủ quyền của đất nước).",
+      "questionId": "k5_c4_dt_1843",
+      "id": "k5_c4_dt_1843"
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_5",
+      "level": "CAP_4_VONG_TINH",
+      "type": "DT",
+      "question": "Hãy sắp xếp các chữ cái sau thành một từ có nghĩa: i / đ / ă / n / g / h / ả (Gợi ý: Ngọn tháp chiếu sáng trên biển giúp tàu thuyền định hướng an toàn)",
+      "blankAnswer": "hải đăng",
+      "answer": "hải đăng",
+      "explanation": "Các chữ cái ghép lại thành từ có nghĩa là 'hải đăng' (Ngọn tháp chiếu sáng trên biển giúp tàu thuyền định hướng an toàn).",
+      "questionId": "k5_c4_dt_1844",
+      "id": "k5_c4_dt_1844"
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_5",
+      "level": "CAP_4_VONG_TINH",
+      "type": "DT",
+      "question": "Hãy sắp xếp các chữ cái sau thành một từ có nghĩa: h / n / ả / ậ / p / h / i (Gợi ý: Vùng biển thuộc chủ quyền và quyền tài phán của một quốc gia)",
+      "blankAnswer": "hải phận",
+      "answer": "hải phận",
+      "explanation": "Các chữ cái ghép lại thành từ có nghĩa là 'hải phận' (Vùng biển thuộc chủ quyền và quyền tài phán của một quốc gia).",
+      "questionId": "k5_c4_dt_1845",
+      "id": "k5_c4_dt_1845"
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_5",
+      "level": "CAP_4_VONG_TINH",
+      "type": "DT",
+      "question": "Hãy sắp xếp các chữ cái sau thành một từ có nghĩa: ả / l / i / h / u / ư (Gợi ý: Dòng nước biển chảy liên tục theo một hướng nhất định trong đại dương)",
+      "blankAnswer": "hải lưu",
+      "answer": "hải lưu",
+      "explanation": "Các chữ cái ghép lại thành từ có nghĩa là 'hải lưu' (Dòng nước biển chảy liên tục theo một hướng nhất định trong đại dương).",
+      "questionId": "k5_c4_dt_1846",
+      "id": "k5_c4_dt_1846"
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_5",
+      "level": "CAP_4_VONG_TINH",
+      "type": "DT",
+      "question": "Hãy sắp xếp các chữ cái sau thành một từ có nghĩa: á / h / h / í / c / h / p / k (Gợi ý: Ý chí mạnh mẽ, kiên cường và cao đẹp của con người trước thử thách)",
+      "blankAnswer": "khí phách",
+      "answer": "khí phách",
+      "explanation": "Các chữ cái ghép lại thành từ có nghĩa là 'khí phách' (Ý chí mạnh mẽ, kiên cường và cao đẹp của con người trước thử thách).",
+      "questionId": "k5_c4_dt_1847",
+      "id": "k5_c4_dt_1847"
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_5",
+      "level": "CAP_4_VONG_TINH",
+      "type": "DT",
+      "question": "Hãy sắp xếp các chữ cái sau thành một từ có nghĩa: a / g / h / n / í / ĩ / h / k (Gợi ý: Lòng trung thực, trọng nghĩa hiệp và sẵn sàng hy sinh vì lẽ phải)",
+      "blankAnswer": "nghĩa khí",
+      "answer": "nghĩa khí",
+      "explanation": "Các chữ cái ghép lại thành từ có nghĩa là 'nghĩa khí' (Lòng trung thực, trọng nghĩa hiệp và sẵn sàng hy sinh vì lẽ phải).",
+      "questionId": "k5_c4_dt_1848",
+      "id": "k5_c4_dt_1848"
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_5",
+      "level": "CAP_4_VONG_TINH",
+      "type": "DT",
+      "question": "Hãy sắp xếp các chữ cái sau thành một từ có nghĩa: t / n / u / n / ê / g / r / k / i (Gợi ý: Lòng trung thành vững chắc, kiên định trước sau như một)",
+      "blankAnswer": "kiên trung",
+      "answer": "kiên trung",
+      "explanation": "Các chữ cái ghép lại thành từ có nghĩa là 'kiên trung' (Lòng trung thành vững chắc, kiên định trước sau như một).",
+      "questionId": "k5_c4_dt_1849",
+      "id": "k5_c4_dt_1849"
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_5",
+      "level": "CAP_4_VONG_TINH",
+      "type": "DT",
+      "question": "Hãy sắp xếp các chữ cái sau thành một từ có nghĩa: n / t / g / ũ / r / d / u / g / n (Gợi ý: Lòng trung thành và lòng dũng cảm quên mình vì đất nước)",
+      "blankAnswer": "trung dũng",
+      "answer": "trung dũng",
+      "explanation": "Các chữ cái ghép lại thành từ có nghĩa là 'trung dũng' (Lòng trung thành và lòng dũng cảm quên mình vì đất nước).",
+      "questionId": "k5_c4_dt_1850",
+      "id": "k5_c4_dt_1850"
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_5",
+      "level": "CAP_4_VONG_TINH",
+      "type": "DT",
+      "question": "Hãy sắp xếp các chữ cái sau thành một từ có nghĩa: u / ư / r / t / í / m (Gợi ý: Sự thông minh, tài giỏi trong việc tính toán và giải quyết khó khăn)",
+      "blankAnswer": "mưu trí",
+      "answer": "mưu trí",
+      "explanation": "Các chữ cái ghép lại thành từ có nghĩa là 'mưu trí' (Sự thông minh, tài giỏi trong việc tính toán và giải quyết khó khăn).",
+      "questionId": "k5_c4_dt_1851",
+      "id": "k5_c4_dt_1851"
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_5",
+      "level": "CAP_4_VONG_TINH",
+      "type": "DT",
+      "question": "Hãy sắp xếp các chữ cái sau thành một từ có nghĩa: c / u / l / ư / ợ / ư / m (Gợi ý: Tài năng tính toán sâu xa, sắp xếp kế hoạch lớn để giành thắng lợi)",
+      "blankAnswer": "mưu lược",
+      "answer": "mưu lược",
+      "explanation": "Các chữ cái ghép lại thành từ có nghĩa là 'mưu lược' (Tài năng tính toán sâu xa, sắp xếp kế hoạch lớn để giành thắng lợi).",
+      "questionId": "k5_c4_dt_1852",
+      "id": "k5_c4_dt_1852"
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_5",
+      "level": "CAP_4_VONG_TINH",
+      "type": "DT",
+      "question": "Hãy sắp xếp các chữ cái sau thành một từ có nghĩa: a / l / t / h / o / ư / c / ợ (Gợi ý: Tài nghệ quân sự lỗi lạc, thao lược giỏi giang trong chỉ huy)",
+      "blankAnswer": "thao lược",
+      "answer": "thao lược",
+      "explanation": "Các chữ cái ghép lại thành từ có nghĩa là 'thao lược' (Tài nghệ quân sự lỗi lạc, thao lược giỏi giang trong chỉ huy).",
+      "questionId": "k5_c4_dt_1853",
+      "id": "k5_c4_dt_1853"
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_5",
+      "level": "CAP_4_VONG_TINH",
+      "type": "DT",
+      "question": "Hãy sắp xếp các chữ cái sau thành một từ có nghĩa: n / t / ô / ệ / t / h / u / g (Gợi ý: Trí tuệ sáng suốt, sâu sắc và am hiểu nhiều tri thức sâu xa)",
+      "blankAnswer": "thông tuệ",
+      "answer": "thông tuệ",
+      "explanation": "Các chữ cái ghép lại thành từ có nghĩa là 'thông tuệ' (Trí tuệ sáng suốt, sâu sắc và am hiểu nhiều tri thức sâu xa).",
+      "questionId": "k5_c4_dt_1854",
+      "id": "k5_c4_dt_1854"
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_5",
+      "level": "CAP_4_VONG_TINH",
+      "type": "DT",
+      "question": "Hãy sắp xếp các chữ cái sau thành một từ có nghĩa: ế / t / r / i / t / n / m / i / h (Gợi ý: Trí tuệ sáng suốt, hiểu biết sâu rộng và đạt tới tầm triết lý)",
+      "blankAnswer": "minh triết",
+      "answer": "minh triết",
+      "explanation": "Các chữ cái ghép lại thành từ có nghĩa là 'minh triết' (Trí tuệ sáng suốt, hiểu biết sâu rộng và đạt tới tầm triết lý).",
+      "questionId": "k5_c4_dt_1855",
+      "id": "k5_c4_dt_1855"
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_5",
+      "level": "CAP_4_VONG_TINH",
+      "type": "DT",
+      "question": "Hãy sắp xếp các chữ cái sau thành một từ có nghĩa: ề / i / n / à / h / t / i (Gợi ý: Người có đức độ cao đẹp và tài năng xuất chúng giúp ích cho đất nước)",
+      "blankAnswer": "hiền tài",
+      "answer": "hiền tài",
+      "explanation": "Các chữ cái ghép lại thành từ có nghĩa là 'hiền tài' (Người có đức độ cao đẹp và tài năng xuất chúng giúp ích cho đất nước).",
+      "questionId": "k5_c4_dt_1856",
+      "id": "k5_c4_dt_1856"
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_5",
+      "level": "CAP_4_VONG_TINH",
+      "type": "DT",
+      "question": "Hãy sắp xếp các chữ cái sau thành một từ có nghĩa: t / n / h / à / â / n / i (Gợi ý: Người có tài năng vượt trội, đóng góp to lớn cho xã hội)",
+      "blankAnswer": "nhân tài",
+      "answer": "nhân tài",
+      "explanation": "Các chữ cái ghép lại thành từ có nghĩa là 'nhân tài' (Người có tài năng vượt trội, đóng góp to lớn cho xã hội).",
+      "questionId": "k5_c4_dt_1857",
+      "id": "k5_c4_dt_1857"
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_5",
+      "level": "CAP_4_VONG_TINH",
+      "type": "DT",
+      "question": "Hãy sắp xếp các chữ cái sau thành một từ có nghĩa: đ / t / i / à / c / ứ (Gợi ý: Phẩm chất kết hợp vẹn toàn giữa tài năng xuất sắc và đạo đức trong sáng)",
+      "blankAnswer": "tài đức",
+      "answer": "tài đức",
+      "explanation": "Các chữ cái ghép lại thành từ có nghĩa là 'tài đức' (Phẩm chất kết hợp vẹn toàn giữa tài năng xuất sắc và đạo đức trong sáng).",
+      "questionId": "k5_c4_dt_1858",
+      "id": "k5_c4_dt_1858"
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_5",
+      "level": "CAP_4_VONG_TINH",
+      "type": "DT",
+      "question": "Hãy sắp xếp các chữ cái sau thành một từ có nghĩa: k / g / u / n / n / o / d / a / h (Gợi ý: Lòng rộng lượng, sẵn sàng cảm thông và tha thứ lỗi lầm của người khác)",
+      "blankAnswer": "khoan dung",
+      "answer": "khoan dung",
+      "explanation": "Các chữ cái ghép lại thành từ có nghĩa là 'khoan dung' (Lòng rộng lượng, sẵn sàng cảm thông và tha thứ lỗi lầm của người khác).",
+      "questionId": "k5_c4_dt_1859",
+      "id": "k5_c4_dt_1859"
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_5",
+      "level": "CAP_4_VONG_TINH",
+      "type": "DT",
+      "question": "Hãy sắp xếp các chữ cái sau thành một từ có nghĩa: k / ế / t / í / h / t / i (Gợi ý: Phẩm chất kiên trinh, giữ trọn danh dự và khí phách không chịu khuất phục)",
+      "blankAnswer": "khí tiết",
+      "answer": "khí tiết",
+      "explanation": "Các chữ cái ghép lại thành từ có nghĩa là 'khí tiết' (Phẩm chất kiên trinh, giữ trọn danh dự và khí phách không chịu khuất phục).",
+      "questionId": "k5_c4_dt_1860",
+      "id": "k5_c4_dt_1860"
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_5",
+      "level": "CAP_4_VONG_TINH",
+      "type": "DT",
+      "question": "Hãy sắp xếp các chữ cái sau thành một từ có nghĩa: ứ / đ / ộ / đ / c (Gợi ý: Phẩm hạnh đạo đức tốt đẹp, cao quý được mọi người nể phục)",
+      "blankAnswer": "đức độ",
+      "answer": "đức độ",
+      "explanation": "Các chữ cái ghép lại thành từ có nghĩa là 'đức độ' (Phẩm hạnh đạo đức tốt đẹp, cao quý được mọi người nể phục).",
+      "questionId": "k5_c4_dt_1861",
+      "id": "k5_c4_dt_1861"
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_5",
+      "level": "CAP_4_VONG_TINH",
+      "type": "DT",
+      "question": "Hãy sắp xếp các chữ cái sau thành một từ có nghĩa: g / u / i / n / q / ạ / đ / ả (Gợi ý: Lòng dạ rộng lượng bao la, nhìn xa trông rộng và không tính toán hẹp hòi)",
+      "blankAnswer": "quảng đại",
+      "answer": "quảng đại",
+      "explanation": "Các chữ cái ghép lại thành từ có nghĩa là 'quảng đại' (Lòng dạ rộng lượng bao la, nhìn xa trông rộng và không tính toán hẹp hòi).",
+      "questionId": "k5_c4_dt_1862",
+      "id": "k5_c4_dt_1862"
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_5",
+      "level": "CAP_4_VONG_TINH",
+      "type": "DT",
+      "question": "Hãy sắp xếp các chữ cái sau thành một từ có nghĩa: n / t / m / g / c / â / ô (Gợi ý: Thái độ vô tư, công bằng, không thiên vị trong phân xử và đánh giá)",
+      "blankAnswer": "công tâm",
+      "answer": "công tâm",
+      "explanation": "Các chữ cái ghép lại thành từ có nghĩa là 'công tâm' (Thái độ vô tư, công bằng, không thiên vị trong phân xử và đánh giá).",
+      "questionId": "k5_c4_dt_1863",
+      "id": "k5_c4_dt_1863"
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_5",
+      "level": "CAP_4_VONG_TINH",
+      "type": "DT",
+      "question": "Hãy sắp xếp các chữ cái sau thành một từ có nghĩa: t / ư / ô / v (Gợi ý: Phẩm chất trong sáng, công bằng, không vụ lợi cá nhân)",
+      "blankAnswer": "vô tư",
+      "answer": "vô tư",
+      "explanation": "Các chữ cái ghép lại thành từ có nghĩa là 'vô tư' (Phẩm chất trong sáng, công bằng, không vụ lợi cá nhân).",
+      "questionId": "k5_c4_dt_1864",
+      "id": "k5_c4_dt_1864"
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_5",
+      "level": "CAP_4_VONG_TINH",
+      "type": "DT",
+      "question": "Hãy sắp xếp các chữ cái sau thành một từ có nghĩa: i / h / ê / h / n / í / c / m / l (Gợi ý: Phẩm chất trong sạch, ngay thẳng và tôn trọng lẽ phải)",
+      "blankAnswer": "liêm chính",
+      "answer": "liêm chính",
+      "explanation": "Các chữ cái ghép lại thành từ có nghĩa là 'liêm chính' (Phẩm chất trong sạch, ngay thẳng và tôn trọng lẽ phải).",
+      "questionId": "k5_c4_dt_1865",
+      "id": "k5_c4_dt_1865"
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_5",
+      "level": "CAP_4_VONG_TINH",
+      "type": "DT",
+      "question": "Hãy sắp xếp các chữ cái sau thành một từ có nghĩa: í / c / ô / c / n / g / h (Gợi ý: Phẩm chất hoàn toàn vì việc chung, công bằng và không chút tư lợi)",
+      "blankAnswer": "chí công",
+      "answer": "chí công",
+      "explanation": "Các chữ cái ghép lại thành từ có nghĩa là 'chí công' (Phẩm chất hoàn toàn vì việc chung, công bằng và không chút tư lợi).",
+      "questionId": "k5_c4_dt_1866",
+      "id": "k5_c4_dt_1866"
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_5",
+      "level": "CAP_4_VONG_TINH",
+      "type": "DT",
+      "question": "Hãy sắp xếp các chữ cái sau thành một từ có nghĩa: l / k / t / u / ỷ / ậ (Gợi ý: Những quy tắc ứng xử, trật tự bắt buộc mọi thành viên trong tập thể phải tuân thủ)",
+      "blankAnswer": "kỷ luật",
+      "answer": "kỷ luật",
+      "explanation": "Các chữ cái ghép lại thành từ có nghĩa là 'kỷ luật' (Những quy tắc ứng xử, trật tự bắt buộc mọi thành viên trong tập thể phải tuân thủ).",
+      "questionId": "k5_c4_dt_1867",
+      "id": "k5_c4_dt_1867"
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_5",
+      "level": "CAP_4_VONG_TINH",
+      "type": "DT",
+      "question": "Hãy sắp xếp các chữ cái sau thành một từ có nghĩa: q / u / c / ủ / y (Gợi ý: Trật tự, nề nếp chặt chẽ và chuẩn mực trong công việc hay sinh hoạt)",
+      "blankAnswer": "quy củ",
+      "answer": "quy củ",
+      "explanation": "Các chữ cái ghép lại thành từ có nghĩa là 'quy củ' (Trật tự, nề nếp chặt chẽ và chuẩn mực trong công việc hay sinh hoạt).",
+      "questionId": "k5_c4_dt_1868",
+      "id": "k5_c4_dt_1868"
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_5",
+      "level": "CAP_4_VONG_TINH",
+      "type": "DT",
+      "question": "Hãy sắp xếp các chữ cái sau thành một từ có nghĩa: ề / n / n / p / ế (Gợi ý: Thói quen sinh hoạt, nề nếp gia phong tốt đẹp được giữ gìn từ lâu đời)",
+      "blankAnswer": "nề nếp",
+      "answer": "nề nếp",
+      "explanation": "Các chữ cái ghép lại thành từ có nghĩa là 'nề nếp' (Thói quen sinh hoạt, nề nếp gia phong tốt đẹp được giữ gìn từ lâu đời).",
+      "questionId": "k5_c4_dt_1869",
+      "id": "k5_c4_dt_1869"
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_5",
+      "level": "CAP_4_VONG_TINH",
+      "type": "DT",
+      "question": "Hãy sắp xếp các chữ cái sau thành một từ có nghĩa: g / t / n / ơ / i / l / r / ư (Gợi ý: Nhận thức sáng suốt và đúng đắn về đạo lý, thiện ác trong tâm hồn con người)",
+      "blankAnswer": "lương tri",
+      "answer": "lương tri",
+      "explanation": "Các chữ cái ghép lại thành từ có nghĩa là 'lương tri' (Nhận thức sáng suốt và đúng đắn về đạo lý, thiện ác trong tâm hồn con người).",
+      "questionId": "k5_c4_dt_1870",
+      "id": "k5_c4_dt_1870"
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_5",
+      "level": "CAP_4_VONG_TINH",
+      "type": "DT",
+      "question": "Hãy sắp xếp các chữ cái sau thành một từ có nghĩa: g / ệ / ư / t / h / l / n / i / ơ / n (Gợi ý: Tính nết hiền lành, thật thà và luôn hướng thiện, làm điều tốt)",
+      "blankAnswer": "lương thiện",
+      "answer": "lương thiện",
+      "explanation": "Các chữ cái ghép lại thành từ có nghĩa là 'lương thiện' (Tính nết hiền lành, thật thà và luôn hướng thiện, làm điều tốt).",
+      "questionId": "k5_c4_dt_1871",
+      "id": "k5_c4_dt_1871"
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_5",
+      "level": "CAP_4_VONG_TINH",
+      "type": "DT",
+      "question": "Hãy sắp xếp các chữ cái sau thành một từ có nghĩa: m / â / ệ / n / t / h / t / i (Gợi ý: Tấm lòng tốt đẹp, trong sáng và luôn hướng tới những điều thiện lành)",
+      "blankAnswer": "thiện tâm",
+      "answer": "thiện tâm",
+      "explanation": "Các chữ cái ghép lại thành từ có nghĩa là 'thiện tâm' (Tấm lòng tốt đẹp, trong sáng và luôn hướng tới những điều thiện lành).",
+      "questionId": "k5_c4_dt_1872",
+      "id": "k5_c4_dt_1872"
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_5",
+      "level": "CAP_4_VONG_TINH",
+      "type": "DT",
+      "question": "Hãy sắp xếp các chữ cái sau thành một từ có nghĩa: n / d / a / d / ự / h (Gợi ý: Giá trị tinh thần cao quý, lòng tự trọng và phẩm giá của một con người)",
+      "blankAnswer": "danh dự",
+      "answer": "danh dự",
+      "explanation": "Các chữ cái ghép lại thành từ có nghĩa là 'danh dự' (Giá trị tinh thần cao quý, lòng tự trọng và phẩm giá của một con người).",
+      "questionId": "k5_c4_dt_1873",
+      "id": "k5_c4_dt_1873"
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_5",
+      "level": "CAP_4_VONG_TINH",
+      "type": "DT",
+      "question": "Hãy sắp xếp các chữ cái sau thành một từ có nghĩa: t / p / n / i / h / n / o / ê / g (Gợi ý: Người đi đầu, dẫn đầu trong phong trào hoặc công việc khó khăn)",
+      "blankAnswer": "tiên phong",
+      "answer": "tiên phong",
+      "explanation": "Các chữ cái ghép lại thành từ có nghĩa là 'tiên phong' (Người đi đầu, dẫn đầu trong phong trào hoặc công việc khó khăn).",
+      "questionId": "k5_c4_dt_1874",
+      "id": "k5_c4_dt_1874"
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_5",
+      "level": "CAP_4_VONG_TINH",
+      "type": "DT",
+      "question": "Hãy sắp xếp các chữ cái sau thành một từ có nghĩa: n / x / t / h / â / ả (Gợi ý: Hành động hy sinh thân mình, quên mình vì đại nghĩa cứu người cứu nước)",
+      "blankAnswer": "xả thân",
+      "answer": "xả thân",
+      "explanation": "Các chữ cái ghép lại thành từ có nghĩa là 'xả thân' (Hành động hy sinh thân mình, quên mình vì đại nghĩa cứu người cứu nước).",
+      "questionId": "k5_c4_dt_1875",
+      "id": "k5_c4_dt_1875"
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_5",
+      "level": "CAP_4_VONG_TINH",
+      "type": "DT",
+      "question": "Hãy sắp xếp các chữ cái sau thành một từ có nghĩa: ệ / k / u / x / t / t / i / ấ (Gợi ý: Tài năng hoặc nhân vật vượt trội, nổi bật hơn hẳn mức bình thường)",
+      "blankAnswer": "kiệt xuất",
+      "answer": "kiệt xuất",
+      "explanation": "Các chữ cái ghép lại thành từ có nghĩa là 'kiệt xuất' (Tài năng hoặc nhân vật vượt trội, nổi bật hơn hẳn mức bình thường).",
+      "questionId": "k5_c4_dt_1876",
+      "id": "k5_c4_dt_1876"
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_5",
+      "level": "CAP_4_VONG_TINH",
+      "type": "DT",
+      "question": "Hãy sắp xếp các chữ cái sau thành một từ có nghĩa: c / i / ạ / l / ỗ / l (Gợi ý: Tài ba xuất chúng, uyên bác và có tầm ảnh hưởng lớn lao)",
+      "blankAnswer": "lỗi lạc",
+      "answer": "lỗi lạc",
+      "explanation": "Các chữ cái ghép lại thành từ có nghĩa là 'lỗi lạc' (Tài ba xuất chúng, uyên bác và có tầm ảnh hưởng lớn lao).",
+      "questionId": "k5_c4_dt_1877",
+      "id": "k5_c4_dt_1877"
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_5",
+      "level": "CAP_4_VONG_TINH",
+      "type": "DT",
+      "question": "Hãy sắp xếp các chữ cái sau thành một từ có nghĩa: v / h / n / i / ể / i / n / h (Gợi ý: Sự vẻ vang, danh giá tột bậc được lưu danh muôn thuở)",
+      "blankAnswer": "hiển vinh",
+      "answer": "hiển vinh",
+      "explanation": "Các chữ cái ghép lại thành từ có nghĩa là 'hiển vinh' (Sự vẻ vang, danh giá tột bậc được lưu danh muôn thuở).",
+      "questionId": "k5_c4_dt_1878",
+      "id": "k5_c4_dt_1878"
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_5",
+      "level": "CAP_4_VONG_TINH",
+      "type": "DT",
+      "question": "Hãy sắp xếp các chữ cái sau thành một từ có nghĩa: n / ạ / d / r / g / a / n / h (Gợi ý: Làm cho tên tuổi, quê hương đất nước được vẻ vang và tự hào)",
+      "blankAnswer": "rạng danh",
+      "answer": "rạng danh",
+      "explanation": "Các chữ cái ghép lại thành từ có nghĩa là 'rạng danh' (Làm cho tên tuổi, quê hương đất nước được vẻ vang và tự hào).",
+      "questionId": "k5_c4_dt_1879",
+      "id": "k5_c4_dt_1879"
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_5",
+      "level": "CAP_4_VONG_TINH",
+      "type": "DT",
+      "question": "Hãy sắp xếp các chữ cái sau thành một từ có nghĩa: u / a / n / g / q / h / y / u (Gợi ý: Vẻ sáng chói, rực rỡ và huy hoàng của chiến công hay sự nghiệp)",
+      "blankAnswer": "quang huy",
+      "answer": "quang huy",
+      "explanation": "Các chữ cái ghép lại thành từ có nghĩa là 'quang huy' (Vẻ sáng chói, rực rỡ và huy hoàng của chiến công hay sự nghiệp).",
+      "questionId": "k5_c4_dt_1880",
+      "id": "k5_c4_dt_1880"
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_5",
+      "level": "CAP_4_VONG_TINH",
+      "type": "DT",
+      "question": "Hãy sắp xếp các chữ cái sau thành một từ có nghĩa: h / o / y / g / u / h / à / n (Gợi ý: Cảnh tượng hoặc sự nghiệp vô cùng vẻ vang, rực rỡ và tốt đẹp)",
+      "blankAnswer": "huy hoàng",
+      "answer": "huy hoàng",
+      "explanation": "Các chữ cái ghép lại thành từ có nghĩa là 'huy hoàng' (Cảnh tượng hoặc sự nghiệp vô cùng vẻ vang, rực rỡ và tốt đẹp).",
+      "questionId": "k5_c4_dt_1881",
+      "id": "k5_c4_dt_1881"
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_5",
+      "level": "CAP_4_VONG_TINH",
+      "type": "DT",
+      "question": "Hãy sắp xếp các chữ cái sau thành một từ có nghĩa: h / n / t / n / p / ồ / h / h / ị (Gợi ý: Cảnh đất nước hay xã hội giàu có, thịnh vượng và phát triển mạnh mẽ)",
+      "blankAnswer": "phồn thịnh",
+      "answer": "phồn thịnh",
+      "explanation": "Các chữ cái ghép lại thành từ có nghĩa là 'phồn thịnh' (Cảnh đất nước hay xã hội giàu có, thịnh vượng và phát triển mạnh mẽ).",
+      "questionId": "k5_c4_dt_1882",
+      "id": "k5_c4_dt_1882"
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_5",
+      "level": "CAP_4_VONG_TINH",
+      "type": "DT",
+      "question": "Hãy sắp xếp các chữ cái sau thành một từ có nghĩa: ồ / n / t / r / g / n / t / ờ / ư (Gợi ý: Sự tồn tại lâu dài, bền vững mãi mãi cùng thời gian)",
+      "blankAnswer": "trường tồn",
+      "answer": "trường tồn",
+      "explanation": "Các chữ cái ghép lại thành từ có nghĩa là 'trường tồn' (Sự tồn tại lâu dài, bền vững mãi mãi cùng thời gian).",
+      "questionId": "k5_c4_dt_1883",
+      "id": "k5_c4_dt_1883"
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_5",
+      "level": "CAP_4_VONG_TINH",
+      "type": "DT",
+      "question": "Hãy sắp xếp các chữ cái sau thành một từ có nghĩa: t / b / ấ / ủ / h (Gợi ý: Tác phẩm hay sự nghiệp có giá trị vĩnh cửu, không bao giờ bị phai mờ)",
+      "blankAnswer": "bất hủ",
+      "answer": "bất hủ",
+      "explanation": "Các chữ cái ghép lại thành từ có nghĩa là 'bất hủ' (Tác phẩm hay sự nghiệp có giá trị vĩnh cửu, không bao giờ bị phai mờ).",
+      "questionId": "k5_c4_dt_1884",
+      "id": "k5_c4_dt_1884"
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_5",
+      "level": "CAP_4_VONG_TINH",
+      "type": "DT",
+      "question": "Hãy sắp xếp các chữ cái sau thành một từ có nghĩa: k / a / h / t / ế / ừ (Gợi ý: Tiếp nối và phát huy những thành quả, truyền thống tốt đẹp của đời trước)",
+      "blankAnswer": "kế thừa",
+      "answer": "kế thừa",
+      "explanation": "Các chữ cái ghép lại thành từ có nghĩa là 'kế thừa' (Tiếp nối và phát huy những thành quả, truyền thống tốt đẹp của đời trước).",
+      "questionId": "k5_c4_dt_1885",
+      "id": "k5_c4_dt_1885"
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_5",
+      "level": "CAP_4_VONG_TINH",
+      "type": "DT",
+      "question": "Hãy sắp xếp các chữ cái sau thành một từ có nghĩa: n / i / h / n / ệ / g / i / p / ố (Gợi ý: Tiếp nối sự nghiệp, nghề nghiệp vẻ vang của cha ông để lại)",
+      "blankAnswer": "nối nghiệp",
+      "answer": "nối nghiệp",
+      "explanation": "Các chữ cái ghép lại thành từ có nghĩa là 'nối nghiệp' (Tiếp nối sự nghiệp, nghề nghiệp vẻ vang của cha ông để lại).",
+      "questionId": "k5_c4_dt_1886",
+      "id": "k5_c4_dt_1886"
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_5",
+      "level": "CAP_4_VONG_TINH",
+      "type": "DT",
+      "question": "Hãy sắp xếp các chữ cái sau thành một từ có nghĩa: ấ / n / h / d / u / i (Gợi ý: Lời răn dạy quý báu của người đi trước để lại cho thế hệ sau)",
+      "blankAnswer": "di huấn",
+      "answer": "di huấn",
+      "explanation": "Các chữ cái ghép lại thành từ có nghĩa là 'di huấn' (Lời răn dạy quý báu của người đi trước để lại cho thế hệ sau).",
+      "questionId": "k5_c4_dt_1887",
+      "id": "k5_c4_dt_1887"
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_5",
+      "level": "CAP_4_VONG_TINH",
+      "type": "DT",
+      "question": "Hãy sắp xếp các chữ cái sau thành một từ có nghĩa: b / n / ố / t / i / i / ề (Gợi ý: Người thuộc thế hệ đi trước, có nhiều kinh nghiệm và đáng kính trọng)",
+      "blankAnswer": "tiền bối",
+      "answer": "tiền bối",
+      "explanation": "Các chữ cái ghép lại thành từ có nghĩa là 'tiền bối' (Người thuộc thế hệ đi trước, có nhiều kinh nghiệm và đáng kính trọng).",
+      "questionId": "k5_c4_dt_1888",
+      "id": "k5_c4_dt_1888"
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_5",
+      "level": "CAP_4_VONG_TINH",
+      "type": "DT",
+      "question": "Hãy sắp xếp các chữ cái sau thành một từ có nghĩa: h / ậ / t / u / h / ế (Gợi ý: Thế hệ tương lai, các lớp con cháu nối tiếp về sau)",
+      "blankAnswer": "hậu thế",
+      "answer": "hậu thế",
+      "explanation": "Các chữ cái ghép lại thành từ có nghĩa là 'hậu thế' (Thế hệ tương lai, các lớp con cháu nối tiếp về sau).",
+      "questionId": "k5_c4_dt_1889",
+      "id": "k5_c4_dt_1889"
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_5",
+      "level": "CAP_4_VONG_TINH",
+      "type": "DT",
+      "question": "Hãy sắp xếp các chữ cái sau thành một từ có nghĩa: h / y / u / s / n / q / i / n / ể (Gợi ý: Tầng vỏ Trái Đất có sinh vật sinh sống, bao gồm cả không khí, đất và nước)",
+      "blankAnswer": "sinh quyển",
+      "answer": "sinh quyển",
+      "explanation": "Các chữ cái ghép lại thành từ có nghĩa là 'sinh quyển' (Tầng vỏ Trái Đất có sinh vật sinh sống, bao gồm cả không khí, đất và nước).",
+      "questionId": "k5_c4_dt_1890",
+      "id": "k5_c4_dt_1890"
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_5",
+      "level": "CAP_4_VONG_TINH",
+      "type": "DT",
+      "question": "Hãy sắp xếp các chữ cái sau thành một từ có nghĩa: k / q / í / h / ể / y / n / u (Gợi ý: Lớp không khí bao quanh Trái Đất, duy trì sự sống cho muôn loài)",
+      "blankAnswer": "khí quyển",
+      "answer": "khí quyển",
+      "explanation": "Các chữ cái ghép lại thành từ có nghĩa là 'khí quyển' (Lớp không khí bao quanh Trái Đất, duy trì sự sống cho muôn loài).",
+      "questionId": "k5_c4_dt_1891",
+      "id": "k5_c4_dt_1891"
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_5",
+      "level": "CAP_4_VONG_TINH",
+      "type": "DT",
+      "question": "Hãy sắp xếp các chữ cái sau thành một từ có nghĩa: c / ư / h / g / c / ớ / ọ / n / t",
+      "blankAnswer": "thước ngọc",
+      "answer": "thước ngọc",
+      "explanation": "Các chữ cái ghép lại thành từ có nghĩa là 'thước ngọc'.",
+      "questionId": "k5_c4_dt_1892",
+      "id": "k5_c4_dt_1892"
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_5",
+      "level": "CAP_4_VONG_TINH",
+      "type": "DT",
+      "question": "Hãy sắp xếp các chữ cái sau thành một từ có nghĩa: t / m / í / m / ự / c",
+      "blankAnswer": "mực tím",
+      "answer": "mực tím",
+      "explanation": "Các chữ cái ghép lại thành từ có nghĩa là 'mực tím'.",
+      "questionId": "k5_c4_dt_1893",
+      "id": "k5_c4_dt_1893"
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_5",
+      "level": "CAP_4_VONG_TINH",
+      "type": "DT",
+      "question": "Hãy sắp xếp các chữ cái sau thành một từ có nghĩa: n / ú / i / g / t / b / ò",
+      "blankAnswer": "ngòi bút",
+      "answer": "ngòi bút",
+      "explanation": "Các chữ cái ghép lại thành từ có nghĩa là 'ngòi bút'.",
+      "questionId": "k5_c4_dt_1894",
+      "id": "k5_c4_dt_1894"
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_5",
+      "level": "CAP_4_VONG_TINH",
+      "type": "DT",
+      "question": "Hãy sắp xếp các chữ cái sau thành một từ có nghĩa: n / b / y / a / à / t",
+      "blankAnswer": "bàn tay",
+      "answer": "bàn tay",
+      "explanation": "Các chữ cái ghép lại thành từ có nghĩa là 'bàn tay'.",
+      "questionId": "k5_c4_dt_1895",
+      "id": "k5_c4_dt_1895"
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_5",
+      "level": "CAP_4_VONG_TINH",
+      "type": "DT",
+      "question": "Hãy sắp xếp các chữ cái sau thành một từ có nghĩa: c / h / ư / â / ớ / b / c / n",
+      "blankAnswer": "bước chân",
+      "answer": "bước chân",
+      "explanation": "Các chữ cái ghép lại thành từ có nghĩa là 'bước chân'.",
+      "questionId": "k5_c4_dt_1896",
+      "id": "k5_c4_dt_1896"
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_5",
+      "level": "CAP_4_VONG_TINH",
+      "type": "DT",
+      "question": "Hãy sắp xếp các chữ cái sau thành một từ có nghĩa: b / h / ế / p / n / à",
+      "blankAnswer": "bến phà",
+      "answer": "bến phà",
+      "explanation": "Các chữ cái ghép lại thành từ có nghĩa là 'bến phà'.",
+      "questionId": "k5_c4_dt_1897",
+      "id": "k5_c4_dt_1897"
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_5",
+      "level": "CAP_4_VONG_TINH",
+      "type": "DT",
+      "question": "Hãy sắp xếp các chữ cái sau thành một từ có nghĩa: u / n / y / h / ề / c / n / o / t",
+      "blankAnswer": "con thuyền",
+      "answer": "con thuyền",
+      "explanation": "Các chữ cái ghép lại thành từ có nghĩa là 'con thuyền'.",
+      "questionId": "k5_c4_dt_1898",
+      "id": "k5_c4_dt_1898"
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_5",
+      "level": "CAP_4_VONG_TINH",
+      "type": "DT",
+      "question": "Hãy sắp xếp các chữ cái sau thành một từ có nghĩa: á / h / ồ / c / b / n / m / u",
+      "blankAnswer": "cánh buồm",
+      "answer": "cánh buồm",
+      "explanation": "Các chữ cái ghép lại thành từ có nghĩa là 'cánh buồm'.",
+      "questionId": "k5_c4_dt_1899",
+      "id": "k5_c4_dt_1899"
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_5",
+      "level": "CAP_4_VONG_TINH",
+      "type": "DT",
+      "question": "Hãy sắp xếp các chữ cái sau thành một từ có nghĩa: u / t / m / i / à / ũ",
+      "blankAnswer": "mũi tàu",
+      "answer": "mũi tàu",
+      "explanation": "Các chữ cái ghép lại thành từ có nghĩa là 'mũi tàu'.",
+      "questionId": "k5_c4_dt_1900",
+      "id": "k5_c4_dt_1900"
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_5",
+      "level": "CAP_4_VONG_TINH",
+      "type": "DT",
+      "question": "Hãy sắp xếp các chữ cái sau thành một từ có nghĩa: ả / b / n / n / ể / c / g / i",
+      "blankAnswer": "cảng biển",
+      "answer": "cảng biển",
+      "explanation": "Các chữ cái ghép lại thành từ có nghĩa là 'cảng biển'.",
+      "questionId": "k5_c4_dt_1901",
+      "id": "k5_c4_dt_1901"
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_5",
+      "level": "CAP_4_VONG_TINH",
+      "type": "DT",
+      "question": "Hãy sắp xếp các chữ cái sau thành một từ có nghĩa: c / á / b / t / i / ã",
+      "blankAnswer": "bãi cát",
+      "answer": "bãi cát",
+      "explanation": "Các chữ cái ghép lại thành từ có nghĩa là 'bãi cát'.",
+      "questionId": "k5_c4_dt_1902",
+      "id": "k5_c4_dt_1902"
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_5",
+      "level": "CAP_4_VONG_TINH",
+      "type": "DT",
+      "question": "Hãy sắp xếp các chữ cái sau thành một từ có nghĩa: c / ó / i / n / ế / b / g / s",
+      "blankAnswer": "sóng biếc",
+      "answer": "sóng biếc",
+      "explanation": "Các chữ cái ghép lại thành từ có nghĩa là 'sóng biếc'.",
+      "questionId": "k5_c4_dt_1903",
+      "id": "k5_c4_dt_1903"
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_5",
+      "level": "CAP_4_VONG_TINH",
+      "type": "DT",
+      "question": "Hãy sắp xếp các chữ cái sau thành một từ có nghĩa: i / ó / n / ế / n / g / s / t / g",
+      "blankAnswer": "tiếng sóng",
+      "answer": "tiếng sóng",
+      "explanation": "Các chữ cái ghép lại thành từ có nghĩa là 'tiếng sóng'.",
+      "questionId": "k5_c4_dt_1904",
+      "id": "k5_c4_dt_1904"
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_5",
+      "level": "CAP_4_VONG_TINH",
+      "type": "DT",
+      "question": "Hãy sắp xếp các chữ cái sau thành một từ có nghĩa: b / i / ầ / t / r / ờ / u",
+      "blankAnswer": "bầu trời",
+      "answer": "bầu trời",
+      "explanation": "Các chữ cái ghép lại thành từ có nghĩa là 'bầu trời'.",
+      "questionId": "k5_c4_dt_1905",
+      "id": "k5_c4_dt_1905"
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_5",
+      "level": "CAP_4_VONG_TINH",
+      "type": "DT",
+      "question": "Hãy sắp xếp các chữ cái sau thành một từ có nghĩa: r / ờ / v / ò / m / i / t",
+      "blankAnswer": "vòm trời",
+      "answer": "vòm trời",
+      "explanation": "Các chữ cái ghép lại thành từ có nghĩa là 'vòm trời'.",
+      "questionId": "k5_c4_dt_1906",
+      "id": "k5_c4_dt_1906"
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_5",
+      "level": "CAP_4_VONG_TINH",
+      "type": "DT",
+      "question": "Hãy sắp xếp các chữ cái sau thành một từ có nghĩa: m / b / ể / ặ / i / n / t",
+      "blankAnswer": "mặt biển",
+      "answer": "mặt biển",
+      "explanation": "Các chữ cái ghép lại thành từ có nghĩa là 'mặt biển'.",
+      "questionId": "k5_c4_dt_1907",
+      "id": "k5_c4_dt_1907"
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_5",
+      "level": "CAP_4_VONG_TINH",
+      "type": "DT",
+      "question": "Hãy sắp xếp các chữ cái sau thành một từ có nghĩa: t / c / n / i / h / r / ờ / â",
+      "blankAnswer": "chân trời",
+      "answer": "chân trời",
+      "explanation": "Các chữ cái ghép lại thành từ có nghĩa là 'chân trời'.",
+      "questionId": "k5_c4_dt_1908",
+      "id": "k5_c4_dt_1908"
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_5",
+      "level": "CAP_4_VONG_TINH",
+      "type": "DT",
+      "question": "Hãy sắp xếp các chữ cái sau thành một từ có nghĩa: i / a / n / o / ú / c",
+      "blankAnswer": "núi cao",
+      "answer": "núi cao",
+      "explanation": "Các chữ cái ghép lại thành từ có nghĩa là 'núi cao'.",
+      "questionId": "k5_c4_dt_1909",
+      "id": "k5_c4_dt_1909"
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_5",
+      "level": "CAP_4_VONG_TINH",
+      "type": "DT",
+      "question": "Hãy sắp xếp các chữ cái sau thành một từ có nghĩa: è / n / h / o / ỉ / đ / đ",
+      "blankAnswer": "đỉnh đèo",
+      "answer": "đỉnh đèo",
+      "explanation": "Các chữ cái ghép lại thành từ có nghĩa là 'đỉnh đèo'.",
+      "questionId": "k5_c4_dt_1910",
+      "id": "k5_c4_dt_1910"
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_5",
+      "level": "CAP_4_VONG_TINH",
+      "type": "DT",
+      "question": "Hãy sắp xếp các chữ cái sau thành một từ có nghĩa: g / e / r / n / t / r / ừ",
+      "blankAnswer": "rừng tre",
+      "answer": "rừng tre",
+      "explanation": "Các chữ cái ghép lại thành từ có nghĩa là 'rừng tre'.",
+      "questionId": "k5_c4_dt_1911",
+      "id": "k5_c4_dt_1911"
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_5",
+      "level": "CAP_4_VONG_TINH",
+      "type": "DT",
+      "question": "Hãy sắp xếp các chữ cái sau thành một từ có nghĩa: a / m / h / o / i / a",
+      "blankAnswer": "hoa mai",
+      "answer": "hoa mai",
+      "explanation": "Các chữ cái ghép lại thành từ có nghĩa là 'hoa mai'.",
+      "questionId": "k5_c4_dt_1912",
+      "id": "k5_c4_dt_1912"
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_5",
+      "level": "CAP_4_VONG_TINH",
+      "type": "DT",
+      "question": "Hãy sắp xếp các chữ cái sau thành một từ có nghĩa: n / a / h / a / o / l",
+      "blankAnswer": "hoa lan",
+      "answer": "hoa lan",
+      "explanation": "Các chữ cái ghép lại thành từ có nghĩa là 'hoa lan'.",
+      "questionId": "k5_c4_dt_1913",
+      "id": "k5_c4_dt_1913"
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_5",
+      "level": "CAP_4_VONG_TINH",
+      "type": "DT",
+      "question": "Hãy sắp xếp các chữ cái sau thành một từ có nghĩa: h / v / ờ / ư / ố / n / c / i / u",
+      "blankAnswer": "vườn chuối",
+      "answer": "vườn chuối",
+      "explanation": "Các chữ cái ghép lại thành từ có nghĩa là 'vườn chuối'.",
+      "questionId": "k5_c4_dt_1914",
+      "id": "k5_c4_dt_1914"
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_5",
+      "level": "CAP_4_VONG_TINH",
+      "type": "DT",
+      "question": "Hãy sắp xếp các chữ cái sau thành một từ có nghĩa: o / ờ / b / a",
+      "blankAnswer": "bờ ao",
+      "answer": "bờ ao",
+      "explanation": "Các chữ cái ghép lại thành từ có nghĩa là 'bờ ao'.",
+      "questionId": "k5_c4_dt_1915",
+      "id": "k5_c4_dt_1915"
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_5",
+      "level": "CAP_4_VONG_TINH",
+      "type": "DT",
+      "question": "Hãy sắp xếp các chữ cái sau thành một từ có nghĩa: à / g / h / o / n / r / à",
+      "blankAnswer": "hàng rào",
+      "answer": "hàng rào",
+      "explanation": "Các chữ cái ghép lại thành từ có nghĩa là 'hàng rào'.",
+      "questionId": "k5_c4_dt_1916",
+      "id": "k5_c4_dt_1916"
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_5",
+      "level": "CAP_4_VONG_TINH",
+      "type": "DT",
+      "question": "Hãy sắp xếp các chữ cái sau thành một từ có nghĩa: à / á / đ / c / n",
+      "blankAnswer": "đàn cá",
+      "answer": "đàn cá",
+      "explanation": "Các chữ cái ghép lại thành từ có nghĩa là 'đàn cá'.",
+      "questionId": "k5_c4_dt_1917",
+      "id": "k5_c4_dt_1917"
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_5",
+      "level": "CAP_4_VONG_TINH",
+      "type": "DT",
+      "question": "Hãy sắp xếp các chữ cái sau thành một từ có nghĩa: g / n / à / à / đ",
+      "blankAnswer": "đàn gà",
+      "answer": "đàn gà",
+      "explanation": "Các chữ cái ghép lại thành từ có nghĩa là 'đàn gà'.",
+      "questionId": "k5_c4_dt_1918",
+      "id": "k5_c4_dt_1918"
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_5",
+      "level": "CAP_4_VONG_TINH",
+      "type": "DT",
+      "question": "Hãy sắp xếp các chữ cái sau thành một từ có nghĩa: à / đ / t / â / r / u / n",
+      "blankAnswer": "đàn trâu",
+      "answer": "đàn trâu",
+      "explanation": "Các chữ cái ghép lại thành từ có nghĩa là 'đàn trâu'.",
+      "questionId": "k5_c4_dt_1919",
+      "id": "k5_c4_dt_1919"
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_5",
+      "level": "CAP_4_VONG_TINH",
+      "type": "DT",
+      "question": "Hãy sắp xếp các chữ cái sau thành một từ có nghĩa: h / u / ề / n / d / i / c / á",
+      "blankAnswer": "cánh diều",
+      "answer": "cánh diều",
+      "explanation": "Các chữ cái ghép lại thành từ có nghĩa là 'cánh diều'.",
+      "questionId": "k5_c4_dt_1920",
+      "id": "k5_c4_dt_1920"
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_5",
+      "level": "CAP_4_VONG_TINH",
+      "type": "DT",
+      "question": "Hãy sắp xếp các chữ cái sau thành một từ có nghĩa: i / è / c / o / m / h / á",
+      "blankAnswer": "mái chèo",
+      "answer": "mái chèo",
+      "explanation": "Các chữ cái ghép lại thành từ có nghĩa là 'mái chèo'.",
+      "questionId": "k5_c4_dt_1921",
+      "id": "k5_c4_dt_1921"
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_5",
+      "level": "CAP_4_VONG_TINH",
+      "type": "DT",
+      "question": "Hãy sắp xếp các chữ cái sau thành một từ có nghĩa: ô / k / g / h / c / ú / n / s",
+      "blankAnswer": "khúc sông",
+      "answer": "khúc sông",
+      "explanation": "Các chữ cái ghép lại thành từ có nghĩa là 'khúc sông'.",
+      "questionId": "k5_c4_dt_1922",
+      "id": "k5_c4_dt_1922"
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_5",
+      "level": "CAP_4_VONG_TINH",
+      "type": "DT",
+      "question": "Hãy sắp xếp các chữ cái sau thành một từ có nghĩa: ò / b / ế / đ / n",
+      "blankAnswer": "bến đò",
+      "answer": "bến đò",
+      "explanation": "Các chữ cái ghép lại thành từ có nghĩa là 'bến đò'.",
+      "questionId": "k5_c4_dt_1923",
+      "id": "k5_c4_dt_1923"
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_5",
+      "level": "CAP_4_VONG_TINH",
+      "type": "DT",
+      "question": "Hãy sắp xếp các chữ cái sau thành một từ có nghĩa: ớ / g / m / i / s / ó",
+      "blankAnswer": "gió sớm",
+      "answer": "gió sớm",
+      "explanation": "Các chữ cái ghép lại thành từ có nghĩa là 'gió sớm'.",
+      "questionId": "k5_c4_dt_1924",
+      "id": "k5_c4_dt_1924"
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_5",
+      "level": "CAP_4_VONG_TINH",
+      "type": "DT",
+      "question": "Hãy sắp xếp các chữ cái sau thành một từ có nghĩa: n / ù / g / m / s / ơ / ư",
+      "blankAnswer": "sương mù",
+      "answer": "sương mù",
+      "explanation": "Các chữ cái ghép lại thành từ có nghĩa là 'sương mù'.",
+      "questionId": "k5_c4_dt_1925",
+      "id": "k5_c4_dt_1925"
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_5",
+      "level": "CAP_4_VONG_TINH",
+      "type": "DT",
+      "question": "Hãy sắp xếp các chữ cái sau thành một từ có nghĩa: ù / â / y / m / m",
+      "blankAnswer": "mây mù",
+      "answer": "mây mù",
+      "explanation": "Các chữ cái ghép lại thành từ có nghĩa là 'mây mù'.",
+      "questionId": "k5_c4_dt_1926",
+      "id": "k5_c4_dt_1926"
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_5",
+      "level": "CAP_4_VONG_TINH",
+      "type": "DT",
+      "question": "Hãy sắp xếp các chữ cái sau thành một từ có nghĩa: g / r / r / ă / m / ằ / n / t",
+      "blankAnswer": "trăng rằm",
+      "answer": "trăng rằm",
+      "explanation": "Các chữ cái ghép lại thành từ có nghĩa là 'trăng rằm'.",
+      "questionId": "k5_c4_dt_1927",
+      "id": "k5_c4_dt_1927"
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_5",
+      "level": "CAP_4_VONG_TINH",
+      "type": "DT",
+      "question": "Hãy sắp xếp các chữ cái sau thành một từ có nghĩa: ó / t / g / b / m / n / á",
+      "blankAnswer": "bóng mát",
+      "answer": "bóng mát",
+      "explanation": "Các chữ cái ghép lại thành từ có nghĩa là 'bóng mát'.",
+      "questionId": "k5_c4_dt_1928",
+      "id": "k5_c4_dt_1928"
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_5",
+      "level": "CAP_4_VONG_TINH",
+      "type": "DT",
+      "question": "Hãy sắp xếp các chữ cái sau thành một từ có nghĩa: m / t / a / ọ / g / i / ư",
+      "blankAnswer": "giọt mưa",
+      "answer": "giọt mưa",
+      "explanation": "Các chữ cái ghép lại thành từ có nghĩa là 'giọt mưa'.",
+      "questionId": "k5_c4_dt_1929",
+      "id": "k5_c4_dt_1929"
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_5",
+      "level": "CAP_4_VONG_TINH",
+      "type": "DT",
+      "question": "Hãy sắp xếp các chữ cái sau thành một từ có nghĩa: a / t / h / ạ / m / ư",
+      "blankAnswer": "hạt mưa",
+      "answer": "hạt mưa",
+      "explanation": "Các chữ cái ghép lại thành từ có nghĩa là 'hạt mưa'.",
+      "questionId": "k5_c4_dt_1930",
+      "id": "k5_c4_dt_1930"
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_5",
+      "level": "CAP_4_VONG_TINH",
+      "type": "DT",
+      "question": "Hãy sắp xếp các chữ cái sau thành một từ có nghĩa: ơ / c / a / m / ư / n",
+      "blankAnswer": "cơn mưa",
+      "answer": "cơn mưa",
+      "explanation": "Các chữ cái ghép lại thành từ có nghĩa là 'cơn mưa'.",
+      "questionId": "k5_c4_dt_1931",
+      "id": "k5_c4_dt_1931"
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_5",
+      "level": "CAP_4_VONG_TINH",
+      "type": "DT",
+      "question": "Hãy sắp xếp các chữ cái sau thành một từ có nghĩa: a / c / â / ú / l / y",
+      "blankAnswer": "cây lúa",
+      "answer": "cây lúa",
+      "explanation": "Các chữ cái ghép lại thành từ có nghĩa là 'cây lúa'.",
+      "questionId": "k5_c4_dt_1932",
+      "id": "k5_c4_dt_1932"
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_5",
+      "level": "CAP_4_VONG_TINH",
+      "type": "DT",
+      "question": "Hãy sắp xếp các chữ cái sau thành một từ có nghĩa: a / ú / l / ô / b / g / n",
+      "blankAnswer": "bông lúa",
+      "answer": "bông lúa",
+      "explanation": "Các chữ cái ghép lại thành từ có nghĩa là 'bông lúa'.",
+      "questionId": "k5_c4_dt_1933",
+      "id": "k5_c4_dt_1933"
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_5",
+      "level": "CAP_4_VONG_TINH",
+      "type": "DT",
+      "question": "Hãy sắp xếp các chữ cái sau thành một từ có nghĩa: t / c / t / ó / h / ạ / h",
+      "blankAnswer": "hạt thóc",
+      "answer": "hạt thóc",
+      "explanation": "Các chữ cái ghép lại thành từ có nghĩa là 'hạt thóc'.",
+      "questionId": "k5_c4_dt_1934",
+      "id": "k5_c4_dt_1934"
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_5",
+      "level": "CAP_4_VONG_TINH",
+      "type": "DT",
+      "question": "Hãy sắp xếp các chữ cái sau thành một từ có nghĩa: m / v / a / ù / ụ",
+      "blankAnswer": "vụ mùa",
+      "answer": "vụ mùa",
+      "explanation": "Các chữ cái ghép lại thành từ có nghĩa là 'vụ mùa'.",
+      "questionId": "k5_c4_dt_1935",
+      "id": "k5_c4_dt_1935"
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_5",
+      "level": "CAP_4_VONG_TINH",
+      "type": "DT",
+      "question": "Hãy sắp xếp các chữ cái sau thành một từ có nghĩa: a / n / m / ù / à / y / g",
+      "blankAnswer": "ngày mùa",
+      "answer": "ngày mùa",
+      "explanation": "Các chữ cái ghép lại thành từ có nghĩa là 'ngày mùa'.",
+      "questionId": "k5_c4_dt_1936",
+      "id": "k5_c4_dt_1936"
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_5",
+      "level": "CAP_4_VONG_TINH",
+      "type": "DT",
+      "question": "Hãy sắp xếp các chữ cái sau thành một từ có nghĩa: i / á / t / n / ế / t / g / h",
+      "blankAnswer": "tiếng hát",
+      "answer": "tiếng hát",
+      "explanation": "Các chữ cái ghép lại thành từ có nghĩa là 'tiếng hát'.",
+      "questionId": "k5_c4_dt_1937",
+      "id": "k5_c4_dt_1937"
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_5",
+      "level": "CAP_4_VONG_TINH",
+      "type": "DT",
+      "question": "Hãy sắp xếp các chữ cái sau thành một từ có nghĩa: ơ / i / l / ờ / t / h",
+      "blankAnswer": "lời thơ",
+      "answer": "lời thơ",
+      "explanation": "Các chữ cái ghép lại thành từ có nghĩa là 'lời thơ'.",
+      "questionId": "k5_c4_dt_1938",
+      "id": "k5_c4_dt_1938"
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_5",
+      "level": "CAP_4_VONG_TINH",
+      "type": "DT",
+      "question": "Hãy sắp xếp các chữ cái sau thành một từ có nghĩa: i / à / a / b / c",
+      "blankAnswer": "bài ca",
+      "answer": "bài ca",
+      "explanation": "Các chữ cái ghép lại thành từ có nghĩa là 'bài ca'.",
+      "questionId": "k5_c4_dt_1939",
+      "id": "k5_c4_dt_1939"
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_5",
+      "level": "CAP_4_VONG_TINH",
+      "type": "DT",
+      "question": "Hãy sắp xếp các chữ cái sau thành một từ có nghĩa: â / c / a / u / c",
+      "blankAnswer": "câu ca",
+      "answer": "câu ca",
+      "explanation": "Các chữ cái ghép lại thành từ có nghĩa là 'câu ca'.",
+      "questionId": "k5_c4_dt_1940",
+      "id": "k5_c4_dt_1940"
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_5",
+      "level": "CAP_4_VONG_TINH",
+      "type": "DT",
+      "question": "Hãy sắp xếp các chữ cái sau thành một từ có nghĩa: g / a / n / t / ơ / r / h / t",
+      "blankAnswer": "trang thơ",
+      "answer": "trang thơ",
+      "explanation": "Các chữ cái ghép lại thành từ có nghĩa là 'trang thơ'.",
+      "questionId": "k5_c4_dt_1941",
+      "id": "k5_c4_dt_1941"
+    }
   ],
   "typeDistributionPercent": {
-    "NOI": "4.27%",
-    "CHON": "7.09%",
-    "TN": "76.43%",
-    "DT": "5.12%",
-    "SX": "7.09%"
+    "NOI": "4.59%",
+    "CHON": "7.63%",
+    "TN": "73.78%",
+    "DT": "11.02%",
+    "SX": "2.98%"
   }
 }

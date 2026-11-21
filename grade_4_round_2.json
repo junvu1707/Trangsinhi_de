@@ -4,12 +4,12 @@
   "level": "CAP_2_VONG_TRUONG",
   "startSeq": 1,
   "seqMode": "CONTINUOUS",
-  "totalQuestions": 2019,
+  "totalQuestions": 2119,
   "typeDistribution": {
     "TN": 1395,
     "SX": 182,
     "NOI": 215,
-    "DT": 82,
+    "DT": 182,
     "CHON": 145
   },
   "knowledgeSource": "kien thuc gioi han.md + Nội dung nhập trực tiếp",
@@ -28,7 +28,7 @@
       "TN": 1395,
       "SX": 182,
       "NOI": 215,
-      "DT": 82,
+      "DT": 182,
       "CHON": 145
     },
     "detectedTopics": [
@@ -42,7 +42,7 @@
   },
   "exclusionReport": null,
   "deduplicationReport": {
-    "uniqueQuestions": 2019,
+    "uniqueQuestions": 2119,
     "uniquenessRate": "100%",
     "rejectedStats": {
       "duplicate_hash": 360,
@@ -20743,7 +20743,6 @@
       "answer": "C",
       "explanation": "Câu chỉ có một cụm chủ ngữ – vị ngữ, nên là câu đơn."
     },
-
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_4",
@@ -20760,7 +20759,6 @@
       "answer": "D",
       "explanation": "Câu chỉ có một cụm chủ ngữ – vị ngữ, nên là câu đơn."
     },
-   
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_4",
@@ -20809,7 +20807,6 @@
       "answer": "C",
       "explanation": "Câu chỉ có một cụm chủ ngữ – vị ngữ, nên là câu đơn."
     },
-    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_4",
@@ -20858,7 +20855,6 @@
       "answer": "A",
       "explanation": "Câu chỉ có một cụm chủ ngữ – vị ngữ, nên là câu đơn."
     },
-    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_4",
@@ -20875,7 +20871,6 @@
       "answer": "C",
       "explanation": "Câu chỉ có một cụm chủ ngữ – vị ngữ, nên là câu đơn."
     },
-    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_4",
@@ -20892,7 +20887,6 @@
       "answer": "C",
       "explanation": "Câu chỉ có một cụm chủ ngữ – vị ngữ, nên là câu đơn."
     },
-    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_4",
@@ -20909,10 +20903,6 @@
       "answer": "D",
       "explanation": "Câu chỉ có một cụm chủ ngữ – vị ngữ, nên là câu đơn."
     },
-    
-    
-    
-
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_4",
@@ -24113,7 +24103,6 @@
       "answer": "D",
       "explanation": "Câu “Chớ thấy sóng cả mà ngã tay chèo” phù hợp vì: Không nản chí trước thử thách."
     },
-    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_4",
@@ -24169,8 +24158,6 @@
       "answer": "gan",
       "explanation": "Từ cần điền phù hợp với đặc điểm của sự vật trong ngữ cảnh."
     },
-    
-    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_4",
@@ -24204,7 +24191,6 @@
       "answer": "dựng",
       "explanation": "Từ được chọn chỉ hoạt động phù hợp với chủ thể trong câu."
     },
-    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_4",
@@ -24238,7 +24224,6 @@
       "answer": "quyên",
       "explanation": "Từ được chọn chỉ hoạt động phù hợp với chủ thể trong câu."
     },
-    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_4",
@@ -24294,7 +24279,6 @@
       "answer": "la ",
       "explanation": "Từ được chọn gọi tên sự vật/đối tượng phù hợp với ngữ cảnh."
     },
-    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_4",
@@ -24317,7 +24301,6 @@
       "answer": "gốm",
       "explanation": "Từ được chọn gọi tên sự vật/đối tượng phù hợp với ngữ cảnh."
     },
-    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_4",
@@ -24329,9 +24312,6 @@
       "answer": "cầu",
       "explanation": "Từ được chọn gọi tên sự vật/đối tượng phù hợp với ngữ cảnh."
     },
-    
- 
-    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_4",
@@ -24347,8 +24327,6 @@
       "answer": "Người thợ mộc tỉ mỉ chạm khắc hoa văn vào buổi sớm.",
       "explanation": "Câu hoàn chỉnh: “Người thợ mộc tỉ mỉ chạm khắc hoa văn lên từng sản phẩm”"
     },
-    
-
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_4",
@@ -24364,7 +24342,6 @@
       "answer": "Bác nghệ nhân truyền dạy cách làm sản phẩm thủ công trong mùa hội.",
       "explanation": "Câu hoàn chỉnh: “Bác nghệ nhân truyền dạy cách làm sản phẩm thủ công trong mùa hội.”"
     },
-    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_4",
@@ -24380,7 +24357,6 @@
       "answer": "Các nhà khảo cổ ghi lại dấu tích của thành cổ vào quyển số",
       "explanation": "Câu hoàn chỉnh: “Các nhà khảo cổ ghi lại dấu tích của thành cổ vào buổi sớm.”"
     },
-    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_4",
@@ -24426,8 +24402,6 @@
       "answer": "Người kiểm lâm tuần tra khu rừng  sau cơn mưa.",
       "explanation": "Câu hoàn chỉnh: “Người kiểm lâm tuần tra khu rừng sau cơn mưa.”"
     },
-   
-   
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_4",
@@ -24443,7 +24417,6 @@
       "answer": "Cô hướng dẫn viên giới thiệu lịch sử vùng đất trong chuyến tham quan.",
       "explanation": "Câu hoàn chỉnh: “Cô hướng dẫn viên giới thiệu lịch sử vùng đất trong chuyến tham quan.”"
     },
-    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_4",
@@ -24459,7 +24432,6 @@
       "answer": "Người đưa thư chuyển thư đến từng nhà vào buổi sớm.",
       "explanation": "Câu hoàn chỉnh: “Người đưa thư chuyển thư đến từng nhà vào buổi sớm.”"
     },
-    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_4",
@@ -24475,7 +24447,6 @@
       "answer": "Đàn cò trắng sải cánh qua cánh đồng vào buổi chiều tà.",
       "explanation": "Câu hoàn chỉnh: “Đàn cò trắng sải cánh qua cánh đồng vào buổi chiều tà.”"
     },
-    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_4",
@@ -24491,7 +24462,6 @@
       "answer": "Bầy ong mật tìm mật trên những khóm hoa vào buổi sớm.",
       "explanation": "Câu hoàn chỉnh: “Bầy ong mật tìm mật trên những khóm hoa vào buổi sớm.”"
     },
-    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_4",
@@ -24507,7 +24477,6 @@
       "answer": "Đàn cá nhỏ bơi quanh đám rong xanh giữa trưa hè oi ả.",
       "explanation": "Câu hoàn chỉnh: “Đàn cá nhỏ bơi quanh đám rong xanh giữa trưa hè oi ả.”"
     },
-    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_4",
@@ -24523,7 +24492,6 @@
       "answer": "Chim én đầu mùa chao liệng trên bầu trời vào buổi sớm.",
       "explanation": "Câu hoàn chỉnh: “Chim én đầu mùa chao liệng trên bầu trời vào buổi sớm.”"
     },
-    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_4",
@@ -24539,7 +24507,6 @@
       "answer": "Đàn dê núi leo lên sườn đá thoai thoải vào buổi sớm.",
       "explanation": "Câu hoàn chỉnh: “Đàn dê núi leo lên sườn đá thoai thoải vào buổi sớm.”"
     },
-    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_4",
@@ -24555,7 +24522,6 @@
       "answer": "Những chú ngựa thồ men theo con đường mòn vào buổi sớm.",
       "explanation": "Câu hoàn chỉnh: “Những chú ngựa thồ men theo con đường mòn giữa trưa hè oi ả"
     },
-   
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_4",
@@ -24571,7 +24537,6 @@
       "answer": "Dòng suối đầu nguồn len qua những khe đá trong khu rừng.",
       "explanation": "Câu hoàn chỉnh: “Dòng suối đầu nguồn len qua những khe đá trong khu rừng.”"
     },
-    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_4",
@@ -24587,7 +24552,6 @@
       "answer": "Ánh trăng rằm rọi sáng mái nhà bên đồi sau cơn mưa.",
       "explanation": "Câu hoàn chỉnh: “Ánh trăng rằm rọi sáng mái nhà bên đồi sau cơn mưa.”"
     },
-    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_4",
@@ -24618,7 +24582,6 @@
       "answer": "Cơn gió mang hơi mát từ biển vào sau cơn mưa.",
       "explanation": "Câu hoàn chỉnh: “Cơn gió mang hơi mát từ biển vào sau cơn mưa.”"
     },
-    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_4",
@@ -24634,7 +24597,6 @@
       "answer": "Mặt hồ phản chiếu rặng tre xanh trong nắng sớm.",
       "explanation": "Câu hoàn chỉnh: “Mặt hồ phản chiếu rặng tre xanh trong nắng sớm.”"
     },
-    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_4",
@@ -24650,8 +24612,6 @@
       "answer": "Dòng sông mùa lũ bồi đắp phù sa cho bãi bồi của làng ven sông.",
       "explanation": "Câu hoàn chỉnh: “Dòng sông mùa lũ bồi đắp phù sa cho bãi bồi của làng ven sông.”"
     },
-    
-    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_4",
@@ -24667,7 +24627,6 @@
       "answer": "Vạt nắng cuối chiều trải vàng trên thảm cỏ trước lúc hoàng hôn.",
       "explanation": "Câu hoàn chỉnh: “Vạt nắng cuối chiều trải vàng trên thảm cỏ trước lúc hoàng hôn.”"
     },
-    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_4",
@@ -24683,7 +24642,6 @@
       "answer": "Ngọn hải đăng soi đường cho tàu thuyền trong đêm tối.",
       "explanation": "Câu hoàn chỉnh: “Ngọn hải đăng soi đường cho tàu thuyền trong đêm tối.”"
     },
-    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_4",
@@ -24699,9 +24657,6 @@
       "answer": "Chiếc chuông đồng ngân vang giữa sân đình trong mùa hội.",
       "explanation": "Câu hoàn chỉnh: “Chiếc chuông đồng ngân vang giữa sân đình trong mùa hội.”"
     },
-    
-    
-    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_4",
@@ -24717,7 +24672,6 @@
       "answer": "Chiếc thuyền nan đưa khách qua khúc sông vào buổi sớm.",
       "explanation": "Câu hoàn chỉnh: “Chiếc thuyền nan đưa khách qua khúc sông vào buổi sớm.”"
     },
-    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_4",
@@ -24733,8 +24687,6 @@
       "answer": "Ngọn đèn dầu thắp sáng gian nhà nhỏ vào buổi tối.",
       "explanation": "Câu hoàn chỉnh: “Ngọn đèn dầu thắp sáng gian nhà nhỏ vào buổi tối.”"
     },
-    
-    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_4",
@@ -24751,7 +24703,6 @@
       "answer": "Đội tình nguyện mang sách đến điểm trường xa để giúp đỡ các bạn nhỏ vùng cao.",
       "explanation": "Câu hoàn chỉnh: “Đội tình nguyện mang sách đến điểm trường xa để giúp đỡ các bạn nhỏ vùng cao.”"
     },
-    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_4",
@@ -24767,7 +24718,6 @@
       "answer": "Các bạn lớp 4B chăm sóc vườn rau của lớp vào buổi sớm.",
       "explanation": "Câu hoàn chỉnh: “Các bạn lớp 4B chăm sóc vườn rau của lớp vào buổi sớm.”"
     },
-    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_4",
@@ -24783,9 +24733,6 @@
       "answer": "Nhóm nghiên cứu khảo sát nguồn nước trong bản.",
       "explanation": "Câu hoàn chỉnh: “Nhóm nghiên cứu khảo sát nguồn nước trong bản.”"
     },
-    
-    
-    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_4",
@@ -24816,8 +24763,6 @@
       "answer": "Những người dân làng cùng nhau sửa lại con đường sau cơn mưa rào.",
       "explanation": "Câu hoàn chỉnh: “Những người dân làng cùng nhau sửa lại con đường sau cơn mưa rào.”"
     },
-    
-    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_4",
@@ -24833,7 +24778,6 @@
       "answer": "Đội cứu hộ đưa người dân đến nơi an toàn trong cơn bão.",
       "explanation": "Câu hoàn chỉnh: “Đội cứu hộ đưa người dân đến nơi an toàn trong cơn bão.”"
     },
-    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_4",
@@ -33092,7 +33036,6 @@
       "answer": "D",
       "explanation": "Đại thi hào Nguyễn Du (1765 - 1820) là tác giả của Truyện Kiều, tác phẩm văn học kiệt xuất nhất của nền văn học trung đại Việt Nam."
     },
-    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_4",
@@ -34372,6 +34315,1106 @@
       },
       "answer": "D",
       "explanation": "Cái bóng in trên mặt đất do ánh sáng mặt trời chiếu vào cơ thể ta tạo nên."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "DT",
+      "questionId": "k4_c2_dt_069",
+      "question": "Sắp xếp thành từ chỉ phẩm chất can đảm, không sợ hiểm nguy gian khó: \"M / Ả / D / N / C / Ũ / G\"",
+      "blankAnswer": "dũng cảm",
+      "answer": "dũng cảm",
+      "explanation": "Từ hoàn chỉnh sắp xếp được là \"dũng cảm\", chỉ phẩm chất can đảm, không sợ hiểm nguy gian khó."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "DT",
+      "questionId": "k4_c2_dt_070",
+      "question": "Sắp xếp thành từ chỉ đức tính ngay thẳng, thật thà, không gian dối: \"C / T / R / U / Ự / H / T / N / G\"",
+      "blankAnswer": "trung thực",
+      "answer": "trung thực",
+      "explanation": "Từ hoàn chỉnh sắp xếp được là \"trung thực\", chỉ đức tính ngay thẳng, thật thà, không gian dối."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "DT",
+      "questionId": "k4_c2_dt_071",
+      "question": "Sắp xếp thành từ chỉ phẩm chất hiền lành, giàu lòng thương người: \"H / N / Ậ / N / U / H / Â\"",
+      "blankAnswer": "nhân hậu",
+      "answer": "nhân hậu",
+      "explanation": "Từ hoàn chỉnh sắp xếp được là \"nhân hậu\", chỉ phẩm chất hiền lành, giàu lòng thương người."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "DT",
+      "questionId": "k4_c2_dt_072",
+      "question": "Sắp xếp thành từ chỉ ý chí bền bỉ, quyết tâm làm đến cùng dù gặp khó khăn: \"T / K / Ê / I / N / Ì / R\"",
+      "blankAnswer": "kiên trì",
+      "answer": "kiên trì",
+      "explanation": "Từ hoàn chỉnh sắp xếp được là \"kiên trì\", chỉ ý chí bền bỉ, quyết tâm làm đến cùng dù gặp khó khăn."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "DT",
+      "questionId": "k4_c2_dt_073",
+      "question": "Sắp xếp thành từ chỉ phẩm chất siêng năng, chịu khó làm việc, học tập: \"C / H / H / Ă / C / M / Ỉ\"",
+      "blankAnswer": "chăm chỉ",
+      "answer": "chăm chỉ",
+      "explanation": "Từ hoàn chỉnh sắp xếp được là \"chăm chỉ\", chỉ phẩm chất siêng năng, chịu khó làm việc, học tập."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "DT",
+      "questionId": "k4_c2_dt_074",
+      "question": "Sắp xếp thành từ chỉ thái độ đúng mực, không tự kiêu, tự mãn: \"Ố / Ê / M / I / H / T / K / N\"",
+      "blankAnswer": "khiêm tốn",
+      "answer": "khiêm tốn",
+      "explanation": "Từ hoàn chỉnh sắp xếp được là \"khiêm tốn\", chỉ thái độ đúng mực, không tự kiêu, tự mãn."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "DT",
+      "questionId": "k4_c2_dt_075",
+      "question": "Sắp xếp thành từ chỉ sự gắn bó, đồng lòng, hợp sức lại vì mục tiêu chung: \"Đ / K / Ế / N / T / O / À\"",
+      "blankAnswer": "đoàn kết",
+      "answer": "đoàn kết",
+      "explanation": "Từ hoàn chỉnh sắp xếp được là \"đoàn kết\", chỉ sự gắn bó, đồng lòng, hợp sức lại vì mục tiêu chung."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "DT",
+      "questionId": "k4_c2_dt_076",
+      "question": "Sắp xếp thành từ chỉ lòng biết ơn, kính trọng và chăm sóc ông bà, cha mẹ: \"H / Ế / H / T / I / O / Ả / U\"",
+      "blankAnswer": "hiếu thảo",
+      "answer": "hiếu thảo",
+      "explanation": "Từ hoàn chỉnh sắp xếp được là \"hiếu thảo\", chỉ lòng biết ơn, kính trọng và chăm sóc ông bà, cha mẹ."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "DT",
+      "questionId": "k4_c2_dt_077",
+      "question": "Sắp xếp thành từ chỉ đức tính chịu thương chịu khó, chăm làm lụng: \"Ù / Ầ / C / N / C\"",
+      "blankAnswer": "cần cù",
+      "answer": "cần cù",
+      "explanation": "Từ hoàn chỉnh sắp xếp được là \"cần cù\", chỉ đức tính chịu thương chịu khó, chăm làm lụng."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "DT",
+      "questionId": "k4_c2_dt_078",
+      "question": "Sắp xếp thành từ chỉ tính cách ngay thẳng, không dối trá lừa lọc: \"Ậ / H / H / T / T / T / À\"",
+      "blankAnswer": "thật thà",
+      "answer": "thật thà",
+      "explanation": "Từ hoàn chỉnh sắp xếp được là \"thật thà\", chỉ tính cách ngay thẳng, không dối trá lừa lọc."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "DT",
+      "questionId": "k4_c2_dt_079",
+      "question": "Sắp xếp thành từ chỉ tấm lòng khoan dung, biết tha thứ cho lỗi lầm của người khác: \"T / V / A / H / Ị\"",
+      "blankAnswer": "vị tha",
+      "answer": "vị tha",
+      "explanation": "Từ hoàn chỉnh sắp xếp được là \"vị tha\", chỉ tấm lòng khoan dung, biết tha thứ cho lỗi lầm của người khác."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "DT",
+      "questionId": "k4_c2_dt_080",
+      "question": "Sắp xếp thành từ chỉ sự tin tưởng vào năng lực và phẩm chất của chính mình: \"I / T / N / T / Ự\"",
+      "blankAnswer": "tự tin",
+      "answer": "tự tin",
+      "explanation": "Từ hoàn chỉnh sắp xếp được là \"tự tin\", chỉ sự tin tưởng vào năng lực và phẩm chất của chính mình."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "DT",
+      "questionId": "k4_c2_dt_081",
+      "question": "Sắp xếp thành từ chỉ lòng rộng lượng, dễ cảm thông và thứ tha cho người khác: \"B / N / A / G / U / D / O\"",
+      "blankAnswer": "bao dung",
+      "answer": "bao dung",
+      "explanation": "Từ hoàn chỉnh sắp xếp được là \"bao dung\", chỉ lòng rộng lượng, dễ cảm thông và thứ tha cho người khác."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "DT",
+      "questionId": "k4_c2_dt_082",
+      "question": "Sắp xếp thành từ chỉ thái độ luôn vui vẻ, tin tưởng vào những điều tốt đẹp: \"U / Q / L / C / A / Ạ / N\"",
+      "blankAnswer": "lạc quan",
+      "answer": "lạc quan",
+      "explanation": "Từ hoàn chỉnh sắp xếp được là \"lạc quan\", chỉ thái độ luôn vui vẻ, tin tưởng vào những điều tốt đẹp."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "DT",
+      "questionId": "k4_c2_dt_083",
+      "question": "Sắp xếp thành từ chỉ sự mạnh mẽ, dũng cảm và đầy khí phách: \"N / M / G / Ã / D / H / N / Ũ\"",
+      "blankAnswer": "dũng mãnh",
+      "answer": "dũng mãnh",
+      "explanation": "Từ hoàn chỉnh sắp xếp được là \"dũng mãnh\", chỉ sự mạnh mẽ, dũng cảm và đầy khí phách."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "DT",
+      "questionId": "k4_c2_dt_084",
+      "question": "Sắp xếp thành từ chỉ sự thật lòng, không dối trá trong tình cảm và cách đối xử: \"À / N / T / H / Â / H / C / N / H\"",
+      "blankAnswer": "chân thành",
+      "answer": "chân thành",
+      "explanation": "Từ hoàn chỉnh sắp xếp được là \"chân thành\", chỉ sự thật lòng, không dối trá trong tình cảm và cách đối xử."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "DT",
+      "questionId": "k4_c2_dt_085",
+      "question": "Sắp xếp thành từ chỉ tính cách bộc trực, ngay thẳng, thấy sai dám nói: \"Ẳ / H / T / H / T / N / N / Ắ / G\"",
+      "blankAnswer": "thẳng thắn",
+      "answer": "thẳng thắn",
+      "explanation": "Từ hoàn chỉnh sắp xếp được là \"thẳng thắn\", chỉ tính cách bộc trực, ngay thẳng, thấy sai dám nói."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "DT",
+      "questionId": "k4_c2_dt_086",
+      "question": "Sắp xếp thành từ chỉ tính nết dịu dàng, tốt tính, không gây hại cho ai: \"À / H / N / N / H / I / Ề / L\"",
+      "blankAnswer": "hiền lành",
+      "answer": "hiền lành",
+      "explanation": "Từ hoàn chỉnh sắp xếp được là \"hiền lành\", chỉ tính nết dịu dàng, tốt tính, không gây hại cho ai."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "DT",
+      "questionId": "k4_c2_dt_087",
+      "question": "Sắp xếp thành từ chỉ ý thức coi trọng và giữ gìn danh dự, phẩm giá bản thân: \"Ọ / T / T / G / N / Ự / R\"",
+      "blankAnswer": "tự trọng",
+      "answer": "tự trọng",
+      "explanation": "Từ hoàn chỉnh sắp xếp được là \"tự trọng\", chỉ ý thức coi trọng và giữ gìn danh dự, phẩm giá bản thân."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "DT",
+      "questionId": "k4_c2_dt_088",
+      "question": "Sắp xếp thành từ chỉ lòng yêu thương bao la đối với tất cả mọi người: \"Á / B / Á / I / C\"",
+      "blankAnswer": "bác ái",
+      "answer": "bác ái",
+      "explanation": "Từ hoàn chỉnh sắp xếp được là \"bác ái\", chỉ lòng yêu thương bao la đối với tất cả mọi người."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "DT",
+      "questionId": "k4_c2_dt_089",
+      "question": "Sắp xếp thành từ chỉ sự mạnh mẽ, vững vàng trước mọi sóng gió, khó khăn: \"I / Ê / N / C / K / N / Ư / Ờ / G\"",
+      "blankAnswer": "kiên cường",
+      "answer": "kiên cường",
+      "explanation": "Từ hoàn chỉnh sắp xếp được là \"kiên cường\", chỉ sự mạnh mẽ, vững vàng trước mọi sóng gió, khó khăn."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "DT",
+      "questionId": "k4_c2_dt_090",
+      "question": "Sắp xếp thành từ chỉ tính cách vui vẻ, dễ gần, chan hòa với mọi người: \"G / Đ / A / H / N / Ò / Ồ\"",
+      "blankAnswer": "hòa đồng",
+      "answer": "hòa đồng",
+      "explanation": "Từ hoàn chỉnh sắp xếp được là \"hòa đồng\", chỉ tính cách vui vẻ, dễ gần, chan hòa với mọi người."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "DT",
+      "questionId": "k4_c2_dt_091",
+      "question": "Sắp xếp thành từ chỉ lời nói, cử chỉ lịch sự, tế nhị và khiêm nhường: \"Ặ / Ã / N / N / H / N / H\"",
+      "blankAnswer": "nhã nhặn",
+      "answer": "nhã nhặn",
+      "explanation": "Từ hoàn chỉnh sắp xếp được là \"nhã nhặn\", chỉ lời nói, cử chỉ lịch sự, tế nhị và khiêm nhường."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "DT",
+      "questionId": "k4_c2_dt_092",
+      "question": "Sắp xếp thành từ chỉ sự cẩn thận, lo liệu mọi việc chu toàn đâu vào đấy: \"O / Đ / U / C / Á / H\"",
+      "blankAnswer": "chu đáo",
+      "answer": "chu đáo",
+      "explanation": "Từ hoàn chỉnh sắp xếp được là \"chu đáo\", chỉ sự cẩn thận, lo liệu mọi việc chu toàn đâu vào đấy."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "DT",
+      "questionId": "k4_c2_dt_093",
+      "question": "Sắp xếp thành từ chỉ thái độ kính trọng, đúng mực với người trên: \"P / H / P / Ễ / L / É\"",
+      "blankAnswer": "lễ phép",
+      "answer": "lễ phép",
+      "explanation": "Từ hoàn chỉnh sắp xếp được là \"lễ phép\", chỉ thái độ kính trọng, đúng mực với người trên."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "DT",
+      "questionId": "k4_c2_dt_094",
+      "question": "Sắp xếp thành từ chỉ trí tuệ nhanh nhạy, hiểu biết và tiếp thu mau lẹ: \"G / I / N / M / N / H / Ô / H / T\"",
+      "blankAnswer": "thông minh",
+      "answer": "thông minh",
+      "explanation": "Từ hoàn chỉnh sắp xếp được là \"thông minh\", chỉ trí tuệ nhanh nhạy, hiểu biết và tiếp thu mau lẹ."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "DT",
+      "questionId": "k4_c2_dt_095",
+      "question": "Sắp xếp thành từ chỉ khả năng tìm tòi, làm ra những điều mới mẻ và có giá trị: \"N / O / S / G / Ạ / Á / T\"",
+      "blankAnswer": "sáng tạo",
+      "answer": "sáng tạo",
+      "explanation": "Từ hoàn chỉnh sắp xếp được là \"sáng tạo\", chỉ khả năng tìm tòi, làm ra những điều mới mẻ và có giá trị."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "DT",
+      "questionId": "k4_c2_dt_096",
+      "question": "Sắp xếp thành từ chỉ hành động tìm tòi, phát hiện ra những điều mới lạ: \"H / K / H / P / M / Á / Á\"",
+      "blankAnswer": "khám phá",
+      "answer": "khám phá",
+      "explanation": "Từ hoàn chỉnh sắp xếp được là \"khám phá\", chỉ hành động tìm tòi, phát hiện ra những điều mới lạ."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "DT",
+      "questionId": "k4_c2_dt_097",
+      "question": "Sắp xếp thành từ chỉ sự mày mò, nghiên cứu sâu để hiểu biết nhiều hơn: \"M / T / Ì / I / Ò / T\"",
+      "blankAnswer": "tìm tòi",
+      "answer": "tìm tòi",
+      "explanation": "Từ hoàn chỉnh sắp xếp được là \"tìm tòi\", chỉ sự mày mò, nghiên cứu sâu để hiểu biết nhiều hơn."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "DT",
+      "questionId": "k4_c2_dt_098",
+      "question": "Sắp xếp thành từ chỉ tinh thần tiếp thu kiến thức, kinh nghiệm từ mọi người: \"H / H / Ỏ / C / I / Ọ\"",
+      "blankAnswer": "học hỏi",
+      "answer": "học hỏi",
+      "explanation": "Từ hoàn chỉnh sắp xếp được là \"học hỏi\", chỉ tinh thần tiếp thu kiến thức, kinh nghiệm từ mọi người."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "DT",
+      "questionId": "k4_c2_dt_099",
+      "question": "Sắp xếp thành từ chỉ quá trình trau dồi, rèn giũa thường xuyên để tiến bộ: \"Ệ / Y / È / U / R / L / N / N\"",
+      "blankAnswer": "rèn luyện",
+      "answer": "rèn luyện",
+      "explanation": "Từ hoàn chỉnh sắp xếp được là \"rèn luyện\", chỉ quá trình trau dồi, rèn giũa thường xuyên để tiến bộ."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "DT",
+      "questionId": "k4_c2_dt_100",
+      "question": "Sắp xếp thành từ chỉ kiến thức sâu rộng và khả năng nhận thức tốt: \"Ể / I / I / H / T / B / Ế / U\"",
+      "blankAnswer": "hiểu biết",
+      "answer": "hiểu biết",
+      "explanation": "Từ hoàn chỉnh sắp xếp được là \"hiểu biết\", chỉ kiến thức sâu rộng và khả năng nhận thức tốt."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "DT",
+      "questionId": "k4_c2_dt_101",
+      "question": "Sắp xếp thành từ chỉ hoạt động trí óc để tìm ra cách giải quyết vấn đề: \"H / Y / U / S / Ĩ / N / G\"",
+      "blankAnswer": "suy nghĩ",
+      "answer": "suy nghĩ",
+      "explanation": "Từ hoàn chỉnh sắp xếp được là \"suy nghĩ\", chỉ hoạt động trí óc để tìm ra cách giải quyết vấn đề."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "DT",
+      "questionId": "k4_c2_dt_102",
+      "question": "Sắp xếp thành từ chỉ sự tập trung cao độ vào việc đang nghe hoặc làm: \"H / Ú / M / H / Ă / C / C\"",
+      "blankAnswer": "chăm chú",
+      "answer": "chăm chú",
+      "explanation": "Từ hoàn chỉnh sắp xếp được là \"chăm chú\", chỉ sự tập trung cao độ vào việc đang nghe hoặc làm."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "DT",
+      "questionId": "k4_c2_dt_103",
+      "question": "Sắp xếp thành từ chỉ sự chú ý chu đáo, tỉ mỉ, tránh để xảy ra sai sót: \"N / N / Ậ / T / C / H / Ẩ\"",
+      "blankAnswer": "cẩn thận",
+      "answer": "cẩn thận",
+      "explanation": "Từ hoàn chỉnh sắp xếp được là \"cẩn thận\", chỉ sự chú ý chu đáo, tỉ mỉ, tránh để xảy ra sai sót."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "DT",
+      "questionId": "k4_c2_dt_104",
+      "question": "Sắp xếp thành từ chỉ sự khéo tay, nhanh trí và cách ứng xử tinh tế: \"É / O / O / L / É / K / H\"",
+      "blankAnswer": "khéo léo",
+      "answer": "khéo léo",
+      "explanation": "Từ hoàn chỉnh sắp xếp được là \"khéo léo\", chỉ sự khéo tay, nhanh trí và cách ứng xử tinh tế."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "DT",
+      "questionId": "k4_c2_dt_105",
+      "question": "Sắp xếp thành từ chỉ sự linh hoạt, xử lý tình huống thông minh mau lẹ: \"N / H / R / H / T / N / Í / A\"",
+      "blankAnswer": "nhanh trí",
+      "answer": "nhanh trí",
+      "explanation": "Từ hoàn chỉnh sắp xếp được là \"nhanh trí\", chỉ sự linh hoạt, xử lý tình huống thông minh mau lẹ."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "DT",
+      "questionId": "k4_c2_dt_106",
+      "question": "Sắp xếp thành từ chỉ sự cố gắng hết sức mình để đạt mục tiêu đặt ra: \"C / L / Ự / N / Ỗ\"",
+      "blankAnswer": "nỗ lực",
+      "answer": "nỗ lực",
+      "explanation": "Từ hoàn chỉnh sắp xếp được là \"nỗ lực\", chỉ sự cố gắng hết sức mình để đạt mục tiêu đặt ra."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "DT",
+      "questionId": "k4_c2_dt_107",
+      "question": "Sắp xếp thành từ chỉ ý chí dứt khoát làm bằng được mục tiêu đã định: \"Y / T / Â / Q / U / M / Ế / T\"",
+      "blankAnswer": "quyết tâm",
+      "answer": "quyết tâm",
+      "explanation": "Từ hoàn chỉnh sắp xếp được là \"quyết tâm\", chỉ ý chí dứt khoát làm bằng được mục tiêu đã định."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "DT",
+      "questionId": "k4_c2_dt_108",
+      "question": "Sắp xếp thành từ chỉ niềm yêu thích nồng nhiệt, gắn bó hết mình với một công việc: \"A / M / Ê / Y / S\"",
+      "blankAnswer": "say mê",
+      "answer": "say mê",
+      "explanation": "Từ hoàn chỉnh sắp xếp được là \"say mê\", chỉ niềm yêu thích nồng nhiệt, gắn bó hết mình với một công việc."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "DT",
+      "questionId": "k4_c2_dt_109",
+      "question": "Sắp xếp thành từ chỉ niềm tin tưởng và mong đợi những điều tốt lành phía trước: \"Ọ / G / H / Y / N / V\"",
+      "blankAnswer": "hy vọng",
+      "answer": "hy vọng",
+      "explanation": "Từ hoàn chỉnh sắp xếp được là \"hy vọng\", chỉ niềm tin tưởng và mong đợi những điều tốt lành phía trước."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "DT",
+      "questionId": "k4_c2_dt_110",
+      "question": "Sắp xếp thành từ chỉ những khát khao, mong muốn những điều tốt đẹp trong tương lai: \"Ơ / Ớ / C / Ư / M\"",
+      "blankAnswer": "ước mơ",
+      "answer": "ước mơ",
+      "explanation": "Từ hoàn chỉnh sắp xếp được là \"ước mơ\", chỉ những khát khao, mong muốn những điều tốt đẹp trong tương lai."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "DT",
+      "questionId": "k4_c2_dt_111",
+      "question": "Sắp xếp thành từ chỉ mong muốn mãnh liệt hướng tới những mục tiêu cao đẹp: \"G / T / Á / K / Ọ / H / V / N\"",
+      "blankAnswer": "khát vọng",
+      "answer": "khát vọng",
+      "explanation": "Từ hoàn chỉnh sắp xếp được là \"khát vọng\", chỉ mong muốn mãnh liệt hướng tới những mục tiêu cao đẹp."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "DT",
+      "questionId": "k4_c2_dt_112",
+      "question": "Sắp xếp thành từ chỉ quãng thời gian phía trước của cuộc đời: \"Ơ / T / Ư / A / L / G / I / N\"",
+      "blankAnswer": "tương lai",
+      "answer": "tương lai",
+      "explanation": "Từ hoàn chỉnh sắp xếp được là \"tương lai\", chỉ quãng thời gian phía trước của cuộc đời."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "DT",
+      "questionId": "k4_c2_dt_113",
+      "question": "Sắp xếp thành từ chỉ sức mạnh tinh thần giúp con người vượt qua mọi trở ngại: \"N / Ị / L / H / G / Ự / C\"",
+      "blankAnswer": "nghị lực",
+      "answer": "nghị lực",
+      "explanation": "Từ hoàn chỉnh sắp xếp được là \"nghị lực\", chỉ sức mạnh tinh thần giúp con người vượt qua mọi trở ngại."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "DT",
+      "questionId": "k4_c2_dt_114",
+      "question": "Sắp xếp thành từ chỉ tình cảm tha thiết, gắn bó và quan tâm sâu sắc: \"G / Y / Ư / H / U / Ơ / T / Ê / N\"",
+      "blankAnswer": "yêu thương",
+      "answer": "yêu thương",
+      "explanation": "Từ hoàn chỉnh sắp xếp được là \"yêu thương\", chỉ tình cảm tha thiết, gắn bó và quan tâm sâu sắc."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "DT",
+      "questionId": "k4_c2_dt_115",
+      "question": "Sắp xếp thành từ chỉ sự che chở, giúp đỡ nhau trong cảnh khó khăn, hoạn nạn: \"Đ / Ọ / B / C / M / Ù\"",
+      "blankAnswer": "đùm bọc",
+      "answer": "đùm bọc",
+      "explanation": "Từ hoàn chỉnh sắp xếp được là \"đùm bọc\", chỉ sự che chở, giúp đỡ nhau trong cảnh khó khăn, hoạn nạn."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "DT",
+      "questionId": "k4_c2_dt_116",
+      "question": "Sắp xếp thành từ chỉ mối quan hệ khăng khít, bền chặt không rời: \"B / G / Ắ / N / Ó\"",
+      "blankAnswer": "gắn bó",
+      "answer": "gắn bó",
+      "explanation": "Từ hoàn chỉnh sắp xếp được là \"gắn bó\", chỉ mối quan hệ khăng khít, bền chặt không rời."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "DT",
+      "questionId": "k4_c2_dt_117",
+      "question": "Sắp xếp thành từ chỉ hành động cùng san sẻ niềm vui, nỗi buồn với người khác: \"A / C / Ẻ / S / I / H\"",
+      "blankAnswer": "sẻ chia",
+      "answer": "sẻ chia",
+      "explanation": "Từ hoàn chỉnh sắp xếp được là \"sẻ chia\", chỉ hành động cùng san sẻ niềm vui, nỗi buồn với người khác."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "DT",
+      "questionId": "k4_c2_dt_118",
+      "question": "Sắp xếp thành từ chỉ lòng tôn kính, coi trọng đối với thầy cô, người lớn tuổi: \"Ọ / K / R / N / Í / N / G / T / H\"",
+      "blankAnswer": "kính trọng",
+      "answer": "kính trọng",
+      "explanation": "Từ hoàn chỉnh sắp xếp được là \"kính trọng\", chỉ lòng tôn kính, coi trọng đối với thầy cô, người lớn tuổi."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "DT",
+      "questionId": "k4_c2_dt_119",
+      "question": "Sắp xếp thành từ chỉ tình cảm yêu quý và trân trọng đối với một ai đó: \"N / Ý / M / U / Ế / Q\"",
+      "blankAnswer": "quý mến",
+      "answer": "quý mến",
+      "explanation": "Từ hoàn chỉnh sắp xếp được là \"quý mến\", chỉ tình cảm yêu quý và trân trọng đối với một ai đó."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "DT",
+      "questionId": "k4_c2_dt_120",
+      "question": "Sắp xếp thành từ chỉ mối quan hệ rất gần gũi, chan hòa thân tình: \"I / H / T / Â / Ế / T / H / N / T\"",
+      "blankAnswer": "thân thiết",
+      "answer": "thân thiết",
+      "explanation": "Từ hoàn chỉnh sắp xếp được là \"thân thiết\", chỉ mối quan hệ rất gần gũi, chan hòa thân tình."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "DT",
+      "questionId": "k4_c2_dt_121",
+      "question": "Sắp xếp thành từ chỉ không khí gia đình êm ấm, yêu thương, không xích mích: \"Ò / N / A / Ậ / T / H / H / U\"",
+      "blankAnswer": "hòa thuận",
+      "answer": "hòa thuận",
+      "explanation": "Từ hoàn chỉnh sắp xếp được là \"hòa thuận\", chỉ không khí gia đình êm ấm, yêu thương, không xích mích."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "DT",
+      "questionId": "k4_c2_dt_122",
+      "question": "Sắp xếp thành từ chỉ cảm xúc da diết, nhớ mong người thân yêu khi xa cách: \"N / H / N / Ớ / U / G / N / H\"",
+      "blankAnswer": "nhung nhớ",
+      "answer": "nhung nhớ",
+      "explanation": "Từ hoàn chỉnh sắp xếp được là \"nhung nhớ\", chỉ cảm xúc da diết, nhớ mong người thân yêu khi xa cách."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "DT",
+      "questionId": "k4_c2_dt_123",
+      "question": "Sắp xếp thành từ chỉ tấm lòng ghi nhớ và biết ơn sâu sắc đối với người có công: \"R / N / Â / I / T\"",
+      "blankAnswer": "tri ân",
+      "answer": "tri ân",
+      "explanation": "Từ hoàn chỉnh sắp xếp được là \"tri ân\", chỉ tấm lòng ghi nhớ và biết ơn sâu sắc đối với người có công."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "DT",
+      "questionId": "k4_c2_dt_124",
+      "question": "Sắp xếp thành từ chỉ tình cảm thân thiết, chân thành giữa bạn bè: \"T / I / Â / Á / H / N\"",
+      "blankAnswer": "thân ái",
+      "answer": "thân ái",
+      "explanation": "Từ hoàn chỉnh sắp xếp được là \"thân ái\", chỉ tình cảm thân thiết, chân thành giữa bạn bè."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "DT",
+      "questionId": "k4_c2_dt_125",
+      "question": "Sắp xếp thành từ chỉ hành động hỗ trợ, san sẻ gánh nặng cho người khác: \"I / Ỡ / Đ / P / G / Ú\"",
+      "blankAnswer": "giúp đỡ",
+      "answer": "giúp đỡ",
+      "explanation": "Từ hoàn chỉnh sắp xếp được là \"giúp đỡ\", chỉ hành động hỗ trợ, san sẻ gánh nặng cho người khác."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "DT",
+      "questionId": "k4_c2_dt_126",
+      "question": "Sắp xếp thành từ chỉ việc bảo vệ, bao bọc người yếu thế khỏi nguy nan: \"C / C / Ở / H / E / H\"",
+      "blankAnswer": "che chở",
+      "answer": "che chở",
+      "explanation": "Từ hoàn chỉnh sắp xếp được là \"che chở\", chỉ việc bảo vệ, bao bọc người yếu thế khỏi nguy nan."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "DT",
+      "questionId": "k4_c2_dt_127",
+      "question": "Sắp xếp thành từ chỉ việc giữ gìn an toàn, không để bị tổn hại: \"Ả / O / V / B / Ệ\"",
+      "blankAnswer": "bảo vệ",
+      "answer": "bảo vệ",
+      "explanation": "Từ hoàn chỉnh sắp xếp được là \"bảo vệ\", chỉ việc giữ gìn an toàn, không để bị tổn hại."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "DT",
+      "questionId": "k4_c2_dt_128",
+      "question": "Sắp xếp thành từ chỉ ý thức bảo quản, chăm chút để không bị hư hỏng, mai một: \"G / G / Ì / N / Ữ / I\"",
+      "blankAnswer": "giữ gìn",
+      "answer": "giữ gìn",
+      "explanation": "Từ hoàn chỉnh sắp xếp được là \"giữ gìn\", chỉ ý thức bảo quản, chăm chút để không bị hư hỏng, mai một."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "DT",
+      "questionId": "k4_c2_dt_129",
+      "question": "Sắp xếp thành từ chỉ việc tự nguyện dâng hiến công sức, trí tuệ cho xã hội: \"C / Ế / H / I / G / N / N / Ố\"",
+      "blankAnswer": "cống hiến",
+      "answer": "cống hiến",
+      "explanation": "Từ hoàn chỉnh sắp xếp được là \"cống hiến\", chỉ việc tự nguyện dâng hiến công sức, trí tuệ cho xã hội."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "DT",
+      "questionId": "k4_c2_dt_130",
+      "question": "Sắp xếp thành từ chỉ việc bổn phận mà mỗi người phải thực hiện đối với cộng đồng: \"Ĩ / Ụ / V / H / N / G / A\"",
+      "blankAnswer": "nghĩa vụ",
+      "answer": "nghĩa vụ",
+      "explanation": "Từ hoàn chỉnh sắp xếp được là \"nghĩa vụ\", chỉ việc bổn phận mà mỗi người phải thực hiện đối với cộng đồng."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "DT",
+      "questionId": "k4_c2_dt_131",
+      "question": "Sắp xếp thành từ chỉ ý thức gánh vác và hoàn thành tốt phần việc của mình: \"T / C / N / H / R / I / Ệ / Á / H / M\"",
+      "blankAnswer": "trách nhiệm",
+      "answer": "trách nhiệm",
+      "explanation": "Từ hoàn chỉnh sắp xếp được là \"trách nhiệm\", chỉ ý thức gánh vác và hoàn thành tốt phần việc của mình."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "DT",
+      "questionId": "k4_c2_dt_132",
+      "question": "Sắp xếp thành từ chỉ sự vươn lên liên tục để đạt thành tích tốt hơn: \"N / Ấ / P / U / H / Đ / Ấ\"",
+      "blankAnswer": "phấn đấu",
+      "answer": "phấn đấu",
+      "explanation": "Từ hoàn chỉnh sắp xếp được là \"phấn đấu\", chỉ sự vươn lên liên tục để đạt thành tích tốt hơn."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "DT",
+      "questionId": "k4_c2_dt_133",
+      "question": "Sắp xếp thành từ chỉ trạng thái yên ổn, không có chiến tranh, xung đột: \"B / H / Ò / N / Ì / H / A\"",
+      "blankAnswer": "hòa bình",
+      "answer": "hòa bình",
+      "explanation": "Từ hoàn chỉnh sắp xếp được là \"hòa bình\", chỉ trạng thái yên ổn, không có chiến tranh, xung đột."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "DT",
+      "questionId": "k4_c2_dt_134",
+      "question": "Sắp xếp thành từ chỉ khung cảnh êm ả, yên ả, không có loạn lạc xáo trộn: \"H / H / Ì / N / B / A / H / N / T\"",
+      "blankAnswer": "thanh bình",
+      "answer": "thanh bình",
+      "explanation": "Từ hoàn chỉnh sắp xếp được là \"thanh bình\", chỉ khung cảnh êm ả, yên ả, không có loạn lạc xáo trộn."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "DT",
+      "questionId": "k4_c2_dt_135",
+      "question": "Sắp xếp thành từ chỉ sự giàu có, màu mỡ, tươi tốt của một vùng quê: \"R / T / Ù / Ú / H / P\"",
+      "blankAnswer": "trù phú",
+      "answer": "trù phú",
+      "explanation": "Từ hoàn chỉnh sắp xếp được là \"trù phú\", chỉ sự giàu có, màu mỡ, tươi tốt của một vùng quê."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "DT",
+      "questionId": "k4_c2_dt_136",
+      "question": "Sắp xếp thành từ chỉ cảnh sắc tự nhiên to lớn, kì vĩ, gợi cảm giác tráng lệ: \"H / V / G / Ù / N / Ĩ\"",
+      "blankAnswer": "hùng vĩ",
+      "answer": "hùng vĩ",
+      "explanation": "Từ hoàn chỉnh sắp xếp được là \"hùng vĩ\", chỉ cảnh sắc tự nhiên to lớn, kì vĩ, gợi cảm giác tráng lệ."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "DT",
+      "questionId": "k4_c2_dt_137",
+      "question": "Sắp xếp thành từ chỉ đất nước thân yêu nơi các thế hệ ông cha gắn bó xây dựng: \"Ố / T / Ổ / U / Q / C\"",
+      "blankAnswer": "tổ quốc",
+      "answer": "tổ quốc",
+      "explanation": "Từ hoàn chỉnh sắp xếp được là \"tổ quốc\", chỉ đất nước thân yêu nơi các thế hệ ông cha gắn bó xây dựng."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "DT",
+      "questionId": "k4_c2_dt_138",
+      "question": "Sắp xếp thành từ chỉ non sông đất nước tươi đẹp, quý giá ví như tấm gấm thêu: \"Ấ / V / C / M / Ó / G\"",
+      "blankAnswer": "gấm vóc",
+      "answer": "gấm vóc",
+      "explanation": "Từ hoàn chỉnh sắp xếp được là \"gấm vóc\", chỉ non sông đất nước tươi đẹp, quý giá ví như tấm gấm thêu."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "DT",
+      "questionId": "k4_c2_dt_139",
+      "question": "Sắp xếp thành từ chỉ cảnh sắc rực rỡ, xinh tươi và tràn đầy sức sống: \"Ư / Đ / Ẹ / T / Ơ / P / I\"",
+      "blankAnswer": "tươi đẹp",
+      "answer": "tươi đẹp",
+      "explanation": "Từ hoàn chỉnh sắp xếp được là \"tươi đẹp\", chỉ cảnh sắc rực rỡ, xinh tươi và tràn đầy sức sống."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "DT",
+      "questionId": "k4_c2_dt_140",
+      "question": "Sắp xếp thành từ chỉ đất nước, giang sơn gồm núi non và sông biển: \"O / G / Ô / N / N / N / S\"",
+      "blankAnswer": "non sông",
+      "answer": "non sông",
+      "explanation": "Từ hoàn chỉnh sắp xếp được là \"non sông\", chỉ đất nước, giang sơn gồm núi non và sông biển."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "DT",
+      "questionId": "k4_c2_dt_141",
+      "question": "Sắp xếp thành từ chỉ trạng thái yên tĩnh, an lành, không có xáo động: \"Ì / Y / N / Ê / H / B / N\"",
+      "blankAnswer": "yên bình",
+      "answer": "yên bình",
+      "explanation": "Từ hoàn chỉnh sắp xếp được là \"yên bình\", chỉ trạng thái yên tĩnh, an lành, không có xáo động."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "DT",
+      "questionId": "k4_c2_dt_142",
+      "question": "Sắp xếp thành từ chỉ không gian rộng lớn mênh mông trải dài ngút tầm mắt: \"B / N / Á / G / T / T / Á\"",
+      "blankAnswer": "bát ngát",
+      "answer": "bát ngát",
+      "explanation": "Từ hoàn chỉnh sắp xếp được là \"bát ngát\", chỉ không gian rộng lớn mênh mông trải dài ngút tầm mắt."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "DT",
+      "questionId": "k4_c2_dt_143",
+      "question": "Sắp xếp thành từ chỉ khoảng không gian rộng lớn đến vô cùng vô tận: \"A / L / O / B / A\"",
+      "blankAnswer": "bao la",
+      "answer": "bao la",
+      "explanation": "Từ hoàn chỉnh sắp xếp được là \"bao la\", chỉ khoảng không gian rộng lớn đến vô cùng vô tận."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "DT",
+      "questionId": "k4_c2_dt_144",
+      "question": "Sắp xếp thành từ chỉ khoảng không gian rộng rãi không bờ bến như biển trời: \"M / H / N / M / N / Ê / Ô / G\"",
+      "blankAnswer": "mênh mông",
+      "answer": "mênh mông",
+      "explanation": "Từ hoàn chỉnh sắp xếp được là \"mênh mông\", chỉ khoảng không gian rộng rãi không bờ bến như biển trời."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "DT",
+      "questionId": "k4_c2_dt_145",
+      "question": "Sắp xếp thành từ chỉ cảnh đẹp êm đềm, gợi nhiều cảm xúc lãng mạn như thơ: \"G / M / N / Ơ / Ộ / H / T\"",
+      "blankAnswer": "thơ mộng",
+      "answer": "thơ mộng",
+      "explanation": "Từ hoàn chỉnh sắp xếp được là \"thơ mộng\", chỉ cảnh đẹp êm đềm, gợi nhiều cảm xúc lãng mạn như thơ."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "DT",
+      "questionId": "k4_c2_dt_146",
+      "question": "Sắp xếp thành từ chỉ đất đai phì nhiêu, tươi tốt, rất thuận lợi để trồng trọt: \"U / M / Ỡ / M / À\"",
+      "blankAnswer": "màu mỡ",
+      "answer": "màu mỡ",
+      "explanation": "Từ hoàn chỉnh sắp xếp được là \"màu mỡ\", chỉ đất đai phì nhiêu, tươi tốt, rất thuận lợi để trồng trọt."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "DT",
+      "questionId": "k4_c2_dt_147",
+      "question": "Sắp xếp thành từ chỉ cây cối phát triển sum sê, mơn mởn cành lá: \"T / H / X / A / Ố / N / T\"",
+      "blankAnswer": "xanh tốt",
+      "answer": "xanh tốt",
+      "explanation": "Từ hoàn chỉnh sắp xếp được là \"xanh tốt\", chỉ cây cối phát triển sum sê, mơn mởn cành lá."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "DT",
+      "questionId": "k4_c2_dt_148",
+      "question": "Sắp xếp thành từ chỉ cảm giác ấm nồng, dễ chịu của thời tiết hoặc lòng người: \"M / Ấ / Á / P\"",
+      "blankAnswer": "ấm áp",
+      "answer": "ấm áp",
+      "explanation": "Từ hoàn chỉnh sắp xếp được là \"ấm áp\", chỉ cảm giác ấm nồng, dễ chịu của thời tiết hoặc lòng người."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "DT",
+      "questionId": "k4_c2_dt_149",
+      "question": "Sắp xếp thành từ chỉ màu sắc chói lọi, tươi sáng và rất nổi bật: \"R / C / Ỡ / R / Ự\"",
+      "blankAnswer": "rực rỡ",
+      "answer": "rực rỡ",
+      "explanation": "Từ hoàn chỉnh sắp xếp được là \"rực rỡ\", chỉ màu sắc chói lọi, tươi sáng và rất nổi bật."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "DT",
+      "questionId": "k4_c2_dt_150",
+      "question": "Sắp xếp thành từ chỉ ánh sáng lấp lánh, lay động chập chờn đẹp mắt: \"N / I / H / L / U / G / L / N\"",
+      "blankAnswer": "lung linh",
+      "answer": "lung linh",
+      "explanation": "Từ hoàn chỉnh sắp xếp được là \"lung linh\", chỉ ánh sáng lấp lánh, lay động chập chờn đẹp mắt."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "DT",
+      "questionId": "k4_c2_dt_151",
+      "question": "Sắp xếp thành từ chỉ sự êm dịu, nhẹ nhàng làm lòng người thanh thản: \"Ị / À / G / N / U / D / D\"",
+      "blankAnswer": "dịu dàng",
+      "answer": "dịu dàng",
+      "explanation": "Từ hoàn chỉnh sắp xếp được là \"dịu dàng\", chỉ sự êm dịu, nhẹ nhàng làm lòng người thanh thản."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "DT",
+      "questionId": "k4_c2_dt_152",
+      "question": "Sắp xếp thành từ chỉ nhịp điệu từ tốn, chậm rãi, không chút vội vàng: \"Ả / H / T / O / N / G / H / T\"",
+      "blankAnswer": "thong thả",
+      "answer": "thong thả",
+      "explanation": "Từ hoàn chỉnh sắp xếp được là \"thong thả\", chỉ nhịp điệu từ tốn, chậm rãi, không chút vội vàng."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "DT",
+      "questionId": "k4_c2_dt_153",
+      "question": "Sắp xếp thành từ chỉ khoảng thời gian mặt trời vừa mới ló rạng buổi sớm mai: \"M / N / I / H / B / N / Ì / H\"",
+      "blankAnswer": "bình minh",
+      "answer": "bình minh",
+      "explanation": "Từ hoàn chỉnh sắp xếp được là \"bình minh\", chỉ khoảng thời gian mặt trời vừa mới ló rạng buổi sớm mai."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "DT",
+      "questionId": "k4_c2_dt_154",
+      "question": "Sắp xếp thành từ chỉ khoảng thời gian mặt trời lặn cuối buổi chiều tà: \"Ô / G / À / H / O / H / N / N\"",
+      "blankAnswer": "hoàng hôn",
+      "answer": "hoàng hôn",
+      "explanation": "Từ hoàn chỉnh sắp xếp được là \"hoàng hôn\", chỉ khoảng thời gian mặt trời lặn cuối buổi chiều tà."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "DT",
+      "questionId": "k4_c2_dt_155",
+      "question": "Sắp xếp thành từ chỉ cảnh quan trùng điệp gồm nhiều dãy núi cao: \"I / N / Ú / N / O / N\"",
+      "blankAnswer": "núi non",
+      "answer": "núi non",
+      "explanation": "Từ hoàn chỉnh sắp xếp được là \"núi non\", chỉ cảnh quan trùng điệp gồm nhiều dãy núi cao."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "DT",
+      "questionId": "k4_c2_dt_156",
+      "question": "Sắp xếp thành từ chỉ mạng lưới nguồn nước tự nhiên chảy qua các vùng miền: \"G / Ố / Ô / S / N / S / I / U\"",
+      "blankAnswer": "sông suối",
+      "answer": "sông suối",
+      "explanation": "Từ hoàn chỉnh sắp xếp được là \"sông suối\", chỉ mạng lưới nguồn nước tự nhiên chảy qua các vùng miền."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "DT",
+      "questionId": "k4_c2_dt_157",
+      "question": "Sắp xếp thành từ chỉ loài hoa thanh khiết, tượng trưng cho vẻ đẹp tâm hồn Việt: \"H / O / A / S / N / E\"",
+      "blankAnswer": "hoa sen",
+      "answer": "hoa sen",
+      "explanation": "Từ hoàn chỉnh sắp xếp được là \"hoa sen\", chỉ loài hoa thanh khiết, tượng trưng cho vẻ đẹp tâm hồn Việt."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "DT",
+      "questionId": "k4_c2_dt_158",
+      "question": "Sắp xếp thành từ chỉ cánh đồng làng quê yên ả, thơm ngát hương lúa rơm rạ: \"Ồ / N / Đ / N / I / G / Ộ\"",
+      "blankAnswer": "đồng nội",
+      "answer": "đồng nội",
+      "explanation": "Từ hoàn chỉnh sắp xếp được là \"đồng nội\", chỉ cánh đồng làng quê yên ả, thơm ngát hương lúa rơm rạ."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "DT",
+      "questionId": "k4_c2_dt_159",
+      "question": "Sắp xếp thành từ chỉ sinh hoạt văn hóa dân gian gồm phần nghi lễ và phần vui chơi: \"I / H / L / Ộ / Ễ\"",
+      "blankAnswer": "lễ hội",
+      "answer": "lễ hội",
+      "explanation": "Từ hoàn chỉnh sắp xếp được là \"lễ hội\", chỉ sinh hoạt văn hóa dân gian gồm phần nghi lễ và phần vui chơi."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "DT",
+      "questionId": "k4_c2_dt_160",
+      "question": "Sắp xếp thành từ chỉ những phong tục, tập quán tốt đẹp lưu truyền qua nhiều đời: \"G / H / N / R / U / T / Ố / Ề / N / T / Y\"",
+      "blankAnswer": "truyền thống",
+      "answer": "truyền thống",
+      "explanation": "Từ hoàn chỉnh sắp xếp được là \"truyền thống\", chỉ những phong tục, tập quán tốt đẹp lưu truyền qua nhiều đời."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "DT",
+      "questionId": "k4_c2_dt_161",
+      "question": "Sắp xếp thành từ chỉ trình độ phát triển cao của xã hội về văn hóa và đạo đức: \"N / M / H / Ă / V / N / I\"",
+      "blankAnswer": "văn minh",
+      "answer": "văn minh",
+      "explanation": "Từ hoàn chỉnh sắp xếp được là \"văn minh\", chỉ trình độ phát triển cao của xã hội về văn hóa và đạo đức."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "DT",
+      "questionId": "k4_c2_dt_162",
+      "question": "Sắp xếp thành từ chỉ thái độ và lời ăn tiếng nói đúng mực trong giao tiếp: \"Ị / S / H / Ự / L / C\"",
+      "blankAnswer": "lịch sự",
+      "answer": "lịch sự",
+      "explanation": "Từ hoàn chỉnh sắp xếp được là \"lịch sự\", chỉ thái độ và lời ăn tiếng nói đúng mực trong giao tiếp."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "DT",
+      "questionId": "k4_c2_dt_163",
+      "question": "Sắp xếp thành từ chỉ kết quả tốt đẹp đạt được sau bao cố gắng phấn đấu: \"Ô / N / G / N / H / T / À / C / H\"",
+      "blankAnswer": "thành công",
+      "answer": "thành công",
+      "explanation": "Từ hoàn chỉnh sắp xếp được là \"thành công\", chỉ kết quả tốt đẹp đạt được sau bao cố gắng phấn đấu."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "DT",
+      "questionId": "k4_c2_dt_164",
+      "question": "Sắp xếp thành từ chỉ danh dự và niềm tự hào rạng rỡ từ chiến công, thành tích: \"Q / H / I / G / U / N / A / N / V\"",
+      "blankAnswer": "vinh quang",
+      "answer": "vinh quang",
+      "explanation": "Từ hoàn chỉnh sắp xếp được là \"vinh quang\", chỉ danh dự và niềm tự hào rạng rỡ từ chiến công, thành tích."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "DT",
+      "questionId": "k4_c2_dt_165",
+      "question": "Sắp xếp thành từ chỉ việc vượt qua mọi khó khăn hoặc đối thủ để giành thắng lợi: \"G / Ế / N / N / I / H / H / C / Ắ / T\"",
+      "blankAnswer": "chiến thắng",
+      "answer": "chiến thắng",
+      "explanation": "Từ hoàn chỉnh sắp xếp được là \"chiến thắng\", chỉ việc vượt qua mọi khó khăn hoặc đối thủ để giành thắng lợi."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "DT",
+      "questionId": "k4_c2_dt_166",
+      "question": "Sắp xếp thành từ chỉ cảm xúc kiêu hãnh về đất nước, quê hương hoặc chính mình: \"Ự / O / H / T / À\"",
+      "blankAnswer": "tự hào",
+      "answer": "tự hào",
+      "explanation": "Từ hoàn chỉnh sắp xếp được là \"tự hào\", chỉ cảm xúc kiêu hãnh về đất nước, quê hương hoặc chính mình."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "DT",
+      "questionId": "k4_c2_dt_167",
+      "question": "Sắp xếp thành từ chỉ sự lớn mạnh, vươn lên không ngừng theo chiều hướng tốt đẹp: \"T / Á / R / N / H / Ể / I / P / T\"",
+      "blankAnswer": "phát triển",
+      "answer": "phát triển",
+      "explanation": "Từ hoàn chỉnh sắp xếp được là \"phát triển\", chỉ sự lớn mạnh, vươn lên không ngừng theo chiều hướng tốt đẹp."
+    },
+    {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_4",
+      "level": "CAP_2_VONG_TRUONG",
+      "type": "DT",
+      "questionId": "k4_c2_dt_168",
+      "question": "Sắp xếp thành từ chỉ sự tin tưởng sâu sắc vào những điều chân chính và tốt đẹp: \"T / N / Ề / N / I / M / I\"",
+      "blankAnswer": "niềm tin",
+      "answer": "niềm tin",
+      "explanation": "Từ hoàn chỉnh sắp xếp được là \"niềm tin\", chỉ sự tin tưởng sâu sắc vào những điều chân chính và tốt đẹp."
     }
   ]
 }

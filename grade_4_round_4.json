@@ -11,7 +11,7 @@
       "options": {
         "A": "con rùa",
         "B": "con dùa",
-        "C": "dâm dan",
+        "C": "râm dan",
         "D": "deo hò"
       },
       "answer": "A",
@@ -15633,7 +15633,24 @@
         "B": "Cái quạt",
         "C": "Chiếc bàn",
         "D": "Cái chai"
+      }
+      {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_5",
+      "level": "CAP_4_VONG_TINH",
+      "type": "TN",
+      "questionId": "k5_c4_tn_670",
+      "question": "Người được mệnh danh là Bố Cái Đại Vương là ai?",
+      "options": {
+        "A": "Lý Nhân Tông",
+        "B": "Phùng Hưng",
+        "C": "Phùng Khắc Khoan",
+        "D": "Lý Thánh Tông"
       },
+      "answer": "B",
+      "explanation": "Bố Cái Đại Vương là tôn hiệu (tên gọi tôn kính) của Phùng Hưng (thế kỷ VIII), thủ lĩnh cuộc khởi nghĩa chống ách đô hộ nhà Đường.",
+      "id": "k5_c4_tn_1841"
+    },
       "answer": "D",
       "explanation": "Cái chai nước có phần thon nhỏ ở miệng gọi là 'cổ chai', nhưng nó không có đầu."
     }

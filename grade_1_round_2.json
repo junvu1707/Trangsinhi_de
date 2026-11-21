@@ -18203,22 +18203,7 @@
       "explanation": "'rặng tre' là từ ngữ viết đúng chính tả tiếng Việt.",
       "questionId": "k1_c2_tn_0839"
     },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_1",
-      "level": "CAP_2_VONG_TRUONG",
-      "type": "TN",
-      "question": "Từ ngữ nào dưới đây viết đúng chính tả?",
-      "options": {
-        "A": "khóm ha",
-        "B": "khón hoa",
-        "C": "khóng ha",
-        "D": "khóm hoa"
-      },
-      "answer": "D",
-      "explanation": "'khóm hoa' là từ ngữ viết đúng chính tả tiếng Việt.",
-      "questionId": "k1_c2_tn_0841"
-    },
+    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_1",
