@@ -11190,11 +11190,11 @@
       "options": {
         "A": "bâng khuâng",
         "B": "cá chép",
-        "C": "đo đỏ",
+        "C": "bảo ban",
         "D": "nhỏ nhắn"
       },
       "answer": "D",
-      "explanation": "“nhỏ nhắn” thuộc nhóm từ láy âm đầu.",
+      "explanation": "“nhỏ nhắn” thuộc nhóm từ láy âm đầu. “bảo ban”  là từ ghép vì 2 tiếng “bảo” và “ ban” đều có nghĩa, nhưng dễ bị nhầm thành từ láy",
       "questionId": "k4_c1_tn_0389"
     },
     {
@@ -11396,7 +11396,7 @@
       "type": "TN",
       "question": "Từ nào dưới đây là từ láy vần?",
       "options": {
-        "A": "đều đều",
+        "A": "đều đặn",
         "B": "sân bóng",
         "C": "đo đỏ",
         "D": "chênh vênh"
@@ -11543,10 +11543,10 @@
         "A": "ruộng đồng",
         "B": "cây bưởi",
         "C": "đường sá",
-        "D": "đo đỏ"
+        "D": "ào ào"
       },
       "answer": "D",
-      "explanation": "“đo đỏ” thuộc nhóm từ láy toàn bộ.",
+      "explanation": "“ào ào” thuộc nhóm từ láy toàn bộ.",
       "questionId": "k4_c1_tn_0411"
     },
     {
@@ -16699,14 +16699,14 @@
       "type": "SX",
       "question": "Hãy sắp xếp các từ/cụm từ sau thành một câu văn hoàn chỉnh, đúng ngữ pháp:",
       "elements": [
-        "lại niềm",
+        "lại niềm vui",
         "mọi người.",
         "chia mang",
         "Lòng nhân",
         "ái sẻ"
       ],
       "answer": "Lòng nhân ái sẻ chia mang lại niềm vui cho mọi người.",
-      "explanation": "Câu hoàn chỉnh đúng trật tự ngữ pháp: “Lòng nhân ái sẻ chia mang lại niềm vui cho mọi người.”.",
+      "explanation": "Câu hoàn chỉnh đúng trật tự ngữ pháp: “Lòng nhân ái sẻ chia mang lại niềm vui cho mọi người.”",
       "questionId": "k4_c1_sx_0080"
     },
     {
