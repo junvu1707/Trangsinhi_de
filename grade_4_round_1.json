@@ -24252,22 +24252,7 @@
       "answer": "D",
       "explanation": "Con trâu gắn liền với hình ảnh làng quê Việt Nam qua câu 'Con trâu là đầu cơ nghiệp', giúp nông dân cày bừa đất đai."
     },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "TN",
-      "questionId": "k4_c1_tn_0958",
-      "question": "Giải câu đố mẹo sau:\n\"Trên bàn có 3 quả táo thơm ngon. Bạn bước tới và lấy đi 2 quả táo. Hỏi bây giờ bạn đang có trong tay mấy quả táo?\"",
-      "options": {
-        "A": "1 quả táo",
-        "B": "3 quả táo",
-        "C": "2 quả táo",
-        "D": "Không còn quả nào"
-      },
-      "answer": "C",
-      "explanation": "Câu đố hỏi 'bạn có mấy quả', vì bạn vừa lấy đi 2 quả nên trong tay bạn có đúng 2 quả táo."
-    },
+   
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_4",
@@ -24380,102 +24365,7 @@
       "answer": "B",
       "explanation": "Lưỡi cưa xẻ gỗ có nhiều răng cưa sắc nhọn xếp liền nhau nhưng không có miệng để ăn."
     },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "TN",
-      "questionId": "k4_c1_tn_0966",
-      "question": "Giải câu đố tư duy sau:\n\"Làm thế nào để chia đều 5 quả cam cho 5 bạn học sinh sao cho mỗi bạn đều nhận được 1 quả cam, nhưng trong giỏ vẫn còn lại đúng 1 quả cam?\"",
-      "options": {
-        "A": "Cắt mỗi quả cam làm đôi",
-        "B": "Bỏ thêm một quả cam khác vào giỏ",
-        "C": "Đưa cho bạn cuối cùng quả cam nằm nguyên trong giỏ",
-        "D": "Một bạn không nhận cam"
-      },
-      "answer": "C",
-      "explanation": "Chia 4 quả cam cho 4 bạn đầu tiên, còn bạn thứ 5 thì đưa cả chiếc giỏ đựng quả cam cuối cùng bên trong."
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "TN",
-      "questionId": "k4_c1_tn_0967",
-      "question": "Giải câu đố logic sau:\n\"Trong một cuộc thi chạy tiếp sức của trường, nếu em chạy vượt qua người đang ở vị trí thứ hai, thì lúc đó em đang xếp ở vị trí thứ mấy?\"",
-      "options": {
-        "A": "Vị trí thứ nhất",
-        "B": "Vị trí thứ ba",
-        "C": "Vị trí thứ hai",
-        "D": "Vị trí cuối cùng"
-      },
-      "answer": "C",
-      "explanation": "Khi em vượt qua người thứ hai, em sẽ thế vào chính vị trí thứ hai của người đó, người chạy đầu tiên vẫn đang ở vị trí thứ nhất."
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "TN",
-      "questionId": "k4_c1_tn_0968",
-      "question": "Giải câu đố mẹo sau:\n\"Bố của bạn Nam có 3 người con trai: người con cả tên là Nhất, người con thứ hai tên là Nhị. Hỏi người con thứ ba tên là gì?\"",
-      "options": {
-        "A": "Tên là Tam",
-        "B": "Tên là Tứ",
-        "C": "Tên là Nam",
-        "D": "Tên là Bốn"
-      },
-      "answer": "C",
-      "explanation": "Đầu bài đã nói rõ 'Bố của bạn Nam có 3 người con trai', nên người con thứ ba chính là bạn Nam."
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "TN",
-      "questionId": "k4_c1_tn_0969",
-      "question": "Giải câu đố mẹo sau:\n\"Con gà trống của nhà bạn An đẻ một quả trứng ngay trên đỉnh mái nhà dốc sang hai bên. Hỏi quả trứng gà sẽ lăn về bên trái hay bên phải?\"",
-      "options": {
-        "A": "Lăn về bên trái",
-        "B": "Lăn về bên phải",
-        "C": "Gà trống không biết đẻ trứng",
-        "D": "Nằm im trên đỉnh nóc"
-      },
-      "answer": "C",
-      "explanation": "Gà trống không bao giờ đẻ trứng, chỉ có gà mái mới đẻ trứng."
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "TN",
-      "questionId": "k4_c1_tn_0970",
-      "question": "Giải câu đố tư duy sau:\n\"Ở một khúc sông, người ta thấy đàn vịt bơi: 2 con đi trước 2 con, 2 con đi sau 2 con, và 2 con đi giữa 2 con. Hỏi đàn vịt đó có ít nhất bao nhiêu con vịt?\"",
-      "options": {
-        "A": "6 con vịt",
-        "B": "8 con vịt",
-        "C": "4 con vịt",
-        "D": "2 con vịt"
-      },
-      "answer": "C",
-      "explanation": "Chỉ cần 4 con vịt bơi nối đuôi nhau thành 1 hàng dọc là thỏa mãn tất cả các điều kiện trên."
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "TN",
-      "questionId": "k4_c1_tn_0971",
-      "question": "Giải câu đố logic sau:\n\"Làm thế nào để một người có thể ném một quả trứng gà sống rơi tự do 3 mét mà không làm quả trứng bị nứt vỡ?\"",
-      "options": {
-        "A": "Ném quả trứng vào chậu nước",
-        "B": "Bọc quả trứng trong chăn bông",
-        "C": "Ném từ độ cao 4 mét, trong 3 mét rơi đầu tiên quả trứng chưa chạm đất nên không thể vỡ",
-        "D": "Luộc chín quả trứng trước khi ném"
-      },
-      "answer": "C",
-      "explanation": "Ném quả trứng từ độ cao 4 mét (hoặc cao hơn), thì trong 3 mét rơi tự do đầu tiên quả trứng vẫn đang ở trên không trung chưa chạm đất nên chưa bị vỡ."
-    },
+    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_4",
@@ -24492,22 +24382,7 @@
       "answer": "C",
       "explanation": "Đây là câu đố nổi tiếng của nhân sư: 'Buổi sáng' tượng trưng cho thời thơ ấu bò bằng 4 chi; 'buổi trưa' là tuổi trưởng thành đi bằng 2 chân; 'buổi chiều' là tuổi già phải chống thêm chiếc gậy (3 chân)."
     },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "TN",
-      "questionId": "k4_c1_tn_0973",
-      "question": "Giải câu đố mẹo sau:\n\"Cái gì trên cơ thể mà bạn có thể dễ dàng cầm nắm bằng bàn tay phải, nhưng lại không bao giờ có thể tự cầm được bằng bàn tay trái của mình?\"",
-      "options": {
-        "A": "Ngón chân cái bên phải",
-        "B": "Chiếc tai bên phải",
-        "C": "Cái cằm",
-        "D": "Khuỷu tay trái"
-      },
-      "answer": "D",
-      "explanation": "Bàn tay trái không thể tự cầm nắm vào khuỷu tay trái hay chính bàn tay trái của mình."
-    },
+    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_4",
@@ -24524,54 +24399,8 @@
       "answer": "C",
       "explanation": "Bông tuyết kết tinh từ hơi nước lạnh rơi nhẹ nhàng xuống đất và tan chảy thành nước khi nhiệt độ ấm lên."
     },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "TN",
-      "questionId": "k4_c1_tn_0975",
-      "question": "Giải câu đố mẹo sau:\n\"Nếu bạn chỉ có một que diêm duy nhất, bước vào căn phòng tối lạnh có một chiếc đèn dầu, một bếp củi và một ngọn nến. Bạn phải thắp sáng thứ gì đầu tiên?\"",
-      "options": {
-        "A": "Cây nến",
-        "B": "Que diêm",
-        "C": "Đèn dầu",
-        "D": "Bếp củi"
-      },
-      "answer": "B",
-      "explanation": "Bạn phải quẹt que diêm để có lửa trước tiên, rồi mới dùng que diêm đó thắp nến, đèn dầu hay bếp củi."
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "TN",
-      "questionId": "k4_c1_tn_0976",
-      "question": "Giải câu đố mẹo sau:\n\"Thứ gì càng dùng để rửa nhiều lần thì bản thân nó lại càng bị bẩn đục đi?\"",
-      "options": {
-        "A": "Nước dùng để rửa",
-        "B": "Bánh xà phòng",
-        "C": "Cái vòi nước",
-        "D": "Chiếc thau nhôm"
-      },
-      "answer": "A",
-      "explanation": "Nước dùng để rửa đồ đạc, tay chân thì các chất bẩn sẽ hòa tan vào nước làm nước bị bẩn đục đi."
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "TN",
-      "questionId": "k4_c1_tn_0977",
-      "question": "Giải câu đố tư duy sau:\n\"Một chú ốc sên bò lên cây cột cao 10 mét. Ban ngày ốc sên bò lên được 3 mét, ban đêm ngủ lại bị tuột xuống 2 mét. Hỏi sau bao nhiêu ngày thì ốc sên bò lên tới đỉnh cột?\"",
-      "options": {
-        "A": "10 ngày",
-        "B": "7 ngày",
-        "C": "9 ngày",
-        "D": "8 ngày"
-      },
-      "answer": "D",
-      "explanation": "Mỗi ngày đêm ốc bò được: 3 - 2 = 1 mét. Sau 7 ngày đêm, ốc ở độ cao 7 mét. Sang ban ngày của ngày thứ 8, ốc bò thêm 3 mét nữa là: 7 + 3 = 10 mét, chạm đúng đỉnh cột mà không bị tuột nữa."
-    },
+    
+    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_4",
@@ -24588,54 +24417,9 @@
       "answer": "C",
       "explanation": "Quả dừa tươi chứa đầy nước dừa ngọt bên trong lớp vỏ cứng kín mít nên không thể làm ướt mặt bàn."
     },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "TN",
-      "questionId": "k4_c1_tn_0979",
-      "question": "Giải câu đố tư duy sau:\n\"Bạn bị nhốt trong phòng có 3 cánh cửa thoát hiểm: Cửa 1 có ngọn lửa cháy dữ dội; Cửa 2 có kẻ cướp cầm vũ khí canh giữ; Cửa 3 có đàn sư tử hung dữ bị bỏ đói suốt 3 năm. Bạn nên chọn cánh cửa nào an toàn nhất để thoát ra?\"",
-      "options": {
-        "A": "Cửa số 1",
-        "B": "Cửa số 2",
-        "C": "Cửa số 3 (vì đàn sư tử bị bỏ đói 3 năm đã chết từ lâu)",
-        "D": "Không chọn cửa nào"
-      },
-      "answer": "C",
-      "explanation": "Sư tử nhịn ăn vài tuần sẽ chết, nếu bị bỏ đói suốt 3 năm thì đàn sư tử chắc chắn không còn sống, căn phòng đó hoàn toàn an toàn."
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "TN",
-      "questionId": "k4_c1_tn_0980",
-      "question": "Giải câu đố gia đình sau:\n\"Hai người cha và hai người con cùng rủ nhau đi câu cá. Mỗi người đều câu được đúng một con cá lớn mang về. Tại sao tổng số cá đem về nhà chỉ có tất cả 3 con cá?\"",
-      "options": {
-        "A": "Vì một người bị rơi mất cá trên đường về",
-        "B": "Vì đi câu chỉ có 3 người: Ông nội, người bố và người con trai",
-        "C": "Vì có một con cá bị cá lớn ăn thịt",
-        "D": "Vì người bố câu giúp con"
-      },
-      "answer": "B",
-      "explanation": "Ba thế hệ trong gia đình: Ông nội là cha của bố, bố là con của ông đồng thời là cha của con trai. Như vậy có 2 người cha và 2 người con, nhưng thực tế chỉ có 3 người đi câu."
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_1_VONG_LOAI",
-      "type": "TN",
-      "questionId": "k4_c1_tn_0981",
-      "question": "Giải câu đố mẹo sau:\n\"Con đường nào sau đây là con đường dài nhất mà không có bất kỳ người nào có thể đi hết từ điểm đầu đến điểm cuối?\"",
-      "options": {
-        "A": "Đường đời",
-        "B": "Đường cao tốc",
-        "C": "Đường xích đạo",
-        "D": "Đường sắt Bắc Nam"
-      },
-      "answer": "A",
-      "explanation": "'Đường đời' là hình ảnh ẩn dụ về cả một kiếp người với vô vàn trải nghiệm và bài học không ngừng nghỉ."
-    },
+   
+    
+   
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_4",

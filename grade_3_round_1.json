@@ -184,7 +184,6 @@
       "explanation": "“chen chúc” là cách viết đúng; cần phân biệt âm đầu hoặc vần dễ lẫn.",
       "questionNumber": 9
     },
-   
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_3",
@@ -828,7 +827,6 @@
       },
       "answer": "A",
       "explanation": "Dấu phẩy ngăn cách các từ cùng chức vụ trong phép liệt kê."
-     
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -845,9 +843,7 @@
       },
       "answer": "A",
       "explanation": "Dấu chấm đặt ở cuối câu; dấu phẩy ngăn cách cụm từ đầu câu."
-     
     },
-   
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_3",
@@ -863,7 +859,6 @@
       },
       "answer": "D",
       "explanation": "Từ viết đúng chính tả là 'sạch'."
-     
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -880,7 +875,6 @@
       },
       "answer": "D",
       "explanation": "Từ viết đúng chính tả là 'lượn'."
-
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -1035,7 +1029,6 @@
       "explanation": "Từ viết đúng chính tả là 'chỉ'.",
       "questionNumber": 61
     },
-   
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_3",
@@ -1070,7 +1063,6 @@
       "explanation": "Từ viết đúng chính tả là 'trượt'.",
       "questionNumber": 64
     },
-    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_3",
@@ -1224,7 +1216,6 @@
       "explanation": "Từ viết đúng chính tả là 'bước'.",
       "questionNumber": 82
     },
-    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_3",
@@ -1293,9 +1284,6 @@
       "questionId": "k3_c1_tn_087",
       "questionNumber": 87
     },
-   
-    
-    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_3",
@@ -1330,8 +1318,6 @@
       "explanation": "Từ viết đúng chính tả là 'lội'.",
       "questionNumber": 92
     },
-    
-   
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_3",
@@ -1349,8 +1335,6 @@
       "explanation": "Từ viết đúng chính tả là 'trượt'.",
       "questionNumber": 96
     },
-    
-   
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_3",
@@ -1402,7 +1386,6 @@
       "questionId": "k3_c1_tn_188",
       "questionNumber": 188
     },
-   
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_3",
@@ -1437,7 +1420,6 @@
       "explanation": "“cô giáo” là từ chỉ sự vật.",
       "questionNumber": 191
     },
-   
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_3",
@@ -2050,7 +2032,6 @@
       "explanation": "“tập thể dục” là từ chỉ hoạt động.",
       "questionNumber": 228
     },
-
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_3",
@@ -2493,7 +2474,6 @@
       "explanation": "“đọc sách” là từ chỉ hoạt động.",
       "questionNumber": 267
     },
-    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_3",
@@ -2528,7 +2508,6 @@
       "explanation": "“cô giáo” là từ chỉ sự vật.",
       "questionNumber": 270
     },
-    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_3",
@@ -2665,7 +2644,6 @@
       "explanation": "“chăm sóc vườn rau” là từ chỉ hoạt động.",
       "questionNumber": 279
     },
-    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_3",
@@ -2819,7 +2797,6 @@
       "explanation": "“tập thể dục” là từ chỉ hoạt động.",
       "questionNumber": 307
     },
-    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_3",
@@ -3466,7 +3443,6 @@
       "explanation": "“đọc sách” là từ chỉ hoạt động.",
       "questionNumber": 346
     },
-    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_3",
@@ -3501,8 +3477,6 @@
       "explanation": "“cô giáo” là từ chỉ sự vật.",
       "questionNumber": 349
     },
-    
-    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_3",
@@ -3724,7 +3698,6 @@
       "explanation": "“bình tĩnh” là từ chỉ trạng thái.",
       "questionNumber": 363
     },
- 
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_3",
@@ -3742,7 +3715,6 @@
       "explanation": "Từ đồng nghĩa với “chăm chỉ” là “siêng năng”.",
       "questionNumber": 365
     },
-    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_3",
@@ -4474,7 +4446,6 @@
       "explanation": "Từ đồng nghĩa với “thân thiết” là “gần gũi”.",
       "questionNumber": 424
     },
-   
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_3",
@@ -4662,10 +4633,6 @@
       "explanation": "Từ trái nghĩa với “đầy” là “vơi”.",
       "questionNumber": 436
     },
-    
-   
-    
-    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_3",
@@ -4751,7 +4718,6 @@
       "explanation": "Từ đồng nghĩa với “tỉ mỉ” là “kĩ lưỡng”.",
       "questionNumber": 445
     },
-    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_3",
@@ -4803,8 +4769,6 @@
       "explanation": "Từ trái nghĩa với “cao lớn” là “thấp bé”.",
       "questionNumber": 449
     },
-    
-   
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_3",
@@ -4958,8 +4922,6 @@
       "explanation": "Từ trái nghĩa với “đầy” là “vơi”.",
       "questionNumber": 460
     },
-   
-    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_3",
@@ -5130,7 +5092,6 @@
       "explanation": "Từ đồng nghĩa với “chắt chiu” là “dành dụm”.",
       "questionNumber": 472
     },
-    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_3",
@@ -5352,7 +5313,6 @@
       "explanation": "Câu trên thuộc mẫu câu 'Ai là gì?'.",
       "questionNumber": 486
     },
-    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_3",
@@ -5557,10 +5517,6 @@
       "explanation": "Chủ ngữ trong câu trả lời cho câu hỏi Ai/Cái gì/Con gì là: 'Những hạt sương sớm'.",
       "questionNumber": 499
     },
-    
-    
-    
-    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_3",
@@ -5578,7 +5534,6 @@
       "explanation": "Câu này cần điền dấu '.' để phù hợp với ngữ cảnh và kiểu câu.",
       "questionNumber": 668
     },
-    
     {
       "type": "TN",
       "question": "Giải câu đố danh lam sau:\n\"Quần thể Tam Cốc Bích Động và Cố đô Hoa Lư\nNon nước hữu tình với những dãy núi đá vôi kỳ vĩ\nThuộc tỉnh nào của miền Bắc nước ta?\"",
@@ -5868,7 +5823,6 @@
       "explanation": "Dấu phẩy đứng sau cụm từ trạng ngữ chỉ thời gian hoặc nơi chốn ở đầu câu để ngăn cách trạng ngữ với chủ ngữ và vị ngữ.",
       "questionNumber": 705
     },
-    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_3",
@@ -6039,7 +5993,6 @@
       "explanation": "Câu này cần điền dấu '.' để phù hợp với ngữ cảnh và kiểu câu.",
       "questionNumber": 716
     },
-    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_3",
@@ -6142,8 +6095,6 @@
       "explanation": "Câu này cần điền dấu '!' để phù hợp với ngữ cảnh và kiểu câu.",
       "questionNumber": 743
     },
-    
-    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_3",
@@ -6161,8 +6112,6 @@
       "explanation": "Từ “như” nối hai hình ảnh có nét tương đồng, tạo phép so sánh.",
       "questionNumber": 759
     },
-    
-    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_3",
@@ -6180,7 +6129,6 @@
       "explanation": "Sự vật được gọi hoặc tả bằng cách nói vốn dùng cho con người.",
       "questionNumber": 762
     },
-    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_3",
@@ -6232,7 +6180,6 @@
       "explanation": "Sự vật được gọi hoặc tả bằng cách nói vốn dùng cho con người.",
       "questionNumber": 766
     },
-    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_3",
@@ -6301,7 +6248,6 @@
       "explanation": "Từ “như” nối hai hình ảnh có nét tương đồng, tạo phép so sánh.",
       "questionNumber": 771
     },
-    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_3",
@@ -6319,7 +6265,6 @@
       "explanation": "Từ “như” nối hai hình ảnh có nét tương đồng, tạo phép so sánh.",
       "questionNumber": 773
     },
-    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_3",
@@ -6490,7 +6435,6 @@
       "explanation": "Sự vật được gọi hoặc tả bằng cách nói vốn dùng cho con người.",
       "questionNumber": 784
     },
-    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_3",
@@ -6508,8 +6452,6 @@
       "explanation": "Sự vật được gọi hoặc tả bằng cách nói vốn dùng cho con người.",
       "questionNumber": 786
     },
-    
-    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_3",
@@ -7565,9 +7507,14 @@
       "questionNumber": 850
     },
     {
+      "contest": "Trạng Nguyên Tiếng Việt",
+      "grade": "KHOI_3",
+      "level": "CAP_2_VONG_TRUONG",
       "type": "CHON",
-      "question": "Trong các từ dưới đây, hãy chọn tất cả các từ chỉ đồ dùng học tập:",
-      "options": [
+      "questionId": "k3_c1_chon_001",
+      "questionNumber": 851,
+      "question": "Phân loại các từ ngữ sau vào 2 nhóm: Từ chỉ đồ dùng học tập và Từ ngữ khác:",
+      "words": [
         "hộp bút",
         "thước kẻ",
         "cục tẩy",
@@ -7575,22 +7522,33 @@
         "nhảy dây",
         "đọc sách"
       ],
-      "answer": [
-        "hộp bút",
-        "thước kẻ",
-        "cục tẩy"
-      ],
-      "explanation": "Hộp bút, thước kẻ, cục tẩy là từ chỉ đồ dùng học tập.",
+      "groups": {
+        "G1": "Từ chỉ đồ dùng học tập",
+        "G2": "Từ ngữ khác"
+      },
+      "answer": {
+        "G1": [
+          "hộp bút",
+          "thước kẻ",
+          "cục tẩy"
+        ],
+        "G2": [
+          "chăm chỉ",
+          "nhảy dây",
+          "đọc sách"
+        ]
+      },
+      "explanation": "Nhóm G1 (Từ chỉ đồ dùng học tập): hộp bút, thước kẻ, cục tẩy. Nhóm G2 (Từ ngữ khác): chăm chỉ, nhảy dây, đọc sách."
+    },
+    {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_3",
       "level": "CAP_2_VONG_TRUONG",
-      "questionId": "k3_c1_chon_001",
-      "questionNumber": 851
-    },
-    {
       "type": "CHON",
-      "question": "Trong các từ dưới đây, hãy chọn tất cả các từ chỉ đồ vật trong gia đình:",
-      "options": [
+      "questionId": "k3_c1_chon_002",
+      "questionNumber": 852,
+      "question": "Phân loại các từ ngữ sau vào 2 nhóm: Từ chỉ đồ vật gia đình và Từ ngữ khác:",
+      "words": [
         "chiếc quạt",
         "chiếc giường",
         "bộ bàn ghế",
@@ -7598,22 +7556,33 @@
         "quét dọn",
         "ngăn nắp"
       ],
-      "answer": [
-        "chiếc quạt",
-        "chiếc giường",
-        "bộ bàn ghế"
-      ],
-      "explanation": "Chiếc quạt, chiếc giường, bộ bàn ghế là từ chỉ đồ vật trong gia đình.",
+      "groups": {
+        "G1": "Từ chỉ đồ vật gia đình",
+        "G2": "Từ ngữ khác"
+      },
+      "answer": {
+        "G1": [
+          "chiếc quạt",
+          "chiếc giường",
+          "bộ bàn ghế"
+        ],
+        "G2": [
+          "nấu nướng",
+          "quét dọn",
+          "ngăn nắp"
+        ]
+      },
+      "explanation": "Nhóm G1 (Từ chỉ đồ vật gia đình): chiếc quạt, chiếc giường, bộ bàn ghế. Nhóm G2 (Từ ngữ khác): nấu nướng, quét dọn, ngăn nắp."
+    },
+    {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_3",
       "level": "CAP_2_VONG_TRUONG",
-      "questionId": "k3_c1_chon_002",
-      "questionNumber": 852
-    },
-    {
       "type": "CHON",
-      "question": "Trong các từ dưới đây, hãy chọn tất cả các từ chỉ người thân trong gia đình:",
-      "options": [
+      "questionId": "k3_c1_chon_003",
+      "questionNumber": 853,
+      "question": "Phân loại các từ ngữ sau vào 2 nhóm: Từ chỉ người thân gia đình và Từ ngữ khác:",
+      "words": [
         "ông nội",
         "mẹ hiền",
         "chị gái",
@@ -7621,22 +7590,33 @@
         "chăm sóc",
         "hiếu thảo"
       ],
-      "answer": [
-        "ông nội",
-        "mẹ hiền",
-        "chị gái"
-      ],
-      "explanation": "Ông nội, mẹ hiền, chị gái là danh từ chỉ người thân trong gia đình.",
+      "groups": {
+        "G1": "Từ chỉ người thân gia đình",
+        "G2": "Từ ngữ khác"
+      },
+      "answer": {
+        "G1": [
+          "ông nội",
+          "mẹ hiền",
+          "chị gái"
+        ],
+        "G2": [
+          "yêu thương",
+          "chăm sóc",
+          "hiếu thảo"
+        ]
+      },
+      "explanation": "Nhóm G1 (Từ chỉ người thân gia đình): ông nội, mẹ hiền, chị gái. Nhóm G2 (Từ ngữ khác): yêu thương, chăm sóc, hiếu thảo."
+    },
+    {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_3",
       "level": "CAP_2_VONG_TRUONG",
-      "questionId": "k3_c1_chon_003",
-      "questionNumber": 853
-    },
-    {
       "type": "CHON",
-      "question": "Trong các từ dưới đây, hãy chọn tất cả các từ chỉ thầy cô hoặc bạn bè trường học:",
-      "options": [
+      "questionId": "k3_c1_chon_004",
+      "questionNumber": 854,
+      "question": "Phân loại các từ ngữ sau vào 2 nhóm: Từ chỉ thầy cô, bạn bè và Từ ngữ khác:",
+      "words": [
         "cô giáo",
         "thầy hiệu trưởng",
         "bạn cùng bàn",
@@ -7644,22 +7624,33 @@
         "học hành",
         "chăm chỉ"
       ],
-      "answer": [
-        "cô giáo",
-        "thầy hiệu trưởng",
-        "bạn cùng bàn"
-      ],
-      "explanation": "Cô giáo, thầy hiệu trưởng, bạn cùng bàn là các từ chỉ người ở trường học.",
+      "groups": {
+        "G1": "Từ chỉ thầy cô, bạn bè",
+        "G2": "Từ ngữ khác"
+      },
+      "answer": {
+        "G1": [
+          "cô giáo",
+          "thầy hiệu trưởng",
+          "bạn cùng bàn"
+        ],
+        "G2": [
+          "giảng giải",
+          "học hành",
+          "chăm chỉ"
+        ]
+      },
+      "explanation": "Nhóm G1 (Từ chỉ thầy cô, bạn bè): cô giáo, thầy hiệu trưởng, bạn cùng bàn. Nhóm G2 (Từ ngữ khác): giảng giải, học hành, chăm chỉ."
+    },
+    {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_3",
       "level": "CAP_2_VONG_TRUONG",
-      "questionId": "k3_c1_chon_004",
-      "questionNumber": 854
-    },
-    {
       "type": "CHON",
-      "question": "Trong các từ dưới đây, hãy chọn tất cả các từ chỉ các loài hoa quen thuộc:",
-      "options": [
+      "questionId": "k3_c1_chon_005",
+      "questionNumber": 855,
+      "question": "Phân loại các từ ngữ sau vào 2 nhóm: Từ chỉ các loài hoa và Từ ngữ khác:",
+      "words": [
         "hoa phượng",
         "hoa cúc",
         "hoa sen",
@@ -7667,22 +7658,33 @@
         "nở rộ",
         "thơm ngát"
       ],
-      "answer": [
-        "hoa phượng",
-        "hoa cúc",
-        "hoa sen"
-      ],
-      "explanation": "Hoa phượng, hoa cúc, hoa sen là từ chỉ các loài hoa.",
+      "groups": {
+        "G1": "Từ chỉ các loài hoa",
+        "G2": "Từ ngữ khác"
+      },
+      "answer": {
+        "G1": [
+          "hoa phượng",
+          "hoa cúc",
+          "hoa sen"
+        ],
+        "G2": [
+          "tươi tốt",
+          "nở rộ",
+          "thơm ngát"
+        ]
+      },
+      "explanation": "Nhóm G1 (Từ chỉ các loài hoa): hoa phượng, hoa cúc, hoa sen. Nhóm G2 (Từ ngữ khác): tươi tốt, nở rộ, thơm ngát."
+    },
+    {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_3",
       "level": "CAP_2_VONG_TRUONG",
-      "questionId": "k3_c1_chon_005",
-      "questionNumber": 855
-    },
-    {
       "type": "CHON",
-      "question": "Trong các từ dưới đây, hãy chọn tất cả các từ chỉ cây bóng mát sân trường:",
-      "options": [
+      "questionId": "k3_c1_chon_006",
+      "questionNumber": 856,
+      "question": "Phân loại các từ ngữ sau vào 2 nhóm: Từ chỉ cây bóng mát và Từ ngữ khác:",
+      "words": [
         "cây bàng",
         "cây phượng vĩ",
         "cây xà cừ",
@@ -7690,22 +7692,33 @@
         "xanh tốt",
         "cao lớn"
       ],
-      "answer": [
-        "cây bàng",
-        "cây phượng vĩ",
-        "cây xà cừ"
-      ],
-      "explanation": "Cây bàng, cây phượng vĩ, cây xà cừ là các loài cây trồng lấy bóng mát.",
+      "groups": {
+        "G1": "Từ chỉ cây bóng mát",
+        "G2": "Từ ngữ khác"
+      },
+      "answer": {
+        "G1": [
+          "cây bàng",
+          "cây phượng vĩ",
+          "cây xà cừ"
+        ],
+        "G2": [
+          "che bóng mát",
+          "xanh tốt",
+          "cao lớn"
+        ]
+      },
+      "explanation": "Nhóm G1 (Từ chỉ cây bóng mát): cây bàng, cây phượng vĩ, cây xà cừ. Nhóm G2 (Từ ngữ khác): che bóng mát, xanh tốt, cao lớn."
+    },
+    {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_3",
       "level": "CAP_2_VONG_TRUONG",
-      "questionId": "k3_c1_chon_006",
-      "questionNumber": 856
-    },
-    {
       "type": "CHON",
-      "question": "Trong các từ dưới đây, hãy chọn tất cả các từ chỉ loài vật nuôi trong nhà:",
-      "options": [
+      "questionId": "k3_c1_chon_007",
+      "questionNumber": 857,
+      "question": "Phân loại các từ ngữ sau vào 2 nhóm: Từ chỉ loài vật nuôi và Từ ngữ khác:",
+      "words": [
         "chú mèo",
         "chú chó con",
         "chú gà trống",
@@ -7713,22 +7726,33 @@
         "trông nhà",
         "gáy vang"
       ],
-      "answer": [
-        "chú mèo",
-        "chú chó con",
-        "chú gà trống"
-      ],
-      "explanation": "Mèo, chó con, gà trống là các loài vật nuôi quen thuộc.",
+      "groups": {
+        "G1": "Từ chỉ loài vật nuôi",
+        "G2": "Từ ngữ khác"
+      },
+      "answer": {
+        "G1": [
+          "chú mèo",
+          "chú chó con",
+          "chú gà trống"
+        ],
+        "G2": [
+          "bắt chuột",
+          "trông nhà",
+          "gáy vang"
+        ]
+      },
+      "explanation": "Nhóm G1 (Từ chỉ loài vật nuôi): chú mèo, chú chó con, chú gà trống. Nhóm G2 (Từ ngữ khác): bắt chuột, trông nhà, gáy vang."
+    },
+    {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_3",
       "level": "CAP_2_VONG_TRUONG",
-      "questionId": "k3_c1_chon_007",
-      "questionNumber": 857
-    },
-    {
       "type": "CHON",
-      "question": "Trong các từ dưới đây, hãy chọn tất cả các từ chỉ loài chim có ích:",
-      "options": [
+      "questionId": "k3_c1_chon_008",
+      "questionNumber": 858,
+      "question": "Phân loại các từ ngữ sau vào 2 nhóm: Từ chỉ các loài chim và Từ ngữ khác:",
+      "words": [
         "chim sâu",
         "chim chích chòe",
         "chim én",
@@ -7736,22 +7760,33 @@
         "chao lượn",
         "hót líu lo"
       ],
-      "answer": [
-        "chim sâu",
-        "chim chích chòe",
-        "chim én"
-      ],
-      "explanation": "Chim sâu, chim chích chòe, chim én là các loài chim có ích trong tự nhiên.",
+      "groups": {
+        "G1": "Từ chỉ các loài chim",
+        "G2": "Từ ngữ khác"
+      },
+      "answer": {
+        "G1": [
+          "chim sâu",
+          "chim chích chòe",
+          "chim én"
+        ],
+        "G2": [
+          "bắt sâu",
+          "chao lượn",
+          "hót líu lo"
+        ]
+      },
+      "explanation": "Nhóm G1 (Từ chỉ các loài chim): chim sâu, chim chích chòe, chim én. Nhóm G2 (Từ ngữ khác): bắt sâu, chao lượn, hót líu lo."
+    },
+    {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_3",
       "level": "CAP_2_VONG_TRUONG",
-      "questionId": "k3_c1_chon_008",
-      "questionNumber": 858
-    },
-    {
       "type": "CHON",
-      "question": "Trong các từ dưới đây, hãy chọn tất cả các từ chỉ phương tiện giao thông:",
-      "options": [
+      "questionId": "k3_c1_chon_009",
+      "questionNumber": 859,
+      "question": "Phân loại các từ ngữ sau vào 2 nhóm: Từ chỉ phương tiện giao thông và Từ ngữ khác:",
+      "words": [
         "xe đạp",
         "xe buýt",
         "tàu hỏa",
@@ -7759,22 +7794,33 @@
         "chở khách",
         "an toàn"
       ],
-      "answer": [
-        "xe đạp",
-        "xe buýt",
-        "tàu hỏa"
-      ],
-      "explanation": "Xe đạp, xe buýt, tàu hỏa là các phương tiện giao thông.",
+      "groups": {
+        "G1": "Từ chỉ phương tiện giao thông",
+        "G2": "Từ ngữ khác"
+      },
+      "answer": {
+        "G1": [
+          "xe đạp",
+          "xe buýt",
+          "tàu hỏa"
+        ],
+        "G2": [
+          "chạy nhanh",
+          "chở khách",
+          "an toàn"
+        ]
+      },
+      "explanation": "Nhóm G1 (Từ chỉ phương tiện giao thông): xe đạp, xe buýt, tàu hỏa. Nhóm G2 (Từ ngữ khác): chạy nhanh, chở khách, an toàn."
+    },
+    {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_3",
       "level": "CAP_2_VONG_TRUONG",
-      "questionId": "k3_c1_chon_009",
-      "questionNumber": 859
-    },
-    {
       "type": "CHON",
-      "question": "Trong các từ dưới đây, hãy chọn tất cả các từ chỉ hiện tượng tự nhiên:",
-      "options": [
+      "questionId": "k3_c1_chon_010",
+      "questionNumber": 860,
+      "question": "Phân loại các từ ngữ sau vào 2 nhóm: Từ chỉ hiện tượng tự nhiên và Từ ngữ khác:",
+      "words": [
         "cơn mưa",
         "ngọn gió",
         "ánh nắng",
@@ -7782,22 +7828,33 @@
         "thổi nhẹ",
         "chiếu sáng"
       ],
-      "answer": [
-        "cơn mưa",
-        "ngọn gió",
-        "ánh nắng"
-      ],
-      "explanation": "Cơn mưa, ngọn gió, ánh nắng là các hiện tượng tự nhiên.",
+      "groups": {
+        "G1": "Từ chỉ hiện tượng tự nhiên",
+        "G2": "Từ ngữ khác"
+      },
+      "answer": {
+        "G1": [
+          "cơn mưa",
+          "ngọn gió",
+          "ánh nắng"
+        ],
+        "G2": [
+          "mát mẻ",
+          "thổi nhẹ",
+          "chiếu sáng"
+        ]
+      },
+      "explanation": "Nhóm G1 (Từ chỉ hiện tượng tự nhiên): cơn mưa, ngọn gió, ánh nắng. Nhóm G2 (Từ ngữ khác): mát mẻ, thổi nhẹ, chiếu sáng."
+    },
+    {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_3",
       "level": "CAP_2_VONG_TRUONG",
-      "questionId": "k3_c1_chon_010",
-      "questionNumber": 860
-    },
-    {
       "type": "CHON",
-      "question": "Trong các từ dưới đây, hãy chọn tất cả các từ chỉ hoạt động học tập:",
-      "options": [
+      "questionId": "k3_c1_chon_011",
+      "questionNumber": 861,
+      "question": "Phân loại các từ ngữ sau vào 2 nhóm: Từ chỉ hoạt động học tập và Từ ngữ khác:",
+      "words": [
         "nghe giảng",
         "làm bài tập",
         "phát biểu",
@@ -7805,22 +7862,33 @@
         "phấn trắng",
         "siêng năng"
       ],
-      "answer": [
-        "nghe giảng",
-        "làm bài tập",
-        "phát biểu"
-      ],
-      "explanation": "Nghe giảng, làm bài tập, phát biểu là các hoạt động học tập.",
+      "groups": {
+        "G1": "Từ chỉ hoạt động học tập",
+        "G2": "Từ ngữ khác"
+      },
+      "answer": {
+        "G1": [
+          "nghe giảng",
+          "làm bài tập",
+          "phát biểu"
+        ],
+        "G2": [
+          "bảng đen",
+          "phấn trắng",
+          "siêng năng"
+        ]
+      },
+      "explanation": "Nhóm G1 (Từ chỉ hoạt động học tập): nghe giảng, làm bài tập, phát biểu. Nhóm G2 (Từ ngữ khác): bảng đen, phấn trắng, siêng năng."
+    },
+    {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_3",
       "level": "CAP_2_VONG_TRUONG",
-      "questionId": "k3_c1_chon_011",
-      "questionNumber": 861
-    },
-    {
       "type": "CHON",
-      "question": "Trong các từ dưới đây, hãy chọn tất cả các từ chỉ hoạt động vui chơi giờ ra chơi:",
-      "options": [
+      "questionId": "k3_c1_chon_012",
+      "questionNumber": 862,
+      "question": "Phân loại các từ ngữ sau vào 2 nhóm: Từ chỉ hoạt động vui chơi và Từ ngữ khác:",
+      "words": [
         "nhảy dây",
         "đá cầu",
         "kéo co",
@@ -7828,22 +7896,33 @@
         "giờ nghỉ",
         "vui vẻ"
       ],
-      "answer": [
-        "nhảy dây",
-        "đá cầu",
-        "kéo co"
-      ],
-      "explanation": "Nhảy dây, đá cầu, kéo co là các hoạt động vui chơi thể thao.",
+      "groups": {
+        "G1": "Từ chỉ hoạt động vui chơi",
+        "G2": "Từ ngữ khác"
+      },
+      "answer": {
+        "G1": [
+          "nhảy dây",
+          "đá cầu",
+          "kéo co"
+        ],
+        "G2": [
+          "sân trường",
+          "giờ nghỉ",
+          "vui vẻ"
+        ]
+      },
+      "explanation": "Nhóm G1 (Từ chỉ hoạt động vui chơi): nhảy dây, đá cầu, kéo co. Nhóm G2 (Từ ngữ khác): sân trường, giờ nghỉ, vui vẻ."
+    },
+    {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_3",
       "level": "CAP_2_VONG_TRUONG",
-      "questionId": "k3_c1_chon_012",
-      "questionNumber": 862
-    },
-    {
       "type": "CHON",
-      "question": "Trong các từ dưới đây, hãy chọn tất cả các từ chỉ hoạt động giúp đỡ cha mẹ ở nhà:",
-      "options": [
+      "questionId": "k3_c1_chon_013",
+      "questionNumber": 863,
+      "question": "Phân loại các từ ngữ sau vào 2 nhóm: Từ chỉ hoạt động giúp đỡ gia đình và Từ ngữ khác:",
+      "words": [
         "quét nhà",
         "nhặt rau",
         "rửa bát",
@@ -7851,22 +7930,33 @@
         "bát đĩa",
         "ngoan ngoãn"
       ],
-      "answer": [
-        "quét nhà",
-        "nhặt rau",
-        "rửa bát"
-      ],
-      "explanation": "Quét nhà, nhặt rau, rửa bát là các việc làm giúp đỡ gia đình.",
+      "groups": {
+        "G1": "Từ chỉ hoạt động giúp đỡ gia đình",
+        "G2": "Từ ngữ khác"
+      },
+      "answer": {
+        "G1": [
+          "quét nhà",
+          "nhặt rau",
+          "rửa bát"
+        ],
+        "G2": [
+          "cái chổi",
+          "bát đĩa",
+          "ngoan ngoãn"
+        ]
+      },
+      "explanation": "Nhóm G1 (Từ chỉ hoạt động giúp đỡ gia đình): quét nhà, nhặt rau, rửa bát. Nhóm G2 (Từ ngữ khác): cái chổi, bát đĩa, ngoan ngoãn."
+    },
+    {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_3",
       "level": "CAP_2_VONG_TRUONG",
-      "questionId": "k3_c1_chon_013",
-      "questionNumber": 863
-    },
-    {
       "type": "CHON",
-      "question": "Trong các từ dưới đây, hãy chọn tất cả các từ chỉ hoạt động chăm sóc cây cối:",
-      "options": [
+      "questionId": "k3_c1_chon_014",
+      "questionNumber": 864,
+      "question": "Phân loại các từ ngữ sau vào 2 nhóm: Từ chỉ hoạt động chăm sóc cây và Từ ngữ khác:",
+      "words": [
         "tưới nước",
         "bắt sâu",
         "nhổ cỏ dại",
@@ -7874,22 +7964,33 @@
         "luống rau",
         "tươi tốt"
       ],
-      "answer": [
-        "tưới nước",
-        "bắt sâu",
-        "nhổ cỏ dại"
-      ],
-      "explanation": "Tưới nước, bắt sâu, nhổ cỏ dại là các hoạt động chăm sóc cây trồng.",
+      "groups": {
+        "G1": "Từ chỉ hoạt động chăm sóc cây",
+        "G2": "Từ ngữ khác"
+      },
+      "answer": {
+        "G1": [
+          "tưới nước",
+          "bắt sâu",
+          "nhổ cỏ dại"
+        ],
+        "G2": [
+          "chậu hoa",
+          "luống rau",
+          "tươi tốt"
+        ]
+      },
+      "explanation": "Nhóm G1 (Từ chỉ hoạt động chăm sóc cây): tưới nước, bắt sâu, nhổ cỏ dại. Nhóm G2 (Từ ngữ khác): chậu hoa, luống rau, tươi tốt."
+    },
+    {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_3",
       "level": "CAP_2_VONG_TRUONG",
-      "questionId": "k3_c1_chon_014",
-      "questionNumber": 864
-    },
-    {
       "type": "CHON",
-      "question": "Trong các từ dưới đây, hãy chọn tất cả các từ chỉ hoạt động của người nông dân:",
-      "options": [
+      "questionId": "k3_c1_chon_015",
+      "questionNumber": 865,
+      "question": "Phân loại các từ ngữ sau vào 2 nhóm: Từ chỉ hoạt động của nông dân và Từ ngữ khác:",
+      "words": [
         "cày ruộng",
         "cấy lúa",
         "gặt lúa",
@@ -7897,22 +7998,33 @@
         "cánh đồng",
         "vất vả"
       ],
-      "answer": [
-        "cày ruộng",
-        "cấy lúa",
-        "gặt lúa"
-      ],
-      "explanation": "Cày ruộng, cấy lúa, gặt lúa là các hoạt động sản xuất nông nghiệp.",
+      "groups": {
+        "G1": "Từ chỉ hoạt động của nông dân",
+        "G2": "Từ ngữ khác"
+      },
+      "answer": {
+        "G1": [
+          "cày ruộng",
+          "cấy lúa",
+          "gặt lúa"
+        ],
+        "G2": [
+          "bác nông dân",
+          "cánh đồng",
+          "vất vả"
+        ]
+      },
+      "explanation": "Nhóm G1 (Từ chỉ hoạt động của nông dân): cày ruộng, cấy lúa, gặt lúa. Nhóm G2 (Từ ngữ khác): bác nông dân, cánh đồng, vất vả."
+    },
+    {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_3",
       "level": "CAP_2_VONG_TRUONG",
-      "questionId": "k3_c1_chon_015",
-      "questionNumber": 865
-    },
-    {
       "type": "CHON",
-      "question": "Trong các từ dưới đây, hãy chọn tất cả các từ chỉ hoạt động của thầy cô giáo:",
-      "options": [
+      "questionId": "k3_c1_chon_016",
+      "questionNumber": 866,
+      "question": "Phân loại các từ ngữ sau vào 2 nhóm: Từ chỉ hoạt động của giáo viên và Từ ngữ khác:",
+      "words": [
         "giảng bài",
         "chấm bài",
         "hướng dẫn",
@@ -7920,22 +8032,33 @@
         "phòng học",
         "tận tụy"
       ],
-      "answer": [
-        "giảng bài",
-        "chấm bài",
-        "hướng dẫn"
-      ],
-      "explanation": "Giảng bài, chấm bài, hướng dẫn là các hoạt động giảng dạy của thầy cô.",
+      "groups": {
+        "G1": "Từ chỉ hoạt động của giáo viên",
+        "G2": "Từ ngữ khác"
+      },
+      "answer": {
+        "G1": [
+          "giảng bài",
+          "chấm bài",
+          "hướng dẫn"
+        ],
+        "G2": [
+          "bục giảng",
+          "phòng học",
+          "tận tụy"
+        ]
+      },
+      "explanation": "Nhóm G1 (Từ chỉ hoạt động của giáo viên): giảng bài, chấm bài, hướng dẫn. Nhóm G2 (Từ ngữ khác): bục giảng, phòng học, tận tụy."
+    },
+    {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_3",
       "level": "CAP_2_VONG_TRUONG",
-      "questionId": "k3_c1_chon_016",
-      "questionNumber": 866
-    },
-    {
       "type": "CHON",
-      "question": "Trong các từ dưới đây, hãy chọn tất cả các từ chỉ hoạt động của bác sĩ:",
-      "options": [
+      "questionId": "k3_c1_chon_017",
+      "questionNumber": 867,
+      "question": "Phân loại các từ ngữ sau vào 2 nhóm: Từ chỉ hoạt động của bác sĩ và Từ ngữ khác:",
+      "words": [
         "khám bệnh",
         "kê đơn thuốc",
         "tiêm thuốc",
@@ -7943,22 +8066,33 @@
         "bệnh viện",
         "ân cần"
       ],
-      "answer": [
-        "khám bệnh",
-        "kê đơn thuốc",
-        "tiêm thuốc"
-      ],
-      "explanation": "Khám bệnh, kê đơn thuốc, tiêm thuốc là các hoạt động chữa bệnh của bác sĩ.",
+      "groups": {
+        "G1": "Từ chỉ hoạt động của bác sĩ",
+        "G2": "Từ ngữ khác"
+      },
+      "answer": {
+        "G1": [
+          "khám bệnh",
+          "kê đơn thuốc",
+          "tiêm thuốc"
+        ],
+        "G2": [
+          "ống nghe",
+          "bệnh viện",
+          "ân cần"
+        ]
+      },
+      "explanation": "Nhóm G1 (Từ chỉ hoạt động của bác sĩ): khám bệnh, kê đơn thuốc, tiêm thuốc. Nhóm G2 (Từ ngữ khác): ống nghe, bệnh viện, ân cần."
+    },
+    {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_3",
       "level": "CAP_2_VONG_TRUONG",
-      "questionId": "k3_c1_chon_017",
-      "questionNumber": 867
-    },
-    {
       "type": "CHON",
-      "question": "Trong các từ dưới đây, hãy chọn tất cả các từ chỉ hoạt động nghệ thuật:",
-      "options": [
+      "questionId": "k3_c1_chon_018",
+      "questionNumber": 868,
+      "question": "Phân loại các từ ngữ sau vào 2 nhóm: Từ chỉ hoạt động nghệ thuật và Từ ngữ khác:",
+      "words": [
         "vẽ tranh",
         "hát múa",
         "thổi sáo",
@@ -7966,22 +8100,33 @@
         "nhạc cụ",
         "khéo tay"
       ],
-      "answer": [
-        "vẽ tranh",
-        "hát múa",
-        "thổi sáo"
-      ],
-      "explanation": "Vẽ tranh, hát múa, thổi sáo là các hoạt động sáng tạo nghệ thuật.",
+      "groups": {
+        "G1": "Từ chỉ hoạt động nghệ thuật",
+        "G2": "Từ ngữ khác"
+      },
+      "answer": {
+        "G1": [
+          "vẽ tranh",
+          "hát múa",
+          "thổi sáo"
+        ],
+        "G2": [
+          "bức tranh",
+          "nhạc cụ",
+          "khéo tay"
+        ]
+      },
+      "explanation": "Nhóm G1 (Từ chỉ hoạt động nghệ thuật): vẽ tranh, hát múa, thổi sáo. Nhóm G2 (Từ ngữ khác): bức tranh, nhạc cụ, khéo tay."
+    },
+    {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_3",
       "level": "CAP_2_VONG_TRUONG",
-      "questionId": "k3_c1_chon_018",
-      "questionNumber": 868
-    },
-    {
       "type": "CHON",
-      "question": "Trong các từ dưới đây, hãy chọn tất cả các từ chỉ hoạt động rèn luyện thân thể:",
-      "options": [
+      "questionId": "k3_c1_chon_019",
+      "questionNumber": 869,
+      "question": "Phân loại các từ ngữ sau vào 2 nhóm: Từ chỉ hoạt động thể thao và Từ ngữ khác:",
+      "words": [
         "chạy bộ",
         "bơi lội",
         "tập thể dục",
@@ -7989,22 +8134,33 @@
         "bể bơi",
         "khỏe khoắn"
       ],
-      "answer": [
-        "chạy bộ",
-        "bơi lội",
-        "tập thể dục"
-      ],
-      "explanation": "Chạy bộ, bơi lội, tập thể dục là các hoạt động thể dục thể thao rèn luyện sức khỏe.",
+      "groups": {
+        "G1": "Từ chỉ hoạt động thể thao",
+        "G2": "Từ ngữ khác"
+      },
+      "answer": {
+        "G1": [
+          "chạy bộ",
+          "bơi lội",
+          "tập thể dục"
+        ],
+        "G2": [
+          "sân bóng",
+          "bể bơi",
+          "khỏe khoắn"
+        ]
+      },
+      "explanation": "Nhóm G1 (Từ chỉ hoạt động thể thao): chạy bộ, bơi lội, tập thể dục. Nhóm G2 (Từ ngữ khác): sân bóng, bể bơi, khỏe khoắn."
+    },
+    {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_3",
       "level": "CAP_2_VONG_TRUONG",
-      "questionId": "k3_c1_chon_019",
-      "questionNumber": 869
-    },
-    {
       "type": "CHON",
-      "question": "Trong các từ dưới đây, hãy chọn tất cả các từ chỉ hoạt động bảo vệ môi trường:",
-      "options": [
+      "questionId": "k3_c1_chon_020",
+      "questionNumber": 870,
+      "question": "Phân loại các từ ngữ sau vào 2 nhóm: Từ chỉ hoạt động bảo vệ môi trường và Từ ngữ khác:",
+      "words": [
         "nhặt rác",
         "trồng cây xanh",
         "dọn vệ sinh",
@@ -8012,22 +8168,33 @@
         "môi trường",
         "sạch đẹp"
       ],
-      "answer": [
-        "nhặt rác",
-        "trồng cây xanh",
-        "dọn vệ sinh"
-      ],
-      "explanation": "Nhặt rác, trồng cây xanh, dọn vệ sinh là các hoạt động giữ gìn bảo vệ môi trường.",
+      "groups": {
+        "G1": "Từ chỉ hoạt động bảo vệ môi trường",
+        "G2": "Từ ngữ khác"
+      },
+      "answer": {
+        "G1": [
+          "nhặt rác",
+          "trồng cây xanh",
+          "dọn vệ sinh"
+        ],
+        "G2": [
+          "thùng rác",
+          "môi trường",
+          "sạch đẹp"
+        ]
+      },
+      "explanation": "Nhóm G1 (Từ chỉ hoạt động bảo vệ môi trường): nhặt rác, trồng cây xanh, dọn vệ sinh. Nhóm G2 (Từ ngữ khác): thùng rác, môi trường, sạch đẹp."
+    },
+    {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_3",
       "level": "CAP_2_VONG_TRUONG",
-      "questionId": "k3_c1_chon_020",
-      "questionNumber": 870
-    },
-    {
       "type": "CHON",
-      "question": "Trong các từ dưới đây, hãy chọn tất cả các từ chỉ đức tính tốt của học sinh:",
-      "options": [
+      "questionId": "k3_c1_chon_021",
+      "questionNumber": 871,
+      "question": "Phân loại các từ ngữ sau vào 2 nhóm: Từ chỉ phẩm chất, đức tính và Từ ngữ khác:",
+      "words": [
         "chăm chỉ",
         "ngoan ngoãn",
         "trung thực",
@@ -8035,22 +8202,33 @@
         "học bài",
         "lớp học"
       ],
-      "answer": [
-        "chăm chỉ",
-        "ngoan ngoãn",
-        "trung thực"
-      ],
-      "explanation": "Chăm chỉ, ngoan ngoãn, trung thực là các từ chỉ phẩm chất, tính nết tốt đẹp.",
+      "groups": {
+        "G1": "Từ chỉ phẩm chất, đức tính",
+        "G2": "Từ ngữ khác"
+      },
+      "answer": {
+        "G1": [
+          "chăm chỉ",
+          "ngoan ngoãn",
+          "trung thực"
+        ],
+        "G2": [
+          "bàn ghế",
+          "học bài",
+          "lớp học"
+        ]
+      },
+      "explanation": "Nhóm G1 (Từ chỉ phẩm chất, đức tính): chăm chỉ, ngoan ngoãn, trung thực. Nhóm G2 (Từ ngữ khác): bàn ghế, học bài, lớp học."
+    },
+    {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_3",
       "level": "CAP_2_VONG_TRUONG",
-      "questionId": "k3_c1_chon_021",
-      "questionNumber": 871
-    },
-    {
       "type": "CHON",
-      "question": "Trong các từ dưới đây, hãy chọn tất cả các từ chỉ màu sắc:",
-      "options": [
+      "questionId": "k3_c1_chon_022",
+      "questionNumber": 872,
+      "question": "Phân loại các từ ngữ sau vào 2 nhóm: Từ chỉ màu sắc và Từ ngữ khác:",
+      "words": [
         "đỏ thắm",
         "xanh biếc",
         "vàng tươi",
@@ -8058,22 +8236,33 @@
         "vẽ màu",
         "tươi cười"
       ],
-      "answer": [
-        "đỏ thắm",
-        "xanh biếc",
-        "vàng tươi"
-      ],
-      "explanation": "Đỏ thắm, xanh biếc, vàng tươi là các từ chỉ màu sắc.",
+      "groups": {
+        "G1": "Từ chỉ màu sắc",
+        "G2": "Từ ngữ khác"
+      },
+      "answer": {
+        "G1": [
+          "đỏ thắm",
+          "xanh biếc",
+          "vàng tươi"
+        ],
+        "G2": [
+          "cây bút",
+          "vẽ màu",
+          "tươi cười"
+        ]
+      },
+      "explanation": "Nhóm G1 (Từ chỉ màu sắc): đỏ thắm, xanh biếc, vàng tươi. Nhóm G2 (Từ ngữ khác): cây bút, vẽ màu, tươi cười."
+    },
+    {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_3",
       "level": "CAP_2_VONG_TRUONG",
-      "questionId": "k3_c1_chon_022",
-      "questionNumber": 872
-    },
-    {
       "type": "CHON",
-      "question": "Trong các từ dưới đây, hãy chọn tất cả các từ chỉ hình dáng, kích thước:",
-      "options": [
+      "questionId": "k3_c1_chon_023",
+      "questionNumber": 873,
+      "question": "Phân loại các từ ngữ sau vào 2 nhóm: Từ chỉ hình dáng, kích thước và Từ ngữ khác:",
+      "words": [
         "tròn xoe",
         "cao vút",
         "bé nhỏ",
@@ -8081,22 +8270,33 @@
         "ngọn núi",
         "chạy nhảy"
       ],
-      "answer": [
-        "tròn xoe",
-        "cao vút",
-        "bé nhỏ"
-      ],
-      "explanation": "Tròn xoe, cao vút, bé nhỏ là các từ chỉ hình dáng và kích thước.",
+      "groups": {
+        "G1": "Từ chỉ hình dáng, kích thước",
+        "G2": "Từ ngữ khác"
+      },
+      "answer": {
+        "G1": [
+          "tròn xoe",
+          "cao vút",
+          "bé nhỏ"
+        ],
+        "G2": [
+          "quả bóng",
+          "ngọn núi",
+          "chạy nhảy"
+        ]
+      },
+      "explanation": "Nhóm G1 (Từ chỉ hình dáng, kích thước): tròn xoe, cao vút, bé nhỏ. Nhóm G2 (Từ ngữ khác): quả bóng, ngọn núi, chạy nhảy."
+    },
+    {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_3",
       "level": "CAP_2_VONG_TRUONG",
-      "questionId": "k3_c1_chon_023",
-      "questionNumber": 873
-    },
-    {
       "type": "CHON",
-      "question": "Trong các từ dưới đây, hãy chọn tất cả các từ chỉ tính tình, phẩm chất con người:",
-      "options": [
+      "questionId": "k3_c1_chon_024",
+      "questionNumber": 874,
+      "question": "Phân loại các từ ngữ sau vào 2 nhóm: Từ chỉ phẩm chất, đức tính và Từ ngữ khác:",
+      "words": [
         "hiền từ",
         "dũng cảm",
         "nhân hậu",
@@ -8104,22 +8304,33 @@
         "giúp đỡ",
         "bạn bè"
       ],
-      "answer": [
-        "hiền từ",
-        "dũng cảm",
-        "nhân hậu"
-      ],
-      "explanation": "Hiền từ, dũng cảm, nhân hậu là các từ chỉ tính cách, đạo đức con người.",
+      "groups": {
+        "G1": "Từ chỉ phẩm chất, đức tính",
+        "G2": "Từ ngữ khác"
+      },
+      "answer": {
+        "G1": [
+          "hiền từ",
+          "dũng cảm",
+          "nhân hậu"
+        ],
+        "G2": [
+          "con người",
+          "giúp đỡ",
+          "bạn bè"
+        ]
+      },
+      "explanation": "Nhóm G1 (Từ chỉ phẩm chất, đức tính): hiền từ, dũng cảm, nhân hậu. Nhóm G2 (Từ ngữ khác): con người, giúp đỡ, bạn bè."
+    },
+    {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_3",
       "level": "CAP_2_VONG_TRUONG",
-      "questionId": "k3_c1_chon_024",
-      "questionNumber": 874
-    },
-    {
       "type": "CHON",
-      "question": "Trong các từ dưới đây, hãy chọn tất cả các từ chỉ mùi vị:",
-      "options": [
+      "questionId": "k3_c1_chon_025",
+      "questionNumber": 875,
+      "question": "Phân loại các từ ngữ sau vào 2 nhóm: Từ chỉ mùi vị và Từ ngữ khác:",
+      "words": [
         "ngọt lịm",
         "chua thanh",
         "thơm phức",
@@ -8127,22 +8338,33 @@
         "nếm thử",
         "khóm hoa"
       ],
-      "answer": [
-        "ngọt lịm",
-        "chua thanh",
-        "thơm phức"
-      ],
-      "explanation": "Ngọt lịm, chua thanh, thơm phức là các từ chỉ mùi vị và hương thơm.",
+      "groups": {
+        "G1": "Từ chỉ mùi vị",
+        "G2": "Từ ngữ khác"
+      },
+      "answer": {
+        "G1": [
+          "ngọt lịm",
+          "chua thanh",
+          "thơm phức"
+        ],
+        "G2": [
+          "quả chín",
+          "nếm thử",
+          "khóm hoa"
+        ]
+      },
+      "explanation": "Nhóm G1 (Từ chỉ mùi vị): ngọt lịm, chua thanh, thơm phức. Nhóm G2 (Từ ngữ khác): quả chín, nếm thử, khóm hoa."
+    },
+    {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_3",
       "level": "CAP_2_VONG_TRUONG",
-      "questionId": "k3_c1_chon_025",
-      "questionNumber": 875
-    },
-    {
       "type": "CHON",
-      "question": "Trong các từ dưới đây, hãy chọn tất cả các từ chỉ âm thanh tự nhiên:",
-      "options": [
+      "questionId": "k3_c1_chon_026",
+      "questionNumber": 876,
+      "question": "Phân loại các từ ngữ sau vào 2 nhóm: Từ chỉ âm thanh tự nhiên và Từ ngữ khác:",
+      "words": [
         "líu lo",
         "róc rách",
         "rì rào",
@@ -8150,22 +8372,33 @@
         "dòng suối",
         "lũy tre"
       ],
-      "answer": [
-        "líu lo",
-        "róc rách",
-        "rì rào"
-      ],
-      "explanation": "Líu lo, róc rách, rì rào là các từ tượng thanh gợi tả âm thanh thiên nhiên.",
+      "groups": {
+        "G1": "Từ chỉ âm thanh tự nhiên",
+        "G2": "Từ ngữ khác"
+      },
+      "answer": {
+        "G1": [
+          "líu lo",
+          "róc rách",
+          "rì rào"
+        ],
+        "G2": [
+          "tiếng chim",
+          "dòng suối",
+          "lũy tre"
+        ]
+      },
+      "explanation": "Nhóm G1 (Từ chỉ âm thanh tự nhiên): líu lo, róc rách, rì rào. Nhóm G2 (Từ ngữ khác): tiếng chim, dòng suối, lũy tre."
+    },
+    {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_3",
       "level": "CAP_2_VONG_TRUONG",
-      "questionId": "k3_c1_chon_026",
-      "questionNumber": 876
-    },
-    {
       "type": "CHON",
-      "question": "Trong các từ dưới đây, hãy chọn tất cả các từ chỉ đặc điểm thời tiết:",
-      "options": [
+      "questionId": "k3_c1_chon_027",
+      "questionNumber": 877,
+      "question": "Phân loại các từ ngữ sau vào 2 nhóm: Từ chỉ đặc điểm thời tiết và Từ ngữ khác:",
+      "words": [
         "mát mẻ",
         "se lạnh",
         "oi nồng",
@@ -8173,22 +8406,33 @@
         "mùa hè",
         "đón nắng"
       ],
-      "answer": [
-        "mát mẻ",
-        "se lạnh",
-        "oi nồng"
-      ],
-      "explanation": "Mát mẻ, se lạnh, oi nồng là các từ chỉ đặc điểm thời tiết.",
+      "groups": {
+        "G1": "Từ chỉ đặc điểm thời tiết",
+        "G2": "Từ ngữ khác"
+      },
+      "answer": {
+        "G1": [
+          "mát mẻ",
+          "se lạnh",
+          "oi nồng"
+        ],
+        "G2": [
+          "cơn gió",
+          "mùa hè",
+          "đón nắng"
+        ]
+      },
+      "explanation": "Nhóm G1 (Từ chỉ đặc điểm thời tiết): mát mẻ, se lạnh, oi nồng. Nhóm G2 (Từ ngữ khác): cơn gió, mùa hè, đón nắng."
+    },
+    {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_3",
       "level": "CAP_2_VONG_TRUONG",
-      "questionId": "k3_c1_chon_027",
-      "questionNumber": 877
-    },
-    {
       "type": "CHON",
-      "question": "Trong các từ dưới đây, hãy chọn tất cả các từ chỉ đặc điểm của dòng nước:",
-      "options": [
+      "questionId": "k3_c1_chon_028",
+      "questionNumber": 878,
+      "question": "Phân loại các từ ngữ sau vào 2 nhóm: Từ chỉ đặc điểm dòng nước và Từ ngữ khác:",
+      "words": [
         "trong veo",
         "cuồn cuộn",
         "phẳng lặng",
@@ -8196,22 +8440,33 @@
         "chảy xiết",
         "mặt hồ"
       ],
-      "answer": [
-        "trong veo",
-        "cuồn cuộn",
-        "phẳng lặng"
-      ],
-      "explanation": "Trong veo, cuồn cuộn, phẳng lặng là các từ chỉ đặc tính của dòng nước.",
+      "groups": {
+        "G1": "Từ chỉ đặc điểm dòng nước",
+        "G2": "Từ ngữ khác"
+      },
+      "answer": {
+        "G1": [
+          "trong veo",
+          "cuồn cuộn",
+          "phẳng lặng"
+        ],
+        "G2": [
+          "con sông",
+          "chảy xiết",
+          "mặt hồ"
+        ]
+      },
+      "explanation": "Nhóm G1 (Từ chỉ đặc điểm dòng nước): trong veo, cuồn cuộn, phẳng lặng. Nhóm G2 (Từ ngữ khác): con sông, chảy xiết, mặt hồ."
+    },
+    {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_3",
       "level": "CAP_2_VONG_TRUONG",
-      "questionId": "k3_c1_chon_028",
-      "questionNumber": 878
-    },
-    {
       "type": "CHON",
-      "question": "Trong các từ dưới đây, hãy chọn tất cả các từ chỉ tính cẩn thận, chỉn chu:",
-      "options": [
+      "questionId": "k3_c1_chon_029",
+      "questionNumber": 879,
+      "question": "Phân loại các từ ngữ sau vào 2 nhóm: Từ chỉ tính cẩn thận, chỉn chu và Từ ngữ khác:",
+      "words": [
         "ngăn nắp",
         "gọn gàng",
         "sạch sẽ",
@@ -8219,22 +8474,33 @@
         "quét dọn",
         "căn phòng"
       ],
-      "answer": [
-        "ngăn nắp",
-        "gọn gàng",
-        "sạch sẽ"
-      ],
-      "explanation": "Ngăn nắp, gọn gàng, sạch sẽ là các từ chỉ đặc điểm nề nếp, trật tự.",
+      "groups": {
+        "G1": "Từ chỉ tính cẩn thận, chỉn chu",
+        "G2": "Từ ngữ khác"
+      },
+      "answer": {
+        "G1": [
+          "ngăn nắp",
+          "gọn gàng",
+          "sạch sẽ"
+        ],
+        "G2": [
+          "sắp xếp",
+          "quét dọn",
+          "căn phòng"
+        ]
+      },
+      "explanation": "Nhóm G1 (Từ chỉ tính cẩn thận, chỉn chu): ngăn nắp, gọn gàng, sạch sẽ. Nhóm G2 (Từ ngữ khác): sắp xếp, quét dọn, căn phòng."
+    },
+    {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_3",
       "level": "CAP_2_VONG_TRUONG",
-      "questionId": "k3_c1_chon_029",
-      "questionNumber": 879
-    },
-    {
       "type": "CHON",
-      "question": "Trong các từ dưới đây, hãy chọn tất cả các từ chỉ tốc độ:",
-      "options": [
+      "questionId": "k3_c1_chon_030",
+      "questionNumber": 880,
+      "question": "Phân loại các từ ngữ sau vào 2 nhóm: Từ chỉ tốc độ và Từ ngữ khác:",
+      "words": [
         "thoăn thoắt",
         "chậm chạp",
         "nhanh như cắt",
@@ -8242,460 +8508,673 @@
         "con thỏ",
         "cuộc đua"
       ],
-      "answer": [
-        "thoăn thoắt",
-        "chậm chạp",
-        "nhanh như cắt"
-      ],
-      "explanation": "Thoăn thoắt, chậm chạp, nhanh như cắt là các từ/cụm từ chỉ tốc độ vận động.",
+      "groups": {
+        "G1": "Từ chỉ tốc độ",
+        "G2": "Từ ngữ khác"
+      },
+      "answer": {
+        "G1": [
+          "thoăn thoắt",
+          "chậm chạp",
+          "nhanh như cắt"
+        ],
+        "G2": [
+          "bước đi",
+          "con thỏ",
+          "cuộc đua"
+        ]
+      },
+      "explanation": "Nhóm G1 (Từ chỉ tốc độ): thoăn thoắt, chậm chạp, nhanh như cắt. Nhóm G2 (Từ ngữ khác): bước đi, con thỏ, cuộc đua."
+    },
+    {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_3",
       "level": "CAP_2_VONG_TRUONG",
-      "questionId": "k3_c1_chon_030",
-      "questionNumber": 880
-    },
-    {
       "type": "CHON",
-      "question": "Hãy chọn tất cả các câu có sử dụng hình ảnh so sánh miêu tả thiên nhiên:",
-      "options": [
+      "questionId": "k3_c1_chon_031",
+      "questionNumber": 881,
+      "question": "Phân loại các câu sau vào 2 nhóm: Câu so sánh miêu tả cảnh vật và Câu không có hình ảnh so sánh:",
+      "words": [
         "Mặt trời đỏ rực như một quả cầu lửa khổng lồ.",
         "Dòng sông uốn lượn như dải lụa đào vắt qua xóm làng.",
         "Bầu trời hôm nay thật cao và trong xanh.",
         "Những giọt sương mai long lanh như những hạt ngọc.",
         "Gió mùa thu thổi mát rượi qua từng ngõ xóm."
       ],
-      "answer": [
-        "Mặt trời đỏ rực như một quả cầu lửa khổng lồ.",
-        "Dòng sông uốn lượn như dải lụa đào vắt qua xóm làng.",
-        "Những giọt sương mai long lanh như những hạt ngọc."
-      ],
-      "explanation": "Ba câu trên đều sử dụng từ so sánh 'như' để ví von sự vật tự nhiên.",
+      "groups": {
+        "G1": "Câu so sánh miêu tả cảnh vật",
+        "G2": "Câu không có hình ảnh so sánh"
+      },
+      "answer": {
+        "G1": [
+          "Mặt trời đỏ rực như một quả cầu lửa khổng lồ.",
+          "Dòng sông uốn lượn như dải lụa đào vắt qua xóm làng.",
+          "Những giọt sương mai long lanh như những hạt ngọc."
+        ],
+        "G2": [
+          "Bầu trời hôm nay thật cao và trong xanh.",
+          "Gió mùa thu thổi mát rượi qua từng ngõ xóm."
+        ]
+      },
+      "explanation": "Nhóm G1 (Câu so sánh miêu tả cảnh vật): Mặt trời đỏ rực như một quả cầu lửa khổng lồ., Dòng sông uốn lượn như dải lụa đào vắt qua xóm làng., Những giọt sương mai long lanh như những hạt ngọc.. Nhóm G2 (Câu không có hình ảnh so sánh): Bầu trời hôm nay thật cao và trong xanh., Gió mùa thu thổi mát rượi qua từng ngõ xóm.."
+    },
+    {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_3",
       "level": "CAP_2_VONG_TRUONG",
-      "questionId": "k3_c1_chon_031",
-      "questionNumber": 881
-    },
-    {
       "type": "CHON",
-      "question": "Hãy chọn tất cả các câu có sử dụng hình ảnh so sánh nói về người:",
-      "options": [
+      "questionId": "k3_c1_chon_032",
+      "questionNumber": 882,
+      "question": "Phân loại các câu sau vào 2 nhóm: Câu so sánh nói về con người và Câu không có hình ảnh so sánh:",
+      "words": [
         "Cô giáo như người mẹ hiền thứ hai của chúng em.",
         "Em bé nhanh thoăn thoắt như một chú sóc con.",
         "Bác nông dân đang miệt mài cày ruộng ngoài đồng.",
         "Bàn tay mẹ dịu dàng như làn gió mát đêm hè.",
         "Cả lớp chăm chú nghe thầy giáo giảng bài."
       ],
-      "answer": [
-        "Cô giáo như người mẹ hiền thứ hai của chúng em.",
-        "Em bé nhanh thoăn thoắt như một chú sóc con.",
-        "Bàn tay mẹ dịu dàng như làn gió mát đêm hè."
-      ],
-      "explanation": "Các câu này so sánh con người với sự vật qua từ so sánh 'như'.",
+      "groups": {
+        "G1": "Câu so sánh nói về con người",
+        "G2": "Câu không có hình ảnh so sánh"
+      },
+      "answer": {
+        "G1": [
+          "Cô giáo như người mẹ hiền thứ hai của chúng em.",
+          "Em bé nhanh thoăn thoắt như một chú sóc con.",
+          "Bàn tay mẹ dịu dàng như làn gió mát đêm hè."
+        ],
+        "G2": [
+          "Bác nông dân đang miệt mài cày ruộng ngoài đồng.",
+          "Cả lớp chăm chú nghe thầy giáo giảng bài."
+        ]
+      },
+      "explanation": "Nhóm G1 (Câu so sánh nói về con người): Cô giáo như người mẹ hiền thứ hai của chúng em., Em bé nhanh thoăn thoắt như một chú sóc con., Bàn tay mẹ dịu dàng như làn gió mát đêm hè.. Nhóm G2 (Câu không có hình ảnh so sánh): Bác nông dân đang miệt mài cày ruộng ngoài đồng., Cả lớp chăm chú nghe thầy giáo giảng bài.."
+    },
+    {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_3",
       "level": "CAP_2_VONG_TRUONG",
-      "questionId": "k3_c1_chon_032",
-      "questionNumber": 882
-    },
-    {
       "type": "CHON",
-      "question": "Hãy chọn tất cả các câu có hình ảnh so sánh đồ dùng học tập hoặc trường lớp:",
-      "options": [
+      "questionId": "k3_c1_chon_033",
+      "questionNumber": 883,
+      "question": "Phân loại các câu sau vào 2 nhóm: Câu so sánh đồ dùng, trường lớp và Câu không có hình ảnh so sánh:",
+      "words": [
         "Ngôi trường như ngôi nhà thứ hai yêu dấu của em.",
         "Quyển vở trắng tinh mở ra như đôi cánh thiên nga.",
         "Cây bút mực viết nên những nét chữ nắn nót.",
         "Mặt bảng đen phẳng lặng như mặt hồ nước mùa thu.",
         "Tiếng trống trường giục giã chúng em vào lớp."
       ],
-      "answer": [
-        "Ngôi trường như ngôi nhà thứ hai yêu dấu của em.",
-        "Quyển vở trắng tinh mở ra như đôi cánh thiên nga.",
-        "Mặt bảng đen phẳng lặng như mặt hồ nước mùa thu."
-      ],
-      "explanation": "Các câu này chứa từ so sánh 'như' miêu tả trường lớp và đồ dùng học tập.",
+      "groups": {
+        "G1": "Câu so sánh đồ dùng, trường lớp",
+        "G2": "Câu không có hình ảnh so sánh"
+      },
+      "answer": {
+        "G1": [
+          "Ngôi trường như ngôi nhà thứ hai yêu dấu của em.",
+          "Quyển vở trắng tinh mở ra như đôi cánh thiên nga.",
+          "Mặt bảng đen phẳng lặng như mặt hồ nước mùa thu."
+        ],
+        "G2": [
+          "Cây bút mực viết nên những nét chữ nắn nót.",
+          "Tiếng trống trường giục giã chúng em vào lớp."
+        ]
+      },
+      "explanation": "Nhóm G1 (Câu so sánh đồ dùng, trường lớp): Ngôi trường như ngôi nhà thứ hai yêu dấu của em., Quyển vở trắng tinh mở ra như đôi cánh thiên nga., Mặt bảng đen phẳng lặng như mặt hồ nước mùa thu.. Nhóm G2 (Câu không có hình ảnh so sánh): Cây bút mực viết nên những nét chữ nắn nót., Tiếng trống trường giục giã chúng em vào lớp.."
+    },
+    {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_3",
       "level": "CAP_2_VONG_TRUONG",
-      "questionId": "k3_c1_chon_033",
-      "questionNumber": 883
-    },
-    {
       "type": "CHON",
-      "question": "Hãy chọn tất cả các câu có sử dụng từ so sánh 'là':",
-      "options": [
+      "questionId": "k3_c1_chon_034",
+      "questionNumber": 884,
+      "question": "Phân loại các câu sau vào 2 nhóm: Câu có từ so sánh 'là' và Câu không có từ so sánh 'là':",
+      "words": [
         "Quê hương là chùm khế ngọt.",
         "Thầy cô là người dẫn đường chỉ lối cho chúng em.",
         "Bạn Nam học rất giỏi môn Toán.",
         "Sách là người bạn thân thiết nhất của tuổi học trò.",
         "Bé Mai đang chăm chỉ tập viết chữ."
       ],
-      "answer": [
-        "Quê hương là chùm khế ngọt.",
-        "Thầy cô là người dẫn đường chỉ lối cho chúng em.",
-        "Sách là người bạn thân thiết nhất của tuổi học trò."
-      ],
-      "explanation": "Các câu này sử dụng từ so sánh 'là' để liên kết hai sự vật.",
+      "groups": {
+        "G1": "Câu có từ so sánh 'là'",
+        "G2": "Câu không có từ so sánh 'là'"
+      },
+      "answer": {
+        "G1": [
+          "Quê hương là chùm khế ngọt.",
+          "Thầy cô là người dẫn đường chỉ lối cho chúng em.",
+          "Sách là người bạn thân thiết nhất của tuổi học trò."
+        ],
+        "G2": [
+          "Bạn Nam học rất giỏi môn Toán.",
+          "Bé Mai đang chăm chỉ tập viết chữ."
+        ]
+      },
+      "explanation": "Nhóm G1 (Câu có từ so sánh 'là'): Quê hương là chùm khế ngọt., Thầy cô là người dẫn đường chỉ lối cho chúng em., Sách là người bạn thân thiết nhất của tuổi học trò.. Nhóm G2 (Câu không có từ so sánh 'là'): Bạn Nam học rất giỏi môn Toán., Bé Mai đang chăm chỉ tập viết chữ.."
+    },
+    {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_3",
       "level": "CAP_2_VONG_TRUONG",
-      "questionId": "k3_c1_chon_034",
-      "questionNumber": 884
-    },
-    {
       "type": "CHON",
-      "question": "Hãy chọn tất cả các câu có sử dụng từ so sánh 'tựa như' hoặc 'giống như':",
-      "options": [
+      "questionId": "k3_c1_chon_035",
+      "questionNumber": 885,
+      "question": "Phân loại các câu sau vào 2 nhóm: Câu có từ so sánh 'tựa như', 'giống như' và Câu không dùng các từ so sánh đó:",
+      "words": [
         "Đám mây trắng xốp tựa như chiếc gối bông bồng bềnh trôi.",
         "Tiếng suối trong trẻo ngân nga giống như tiếng đàn cầm.",
         "Mùa hè có rất nhiều loại hoa quả thơm ngon.",
         "Lá bàng mùa thu đỏ rực tựa như những đốm lửa bập bùng.",
         "Chúng em cùng nhau quét dọn vệ sinh trường học."
       ],
-      "answer": [
-        "Đám mây trắng xốp tựa như chiếc gối bông bồng bềnh trôi.",
-        "Tiếng suối trong trẻo ngân nga giống như tiếng đàn cầm.",
-        "Lá bàng mùa thu đỏ rực tựa như những đốm lửa bập bùng."
-      ],
-      "explanation": "Các câu này sử dụng từ so sánh 'tựa như', 'giống như'.",
+      "groups": {
+        "G1": "Câu có từ so sánh 'tựa như', 'giống như'",
+        "G2": "Câu không dùng các từ so sánh đó"
+      },
+      "answer": {
+        "G1": [
+          "Đám mây trắng xốp tựa như chiếc gối bông bồng bềnh trôi.",
+          "Tiếng suối trong trẻo ngân nga giống như tiếng đàn cầm.",
+          "Lá bàng mùa thu đỏ rực tựa như những đốm lửa bập bùng."
+        ],
+        "G2": [
+          "Mùa hè có rất nhiều loại hoa quả thơm ngon.",
+          "Chúng em cùng nhau quét dọn vệ sinh trường học."
+        ]
+      },
+      "explanation": "Nhóm G1 (Câu có từ so sánh 'tựa như', 'giống như'): Đám mây trắng xốp tựa như chiếc gối bông bồng bềnh trôi., Tiếng suối trong trẻo ngân nga giống như tiếng đàn cầm., Lá bàng mùa thu đỏ rực tựa như những đốm lửa bập bùng.. Nhóm G2 (Câu không dùng các từ so sánh đó): Mùa hè có rất nhiều loại hoa quả thơm ngon., Chúng em cùng nhau quét dọn vệ sinh trường học.."
+    },
+    {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_3",
       "level": "CAP_2_VONG_TRUONG",
-      "questionId": "k3_c1_chon_035",
-      "questionNumber": 885
-    },
-    {
       "type": "CHON",
-      "question": "Hãy chọn tất cả các câu có hình ảnh so sánh miêu tả trăng sao:",
-      "options": [
+      "questionId": "k3_c1_chon_036",
+      "questionNumber": 886,
+      "question": "Phân loại các câu sau vào 2 nhóm: Câu so sánh miêu tả trăng sao và Câu không có hình ảnh so sánh:",
+      "words": [
         "Trăng tròn vành vạnh như chiếc đĩa bạc lơ lửng trên trời.",
         "Những vì sao lấp lánh như ngàn hạt kim cương trên nền nhung đen.",
         "Mặt trăng khuyết cong cong như chiếc thuyền con trôi giữa mây ngàn.",
         "Đêm rằm Trung thu chúng em vui vẻ phá cỗ trông trăng.",
         "Gió đêm thổi mát rượi qua từng ngọn tre."
       ],
-      "answer": [
-        "Trăng tròn vành vạnh như chiếc đĩa bạc lơ lửng trên trời.",
-        "Những vì sao lấp lánh như ngàn hạt kim cương trên nền nhung đen.",
-        "Mặt trăng khuyết cong cong như chiếc thuyền con trôi giữa mây ngàn."
-      ],
-      "explanation": "Cả ba câu trên đều sử dụng hình ảnh so sánh độc đáo về trăng sao.",
+      "groups": {
+        "G1": "Câu so sánh miêu tả trăng sao",
+        "G2": "Câu không có hình ảnh so sánh"
+      },
+      "answer": {
+        "G1": [
+          "Trăng tròn vành vạnh như chiếc đĩa bạc lơ lửng trên trời.",
+          "Những vì sao lấp lánh như ngàn hạt kim cương trên nền nhung đen.",
+          "Mặt trăng khuyết cong cong như chiếc thuyền con trôi giữa mây ngàn."
+        ],
+        "G2": [
+          "Đêm rằm Trung thu chúng em vui vẻ phá cỗ trông trăng.",
+          "Gió đêm thổi mát rượi qua từng ngọn tre."
+        ]
+      },
+      "explanation": "Nhóm G1 (Câu so sánh miêu tả trăng sao): Trăng tròn vành vạnh như chiếc đĩa bạc lơ lửng trên trời., Những vì sao lấp lánh như ngàn hạt kim cương trên nền nhung đen., Mặt trăng khuyết cong cong như chiếc thuyền con trôi giữa mây ngàn.. Nhóm G2 (Câu không có hình ảnh so sánh): Đêm rằm Trung thu chúng em vui vẻ phá cỗ trông trăng., Gió đêm thổi mát rượi qua từng ngọn tre.."
+    },
+    {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_3",
       "level": "CAP_2_VONG_TRUONG",
-      "questionId": "k3_c1_chon_036",
-      "questionNumber": 886
-    },
-    {
       "type": "CHON",
-      "question": "Hãy chọn tất cả các câu  có sử dụng hình ảnh so sánh:",
-      "options": [
+      "questionId": "k3_c1_chon_037",
+      "questionNumber": 887,
+      "question": "Phân loại các câu sau vào 2 nhóm: Câu có hình ảnh so sánh và Câu không có hình ảnh so sánh:",
+      "words": [
         "Công cha như núi Thái Sơn.",
         "Nghĩa mẹ như nước trong nguồn chảy ra.",
         "Học ăn, học nói, học gói, học mở.",
         "Anh em như thể tay chân.",
         "Gần mực thì đen, gần đèn thì rạng."
       ],
-      "answer": [
-        "Công cha như núi Thái Sơn.",
-        "Nghĩa mẹ như nước trong nguồn chảy ra.",
-        "Anh em như thể tay chân."
-      ],
-      "explanation": "Ba câu  trên đều dùng từ so sánh 'như', 'như thể' để nói về tình cảm gia đình.",
+      "groups": {
+        "G1": "Câu có hình ảnh so sánh",
+        "G2": "Câu không có hình ảnh so sánh"
+      },
+      "answer": {
+        "G1": [
+          "Công cha như núi Thái Sơn.",
+          "Nghĩa mẹ như nước trong nguồn chảy ra.",
+          "Anh em như thể tay chân."
+        ],
+        "G2": [
+          "Học ăn, học nói, học gói, học mở.",
+          "Gần mực thì đen, gần đèn thì rạng."
+        ]
+      },
+      "explanation": "Nhóm G1 (Câu có hình ảnh so sánh): Công cha như núi Thái Sơn., Nghĩa mẹ như nước trong nguồn chảy ra., Anh em như thể tay chân.. Nhóm G2 (Câu không có hình ảnh so sánh): Học ăn, học nói, học gói, học mở., Gần mực thì đen, gần đèn thì rạng.."
+    },
+    {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_3",
       "level": "CAP_2_VONG_TRUONG",
-      "questionId": "k3_c1_chon_037",
-      "questionNumber": 887
-    },
-    {
       "type": "CHON",
-      "question": "Hãy chọn tất cả các câu so sánh miêu tả cánh đồng lúa:",
-      "options": [
+      "questionId": "k3_c1_chon_038",
+      "questionNumber": 888,
+      "question": "Phân loại các câu sau vào 2 nhóm: Câu so sánh cây cối, đồng ruộng và Câu không có hình ảnh so sánh:",
+      "words": [
         "Cánh đồng lúa chín vàng trải rộng mênh mông như một tấm thảm lụa rực rỡ.",
         "Những bông lúa uốn cong như chiếc lưỡi liềm nhỏ.",
         "Hạt thóc chắc mẩy nằm ngoan ngoãn trong lớp vỏ trấu vàng ươm.",
         "Sóng lúa nhấp nhô theo làn gió như muôn ngàn đợt sóng biển dâng trào.",
         "Người nông dân vui mừng trước một mùa gặt bội thu."
       ],
-      "answer": [
-        "Cánh đồng lúa chín vàng trải rộng mênh mông như một tấm thảm lụa rực rỡ.",
-        "Những bông lúa uốn cong như chiếc lưỡi liềm nhỏ.",
-        "Sóng lúa nhấp nhô theo làn gió như muôn ngàn đợt sóng biển dâng trào."
-      ],
-      "explanation": "Cả ba câu trên đều chứa hình ảnh so sánh gợi cảm về đồng lúa quê hương.",
+      "groups": {
+        "G1": "Câu so sánh cây cối, đồng ruộng",
+        "G2": "Câu không có hình ảnh so sánh"
+      },
+      "answer": {
+        "G1": [
+          "Cánh đồng lúa chín vàng trải rộng mênh mông như một tấm thảm lụa rực rỡ.",
+          "Những bông lúa uốn cong như chiếc lưỡi liềm nhỏ.",
+          "Sóng lúa nhấp nhô theo làn gió như muôn ngàn đợt sóng biển dâng trào."
+        ],
+        "G2": [
+          "Hạt thóc chắc mẩy nằm ngoan ngoãn trong lớp vỏ trấu vàng ươm.",
+          "Người nông dân vui mừng trước một mùa gặt bội thu."
+        ]
+      },
+      "explanation": "Nhóm G1 (Câu so sánh cây cối, đồng ruộng): Cánh đồng lúa chín vàng trải rộng mênh mông như một tấm thảm lụa rực rỡ., Những bông lúa uốn cong như chiếc lưỡi liềm nhỏ., Sóng lúa nhấp nhô theo làn gió như muôn ngàn đợt sóng biển dâng trào.. Nhóm G2 (Câu không có hình ảnh so sánh): Hạt thóc chắc mẩy nằm ngoan ngoãn trong lớp vỏ trấu vàng ươm., Người nông dân vui mừng trước một mùa gặt bội thu.."
+    },
+    {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_3",
       "level": "CAP_2_VONG_TRUONG",
-      "questionId": "k3_c1_chon_038",
-      "questionNumber": 888
-    },
-    {
       "type": "CHON",
-      "question": "Hãy chọn tất cả các câu có sử dụng hình ảnh so sánh hơn kém:",
-      "options": [
+      "questionId": "k3_c1_chon_039",
+      "questionNumber": 889,
+      "question": "Phân loại các câu sau vào 2 nhóm: Câu so sánh hơn kém và Câu so sánh ngang bằng hoặc không so sánh:",
+      "words": [
         "Những ngôi sao thức ngoài kia / Chẳng bằng mẹ đã thức vì chúng con.",
         "Bóng Bác cao lồng lộng / Ấm hơn ngọn lửa hồng.",
         "Mẹ em là bác sĩ làm việc ở trạm y tế xã.",
         "Trời hôm nay nắng hơn ngày hôm qua.",
         "Lòng mẹ bao la như biển Thái Bình."
       ],
-      "answer": [
-        "Những ngôi sao thức ngoài kia / Chẳng bằng mẹ đã thức vì chúng con.",
-        "Bóng Bác cao lồng lộng / Ấm hơn ngọn lửa hồng."
-      ],
-      "explanation": "Hai câu thơ trên dùng cấu trúc so sánh hơn kém ('chẳng bằng', 'ấm hơn').",
+      "groups": {
+        "G1": "Câu so sánh hơn kém",
+        "G2": "Câu so sánh ngang bằng hoặc không so sánh"
+      },
+      "answer": {
+        "G1": [
+          "Những ngôi sao thức ngoài kia / Chẳng bằng mẹ đã thức vì chúng con.",
+          "Bóng Bác cao lồng lộng / Ấm hơn ngọn lửa hồng."
+        ],
+        "G2": [
+          "Mẹ em là bác sĩ làm việc ở trạm y tế xã.",
+          "Trời hôm nay nắng hơn ngày hôm qua.",
+          "Lòng mẹ bao la như biển Thái Bình."
+        ]
+      },
+      "explanation": "Nhóm G1 (Câu so sánh hơn kém): Những ngôi sao thức ngoài kia / Chẳng bằng mẹ đã thức vì chúng con., Bóng Bác cao lồng lộng / Ấm hơn ngọn lửa hồng.. Nhóm G2 (Câu so sánh ngang bằng hoặc không so sánh): Mẹ em là bác sĩ làm việc ở trạm y tế xã., Trời hôm nay nắng hơn ngày hôm qua., Lòng mẹ bao la như biển Thái Bình.."
+    },
+    {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_3",
       "level": "CAP_2_VONG_TRUONG",
-      "questionId": "k3_c1_chon_039",
-      "questionNumber": 889
-    },
-    {
       "type": "CHON",
-      "question": "Hãy chọn tất cả các câu có hình ảnh so sánh miêu tả cây cối:",
-      "options": [
+      "questionId": "k3_c1_chon_040",
+      "questionNumber": 890,
+      "question": "Phân loại các câu sau vào 2 nhóm: Câu so sánh cây cối, đồng ruộng và Câu không có hình ảnh so sánh:",
+      "words": [
         "Cây gạo sừng sững như một tháp đèn khổng lồ đầu làng.",
         "Tán lá bàng xòe rộng như chiếc ô xanh khổng lồ che mát góc sân.",
         "Quả bưởi tròn lủng lẳng tựa như những quả bóng treo trên cành cây.",
         "Mỗi mùa xuân đến, cây cối lại đâm chồi nảy lộc tươi non.",
         "Mẹ em hái những quả ổi chín thơm nức ngoài vườn."
       ],
-      "answer": [
-        "Cây gạo sừng sững như một tháp đèn khổng lồ đầu làng.",
-        "Tán lá bàng xòe rộng như chiếc ô xanh khổng lồ che mát góc sân.",
-        "Quả bưởi tròn lủng lẳng tựa như những quả bóng treo trên cành cây."
-      ],
-      "explanation": "Ba câu trên đều sử dụng hình ảnh so sánh sinh động về cây cối.",
+      "groups": {
+        "G1": "Câu so sánh cây cối, đồng ruộng",
+        "G2": "Câu không có hình ảnh so sánh"
+      },
+      "answer": {
+        "G1": [
+          "Cây gạo sừng sững như một tháp đèn khổng lồ đầu làng.",
+          "Tán lá bàng xòe rộng như chiếc ô xanh khổng lồ che mát góc sân.",
+          "Quả bưởi tròn lủng lẳng tựa như những quả bóng treo trên cành cây."
+        ],
+        "G2": [
+          "Mỗi mùa xuân đến, cây cối lại đâm chồi nảy lộc tươi non.",
+          "Mẹ em hái những quả ổi chín thơm nức ngoài vườn."
+        ]
+      },
+      "explanation": "Nhóm G1 (Câu so sánh cây cối, đồng ruộng): Cây gạo sừng sững như một tháp đèn khổng lồ đầu làng., Tán lá bàng xòe rộng như chiếc ô xanh khổng lồ che mát góc sân., Quả bưởi tròn lủng lẳng tựa như những quả bóng treo trên cành cây.. Nhóm G2 (Câu không có hình ảnh so sánh): Mỗi mùa xuân đến, cây cối lại đâm chồi nảy lộc tươi non., Mẹ em hái những quả ổi chín thơm nức ngoài vườn.."
+    },
+    {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_3",
       "level": "CAP_2_VONG_TRUONG",
-      "questionId": "k3_c1_chon_040",
-      "questionNumber": 890
-    },
-    {
       "type": "CHON",
-      "question": "Hãy chọn tất cả các câu có sử dụng biện pháp nhân hóa gọi sự vật bằng từ ngữ gọi người:",
-      "options": [
+      "questionId": "k3_c1_chon_041",
+      "questionNumber": 891,
+      "question": "Phân loại các câu sau vào 2 nhóm: Câu dùng từ gọi người để gọi sự vật và Câu không dùng biện pháp này:",
+      "words": [
         "Bác mặt trời thức dậy tỏa ánh nắng ấm áp.",
         "Chị gió khẽ thì thầm bên tai từng chiếc lá non.",
         "Mặt trời mùa hạ tỏa ánh nắng chói chang.",
         "Bác bàng già trầm ngâm đứng gác góc sân trường.",
         "Gió mùa thu mát rượi thổi qua cánh đồng."
       ],
-      "answer": [
-        "Bác mặt trời thức dậy tỏa ánh nắng ấm áp.",
-        "Chị gió khẽ thì thầm bên tai từng chiếc lá non.",
-        "Bác bàng già trầm ngâm đứng gác góc sân trường."
-      ],
-      "explanation": "Mặt trời, gió, cây bàng được gọi thân thương bằng 'bác', 'chị' như con người.",
+      "groups": {
+        "G1": "Câu dùng từ gọi người để gọi sự vật",
+        "G2": "Câu không dùng biện pháp này"
+      },
+      "answer": {
+        "G1": [
+          "Bác mặt trời thức dậy tỏa ánh nắng ấm áp.",
+          "Chị gió khẽ thì thầm bên tai từng chiếc lá non.",
+          "Bác bàng già trầm ngâm đứng gác góc sân trường."
+        ],
+        "G2": [
+          "Mặt trời mùa hạ tỏa ánh nắng chói chang.",
+          "Gió mùa thu mát rượi thổi qua cánh đồng."
+        ]
+      },
+      "explanation": "Nhóm G1 (Câu dùng từ gọi người để gọi sự vật): Bác mặt trời thức dậy tỏa ánh nắng ấm áp., Chị gió khẽ thì thầm bên tai từng chiếc lá non., Bác bàng già trầm ngâm đứng gác góc sân trường.. Nhóm G2 (Câu không dùng biện pháp này): Mặt trời mùa hạ tỏa ánh nắng chói chang., Gió mùa thu mát rượi thổi qua cánh đồng.."
+    },
+    {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_3",
       "level": "CAP_2_VONG_TRUONG",
-      "questionId": "k3_c1_chon_041",
-      "questionNumber": 891
-    },
-    {
       "type": "CHON",
-      "question": "Hãy chọn tất cả các câu nhân hóa tả sự vật bằng từ ngữ tả hành động của con người:",
-      "options": [
+      "questionId": "k3_c1_chon_042",
+      "questionNumber": 892,
+      "question": "Phân loại các câu sau vào 2 nhóm: Câu tả sự vật bằng hành động của người và Câu không dùng biện pháp này:",
+      "words": [
         "Những bông hoa hồng mỉm cười đón những hạt sương mai.",
         "Cây bàng dang rộng vòng tay che chở cho đàn chim nhỏ.",
         "Dòng sông vui sướng reo ca hòa cùng sóng biển dạt dào.",
         "Bầu trời hôm nay rất nhiều mây xám.",
         "Học sinh háo hức tới trường trong ngày khai giảng."
       ],
-      "answer": [
-        "Những bông hoa hồng mỉm cười đón những hạt sương mai.",
-        "Cây bàng dang rộng vòng tay che chở cho đàn chim nhỏ.",
-        "Dòng sông vui sướng reo ca hòa cùng sóng biển dạt dào."
-      ],
-      "explanation": "Hoa mỉm cười, bàng dang tay che chở, sông vui sướng reo ca là các hành động nhân hóa.",
+      "groups": {
+        "G1": "Câu tả sự vật bằng hành động của người",
+        "G2": "Câu không dùng biện pháp này"
+      },
+      "answer": {
+        "G1": [
+          "Những bông hoa hồng mỉm cười đón những hạt sương mai.",
+          "Cây bàng dang rộng vòng tay che chở cho đàn chim nhỏ.",
+          "Dòng sông vui sướng reo ca hòa cùng sóng biển dạt dào."
+        ],
+        "G2": [
+          "Bầu trời hôm nay rất nhiều mây xám.",
+          "Học sinh háo hức tới trường trong ngày khai giảng."
+        ]
+      },
+      "explanation": "Nhóm G1 (Câu tả sự vật bằng hành động của người): Những bông hoa hồng mỉm cười đón những hạt sương mai., Cây bàng dang rộng vòng tay che chở cho đàn chim nhỏ., Dòng sông vui sướng reo ca hòa cùng sóng biển dạt dào.. Nhóm G2 (Câu không dùng biện pháp này): Bầu trời hôm nay rất nhiều mây xám., Học sinh háo hức tới trường trong ngày khai giảng.."
+    },
+    {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_3",
       "level": "CAP_2_VONG_TRUONG",
-      "questionId": "k3_c1_chon_042",
-      "questionNumber": 892
-    },
-    {
       "type": "CHON",
-      "question": "Hãy chọn tất cả các câu có biện pháp nhân hóa đồ vật:",
-      "options": [
+      "questionId": "k3_c1_chon_043",
+      "questionNumber": 893,
+      "question": "Phân loại các câu sau vào 2 nhóm: Câu nhân hóa đồ vật và Câu không nhân hóa đồ vật:",
+      "words": [
         "Bác trống trường đứng nghiêm trang canh giữ giờ giấc cho chúng em.",
         "Chiếc đồng hồ báo thức reo vang giục em thức dậy đúng giờ.",
         "Cây bút mực chăm chỉ vẽ nên từng nét chữ tròn trịa.",
         "Em dùng thước kẻ để gạch chân tiêu đề bài học.",
         "Chiếc cặp sách được em đặt ngay ngắn trên bàn học."
       ],
-      "answer": [
-        "Bác trống trường đứng nghiêm trang canh giữ giờ giấc cho chúng em.",
-        "Chiếc đồng hồ báo thức reo vang giục em thức dậy đúng giờ.",
-        "Cây bút mực chăm chỉ vẽ nên từng nét chữ tròn trịa."
-      ],
-      "explanation": "Trống trường, đồng hồ, cây bút được gán tâm trạng, hành động của người.",
+      "groups": {
+        "G1": "Câu nhân hóa đồ vật",
+        "G2": "Câu không nhân hóa đồ vật"
+      },
+      "answer": {
+        "G1": [
+          "Bác trống trường đứng nghiêm trang canh giữ giờ giấc cho chúng em.",
+          "Chiếc đồng hồ báo thức reo vang giục em thức dậy đúng giờ.",
+          "Cây bút mực chăm chỉ vẽ nên từng nét chữ tròn trịa."
+        ],
+        "G2": [
+          "Em dùng thước kẻ để gạch chân tiêu đề bài học.",
+          "Chiếc cặp sách được em đặt ngay ngắn trên bàn học."
+        ]
+      },
+      "explanation": "Nhóm G1 (Câu nhân hóa đồ vật): Bác trống trường đứng nghiêm trang canh giữ giờ giấc cho chúng em., Chiếc đồng hồ báo thức reo vang giục em thức dậy đúng giờ., Cây bút mực chăm chỉ vẽ nên từng nét chữ tròn trịa.. Nhóm G2 (Câu không nhân hóa đồ vật): Em dùng thước kẻ để gạch chân tiêu đề bài học., Chiếc cặp sách được em đặt ngay ngắn trên bàn học.."
+    },
+    {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_3",
       "level": "CAP_2_VONG_TRUONG",
-      "questionId": "k3_c1_chon_043",
-      "questionNumber": 893
-    },
-    {
       "type": "CHON",
-      "question": "Hãy chọn tất cả các câu có nhân hóa loài vật:",
-      "options": [
+      "questionId": "k3_c1_chon_044",
+      "questionNumber": 894,
+      "question": "Phân loại các câu sau vào 2 nhóm: Câu nhân hóa loài vật, cây cối và Câu không có nhân hóa:",
+      "words": [
         "Chú gà trống đĩnh đạc cất tiếng gáy vang gọi cả xóm thức dậy.",
         "Bác trâu già cần mẫn giúp người nông dân cày ruộng.",
         "Đàn kiến chăm chỉ nối đuôi nhau tha mồi về tổ.",
         "Con mèo đang ngủ say sưa trên đống rơm khô.",
         "Đàn cá bơi lội tung tăng dưới mặt ao làng."
       ],
-      "answer": [
-        "Chú gà trống đĩnh đạc cất tiếng gáy vang gọi cả xóm thức dậy.",
-        "Bác trâu già cần mẫn giúp người nông dân cày ruộng.",
-        "Đàn kiến chăm chỉ nối đuôi nhau tha mồi về tổ."
-      ],
-      "explanation": "Gà trống đĩnh đạc, trâu già cần mẫn, kiến chăm chỉ là những hình ảnh nhân hóa loài vật.",
+      "groups": {
+        "G1": "Câu nhân hóa loài vật, cây cối",
+        "G2": "Câu không có nhân hóa"
+      },
+      "answer": {
+        "G1": [
+          "Chú gà trống đĩnh đạc cất tiếng gáy vang gọi cả xóm thức dậy.",
+          "Bác trâu già cần mẫn giúp người nông dân cày ruộng.",
+          "Đàn kiến chăm chỉ nối đuôi nhau tha mồi về tổ."
+        ],
+        "G2": [
+          "Con mèo đang ngủ say sưa trên đống rơm khô.",
+          "Đàn cá bơi lội tung tăng dưới mặt ao làng."
+        ]
+      },
+      "explanation": "Nhóm G1 (Câu nhân hóa loài vật, cây cối): Chú gà trống đĩnh đạc cất tiếng gáy vang gọi cả xóm thức dậy., Bác trâu già cần mẫn giúp người nông dân cày ruộng., Đàn kiến chăm chỉ nối đuôi nhau tha mồi về tổ.. Nhóm G2 (Câu không có nhân hóa): Con mèo đang ngủ say sưa trên đống rơm khô., Đàn cá bơi lội tung tăng dưới mặt ao làng.."
+    },
+    {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_3",
       "level": "CAP_2_VONG_TRUONG",
-      "questionId": "k3_c1_chon_044",
-      "questionNumber": 894
-    },
-    {
       "type": "CHON",
-      "question": "Hãy chọn tất cả các câu trò chuyện với sự vật như trò chuyện với con người:",
-      "options": [
+      "questionId": "k3_c1_chon_045",
+      "questionNumber": 895,
+      "question": "Phân loại các câu sau vào 2 nhóm: Câu trò chuyện với sự vật như người và Câu không trò chuyện với sự vật:",
+      "words": [
         "Trâu ơi ta bảo trâu này / Trâu ra ngoài ruộng trâu cày với ta.",
         "Ơi chích chòe ơi / Chim đừng hót nữa.",
         "Mỗi mùa xuân đến chim én lại bay về.",
         "Bác trâu ơi, bác đã cày mệt chưa?",
         "Bé Mai đang chăm chú tô màu bức tranh vẽ gia đình."
       ],
-      "answer": [
-        "Trâu ơi ta bảo trâu này / Trâu ra ngoài ruộng trâu cày với ta.",
-        "Ơi chích chòe ơi / Chim đừng hót nữa.",
-        "Bác trâu ơi, bác đã cày mệt chưa?"
-      ],
-      "explanation": "Con người xưng hô và trò chuyện thân mật với trâu và chim như bạn bè.",
+      "groups": {
+        "G1": "Câu trò chuyện với sự vật như người",
+        "G2": "Câu không trò chuyện với sự vật"
+      },
+      "answer": {
+        "G1": [
+          "Trâu ơi ta bảo trâu này / Trâu ra ngoài ruộng trâu cày với ta.",
+          "Ơi chích chòe ơi / Chim đừng hót nữa.",
+          "Bác trâu ơi, bác đã cày mệt chưa?"
+        ],
+        "G2": [
+          "Mỗi mùa xuân đến chim én lại bay về.",
+          "Bé Mai đang chăm chú tô màu bức tranh vẽ gia đình."
+        ]
+      },
+      "explanation": "Nhóm G1 (Câu trò chuyện với sự vật như người): Trâu ơi ta bảo trâu này / Trâu ra ngoài ruộng trâu cày với ta., Ơi chích chòe ơi / Chim đừng hót nữa., Bác trâu ơi, bác đã cày mệt chưa?. Nhóm G2 (Câu không trò chuyện với sự vật): Mỗi mùa xuân đến chim én lại bay về., Bé Mai đang chăm chú tô màu bức tranh vẽ gia đình.."
+    },
+    {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_3",
       "level": "CAP_2_VONG_TRUONG",
-      "questionId": "k3_c1_chon_045",
-      "questionNumber": 895
-    },
-    {
       "type": "CHON",
-      "question": "Hãy chọn tất cả các câu nhân hóa tả thiên nhiên mùa xuân:",
-      "options": [
+      "questionId": "k3_c1_chon_046",
+      "questionNumber": 896,
+      "question": "Phân loại các câu sau vào 2 nhóm: Câu nhân hóa miêu tả thiên nhiên và Câu không có hình ảnh nhân hóa:",
+      "words": [
         "Nàng xuân dịu dàng mang theo tấm áo hoa rực rỡ đến với trần gian.",
         "Mưa xuân lất phất rắc hạt bụi êm đềm đánh thức vạn vật hồi sinh.",
         "Mỗi độ xuân về, trăm hoa trong vườn lại đua nhau khoe sắc.",
         "Những chồi non bẽn lẽn mở mắt hé nhìn vòm trời trong biếc.",
         "Thời tiết mùa xuân thường ấm áp và có mưa phùn."
       ],
-      "answer": [
-        "Nàng xuân dịu dàng mang theo tấm áo hoa rực rỡ đến với trần gian.",
-        "Mưa xuân lất phất rắc hạt bụi êm đềm đánh thức vạn vật hồi sinh.",
-        "Những chồi non bẽn lẽn mở mắt hé nhìn vòm trời trong biếc."
-      ],
-      "explanation": "Mùa xuân được gọi là 'nàng xuân', mưa xuân đánh thức vạn vật, chồi non bẽn lẽn mở mắt.",
+      "groups": {
+        "G1": "Câu nhân hóa miêu tả thiên nhiên",
+        "G2": "Câu không có hình ảnh nhân hóa"
+      },
+      "answer": {
+        "G1": [
+          "Nàng xuân dịu dàng mang theo tấm áo hoa rực rỡ đến với trần gian.",
+          "Mưa xuân lất phất rắc hạt bụi êm đềm đánh thức vạn vật hồi sinh.",
+          "Những chồi non bẽn lẽn mở mắt hé nhìn vòm trời trong biếc."
+        ],
+        "G2": [
+          "Mỗi độ xuân về, trăm hoa trong vườn lại đua nhau khoe sắc.",
+          "Thời tiết mùa xuân thường ấm áp và có mưa phùn."
+        ]
+      },
+      "explanation": "Nhóm G1 (Câu nhân hóa miêu tả thiên nhiên): Nàng xuân dịu dàng mang theo tấm áo hoa rực rỡ đến với trần gian., Mưa xuân lất phất rắc hạt bụi êm đềm đánh thức vạn vật hồi sinh., Những chồi non bẽn lẽn mở mắt hé nhìn vòm trời trong biếc.. Nhóm G2 (Câu không có hình ảnh nhân hóa): Mỗi độ xuân về, trăm hoa trong vườn lại đua nhau khoe sắc., Thời tiết mùa xuân thường ấm áp và có mưa phùn.."
+    },
+    {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_3",
       "level": "CAP_2_VONG_TRUONG",
-      "questionId": "k3_c1_chon_046",
-      "questionNumber": 896
-    },
-    {
       "type": "CHON",
-      "question": "Hãy chọn tất cả các câu có nhân hóa hiện tượng tự nhiên:",
-      "options": [
+      "questionId": "k3_c1_chon_047",
+      "questionNumber": 897,
+      "question": "Phân loại các câu sau vào 2 nhóm: Câu nhân hóa hiện tượng, thời gian và Câu không có hình ảnh nhân hóa:",
+      "words": [
         "Chị sấm đùng đoàng thị uy trên vòm trời tối sẫm.",
         "Những hạt mưa tinh nghịch nhảy nhót tung tăng trên mái tôn.",
         "Cơn gió mùa hạ thổi bay những chiếc lá khô rụng đầy sân.",
         "Bác sấm chớp gầm vang xé toạc màn đêm u tối.",
         "Mặt trời lặn sau rặng tre làng buổi hoàng hôn."
       ],
-      "answer": [
-        "Chị sấm đùng đoàng thị uy trên vòm trời tối sẫm.",
-        "Những hạt mưa tinh nghịch nhảy nhót tung tăng trên mái tôn.",
-        "Bác sấm chớp gầm vang xé toạc màn đêm u tối."
-      ],
-      "explanation": "Sấm và mưa được nhân hóa sinh động qua các từ ngữ xưng hô và tính cách tinh nghịch.",
+      "groups": {
+        "G1": "Câu nhân hóa hiện tượng, thời gian",
+        "G2": "Câu không có hình ảnh nhân hóa"
+      },
+      "answer": {
+        "G1": [
+          "Chị sấm đùng đoàng thị uy trên vòm trời tối sẫm.",
+          "Những hạt mưa tinh nghịch nhảy nhót tung tăng trên mái tôn.",
+          "Bác sấm chớp gầm vang xé toạc màn đêm u tối."
+        ],
+        "G2": [
+          "Cơn gió mùa hạ thổi bay những chiếc lá khô rụng đầy sân.",
+          "Mặt trời lặn sau rặng tre làng buổi hoàng hôn."
+        ]
+      },
+      "explanation": "Nhóm G1 (Câu nhân hóa hiện tượng, thời gian): Chị sấm đùng đoàng thị uy trên vòm trời tối sẫm., Những hạt mưa tinh nghịch nhảy nhót tung tăng trên mái tôn., Bác sấm chớp gầm vang xé toạc màn đêm u tối.. Nhóm G2 (Câu không có hình ảnh nhân hóa): Cơn gió mùa hạ thổi bay những chiếc lá khô rụng đầy sân., Mặt trời lặn sau rặng tre làng buổi hoàng hôn.."
+    },
+    {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_3",
       "level": "CAP_2_VONG_TRUONG",
-      "questionId": "k3_c1_chon_047",
-      "questionNumber": 897
-    },
-    {
       "type": "CHON",
-      "question": "Hãy chọn tất cả các câu thơ có sử dụng biện pháp nhân hóa:",
-      "options": [
+      "questionId": "k3_c1_chon_048",
+      "questionNumber": 898,
+      "question": "Phân loại các câu sau vào 2 nhóm: Câu có biện pháp nhân hóa và Câu không có biện pháp nhân hóa:",
+      "words": [
         "Cây dừa xanh tỏa nhiều tàu / Dang tay đón gió, gật đầu gọi trăng.",
         "Đêm hè hoa nở cùng sao / Tàu dừa - chiếc lược chải vào mây xanh.",
         "Buổi mai hôm ấy một buổi mai đầy sương thu và gió lạnh.",
         "Mầm non mắt lim dim / Vừa đón ánh nắng ấm.",
         "Chúng em đi học trên con đường làng thân thuộc."
       ],
-      "answer": [
-        "Cây dừa xanh tỏa nhiều tàu / Dang tay đón gió, gật đầu gọi trăng.",
-        "Mầm non mắt lim dim / Vừa đón ánh nắng ấm."
-      ],
-      "explanation": "Cây dừa dang tay đón gió gật đầu gọi trăng; mầm non mắt lim dim là các hình ảnh nhân hóa.",
+      "groups": {
+        "G1": "Câu có biện pháp nhân hóa",
+        "G2": "Câu không có biện pháp nhân hóa"
+      },
+      "answer": {
+        "G1": [
+          "Cây dừa xanh tỏa nhiều tàu / Dang tay đón gió, gật đầu gọi trăng.",
+          "Mầm non mắt lim dim / Vừa đón ánh nắng ấm."
+        ],
+        "G2": [
+          "Đêm hè hoa nở cùng sao / Tàu dừa - chiếc lược chải vào mây xanh.",
+          "Buổi mai hôm ấy một buổi mai đầy sương thu và gió lạnh.",
+          "Chúng em đi học trên con đường làng thân thuộc."
+        ]
+      },
+      "explanation": "Nhóm G1 (Câu có biện pháp nhân hóa): Cây dừa xanh tỏa nhiều tàu / Dang tay đón gió, gật đầu gọi trăng., Mầm non mắt lim dim / Vừa đón ánh nắng ấm.. Nhóm G2 (Câu không có biện pháp nhân hóa): Đêm hè hoa nở cùng sao / Tàu dừa - chiếc lược chải vào mây xanh., Buổi mai hôm ấy một buổi mai đầy sương thu và gió lạnh., Chúng em đi học trên con đường làng thân thuộc.."
+    },
+    {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_3",
       "level": "CAP_2_VONG_TRUONG",
-      "questionId": "k3_c1_chon_048",
-      "questionNumber": 898
-    },
-    {
       "type": "CHON",
-      "question": "Hãy chọn tất cả các câu nhân hóa đồ vật trong lớp học:",
-      "options": [
+      "questionId": "k3_c1_chon_049",
+      "questionNumber": 899,
+      "question": "Phân loại các câu sau vào 2 nhóm: Câu nhân hóa đồ vật và Câu không nhân hóa đồ vật:",
+      "words": [
         "Chiếc bảng đen mỉm cười đón nhận từng dòng chữ trắng tinh khôi.",
         "Những cuốn sách nằm ngoan ngoãn chờ bàn tay nhỏ lật mở.",
         "Thước kẻ đang nằm ngay ngắn bên trong hộp bút chì màu.",
         "Cây bút mực vui vẻ lướt nhẹ trên từng trang giấy thơm tho.",
         "Chúng em trân trọng và giữ gìn đồ dùng học tập cẩn thận."
       ],
-      "answer": [
-        "Chiếc bảng đen mỉm cười đón nhận từng dòng chữ trắng tinh khôi.",
-        "Những cuốn sách nằm ngoan ngoãn chờ bàn tay nhỏ lật mở.",
-        "Cây bút mực vui vẻ lướt nhẹ trên từng trang giấy thơm tho."
-      ],
-      "explanation": "Bảng mỉm cười, sách nằm ngoan ngoãn, bút vui vẻ lướt nhẹ là các hành động nhân hóa.",
+      "groups": {
+        "G1": "Câu nhân hóa đồ vật",
+        "G2": "Câu không nhân hóa đồ vật"
+      },
+      "answer": {
+        "G1": [
+          "Chiếc bảng đen mỉm cười đón nhận từng dòng chữ trắng tinh khôi.",
+          "Những cuốn sách nằm ngoan ngoãn chờ bàn tay nhỏ lật mở.",
+          "Cây bút mực vui vẻ lướt nhẹ trên từng trang giấy thơm tho."
+        ],
+        "G2": [
+          "Thước kẻ đang nằm ngay ngắn bên trong hộp bút chì màu.",
+          "Chúng em trân trọng và giữ gìn đồ dùng học tập cẩn thận."
+        ]
+      },
+      "explanation": "Nhóm G1 (Câu nhân hóa đồ vật): Chiếc bảng đen mỉm cười đón nhận từng dòng chữ trắng tinh khôi., Những cuốn sách nằm ngoan ngoãn chờ bàn tay nhỏ lật mở., Cây bút mực vui vẻ lướt nhẹ trên từng trang giấy thơm tho.. Nhóm G2 (Câu không nhân hóa đồ vật): Thước kẻ đang nằm ngay ngắn bên trong hộp bút chì màu., Chúng em trân trọng và giữ gìn đồ dùng học tập cẩn thận.."
+    },
+    {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_3",
       "level": "CAP_2_VONG_TRUONG",
-      "questionId": "k3_c1_chon_049",
-      "questionNumber": 899
-    },
-    {
       "type": "CHON",
-      "question": "Hãy chọn tất cả các câu có nhân hóa thời gian, ngày đêm:",
-      "options": [
+      "questionId": "k3_c1_chon_050",
+      "questionNumber": 900,
+      "question": "Phân loại các câu sau vào 2 nhóm: Câu nhân hóa hiện tượng, thời gian và Câu không có hình ảnh nhân hóa:",
+      "words": [
         "Đêm rằm kéo tấm màn đen tuyền dát bạc lên khắp xóm thôn.",
         "Màn đêm buông xuống thật êm đềm và thanh tĩnh.",
         "Bình minh thức giấc, vươn vai đánh thức muôn loài đón ngày mới.",
         "Thời gian thấm thoát trôi qua thật nhanh chóng.",
         "Hoàng hôn đỏng đảnh khoác lên mình chiếc áo choàng màu tím biếc."
       ],
-      "answer": [
-        "Đêm rằm kéo tấm màn đen tuyền dát bạc lên khắp xóm thôn.",
-        "Bình minh thức giấc, vươn vai đánh thức muôn loài đón ngày mới.",
-        "Hoàng hôn đỏng đảnh khoác lên mình chiếc áo choàng màu tím biếc."
-      ],
-      "explanation": "Đêm rằm, bình minh, hoàng hôn được miêu tả như những con người có hành động và cảm xúc.",
+      "groups": {
+        "G1": "Câu nhân hóa hiện tượng, thời gian",
+        "G2": "Câu không có hình ảnh nhân hóa"
+      },
+      "answer": {
+        "G1": [
+          "Đêm rằm kéo tấm màn đen tuyền dát bạc lên khắp xóm thôn.",
+          "Bình minh thức giấc, vươn vai đánh thức muôn loài đón ngày mới.",
+          "Hoàng hôn đỏng đảnh khoác lên mình chiếc áo choàng màu tím biếc."
+        ],
+        "G2": [
+          "Màn đêm buông xuống thật êm đềm và thanh tĩnh.",
+          "Thời gian thấm thoát trôi qua thật nhanh chóng."
+        ]
+      },
+      "explanation": "Nhóm G1 (Câu nhân hóa hiện tượng, thời gian): Đêm rằm kéo tấm màn đen tuyền dát bạc lên khắp xóm thôn., Bình minh thức giấc, vươn vai đánh thức muôn loài đón ngày mới., Hoàng hôn đỏng đảnh khoác lên mình chiếc áo choàng màu tím biếc.. Nhóm G2 (Câu không có hình ảnh nhân hóa): Màn đêm buông xuống thật êm đềm và thanh tĩnh., Thời gian thấm thoát trôi qua thật nhanh chóng.."
+    },
+    {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_3",
       "level": "CAP_2_VONG_TRUONG",
-      "questionId": "k3_c1_chon_050",
-      "questionNumber": 900
-    },
-    {
       "type": "CHON",
-      "question": "Trong các từ dưới đây, hãy chọn tất cả các tên riêng người Việt Nam viết đúng quy tắc chính tả:",
-      "options": [
+      "questionId": "k3_c1_chon_051",
+      "questionNumber": 901,
+      "question": "Phân loại các từ ngữ sau vào 2 nhóm: Tên riêng người viết đúng chính tả và Tên riêng viết sai chính tả:",
+      "words": [
         "Lý Thường Kiệt",
         "Trần Quốc Toản",
         "Võ Thị Sáu",
@@ -8703,22 +9182,33 @@
         "Lê lợi",
         "bác Hồ"
       ],
-      "answer": [
-        "Lý Thường Kiệt",
-        "Trần Quốc Toản",
-        "Võ Thị Sáu"
-      ],
-      "explanation": "Các tên riêng này đều được viết hoa chữ cái đầu của mỗi tiếng tạo thành tên riêng.",
+      "groups": {
+        "G1": "Tên riêng người viết đúng chính tả",
+        "G2": "Tên riêng viết sai chính tả"
+      },
+      "answer": {
+        "G1": [
+          "Lý Thường Kiệt",
+          "Trần Quốc Toản",
+          "Võ Thị Sáu"
+        ],
+        "G2": [
+          "nguyễn huệ",
+          "Lê lợi",
+          "bác Hồ"
+        ]
+      },
+      "explanation": "Nhóm G1 (Tên riêng người viết đúng chính tả): Lý Thường Kiệt, Trần Quốc Toản, Võ Thị Sáu. Nhóm G2 (Tên riêng viết sai chính tả): nguyễn huệ, Lê lợi, bác Hồ."
+    },
+    {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_3",
       "level": "CAP_2_VONG_TRUONG",
-      "questionId": "k3_c1_chon_051",
-      "questionNumber": 901
-    },
-    {
       "type": "CHON",
-      "question": "Trong các từ dưới đây, hãy chọn tất cả các tên địa danh Việt Nam viết đúng quy tắc chính tả:",
-      "options": [
+      "questionId": "k3_c1_chon_052",
+      "questionNumber": 902,
+      "question": "Phân loại các từ ngữ sau vào 2 nhóm: Tên địa danh viết đúng chính tả và Tên địa danh viết sai chính tả:",
+      "words": [
         "Hà Nội",
         "Đà Nẵng",
         "Cần Thơ",
@@ -8726,22 +9216,33 @@
         "vịnh hạ Long",
         "sông hồng"
       ],
-      "answer": [
-        "Hà Nội",
-        "Đà Nẵng",
-        "Cần Thơ"
-      ],
-      "explanation": "Hà Nội, Đà Nẵng, Cần Thơ là tên địa danh viết hoa đúng chữ cái đầu mỗi tiếng.",
+      "groups": {
+        "G1": "Tên địa danh viết đúng chính tả",
+        "G2": "Tên địa danh viết sai chính tả"
+      },
+      "answer": {
+        "G1": [
+          "Hà Nội",
+          "Đà Nẵng",
+          "Cần Thơ"
+        ],
+        "G2": [
+          "thành phố huế",
+          "vịnh hạ Long",
+          "sông hồng"
+        ]
+      },
+      "explanation": "Nhóm G1 (Tên địa danh viết đúng chính tả): Hà Nội, Đà Nẵng, Cần Thơ. Nhóm G2 (Tên địa danh viết sai chính tả): thành phố huế, vịnh hạ Long, sông hồng."
+    },
+    {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_3",
       "level": "CAP_2_VONG_TRUONG",
-      "questionId": "k3_c1_chon_052",
-      "questionNumber": 902
-    },
-    {
       "type": "CHON",
-      "question": "Trong các từ dưới đây, hãy chọn tất cả các tên sông ngòi viết đúng quy tắc chính tả:",
-      "options": [
+      "questionId": "k3_c1_chon_053",
+      "questionNumber": 903,
+      "question": "Phân loại các từ ngữ sau vào 2 nhóm: Tên địa danh viết đúng chính tả và Tên địa danh viết sai chính tả:",
+      "words": [
         "Sông Hồng",
         "Sông Cửu Long",
         "Sông Hương",
@@ -8749,22 +9250,33 @@
         "sông đà",
         "sông mã"
       ],
-      "answer": [
-        "Sông Hồng",
-        "Sông Cửu Long",
-        "Sông Hương"
-      ],
-      "explanation": "Tên riêng của các con sông (Hồng, Cửu Long, Hương) phải viết hoa đúng quy tắc.",
+      "groups": {
+        "G1": "Tên địa danh viết đúng chính tả",
+        "G2": "Tên địa danh viết sai chính tả"
+      },
+      "answer": {
+        "G1": [
+          "Sông Hồng",
+          "Sông Cửu Long",
+          "Sông Hương"
+        ],
+        "G2": [
+          "sông Bạch đằng",
+          "sông đà",
+          "sông mã"
+        ]
+      },
+      "explanation": "Nhóm G1 (Tên địa danh viết đúng chính tả): Sông Hồng, Sông Cửu Long, Sông Hương. Nhóm G2 (Tên địa danh viết sai chính tả): sông Bạch đằng, sông đà, sông mã."
+    },
+    {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_3",
       "level": "CAP_2_VONG_TRUONG",
-      "questionId": "k3_c1_chon_053",
-      "questionNumber": 903
-    },
-    {
       "type": "CHON",
-      "question": "Trong các từ dưới đây, hãy chọn tất cả các tên di tích, danh lam thắng cảnh viết đúng quy tắc chính tả:",
-      "options": [
+      "questionId": "k3_c1_chon_054",
+      "questionNumber": 904,
+      "question": "Phân loại các từ ngữ sau vào 2 nhóm: Tên địa danh viết đúng chính tả và Tên địa danh viết sai chính tả:",
+      "words": [
         "Hồ Gươm",
         "Văn Miếu",
         "Cột cờ Hà Nội",
@@ -8772,22 +9284,33 @@
         "chùa một Cột",
         "cầu tràng Tiền"
       ],
-      "answer": [
-        "Hồ Gươm",
-        "Văn Miếu",
-        "Cột cờ Hà Nội"
-      ],
-      "explanation": "Hồ Gươm, Văn Miếu, Cột cờ Hà Nội là các danh lam di tích viết hoa chuẩn xác.",
+      "groups": {
+        "G1": "Tên địa danh viết đúng chính tả",
+        "G2": "Tên địa danh viết sai chính tả"
+      },
+      "answer": {
+        "G1": [
+          "Hồ Gươm",
+          "Văn Miếu",
+          "Cột cờ Hà Nội"
+        ],
+        "G2": [
+          "chợ bến Thành",
+          "chùa một Cột",
+          "cầu tràng Tiền"
+        ]
+      },
+      "explanation": "Nhóm G1 (Tên địa danh viết đúng chính tả): Hồ Gươm, Văn Miếu, Cột cờ Hà Nội. Nhóm G2 (Tên địa danh viết sai chính tả): chợ bến Thành, chùa một Cột, cầu tràng Tiền."
+    },
+    {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_3",
       "level": "CAP_2_VONG_TRUONG",
-      "questionId": "k3_c1_chon_054",
-      "questionNumber": 904
-    },
-    {
       "type": "CHON",
-      "question": "Trong các từ dưới đây, hãy chọn tất cả các tên dãy núi, đỉnh núi viết đúng chính tả:",
-      "options": [
+      "questionId": "k3_c1_chon_055",
+      "questionNumber": 905,
+      "question": "Phân loại các từ ngữ sau vào 2 nhóm: Tên địa danh viết đúng chính tả và Tên địa danh viết sai chính tả:",
+      "words": [
         "Núi Ba Vì",
         "Núi Ngự Bình",
         "Đỉnh Phan Xi Păng",
@@ -8795,22 +9318,33 @@
         "dãy trường sơn",
         "đỉnh núi"
       ],
-      "answer": [
-        "Núi Ba Vì",
-        "Núi Ngự Bình",
-        "Đỉnh Phan Xi Păng"
-      ],
-      "explanation": "Tên các địa danh tự nhiên Ba Vì, Ngự Bình, Phan Xi Păng viết hoa đúng quy tắc.",
+      "groups": {
+        "G1": "Tên địa danh viết đúng chính tả",
+        "G2": "Tên địa danh viết sai chính tả"
+      },
+      "answer": {
+        "G1": [
+          "Núi Ba Vì",
+          "Núi Ngự Bình",
+          "Đỉnh Phan Xi Păng"
+        ],
+        "G2": [
+          "núi sóc sơn",
+          "dãy trường sơn",
+          "đỉnh núi"
+        ]
+      },
+      "explanation": "Nhóm G1 (Tên địa danh viết đúng chính tả): Núi Ba Vì, Núi Ngự Bình, Đỉnh Phan Xi Păng. Nhóm G2 (Tên địa danh viết sai chính tả): núi sóc sơn, dãy trường sơn, đỉnh núi."
+    },
+    {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_3",
       "level": "CAP_2_VONG_TRUONG",
-      "questionId": "k3_c1_chon_055",
-      "questionNumber": 905
-    },
-    {
       "type": "CHON",
-      "question": "Trong các từ dưới đây, hãy chọn tất cả các tên anh hùng liệt sĩ viết đúng chính tả:",
-      "options": [
+      "questionId": "k3_c1_chon_056",
+      "questionNumber": 906,
+      "question": "Phân loại các từ ngữ sau vào 2 nhóm: Tên riêng người viết đúng chính tả và Tên riêng viết sai chính tả:",
+      "words": [
         "Kim Đồng",
         "Lê Văn Tám",
         "Bế Văn Đàn",
@@ -8818,22 +9352,33 @@
         "tô vĩnh diện",
         "phan đình giót"
       ],
-      "answer": [
-        "Kim Đồng",
-        "Lê Văn Tám",
-        "Bế Văn Đàn"
-      ],
-      "explanation": "Tên các vị anh hùng liệt sĩ viết hoa chuẩn xác tất cả chữ cái đầu mỗi tiếng.",
+      "groups": {
+        "G1": "Tên riêng người viết đúng chính tả",
+        "G2": "Tên riêng viết sai chính tả"
+      },
+      "answer": {
+        "G1": [
+          "Kim Đồng",
+          "Lê Văn Tám",
+          "Bế Văn Đàn"
+        ],
+        "G2": [
+          "phù đổng thiên vương",
+          "tô vĩnh diện",
+          "phan đình giót"
+        ]
+      },
+      "explanation": "Nhóm G1 (Tên riêng người viết đúng chính tả): Kim Đồng, Lê Văn Tám, Bế Văn Đàn. Nhóm G2 (Tên riêng viết sai chính tả): phù đổng thiên vương, tô vĩnh diện, phan đình giót."
+    },
+    {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_3",
       "level": "CAP_2_VONG_TRUONG",
-      "questionId": "k3_c1_chon_056",
-      "questionNumber": 906
-    },
-    {
       "type": "CHON",
-      "question": "Trong các từ dưới đây, hãy chọn tất cả các tên nhân vật truyền thuyết viết đúng chính tả:",
-      "options": [
+      "questionId": "k3_c1_chon_057",
+      "questionNumber": 907,
+      "question": "Phân loại các từ ngữ sau vào 2 nhóm: Tên riêng người viết đúng chính tả và Tên riêng viết sai chính tả:",
+      "words": [
         "Thánh Gióng",
         "Mai An Tiêm",
         "Sơn Tinh",
@@ -8841,22 +9386,33 @@
         "thủy tinh",
         "thạch sanh"
       ],
-      "answer": [
-        "Thánh Gióng",
-        "Mai An Tiêm",
-        "Sơn Tinh"
-      ],
-      "explanation": "Tên nhân vật truyền thuyết được viết hoa đúng chữ cái đầu.",
+      "groups": {
+        "G1": "Tên riêng người viết đúng chính tả",
+        "G2": "Tên riêng viết sai chính tả"
+      },
+      "answer": {
+        "G1": [
+          "Thánh Gióng",
+          "Mai An Tiêm",
+          "Sơn Tinh"
+        ],
+        "G2": [
+          "chử đồng tử",
+          "thủy tinh",
+          "thạch sanh"
+        ]
+      },
+      "explanation": "Nhóm G1 (Tên riêng người viết đúng chính tả): Thánh Gióng, Mai An Tiêm, Sơn Tinh. Nhóm G2 (Tên riêng viết sai chính tả): chử đồng tử, thủy tinh, thạch sanh."
+    },
+    {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_3",
       "level": "CAP_2_VONG_TRUONG",
-      "questionId": "k3_c1_chon_057",
-      "questionNumber": 907
-    },
-    {
       "type": "CHON",
-      "question": "Trong các từ dưới đây, hãy chọn tất cả các tên tỉnh, thành phố viết đúng chính tả:",
-      "options": [
+      "questionId": "k3_c1_chon_058",
+      "questionNumber": 908,
+      "question": "Phân loại các từ ngữ sau vào 2 nhóm: Tên địa danh viết đúng chính tả và Tên địa danh viết sai chính tả:",
+      "words": [
         "Quảng Ninh",
         "Nghệ An",
         "Lâm Đồng",
@@ -8864,22 +9420,33 @@
         "thanh hóa",
         "thừa thiên huế"
       ],
-      "answer": [
-        "Quảng Ninh",
-        "Nghệ An",
-        "Lâm Đồng"
-      ],
-      "explanation": "Quảng Ninh, Nghệ An, Lâm Đồng là các tỉnh thành viết hoa chuẩn xác.",
+      "groups": {
+        "G1": "Tên địa danh viết đúng chính tả",
+        "G2": "Tên địa danh viết sai chính tả"
+      },
+      "answer": {
+        "G1": [
+          "Quảng Ninh",
+          "Nghệ An",
+          "Lâm Đồng"
+        ],
+        "G2": [
+          "bắc kạn",
+          "thanh hóa",
+          "thừa thiên huế"
+        ]
+      },
+      "explanation": "Nhóm G1 (Tên địa danh viết đúng chính tả): Quảng Ninh, Nghệ An, Lâm Đồng. Nhóm G2 (Tên địa danh viết sai chính tả): bắc kạn, thanh hóa, thừa thiên huế."
+    },
+    {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_3",
       "level": "CAP_2_VONG_TRUONG",
-      "questionId": "k3_c1_chon_058",
-      "questionNumber": 908
-    },
-    {
       "type": "CHON",
-      "question": "Trong các từ dưới đây, hãy chọn tất cả các tên đảo, quần đảo viết đúng chính tả:",
-      "options": [
+      "questionId": "k3_c1_chon_059",
+      "questionNumber": 909,
+      "question": "Phân loại các từ ngữ sau vào 2 nhóm: Tên địa danh viết đúng chính tả và Tên địa danh viết sai chính tả:",
+      "words": [
         "Đảo Phú Quốc",
         "Quần đảo Hoàng Sa",
         "Quần đảo Trường Sa",
@@ -8887,374 +9454,545 @@
         "côn đảo",
         "hòn đảo"
       ],
-      "answer": [
-        "Đảo Phú Quốc",
-        "Quần đảo Hoàng Sa",
-        "Quần đảo Trường Sa"
-      ],
-      "explanation": "Phú Quốc, Hoàng Sa, Trường Sa là các tên riêng biển đảo thiêng liêng viết đúng chính tả.",
+      "groups": {
+        "G1": "Tên địa danh viết đúng chính tả",
+        "G2": "Tên địa danh viết sai chính tả"
+      },
+      "answer": {
+        "G1": [
+          "Đảo Phú Quốc",
+          "Quần đảo Hoàng Sa",
+          "Quần đảo Trường Sa"
+        ],
+        "G2": [
+          "đảo cát bà",
+          "côn đảo",
+          "hòn đảo"
+        ]
+      },
+      "explanation": "Nhóm G1 (Tên địa danh viết đúng chính tả): Đảo Phú Quốc, Quần đảo Hoàng Sa, Quần đảo Trường Sa. Nhóm G2 (Tên địa danh viết sai chính tả): đảo cát bà, côn đảo, hòn đảo."
+    },
+    {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_3",
       "level": "CAP_2_VONG_TRUONG",
-      "questionId": "k3_c1_chon_059",
-      "questionNumber": 909
-    },
-    
-    {
       "type": "CHON",
-      "question": "Hãy chọn tất cả các câu hỏi dùng để hỏi về thời gian:",
-      "options": [
+      "questionId": "k3_c1_chon_061",
+      "questionNumber": 911,
+      "question": "Phân loại các câu sau vào 2 nhóm: Câu hỏi về thời gian và Câu hỏi dạng khác:",
+      "words": [
         "Mấy giờ thì buổi lễ chào cờ bắt đầu?",
         "Khi nào trường mình tổ chức hội khỏe Phù Đổng?",
         "Bao giờ thì kì nghỉ hè của chúng mình đến?",
         "Quê hương của bạn ở tỉnh nào?",
         "Ai đang tưới hoa ngoài vườn trường?"
       ],
-      "answer": [
-        "Mấy giờ thì buổi lễ chào cờ bắt đầu?",
-        "Khi nào trường mình tổ chức hội khỏe Phù Đổng?",
-        "Bao giờ thì kì nghỉ hè của chúng mình đến?"
-      ],
-      "explanation": "Các từ nghi vấn 'mấy giờ', 'khi nào', 'bao giờ' dùng để hỏi mốc thời gian.",
+      "groups": {
+        "G1": "Câu hỏi về thời gian",
+        "G2": "Câu hỏi dạng khác"
+      },
+      "answer": {
+        "G1": [
+          "Mấy giờ thì buổi lễ chào cờ bắt đầu?",
+          "Khi nào trường mình tổ chức hội khỏe Phù Đổng?",
+          "Bao giờ thì kì nghỉ hè của chúng mình đến?"
+        ],
+        "G2": [
+          "Quê hương của bạn ở tỉnh nào?",
+          "Ai đang tưới hoa ngoài vườn trường?"
+        ]
+      },
+      "explanation": "Nhóm G1 (Câu hỏi về thời gian): Mấy giờ thì buổi lễ chào cờ bắt đầu?, Khi nào trường mình tổ chức hội khỏe Phù Đổng?, Bao giờ thì kì nghỉ hè của chúng mình đến?. Nhóm G2 (Câu hỏi dạng khác): Quê hương của bạn ở tỉnh nào?, Ai đang tưới hoa ngoài vườn trường?."
+    },
+    {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_3",
       "level": "CAP_2_VONG_TRUONG",
-      "questionId": "k3_c1_chon_061",
-      "questionNumber": 911
-    },
-    {
       "type": "CHON",
-      "question": "Hãy chọn tất cả các câu hỏi dùng để hỏi về địa điểm, nơi chốn:",
-      "options": [
+      "questionId": "k3_c1_chon_062",
+      "questionNumber": 912,
+      "question": "Phân loại các câu sau vào 2 nhóm: Câu hỏi về địa điểm, nơi chốn và Câu hỏi dạng khác:",
+      "words": [
         "Thư viện của trường nằm ở tầng mấy?",
         "Bạn cất cuốn sách Tiếng Việt ở đâu?",
         "Quê nội của bạn ở miền quê nào?",
         "Hôm nay bạn có làm bài tập về nhà không?",
         "Tại sao chim én lại bay về phương nam tránh rét?"
       ],
-      "answer": [
-        "Thư viện của trường nằm ở tầng mấy?",
-        "Bạn cất cuốn sách Tiếng Việt ở đâu?",
-        "Quê nội của bạn ở miền quê nào?"
-      ],
-      "explanation": "Các cụm từ 'ở tầng mấy', 'ở đâu', 'ở miền quê nào' dùng để hỏi nơi chốn.",
+      "groups": {
+        "G1": "Câu hỏi về địa điểm, nơi chốn",
+        "G2": "Câu hỏi dạng khác"
+      },
+      "answer": {
+        "G1": [
+          "Thư viện của trường nằm ở tầng mấy?",
+          "Bạn cất cuốn sách Tiếng Việt ở đâu?",
+          "Quê nội của bạn ở miền quê nào?"
+        ],
+        "G2": [
+          "Hôm nay bạn có làm bài tập về nhà không?",
+          "Tại sao chim én lại bay về phương nam tránh rét?"
+        ]
+      },
+      "explanation": "Nhóm G1 (Câu hỏi về địa điểm, nơi chốn): Thư viện của trường nằm ở tầng mấy?, Bạn cất cuốn sách Tiếng Việt ở đâu?, Quê nội của bạn ở miền quê nào?. Nhóm G2 (Câu hỏi dạng khác): Hôm nay bạn có làm bài tập về nhà không?, Tại sao chim én lại bay về phương nam tránh rét?."
+    },
+    {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_3",
       "level": "CAP_2_VONG_TRUONG",
-      "questionId": "k3_c1_chon_062",
-      "questionNumber": 912
-    },
-    {
       "type": "CHON",
-      "question": "Hãy chọn tất cả các câu hỏi dùng để hỏi về nguyên nhân, lí do:",
-      "options": [
+      "questionId": "k3_c1_chon_063",
+      "questionNumber": 913,
+      "question": "Phân loại các câu sau vào 2 nhóm: Câu hỏi về nguyên nhân, lí do và Câu hỏi dạng khác:",
+      "words": [
         "Vì sao bạn lại đi học muộn sáng nay?",
         "Tại sao lá cây bàng mùa đông lại chuyển sang màu đỏ?",
         "Do đâu mà đất nước ta giành được độc lập?",
         "Ai là tác giả của bài thơ Hạt gạo làng ta?",
         "Trời hôm nay nhiều mây và có gió nhẹ."
       ],
-      "answer": [
-        "Vì sao bạn lại đi học muộn sáng nay?",
-        "Tại sao lá cây bàng mùa đông lại chuyển sang màu đỏ?",
-        "Do đâu mà đất nước ta giành được độc lập?"
-      ],
-      "explanation": "Các từ 'vì sao', 'tại sao', 'do đâu' dùng để hỏi nguyên nhân.",
+      "groups": {
+        "G1": "Câu hỏi về nguyên nhân, lí do",
+        "G2": "Câu hỏi dạng khác"
+      },
+      "answer": {
+        "G1": [
+          "Vì sao bạn lại đi học muộn sáng nay?",
+          "Tại sao lá cây bàng mùa đông lại chuyển sang màu đỏ?",
+          "Do đâu mà đất nước ta giành được độc lập?"
+        ],
+        "G2": [
+          "Ai là tác giả của bài thơ Hạt gạo làng ta?",
+          "Trời hôm nay nhiều mây và có gió nhẹ."
+        ]
+      },
+      "explanation": "Nhóm G1 (Câu hỏi về nguyên nhân, lí do): Vì sao bạn lại đi học muộn sáng nay?, Tại sao lá cây bàng mùa đông lại chuyển sang màu đỏ?, Do đâu mà đất nước ta giành được độc lập?. Nhóm G2 (Câu hỏi dạng khác): Ai là tác giả của bài thơ Hạt gạo làng ta?, Trời hôm nay nhiều mây và có gió nhẹ.."
+    },
+    {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_3",
       "level": "CAP_2_VONG_TRUONG",
-      "questionId": "k3_c1_chon_063",
-      "questionNumber": 913
-    },
-    {
       "type": "CHON",
-      "question": "Hãy chọn tất cả các câu hỏi dùng để hỏi về cách thức, phương pháp:",
-      "options": [
+      "questionId": "k3_c1_chon_064",
+      "questionNumber": 914,
+      "question": "Phân loại các câu sau vào 2 nhóm: Câu hỏi về cách thức, phương pháp và Câu hỏi dạng khác:",
+      "words": [
         "Làm thế nào để viết chữ đẹp và giữ vở luôn sạch sẽ?",
         "Bạn gấp chiếc máy bay giấy này bằng cách nào?",
         "Làm sao để chúng mình học tốt môn Tiếng Việt?",
         "Hôm nay là thứ mấy trong tuần?",
         "Thời tiết hôm nay thật mát mẻ và dễ chịu."
       ],
-      "answer": [
-        "Làm thế nào để viết chữ đẹp và giữ vở luôn sạch sẽ?",
-        "Bạn gấp chiếc máy bay giấy này bằng cách nào?",
-        "Làm sao để chúng mình học tốt môn Tiếng Việt?"
-      ],
-      "explanation": "Các từ 'làm thế nào', 'bằng cách nào', 'làm sao' dùng để hỏi cách thức thực hiện.",
+      "groups": {
+        "G1": "Câu hỏi về cách thức, phương pháp",
+        "G2": "Câu hỏi dạng khác"
+      },
+      "answer": {
+        "G1": [
+          "Làm thế nào để viết chữ đẹp và giữ vở luôn sạch sẽ?",
+          "Bạn gấp chiếc máy bay giấy này bằng cách nào?",
+          "Làm sao để chúng mình học tốt môn Tiếng Việt?"
+        ],
+        "G2": [
+          "Hôm nay là thứ mấy trong tuần?",
+          "Thời tiết hôm nay thật mát mẻ và dễ chịu."
+        ]
+      },
+      "explanation": "Nhóm G1 (Câu hỏi về cách thức, phương pháp): Làm thế nào để viết chữ đẹp và giữ vở luôn sạch sẽ?, Bạn gấp chiếc máy bay giấy này bằng cách nào?, Làm sao để chúng mình học tốt môn Tiếng Việt?. Nhóm G2 (Câu hỏi dạng khác): Hôm nay là thứ mấy trong tuần?, Thời tiết hôm nay thật mát mẻ và dễ chịu.."
+    },
+    {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_3",
       "level": "CAP_2_VONG_TRUONG",
-      "questionId": "k3_c1_chon_064",
-      "questionNumber": 914
-    },
-    {
       "type": "CHON",
-      "question": "Hãy chọn tất cả các câu hỏi dùng để hỏi về đặc điểm, tính chất:",
-      "options": [
+      "questionId": "k3_c1_chon_065",
+      "questionNumber": 915,
+      "question": "Phân loại các câu sau vào 2 nhóm: Câu hỏi về đặc điểm, tính chất và Câu hỏi dạng khác:",
+      "words": [
         "Bông hoa hồng nhung nở rộ có đẹp không?",
         "Tính tình của bạn lớp trưởng thế nào?",
         "Thời tiết mùa thu ở Sa Pa ra sao?",
         "Mẹ em đang nấu cơm dưới bếp.",
         "Bé Mai đang vẽ tranh ngôi nhà."
       ],
-      "answer": [
-        "Bông hoa hồng nhung nở rộ có đẹp không?",
-        "Tính tình của bạn lớp trưởng thế nào?",
-        "Thời tiết mùa thu ở Sa Pa ra sao?"
-      ],
-      "explanation": "Các từ 'có đẹp không', 'thế nào', 'ra sao' dùng để hỏi về đặc điểm, tính chất.",
+      "groups": {
+        "G1": "Câu hỏi về đặc điểm, tính chất",
+        "G2": "Câu hỏi dạng khác"
+      },
+      "answer": {
+        "G1": [
+          "Bông hoa hồng nhung nở rộ có đẹp không?",
+          "Tính tình của bạn lớp trưởng thế nào?",
+          "Thời tiết mùa thu ở Sa Pa ra sao?"
+        ],
+        "G2": [
+          "Mẹ em đang nấu cơm dưới bếp.",
+          "Bé Mai đang vẽ tranh ngôi nhà."
+        ]
+      },
+      "explanation": "Nhóm G1 (Câu hỏi về đặc điểm, tính chất): Bông hoa hồng nhung nở rộ có đẹp không?, Tính tình của bạn lớp trưởng thế nào?, Thời tiết mùa thu ở Sa Pa ra sao?. Nhóm G2 (Câu hỏi dạng khác): Mẹ em đang nấu cơm dưới bếp., Bé Mai đang vẽ tranh ngôi nhà.."
+    },
+    {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_3",
       "level": "CAP_2_VONG_TRUONG",
-      "questionId": "k3_c1_chon_065",
-      "questionNumber": 915
-    },
-    {
       "type": "CHON",
-      "question": "Hãy chọn tất cả các câu hỏi dùng để hỏi về người hoặc sự vật:",
-      "options": [
+      "questionId": "k3_c1_chon_066",
+      "questionNumber": 916,
+      "question": "Phân loại các câu sau vào 2 nhóm: Câu hỏi về người hoặc sự vật và Câu hỏi dạng khác:",
+      "words": [
         "Ai là người đã dời đô về Thăng Long năm 1010?",
         "Đồ vật nào giúp em kẻ những đường thẳng ngay ngắn?",
         "Con vật nào cất tiếng gáy báo hiệu một ngày mới bắt đầu?",
         "Trời hôm nay nắng nhẹ và có gió thoảng.",
         "Mùa xuân trăm hoa đua nở rực rỡ."
       ],
-      "answer": [
-        "Ai là người đã dời đô về Thăng Long năm 1010?",
-        "Đồ vật nào giúp em kẻ những đường thẳng ngay ngắn?",
-        "Con vật nào cất tiếng gáy báo hiệu một ngày mới bắt đầu?"
-      ],
-      "explanation": "Các từ nghi vấn 'ai', 'đồ vật nào', 'con vật nào' dùng để hỏi người hoặc sự vật.",
+      "groups": {
+        "G1": "Câu hỏi về người hoặc sự vật",
+        "G2": "Câu hỏi dạng khác"
+      },
+      "answer": {
+        "G1": [
+          "Ai là người đã dời đô về Thăng Long năm 1010?",
+          "Đồ vật nào giúp em kẻ những đường thẳng ngay ngắn?",
+          "Con vật nào cất tiếng gáy báo hiệu một ngày mới bắt đầu?"
+        ],
+        "G2": [
+          "Trời hôm nay nắng nhẹ và có gió thoảng.",
+          "Mùa xuân trăm hoa đua nở rực rỡ."
+        ]
+      },
+      "explanation": "Nhóm G1 (Câu hỏi về người hoặc sự vật): Ai là người đã dời đô về Thăng Long năm 1010?, Đồ vật nào giúp em kẻ những đường thẳng ngay ngắn?, Con vật nào cất tiếng gáy báo hiệu một ngày mới bắt đầu?. Nhóm G2 (Câu hỏi dạng khác): Trời hôm nay nắng nhẹ và có gió thoảng., Mùa xuân trăm hoa đua nở rực rỡ.."
+    },
+    {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_3",
       "level": "CAP_2_VONG_TRUONG",
-      "questionId": "k3_c1_chon_066",
-      "questionNumber": 916
-    },
-    {
       "type": "CHON",
-      "question": "Hãy chọn tất cả các câu hỏi thể hiện sự quan tâm, thăm hỏi:",
-      "options": [
+      "questionId": "k3_c1_chon_067",
+      "questionNumber": 917,
+      "question": "Phân loại các câu sau vào 2 nhóm: Câu hỏi quan tâm, thăm hỏi và Câu kể hoặc câu cảm thông thường:",
+      "words": [
         "Hôm nay bạn cảm thấy trong người đã khỏe hơn chưa?",
         "Bà nội có cần cháu xoa bóp vai giúp không?",
         "Em có gặp khó khăn gì trong bài học này không?",
         "Ngày mai cả lớp được nghỉ học thứ Bảy.",
         "Ôi, bức tranh này bạn vẽ khéo quá!"
       ],
-      "answer": [
-        "Hôm nay bạn cảm thấy trong người đã khỏe hơn chưa?",
-        "Bà nội có cần cháu xoa bóp vai giúp không?",
-        "Em có gặp khó khăn gì trong bài học này không?"
-      ],
-      "explanation": "Các câu hỏi này dùng để thăm hỏi, bày tỏ sự quan tâm chân thành.",
+      "groups": {
+        "G1": "Câu hỏi quan tâm, thăm hỏi",
+        "G2": "Câu kể hoặc câu cảm thông thường"
+      },
+      "answer": {
+        "G1": [
+          "Hôm nay bạn cảm thấy trong người đã khỏe hơn chưa?",
+          "Bà nội có cần cháu xoa bóp vai giúp không?",
+          "Em có gặp khó khăn gì trong bài học này không?"
+        ],
+        "G2": [
+          "Ngày mai cả lớp được nghỉ học thứ Bảy.",
+          "Ôi, bức tranh này bạn vẽ khéo quá!"
+        ]
+      },
+      "explanation": "Nhóm G1 (Câu hỏi quan tâm, thăm hỏi): Hôm nay bạn cảm thấy trong người đã khỏe hơn chưa?, Bà nội có cần cháu xoa bóp vai giúp không?, Em có gặp khó khăn gì trong bài học này không?. Nhóm G2 (Câu kể hoặc câu cảm thông thường): Ngày mai cả lớp được nghỉ học thứ Bảy., Ôi, bức tranh này bạn vẽ khéo quá!."
+    },
+    {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_3",
       "level": "CAP_2_VONG_TRUONG",
-      "questionId": "k3_c1_chon_067",
-      "questionNumber": 917
-    },
-    {
       "type": "CHON",
-      "question": "Hãy chọn tất cả các câu hỏi lựa chọn:",
-      "options": [
+      "questionId": "k3_c1_chon_068",
+      "questionNumber": 918,
+      "question": "Phân loại các câu sau vào 2 nhóm: Câu hỏi lựa chọn và Câu hỏi dạng khác:",
+      "words": [
         "Bạn thích học môn Mỹ thuật hay môn Âm nhạc hơn?",
         "Chiều nay chúng mình đá cầu hay nhảy dây?",
         "Bạn muốn đọc truyện cổ tích hay sách khoa học thiếu nhi?",
         "Cả lớp chúng em cùng nhau đọc sách báo tại góc thư viện.",
         "Mỗi ngày đến trường là một ngày vui."
       ],
-      "answer": [
-        "Bạn thích học môn Mỹ thuật hay môn Âm nhạc hơn?",
-        "Chiều nay chúng mình đá cầu hay nhảy dây?",
-        "Bạn muốn đọc truyện cổ tích hay sách khoa học thiếu nhi?"
-      ],
-      "explanation": "Các câu hỏi chứa từ nối 'hay' để người nghe đưa ra sự lựa chọn.",
+      "groups": {
+        "G1": "Câu hỏi lựa chọn",
+        "G2": "Câu hỏi dạng khác"
+      },
+      "answer": {
+        "G1": [
+          "Bạn thích học môn Mỹ thuật hay môn Âm nhạc hơn?",
+          "Chiều nay chúng mình đá cầu hay nhảy dây?",
+          "Bạn muốn đọc truyện cổ tích hay sách khoa học thiếu nhi?"
+        ],
+        "G2": [
+          "Cả lớp chúng em cùng nhau đọc sách báo tại góc thư viện.",
+          "Mỗi ngày đến trường là một ngày vui."
+        ]
+      },
+      "explanation": "Nhóm G1 (Câu hỏi lựa chọn): Bạn thích học môn Mỹ thuật hay môn Âm nhạc hơn?, Chiều nay chúng mình đá cầu hay nhảy dây?, Bạn muốn đọc truyện cổ tích hay sách khoa học thiếu nhi?. Nhóm G2 (Câu hỏi dạng khác): Cả lớp chúng em cùng nhau đọc sách báo tại góc thư viện., Mỗi ngày đến trường là một ngày vui.."
+    },
+    {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_3",
       "level": "CAP_2_VONG_TRUONG",
-      "questionId": "k3_c1_chon_068",
-      "questionNumber": 918
-    },
-    {
       "type": "CHON",
-      "question": "Hãy chọn tất cả các câu là câu kể (dùng để kể, tả, giới thiệu):",
-      "options": [
+      "questionId": "k3_c1_chon_069",
+      "questionNumber": 919,
+      "question": "Phân loại các câu sau vào 2 nhóm: Câu kể giới thiệu (Ai là gì?) và Câu mẫu khác hoặc câu hỏi, câu khiến:",
+      "words": [
         "Bác nông dân đang miệt mài cày ruộng trên cánh đồng quê.",
         "Mùa thu về, lá bàng chuyển sang màu đỏ rực rỡ.",
         "Thủ đô Hà Nội là trung tâm văn hóa của cả nước.",
         "Bạn đã làm xong bài tập về nhà chưa?",
         "Trời ơi, sao bạn lại bất cẩn như thế!"
       ],
-      "answer": [
-        "Bác nông dân đang miệt mài cày ruộng trên cánh đồng quê.",
-        "Mùa thu về, lá bàng chuyển sang màu đỏ rực rỡ.",
-        "Thủ đô Hà Nội là trung tâm văn hóa của cả nước."
-      ],
-      "explanation": "Ba câu trên là các câu kể (kể hoạt động, tả đặc điểm, giới thiệu sự vật).",
+      "groups": {
+        "G1": "Câu kể giới thiệu (Ai là gì?)",
+        "G2": "Câu mẫu khác hoặc câu hỏi, câu khiến"
+      },
+      "answer": {
+        "G1": [
+          "Bác nông dân đang miệt mài cày ruộng trên cánh đồng quê.",
+          "Mùa thu về, lá bàng chuyển sang màu đỏ rực rỡ.",
+          "Thủ đô Hà Nội là trung tâm văn hóa của cả nước."
+        ],
+        "G2": [
+          "Bạn đã làm xong bài tập về nhà chưa?",
+          "Trời ơi, sao bạn lại bất cẩn như thế!"
+        ]
+      },
+      "explanation": "Nhóm G1 (Câu kể giới thiệu (Ai là gì?)): Bác nông dân đang miệt mài cày ruộng trên cánh đồng quê., Mùa thu về, lá bàng chuyển sang màu đỏ rực rỡ., Thủ đô Hà Nội là trung tâm văn hóa của cả nước.. Nhóm G2 (Câu mẫu khác hoặc câu hỏi, câu khiến): Bạn đã làm xong bài tập về nhà chưa?, Trời ơi, sao bạn lại bất cẩn như thế!."
+    },
+    {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_3",
       "level": "CAP_2_VONG_TRUONG",
-      "questionId": "k3_c1_chon_069",
-      "questionNumber": 919
-    },
-    {
       "type": "CHON",
-      "question": "Hãy chọn tất cả các câu kể thuộc mẫu câu 'Ai là gì?':",
-      "options": [
+      "questionId": "k3_c1_chon_070",
+      "questionNumber": 920,
+      "question": "Phân loại các câu sau vào 2 nhóm: Câu kể giới thiệu (Ai là gì?) và Câu mẫu khác hoặc câu hỏi, câu khiến:",
+      "words": [
         "Bố em là kĩ sư xây dựng công trình.",
         "Trường Tiểu học Kim Đồng là ngôi trường đạt chuẩn quốc gia.",
         "Bác Hồ là vị lãnh tụ kính yêu của dân tộc Việt Nam.",
         "Bé Mai đang chăm chỉ tập viết chữ.",
         "Bầu trời hôm nay rất trong xanh và cao vút."
       ],
-      "answer": [
-        "Bố em là kĩ sư xây dựng công trình.",
-        "Trường Tiểu học Kim Đồng là ngôi trường đạt chuẩn quốc gia.",
-        "Bác Hồ là vị lãnh tụ kính yêu của dân tộc Việt Nam."
-      ],
-      "explanation": "Cả ba câu trên đều có từ 'là' nối chủ ngữ và vị ngữ dùng để giới thiệu, nhận định.",
+      "groups": {
+        "G1": "Câu kể giới thiệu (Ai là gì?)",
+        "G2": "Câu mẫu khác hoặc câu hỏi, câu khiến"
+      },
+      "answer": {
+        "G1": [
+          "Bố em là kĩ sư xây dựng công trình.",
+          "Trường Tiểu học Kim Đồng là ngôi trường đạt chuẩn quốc gia.",
+          "Bác Hồ là vị lãnh tụ kính yêu của dân tộc Việt Nam."
+        ],
+        "G2": [
+          "Bé Mai đang chăm chỉ tập viết chữ.",
+          "Bầu trời hôm nay rất trong xanh và cao vút."
+        ]
+      },
+      "explanation": "Nhóm G1 (Câu kể giới thiệu (Ai là gì?)): Bố em là kĩ sư xây dựng công trình., Trường Tiểu học Kim Đồng là ngôi trường đạt chuẩn quốc gia., Bác Hồ là vị lãnh tụ kính yêu của dân tộc Việt Nam.. Nhóm G2 (Câu mẫu khác hoặc câu hỏi, câu khiến): Bé Mai đang chăm chỉ tập viết chữ., Bầu trời hôm nay rất trong xanh và cao vút.."
+    },
+    {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_3",
       "level": "CAP_2_VONG_TRUONG",
-      "questionId": "k3_c1_chon_070",
-      "questionNumber": 920
-    },
-    {
       "type": "CHON",
-      "question": "Hãy chọn tất cả các câu kể thuộc mẫu câu 'Ai làm gì?':",
-      "options": [
+      "questionId": "k3_c1_chon_071",
+      "questionNumber": 921,
+      "question": "Phân loại các câu sau vào 2 nhóm: Câu kể hoạt động (Ai làm gì?) và Câu mẫu khác hoặc câu hỏi:",
+      "words": [
         "Chúng em đang chăm chỉ quét dọn sân trường.",
         "Mẹ em tỉ mỉ nêm nếm gia vị cho nồi canh ấm cúng.",
         "Các chú bộ đội ngày đêm canh giữ vùng biển đảo quê hương.",
         "Mái tóc của bà nội em đã bạc trắng như cước.",
         "Chiếc bàn học của em rất gọn gàng và ngăn nắp."
       ],
-      "answer": [
-        "Chúng em đang chăm chỉ quét dọn sân trường.",
-        "Mẹ em tỉ mỉ nêm nếm gia vị cho nồi canh ấm cúng.",
-        "Các chú bộ đội ngày đêm canh giữ vùng biển đảo quê hương."
-      ],
-      "explanation": "Các câu này nêu hoạt động của con người ('quét dọn', 'nêm nếm', 'canh giữ').",
+      "groups": {
+        "G1": "Câu kể hoạt động (Ai làm gì?)",
+        "G2": "Câu mẫu khác hoặc câu hỏi"
+      },
+      "answer": {
+        "G1": [
+          "Chúng em đang chăm chỉ quét dọn sân trường.",
+          "Mẹ em tỉ mỉ nêm nếm gia vị cho nồi canh ấm cúng.",
+          "Các chú bộ đội ngày đêm canh giữ vùng biển đảo quê hương."
+        ],
+        "G2": [
+          "Mái tóc của bà nội em đã bạc trắng như cước.",
+          "Chiếc bàn học của em rất gọn gàng và ngăn nắp."
+        ]
+      },
+      "explanation": "Nhóm G1 (Câu kể hoạt động (Ai làm gì?)): Chúng em đang chăm chỉ quét dọn sân trường., Mẹ em tỉ mỉ nêm nếm gia vị cho nồi canh ấm cúng., Các chú bộ đội ngày đêm canh giữ vùng biển đảo quê hương.. Nhóm G2 (Câu mẫu khác hoặc câu hỏi): Mái tóc của bà nội em đã bạc trắng như cước., Chiếc bàn học của em rất gọn gàng và ngăn nắp.."
+    },
+    {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_3",
       "level": "CAP_2_VONG_TRUONG",
-      "questionId": "k3_c1_chon_071",
-      "questionNumber": 921
-    },
-    {
       "type": "CHON",
-      "question": "Hãy chọn tất cả các câu kể thuộc mẫu câu 'Ai thế nào?':",
-      "options": [
+      "questionId": "k3_c1_chon_072",
+      "questionNumber": 922,
+      "question": "Phân loại các câu sau vào 2 nhóm: Câu kể đặc điểm (Ai thế nào?) và Câu mẫu khác (Ai là gì, Ai làm gì):",
+      "words": [
         "Bầu trời mùa thu trong xanh và cao vời vợi.",
         "Những bông hoa hồng trong vườn tỏa hương thơm ngát.",
         "Bạn Lan rất ngoan ngoãn và chăm chỉ học tập.",
         "Bố em đang đọc báo trong phòng khách.",
         "Mẹ em là giáo viên dạy học ở trường làng."
       ],
-      "answer": [
-        "Bầu trời mùa thu trong xanh và cao vời vợi.",
-        "Những bông hoa hồng trong vườn tỏa hương thơm ngát.",
-        "Bạn Lan rất ngoan ngoãn và chăm chỉ học tập."
-      ],
-      "explanation": "Các câu này miêu tả đặc điểm, trạng thái của sự vật và con người.",
+      "groups": {
+        "G1": "Câu kể đặc điểm (Ai thế nào?)",
+        "G2": "Câu mẫu khác (Ai là gì, Ai làm gì)"
+      },
+      "answer": {
+        "G1": [
+          "Bầu trời mùa thu trong xanh và cao vời vợi.",
+          "Những bông hoa hồng trong vườn tỏa hương thơm ngát.",
+          "Bạn Lan rất ngoan ngoãn và chăm chỉ học tập."
+        ],
+        "G2": [
+          "Bố em đang đọc báo trong phòng khách.",
+          "Mẹ em là giáo viên dạy học ở trường làng."
+        ]
+      },
+      "explanation": "Nhóm G1 (Câu kể đặc điểm (Ai thế nào?)): Bầu trời mùa thu trong xanh và cao vời vợi., Những bông hoa hồng trong vườn tỏa hương thơm ngát., Bạn Lan rất ngoan ngoãn và chăm chỉ học tập.. Nhóm G2 (Câu mẫu khác (Ai là gì, Ai làm gì)): Bố em đang đọc báo trong phòng khách., Mẹ em là giáo viên dạy học ở trường làng.."
+    },
+    {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_3",
       "level": "CAP_2_VONG_TRUONG",
-      "questionId": "k3_c1_chon_072",
-      "questionNumber": 922
-    },
-    {
       "type": "CHON",
-      "question": "Hãy chọn tất cả các câu kể miêu tả vẻ đẹp của thiên nhiên quê hương:",
-      "options": [
+      "questionId": "k3_c1_chon_073",
+      "questionNumber": 923,
+      "question": "Phân loại các câu sau vào 2 nhóm: Câu kể tả đặc điểm cảnh vật và Câu kể dạng khác hoặc câu hỏi:",
+      "words": [
         "Dòng sông quê em hiền hòa uốn lượn bên bờ bãi xanh tươi.",
         "Cánh đồng lúa chín vàng rực rỡ như một dải lụa mềm vắt ngang làng.",
         "Không khí buổi sớm mai nơi thôn quê thật trong lành và mát mẻ.",
         "Bạn có nhìn thấy những cánh cò trắng đang bay lượn không?",
         "Ôi, bức tranh phong cảnh đồng quê đẹp làm sao!"
       ],
-      "answer": [
-        "Dòng sông quê em hiền hòa uốn lượn bên bờ bãi xanh tươi.",
-        "Cánh đồng lúa chín vàng rực rỡ như một dải lụa mềm vắt ngang làng.",
-        "Không khí buổi sớm mai nơi thôn quê thật trong lành và mát mẻ."
-      ],
-      "explanation": "Ba câu trên là câu kể dùng để miêu tả đặc điểm cảnh vật làng quê.",
+      "groups": {
+        "G1": "Câu kể tả đặc điểm cảnh vật",
+        "G2": "Câu kể dạng khác hoặc câu hỏi"
+      },
+      "answer": {
+        "G1": [
+          "Dòng sông quê em hiền hòa uốn lượn bên bờ bãi xanh tươi.",
+          "Cánh đồng lúa chín vàng rực rỡ như một dải lụa mềm vắt ngang làng.",
+          "Không khí buổi sớm mai nơi thôn quê thật trong lành và mát mẻ."
+        ],
+        "G2": [
+          "Bạn có nhìn thấy những cánh cò trắng đang bay lượn không?",
+          "Ôi, bức tranh phong cảnh đồng quê đẹp làm sao!"
+        ]
+      },
+      "explanation": "Nhóm G1 (Câu kể tả đặc điểm cảnh vật): Dòng sông quê em hiền hòa uốn lượn bên bờ bãi xanh tươi., Cánh đồng lúa chín vàng rực rỡ như một dải lụa mềm vắt ngang làng., Không khí buổi sớm mai nơi thôn quê thật trong lành và mát mẻ.. Nhóm G2 (Câu kể dạng khác hoặc câu hỏi): Bạn có nhìn thấy những cánh cò trắng đang bay lượn không?, Ôi, bức tranh phong cảnh đồng quê đẹp làm sao!."
+    },
+    {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_3",
       "level": "CAP_2_VONG_TRUONG",
-      "questionId": "k3_c1_chon_073",
-      "questionNumber": 923
-    },
-    {
       "type": "CHON",
-      "question": "Hãy chọn tất cả các câu kể về các hoạt động ở trường học:",
-      "options": [
+      "questionId": "k3_c1_chon_074",
+      "questionNumber": 924,
+      "question": "Phân loại các câu sau vào 2 nhóm: Câu kể hoạt động (Ai làm gì?) và Câu mẫu khác hoặc câu hỏi:",
+      "words": [
         "Học sinh toàn trường tập trung nghiêm trang dự lễ chào cờ đầu tuần.",
         "Đội thiếu niên tiền phong sôi nổi tổ chức hội thi Nghi thức Đội.",
         "Chúng em hào hứng tham gia các trò chơi dân gian vào giờ ra chơi.",
         "Khi nào trường mình tổ chức đi dã ngoại tham quan di tích lịch sử?",
         "Bạn hãy giữ trật tự trong giờ học nhé!"
       ],
-      "answer": [
-        "Học sinh toàn trường tập trung nghiêm trang dự lễ chào cờ đầu tuần.",
-        "Đội thiếu niên tiền phong sôi nổi tổ chức hội thi Nghi thức Đội.",
-        "Chúng em hào hứng tham gia các trò chơi dân gian vào giờ ra chơi."
-      ],
-      "explanation": "Ba câu trên là các câu kể về những hoạt động học tập, sinh hoạt ở trường.",
+      "groups": {
+        "G1": "Câu kể hoạt động (Ai làm gì?)",
+        "G2": "Câu mẫu khác hoặc câu hỏi"
+      },
+      "answer": {
+        "G1": [
+          "Học sinh toàn trường tập trung nghiêm trang dự lễ chào cờ đầu tuần.",
+          "Đội thiếu niên tiền phong sôi nổi tổ chức hội thi Nghi thức Đội.",
+          "Chúng em hào hứng tham gia các trò chơi dân gian vào giờ ra chơi."
+        ],
+        "G2": [
+          "Khi nào trường mình tổ chức đi dã ngoại tham quan di tích lịch sử?",
+          "Bạn hãy giữ trật tự trong giờ học nhé!"
+        ]
+      },
+      "explanation": "Nhóm G1 (Câu kể hoạt động (Ai làm gì?)): Học sinh toàn trường tập trung nghiêm trang dự lễ chào cờ đầu tuần., Đội thiếu niên tiền phong sôi nổi tổ chức hội thi Nghi thức Đội., Chúng em hào hứng tham gia các trò chơi dân gian vào giờ ra chơi.. Nhóm G2 (Câu mẫu khác hoặc câu hỏi): Khi nào trường mình tổ chức đi dã ngoại tham quan di tích lịch sử?, Bạn hãy giữ trật tự trong giờ học nhé!."
+    },
+    {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_3",
       "level": "CAP_2_VONG_TRUONG",
-      "questionId": "k3_c1_chon_074",
-      "questionNumber": 924
-    },
-    {
       "type": "CHON",
-      "question": "Hãy chọn tất cả các câu kể về tình cảm gia đình ấm áp:",
-      "options": [
+      "questionId": "k3_c1_chon_075",
+      "questionNumber": 925,
+      "question": "Phân loại các câu sau vào 2 nhóm: Câu kể tình cảm gia đình và Câu kể dạng khác:",
+      "words": [
         "Mỗi buổi tối, cả gia đình em lại quây quần bên mâm cơm ấm cúng.",
         "Bà nội ân cần quạt mát và ru cháu ngủ trong những trưa hè oi ả.",
         "Bố mẹ luôn chăm lo chu đáo cho từng bữa ăn giấc ngủ của chúng em.",
         "Bố mẹ có mệt sau một ngày dài làm việc vất vả không?",
         "Con chúc bố mẹ luôn mạnh khỏe và vui vẻ!"
       ],
-      "answer": [
-        "Mỗi buổi tối, cả gia đình em lại quây quần bên mâm cơm ấm cúng.",
-        "Bà nội ân cần quạt mát và ru cháu ngủ trong những trưa hè oi ả.",
-        "Bố mẹ luôn chăm lo chu đáo cho từng bữa ăn giấc ngủ của chúng em."
-      ],
-      "explanation": "Ba câu trên kể lại những nét sinh hoạt đầm ấm, yêu thương trong gia đình.",
+      "groups": {
+        "G1": "Câu kể tình cảm gia đình",
+        "G2": "Câu kể dạng khác"
+      },
+      "answer": {
+        "G1": [
+          "Mỗi buổi tối, cả gia đình em lại quây quần bên mâm cơm ấm cúng.",
+          "Bà nội ân cần quạt mát và ru cháu ngủ trong những trưa hè oi ả.",
+          "Bố mẹ luôn chăm lo chu đáo cho từng bữa ăn giấc ngủ của chúng em."
+        ],
+        "G2": [
+          "Bố mẹ có mệt sau một ngày dài làm việc vất vả không?",
+          "Con chúc bố mẹ luôn mạnh khỏe và vui vẻ!"
+        ]
+      },
+      "explanation": "Nhóm G1 (Câu kể tình cảm gia đình): Mỗi buổi tối, cả gia đình em lại quây quần bên mâm cơm ấm cúng., Bà nội ân cần quạt mát và ru cháu ngủ trong những trưa hè oi ả., Bố mẹ luôn chăm lo chu đáo cho từng bữa ăn giấc ngủ của chúng em.. Nhóm G2 (Câu kể dạng khác): Bố mẹ có mệt sau một ngày dài làm việc vất vả không?, Con chúc bố mẹ luôn mạnh khỏe và vui vẻ!."
+    },
+    {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_3",
       "level": "CAP_2_VONG_TRUONG",
-      "questionId": "k3_c1_chon_075",
-      "questionNumber": 925
-    },
-    {
       "type": "CHON",
-      "question": "Hãy chọn tất cả các câu kể nêu lên bài học đạo đức, lối sống:",
-      "options": [
+      "questionId": "k3_c1_chon_076",
+      "questionNumber": 926,
+      "question": "Phân loại các câu sau vào 2 nhóm: Câu kể bài học đạo đức và Câu kể dạng khác:",
+      "words": [
         "Lòng trung thực là phẩm chất vô cùng quý giá của mỗi con người.",
         "Biết ơn cha mẹ và thầy cô là đạo lý muôn đời của dân tộc ta.",
         "Sống hòa thuận và giúp đỡ bạn bè giúp tình bạn thêm gắn bó bền chặt.",
         "Chúng mình cùng nhau cố gắng học giỏi để cha mẹ vui lòng nhé!",
         "Bạn đã làm được việc tốt nào giúp đỡ người khác hôm nay chưa?"
       ],
-      "answer": [
-        "Lòng trung thực là phẩm chất vô cùng quý giá của mỗi con người.",
-        "Biết ơn cha mẹ và thầy cô là đạo lý muôn đời của dân tộc ta.",
-        "Sống hòa thuận và giúp đỡ bạn bè giúp tình bạn thêm gắn bó bền chặt."
-      ],
-      "explanation": "Ba câu trên là câu kể dùng để nêu nhận định, bài học về đạo đức và nhân cách.",
+      "groups": {
+        "G1": "Câu kể bài học đạo đức",
+        "G2": "Câu kể dạng khác"
+      },
+      "answer": {
+        "G1": [
+          "Lòng trung thực là phẩm chất vô cùng quý giá của mỗi con người.",
+          "Biết ơn cha mẹ và thầy cô là đạo lý muôn đời của dân tộc ta.",
+          "Sống hòa thuận và giúp đỡ bạn bè giúp tình bạn thêm gắn bó bền chặt."
+        ],
+        "G2": [
+          "Chúng mình cùng nhau cố gắng học giỏi để cha mẹ vui lòng nhé!",
+          "Bạn đã làm được việc tốt nào giúp đỡ người khác hôm nay chưa?"
+        ]
+      },
+      "explanation": "Nhóm G1 (Câu kể bài học đạo đức): Lòng trung thực là phẩm chất vô cùng quý giá của mỗi con người., Biết ơn cha mẹ và thầy cô là đạo lý muôn đời của dân tộc ta., Sống hòa thuận và giúp đỡ bạn bè giúp tình bạn thêm gắn bó bền chặt.. Nhóm G2 (Câu kể dạng khác): Chúng mình cùng nhau cố gắng học giỏi để cha mẹ vui lòng nhé!, Bạn đã làm được việc tốt nào giúp đỡ người khác hôm nay chưa?."
+    },
+    {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_3",
       "level": "CAP_2_VONG_TRUONG",
-      "questionId": "k3_c1_chon_076",
-      "questionNumber": 926
-    },
-    {
-      "question": "Trong các từ dưới đây, hãy chọn tất cả các từ chỉ hoạt động:",
-      "options": [
+      "type": "CHON",
+      "questionId": "k3_c1_chon_077",
+      "questionNumber": 927,
+      "question": "Phân loại các từ ngữ sau vào 2 nhóm: Từ chỉ hoạt động và Từ chỉ sự vật, đặc điểm khác:",
+      "words": [
         "chạy nhảy",
         "đọc sách",
         "cái bàn",
@@ -9262,22 +10000,33 @@
         "xanh biếc",
         "hiền lành"
       ],
-      "answer": [
-        "chạy nhảy",
-        "đọc sách",
-        "quét nhà"
-      ],
-      "explanation": "Các từ 'chạy nhảy', 'đọc sách', 'quét nhà' là từ chỉ hoạt động của người và vật.",
+      "groups": {
+        "G1": "Từ chỉ hoạt động",
+        "G2": "Từ chỉ sự vật, đặc điểm khác"
+      },
+      "answer": {
+        "G1": [
+          "chạy nhảy",
+          "đọc sách",
+          "quét nhà"
+        ],
+        "G2": [
+          "cái bàn",
+          "xanh biếc",
+          "hiền lành"
+        ]
+      },
+      "explanation": "Nhóm G1 (Từ chỉ hoạt động): chạy nhảy, đọc sách, quét nhà. Nhóm G2 (Từ chỉ sự vật, đặc điểm khác): cái bàn, xanh biếc, hiền lành."
+    },
+    {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_3",
       "level": "CAP_2_VONG_TRUONG",
       "type": "CHON",
-      "questionId": "k3_c1_chon_077",
-      "questionNumber": 927
-    },
-    {
-      "question": "Trong các từ ngữ dưới đây, hãy chọn tất cả các từ chỉ hoạt động của học sinh ở trường:",
-      "options": [
+      "questionId": "k3_c1_chon_078",
+      "questionNumber": 928,
+      "question": "Phân loại các từ ngữ sau vào 2 nhóm: Từ chỉ hoạt động của học sinh và Từ ngữ khác:",
+      "words": [
         "nghe giảng",
         "thảo luận",
         "viết bài",
@@ -9285,22 +10034,33 @@
         "bảng đen",
         "sân trường"
       ],
-      "answer": [
-        "nghe giảng",
-        "thảo luận",
-        "viết bài"
-      ],
-      "explanation": "'Nghe giảng', 'thảo luận', 'viết bài' là các hoạt động học tập của học sinh.",
+      "groups": {
+        "G1": "Từ chỉ hoạt động của học sinh",
+        "G2": "Từ ngữ khác"
+      },
+      "answer": {
+        "G1": [
+          "nghe giảng",
+          "thảo luận",
+          "viết bài"
+        ],
+        "G2": [
+          "phấn trắng",
+          "bảng đen",
+          "sân trường"
+        ]
+      },
+      "explanation": "Nhóm G1 (Từ chỉ hoạt động của học sinh): nghe giảng, thảo luận, viết bài. Nhóm G2 (Từ ngữ khác): phấn trắng, bảng đen, sân trường."
+    },
+    {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_3",
       "level": "CAP_2_VONG_TRUONG",
       "type": "CHON",
-      "questionId": "k3_c1_chon_078",
-      "questionNumber": 928
-    },
-    {
-      "question": "Trong các từ dưới đây, hãy chọn tất cả các từ chỉ hoạt động giúp đỡ gia đình:",
-      "options": [
+      "questionId": "k3_c1_chon_079",
+      "questionNumber": 929,
+      "question": "Phân loại các từ ngữ sau vào 2 nhóm: Từ chỉ hoạt động giúp đỡ gia đình và Từ ngữ khác:",
+      "words": [
         "rửa bát",
         "tưới hoa",
         "nhổ cỏ",
@@ -9308,22 +10068,33 @@
         "bát đĩa",
         "ngôi nhà"
       ],
-      "answer": [
-        "rửa bát",
-        "tưới hoa",
-        "nhổ cỏ"
-      ],
-      "explanation": "'Rửa bát', 'tưới hoa', 'nhổ cỏ' là những việc làm, hoạt động cụ thể.",
+      "groups": {
+        "G1": "Từ chỉ hoạt động giúp đỡ gia đình",
+        "G2": "Từ ngữ khác"
+      },
+      "answer": {
+        "G1": [
+          "rửa bát",
+          "tưới hoa",
+          "nhổ cỏ"
+        ],
+        "G2": [
+          "chiếc ghế",
+          "bát đĩa",
+          "ngôi nhà"
+        ]
+      },
+      "explanation": "Nhóm G1 (Từ chỉ hoạt động giúp đỡ gia đình): rửa bát, tưới hoa, nhổ cỏ. Nhóm G2 (Từ ngữ khác): chiếc ghế, bát đĩa, ngôi nhà."
+    },
+    {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_3",
       "level": "CAP_2_VONG_TRUONG",
       "type": "CHON",
-      "questionId": "k3_c1_chon_079",
-      "questionNumber": 929
-    },
-    {
-      "question": "Trong các từ dưới đây, hãy chọn tất cả các từ chỉ đặc điểm, tính chất:",
-      "options": [
+      "questionId": "k3_c1_chon_080",
+      "questionNumber": 930,
+      "question": "Phân loại các từ ngữ sau vào 2 nhóm: Từ chỉ đặc điểm, tính chất và Từ ngữ khác:",
+      "words": [
         "chăm chỉ",
         "ngoan ngoãn",
         "khéo léo",
@@ -9331,22 +10102,33 @@
         "chiếc bút",
         "chạy bộ"
       ],
-      "answer": [
-        "chăm chỉ",
-        "ngoan ngoãn",
-        "khéo léo"
-      ],
-      "explanation": "'Chăm chỉ', 'ngoan ngoãn', 'khéo léo' là các tính từ chỉ đặc điểm, tính nết của con người.",
+      "groups": {
+        "G1": "Từ chỉ đặc điểm, tính chất",
+        "G2": "Từ ngữ khác"
+      },
+      "answer": {
+        "G1": [
+          "chăm chỉ",
+          "ngoan ngoãn",
+          "khéo léo"
+        ],
+        "G2": [
+          "múa hát",
+          "chiếc bút",
+          "chạy bộ"
+        ]
+      },
+      "explanation": "Nhóm G1 (Từ chỉ đặc điểm, tính chất): chăm chỉ, ngoan ngoãn, khéo léo. Nhóm G2 (Từ ngữ khác): múa hát, chiếc bút, chạy bộ."
+    },
+    {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_3",
       "level": "CAP_2_VONG_TRUONG",
       "type": "CHON",
-      "questionId": "k3_c1_chon_080",
-      "questionNumber": 930
-    },
-    {
-      "question": "Trong các từ dưới đây, hãy chọn tất cả các từ chỉ màu sắc hoặc hình dáng:",
-      "options": [
+      "questionId": "k3_c1_chon_081",
+      "questionNumber": 931,
+      "question": "Phân loại các từ ngữ sau vào 2 nhóm: Từ chỉ màu sắc, hình dáng và Từ ngữ khác:",
+      "words": [
         "đỏ thắm",
         "tròn xoe",
         "xanh ngắt",
@@ -9354,22 +10136,33 @@
         "bàn ghế",
         "tập viết"
       ],
-      "answer": [
-        "đỏ thắm",
-        "tròn xoe",
-        "xanh ngắt"
-      ],
-      "explanation": "'Đỏ thắm', 'xanh ngắt' chỉ màu sắc; 'tròn xoe' chỉ hình dáng.",
+      "groups": {
+        "G1": "Từ chỉ màu sắc, hình dáng",
+        "G2": "Từ ngữ khác"
+      },
+      "answer": {
+        "G1": [
+          "đỏ thắm",
+          "tròn xoe",
+          "xanh ngắt"
+        ],
+        "G2": [
+          "nhảy dây",
+          "bàn ghế",
+          "tập viết"
+        ]
+      },
+      "explanation": "Nhóm G1 (Từ chỉ màu sắc, hình dáng): đỏ thắm, tròn xoe, xanh ngắt. Nhóm G2 (Từ ngữ khác): nhảy dây, bàn ghế, tập viết."
+    },
+    {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_3",
       "level": "CAP_2_VONG_TRUONG",
       "type": "CHON",
-      "questionId": "k3_c1_chon_081",
-      "questionNumber": 931
-    },
-    {
-      "question": "Trong các từ dưới đây, hãy chọn tất cả các từ chỉ đặc điểm của thời tiết hoặc cảnh vật:",
-      "options": [
+      "questionId": "k3_c1_chon_082",
+      "questionNumber": 932,
+      "question": "Phân loại các từ ngữ sau vào 2 nhóm: Từ chỉ đặc điểm thời tiết, cảnh vật và Từ ngữ khác:",
+      "words": [
         "trong lành",
         "mát mẻ",
         "u ám",
@@ -9377,22 +10170,33 @@
         "ngọn gió",
         "bay lượn"
       ],
-      "answer": [
-        "trong lành",
-        "mát mẻ",
-        "u ám"
-      ],
-      "explanation": "'Trong lành', 'mát mẻ', 'u ám' là các từ chỉ tính chất, trạng thái thời tiết.",
+      "groups": {
+        "G1": "Từ chỉ đặc điểm thời tiết, cảnh vật",
+        "G2": "Từ ngữ khác"
+      },
+      "answer": {
+        "G1": [
+          "trong lành",
+          "mát mẻ",
+          "u ám"
+        ],
+        "G2": [
+          "cơn mưa",
+          "ngọn gió",
+          "bay lượn"
+        ]
+      },
+      "explanation": "Nhóm G1 (Từ chỉ đặc điểm thời tiết, cảnh vật): trong lành, mát mẻ, u ám. Nhóm G2 (Từ ngữ khác): cơn mưa, ngọn gió, bay lượn."
+    },
+    {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_3",
       "level": "CAP_2_VONG_TRUONG",
       "type": "CHON",
-      "questionId": "k3_c1_chon_082",
-      "questionNumber": 932
-    },
-    {
-      "question": "Trong các từ dưới đây, hãy chọn tất cả các từ chỉ đồ dùng học tập:",
-      "options": [
+      "questionId": "k3_c1_chon_083",
+      "questionNumber": 933,
+      "question": "Phân loại các từ ngữ sau vào 2 nhóm: Từ chỉ đồ dùng học tập và Từ ngữ khác:",
+      "words": [
         "hộp bút",
         "thước kẻ",
         "cục tẩy",
@@ -9400,22 +10204,33 @@
         "vẽ tranh",
         "chăm học"
       ],
-      "answer": [
-        "hộp bút",
-        "thước kẻ",
-        "cục tẩy"
-      ],
-      "explanation": "'Hộp bút', 'thước kẻ', 'cục tẩy' là đồ dùng học tập (từ chỉ sự vật).",
+      "groups": {
+        "G1": "Từ chỉ đồ dùng học tập",
+        "G2": "Từ ngữ khác"
+      },
+      "answer": {
+        "G1": [
+          "hộp bút",
+          "thước kẻ",
+          "cục tẩy"
+        ],
+        "G2": [
+          "nắn nót",
+          "vẽ tranh",
+          "chăm học"
+        ]
+      },
+      "explanation": "Nhóm G1 (Từ chỉ đồ dùng học tập): hộp bút, thước kẻ, cục tẩy. Nhóm G2 (Từ ngữ khác): nắn nót, vẽ tranh, chăm học."
+    },
+    {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_3",
       "level": "CAP_2_VONG_TRUONG",
       "type": "CHON",
-      "questionId": "k3_c1_chon_083",
-      "questionNumber": 933
-    },
-    {
-      "question": "Trong các từ dưới đây, hãy chọn tất cả các từ chỉ người trong gia đình:",
-      "options": [
+      "questionId": "k3_c1_chon_084",
+      "questionNumber": 934,
+      "question": "Phân loại các từ ngữ sau vào 2 nhóm: Từ chỉ người trong gia đình và Từ ngữ khác:",
+      "words": [
         "ông nội",
         "mẹ hiền",
         "chị gái",
@@ -9423,22 +10238,33 @@
         "chăm sóc",
         "đoàn tụ"
       ],
-      "answer": [
-        "ông nội",
-        "mẹ hiền",
-        "chị gái"
-      ],
-      "explanation": "'Ông nội', 'mẹ hiền', 'chị gái' là danh từ chỉ người thân trong gia đình.",
+      "groups": {
+        "G1": "Từ chỉ người trong gia đình",
+        "G2": "Từ ngữ khác"
+      },
+      "answer": {
+        "G1": [
+          "ông nội",
+          "mẹ hiền",
+          "chị gái"
+        ],
+        "G2": [
+          "yêu thương",
+          "chăm sóc",
+          "đoàn tụ"
+        ]
+      },
+      "explanation": "Nhóm G1 (Từ chỉ người trong gia đình): ông nội, mẹ hiền, chị gái. Nhóm G2 (Từ ngữ khác): yêu thương, chăm sóc, đoàn tụ."
+    },
+    {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_3",
       "level": "CAP_2_VONG_TRUONG",
       "type": "CHON",
-      "questionId": "k3_c1_chon_084",
-      "questionNumber": 934
-    },
-    {
-      "question": "Trong các từ dưới đây, hãy chọn tất cả các từ chỉ cây cối hoặc con vật quen thuộc:",
-      "options": [
+      "questionId": "k3_c1_chon_085",
+      "questionNumber": 935,
+      "question": "Phân loại các từ ngữ sau vào 2 nhóm: Từ chỉ cây cối, con vật và Từ ngữ khác:",
+      "words": [
         "cây phượng",
         "chim sơn ca",
         "chú mèo",
@@ -9446,154 +10272,225 @@
         "bắt chuột",
         "tươi tốt"
       ],
-      "answer": [
-        "cây phượng",
-        "chim sơn ca",
-        "chú mèo"
-      ],
-      "explanation": "'Cây phượng', 'chim sơn ca', 'chú mèo' là từ chỉ sự vật (loài cây, loài vật).",
+      "groups": {
+        "G1": "Từ chỉ cây cối, con vật",
+        "G2": "Từ ngữ khác"
+      },
+      "answer": {
+        "G1": [
+          "cây phượng",
+          "chim sơn ca",
+          "chú mèo"
+        ],
+        "G2": [
+          "hót líu lo",
+          "bắt chuột",
+          "tươi tốt"
+        ]
+      },
+      "explanation": "Nhóm G1 (Từ chỉ cây cối, con vật): cây phượng, chim sơn ca, chú mèo. Nhóm G2 (Từ ngữ khác): hót líu lo, bắt chuột, tươi tốt."
+    },
+    {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_3",
       "level": "CAP_2_VONG_TRUONG",
       "type": "CHON",
-      "questionId": "k3_c1_chon_085",
-      "questionNumber": 935
-    },
-    {
-      "question": "Hãy chọn tất cả các câu có sử dụng hình ảnh so sánh:",
-      "options": [
+      "questionId": "k3_c1_chon_086",
+      "questionNumber": 936,
+      "question": "Phân loại các câu sau vào 2 nhóm: Câu có hình ảnh so sánh và Câu không có hình ảnh so sánh:",
+      "words": [
         "Mặt trăng tròn vành vạnh như chiếc đĩa bạc.",
         "Em bé nhanh nhẹn như chú sóc nhỏ.",
         "Bác nông dân đang miệt mài cày ruộng.",
         "Tiếng suối chảy trong veo như tiếng đàn.",
         "Chúng em chăm chỉ học bài chuẩn bị thi."
       ],
-      "answer": [
-        "Mặt trăng tròn vành vạnh như chiếc đĩa bạc.",
-        "Em bé nhanh nhẹn như chú sóc nhỏ.",
-        "Tiếng suối chảy trong veo như tiếng đàn."
-      ],
-      "explanation": "Ba câu trên đều sử dụng từ so sánh 'như' để đối chiếu hai sự vật tương đồng.",
+      "groups": {
+        "G1": "Câu có hình ảnh so sánh",
+        "G2": "Câu không có hình ảnh so sánh"
+      },
+      "answer": {
+        "G1": [
+          "Mặt trăng tròn vành vạnh như chiếc đĩa bạc.",
+          "Em bé nhanh nhẹn như chú sóc nhỏ.",
+          "Tiếng suối chảy trong veo như tiếng đàn."
+        ],
+        "G2": [
+          "Bác nông dân đang miệt mài cày ruộng.",
+          "Chúng em chăm chỉ học bài chuẩn bị thi."
+        ]
+      },
+      "explanation": "Nhóm G1 (Câu có hình ảnh so sánh): Mặt trăng tròn vành vạnh như chiếc đĩa bạc., Em bé nhanh nhẹn như chú sóc nhỏ., Tiếng suối chảy trong veo như tiếng đàn.. Nhóm G2 (Câu không có hình ảnh so sánh): Bác nông dân đang miệt mài cày ruộng., Chúng em chăm chỉ học bài chuẩn bị thi.."
+    },
+    {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_3",
       "level": "CAP_2_VONG_TRUONG",
       "type": "CHON",
-      "questionId": "k3_c1_chon_086",
-      "questionNumber": 936
-    },
-    {
-      "question": "Hãy chọn tất cả các câu có sử dụng hình ảnh so sánh trong miêu tả cảnh đẹp:",
-      "options": [
+      "questionId": "k3_c1_chon_087",
+      "questionNumber": 937,
+      "question": "Phân loại các câu sau vào 2 nhóm: Câu so sánh miêu tả cảnh vật và Câu không có hình ảnh so sánh:",
+      "words": [
         "Dòng sông uốn lượn như một dải lụa mềm vắt qua cánh đồng.",
         "Những giọt sương sớm long lanh như những viên kim cương nhỏ.",
         "Mặt trời từ từ nhô lên phía đằng đông.",
         "Cánh đồng lúa chín vàng trải rộng bao la.",
         "Đám mây xốp trắng tựa như chiếc gối bông khổng lồ."
       ],
-      "answer": [
-        "Dòng sông uốn lượn như một dải lụa mềm vắt qua cánh đồng.",
-        "Những giọt sương sớm long lanh như những viên kim cương nhỏ.",
-        "Đám mây xốp trắng tựa như chiếc gối bông khổng lồ."
-      ],
-      "explanation": "Các câu này dùng từ so sánh 'như', 'tựa như' để gợi tả sinh động hình ảnh thiên nhiên.",
+      "groups": {
+        "G1": "Câu so sánh miêu tả cảnh vật",
+        "G2": "Câu không có hình ảnh so sánh"
+      },
+      "answer": {
+        "G1": [
+          "Dòng sông uốn lượn như một dải lụa mềm vắt qua cánh đồng.",
+          "Những giọt sương sớm long lanh như những viên kim cương nhỏ.",
+          "Đám mây xốp trắng tựa như chiếc gối bông khổng lồ."
+        ],
+        "G2": [
+          "Mặt trời từ từ nhô lên phía đằng đông.",
+          "Cánh đồng lúa chín vàng trải rộng bao la."
+        ]
+      },
+      "explanation": "Nhóm G1 (Câu so sánh miêu tả cảnh vật): Dòng sông uốn lượn như một dải lụa mềm vắt qua cánh đồng., Những giọt sương sớm long lanh như những viên kim cương nhỏ., Đám mây xốp trắng tựa như chiếc gối bông khổng lồ.. Nhóm G2 (Câu không có hình ảnh so sánh): Mặt trời từ từ nhô lên phía đằng đông., Cánh đồng lúa chín vàng trải rộng bao la.."
+    },
+    {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_3",
       "level": "CAP_2_VONG_TRUONG",
       "type": "CHON",
-      "questionId": "k3_c1_chon_087",
-      "questionNumber": 937
-    },
-    {
-      "question": "Hãy chọn tất cả các câu có sử dụng hình ảnh so sánh nói về người:",
-      "options": [
+      "questionId": "k3_c1_chon_088",
+      "questionNumber": 938,
+      "question": "Phân loại các câu sau vào 2 nhóm: Câu so sánh nói về con người và Câu không có hình ảnh so sánh:",
+      "words": [
         "Cô giáo như người mẹ hiền thứ hai của em.",
         "Trẻ em như búp trên cành.",
         "Bố em đang chăm chú đọc báo buổi sáng.",
         "Anh em như thể tay chân.",
         "Các bạn học sinh cùng nhau quét sân trường."
       ],
-      "answer": [
-        "Cô giáo như người mẹ hiền thứ hai của em.",
-        "Trẻ em như búp trên cành.",
-        "Anh em như thể tay chân."
-      ],
-      "explanation": "Cả ba câu trên đều sử dụng từ so sánh 'như' để làm nổi bật tình cảm và sự gắn kết.",
+      "groups": {
+        "G1": "Câu so sánh nói về con người",
+        "G2": "Câu không có hình ảnh so sánh"
+      },
+      "answer": {
+        "G1": [
+          "Cô giáo như người mẹ hiền thứ hai của em.",
+          "Trẻ em như búp trên cành.",
+          "Anh em như thể tay chân."
+        ],
+        "G2": [
+          "Bố em đang chăm chú đọc báo buổi sáng.",
+          "Các bạn học sinh cùng nhau quét sân trường."
+        ]
+      },
+      "explanation": "Nhóm G1 (Câu so sánh nói về con người): Cô giáo như người mẹ hiền thứ hai của em., Trẻ em như búp trên cành., Anh em như thể tay chân.. Nhóm G2 (Câu không có hình ảnh so sánh): Bố em đang chăm chú đọc báo buổi sáng., Các bạn học sinh cùng nhau quét sân trường.."
+    },
+    {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_3",
       "level": "CAP_2_VONG_TRUONG",
       "type": "CHON",
-      "questionId": "k3_c1_chon_088",
-      "questionNumber": 938
-    },
-    {
-      "question": "Hãy chọn tất cả các câu có sử dụng biện pháp nhân hóa:",
-      "options": [
+      "questionId": "k3_c1_chon_089",
+      "questionNumber": 939,
+      "question": "Phân loại các câu sau vào 2 nhóm: Câu có biện pháp nhân hóa và Câu không có biện pháp nhân hóa:",
+      "words": [
         "Chị gió khẽ thì thầm bên tai từng chiếc lá non.",
         "Bác mặt trời thức dậy từ sớm tỏa ánh nắng ấm áp.",
         "Bầu trời hôm nay thật cao và trong xanh.",
         "Bông hoa hồng mỉm cười đón những hạt sương mai.",
         "Mẹ em đang nấu bữa cơm trưa thơm ngon."
       ],
-      "answer": [
-        "Chị gió khẽ thì thầm bên tai từng chiếc lá non.",
-        "Bác mặt trời thức dậy từ sớm tỏa ánh nắng ấm áp.",
-        "Bông hoa hồng mỉm cười đón những hạt sương mai."
-      ],
-      "explanation": "Gió, mặt trời và bông hoa được gọi bằng 'chị', 'bác' và có hành động 'thì thầm', 'thức dậy', 'mỉm cười' giống con người.",
+      "groups": {
+        "G1": "Câu có biện pháp nhân hóa",
+        "G2": "Câu không có biện pháp nhân hóa"
+      },
+      "answer": {
+        "G1": [
+          "Chị gió khẽ thì thầm bên tai từng chiếc lá non.",
+          "Bác mặt trời thức dậy từ sớm tỏa ánh nắng ấm áp.",
+          "Bông hoa hồng mỉm cười đón những hạt sương mai."
+        ],
+        "G2": [
+          "Bầu trời hôm nay thật cao và trong xanh.",
+          "Mẹ em đang nấu bữa cơm trưa thơm ngon."
+        ]
+      },
+      "explanation": "Nhóm G1 (Câu có biện pháp nhân hóa): Chị gió khẽ thì thầm bên tai từng chiếc lá non., Bác mặt trời thức dậy từ sớm tỏa ánh nắng ấm áp., Bông hoa hồng mỉm cười đón những hạt sương mai.. Nhóm G2 (Câu không có biện pháp nhân hóa): Bầu trời hôm nay thật cao và trong xanh., Mẹ em đang nấu bữa cơm trưa thơm ngon.."
+    },
+    {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_3",
       "level": "CAP_2_VONG_TRUONG",
       "type": "CHON",
-      "questionId": "k3_c1_chon_089",
-      "questionNumber": 939
-    },
-    {
-      "question": "Hãy chọn tất cả các câu có sử dụng biện pháp nghệ thuật nhân hóa đồ vật:",
-      "options": [
+      "questionId": "k3_c1_chon_090",
+      "questionNumber": 940,
+      "question": "Phân loại các câu sau vào 2 nhóm: Câu nhân hóa đồ vật và Câu không nhân hóa đồ vật:",
+      "words": [
         "Bác trống trường đứng nghiêm trang canh giữ giờ giấc cho chúng em.",
         "Chiếc đồng hồ báo thức reo vang giục em thức dậy đúng giờ.",
         "Quyển sách nằm ngay ngắn trên bàn học.",
         "Cây bút mực chăm chỉ vẽ từng nét chữ tròn trịa.",
         "Em dùng thước kẻ để gạch chân tiêu đề bài học."
       ],
-      "answer": [
-        "Bác trống trường đứng nghiêm trang canh giữ giờ giấc cho chúng em.",
-        "Chiếc đồng hồ báo thức reo vang giục em thức dậy đúng giờ.",
-        "Cây bút mực chăm chỉ vẽ từng nét chữ tròn trịa."
-      ],
-      "explanation": "Trống trường, đồng hồ, cây bút được nhân hóa qua các từ gọi và hành động của con người.",
+      "groups": {
+        "G1": "Câu nhân hóa đồ vật",
+        "G2": "Câu không nhân hóa đồ vật"
+      },
+      "answer": {
+        "G1": [
+          "Bác trống trường đứng nghiêm trang canh giữ giờ giấc cho chúng em.",
+          "Chiếc đồng hồ báo thức reo vang giục em thức dậy đúng giờ.",
+          "Cây bút mực chăm chỉ vẽ từng nét chữ tròn trịa."
+        ],
+        "G2": [
+          "Quyển sách nằm ngay ngắn trên bàn học.",
+          "Em dùng thước kẻ để gạch chân tiêu đề bài học."
+        ]
+      },
+      "explanation": "Nhóm G1 (Câu nhân hóa đồ vật): Bác trống trường đứng nghiêm trang canh giữ giờ giấc cho chúng em., Chiếc đồng hồ báo thức reo vang giục em thức dậy đúng giờ., Cây bút mực chăm chỉ vẽ từng nét chữ tròn trịa.. Nhóm G2 (Câu không nhân hóa đồ vật): Quyển sách nằm ngay ngắn trên bàn học., Em dùng thước kẻ để gạch chân tiêu đề bài học.."
+    },
+    {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_3",
       "level": "CAP_2_VONG_TRUONG",
       "type": "CHON",
-      "questionId": "k3_c1_chon_090",
-      "questionNumber": 940
-    },
-    {
-      "question": "Hãy chọn tất cả các câu có sử dụng nhân hóa loài vật, cây cối:",
-      "options": [
+      "questionId": "k3_c1_chon_091",
+      "questionNumber": 941,
+      "question": "Phân loại các câu sau vào 2 nhóm: Câu nhân hóa loài vật, cây cối và Câu không có nhân hóa:",
+      "words": [
         "Chú gà trống cất tiếng gáy vang báo hiệu một ngày mới bắt đầu.",
         "Cây bàng xòe rộng vòng tay che bóng mát cho sân trường.",
         "Đàn cá bơi lội dưới làn nước trong vắt.",
         "Bác đa già trầm ngâm đứng bên đầu làng.",
         "Trời mưa to làm ướt hết cả sân vườn."
       ],
-      "answer": [
-        "Chú gà trống cất tiếng gáy vang báo hiệu một ngày mới bắt đầu.",
-        "Cây bàng xòe rộng vòng tay che bóng mát cho sân trường.",
-        "Bác đa già trầm ngâm đứng bên đầu làng."
-      ],
-      "explanation": "Gà trống, cây bàng, cây đa được gán những tên gọi và hành động thân thương của con người.",
+      "groups": {
+        "G1": "Câu nhân hóa loài vật, cây cối",
+        "G2": "Câu không có nhân hóa"
+      },
+      "answer": {
+        "G1": [
+          "Chú gà trống cất tiếng gáy vang báo hiệu một ngày mới bắt đầu.",
+          "Cây bàng xòe rộng vòng tay che bóng mát cho sân trường.",
+          "Bác đa già trầm ngâm đứng bên đầu làng."
+        ],
+        "G2": [
+          "Đàn cá bơi lội dưới làn nước trong vắt.",
+          "Trời mưa to làm ướt hết cả sân vườn."
+        ]
+      },
+      "explanation": "Nhóm G1 (Câu nhân hóa loài vật, cây cối): Chú gà trống cất tiếng gáy vang báo hiệu một ngày mới bắt đầu., Cây bàng xòe rộng vòng tay che bóng mát cho sân trường., Bác đa già trầm ngâm đứng bên đầu làng.. Nhóm G2 (Câu không có nhân hóa): Đàn cá bơi lội dưới làn nước trong vắt., Trời mưa to làm ướt hết cả sân vườn.."
+    },
+    {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_3",
       "level": "CAP_2_VONG_TRUONG",
       "type": "CHON",
-      "questionId": "k3_c1_chon_091",
-      "questionNumber": 941
-    },
-    {
-      "question": "Trong các từ dưới đây, hãy chọn tất cả các tên riêng người Việt Nam cần viết hoa:",
-      "options": [
+      "questionId": "k3_c1_chon_092",
+      "questionNumber": 942,
+      "question": "Phân loại các từ ngữ sau vào 2 nhóm: Tên riêng người cần viết hoa và Danh từ chung không viết hoa:",
+      "words": [
         "Võ Thị Sáu",
         "Nguyễn Du",
         "Trần Quốc Toản",
@@ -9601,22 +10498,33 @@
         "bác sĩ",
         "chiến sĩ"
       ],
-      "answer": [
-        "Võ Thị Sáu",
-        "Nguyễn Du",
-        "Trần Quốc Toản"
-      ],
-      "explanation": "Tên riêng người Việt Nam cần viết hoa tất cả chữ cái đầu của mỗi tiếng.",
+      "groups": {
+        "G1": "Tên riêng người cần viết hoa",
+        "G2": "Danh từ chung không viết hoa"
+      },
+      "answer": {
+        "G1": [
+          "Võ Thị Sáu",
+          "Nguyễn Du",
+          "Trần Quốc Toản"
+        ],
+        "G2": [
+          "học sinh",
+          "bác sĩ",
+          "chiến sĩ"
+        ]
+      },
+      "explanation": "Nhóm G1 (Tên riêng người cần viết hoa): Võ Thị Sáu, Nguyễn Du, Trần Quốc Toản. Nhóm G2 (Danh từ chung không viết hoa): học sinh, bác sĩ, chiến sĩ."
+    },
+    {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_3",
       "level": "CAP_2_VONG_TRUONG",
       "type": "CHON",
-      "questionId": "k3_c1_chon_092",
-      "questionNumber": 942
-    },
-    {
-      "question": "Trong các từ dưới đây, hãy chọn tất cả các tên địa danh ở Việt Nam cần viết hoa:",
-      "options": [
+      "questionId": "k3_c1_chon_093",
+      "questionNumber": 943,
+      "question": "Phân loại các từ ngữ sau vào 2 nhóm: Tên địa danh cần viết hoa và Danh từ chung không viết hoa:",
+      "words": [
         "Hà Nội",
         "Đà Lạt",
         "Cần Thơ",
@@ -9624,22 +10532,33 @@
         "thị trấn",
         "ngôi làng"
       ],
-      "answer": [
-        "Hà Nội",
-        "Đà Lạt",
-        "Cần Thơ"
-      ],
-      "explanation": "Hà Nội, Đà Lạt, Cần Thơ là tên địa danh riêng của đất nước ta.",
+      "groups": {
+        "G1": "Tên địa danh cần viết hoa",
+        "G2": "Danh từ chung không viết hoa"
+      },
+      "answer": {
+        "G1": [
+          "Hà Nội",
+          "Đà Lạt",
+          "Cần Thơ"
+        ],
+        "G2": [
+          "dòng sông",
+          "thị trấn",
+          "ngôi làng"
+        ]
+      },
+      "explanation": "Nhóm G1 (Tên địa danh cần viết hoa): Hà Nội, Đà Lạt, Cần Thơ. Nhóm G2 (Danh từ chung không viết hoa): dòng sông, thị trấn, ngôi làng."
+    },
+    {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_3",
       "level": "CAP_2_VONG_TRUONG",
       "type": "CHON",
-      "questionId": "k3_c1_chon_093",
-      "questionNumber": 943
-    },
-    {
-      "question": "Trong các từ dưới đây, hãy chọn tất cả các tên núi, sông, danh lam thắng cảnh cần viết hoa:",
-      "options": [
+      "questionId": "k3_c1_chon_094",
+      "questionNumber": 944,
+      "question": "Phân loại các từ ngữ sau vào 2 nhóm: Tên địa danh cần viết hoa và Danh từ chung không viết hoa:",
+      "words": [
         "Sông Hương",
         "Núi Ba Vì",
         "Hồ Gươm",
@@ -9647,150 +10566,215 @@
         "ngọn núi",
         "bờ biển"
       ],
-      "answer": [
-        "Sông Hương",
-        "Núi Ba Vì",
-        "Hồ Gươm"
-      ],
-      "explanation": "Tên riêng các địa danh tự nhiên như sông Hương, núi Ba Vì, hồ Gươm cần viết hoa đúng quy tắc.",
+      "groups": {
+        "G1": "Tên địa danh cần viết hoa",
+        "G2": "Danh từ chung không viết hoa"
+      },
+      "answer": {
+        "G1": [
+          "Sông Hương",
+          "Núi Ba Vì",
+          "Hồ Gươm"
+        ],
+        "G2": [
+          "hòn đảo",
+          "ngọn núi",
+          "bờ biển"
+        ]
+      },
+      "explanation": "Nhóm G1 (Tên địa danh cần viết hoa): Sông Hương, Núi Ba Vì, Hồ Gươm. Nhóm G2 (Danh từ chung không viết hoa): hòn đảo, ngọn núi, bờ biển."
+    },
+    {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_3",
       "level": "CAP_2_VONG_TRUONG",
       "type": "CHON",
-      "questionId": "k3_c1_chon_094",
-      "questionNumber": 944
-    },
-    {
-      "question": "Hãy chọn tất cả các câu là câu hỏi trong các câu dưới đây:",
-      "options": [
+      "questionId": "k3_c1_chon_095",
+      "questionNumber": 945,
+      "question": "Phân loại các câu sau vào 2 nhóm: Câu hỏi (dùng để hỏi) và Câu kể hoặc câu cảm:",
+      "words": [
         "Hôm nay bạn có làm bài tập về nhà không?",
         "Ai là người đã giúp đỡ bạn khi gặp khó khăn?",
         "Bạn Minh học tập rất chăm chỉ và giỏi giang.",
         "Bao giờ cả lớp chúng mình được đi tham quan?",
         "Ôi, phong cảnh nơi đây mới hữu tình làm sao!"
       ],
-      "answer": [
-        "Hôm nay bạn có làm bài tập về nhà không?",
-        "Ai là người đã giúp đỡ bạn khi gặp khó khăn?",
-        "Bao giờ cả lớp chúng mình được đi tham quan?"
-      ],
-      "explanation": "Các câu này đều chứa từ nghi vấn (không, ai, bao giờ) và kết thúc bằng dấu chấm hỏi.",
+      "groups": {
+        "G1": "Câu hỏi (dùng để hỏi)",
+        "G2": "Câu kể hoặc câu cảm"
+      },
+      "answer": {
+        "G1": [
+          "Hôm nay bạn có làm bài tập về nhà không?",
+          "Ai là người đã giúp đỡ bạn khi gặp khó khăn?",
+          "Bao giờ cả lớp chúng mình được đi tham quan?"
+        ],
+        "G2": [
+          "Bạn Minh học tập rất chăm chỉ và giỏi giang.",
+          "Ôi, phong cảnh nơi đây mới hữu tình làm sao!"
+        ]
+      },
+      "explanation": "Nhóm G1 (Câu hỏi (dùng để hỏi)): Hôm nay bạn có làm bài tập về nhà không?, Ai là người đã giúp đỡ bạn khi gặp khó khăn?, Bao giờ cả lớp chúng mình được đi tham quan?. Nhóm G2 (Câu kể hoặc câu cảm): Bạn Minh học tập rất chăm chỉ và giỏi giang., Ôi, phong cảnh nơi đây mới hữu tình làm sao!."
+    },
+    {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_3",
       "level": "CAP_2_VONG_TRUONG",
       "type": "CHON",
-      "questionId": "k3_c1_chon_095",
-      "questionNumber": 945
-    },
-    {
-      "question": "Hãy chọn tất cả các câu hỏi dùng để hỏi về thời gian hoặc địa điểm:",
-      "options": [
+      "questionId": "k3_c1_chon_096",
+      "questionNumber": 946,
+      "question": "Phân loại các câu sau vào 2 nhóm: Câu hỏi về thời gian, địa điểm và Câu hỏi dạng khác:",
+      "words": [
         "Khi nào trường mình tổ chức hội khỏe Phù Đổng?",
         "Quê nội của bạn ở tỉnh nào?",
         "Vì sao bạn lại đi học muộn hôm nay?",
         "Bác Hồ sinh ra ở đâu?",
         "Ai đang tưới hoa ngoài vườn?"
       ],
-      "answer": [
-        "Khi nào trường mình tổ chức hội khỏe Phù Đổng?",
-        "Quê nội của bạn ở tỉnh nào?",
-        "Bác Hồ sinh ra ở đâu?"
-      ],
-      "explanation": "'Khi nào' hỏi thời gian; 'ở tỉnh nào', 'ở đâu' hỏi địa điểm.",
+      "groups": {
+        "G1": "Câu hỏi về thời gian, địa điểm",
+        "G2": "Câu hỏi dạng khác"
+      },
+      "answer": {
+        "G1": [
+          "Khi nào trường mình tổ chức hội khỏe Phù Đổng?",
+          "Quê nội của bạn ở tỉnh nào?",
+          "Bác Hồ sinh ra ở đâu?"
+        ],
+        "G2": [
+          "Vì sao bạn lại đi học muộn hôm nay?",
+          "Ai đang tưới hoa ngoài vườn?"
+        ]
+      },
+      "explanation": "Nhóm G1 (Câu hỏi về thời gian, địa điểm): Khi nào trường mình tổ chức hội khỏe Phù Đổng?, Quê nội của bạn ở tỉnh nào?, Bác Hồ sinh ra ở đâu?. Nhóm G2 (Câu hỏi dạng khác): Vì sao bạn lại đi học muộn hôm nay?, Ai đang tưới hoa ngoài vườn?."
+    },
+    {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_3",
       "level": "CAP_2_VONG_TRUONG",
       "type": "CHON",
-      "questionId": "k3_c1_chon_096",
-      "questionNumber": 946
-    },
-    {
-      "question": "Hãy chọn tất cả các câu hỏi dùng để hỏi về nguyên nhân hoặc cách làm:",
-      "options": [
+      "questionId": "k3_c1_chon_097",
+      "questionNumber": 947,
+      "question": "Phân loại các câu sau vào 2 nhóm: Câu hỏi về nguyên nhân, cách làm và Câu hỏi dạng khác:",
+      "words": [
         "Vì sao em lại thích đọc sách?",
         "Làm thế nào để viết chữ đẹp và giữ vở sạch?",
         "Tại sao chim én lại bay về phương nam tránh rét?",
         "Bạn học lớp mấy?",
         "Hôm nay là thứ mấy trong tuần?"
       ],
-      "answer": [
-        "Vì sao em lại thích đọc sách?",
-        "Làm thế nào để viết chữ đẹp và giữ vở sạch?",
-        "Tại sao chim én lại bay về phương nam tránh rét?"
-      ],
-      "explanation": "'Vì sao', 'tại sao' hỏi nguyên nhân; 'làm thế nào' hỏi cách thức.",
+      "groups": {
+        "G1": "Câu hỏi về nguyên nhân, cách làm",
+        "G2": "Câu hỏi dạng khác"
+      },
+      "answer": {
+        "G1": [
+          "Vì sao em lại thích đọc sách?",
+          "Làm thế nào để viết chữ đẹp và giữ vở sạch?",
+          "Tại sao chim én lại bay về phương nam tránh rét?"
+        ],
+        "G2": [
+          "Bạn học lớp mấy?",
+          "Hôm nay là thứ mấy trong tuần?"
+        ]
+      },
+      "explanation": "Nhóm G1 (Câu hỏi về nguyên nhân, cách làm): Vì sao em lại thích đọc sách?, Làm thế nào để viết chữ đẹp và giữ vở sạch?, Tại sao chim én lại bay về phương nam tránh rét?. Nhóm G2 (Câu hỏi dạng khác): Bạn học lớp mấy?, Hôm nay là thứ mấy trong tuần?."
+    },
+    {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_3",
       "level": "CAP_2_VONG_TRUONG",
       "type": "CHON",
-      "questionId": "k3_c1_chon_097",
-      "questionNumber": 947
-    },
-    {
-      "question": "Hãy chọn tất cả các câu là câu kể (dùng để kể, tả, giới thiệu):",
-      "options": [
+      "questionId": "k3_c1_chon_098",
+      "questionNumber": 948,
+      "question": "Phân loại các câu sau vào 2 nhóm: Câu kể giới thiệu (Ai là gì?) và Câu mẫu khác hoặc câu hỏi, câu khiến:",
+      "words": [
         "Bố em là bộ đội hải quân đang công tác ở Trường Sa.",
         "Đàn chim én chao lượn trên bầu trời mùa xuân.",
         "Hôm nay bạn có đi học đàn không?",
         "Mỗi buổi chiều, chúng em cùng nhau đá bóng ở sân đình.",
         "Trời ơi, sao bạn lại bất cẩn thế!"
       ],
-      "answer": [
-        "Bố em là bộ đội hải quân đang công tác ở Trường Sa.",
-        "Đàn chim én chao lượn trên bầu trời mùa xuân.",
-        "Mỗi buổi chiều, chúng em cùng nhau đá bóng ở sân đình."
-      ],
-      "explanation": "Các câu này dùng để giới thiệu, miêu tả và kể lại sự việc, kết thúc bằng dấu chấm.",
+      "groups": {
+        "G1": "Câu kể giới thiệu (Ai là gì?)",
+        "G2": "Câu mẫu khác hoặc câu hỏi, câu khiến"
+      },
+      "answer": {
+        "G1": [
+          "Bố em là bộ đội hải quân đang công tác ở Trường Sa.",
+          "Đàn chim én chao lượn trên bầu trời mùa xuân.",
+          "Mỗi buổi chiều, chúng em cùng nhau đá bóng ở sân đình."
+        ],
+        "G2": [
+          "Hôm nay bạn có đi học đàn không?",
+          "Trời ơi, sao bạn lại bất cẩn thế!"
+        ]
+      },
+      "explanation": "Nhóm G1 (Câu kể giới thiệu (Ai là gì?)): Bố em là bộ đội hải quân đang công tác ở Trường Sa., Đàn chim én chao lượn trên bầu trời mùa xuân., Mỗi buổi chiều, chúng em cùng nhau đá bóng ở sân đình.. Nhóm G2 (Câu mẫu khác hoặc câu hỏi, câu khiến): Hôm nay bạn có đi học đàn không?, Trời ơi, sao bạn lại bất cẩn thế!."
+    },
+    {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_3",
       "level": "CAP_2_VONG_TRUONG",
       "type": "CHON",
-      "questionId": "k3_c1_chon_098",
-      "questionNumber": 948
-    },
-    {
-      "question": "Hãy chọn tất cả các câu kể dùng để giới thiệu sự vật, con người:",
-      "options": [
+      "questionId": "k3_c1_chon_099",
+      "questionNumber": 949,
+      "question": "Phân loại các câu sau vào 2 nhóm: Câu kể giới thiệu (Ai là gì?) và Câu mẫu khác hoặc câu hỏi, câu khiến:",
+      "words": [
         "Hà Nội là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam.",
         "Sách là người bạn thân thiết giúp em mở rộng hiểu biết.",
         "Bạn Nam hãy lau bảng giúp cô nhé!",
         "Trường em là ngôi trường tiểu học đạt chuẩn quốc gia.",
         "Cậu làm xong bài toán này chưa?"
       ],
-      "answer": [
-        "Hà Nội là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam.",
-        "Sách là người bạn thân thiết giúp em mở rộng hiểu biết.",
-        "Trường em là ngôi trường tiểu học đạt chuẩn quốc gia."
-      ],
-      "explanation": "Cả ba câu trên đều thuộc mẫu câu giới thiệu 'Ai (cái gì) là gì?'.",
+      "groups": {
+        "G1": "Câu kể giới thiệu (Ai là gì?)",
+        "G2": "Câu mẫu khác hoặc câu hỏi, câu khiến"
+      },
+      "answer": {
+        "G1": [
+          "Hà Nội là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam.",
+          "Sách là người bạn thân thiết giúp em mở rộng hiểu biết.",
+          "Trường em là ngôi trường tiểu học đạt chuẩn quốc gia."
+        ],
+        "G2": [
+          "Bạn Nam hãy lau bảng giúp cô nhé!",
+          "Cậu làm xong bài toán này chưa?"
+        ]
+      },
+      "explanation": "Nhóm G1 (Câu kể giới thiệu (Ai là gì?)): Hà Nội là thủ đô của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam., Sách là người bạn thân thiết giúp em mở rộng hiểu biết., Trường em là ngôi trường tiểu học đạt chuẩn quốc gia.. Nhóm G2 (Câu mẫu khác hoặc câu hỏi, câu khiến): Bạn Nam hãy lau bảng giúp cô nhé!, Cậu làm xong bài toán này chưa?."
+    },
+    {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_3",
       "level": "CAP_2_VONG_TRUONG",
       "type": "CHON",
-      "questionId": "k3_c1_chon_099",
-      "questionNumber": 949
-    },
-    {
-      "question": "Hãy chọn tất cả các câu kể dùng để miêu tả đặc điểm của cảnh vật:",
-      "options": [
+      "questionId": "k3_c1_chon_100",
+      "questionNumber": 950,
+      "question": "Phân loại các câu sau vào 2 nhóm: Câu kể tả đặc điểm cảnh vật và Câu kể dạng khác hoặc câu hỏi:",
+      "words": [
         "Mặt nước hồ Gươm xanh biếc và phẳng lặng như gương soi.",
         "Cánh đồng lúa quê em chín vàng rực rỡ dưới nắng ban mai.",
         "Em đang quét sân giúp ông bà.",
         "Không khí buổi sáng ở làng quê vô cùng trong lành và mát mẻ.",
         "Bạn có nghe thấy tiếng chim hót không?"
       ],
-      "answer": [
-        "Mặt nước hồ Gươm xanh biếc và phẳng lặng như gương soi.",
-        "Cánh đồng lúa quê em chín vàng rực rỡ dưới nắng ban mai.",
-        "Không khí buổi sáng ở làng quê vô cùng trong lành và mát mẻ."
-      ],
-      "explanation": "Cả ba câu này miêu tả đặc điểm của cảnh vật (xanh biếc, phẳng lặng, chín vàng rực rỡ, trong lành, mát mẻ).",
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_3",
-      "level": "CAP_2_VONG_TRUONG",
-      "type": "CHON",
-      "questionId": "k3_c1_chon_100",
-      "questionNumber": 950
+      "groups": {
+        "G1": "Câu kể tả đặc điểm cảnh vật",
+        "G2": "Câu kể dạng khác hoặc câu hỏi"
+      },
+      "answer": {
+        "G1": [
+          "Mặt nước hồ Gươm xanh biếc và phẳng lặng như gương soi.",
+          "Cánh đồng lúa quê em chín vàng rực rỡ dưới nắng ban mai.",
+          "Không khí buổi sáng ở làng quê vô cùng trong lành và mát mẻ."
+        ],
+        "G2": [
+          "Em đang quét sân giúp ông bà.",
+          "Bạn có nghe thấy tiếng chim hót không?"
+        ]
+      },
+      "explanation": "Nhóm G1 (Câu kể tả đặc điểm cảnh vật): Mặt nước hồ Gươm xanh biếc và phẳng lặng như gương soi., Cánh đồng lúa quê em chín vàng rực rỡ dưới nắng ban mai., Không khí buổi sáng ở làng quê vô cùng trong lành và mát mẻ.. Nhóm G2 (Câu kể dạng khác hoặc câu hỏi): Em đang quét sân giúp ông bà., Bạn có nghe thấy tiếng chim hót không?."
     },
     {
       "type": "DT",
@@ -9984,8 +10968,6 @@
       "questionId": "k3_c1_dt_016",
       "questionNumber": 966
     },
-    
-    
     {
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu:\n\"Lá lành đùm lá (...)\"",
       "blankAnswer": "rách",
@@ -10010,7 +10992,6 @@
       "questionId": "k3_c1_dt_020",
       "questionNumber": 970
     },
-    
     {
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu :\n\"Một cây làm chẳng nên non\nBa cây chụm lại nên hòn núi (...)\"",
       "blankAnswer": "cao",
@@ -10059,7 +11040,6 @@
       "questionId": "k3_c1_dt_025",
       "questionNumber": 975
     },
-    
     {
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu :\n\"Anh em như thể tay (...)\nRách lành đùm bọc dở hay đỡ đần.\"",
       "blankAnswer": "chân",
@@ -10072,7 +11052,6 @@
       "questionId": "k3_c1_dt_027",
       "questionNumber": 977
     },
-    
     {
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu:\n\"Chim có tổ, người có (...)\"",
       "blankAnswer": "tông",
@@ -10085,7 +11064,6 @@
       "questionId": "k3_c1_dt_029",
       "questionNumber": 979
     },
-    
     {
       "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu:\n\"Con có cha như nhà có (...)\"",
       "blankAnswer": "nóc",
@@ -11214,7 +12192,6 @@
       "questionId": "k3_c1_dt_124",
       "questionNumber": 1074
     },
-    
     {
       "type": "DT",
       "question": "Điền từ thích hợp vào chỗ trống hoàn thành câu :\n\"Cắt dây bầu dây bí, ai nỡ cắt dây chị dây (...)\"",

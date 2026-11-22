@@ -166,22 +166,6 @@
       "grade": "KHOI_4",
       "level": "CAP_4_VONG_TINH",
       "type": "TN",
-      "questionId": "k4_c4_tn_011",
-      "question": "Câu tục ngữ, thành ngữ nào dưới đây thể hiện phẩm chất hoặc bài học về 'Lòng biết ơn'?",
-      "options": {
-        "A": "Cây ngay không sợ chết đứng",
-        "B": "Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao",
-        "C": "Uống nước nhớ nguồn",
-        "D": "Thương người như thể thương thân"
-      },
-      "answer": "C",
-      "explanation": "'Uống nước nhớ nguồn': Nhắc nhở con cháu phải ghi nhớ cội nguồn, tổ tiên và những người đã giúp đỡ mình."
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_4_VONG_TINH",
-      "type": "TN",
       "questionId": "k4_c4_tn_012",
       "question": "Từ nào sau đây viết đúng chính tả?",
       "options": {
@@ -551,15 +535,15 @@
       "level": "CAP_4_VONG_TINH",
       "type": "TN",
       "questionId": "k4_c4_tn_035",
-      "question": "Điền từ còn thiếu để hoàn thiện câu thành ngữ/tục ngữ sau: \"Lên thác xuống (...)\"",
+      "question": "Điền từ còn thiếu để hoàn thiện câu thành ngữ/tục ngữ sau: \"Học đi đôi với (...)\"",
       "options": {
-        "A": "nan",
-        "B": "lá",
-        "C": "sỏi",
-        "D": "ghềnh"
+        "A": "làm",
+        "B": "sách",
+        "C": "hành",
+        "D": "tập"
       },
-      "answer": "D",
-      "explanation": "Thành ngữ chuẩn trong tiếng Việt: 'Lên thác xuống ghềnh'."
+      "answer": "C",
+      "explanation": "Thành ngữ chuẩn trong tiếng Việt: 'Học đi đôi với hành'."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -583,15 +567,15 @@
       "level": "CAP_4_VONG_TINH",
       "type": "TN",
       "questionId": "k4_c4_tn_037",
-      "question": "Điền từ còn thiếu để hoàn thiện câu thành ngữ/tục ngữ sau: \"Nhiễu điều phủ lấy giá gương / Người trong một nước phải thương nhau (...)\"",
+      "question": "Điền từ còn thiếu để hoàn thiện câu thành ngữ/tục ngữ sau: \"Tốt gỗ hơn tốt nước (...)\"",
       "options": {
-        "A": "chèo",
-        "B": "cùng",
-        "C": "lá",
-        "D": "lề"
+        "A": "sơn",
+        "B": "mắm",
+        "C": "trong",
+        "D": "dùng"
       },
-      "answer": "B",
-      "explanation": "Thành ngữ, tục ngữ chuẩn trong tài liệu ôn tập: 'Nhiễu điều phủ lấy giá gương / Người trong một nước phải thương nhau cùng'."
+      "answer": "A",
+      "explanation": "Thành ngữ, tục ngữ chuẩn trong tiếng Việt: 'Tốt gỗ hơn tốt nước sơn'."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -615,15 +599,15 @@
       "level": "CAP_4_VONG_TINH",
       "type": "TN",
       "questionId": "k4_c4_tn_039",
-      "question": "Điền từ còn thiếu để hoàn thiện câu thành ngữ/tục ngữ sau: \"Chó ăn đá, gà ăn (...)\"",
+      "question": "Điền từ còn thiếu để hoàn thiện câu ca dao/tục ngữ sau: \"Gà cùng một mẹ chớ hoài (...) nhau\"",
       "options": {
-        "A": "ghềnh",
-        "B": "nan",
-        "C": "sỏi",
-        "D": "đùm"
+        "A": "cãi",
+        "B": "đá",
+        "C": "mổ",
+        "D": "đuổi"
       },
-      "answer": "C",
-      "explanation": "Thành ngữ, tục ngữ chuẩn trong tài liệu ôn tập: 'Chó ăn đá, gà ăn sỏi'."
+      "answer": "B",
+      "explanation": "Câu ca dao chuẩn: 'Khôn ngoan đối đáp người ngoài / Gà cùng một mẹ chớ hoài đá nhau'."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -1063,15 +1047,15 @@
       "level": "CAP_4_VONG_TINH",
       "type": "TN",
       "questionId": "k4_c4_tn_067",
-      "question": "Câu tục ngữ, thành ngữ nào dưới đây thể hiện phẩm chất hoặc bài học về 'Kiên trì, nghị lực'?",
+      "question": "Câu tục ngữ, thành ngữ nào dưới đây thể hiện phẩm chất hoặc bài học về 'Lòng tự trọng, giữ gìn phẩm giá'?",
       "options": {
-        "A": "Công cha như núi Thái Sơn, nghĩa mẹ như nước trong nguồn chảy ra",
-        "B": "Thuận vợ thuận chồng tát biển Đông cũng cạn",
-        "C": "Có công mài sắt có ngày nên kim",
-        "D": "Một con ngựa đau cả tàu bỏ cỏ"
+        "A": "Được voi đòi tiên",
+        "B": "Giấy rách phải giữ lấy lề",
+        "C": "Bắt cá hai tay",
+        "D": "Cháy nhà hàng xóm"
       },
-      "answer": "C",
-      "explanation": "'Có công mài sắt có ngày nên kim': Chỉ cần kiên trì, nỗ lực và nhẫn nại thì việc khó khăn đến mấy cũng sẽ thành công."
+      "answer": "B",
+      "explanation": "'Giấy rách phải giữ lấy lề': Khuyên con người dù trong hoàn cảnh khó khăn, thiếu thốn vẫn phải giữ gìn nhân cách, lòng tự trọng và truyền thống tốt đẹp."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -1782,22 +1766,6 @@
       "grade": "KHOI_4",
       "level": "CAP_4_VONG_TINH",
       "type": "SX",
-      "questionId": "k4_c4_sx_028",
-      "question": "Hãy sắp xếp các từ/cụm từ sau để tạo thành một câu tục ngữ, thành ngữ hoàn chỉnh và có nghĩa:",
-      "elements": [
-        "nhớ",
-        "nước",
-        "nguồn",
-        "Uống"
-      ],
-      "answer": "Uống nước nhớ nguồn",
-      "explanation": "Câu thành ngữ/tục ngữ đúng là: 'Uống nước nhớ nguồn'. Nhắc nhở con cháu phải ghi nhớ cội nguồn, tổ tiên và những người đã giúp đỡ mình."
-    },
-    {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_4",
-      "level": "CAP_4_VONG_TINH",
-      "type": "SX",
       "questionId": "k4_c4_sx_029",
       "question": "Hãy sắp xếp các từ/cụm từ sau để tạo thành một câu tục ngữ, thành ngữ hoàn chỉnh và có nghĩa:",
       "elements": [
@@ -1881,23 +1849,23 @@
       "question": "Hãy nối từ ở Cột A với từ trái nghĩa tương ứng ở Cột B:",
       "columnA": {
         "1": "khỏe mạnh",
-        "2": "yêu thương",
-        "3": "đoàn kết",
+        "2": "đoàn kết",
+        "3": "hòa bình",
         "4": "thành công"
       },
       "columnB": {
-        "A": "căm ghét",
-        "B": "chia rẽ",
+        "A": "chia rẽ",
+        "B": "thất bại",
         "C": "ốm yếu",
-        "D": "thất bại"
+        "D": "chiến tranh"
       },
       "answer": {
         "1": "C",
         "2": "A",
-        "3": "B",
-        "4": "D"
+        "3": "D",
+        "4": "B"
       },
-      "explanation": "Nối đúng các cặp tương ứng: 1-C: khỏe mạnh ~ ốm yếu; 2-A: yêu thương ~ căm ghét; 3-B: đoàn kết ~ chia rẽ; 4-D: thành công ~ thất bại."
+      "explanation": "Nối đúng các cặp tương ứng: 1-C: khỏe mạnh ~ ốm yếu; 2-A: đoàn kết ~ chia rẽ; 3-D: hòa bình ~ chiến tranh; 4-B: thành công ~ thất bại."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -1907,24 +1875,24 @@
       "questionId": "k4_c4_noi_002",
       "question": "Hãy nối vế ở Cột A với vế tương ứng ở Cột B để tạo thành câu thành ngữ, tục ngữ hoàn chỉnh:",
       "columnA": {
-        "1": "Uống nước",
-        "2": "Cây ngay",
-        "3": "Bầu ơi thương lấy bí cùng",
-        "4": "Ăn quả"
+        "1": "Cái nết đánh chết",
+        "2": "Cái răng cái tóc",
+        "3": "Ở bầu thì tròn",
+        "4": "Khéo ăn thì no"
       },
       "columnB": {
-        "A": "tuy rằng khác giống nhưng chung một giàn",
-        "B": "nhớ kẻ trồng cây",
-        "C": "không sợ chết đứng",
-        "D": "nhớ nguồn"
+        "A": "là góc con người",
+        "B": "khéo co thì ấm",
+        "C": "cái đẹp",
+        "D": "ở ống thì dài"
       },
       "answer": {
-        "1": "D",
-        "2": "C",
-        "3": "A",
+        "1": "C",
+        "2": "A",
+        "3": "D",
         "4": "B"
       },
-      "explanation": "Nối đúng các cặp tương ứng: 1-D: Uống nước ~ nhớ nguồn; 2-C: Cây ngay ~ không sợ chết đứng; 3-A: Bầu ơi thương lấy bí cùng ~ tuy rằng khác giống nhưng chung một giàn; 4-B: Ăn quả ~ nhớ kẻ trồng cây."
+      "explanation": "Nối đúng các cặp tương ứng: 1-C: Cái nết đánh chết ~ cái đẹp; 2-A: Cái răng cái tóc ~ là góc con người; 3-D: Ở bầu thì tròn ~ ở ống thì dài; 4-B: Khéo ăn thì no ~ khéo co thì ấm."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -1962,23 +1930,23 @@
       "question": "Hãy nối từ ở Cột A với từ đồng nghĩa tương ứng ở Cột B:",
       "columnA": {
         "1": "tổ quốc",
-        "2": "bao la",
-        "3": "giản dị",
-        "4": "chăm chỉ"
+        "2": "bình yên",
+        "3": "gắn bó",
+        "4": "non sông"
       },
       "columnB": {
-        "A": "cần cù",
-        "B": "mênh mông",
-        "C": "giang sơn",
-        "D": "mộc mạc"
+        "A": "thanh bình",
+        "B": "giang sơn",
+        "C": "đất nước",
+        "D": "keo sơn"
       },
       "answer": {
-        "1": "C",
-        "2": "B",
+        "1": "B",
+        "2": "A",
         "3": "D",
-        "4": "A"
+        "4": "C"
       },
-      "explanation": "Nối đúng các cặp tương ứng: 1-C: tổ quốc ~ giang sơn; 2-B: bao la ~ mênh mông; 3-D: giản dị ~ mộc mạc; 4-A: chăm chỉ ~ cần cù."
+      "explanation": "Nối đúng các cặp tương ứng: 1-B: tổ quốc ~ giang sơn; 2-A: bình yên ~ thanh bình; 3-D: gắn bó ~ keo sơn; 4-C: non sông ~ đất nước."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -2015,24 +1983,24 @@
       "questionId": "k4_c4_noi_006",
       "question": "Hãy nối từ ở Cột A với từ đồng nghĩa tương ứng ở Cột B:",
       "columnA": {
-        "1": "tổ quốc",
-        "2": "dũng cảm",
-        "3": "bình yên",
-        "4": "chăm chỉ"
+        "1": "giản dị",
+        "2": "thông minh",
+        "3": "quê hương",
+        "4": "chân thành"
       },
       "columnB": {
-        "A": "giang sơn",
-        "B": "can đảm",
-        "C": "cần cù",
-        "D": "thanh bình"
+        "A": "sáng dạ",
+        "B": "xứ sở",
+        "C": "thật thà",
+        "D": "mộc mạc"
       },
       "answer": {
-        "1": "A",
-        "2": "B",
-        "3": "D",
+        "1": "D",
+        "2": "A",
+        "3": "B",
         "4": "C"
       },
-      "explanation": "Nối đúng các cặp tương ứng: 1-A: tổ quốc ~ giang sơn; 2-B: dũng cảm ~ can đảm; 3-D: bình yên ~ thanh bình; 4-C: chăm chỉ ~ cần cù."
+      "explanation": "Nối đúng các cặp tương ứng: 1-D: giản dị ~ mộc mạc; 2-A: thông minh ~ sáng dạ; 3-B: quê hương ~ xứ sở; 4-C: chân thành ~ thật thà."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -2096,24 +2064,24 @@
       "questionId": "k4_c4_noi_009",
       "question": "Hãy nối vế ở Cột A với vế tương ứng ở Cột B để tạo thành câu thành ngữ, tục ngữ hoàn chỉnh:",
       "columnA": {
-        "1": "Ăn ngay nói thật",
-        "2": "Chị ngã",
-        "3": "Học thầy",
-        "4": "Tấc đất"
+        "1": "Thuốc đắng giã tật",
+        "2": "Ăn trông nồi",
+        "3": "Ở hiền",
+        "4": "An cư"
       },
       "columnB": {
-        "A": "mọi tật mọi lành",
-        "B": "không tày học bạn",
-        "C": "em nâng",
-        "D": "tấc vàng"
+        "A": "gặp lành",
+        "B": "sự thật mất lòng",
+        "C": "lạc nghiệp",
+        "D": "ngồi trông hướng"
       },
       "answer": {
-        "1": "A",
-        "2": "C",
-        "3": "B",
-        "4": "D"
+        "1": "B",
+        "2": "D",
+        "3": "A",
+        "4": "C"
       },
-      "explanation": "Nối đúng các cặp tương ứng: 1-A: Ăn ngay nói thật ~ mọi tật mọi lành; 2-C: Chị ngã ~ em nâng; 3-B: Học thầy ~ không tày học bạn; 4-D: Tấc đất ~ tấc vàng."
+      "explanation": "Nối đúng các cặp tương ứng: 1-B: Thuốc đắng giã tật ~ sự thật mất lòng; 2-D: Ăn trông nồi ~ ngồi trông hướng; 3-A: Ở hiền ~ gặp lành; 4-C: An cư ~ lạc nghiệp."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -2123,24 +2091,24 @@
       "questionId": "k4_c4_noi_010",
       "question": "Hãy nối từ ở Cột A với từ đồng nghĩa tương ứng ở Cột B:",
       "columnA": {
-        "1": "bình yên",
-        "2": "gắn bó",
-        "3": "dũng cảm",
-        "4": "thông minh"
+        "1": "bao la",
+        "2": "chăm chỉ",
+        "3": "nhân ái",
+        "4": "bao dung"
       },
       "columnB": {
-        "A": "keo sơn",
-        "B": "can đảm",
-        "C": "sáng dạ",
-        "D": "thanh bình"
+        "A": "mênh mông",
+        "B": "độ lượng",
+        "C": "nhân từ",
+        "D": "cần cù"
       },
       "answer": {
-        "1": "D",
-        "2": "A",
-        "3": "B",
-        "4": "C"
+        "1": "A",
+        "2": "D",
+        "3": "C",
+        "4": "B"
       },
-      "explanation": "Nối đúng các cặp tương ứng: 1-D: bình yên ~ thanh bình; 2-A: gắn bó ~ keo sơn; 3-B: dũng cảm ~ can đảm; 4-C: thông minh ~ sáng dạ."
+      "explanation": "Nối đúng các cặp tương ứng: 1-A: bao la ~ mênh mông; 2-D: chăm chỉ ~ cần cù; 3-C: nhân ái ~ nhân từ; 4-B: bao dung ~ độ lượng."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -2231,24 +2199,24 @@
       "questionId": "k4_c4_noi_014",
       "question": "Hãy nối từ ở Cột A với từ trái nghĩa tương ứng ở Cột B:",
       "columnA": {
-        "1": "khỏe mạnh",
+        "1": "khiêm tốn",
         "2": "dũng cảm",
-        "3": "khiêm tốn",
-        "4": "đoàn kết"
+        "3": "thật thà",
+        "4": "cẩn thận"
       },
       "columnB": {
-        "A": "chia rẽ",
-        "B": "hèn nhát",
-        "C": "kiêu căng",
-        "D": "ốm yếu"
+        "A": "gian dối",
+        "B": "kiêu căng",
+        "C": "cẩu thả",
+        "D": "hèn nhát"
       },
       "answer": {
-        "1": "D",
-        "2": "B",
-        "3": "C",
-        "4": "A"
+        "1": "B",
+        "2": "D",
+        "3": "A",
+        "4": "C"
       },
-      "explanation": "Nối đúng các cặp tương ứng: 1-D: khỏe mạnh ~ ốm yếu; 2-B: dũng cảm ~ hèn nhát; 3-C: khiêm tốn ~ kiêu căng; 4-A: đoàn kết ~ chia rẽ."
+      "explanation": "Nối đúng các cặp tương ứng: 1-B: khiêm tốn ~ kiêu căng; 2-D: dũng cảm ~ hèn nhát; 3-A: thật thà ~ gian dối; 4-C: cẩn thận ~ cẩu thả."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -2312,24 +2280,24 @@
       "questionId": "k4_c4_noi_017",
       "question": "Hãy nối từ ở Cột A với từ đồng nghĩa tương ứng ở Cột B:",
       "columnA": {
-        "1": "chăm chỉ",
-        "2": "giản dị",
-        "3": "dũng cảm",
-        "4": "bao la"
+        "1": "dũng cảm",
+        "2": "gắn bó",
+        "3": "đoàn kết",
+        "4": "kiên trì"
       },
       "columnB": {
-        "A": "mộc mạc",
+        "A": "bền bỉ",
         "B": "can đảm",
-        "C": "cần cù",
-        "D": "mênh mông"
+        "C": "keo sơn",
+        "D": "đùm bọc"
       },
       "answer": {
-        "1": "C",
-        "2": "A",
-        "3": "B",
-        "4": "D"
+        "1": "B",
+        "2": "C",
+        "3": "D",
+        "4": "A"
       },
-      "explanation": "Nối đúng các cặp tương ứng: 1-C: chăm chỉ ~ cần cù; 2-A: giản dị ~ mộc mạc; 3-B: dũng cảm ~ can đảm; 4-D: bao la ~ mênh mông."
+      "explanation": "Nối đúng các cặp tương ứng: 1-B: dũng cảm ~ can đảm; 2-C: gắn bó ~ keo sơn; 3-D: đoàn kết ~ đùm bọc; 4-A: kiên trì ~ bền bỉ."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -2366,24 +2334,24 @@
       "questionId": "k4_c4_noi_019",
       "question": "Hãy nối từ ở Cột A với từ đồng nghĩa tương ứng ở Cột B:",
       "columnA": {
-        "1": "tổ quốc",
-        "2": "giản dị",
-        "3": "bao la",
-        "4": "thông minh"
+        "1": "non sông",
+        "2": "quê hương",
+        "3": "quyết tâm",
+        "4": "siêng năng"
       },
       "columnB": {
-        "A": "mênh mông",
-        "B": "giang sơn",
-        "C": "sáng dạ",
-        "D": "mộc mạc"
+        "A": "kiên định",
+        "B": "xứ sở",
+        "C": "đất nước",
+        "D": "cần mẫn"
       },
       "answer": {
-        "1": "B",
-        "2": "D",
+        "1": "C",
+        "2": "B",
         "3": "A",
-        "4": "C"
+        "4": "D"
       },
-      "explanation": "Nối đúng các cặp tương ứng: 1-B: tổ quốc ~ giang sơn; 2-D: giản dị ~ mộc mạc; 3-A: bao la ~ mênh mông; 4-C: thông minh ~ sáng dạ."
+      "explanation": "Nối đúng các cặp tương ứng: 1-C: non sông ~ đất nước; 2-B: quê hương ~ xứ sở; 3-A: quyết tâm ~ kiên định; 4-D: siêng năng ~ cần mẫn."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -2447,24 +2415,24 @@
       "questionId": "k4_c4_noi_022",
       "question": "Hãy nối từ ở Cột A với từ trái nghĩa tương ứng ở Cột B:",
       "columnA": {
-        "1": "nhân hậu",
-        "2": "khỏe mạnh",
-        "3": "đoàn kết",
-        "4": "yêu thương"
+        "1": "yêu thương",
+        "2": "chăm chỉ",
+        "3": "tiết kiệm",
+        "4": "giỏi giang"
       },
       "columnB": {
-        "A": "căm ghét",
-        "B": "độc ác",
-        "C": "chia rẽ",
-        "D": "ốm yếu"
+        "A": "kém cỏi",
+        "B": "lười biếng",
+        "C": "lãng phí",
+        "D": "căm ghét"
       },
       "answer": {
-        "1": "B",
-        "2": "D",
+        "1": "D",
+        "2": "B",
         "3": "C",
         "4": "A"
       },
-      "explanation": "Nối đúng các cặp tương ứng: 1-B: nhân hậu ~ độc ác; 2-D: khỏe mạnh ~ ốm yếu; 3-C: đoàn kết ~ chia rẽ; 4-A: yêu thương ~ căm ghét."
+      "explanation": "Nối đúng các cặp tương ứng: 1-D: yêu thương ~ căm ghét; 2-B: chăm chỉ ~ lười biếng; 3-C: tiết kiệm ~ lãng phí; 4-A: giỏi giang ~ kém cỏi."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -2528,24 +2496,24 @@
       "questionId": "k4_c4_noi_025",
       "question": "Hãy nối từ ở Cột A với từ đồng nghĩa tương ứng ở Cột B:",
       "columnA": {
-        "1": "bao la",
-        "2": "thông minh",
-        "3": "giản dị",
-        "4": "bình yên"
+        "1": "chân thành",
+        "2": "nhân ái",
+        "3": "học tập",
+        "4": "thầy cô"
       },
       "columnB": {
-        "A": "sáng dạ",
-        "B": "thanh bình",
-        "C": "mộc mạc",
-        "D": "mênh mông"
+        "A": "giáo viên",
+        "B": "học hành",
+        "C": "nhân từ",
+        "D": "thật thà"
       },
       "answer": {
         "1": "D",
-        "2": "A",
-        "3": "C",
-        "4": "B"
+        "2": "C",
+        "3": "B",
+        "4": "A"
       },
-      "explanation": "Nối đúng các cặp tương ứng: 1-D: bao la ~ mênh mông; 2-A: thông minh ~ sáng dạ; 3-C: giản dị ~ mộc mạc; 4-B: bình yên ~ thanh bình."
+      "explanation": "Nối đúng các cặp tương ứng: 1-D: chân thành ~ thật thà; 2-C: nhân ái ~ nhân từ; 3-B: học tập ~ học hành; 4-A: thầy cô ~ giáo viên."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -2555,24 +2523,24 @@
       "questionId": "k4_c4_noi_026",
       "question": "Hãy nối từ ở Cột A với từ đồng nghĩa tương ứng ở Cột B:",
       "columnA": {
-        "1": "bao la",
-        "2": "thông minh",
-        "3": "gắn bó",
-        "4": "tổ quốc"
+        "1": "bao dung",
+        "2": "đoàn kết",
+        "3": "tài giỏi",
+        "4": "nhanh nhẹn"
       },
       "columnB": {
-        "A": "keo sơn",
-        "B": "sáng dạ",
-        "C": "giang sơn",
-        "D": "mênh mông"
+        "A": "độ lượng",
+        "B": "đùm bọc",
+        "C": "hoạt bát",
+        "D": "xuất chúng"
       },
       "answer": {
-        "1": "D",
+        "1": "A",
         "2": "B",
-        "3": "A",
+        "3": "D",
         "4": "C"
       },
-      "explanation": "Nối đúng các cặp tương ứng: 1-D: bao la ~ mênh mông; 2-B: thông minh ~ sáng dạ; 3-A: gắn bó ~ keo sơn; 4-C: tổ quốc ~ giang sơn."
+      "explanation": "Nối đúng các cặp tương ứng: 1-A: bao dung ~ độ lượng; 2-B: đoàn kết ~ đùm bọc; 3-D: tài giỏi ~ xuất chúng; 4-C: nhanh nhẹn ~ hoạt bát."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -2582,24 +2550,24 @@
       "questionId": "k4_c4_noi_027",
       "question": "Hãy nối vế ở Cột A với vế tương ứng ở Cột B để tạo thành câu thành ngữ, tục ngữ hoàn chỉnh:",
       "columnA": {
-        "1": "Chị ngã",
-        "2": "Người ta",
-        "3": "Lửa thử vàng",
-        "4": "Cây ngay"
+        "1": "Gừng càng già",
+        "2": "Trâu chậm",
+        "3": "Năng nhặt",
+        "4": "Góp gió"
       },
       "columnB": {
-        "A": "là hoa đất",
-        "B": "không sợ chết đứng",
-        "C": "gian nan thử sức",
-        "D": "em nâng"
+        "A": "thành bão",
+        "B": "uống nước đục",
+        "C": "chặt bị",
+        "D": "càng cay"
       },
       "answer": {
         "1": "D",
-        "2": "A",
+        "2": "B",
         "3": "C",
-        "4": "B"
+        "4": "A"
       },
-      "explanation": "Nối đúng các cặp tương ứng: 1-D: Chị ngã ~ em nâng; 2-A: Người ta ~ là hoa đất; 3-C: Lửa thử vàng ~ gian nan thử sức; 4-B: Cây ngay ~ không sợ chết đứng."
+      "explanation": "Nối đúng các cặp tương ứng: 1-D: Gừng càng già ~ càng cay; 2-B: Trâu chậm ~ uống nước đục; 3-C: Năng nhặt ~ chặt bị; 4-A: Góp gió ~ thành bão."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -2609,24 +2577,24 @@
       "questionId": "k4_c4_noi_028",
       "question": "Hãy nối từ ở Cột A với từ đồng nghĩa tương ứng ở Cột B:",
       "columnA": {
-        "1": "tổ quốc",
-        "2": "giản dị",
-        "3": "bình yên",
-        "4": "bao la"
+        "1": "kiên trì",
+        "2": "quyết tâm",
+        "3": "khéo léo",
+        "4": "rực rỡ"
       },
       "columnB": {
-        "A": "mộc mạc",
-        "B": "giang sơn",
-        "C": "thanh bình",
-        "D": "mênh mông"
+        "A": "kiên định",
+        "B": "khéo tay",
+        "C": "bền bỉ",
+        "D": "tươi thắm"
       },
       "answer": {
-        "1": "B",
+        "1": "C",
         "2": "A",
-        "3": "C",
+        "3": "B",
         "4": "D"
       },
-      "explanation": "Nối đúng các cặp tương ứng: 1-B: tổ quốc ~ giang sơn; 2-A: giản dị ~ mộc mạc; 3-C: bình yên ~ thanh bình; 4-D: bao la ~ mênh mông."
+      "explanation": "Nối đúng các cặp tương ứng: 1-C: kiên trì ~ bền bỉ; 2-A: quyết tâm ~ kiên định; 3-B: khéo léo ~ khéo tay; 4-D: rực rỡ ~ tươi thắm."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -2637,23 +2605,23 @@
       "question": "Hãy nối từ ở Cột A với từ trái nghĩa tương ứng ở Cột B:",
       "columnA": {
         "1": "nhân hậu",
-        "2": "dũng cảm",
-        "3": "khiêm tốn",
-        "4": "đoàn kết"
+        "2": "hòa bình",
+        "3": "thuận lợi",
+        "4": "cao thượng"
       },
       "columnB": {
-        "A": "chia rẽ",
-        "B": "độc ác",
-        "C": "hèn nhát",
-        "D": "kiêu căng"
+        "A": "độc ác",
+        "B": "khó khăn",
+        "C": "chiến tranh",
+        "D": "thấp hèn"
       },
       "answer": {
-        "1": "B",
+        "1": "A",
         "2": "C",
-        "3": "D",
-        "4": "A"
+        "3": "B",
+        "4": "D"
       },
-      "explanation": "Nối đúng các cặp tương ứng: 1-B: nhân hậu ~ độc ác; 2-C: dũng cảm ~ hèn nhát; 3-D: khiêm tốn ~ kiêu căng; 4-A: đoàn kết ~ chia rẽ."
+      "explanation": "Nối đúng các cặp tương ứng: 1-A: nhân hậu ~ độc ác; 2-C: hòa bình ~ chiến tranh; 3-B: thuận lợi ~ khó khăn; 4-D: cao thượng ~ thấp hèn."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -2690,24 +2658,24 @@
       "questionId": "k4_c4_noi_031",
       "question": "Hãy nối vế ở Cột A với vế tương ứng ở Cột B để tạo thành câu thành ngữ, tục ngữ hoàn chỉnh:",
       "columnA": {
-        "1": "Uống nước",
-        "2": "Thuận vợ thuận chồng",
-        "3": "Cây ngay",
-        "4": "Uống nước"
+        "1": "Lọt sàng",
+        "2": "Sông có khúc",
+        "3": "Ở chọn nơi",
+        "4": "Non xanh"
       },
       "columnB": {
-        "A": "không sợ chết đứng",
-        "B": "tát biển Đông cũng cạn",
-        "C": "nhớ nguồn",
-        "D": "nhớ người đào giếng"
+        "A": "xuống nia",
+        "B": "chơi chọn bạn",
+        "C": "người có lúc",
+        "D": "nước biếc"
       },
       "answer": {
-        "1": "D",
-        "2": "B",
-        "3": "A",
-        "4": "C"
+        "1": "A",
+        "2": "C",
+        "3": "B",
+        "4": "D"
       },
-      "explanation": "Nối đúng các cặp tương ứng: 1-D: Uống nước ~ nhớ người đào giếng; 2-B: Thuận vợ thuận chồng ~ tát biển Đông cũng cạn; 3-A: Cây ngay ~ không sợ chết đứng; 4-C: Uống nước ~ nhớ nguồn."
+      "explanation": "Nối đúng các cặp tương ứng: 1-A: Lọt sàng ~ xuống nia; 2-C: Sông có khúc ~ người có lúc; 3-B: Ở chọn nơi ~ chơi chọn bạn; 4-D: Non xanh ~ nước biếc."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -2717,24 +2685,24 @@
       "questionId": "k4_c4_noi_032",
       "question": "Hãy nối vế ở Cột A với vế tương ứng ở Cột B để tạo thành câu thành ngữ, tục ngữ hoàn chỉnh:",
       "columnA": {
-        "1": "Chị ngã",
-        "2": "Có công mài sắt",
-        "3": "Một cây làm chẳng nên non",
-        "4": "Đói cho sạch"
+        "1": "Mưa thuận",
+        "2": "Khoai đất lạ",
+        "3": "Trăng quầng thì hạn",
+        "4": "Chóp đông nhay nháy"
       },
       "columnB": {
-        "A": "em nâng",
-        "B": "rách cho thơm",
-        "C": "ba cây chụm lại nên hòn núi cao",
-        "D": "có ngày nên kim"
+        "A": "trăng tán thì mưa",
+        "B": "gà gáy thì mưa",
+        "C": "gió hòa",
+        "D": "mạ đất quen"
       },
       "answer": {
-        "1": "A",
+        "1": "C",
         "2": "D",
-        "3": "C",
+        "3": "A",
         "4": "B"
       },
-      "explanation": "Nối đúng các cặp tương ứng: 1-A: Chị ngã ~ em nâng; 2-D: Có công mài sắt ~ có ngày nên kim; 3-C: Một cây làm chẳng nên non ~ ba cây chụm lại nên hòn núi cao; 4-B: Đói cho sạch ~ rách cho thơm."
+      "explanation": "Nối đúng các cặp tương ứng: 1-C: Mưa thuận ~ gió hòa; 2-D: Khoai đất lạ ~ mạ đất quen; 3-A: Trăng quầng thì hạn ~ trăng tán thì mưa; 4-B: Chóp đông nhay nháy ~ gà gáy thì mưa."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -2744,24 +2712,24 @@
       "questionId": "k4_c4_noi_033",
       "question": "Hãy nối vế ở Cột A với vế tương ứng ở Cột B để tạo thành câu thành ngữ, tục ngữ hoàn chỉnh:",
       "columnA": {
-        "1": "Tấc đất",
-        "2": "Người ta",
-        "3": "Uống nước",
-        "4": "Lá lành"
+        "1": "Nhất nước nhì phân",
+        "2": "Yêu trẻ trẻ đến nhà",
+        "3": "Trẻ cậy cha",
+        "4": "Tre già"
       },
       "columnB": {
-        "A": "đùm lá rách",
-        "B": "tấc vàng",
-        "C": "nhớ nguồn",
-        "D": "là hoa đất"
+        "A": "kính già già để tuổi cho",
+        "B": "tam cần tứ giống",
+        "C": "măng mọc",
+        "D": "già cậy con"
       },
       "answer": {
         "1": "B",
-        "2": "D",
-        "3": "C",
-        "4": "A"
+        "2": "A",
+        "3": "D",
+        "4": "C"
       },
-      "explanation": "Nối đúng các cặp tương ứng: 1-B: Tấc đất ~ tấc vàng; 2-D: Người ta ~ là hoa đất; 3-C: Uống nước ~ nhớ nguồn; 4-A: Lá lành ~ đùm lá rách."
+      "explanation": "Nối đúng các cặp tương ứng: 1-B: Nhất nước nhì phân ~ tam cần tứ giống; 2-A: Yêu trẻ trẻ đến nhà ~ kính già già để tuổi cho; 3-D: Trẻ cậy cha ~ già cậy con; 4-C: Tre già ~ măng mọc."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -2798,24 +2766,24 @@
       "questionId": "k4_c4_noi_035",
       "question": "Hãy nối từ ở Cột A với từ đồng nghĩa tương ứng ở Cột B:",
       "columnA": {
-        "1": "gắn bó",
-        "2": "bình yên",
-        "3": "thông minh",
-        "4": "giản dị"
+        "1": "siêng năng",
+        "2": "học tập",
+        "3": "yên bình",
+        "4": "tĩnh mịch"
       },
       "columnB": {
-        "A": "keo sơn",
-        "B": "mộc mạc",
-        "C": "sáng dạ",
-        "D": "thanh bình"
+        "A": "yên ắng",
+        "B": "cần mẫn",
+        "C": "êm ả",
+        "D": "học hành"
       },
       "answer": {
-        "1": "A",
+        "1": "B",
         "2": "D",
         "3": "C",
-        "4": "B"
+        "4": "A"
       },
-      "explanation": "Nối đúng các cặp tương ứng: 1-A: gắn bó ~ keo sơn; 2-D: bình yên ~ thanh bình; 3-C: thông minh ~ sáng dạ; 4-B: giản dị ~ mộc mạc."
+      "explanation": "Nối đúng các cặp tương ứng: 1-B: siêng năng ~ cần mẫn; 2-D: học tập ~ học hành; 3-C: yên bình ~ êm ả; 4-A: tĩnh mịch ~ yên ắng."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -2825,24 +2793,24 @@
       "questionId": "k4_c4_noi_036",
       "question": "Hãy nối từ ở Cột A với từ trái nghĩa tương ứng ở Cột B:",
       "columnA": {
-        "1": "dũng cảm",
-        "2": "hòa bình",
-        "3": "khỏe mạnh",
-        "4": "chăm chỉ"
+        "1": "thành công",
+        "2": "thật thà",
+        "3": "nhanh nhẹn",
+        "4": "sáng sủa"
       },
       "columnB": {
-        "A": "chiến tranh",
-        "B": "lười biếng",
-        "C": "hèn nhát",
-        "D": "ốm yếu"
+        "A": "chậm chạp",
+        "B": "tối tăm",
+        "C": "thất bại",
+        "D": "gian dối"
       },
       "answer": {
         "1": "C",
-        "2": "A",
-        "3": "D",
+        "2": "D",
+        "3": "A",
         "4": "B"
       },
-      "explanation": "Nối đúng các cặp tương ứng: 1-C: dũng cảm ~ hèn nhát; 2-A: hòa bình ~ chiến tranh; 3-D: khỏe mạnh ~ ốm yếu; 4-B: chăm chỉ ~ lười biếng."
+      "explanation": "Nối đúng các cặp tương ứng: 1-C: thành công ~ thất bại; 2-D: thật thà ~ gian dối; 3-A: nhanh nhẹn ~ chậm chạp; 4-B: sáng sủa ~ tối tăm."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -2852,24 +2820,24 @@
       "questionId": "k4_c4_noi_037",
       "question": "Hãy nối từ ở Cột A với từ đồng nghĩa tương ứng ở Cột B:",
       "columnA": {
-        "1": "giản dị",
-        "2": "bình yên",
-        "3": "chăm chỉ",
-        "4": "dũng cảm"
+        "1": "thầy cô",
+        "2": "tài giỏi",
+        "3": "to lớn",
+        "4": "nhỏ bé"
       },
       "columnB": {
-        "A": "mộc mạc",
-        "B": "cần cù",
-        "C": "thanh bình",
-        "D": "can đảm"
+        "A": "khổng lồ",
+        "B": "xuất chúng",
+        "C": "tí hon",
+        "D": "giáo viên"
       },
       "answer": {
-        "1": "A",
-        "2": "C",
-        "3": "B",
-        "4": "D"
+        "1": "D",
+        "2": "B",
+        "3": "A",
+        "4": "C"
       },
-      "explanation": "Nối đúng các cặp tương ứng: 1-A: giản dị ~ mộc mạc; 2-C: bình yên ~ thanh bình; 3-B: chăm chỉ ~ cần cù; 4-D: dũng cảm ~ can đảm."
+      "explanation": "Nối đúng các cặp tương ứng: 1-D: thầy cô ~ giáo viên; 2-B: tài giỏi ~ xuất chúng; 3-A: to lớn ~ khổng lồ; 4-C: nhỏ bé ~ tí hon."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -2879,24 +2847,24 @@
       "questionId": "k4_c4_noi_038",
       "question": "Hãy nối từ ở Cột A với từ trái nghĩa tương ứng ở Cột B:",
       "columnA": {
-        "1": "khỏe mạnh",
-        "2": "đoàn kết",
-        "3": "chăm chỉ",
-        "4": "nhân hậu"
+        "1": "cẩn thận",
+        "2": "tiết kiệm",
+        "3": "lạc quan",
+        "4": "hạnh phúc"
       },
       "columnB": {
-        "A": "ốm yếu",
-        "B": "lười biếng",
-        "C": "chia rẽ",
-        "D": "độc ác"
+        "A": "lãng phí",
+        "B": "cẩu thả",
+        "C": "bất hạnh",
+        "D": "bi quan"
       },
       "answer": {
-        "1": "A",
-        "2": "C",
-        "3": "B",
-        "4": "D"
+        "1": "B",
+        "2": "A",
+        "3": "D",
+        "4": "C"
       },
-      "explanation": "Nối đúng các cặp tương ứng: 1-A: khỏe mạnh ~ ốm yếu; 2-C: đoàn kết ~ chia rẽ; 3-B: chăm chỉ ~ lười biếng; 4-D: nhân hậu ~ độc ác."
+      "explanation": "Nối đúng các cặp tương ứng: 1-B: cẩn thận ~ cẩu thả; 2-A: tiết kiệm ~ lãng phí; 3-D: lạc quan ~ bi quan; 4-C: hạnh phúc ~ bất hạnh."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -2906,24 +2874,24 @@
       "questionId": "k4_c4_noi_039",
       "question": "Hãy nối từ ở Cột A với từ trái nghĩa tương ứng ở Cột B:",
       "columnA": {
-        "1": "đoàn kết",
-        "2": "yêu thương",
-        "3": "chăm chỉ",
-        "4": "khỏe mạnh"
+        "1": "giỏi giang",
+        "2": "thuận lợi",
+        "3": "đơn giản",
+        "4": "an toàn"
       },
       "columnB": {
-        "A": "lười biếng",
-        "B": "chia rẽ",
-        "C": "ốm yếu",
-        "D": "căm ghét"
+        "A": "khó khăn",
+        "B": "phức tạp",
+        "C": "nguy hiểm",
+        "D": "kém cỏi"
       },
       "answer": {
-        "1": "B",
-        "2": "D",
-        "3": "A",
+        "1": "D",
+        "2": "A",
+        "3": "B",
         "4": "C"
       },
-      "explanation": "Nối đúng các cặp tương ứng: 1-B: đoàn kết ~ chia rẽ; 2-D: yêu thương ~ căm ghét; 3-A: chăm chỉ ~ lười biếng; 4-C: khỏe mạnh ~ ốm yếu."
+      "explanation": "Nối đúng các cặp tương ứng: 1-D: giỏi giang ~ kém cỏi; 2-A: thuận lợi ~ khó khăn; 3-B: đơn giản ~ phức tạp; 4-C: an toàn ~ nguy hiểm."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -2933,24 +2901,24 @@
       "questionId": "k4_c4_noi_040",
       "question": "Hãy nối vế ở Cột A với vế tương ứng ở Cột B để tạo thành câu thành ngữ, tục ngữ hoàn chỉnh:",
       "columnA": {
-        "1": "Công cha như núi Thái Sơn",
-        "2": "Chớ thấy sóng cả",
-        "3": "Học thầy",
-        "4": "Chị ngã"
+        "1": "Anh em",
+        "2": "Mẹ tròn",
+        "3": "Con hơn cha",
+        "4": "Cha sinh"
       },
       "columnB": {
-        "A": "em nâng",
-        "B": "mà ngã tay chèo",
-        "C": "không tày học bạn",
-        "D": "nghĩa mẹ như nước trong nguồn chảy ra"
+        "A": "con vuông",
+        "B": "là nhà có phúc",
+        "C": "mẹ dưỡng",
+        "D": "như thể tay chân"
       },
       "answer": {
         "1": "D",
-        "2": "B",
-        "3": "C",
-        "4": "A"
+        "2": "A",
+        "3": "B",
+        "4": "C"
       },
-      "explanation": "Nối đúng các cặp tương ứng: 1-D: Công cha như núi Thái Sơn ~ nghĩa mẹ như nước trong nguồn chảy ra; 2-B: Chớ thấy sóng cả ~ mà ngã tay chèo; 3-C: Học thầy ~ không tày học bạn; 4-A: Chị ngã ~ em nâng."
+      "explanation": "Nối đúng các cặp tương ứng: 1-D: Anh em ~ như thể tay chân; 2-A: Mẹ tròn ~ con vuông; 3-B: Con hơn cha ~ là nhà có phúc; 4-C: Cha sinh ~ mẹ dưỡng."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -2960,24 +2928,24 @@
       "questionId": "k4_c4_noi_041",
       "question": "Hãy nối từ ở Cột A với từ đồng nghĩa tương ứng ở Cột B:",
       "columnA": {
-        "1": "tổ quốc",
-        "2": "thông minh",
-        "3": "giản dị",
-        "4": "gắn bó"
+        "1": "nhanh nhẹn",
+        "2": "khéo léo",
+        "3": "vui tươi",
+        "4": "buồn bã"
       },
       "columnB": {
-        "A": "keo sơn",
-        "B": "mộc mạc",
-        "C": "sáng dạ",
-        "D": "giang sơn"
+        "A": "khéo tay",
+        "B": "ủ rũ",
+        "C": "hoạt bát",
+        "D": "hân hoan"
       },
       "answer": {
-        "1": "D",
-        "2": "C",
-        "3": "B",
-        "4": "A"
+        "1": "C",
+        "2": "A",
+        "3": "D",
+        "4": "B"
       },
-      "explanation": "Nối đúng các cặp tương ứng: 1-D: tổ quốc ~ giang sơn; 2-C: thông minh ~ sáng dạ; 3-B: giản dị ~ mộc mạc; 4-A: gắn bó ~ keo sơn."
+      "explanation": "Nối đúng các cặp tương ứng: 1-C: nhanh nhẹn ~ hoạt bát; 2-A: khéo léo ~ khéo tay; 3-D: vui tươi ~ hân hoan; 4-B: buồn bã ~ ủ rũ."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -2987,24 +2955,24 @@
       "questionId": "k4_c4_noi_042",
       "question": "Hãy nối vế ở Cột A với vế tương ứng ở Cột B để tạo thành câu thành ngữ, tục ngữ hoàn chỉnh:",
       "columnA": {
-        "1": "Tấc đất",
-        "2": "Cây ngay",
-        "3": "Công cha như núi Thái Sơn",
-        "4": "Đi một ngày đàng"
+        "1": "Tôn sư",
+        "2": "Nhất tự vi sư",
+        "3": "Ăn vóc",
+        "4": "Học ăn học nói"
       },
       "columnB": {
-        "A": "không sợ chết đứng",
-        "B": "tấc vàng",
-        "C": "nghĩa mẹ như nước trong nguồn chảy ra",
-        "D": "học một sàng khôn"
+        "A": "trọng đạo",
+        "B": "học gói học mở",
+        "C": "học hay",
+        "D": "bán tự vi sư"
       },
       "answer": {
-        "1": "B",
-        "2": "A",
+        "1": "A",
+        "2": "D",
         "3": "C",
-        "4": "D"
+        "4": "B"
       },
-      "explanation": "Nối đúng các cặp tương ứng: 1-B: Tấc đất ~ tấc vàng; 2-A: Cây ngay ~ không sợ chết đứng; 3-C: Công cha như núi Thái Sơn ~ nghĩa mẹ như nước trong nguồn chảy ra; 4-D: Đi một ngày đàng ~ học một sàng khôn."
+      "explanation": "Nối đúng các cặp tương ứng: 1-A: Tôn sư ~ trọng đạo; 2-D: Nhất tự vi sư ~ bán tự vi sư; 3-C: Ăn vóc ~ học hay; 4-B: Học ăn học nói ~ học gói học mở."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -3014,24 +2982,24 @@
       "questionId": "k4_c4_noi_043",
       "question": "Hãy nối từ ở Cột A với từ trái nghĩa tương ứng ở Cột B:",
       "columnA": {
-        "1": "thành công",
-        "2": "chăm chỉ",
-        "3": "nhân hậu",
-        "4": "khiêm tốn"
+        "1": "cao thượng",
+        "2": "nhanh nhẹn",
+        "3": "thủy chung",
+        "4": "thiên vị"
       },
       "columnB": {
-        "A": "độc ác",
-        "B": "kiêu căng",
-        "C": "lười biếng",
-        "D": "thất bại"
+        "A": "thấp hèn",
+        "B": "công bằng",
+        "C": "phản bội",
+        "D": "chậm chạp"
       },
       "answer": {
-        "1": "D",
-        "2": "C",
-        "3": "A",
+        "1": "A",
+        "2": "D",
+        "3": "C",
         "4": "B"
       },
-      "explanation": "Nối đúng các cặp tương ứng: 1-D: thành công ~ thất bại; 2-C: chăm chỉ ~ lười biếng; 3-A: nhân hậu ~ độc ác; 4-B: khiêm tốn ~ kiêu căng."
+      "explanation": "Nối đúng các cặp tương ứng: 1-A: cao thượng ~ thấp hèn; 2-D: nhanh nhẹn ~ chậm chạp; 3-C: thủy chung ~ phản bội; 4-B: thiên vị ~ công bằng."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -3041,24 +3009,24 @@
       "questionId": "k4_c4_noi_044",
       "question": "Hãy nối từ ở Cột A với từ trái nghĩa tương ứng ở Cột B:",
       "columnA": {
-        "1": "khiêm tốn",
-        "2": "đoàn kết",
-        "3": "yêu thương",
-        "4": "khỏe mạnh"
+        "1": "sáng sủa",
+        "2": "lạc quan",
+        "3": "cứng cỏi",
+        "4": "nông cạn"
       },
       "columnB": {
-        "A": "căm ghét",
-        "B": "kiêu căng",
-        "C": "chia rẽ",
-        "D": "ốm yếu"
+        "A": "sâu sắc",
+        "B": "tối tăm",
+        "C": "bi quan",
+        "D": "yếu ớt"
       },
       "answer": {
         "1": "B",
         "2": "C",
-        "3": "A",
-        "4": "D"
+        "3": "D",
+        "4": "A"
       },
-      "explanation": "Nối đúng các cặp tương ứng: 1-B: khiêm tốn ~ kiêu căng; 2-C: đoàn kết ~ chia rẽ; 3-A: yêu thương ~ căm ghét; 4-D: khỏe mạnh ~ ốm yếu."
+      "explanation": "Nối đúng các cặp tương ứng: 1-B: sáng sủa ~ tối tăm; 2-C: lạc quan ~ bi quan; 3-D: cứng cỏi ~ yếu ớt; 4-A: nông cạn ~ sâu sắc."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -3095,24 +3063,24 @@
       "questionId": "k4_c4_noi_046",
       "question": "Hãy nối từ ở Cột A với từ đồng nghĩa tương ứng ở Cột B:",
       "columnA": {
-        "1": "chăm chỉ",
-        "2": "thông minh",
-        "3": "tổ quốc",
-        "4": "gắn bó"
+        "1": "rực rỡ",
+        "2": "yên bình",
+        "3": "ngăn nắp",
+        "4": "tổ quốc"
       },
       "columnB": {
-        "A": "sáng dạ",
-        "B": "cần cù",
-        "C": "keo sơn",
-        "D": "giang sơn"
+        "A": "gọn gàng",
+        "B": "tươi thắm",
+        "C": "giang sơn",
+        "D": "êm ả"
       },
       "answer": {
         "1": "B",
-        "2": "A",
-        "3": "D",
+        "2": "D",
+        "3": "A",
         "4": "C"
       },
-      "explanation": "Nối đúng các cặp tương ứng: 1-B: chăm chỉ ~ cần cù; 2-A: thông minh ~ sáng dạ; 3-D: tổ quốc ~ giang sơn; 4-C: gắn bó ~ keo sơn."
+      "explanation": "Nối đúng các cặp tương ứng: 1-B: rực rỡ ~ tươi thắm; 2-D: yên bình ~ êm ả; 3-A: ngăn nắp ~ gọn gàng; 4-C: tổ quốc ~ giang sơn."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -3122,24 +3090,24 @@
       "questionId": "k4_c4_noi_047",
       "question": "Hãy nối vế ở Cột A với vế tương ứng ở Cột B để tạo thành câu thành ngữ, tục ngữ hoàn chỉnh:",
       "columnA": {
-        "1": "Đói cho sạch",
-        "2": "Đi một ngày đàng",
-        "3": "Chị ngã",
-        "4": "Lá lành"
+        "1": "Kề vai",
+        "2": "Lá rụng",
+        "3": "Yêu nước",
+        "4": "Bốn biển"
       },
       "columnB": {
-        "A": "em nâng",
-        "B": "đùm lá rách",
-        "C": "rách cho thơm",
-        "D": "học một sàng khôn"
+        "A": "một nhà",
+        "B": "sát cánh",
+        "C": "về cội",
+        "D": "thương nòi"
       },
       "answer": {
-        "1": "C",
-        "2": "D",
-        "3": "A",
-        "4": "B"
+        "1": "B",
+        "2": "C",
+        "3": "D",
+        "4": "A"
       },
-      "explanation": "Nối đúng các cặp tương ứng: 1-C: Đói cho sạch ~ rách cho thơm; 2-D: Đi một ngày đàng ~ học một sàng khôn; 3-A: Chị ngã ~ em nâng; 4-B: Lá lành ~ đùm lá rách."
+      "explanation": "Nối đúng các cặp tương ứng: 1-B: Kề vai ~ sát cánh; 2-C: Lá rụng ~ về cội; 3-D: Yêu nước ~ thương nòi; 4-A: Bốn biển ~ một nhà."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -3149,24 +3117,24 @@
       "questionId": "k4_c4_noi_048",
       "question": "Hãy nối vế ở Cột A với vế tương ứng ở Cột B để tạo thành câu thành ngữ, tục ngữ hoàn chỉnh:",
       "columnA": {
-        "1": "Uống nước",
-        "2": "Thương người",
-        "3": "Học thầy",
-        "4": "Gần mực thì đen"
+        "1": "Thua keo này",
+        "2": "Vào sinh",
+        "3": "Mưu cao",
+        "4": "Nước lã"
       },
       "columnB": {
-        "A": "nhớ nguồn",
-        "B": "không tày học bạn",
-        "C": "gần đèn thì sáng",
-        "D": "như thể thương thân"
+        "A": "chẳng bằng chí dày",
+        "B": "ra tử",
+        "C": "bày keo khác",
+        "D": "mà vã nên hồ"
       },
       "answer": {
-        "1": "A",
-        "2": "D",
-        "3": "B",
-        "4": "C"
+        "1": "C",
+        "2": "B",
+        "3": "A",
+        "4": "D"
       },
-      "explanation": "Nối đúng các cặp tương ứng: 1-A: Uống nước ~ nhớ nguồn; 2-D: Thương người ~ như thể thương thân; 3-B: Học thầy ~ không tày học bạn; 4-C: Gần mực thì đen ~ gần đèn thì sáng."
+      "explanation": "Nối đúng các cặp tương ứng: 1-C: Thua keo này ~ bày keo khác; 2-B: Vào sinh ~ ra tử; 3-A: Mưu cao ~ chẳng bằng chí dày; 4-D: Nước lã ~ mà vã nên hồ."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -3203,24 +3171,24 @@
       "questionId": "k4_c4_noi_050",
       "question": "Hãy nối từ ở Cột A với từ đồng nghĩa tương ứng ở Cột B:",
       "columnA": {
-        "1": "thông minh",
-        "2": "bình yên",
-        "3": "dũng cảm",
-        "4": "chăm chỉ"
+        "1": "tĩnh mịch",
+        "2": "to lớn",
+        "3": "bình yên",
+        "4": "giản dị"
       },
       "columnB": {
-        "A": "thanh bình",
-        "B": "cần cù",
-        "C": "sáng dạ",
-        "D": "can đảm"
+        "A": "mộc mạc",
+        "B": "khổng lồ",
+        "C": "thanh bình",
+        "D": "yên ắng"
       },
       "answer": {
-        "1": "C",
-        "2": "A",
-        "3": "D",
-        "4": "B"
+        "1": "D",
+        "2": "B",
+        "3": "C",
+        "4": "A"
       },
-      "explanation": "Nối đúng các cặp tương ứng: 1-C: thông minh ~ sáng dạ; 2-A: bình yên ~ thanh bình; 3-D: dũng cảm ~ can đảm; 4-B: chăm chỉ ~ cần cù."
+      "explanation": "Nối đúng các cặp tương ứng: 1-D: tĩnh mịch ~ yên ắng; 2-B: to lớn ~ khổng lồ; 3-C: bình yên ~ thanh bình; 4-A: giản dị ~ mộc mạc."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -3257,24 +3225,24 @@
       "questionId": "k4_c4_noi_052",
       "question": "Hãy nối từ ở Cột A với từ trái nghĩa tương ứng ở Cột B:",
       "columnA": {
-        "1": "thật thà",
-        "2": "thành công",
-        "3": "dũng cảm",
-        "4": "khỏe mạnh"
+        "1": "hạnh phúc",
+        "2": "đơn giản",
+        "3": "bừa bãi",
+        "4": "ồn ào"
       },
       "columnB": {
-        "A": "thất bại",
-        "B": "hèn nhát",
-        "C": "ốm yếu",
-        "D": "gian dối"
+        "A": "gọn gàng",
+        "B": "phức tạp",
+        "C": "bất hạnh",
+        "D": "yên tĩnh"
       },
       "answer": {
-        "1": "D",
-        "2": "A",
-        "3": "B",
-        "4": "C"
+        "1": "C",
+        "2": "B",
+        "3": "A",
+        "4": "D"
       },
-      "explanation": "Nối đúng các cặp tương ứng: 1-D: thật thà ~ gian dối; 2-A: thành công ~ thất bại; 3-B: dũng cảm ~ hèn nhát; 4-C: khỏe mạnh ~ ốm yếu."
+      "explanation": "Nối đúng các cặp tương ứng: 1-C: hạnh phúc ~ bất hạnh; 2-B: đơn giản ~ phức tạp; 3-A: bừa bãi ~ gọn gàng; 4-D: ồn ào ~ yên tĩnh."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -3284,24 +3252,24 @@
       "questionId": "k4_c4_noi_053",
       "question": "Hãy nối từ ở Cột A với từ đồng nghĩa tương ứng ở Cột B:",
       "columnA": {
-        "1": "bình yên",
-        "2": "bao la",
-        "3": "tổ quốc",
-        "4": "dũng cảm"
+        "1": "nhỏ bé",
+        "2": "vui tươi",
+        "3": "thông minh",
+        "4": "bao la"
       },
       "columnB": {
-        "A": "thanh bình",
-        "B": "giang sơn",
-        "C": "can đảm",
+        "A": "tí hon",
+        "B": "sáng dạ",
+        "C": "hân hoan",
         "D": "mênh mông"
       },
       "answer": {
         "1": "A",
-        "2": "D",
+        "2": "C",
         "3": "B",
-        "4": "C"
+        "4": "D"
       },
-      "explanation": "Nối đúng các cặp tương ứng: 1-A: bình yên ~ thanh bình; 2-D: bao la ~ mênh mông; 3-B: tổ quốc ~ giang sơn; 4-C: dũng cảm ~ can đảm."
+      "explanation": "Nối đúng các cặp tương ứng: 1-A: nhỏ bé ~ tí hon; 2-C: vui tươi ~ hân hoan; 3-B: thông minh ~ sáng dạ; 4-D: bao la ~ mênh mông."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -3311,24 +3279,24 @@
       "questionId": "k4_c4_noi_054",
       "question": "Hãy nối từ ở Cột A với từ trái nghĩa tương ứng ở Cột B:",
       "columnA": {
-        "1": "yêu thương",
-        "2": "đoàn kết",
-        "3": "thật thà",
-        "4": "dũng cảm"
+        "1": "an toàn",
+        "2": "thủy chung",
+        "3": "khéo léo",
+        "4": "tự tin"
       },
       "columnB": {
-        "A": "chia rẽ",
-        "B": "hèn nhát",
-        "C": "gian dối",
-        "D": "căm ghét"
+        "A": "tự ti",
+        "B": "vụng về",
+        "C": "phản bội",
+        "D": "nguy hiểm"
       },
       "answer": {
         "1": "D",
-        "2": "A",
-        "3": "C",
-        "4": "B"
+        "2": "C",
+        "3": "B",
+        "4": "A"
       },
-      "explanation": "Nối đúng các cặp tương ứng: 1-D: yêu thương ~ căm ghét; 2-A: đoàn kết ~ chia rẽ; 3-C: thật thà ~ gian dối; 4-B: dũng cảm ~ hèn nhát."
+      "explanation": "Nối đúng các cặp tương ứng: 1-D: an toàn ~ nguy hiểm; 2-C: thủy chung ~ phản bội; 3-B: khéo léo ~ vụng về; 4-A: tự tin ~ tự ti."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -3338,24 +3306,24 @@
       "questionId": "k4_c4_noi_055",
       "question": "Hãy nối từ ở Cột A với từ trái nghĩa tương ứng ở Cột B:",
       "columnA": {
-        "1": "khiêm tốn",
-        "2": "chăm chỉ",
-        "3": "thật thà",
-        "4": "yêu thương"
+        "1": "thiên vị",
+        "2": "cứng cỏi",
+        "3": "bằng phẳng",
+        "4": "khỏe mạnh"
       },
       "columnB": {
-        "A": "lười biếng",
-        "B": "kiêu căng",
-        "C": "gian dối",
-        "D": "căm ghét"
+        "A": "công bằng",
+        "B": "yếu ớt",
+        "C": "ốm yếu",
+        "D": "gồ ghề"
       },
       "answer": {
-        "1": "B",
-        "2": "A",
-        "3": "C",
-        "4": "D"
+        "1": "A",
+        "2": "B",
+        "3": "D",
+        "4": "C"
       },
-      "explanation": "Nối đúng các cặp tương ứng: 1-B: khiêm tốn ~ kiêu căng; 2-A: chăm chỉ ~ lười biếng; 3-C: thật thà ~ gian dối; 4-D: yêu thương ~ căm ghét."
+      "explanation": "Nối đúng các cặp tương ứng: 1-A: thiên vị ~ công bằng; 2-B: cứng cỏi ~ yếu ớt; 3-D: bằng phẳng ~ gồ ghề; 4-C: khỏe mạnh ~ ốm yếu."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -3365,24 +3333,24 @@
       "questionId": "k4_c4_noi_056",
       "question": "Hãy nối vế ở Cột A với vế tương ứng ở Cột B để tạo thành câu thành ngữ, tục ngữ hoàn chỉnh:",
       "columnA": {
-        "1": "Bầu ơi thương lấy bí cùng",
-        "2": "Uống nước",
-        "3": "Lửa thử vàng",
-        "4": "Người ta"
+        "1": "Ăn ngay",
+        "2": "Vàng thật",
+        "3": "Chết vinh",
+        "4": "Thẳng"
       },
       "columnB": {
-        "A": "nhớ người đào giếng",
-        "B": "gian nan thử sức",
-        "C": "tuy rằng khác giống nhưng chung một giàn",
-        "D": "là hoa đất"
+        "A": "như ruột ngựa",
+        "B": "còn hơn sống nhục",
+        "C": "không sợ lửa",
+        "D": "nói thẳng"
       },
       "answer": {
-        "1": "C",
-        "2": "A",
+        "1": "D",
+        "2": "C",
         "3": "B",
-        "4": "D"
+        "4": "A"
       },
-      "explanation": "Nối đúng các cặp tương ứng: 1-C: Bầu ơi thương lấy bí cùng ~ tuy rằng khác giống nhưng chung một giàn; 2-A: Uống nước ~ nhớ người đào giếng; 3-B: Lửa thử vàng ~ gian nan thử sức; 4-D: Người ta ~ là hoa đất."
+      "explanation": "Nối đúng các cặp tương ứng: 1-D: Ăn ngay ~ nói thẳng; 2-C: Vàng thật ~ không sợ lửa; 3-B: Chết vinh ~ còn hơn sống nhục; 4-A: Thẳng ~ như ruột ngựa."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -3392,24 +3360,24 @@
       "questionId": "k4_c4_noi_057",
       "question": "Hãy nối vế ở Cột A với vế tương ứng ở Cột B để tạo thành câu thành ngữ, tục ngữ hoàn chỉnh:",
       "columnA": {
-        "1": "Đi một ngày đàng",
-        "2": "Tấc đất",
-        "3": "Chị ngã",
-        "4": "Một con ngựa đau"
+        "1": "Nói có sách",
+        "2": "Của thiên",
+        "3": "Của bền",
+        "4": "Cây cao"
       },
       "columnB": {
-        "A": "em nâng",
-        "B": "học một sàng khôn",
-        "C": "tấc vàng",
-        "D": "cả tàu bỏ cỏ"
+        "A": "mách có chứng",
+        "B": "trả địa",
+        "C": "bóng cả",
+        "D": "tại người"
       },
       "answer": {
-        "1": "B",
-        "2": "C",
-        "3": "A",
-        "4": "D"
+        "1": "A",
+        "2": "B",
+        "3": "D",
+        "4": "C"
       },
-      "explanation": "Nối đúng các cặp tương ứng: 1-B: Đi một ngày đàng ~ học một sàng khôn; 2-C: Tấc đất ~ tấc vàng; 3-A: Chị ngã ~ em nâng; 4-D: Một con ngựa đau ~ cả tàu bỏ cỏ."
+      "explanation": "Nối đúng các cặp tương ứng: 1-A: Nói có sách ~ mách có chứng; 2-B: Của thiên ~ trả địa; 3-D: Của bền ~ tại người; 4-C: Cây cao ~ bóng cả."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -3446,24 +3414,24 @@
       "questionId": "k4_c4_noi_059",
       "question": "Hãy nối từ ở Cột A với từ trái nghĩa tương ứng ở Cột B:",
       "columnA": {
-        "1": "dũng cảm",
-        "2": "khỏe mạnh",
-        "3": "khiêm tốn",
-        "4": "hòa bình"
+        "1": "nông cạn",
+        "2": "bừa bãi",
+        "3": "đoàn kết",
+        "4": "khiêm tốn"
       },
       "columnB": {
-        "A": "kiêu căng",
-        "B": "chiến tranh",
-        "C": "hèn nhát",
-        "D": "ốm yếu"
+        "A": "gọn gàng",
+        "B": "chia rẽ",
+        "C": "sâu sắc",
+        "D": "kiêu căng"
       },
       "answer": {
         "1": "C",
-        "2": "D",
-        "3": "A",
-        "4": "B"
+        "2": "A",
+        "3": "B",
+        "4": "D"
       },
-      "explanation": "Nối đúng các cặp tương ứng: 1-C: dũng cảm ~ hèn nhát; 2-D: khỏe mạnh ~ ốm yếu; 3-A: khiêm tốn ~ kiêu căng; 4-B: hòa bình ~ chiến tranh."
+      "explanation": "Nối đúng các cặp tương ứng: 1-C: nông cạn ~ sâu sắc; 2-A: bừa bãi ~ gọn gàng; 3-B: đoàn kết ~ chia rẽ; 4-D: khiêm tốn ~ kiêu căng."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -3473,24 +3441,24 @@
       "questionId": "k4_c4_noi_060",
       "question": "Hãy nối vế ở Cột A với vế tương ứng ở Cột B để tạo thành câu thành ngữ, tục ngữ hoàn chỉnh:",
       "columnA": {
-        "1": "Nhiễu điều phủ lấy giá gương",
-        "2": "Lá lành",
-        "3": "Chim có tổ",
-        "4": "Đói cho sạch"
+        "1": "Quang minh",
+        "2": "Dãi nắng",
+        "3": "Đứng núi này",
+        "4": "Ba chìm"
       },
       "columnB": {
-        "A": "người có tông",
-        "B": "người trong một nước phải thương nhau cùng",
-        "C": "rách cho thơm",
-        "D": "đùm lá rách"
+        "A": "dầm sương",
+        "B": "trông núi nọ",
+        "C": "chính đại",
+        "D": "bảy nổi"
       },
       "answer": {
-        "1": "B",
-        "2": "D",
-        "3": "A",
-        "4": "C"
+        "1": "C",
+        "2": "A",
+        "3": "B",
+        "4": "D"
       },
-      "explanation": "Nối đúng các cặp tương ứng: 1-B: Nhiễu điều phủ lấy giá gương ~ người trong một nước phải thương nhau cùng; 2-D: Lá lành ~ đùm lá rách; 3-A: Chim có tổ ~ người có tông; 4-C: Đói cho sạch ~ rách cho thơm."
+      "explanation": "Nối đúng các cặp tương ứng: 1-C: Quang minh ~ chính đại; 2-A: Dãi nắng ~ dầm sương; 3-B: Đứng núi này ~ trông núi nọ; 4-D: Ba chìm ~ bảy nổi."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -3500,24 +3468,24 @@
       "questionId": "k4_c4_noi_061",
       "question": "Hãy nối vế ở Cột A với vế tương ứng ở Cột B để tạo thành câu thành ngữ, tục ngữ hoàn chỉnh:",
       "columnA": {
-        "1": "Chị ngã",
-        "2": "Công cha như núi Thái Sơn",
-        "3": "Lửa thử vàng",
-        "4": "Uống nước"
+        "1": "Mất bò",
+        "2": "Tiên trách kỉ",
+        "3": "Tránh vỏ dưa",
+        "4": "Thừa gió"
       },
       "columnB": {
-        "A": "em nâng",
-        "B": "nhớ người đào giếng",
-        "C": "nghĩa mẹ như nước trong nguồn chảy ra",
-        "D": "gian nan thử sức"
+        "A": "bẻ măng",
+        "B": "mới lo làm chuồng",
+        "C": "gặp vỏ dừa",
+        "D": "hậu trách nhân"
       },
       "answer": {
-        "1": "A",
-        "2": "C",
-        "3": "D",
-        "4": "B"
+        "1": "B",
+        "2": "D",
+        "3": "C",
+        "4": "A"
       },
-      "explanation": "Nối đúng các cặp tương ứng: 1-A: Chị ngã ~ em nâng; 2-C: Công cha như núi Thái Sơn ~ nghĩa mẹ như nước trong nguồn chảy ra; 3-D: Lửa thử vàng ~ gian nan thử sức; 4-B: Uống nước ~ nhớ người đào giếng."
+      "explanation": "Nối đúng các cặp tương ứng: 1-B: Mất bò ~ mới lo làm chuồng; 2-D: Tiên trách kỉ ~ hậu trách nhân; 3-C: Tránh vỏ dưa ~ gặp vỏ dừa; 4-A: Thừa gió ~ bẻ măng."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -3527,24 +3495,24 @@
       "questionId": "k4_c4_noi_062",
       "question": "Hãy nối từ ở Cột A với từ trái nghĩa tương ứng ở Cột B:",
       "columnA": {
-        "1": "đoàn kết",
-        "2": "khiêm tốn",
-        "3": "hòa bình",
-        "4": "khỏe mạnh"
+        "1": "ồn ào",
+        "2": "khéo léo",
+        "3": "dũng cảm",
+        "4": "yêu thương"
       },
       "columnB": {
-        "A": "chiến tranh",
-        "B": "kiêu căng",
-        "C": "ốm yếu",
-        "D": "chia rẽ"
+        "A": "căm ghét",
+        "B": "yên tĩnh",
+        "C": "hèn nhát",
+        "D": "vụng về"
       },
       "answer": {
-        "1": "D",
-        "2": "B",
-        "3": "A",
-        "4": "C"
+        "1": "B",
+        "2": "D",
+        "3": "C",
+        "4": "A"
       },
-      "explanation": "Nối đúng các cặp tương ứng: 1-D: đoàn kết ~ chia rẽ; 2-B: khiêm tốn ~ kiêu căng; 3-A: hòa bình ~ chiến tranh; 4-C: khỏe mạnh ~ ốm yếu."
+      "explanation": "Nối đúng các cặp tương ứng: 1-B: ồn ào ~ yên tĩnh; 2-D: khéo léo ~ vụng về; 3-C: dũng cảm ~ hèn nhát; 4-A: yêu thương ~ căm ghét."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -3554,24 +3522,24 @@
       "questionId": "k4_c4_noi_063",
       "question": "Hãy nối từ ở Cột A với từ đồng nghĩa tương ứng ở Cột B:",
       "columnA": {
-        "1": "chăm chỉ",
-        "2": "dũng cảm",
-        "3": "tổ quốc",
-        "4": "gắn bó"
+        "1": "buồn bã",
+        "2": "ngăn nắp",
+        "3": "chăm chỉ",
+        "4": "dũng cảm"
       },
       "columnB": {
         "A": "cần cù",
-        "B": "keo sơn",
-        "C": "can đảm",
-        "D": "giang sơn"
+        "B": "can đảm",
+        "C": "ủ rũ",
+        "D": "gọn gàng"
       },
       "answer": {
-        "1": "A",
-        "2": "C",
-        "3": "D",
+        "1": "C",
+        "2": "D",
+        "3": "A",
         "4": "B"
       },
-      "explanation": "Nối đúng các cặp tương ứng: 1-A: chăm chỉ ~ cần cù; 2-C: dũng cảm ~ can đảm; 3-D: tổ quốc ~ giang sơn; 4-B: gắn bó ~ keo sơn."
+      "explanation": "Nối đúng các cặp tương ứng: 1-C: buồn bã ~ ủ rũ; 2-D: ngăn nắp ~ gọn gàng; 3-A: chăm chỉ ~ cần cù; 4-B: dũng cảm ~ can đảm."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -3581,24 +3549,24 @@
       "questionId": "k4_c4_noi_064",
       "question": "Hãy nối từ ở Cột A với từ trái nghĩa tương ứng ở Cột B:",
       "columnA": {
-        "1": "khiêm tốn",
-        "2": "yêu thương",
+        "1": "tự tin",
+        "2": "bằng phẳng",
         "3": "chăm chỉ",
-        "4": "dũng cảm"
+        "4": "nhân hậu"
       },
       "columnB": {
-        "A": "kiêu căng",
-        "B": "căm ghét",
-        "C": "hèn nhát",
-        "D": "lười biếng"
+        "A": "lười biếng",
+        "B": "gồ ghề",
+        "C": "độc ác",
+        "D": "tự ti"
       },
       "answer": {
-        "1": "A",
+        "1": "D",
         "2": "B",
-        "3": "D",
+        "3": "A",
         "4": "C"
       },
-      "explanation": "Nối đúng các cặp tương ứng: 1-A: khiêm tốn ~ kiêu căng; 2-B: yêu thương ~ căm ghét; 3-D: chăm chỉ ~ lười biếng; 4-C: dũng cảm ~ hèn nhát."
+      "explanation": "Nối đúng các cặp tương ứng: 1-D: tự tin ~ tự ti; 2-B: bằng phẳng ~ gồ ghề; 3-A: chăm chỉ ~ lười biếng; 4-C: nhân hậu ~ độc ác."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -3608,24 +3576,24 @@
       "questionId": "k4_c4_noi_065",
       "question": "Hãy nối vế ở Cột A với vế tương ứng ở Cột B để tạo thành câu thành ngữ, tục ngữ hoàn chỉnh:",
       "columnA": {
-        "1": "Lửa thử vàng",
-        "2": "Đói cho sạch",
-        "3": "Gần mực thì đen",
-        "4": "Một con ngựa đau"
+        "1": "Ăn chắc",
+        "2": "Chung lưng",
+        "3": "Đầu xuôi",
+        "4": "Môi hở"
       },
       "columnB": {
-        "A": "cả tàu bỏ cỏ",
-        "B": "gian nan thử sức",
-        "C": "rách cho thơm",
-        "D": "gần đèn thì sáng"
+        "A": "đuôi lọt",
+        "B": "đấu sức",
+        "C": "răng lạnh",
+        "D": "mặc bền"
       },
       "answer": {
-        "1": "B",
-        "2": "C",
-        "3": "D",
-        "4": "A"
+        "1": "D",
+        "2": "B",
+        "3": "A",
+        "4": "C"
       },
-      "explanation": "Nối đúng các cặp tương ứng: 1-B: Lửa thử vàng ~ gian nan thử sức; 2-C: Đói cho sạch ~ rách cho thơm; 3-D: Gần mực thì đen ~ gần đèn thì sáng; 4-A: Một con ngựa đau ~ cả tàu bỏ cỏ."
+      "explanation": "Nối đúng các cặp tương ứng: 1-D: Ăn chắc ~ mặc bền; 2-B: Chung lưng ~ đấu sức; 3-A: Đầu xuôi ~ đuôi lọt; 4-C: Môi hở ~ răng lạnh."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -3779,10 +3747,10 @@
       "level": "CAP_4_VONG_TINH",
       "type": "DT",
       "questionId": "k4_c4_dt_002",
-      "question": "Chọn từ thích hợp điền vào chỗ trống: \"Nhiễu điều phủ lấy giá gương / Người trong một nước phải thương nhau (...)\"",
-      "answer": "cùng",
-      "blankAnswer": "cùng",
-      "explanation": "Thành ngữ, tục ngữ chuẩn trong tài liệu ôn tập: 'Nhiễu điều phủ lấy giá gương / Người trong một nước phải thương nhau cùng'."
+      "question": "Chọn từ thích hợp điền vào chỗ trống: \"Thắng không kiêu, bại không (...)\"",
+      "answer": "nản",
+      "blankAnswer": "nản",
+      "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Thắng không kiêu, bại không nản\". Khuyên con người khi thành công không được kiêu ngạo, khi thất bại không được nản chí."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -3801,10 +3769,10 @@
       "level": "CAP_4_VONG_TINH",
       "type": "DT",
       "questionId": "k4_c4_dt_004",
-      "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Lửa thử vàng gian nan (...)\"",
-      "blankAnswer": "thử sức",
-      "answer": "thử sức",
-      "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Lửa thử vàng gian nan thử sức\". Khó khăn thử thách là thước đo lòng kiên định và bản lĩnh con người."
+      "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Thất bại là mẹ (...)\"",
+      "blankAnswer": "thành công",
+      "answer": "thành công",
+      "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Thất bại là mẹ thành công\". Mỗi lần vấp ngã là một bài học quý báu giúp con người rèn luyện để vươn tới thành công."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -3834,10 +3802,10 @@
       "level": "CAP_4_VONG_TINH",
       "type": "DT",
       "questionId": "k4_c4_dt_007",
-      "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Bầu ơi (...) lấy bí cùng, tuy rằng khác giống nhưng chung một giàn\"",
-      "blankAnswer": "thương",
-      "answer": "thương",
-      "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Bầu ơi thương lấy bí cùng, tuy rằng khác giống nhưng chung một giàn\". Dù xuất thân khác nhau nhưng cùng chung sống một đất nước thì phải thương yêu nhau."
+      "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Chân cứng đá (...)\"",
+      "blankAnswer": "mềm",
+      "answer": "mềm",
+      "explanation": "Câu thành ngữ hoàn chỉnh là: \"Chân cứng đá mềm\". Chúc hoặc ca ngợi sự vững vàng, kiên cường vượt qua mọi khó khăn, thử thách."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -3856,10 +3824,10 @@
       "level": "CAP_4_VONG_TINH",
       "type": "DT",
       "questionId": "k4_c4_dt_009",
-      "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Ăn ngay nói (...) mọi tật mọi lành\"",
-      "blankAnswer": "thật",
-      "answer": "thật",
-      "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Ăn ngay nói thật mọi tật mọi lành\". Sống chân thành, trung thực thì tâm hồn luôn thanh thản và bình an."
+      "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Nước chảy đá (...)\"",
+      "blankAnswer": "mòn",
+      "answer": "mòn",
+      "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Nước chảy đá mòn\". Kiên trì, nhẫn nại từng chút một thì việc khó khăn đến mấy cuối cùng cũng đạt kết quả."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -3867,10 +3835,10 @@
       "level": "CAP_4_VONG_TINH",
       "type": "DT",
       "questionId": "k4_c4_dt_010",
-      "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Cây (...) không sợ chết đứng\"",
-      "blankAnswer": "ngay",
-      "answer": "ngay",
-      "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Cây ngay không sợ chết đứng\". Người sống ngay thẳng, thật thà thì không sợ bất kì lời vu khống hay thử thách nào."
+      "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Kiến tha lâu cũng đầy (...)\"",
+      "blankAnswer": "tổ",
+      "answer": "tổ",
+      "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Kiến tha lâu cũng đầy tổ\". Cần cù, chăm chỉ tích lũy từng ngày sẽ thu được thành quả to lớn."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -3911,10 +3879,10 @@
       "level": "CAP_4_VONG_TINH",
       "type": "DT",
       "questionId": "k4_c4_dt_014",
-      "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Thuận vợ thuận chồng tát (...) cũng cạn\"",
-      "blankAnswer": "biển Đông",
-      "answer": "biển Đông",
-      "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Thuận vợ thuận chồng tát biển Đông cũng cạn\". Sự đồng lòng, hòa thuận trong gia đình giúp vượt qua mọi gian khó."
+      "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Cày sâu cuốc (...)\"",
+      "blankAnswer": "bẫm",
+      "answer": "bẫm",
+      "explanation": "Câu thành ngữ hoàn chỉnh là: \"Cày sâu cuốc bẫm\". Chỉ sự lao động cần cù, chăm chỉ, kỹ lưỡng trong nghề nông."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -3933,10 +3901,10 @@
       "level": "CAP_4_VONG_TINH",
       "type": "DT",
       "questionId": "k4_c4_dt_016",
-      "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Có công (...) sắt có ngày nên kim\"",
-      "blankAnswer": "mài",
-      "answer": "mài",
-      "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Có công mài sắt có ngày nên kim\". Chỉ cần kiên trì, nỗ lực và nhẫn nại thì việc khó khăn đến mấy cũng sẽ thành công."
+      "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Tay làm hàm nhai, tay quai miệng (...)\"",
+      "blankAnswer": "trễ",
+      "answer": "trễ",
+      "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Tay làm hàm nhai, tay quai miệng trễ\". Có chăm chỉ lao động thì mới có cái ăn, lười biếng thì sẽ bị đói nghèo."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -3944,10 +3912,10 @@
       "level": "CAP_4_VONG_TINH",
       "type": "DT",
       "questionId": "k4_c4_dt_017",
-      "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"(...) đất tấc vàng\"",
-      "blankAnswer": "Tấc",
-      "answer": "Tấc",
-      "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Tấc đất tấc vàng\". Mỗi tấc đất đều vô cùng quý giá như vàng vì đem lại nguồn sống cho con người."
+      "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Ăn kĩ no lâu, cày sâu tốt (...)\"",
+      "blankAnswer": "lúa",
+      "answer": "lúa",
+      "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Ăn kĩ no lâu, cày sâu tốt lúa\". Đúc kết kinh nghiệm sinh hoạt và sản xuất nông nghiệp của nhân dân ta."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -3966,10 +3934,10 @@
       "level": "CAP_4_VONG_TINH",
       "type": "DT",
       "questionId": "k4_c4_dt_019",
-      "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Lời nói (...) mất tiền mua, lựa lời mà nói cho vừa lòng nhau\"",
-      "blankAnswer": "chẳng",
-      "answer": "chẳng",
-      "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Lời nói chẳng mất tiền mua, lựa lời mà nói cho vừa lòng nhau\". Khi giao tiếp cần ăn nói lịch thiệp, nhã nhặn và tế nhị."
+      "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Nắng tốt dưa, mưa tốt (...)\"",
+      "blankAnswer": "lúa",
+      "answer": "lúa",
+      "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Nắng tốt dưa, mưa tốt lúa\". Đúc kết kinh nghiệm thời tiết thuận lợi cho từng loại cây trồng."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -3977,10 +3945,10 @@
       "level": "CAP_4_VONG_TINH",
       "type": "DT",
       "questionId": "k4_c4_dt_020",
-      "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Chim có tổ người có (...)\"",
-      "blankAnswer": "tông",
-      "answer": "tông",
-      "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Chim có tổ người có tông\". Mỗi con người đều có tổ tiên, cội nguồn giống như loài chim có tổ để về."
+      "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Đêm tháng năm chưa nằm đã (...)\"",
+      "blankAnswer": "sáng",
+      "answer": "sáng",
+      "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Đêm tháng năm chưa nằm đã sáng, ngày tháng mười chưa cười đã tối\". Hiện tượng ngày dài đêm ngắn vào mùa hạ ở nước ta."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -3988,10 +3956,10 @@
       "level": "CAP_4_VONG_TINH",
       "type": "DT",
       "questionId": "k4_c4_dt_021",
-      "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Một cây làm chẳng nên non, ba cây chụm lại nên hòn (...)\"",
-      "blankAnswer": "núi cao",
-      "answer": "núi cao",
-      "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao\". Một người lẻ loi khó làm việc lớn, nhưng khi đoàn kết lại sẽ tạo nên sức mạnh vô địch."
+      "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Rừng vàng biển (...)\"",
+      "blankAnswer": "bạc",
+      "answer": "bạc",
+      "explanation": "Câu thành ngữ hoàn chỉnh là: \"Rừng vàng biển bạc\". Ca ngợi tài nguyên thiên nhiên phong phú, giàu đẹp của đất nước."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -4010,10 +3978,10 @@
       "level": "CAP_4_VONG_TINH",
       "type": "DT",
       "questionId": "k4_c4_dt_023",
-      "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Đi một (...) đàng học một sàng khôn\"",
-      "blankAnswer": "ngày",
-      "answer": "ngày",
-      "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Đi một ngày đàng học một sàng khôn\". Càng đi nhiều nơi, trải nghiệm thực tế ta càng tích lũy được nhiều hiểu biết, trí tuệ."
+      "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Bán mặt cho đất, bán lưng cho (...)\"",
+      "blankAnswer": "trời",
+      "answer": "trời",
+      "explanation": "Câu thành ngữ hoàn chỉnh là: \"Bán mặt cho đất, bán lưng cho trời\". Diễn tả nỗi vất vả, dãi dầu mưa nắng của người nông dân trên đồng ruộng."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -4021,10 +3989,10 @@
       "level": "CAP_4_VONG_TINH",
       "type": "DT",
       "questionId": "k4_c4_dt_024",
-      "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Thương người như thể (...)\"",
-      "blankAnswer": "thương thân",
-      "answer": "thương thân",
-      "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Thương người như thể thương thân\". Yêu thương người khác như yêu quý chính bản thân mình."
+      "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Đồng cam cộng (...)\"",
+      "blankAnswer": "khổ",
+      "answer": "khổ",
+      "explanation": "Câu thành ngữ hoàn chỉnh là: \"Đồng cam cộng khổ\". Cùng nhau chia ngọt sẻ bùi, đồng lòng vượt qua gian truân, hoạn nạn."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -4043,10 +4011,10 @@
       "level": "CAP_4_VONG_TINH",
       "type": "DT",
       "questionId": "k4_c4_dt_026",
-      "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Lá lành (...) lá rách\"",
-      "blankAnswer": "đùm",
-      "answer": "đùm",
-      "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Lá lành đùm lá rách\". Khuyên con người phải biết đùm bọc, giúp đỡ lẫn nhau khi gặp hoạn nạn, khó khăn."
+      "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Chia ngọt sẻ (...)\"",
+      "blankAnswer": "bùi",
+      "answer": "bùi",
+      "explanation": "Câu thành ngữ hoàn chỉnh là: \"Chia ngọt sẻ bùi\". Cùng san sẻ với nhau những niềm vui, nỗi buồn và sự no ấm."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -4054,10 +4022,10 @@
       "level": "CAP_4_VONG_TINH",
       "type": "DT",
       "questionId": "k4_c4_dt_027",
-      "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Người ta là (...)\"",
-      "blankAnswer": "hoa đất",
-      "answer": "hoa đất",
-      "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Người ta là hoa đất\". Ca ngợi con người là tinh hoa quý báu nhất của vũ trụ và mặt đất."
+      "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Nhường cơm sẻ (...)\"",
+      "blankAnswer": "áo",
+      "answer": "áo",
+      "explanation": "Câu thành ngữ hoàn chỉnh là: \"Nhường cơm sẻ áo\". Giúp đỡ, đùm bọc người hoạn nạn bằng tấm lòng nhân ái, thơm thảo."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -4065,10 +4033,10 @@
       "level": "CAP_4_VONG_TINH",
       "type": "DT",
       "questionId": "k4_c4_dt_028",
-      "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Chớ thấy sóng cả mà ngã tay (...)\"",
-      "blankAnswer": "chèo",
-      "answer": "chèo",
-      "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Chớ thấy sóng cả mà ngã tay chèo\". Đừng vì thấy khó khăn, nguy nan mà nản lòng, buông xuôi ý chí."
+      "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Một miếng khi đói bằng một gói khi (...)\"",
+      "blankAnswer": "no",
+      "answer": "no",
+      "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Một miếng khi đói bằng một gói khi no\". Sự giúp đỡ nhau lúc khó khăn, hoạn nạn vô cùng quý báu."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -4076,10 +4044,10 @@
       "level": "CAP_4_VONG_TINH",
       "type": "DT",
       "questionId": "k4_c4_dt_029",
-      "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Học thầy không tày học (...)\"",
-      "blankAnswer": "bạn",
-      "answer": "bạn",
-      "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Học thầy không tày học bạn\". Nhấn mạnh vai trò to lớn của việc học hỏi từ bạn bè xung quanh."
+      "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Bán anh em xa, mua láng giềng (...)\"",
+      "blankAnswer": "gần",
+      "answer": "gần",
+      "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Bán anh em xa, mua láng giềng gần\". Nhắc nhở coi trọng tình làng nghĩa xóm tối lửa tắt đèn có nhau."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -4087,10 +4055,10 @@
       "level": "CAP_4_VONG_TINH",
       "type": "DT",
       "questionId": "k4_c4_dt_030",
-      "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Công cha như núi (...), nghĩa mẹ như nước trong nguồn chảy ra\"",
-      "blankAnswer": "Thái Sơn",
-      "answer": "Thái Sơn",
-      "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Công cha như núi Thái Sơn, nghĩa mẹ như nước trong nguồn chảy ra\". Công ơn sinh thành dưỡng dục của cha mẹ to lớn vô bờ bến không gì sánh bằng."
+      "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Một điều nhịn, chín điều (...)\"",
+      "blankAnswer": "lành",
+      "answer": "lành",
+      "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Một điều nhịn, chín điều lành\". Khuyên con người biết nhẫn nhịn, ôn hòa để giữ gìn mối quan hệ êm ấm."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -4098,10 +4066,10 @@
       "level": "CAP_4_VONG_TINH",
       "type": "DT",
       "questionId": "k4_c4_dt_031",
-      "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Một con ngựa đau cả tàu (...)\"",
-      "blankAnswer": "bỏ cỏ",
-      "answer": "bỏ cỏ",
-      "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Một con ngựa đau cả tàu bỏ cỏ\". Khi một cá nhân gặp nạn, toàn thể tập thể đều chia sẻ nỗi buồn và tương trợ."
+      "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Học một biết (...)\"",
+      "blankAnswer": "mười",
+      "answer": "mười",
+      "explanation": "Câu thành ngữ hoàn chỉnh là: \"Học một biết mười\". Khen ngợi người thông minh, sáng dạ, có khả năng tư duy và liên hệ tốt."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -4109,10 +4077,10 @@
       "level": "CAP_4_VONG_TINH",
       "type": "DT",
       "questionId": "k4_c4_dt_032",
-      "question": "Uống nước nhớ ___?",
-      "blankAnswer": "nguồn",
-      "answer": "nguồn",
-      "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Uống nước nhớ nguồn\"."
+      "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Không thầy đố mày làm (...)\"",
+      "blankAnswer": "nên",
+      "answer": "nên",
+      "explanation": "Câu tục ngữ hoàn chỉnh là: \"Không thầy đố mày làm nên\". Khuyên răn học trò phải luôn tôn kính và biết ơn công lao dạy dỗ của người thầy."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -4142,10 +4110,10 @@
       "level": "CAP_4_VONG_TINH",
       "type": "DT",
       "questionId": "k4_c4_dt_035",
-      "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Chị ngã em (...)\"",
-      "blankAnswer": "nâng",
-      "answer": "nâng",
-      "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Chị ngã em nâng\". Anh chị em trong một nhà phải biết nâng đỡ, thương yêu, che chở cho nhau."
+      "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Tiên học lễ, hậu học (...)\"",
+      "blankAnswer": "văn",
+      "answer": "văn",
+      "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Tiên học lễ, hậu học văn\". Trước hết phải rèn luyện đạo đức, lễ nghĩa, sau đó mới học tri thức, chữ nghĩa."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -4153,10 +4121,10 @@
       "level": "CAP_4_VONG_TINH",
       "type": "DT",
       "questionId": "k4_c4_dt_037",
-      "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"(...) mực thì đen gần đèn thì sáng\"",
-      "blankAnswer": "Gần",
-      "answer": "Gần",
-      "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Gần mực thì đen gần đèn thì sáng\". Ở gần người tốt sẽ học được điều hay, ở gần người xấu dễ bị lây thói hư tật xấu."
+      "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Con có cha như nhà có (...)\"",
+      "blankAnswer": "nóc",
+      "answer": "nóc",
+      "explanation": "Câu tục ngữ hoàn chỉnh là: \"Con có cha như nhà có nóc\". Người cha là chỗ dựa vững chãi, chỉ bảo và chở che cho con cái trong gia đình."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -4175,10 +4143,10 @@
       "level": "CAP_4_VONG_TINH",
       "type": "DT",
       "questionId": "k4_c4_dt_039",
-      "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"(...) cho sạch rách cho thơm\"",
-      "blankAnswer": "Đói",
-      "answer": "Đói",
-      "explanation": "Câu thành ngữ, tục ngữ hoàn chỉnh là: \"Đói cho sạch rách cho thơm\". Dù trong hoàn cảnh thiếu thốn bần hàn vẫn phải giữ gìn nhân cách và danh dự trong sạch."
+      "question": "Điền từ thích hợp vào chỗ trống để hoàn thành câu thành ngữ, tục ngữ: \"Kính trên nhường (...)\"",
+      "blankAnswer": "dưới",
+      "answer": "dưới",
+      "explanation": "Câu thành ngữ hoàn chỉnh là: \"Kính trên nhường dưới\". Đạo lý cư xử kính trọng người lớn tuổi và thương yêu, nhường nhịn người nhỏ tuổi."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -7765,15 +7733,15 @@
       "level": "CAP_4_VONG_TINH",
       "type": "TN",
       "questionId": "k4_c4_tn_217",
-      "question": "Trong tình huống một bạn kiên trì luyện chữ mỗi ngày, câu nào gửi gắm bài học phù hợp?",
+      "question": "Trong tình huống một bạn học sinh luôn kiên trì, không nản lòng trước những bài toán khó, câu tục ngữ nào gửi gắm lời động viên phù hợp nhất?",
       "options": {
-        "A": "Có công mài sắt, có ngày nên kim",
-        "B": "Cơn đằng Đông vừa trông vừa chạy, cơn đằng Nam vừa làm vừa chơi",
-        "C": "Đi cho biết đó biết đây, ở nhà với mẹ biết ngày nào khôn",
-        "D": "Vô sư vô sách"
+        "A": "Có chí thì nên",
+        "B": "Nước đổ đầu vịt",
+        "C": "Đứng núi này trông núi nọ",
+        "D": "Há miệng chờ sung"
       },
       "answer": "A",
-      "explanation": "“Có công mài sắt, có ngày nên kim” phù hợp vì Kiên trì rèn luyện sẽ đạt được kết quả."
+      "explanation": "“Có chí thì nên” phù hợp vì khuyên con người cần có ý chí, nghị lực, quyết tâm vượt khó thì mọi việc ắt sẽ thành công."
     },
     {
       "contest": "Trạng Nguyên Tiếng Việt",
@@ -8533,7 +8501,6 @@
       "blankAnswer": " sát",
       "explanation": "Từ cần điền là từ \"sát\"."
     },
-    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_4",
@@ -8864,7 +8831,6 @@
       "answer": "Bộ đội khẩn trương gia cố bờ kè ven sông trước mùa mưa bão.",
       "explanation": "Trật tự đúng tạo thành câu: “Bộ đội khẩn trương gia cố bờ kè ven sông trước mùa mưa bão.”"
     },
-    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_4",
@@ -8881,7 +8847,6 @@
       "answer": "Các bạn học sinh tích cực quyên góp áo ấm và sách vở cho trẻ em vùng khó.",
       "explanation": "Trật tự đúng tạo thành câu: “Các bạn học sinh tích cực quyên góp áo ấm và sách vở cho trẻ em vùng khó.”"
     },
-   
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_4",
@@ -8930,7 +8895,6 @@
       "answer": "Các ngư dân cùng nhau làm sạch bãi biển quê nhà sau cơn bão lớn.",
       "explanation": "Trật tự đúng tạo thành câu: “Các ngư dân cùng nhau làm sạch bãi biển quê nhà sau cơn bão lớn.”"
     },
-    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_4",
@@ -8963,9 +8927,6 @@
       "answer": "Mỗi dịp cuối tuần, đoàn viên thanh niên cẩn thận phục chế những hiện vật cũ trong phòng trưng bày.",
       "explanation": "Trật tự đúng tạo thành câu: “Mỗi dịp cuối tuần, đoàn viên thanh niên cẩn thận phục chế những hiện vật cũ trong phòng trưng bày.”"
     },
-   
-    
-    
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_4",
@@ -10692,7 +10653,6 @@
       "answer": "A",
       "explanation": "Để nguyên 'đôi' chỉ một cặp; thêm sắc thành 'đối' (cân xứng, đối ứng); thêm nặng thành 'đội' (đội mũ trên đầu); thêm huyền thành quả 'đồi' xanh mát."
     },
-
     {
       "contest": "Trạng Nguyên Tiếng Việt",
       "grade": "KHOI_4",
@@ -15633,24 +15593,7 @@
         "B": "Cái quạt",
         "C": "Chiếc bàn",
         "D": "Cái chai"
-      }
-      {
-      "contest": "Trạng Nguyên Tiếng Việt",
-      "grade": "KHOI_5",
-      "level": "CAP_4_VONG_TINH",
-      "type": "TN",
-      "questionId": "k5_c4_tn_670",
-      "question": "Người được mệnh danh là Bố Cái Đại Vương là ai?",
-      "options": {
-        "A": "Lý Nhân Tông",
-        "B": "Phùng Hưng",
-        "C": "Phùng Khắc Khoan",
-        "D": "Lý Thánh Tông"
       },
-      "answer": "B",
-      "explanation": "Bố Cái Đại Vương là tôn hiệu (tên gọi tôn kính) của Phùng Hưng (thế kỷ VIII), thủ lĩnh cuộc khởi nghĩa chống ách đô hộ nhà Đường.",
-      "id": "k5_c4_tn_1841"
-    },
       "answer": "D",
       "explanation": "Cái chai nước có phần thon nhỏ ở miệng gọi là 'cổ chai', nhưng nó không có đầu."
     }
